@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T091928Z" creationid="urakata" creationdate="20190331T083211Z">
-        <seg>シエルゾCierzoの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
+        <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +130,94 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
         <seg>装備は使うと耐久力を失い、壊れていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Berg_BK_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141904Z" creationid="urakata" creationdate="20190331T141904Z">
+        <seg>Errand_Berg_BK_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Berg_BK_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141905Z" creationid="urakata" creationdate="20190331T141905Z">
+        <seg>Errand_Berg_BK_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Berg_BK_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142118Z" creationid="urakata" creationdate="20190331T142118Z">
+        <seg>Errand_Berg_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Cierzo_BK_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141852Z" creationid="urakata" creationdate="20190331T141852Z">
+        <seg>Errand_Cierzo_BK_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Cierzo_BK_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141856Z" creationid="urakata" creationdate="20190331T141856Z">
+        <seg>Errand_Cierzo_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Levant_BK_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141857Z" creationid="urakata" creationdate="20190331T141857Z">
+        <seg>Errand_Levant_BK_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Levant_BK_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141858Z" creationid="urakata" creationdate="20190331T141858Z">
+        <seg>Errand_Levant_BK_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Levant_BK_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141900Z" creationid="urakata" creationdate="20190331T141900Z">
+        <seg>Errand_Levant_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Monsoon_BK_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141901Z" creationid="urakata" creationdate="20190331T141901Z">
+        <seg>Errand_Monsoon_BK_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Monsoon_BK_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141902Z" creationid="urakata" creationdate="20190331T141902Z">
+        <seg>Errand_Monsoon_BK_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Monsoon_BK_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141903Z" creationid="urakata" creationdate="20190331T141903Z">
+        <seg>Errand_Monsoon_BK_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -610,6 +698,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
         <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T141910Z" creationid="urakata" creationdate="20190331T141910Z">
+        <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
       </tuv>
     </tu>
     <tu>
