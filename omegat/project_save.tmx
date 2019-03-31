@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T110921Z" creationid="setom" creationdate="20190331T110921Z">
+        <seg>防御は近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091928Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>シエルゾCierzoの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eat food, drink water and sleep in a tent or inn to satisfy them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T110812Z" creationid="setom" creationdate="20190331T110812Z">
+        <seg>飲食、そしてテントや宿屋で寝ることで欲求を満たせ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inns will take care of all your needs for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
+        <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shields can block arrows and the like, but you cannot block magical blasts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111608Z" creationid="setom" creationdate="20190331T111608Z">
+        <seg>盾で矢やそれに近いものを防御できるが、マジックブラストは防げない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091915Z" creationid="urakata" creationdate="20190331T091915Z">
@@ -98,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You receive penalties if your needs are not met.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
+        <seg>欲求が満たせなければ、ペナルティを受けることになる。</seg>
       </tuv>
     </tu>
     <tu>
