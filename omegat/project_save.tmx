@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Bows are the most basic way to make ranged attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112453Z" creationid="setom" creationdate="20190331T112453Z">
-        <seg>遠距離攻撃に弓は最も基本的な手段だ。ズームして遠くの敵に射撃できるぞ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112521Z" creationid="setom" creationdate="20190331T112453Z">
+        <seg>遠距離攻撃に弓は最も基本的な手段だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
         <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each tree has an unlimited amount of wood that can be gathered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112707Z" creationid="setom" creationdate="20190331T112707Z">
+        <seg>それぞれの木からは無限に木材を集められる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gathering plants and mushrooms is the most basic way to find food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
+        <seg>植物やキノコの採集は、食料探しの最も基本的な方法だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
         <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
+        <seg>良い装備の発見以外にも、各都市にいるトレーナーとの訓練でも強くなれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana must first be unlocked at a Ley Line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112626Z" creationid="setom" creationdate="20190331T112626Z">
+        <seg>まずはレイラインでマナが解放される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many places are very dark, requiring lanterns or torches to light your way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112747Z" creationid="setom" creationdate="20190331T112747Z">
+        <seg>多くの場所は真っ暗で、ランタンや松明で道を明るくする必要がでてくる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T092736Z" creationid="urakata" creationdate="20190331T092650Z">
@@ -168,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>Note that arrows must be equipped before they can be shot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112500Z" creationid="setom" creationdate="20190331T112500Z">
-        <seg>良い装備の発見以外にも、各都市にいるトレーナーとの訓練でも強くなれる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112535Z" creationid="setom" creationdate="20190331T112500Z">
+        <seg>射撃の前に矢を装備しなければならないことに注意しろ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that the currency, silver coins, have weight!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112557Z" creationid="setom" creationdate="20190331T112557Z">
+        <seg>貨幣や銀貨にも重量があることを心に留めておけ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or you could experiment in Manual Recipe mode, where you can use any ingredients together.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112149Z" creationid="setom" creationdate="20190331T112149Z">
@@ -202,6 +250,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
         <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay close attention to the alerts displayed on the bottom left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112732Z" creationid="setom" creationdate="20190331T112732Z">
+        <seg>左下に表示される警告に最新の注意を払え。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
+        <seg>強力な武器やポーションが作成でき、他に強力な罠にも使える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +334,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting characters can’t use magic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112606Z" creationid="setom" creationdate="20190331T112606Z">
+        <seg>始めたばかりのキャラクターは魔法が使えない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Such objects burn out over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112759Z" creationid="setom" creationdate="20190331T112759Z">
+        <seg>だがそういったオブジェクトは時間の経過で燃え尽きてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Journal is a menu tab used to track your next tasks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112721Z" creationid="setom" creationdate="20190331T112721Z">
+        <seg>メニュータブのジャーナルは次の仕事の追跡に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The status menu shows details related to your equipment or what effects are currently affecting you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112738Z" creationid="setom" creationdate="20190331T112738Z">
+        <seg>ステータスメニューは装備に関連するものや現在影響を受けているものについての詳細を表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The weather often gets dangerously cold or hot.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112444Z" creationid="setom" creationdate="20190331T112444Z">
         <seg>水は危険なほど冷たい、または熱い状態で手に入ることが多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There, you can buy active skills and passive buffs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
+        <seg>アクティブスキルやパッシブバフの購入が可能だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +398,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will warn you when you’re hungry, your weapon is damaged, etc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112733Z" creationid="setom" creationdate="20190331T112733Z">
+        <seg>武器の損耗や空腹などの場合に警告される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They, like all uncooked food, provide more benefits and rot more slowly when cooked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112717Z" creationid="setom" creationdate="20190331T112717Z">
+        <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
@@ -306,6 +426,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the survival crafting menu to combine the oil item and a lantern to refill it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
+        <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +478,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wild beasts drop body parts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
+        <seg>野生の獣は体の一部をドロップする。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wood is commonly used in survival crafting, notably to make campfires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112708Z" creationid="setom" creationdate="20190331T112708Z">
+        <seg>木材は通常のサバイバルクラフトに用いられ、特にキャンプファイア作りに使われる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +558,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can store any item you don’t want in the Stash chests found in homes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112556Z" creationid="setom" creationdate="20190331T112556Z">
+        <seg>家の中のスタッシュチェストには見つかりたくないアイテムを貯蔵できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can zoom in and shoot at distant foes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112454Z" creationid="setom" creationdate="20190331T112454Z">
-        <seg>射撃の前に矢を装備しなければならないことに注意しろ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112532Z" creationid="setom" creationdate="20190331T112454Z">
+        <seg>ズームして遠くの敵に射撃できるぞ。</seg>
       </tuv>
     </tu>
     <tu>
