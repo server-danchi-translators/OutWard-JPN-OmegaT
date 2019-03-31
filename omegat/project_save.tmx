@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dodging allows you to temporarily evade any type of attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
+        <seg>ドッジロールにより如何なる攻撃もとりあえずは避けられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eat food, drink water and sleep in a tent or inn to satisfy them.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110812Z" creationid="setom" creationdate="20190331T110812Z">
@@ -38,10 +46,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eating raw food and drinking unboiled water can give you diseases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111912Z" creationid="setom" creationdate="20190331T111912Z">
+        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment loses durability with use, becoming weaker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
+        <seg>装備は使うと耐久力を失い、壊れていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inns will take care of all your needs for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
         <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Items can be repaired while you rest in a tent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
+        <seg>だがアイテムはテントで休息中に修復できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that most backpacks, when equipped, slow down your dodge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111628Z" creationid="setom" creationdate="20190331T111628Z">
+        <seg>しかし、殆どのバックパックは装備しているとドッジロールが鈍重になることに注意しろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
         <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quickslotting your items, weapons and skills is the best way to use them quickly in combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111825Z" creationid="setom" creationdate="20190331T111825Z">
+        <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simply place a lantern in your backpack inventory, lighting the lantern if it is not lit already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111721Z" creationid="setom" creationdate="20190331T111721Z">
+        <seg>ただランタンをバックパック内に入れるだけで、火を点けずとも光を灯すだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are essential for explorers, and having multiple waterskins may be useful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111816Z" creationid="setom" creationdate="20190331T111816Z">
+        <seg>だがそれこそが探検家たちに重要であり、水筒が複数あればきっと役に立つだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091915Z" creationid="urakata" creationdate="20190331T091915Z">
@@ -126,10 +190,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waterskins are the only way to store water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111812Z" creationid="setom" creationdate="20190331T111812Z">
+        <seg>革の水筒の用途は水を貯めることだけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can drop and pick up backpacks with a button or by using the inventory menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111654Z" creationid="setom" creationdate="20190331T111654Z">
+        <seg>ボタンを押すか、インベントリからバックパックを降ろしたり拾ったりできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can hang a lantern from most backpacks, providing light while freeing your hands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111718Z" creationid="setom" creationdate="20190331T111718Z">
+        <seg>殆どのバックパックはランタンを吊り下げられるため、両手を空けつつ光を提供できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You only have 8 quickslots, so choose wisely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111857Z" creationid="setom" creationdate="20190331T111834Z">
+        <seg>しかし、クイックスロットは8個しかない、賢い選択をしろ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your compass will point to your last-used backpack, making it easier to find back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111701Z" creationid="setom" creationdate="20190331T111701Z">
+        <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
         <seg>敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Broken” items can still be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111758Z" creationid="setom" creationdate="20190331T111758Z">
+        <seg>“ガタがきた”アイテムでもまだまだ使えるぞ。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
