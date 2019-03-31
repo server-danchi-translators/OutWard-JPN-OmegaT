@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important landmarks have icons, and hovering your cursor on them will show their names.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113406Z" creationid="setom" creationdate="20190331T113406Z">
+        <seg>重要なランドマークにはアイコンが付いていて、カーソルを合わせるとその名前が表示されるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Look at the Maps, as exterior regions are huge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
+        <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana must first be unlocked at a Ley Line.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112626Z" creationid="setom" creationdate="20190331T112626Z">
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111944Z" creationid="setom" creationdate="20190331T111927Z">
         <seg>だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that light sources make you more visible to enemies while they are lit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113208Z" creationid="setom" creationdate="20190331T113208Z">
+        <seg>火がついている間は光源が自分を敵から発見されやすくすることには注意をしておけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +394,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112721Z" creationid="setom" creationdate="20190331T112721Z">
         <seg>メニュータブのジャーナルは次の仕事の追跡に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The game auto-saves but you can also save manually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
+        <seg>ゲームはオートセーブだが、手動でもセーブはできる。</seg>
       </tuv>
     </tu>
     <tu>
