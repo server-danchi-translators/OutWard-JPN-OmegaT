@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pain wracks your body as you wake up from your injury.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
+        <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
+        <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your foes have left you for dead, but linger nearby.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
+        <seg>敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
