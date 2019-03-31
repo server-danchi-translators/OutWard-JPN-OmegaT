@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092853Z" creationid="urakata" creationdate="20190331T092853Z">
+        <seg>バーグBergの鍛冶屋へコーパルCopalか珪化木Petrified Woodを持ち込むとコーパルの鎧と珪化木の鎧の部品pieces of Copal Armor and Petrified Wood Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091928Z" creationid="urakata" creationdate="20190331T083211Z">
@@ -16,16 +24,16 @@
       <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092207Z" creationid="urakata" creationdate="20190331T092207Z">
-        <seg>レヴァンテLevantの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092658Z" creationid="urakata" creationdate="20190331T092207Z">
+        <seg>レヴァンテLevantの鍛冶屋へツァーリの宝玉Tsar Stonesを持ち込むとツァーリの鎧と暗闇の鎧の部品pieces of Tsar Armor and Tenebrous Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092650Z" creationid="urakata" creationdate="20190331T092650Z">
-        <seg>モンスーンMonsoonの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092736Z" creationid="urakata" creationdate="20190331T092650Z">
+        <seg>モンスーンMonsoonの鍛冶屋へパラジウムのスクラップPalladium Scrapsを持ち込むとパラジウムの鎧の部品pieces of Palladium Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to Monsoon’s blacksmith to collect your armor piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092826Z" creationid="urakata" creationdate="20190331T092826Z">
+        <seg>完成した鎧の部品armor pieceを受取りにMonsoonモンスーンの鍛冶屋へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091915Z" creationid="urakata" creationdate="20190331T091915Z">
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T092451Z" creationid="urakata" creationdate="20190331T092451Z">
         <seg>レヴァンテLevantで鎧の部品aromor pieceが完成するまで24時間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait 24 hours for the armor piece to be crafted in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092802Z" creationid="urakata" creationdate="20190331T092802Z">
+        <seg>モンスーンMonsoonで鎧の部品aromor pieceが完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
