@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Ask innkeepers found in each city for information or directions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
+        <seg>情報や道案内は各都市で見つかる宿屋の亭主に尋ねよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T092853Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
         <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each city has several merchants, either directly outside or inside buildings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114208Z" creationid="setom" creationdate="20190331T114208Z">
+        <seg>各都市には数人の商人が内外にいる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guards can also provide advice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114230Z" creationid="setom" creationdate="20190331T114230Z">
+        <seg>衛兵もまた助けとなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
         <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114137Z" creationid="setom" creationdate="20190331T114137Z">
+        <seg>重い鎧は物理的ダメージに対する防御力を大きく高めてくれるが、代わりに動きは鈍くなり、スタミナの消費も増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114108Z" creationid="setom" creationdate="20190331T114108Z">
+        <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
@@ -430,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The absolute basic gear for an explorer is a backpack containing a waterskin, food, bandages, antidotes, a tent, and firewood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114220Z" creationid="setom" creationdate="20190331T114220Z">
+        <seg>探検家の絶対に基本となる道具は、革の水筒や食料、包帯、解毒剤、テント、そして薪を収容したバックパックである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game auto-saves but you can also save manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
@@ -478,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They will sell food, equipment and crafting recipes, in addition to selling goods related to their city’s specialties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114210Z" creationid="setom" creationdate="20190331T114210Z">
+        <seg>彼らは食料、装備、クラフトレシピを売ってくれ、他にも各都市の特産品も販売している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They will warn you when you’re hungry, your weapon is damaged, etc.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112733Z" creationid="setom" creationdate="20190331T112733Z">
@@ -490,6 +546,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112717Z" creationid="setom" creationdate="20190331T112717Z">
         <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Things like cooking pots and traps help greatly too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114221Z" creationid="setom" creationdate="20190331T114221Z">
+        <seg>料理鍋や罠なども大いに助けとなるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +578,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traps are very useful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114124Z" creationid="setom" creationdate="20190331T114124Z">
+        <seg>罠はとても便利だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +672,8 @@
       <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
-        <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114322Z" creationid="urakata" creationdate="20190331T071251Z">
+        <seg>力を振り絞り、死ぬ気で体を動かして再び意識を失った場所へと向かった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +706,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112046Z" creationid="setom" creationdate="20190331T112046Z">
         <seg>多くの有用なアイテムを自分の手で作ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can de-craft most weapons and armors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114103Z" creationid="setom" creationdate="20190331T114103Z">
+        <seg>殆どの武器や鎧は解体も可能だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +794,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111954Z" creationid="setom" creationdate="20190331T111954Z">
         <seg>インベントリ、ひいてはバックパックもスペースには限りがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must deploy a trap trigger (like a Tripwire Trap) on the ground, then place a compatible object in it (like spikes or weapons).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114127Z" creationid="setom" creationdate="20190331T114127Z">
+        <seg>(トラップワイヤーのような)罠の起動装置を地面に配置して、それに適した(スパイクや武器などの)オブジェクトを設置しよう。</seg>
       </tuv>
     </tu>
     <tu>
