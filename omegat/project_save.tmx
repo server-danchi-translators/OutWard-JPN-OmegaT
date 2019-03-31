@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092650Z" creationid="urakata" creationdate="20190331T092650Z">
+        <seg>モンスーンMonsoonの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091954Z" creationid="urakata" creationdate="20190331T091954Z">
         <seg>完成した鎧の部品armor pieceを受取りにシエルゾCierzoの鍛冶屋へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Levant’s blacksmith to collect your armor piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092514Z" creationid="urakata" creationdate="20190331T092514Z">
+        <seg>完成した鎧の部品armor pieceを受取りにLevantレヴァンテの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
