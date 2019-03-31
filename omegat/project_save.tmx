@@ -8,8 +8,16 @@
       <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T083211Z" creationid="urakata" creationdate="20190331T083211Z">
-        <seg>シエルゾの鍛冶屋に青い砂BlueSandを持ち込むと、青い砂の鎧の部品を作ってくれる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T091928Z" creationid="urakata" creationdate="20190331T083211Z">
+        <seg>シエルゾCierzoの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T092207Z" creationid="urakata" creationdate="20190331T092207Z">
+        <seg>レヴァンテLevantの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
         <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Cierzo’s blacksmith to collect your armor piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T091954Z" creationid="urakata" creationdate="20190331T091954Z">
+        <seg>完成した鎧の部品armor pieceを受取りにシエルゾCierzoの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
