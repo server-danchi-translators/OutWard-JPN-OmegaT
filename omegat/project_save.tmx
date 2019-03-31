@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You only have one save slot, meaning you can’t load an old save to dodge the consequences of getting knocked out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113425Z" creationid="setom" creationdate="20190331T113425Z">
+        <seg>だがセーブスロットは1つしかない、つまり古いセーブデータをロードして結果から逃げるなんてことは出来ないということだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You receive penalties if your needs are not met.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
