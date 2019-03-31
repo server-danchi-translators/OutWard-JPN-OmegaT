@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112232Z" creationid="setom" creationdate="20190331T112200Z">
+        <seg>水を煮たり生肉を炙ったりするだけならば火のついキャンプファイアだけで構わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111914Z" creationid="setom" creationdate="20190331T111914Z">
+        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。特定のポーションや茶で病気を治療できるが、それでも回復には時間がかかってしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T091928Z" creationid="urakata" creationdate="20190331T083211Z">
@@ -38,10 +54,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop less useful items and don’t pick up everything you find, as too much weight will slow you down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
+        <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eat food, drink water and sleep in a tent or inn to satisfy them.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110812Z" creationid="setom" creationdate="20190331T110812Z">
         <seg>飲食、そしてテントや宿屋で寝ることで欲求を満たせ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eat or cook your food before it goes to waste!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112009Z" creationid="setom" creationdate="20190331T112009Z">
+        <seg>無駄になる前に食べるか調理せよ</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +86,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112035Z" creationid="setom" creationdate="20190331T112035Z">
+        <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment loses durability with use, becoming weaker.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
         <seg>装備は使うと耐久力を失い、壊れていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food rots with time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
+        <seg>食料は腐る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
+        <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note that campfires don’t run out of fuel, so they don’t go out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111944Z" creationid="setom" creationdate="20190331T111927Z">
+        <seg>だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that most backpacks, when equipped, slow down your dodge.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111628Z" creationid="setom" creationdate="20190331T111628Z">
@@ -102,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or you could experiment in Manual Recipe mode, where you can use any ingredients together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112149Z" creationid="setom" creationdate="20190331T112149Z">
+        <seg>もしくはマニュアルレシピモードでなにか材料を使って実験をしてもいいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
         <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put out your light when sneaking!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112137Z" creationid="setom" creationdate="20190331T112137Z">
+        <seg>隠れるときは光を避けろ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep in a tent or an inn to recover your maximum health and stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112114Z" creationid="setom" creationdate="20190331T112114Z">
+        <seg>テントや宿屋で眠ることで最大値は回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are essential for explorers, and having multiple waterskins may be useful.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111816Z" creationid="setom" creationdate="20190331T111816Z">
         <seg>だがそれこそが探検家たちに重要であり、水筒が複数あればきっと役に立つだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This survival crafting menu is available at all times in your player menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
+        <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When your health or stamina decreases (e.g. during combat), your max health or stamina decreases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
+        <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071251Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>力を振り絞り、死ぬ気で体を動かして入口へと向かうも、あなたは再び意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can be attacked while you rest in a tent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112033Z" creationid="setom" creationdate="20190331T112033Z">
+        <seg>テントで休んでいても攻撃を受けることがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can craft many useful items with just your hands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112046Z" creationid="setom" creationdate="20190331T112046Z">
+        <seg>多くの有用なアイテムを自分の手で作ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +338,46 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111718Z" creationid="setom" creationdate="20190331T111718Z">
         <seg>殆どのバックパックはランタンを吊り下げられるため、両手を空けつつ光を提供できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can learn new crafting recipes by finding a recipe scroll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112147Z" creationid="setom" creationdate="20190331T112147Z">
+        <seg>レシピスクロールを見つけると新たにクラフトレシピを習得できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can light a campfire with a Flint and Steel or certain fire spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111923Z" creationid="setom" creationdate="20190331T111923Z">
+        <seg>火打ち石と打ち金、もしくは特定の火の呪文によりキャンプファイアを灯せる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can move stealthily by crouching.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112126Z" creationid="setom" creationdate="20190331T112126Z">
+        <seg>しゃがむとコソコソと移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have very limited inventory space, even with a backpack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T111954Z" creationid="setom" creationdate="20190331T111954Z">
+        <seg>インベントリ、ひいてはバックパックもスペースには限りがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need a cooking pot deployed on a lit campfire to cook recipes with more than one ingredient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112158Z" creationid="setom" creationdate="20190331T112158Z">
+        <seg>火を灯したキャンプファイアで一つより多くの材料を使うレシピを料理する際は料理鍋の配備が必要になる。</seg>
       </tuv>
     </tu>
     <tu>
