@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, you won’t be able to wield a shield, a lantern or a special trinket in your off-hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114013Z" creationid="setom" creationdate="20190331T114013Z">
+        <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来なくなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important landmarks have icons, and hovering your cursor on them will show their names.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113406Z" creationid="setom" creationdate="20190331T113406Z">
@@ -226,6 +234,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112747Z" creationid="setom" creationdate="20190331T112747Z">
         <seg>多くの場所は真っ暗で、ランタンや松明で道を明るくする必要がでてくる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Melee weapons can make normal attacks and special attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113952Z" creationid="setom" creationdate="20190331T113952Z">
+        <seg>近接武器は通常攻撃と特殊攻撃が作成できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114002Z" creationid="setom" creationdate="20190331T114002Z">
+        <seg>鉱石にはツルハシが、釣り場では銛が必要になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific tools are needed to gather some resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114001Z" creationid="setom" creationdate="20190331T114001Z">
+        <seg>幾つかの素材を集めるとき、個別の道具が必要になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting characters can’t use magic.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112606Z" creationid="setom" creationdate="20190331T112606Z">
@@ -494,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two-handed weapons deal more damage and have more reach than smaller weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114012Z" creationid="setom" creationdate="20190331T114012Z">
+        <seg>両手武器は、小さな武器よりも多くのダメージと広いリーチを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the survival crafting menu to combine the oil item and a lantern to refill it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
@@ -542,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Which special attack will be made depends on the number of normal attacks you just performed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113953Z" creationid="setom" creationdate="20190331T113953Z">
+        <seg>どんな特殊攻撃になるかは、行った通常攻撃次第だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wild beasts drop body parts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
@@ -562,6 +610,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112708Z" creationid="setom" creationdate="20190331T112708Z">
         <seg>木材は通常のサバイバルクラフトに用いられ、特にキャンプファイア作りに使われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You also know several useful survival crafting recipes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114022Z" creationid="setom" creationdate="20190331T114022Z">
+        <seg>幾つかの役に立つサバイバルクラフトレシピも知っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +746,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
         <seg>欲求が満たせなければ、ペナルティを受けることになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You start the game with a few skills, like the Kick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T114021Z" creationid="setom" creationdate="20190331T114021Z">
+        <seg>あなたはキックのような僅かばかりのスキルを備えてゲームが始まる。</seg>
       </tuv>
     </tu>
     <tu>
