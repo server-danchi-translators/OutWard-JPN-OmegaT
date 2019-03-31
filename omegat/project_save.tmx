@@ -142,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hitting enemies, especially with heavier weapons, will knock them back and cancel their attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113105Z" creationid="setom" creationdate="20190331T113105Z">
+        <seg>敵を攻撃時、特に重武器の時は敵をノックバックさせ、更に敵の攻撃がキャンセルされるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, they can knock you down too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113107Z" creationid="setom" creationdate="20190331T113107Z">
+        <seg>だが、それは自分だけの特権ではない…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
@@ -232,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>Note that the currency, silver coins, have weight!</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112557Z" creationid="setom" creationdate="20190331T112557Z">
-        <seg>貨幣や銀貨にも重量があることを心に留めておけ</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112824Z" creationid="setom" creationdate="20190331T112557Z">
+        <seg>貨幣や銀貨にも重量があることを心に留めておけ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +438,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To save fuel, you can close and light lanterns or torches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
+        <seg>燃料を節約するために、ランタンや松明を点けたり消したりできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To travel from one exterior region to another, you must use Travel Rations.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try the multiplayer, either in split screen or online.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112953Z" creationid="setom" creationdate="20190331T112953Z">
+        <seg>画面を分割するかオンラインでマルチプレイを試すんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can lock on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113008Z" creationid="setom" creationdate="20190331T113008Z">
+        <seg>敵にロックオンできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can move stealthily by crouching.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112126Z" creationid="setom" creationdate="20190331T112126Z">
@@ -558,10 +598,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can play along with people in your friend list!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112951Z" creationid="setom" creationdate="20190331T112951Z">
+        <seg>フレンドリストに入っている人と一緒にプレイしよう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can store any item you don’t want in the Stash chests found in homes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112556Z" creationid="setom" creationdate="20190331T112556Z">
-        <seg>家の中のスタッシュチェストには見つかりたくないアイテムを貯蔵できる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112859Z" creationid="setom" creationdate="20190331T112556Z">
+        <seg>家の中の隠しチェストには見つかりたくないアイテムを貯蔵できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +650,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
         <seg>欲求が満たせなければ、ペナルティを受けることになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will then be able to better target that enemy, especially with ranged weapons or skills.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T113011Z" creationid="setom" creationdate="20190331T113011Z">
+        <seg>その時はより厄介な敵にしたほうがいい、特に遠距離武器やスキルを持った敵だ。</seg>
       </tuv>
     </tu>
     <tu>
