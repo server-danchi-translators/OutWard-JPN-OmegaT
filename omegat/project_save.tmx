@@ -24,8 +24,16 @@
       <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112232Z" creationid="setom" creationdate="20190331T112200Z">
-        <seg>水を煮たり生肉を炙ったりするだけならば火のついキャンプファイアだけで構わない。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
+        <seg>水を煮たり生肉を炙ったりするだけならば、火を点けたキャンプファイアだけで構わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bows are the most basic way to make ranged attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112453Z" creationid="setom" creationdate="20190331T112453Z">
+        <seg>遠距離攻撃に弓は最も基本的な手段だ。ズームして遠くの敵に射撃できるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep your temperature neutral with appropriate clothes, certain types of food or campfires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
+        <seg>適切な衣服や特定の食べ物やキャンプファイアを用いて体温を丁度良い温度に保て。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T092658Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -146,6 +162,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T092736Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>モンスーンMonsoonの鍛冶屋へパラジウムのスクラップPalladium Scrapsを持ち込むとパラジウムの鎧の部品pieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that arrows must be equipped before they can be shot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112500Z" creationid="setom" creationdate="20190331T112500Z">
+        <seg>良い装備の発見以外にも、各都市にいるトレーナーとの訓練でも強くなれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The weather often gets dangerously cold or hot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112444Z" creationid="setom" creationdate="20190331T112444Z">
+        <seg>水は危険なほど冷たい、または熱い状態で手に入ることが多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are essential for explorers, and having multiple waterskins may be useful.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111816Z" creationid="setom" creationdate="20190331T111816Z">
@@ -254,10 +286,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can be bought from merchants or crafted, with a cooking pot, from salt and various food types.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112433Z" creationid="setom" creationdate="20190331T112310Z">
+        <seg>これは商人から買うことが可能で、料理鍋を使って塩や様々な種類の食料から作ることもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
         <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To travel from one exterior region to another, you must use Travel Rations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
+        <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +410,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112126Z" creationid="setom" creationdate="20190331T112126Z">
         <seg>しゃがむとコソコソと移動できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can zoom in and shoot at distant foes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190331T112454Z" creationid="setom" creationdate="20190331T112454Z">
+        <seg>射撃の前に矢を装備しなければならないことに注意しろ。</seg>
       </tuv>
     </tu>
     <tu>
