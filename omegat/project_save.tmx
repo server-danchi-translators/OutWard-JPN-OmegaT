@@ -328,8 +328,8 @@
       <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092658Z" creationid="urakata" creationdate="20190331T092207Z">
-        <seg>レヴァンテLevantの鍛冶屋へツァーリの宝玉Tsar Stonesを持ち込むとツァーリの鎧と暗闇の鎧の部品pieces of Tsar Armor and Tenebrous Armorを作れる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142348Z" creationid="urakata" creationdate="20190331T092207Z">
+        <seg>Levantの鍛冶屋へTsar Stonesを持ち込むととpieces of Tsar Armor and Tenebrous Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092736Z" creationid="urakata" creationdate="20190331T092650Z">
-        <seg>モンスーンMonsoonの鍛冶屋へパラジウムのスクラップPalladium Scrapsを持ち込むとパラジウムの鎧の部品pieces of Palladium Armorを作れる</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
+        <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,24 +480,24 @@
       <tuv lang="EN-US">
         <seg>Return to Cierzo’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T091954Z" creationid="urakata" creationdate="20190331T091954Z">
-        <seg>完成した鎧の部品armor pieceを受取りにシエルゾCierzoの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142324Z" creationid="urakata" creationdate="20190331T091954Z">
+        <seg>完成したarmor pieceを受取りにCierzoの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Return to Levant’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092514Z" creationid="urakata" creationdate="20190331T092514Z">
-        <seg>完成した鎧の部品armor pieceを受取りにLevantレヴァンテの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142411Z" creationid="urakata" creationdate="20190331T092514Z">
+        <seg>完成したarmor pieceを受取りにLevantの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Return to Monsoon’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092826Z" creationid="urakata" creationdate="20190331T092826Z">
-        <seg>完成した鎧の部品armor pieceを受取りにMonsoonモンスーンの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142441Z" creationid="urakata" creationdate="20190331T092826Z">
+        <seg>完成したarmor pieceを受取りにMonsoonの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,24 +712,24 @@
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T091915Z" creationid="urakata" creationdate="20190331T091915Z">
-        <seg>シエルゾCiezoで鎧の部品aromor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142315Z" creationid="urakata" creationdate="20190331T091915Z">
+        <seg>Ciezoでaromor pieceが完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092451Z" creationid="urakata" creationdate="20190331T092451Z">
-        <seg>レヴァンテLevantで鎧の部品aromor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142356Z" creationid="urakata" creationdate="20190331T092451Z">
+        <seg>Levantでaromor pieceが完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T092802Z" creationid="urakata" creationdate="20190331T092802Z">
-        <seg>モンスーンMonsoonで鎧の部品aromor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190331T142431Z" creationid="urakata" creationdate="20190331T092802Z">
+        <seg>Monsoonでaromor pieceが完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
