@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking with [InputAction_Block] prevents the damage from a strike and reduces how much you would be knocked back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074802Z" creationid="setom" creationdate="20190401T074802Z">
+        <seg>[InputAction_Block] での防御はダメージを防ぎ、ノックバックも減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
@@ -462,10 +470,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Blocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074549Z" creationid="setom" creationdate="20190401T074549Z">
+        <seg>Message_Tutorial_Blocking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073135Z" creationid="setom" creationdate="20190401T073135Z">
         <seg>Message_Tutorial_Combat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Defences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074456Z" creationid="setom" creationdate="20190401T074456Z">
+        <seg>Message_Tutorial_Defences</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +608,8 @@
       <tuv lang="EN-US">
         <seg>Perform attacks with [InputAction_Attack1] and special attacks with [InputAction_Attack2].</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T074257Z" creationid="setom" creationdate="20190401T074257Z">
-        <seg>[InputAction_Attack1]で攻撃が、[InputAction_Attack2].</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
+        <seg>[InputAction_Attack1]で通常攻撃が、[InputAction_Attack2]で特殊攻撃ができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1162,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
         <seg>ゲームはオートセーブだが、手動でもセーブはできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of attacks you make before making a special attack will change which strike you will make.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074451Z" creationid="setom" creationdate="20190401T074405Z">
+        <seg>特殊攻撃までに何回通常攻撃を行ったかで、特殊攻撃は変化します。</seg>
       </tuv>
     </tu>
     <tu>
