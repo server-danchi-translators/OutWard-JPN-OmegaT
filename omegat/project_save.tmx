@@ -448,8 +448,8 @@
       <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113952Z" creationid="setom" creationdate="20190331T113952Z">
-        <seg>近接武器は通常攻撃と特殊攻撃が作成できる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074305Z" creationid="setom" creationdate="20190331T113952Z">
+        <seg>近接武器は通常攻撃と特殊攻撃ができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +578,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112732Z" creationid="setom" creationdate="20190331T112732Z">
         <seg>左下に表示される警告に最新の注意を払え。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perform attacks with [InputAction_Attack1] and special attacks with [InputAction_Attack2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074257Z" creationid="setom" creationdate="20190401T074257Z">
+        <seg>[InputAction_Attack1]で攻撃が、[InputAction_Attack2].</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1328,8 @@
       <tuv lang="EN-US">
         <seg>Which special attack will be made depends on the number of normal attacks you just performed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113953Z" creationid="setom" creationdate="20190331T113953Z">
-        <seg>どんな特殊攻撃になるかは、行った通常攻撃次第だ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074321Z" creationid="setom" creationdate="20190331T113953Z">
+        <seg>どんな特殊攻撃になるかは、通常攻撃次第だ。</seg>
       </tuv>
     </tu>
     <tu>
