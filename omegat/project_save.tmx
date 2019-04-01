@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113502Z" creationid="setom" creationdate="20190401T113502Z">
+        <seg>1 Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>100001</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033905Z" creationid="setom" creationdate="20190401T033905Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034820Z" creationid="setom" creationdate="20190401T034820Z">
         <seg>100003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 Players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113508Z" creationid="setom" creationdate="20190401T113508Z">
+        <seg>2 Players</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Character Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113440Z" creationid="setom" creationdate="20190401T113440Z">
+        <seg>キャラクターの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CharacterCreation_CreateButton</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113310Z" creationid="setom" creationdate="20190401T113310Z">
@@ -150,10 +174,122 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_HairColor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113401Z" creationid="setom" creationdate="20190401T113401Z">
+        <seg>CharacterCreation_Field_HairColor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Haircut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113409Z" creationid="setom" creationdate="20190401T113409Z">
+        <seg>CharacterCreation_Field_Haircut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Legacy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113413Z" creationid="setom" creationdate="20190401T113413Z">
+        <seg>CharacterCreation_Field_Legacy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113417Z" creationid="setom" creationdate="20190401T113417Z">
+        <seg>CharacterCreation_Field_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_NameHelp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113427Z" creationid="setom" creationdate="20190401T113427Z">
+        <seg>CharacterCreation_Field_NameHelp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Race</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113441Z" creationid="setom" creationdate="20190401T113441Z">
+        <seg>CharacterCreation_Field_Race</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Player_1Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113453Z" creationid="setom" creationdate="20190401T113453Z">
+        <seg>CharacterCreation_Player_1Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Player_2Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113505Z" creationid="setom" creationdate="20190401T113505Z">
+        <seg>CharacterCreation_Player_2Player</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Player_NewGame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113510Z" creationid="setom" creationdate="20190401T113510Z">
+        <seg>CharacterCreation_Player_NewGame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Player_Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113517Z" creationid="setom" creationdate="20190401T113517Z">
+        <seg>CharacterCreation_Player_Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_RandomButton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113447Z" creationid="setom" creationdate="20190401T113447Z">
+        <seg>CharacterCreation_RandomButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Defense_Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113532Z" creationid="setom" creationdate="20190401T113532Z">
+        <seg>CharacterStat_Defense_Armor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Defense_ColdResistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113608Z" creationid="setom" creationdate="20190401T113608Z">
+        <seg>CharacterStat_Defense_ColdResistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold Weather Def.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
+        <seg>低温耐性</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hair Color</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113408Z" creationid="setom" creationdate="20190401T113408Z">
+        <seg>髪色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hair Style</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113412Z" creationid="setom" creationdate="20190401T113412Z">
+        <seg>髪型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -648,8 +800,8 @@
       <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T033934Z" creationid="setom" creationdate="20190401T033934Z">
-        <seg>Name</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113426Z" creationid="setom" creationdate="20190401T033934Z">
+        <seg>名前</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical Resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113625Z" creationid="setom" creationdate="20190401T113606Z">
+        <seg>物理耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114108Z" creationid="setom" creationdate="20190331T114108Z">
@@ -778,6 +938,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111825Z" creationid="setom" creationdate="20190331T111825Z">
         <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Race</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113445Z" creationid="setom" creationdate="20190401T113445Z">
+        <seg>種族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113451Z" creationid="setom" creationdate="20190401T113451Z">
+        <seg>ランダム</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +1042,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034817Z" creationid="setom" creationdate="20190401T034817Z">
         <seg>普通の斧 2H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113529Z" creationid="setom" creationdate="20190401T113529Z">
+        <seg>チュートリアル</seg>
       </tuv>
     </tu>
     <tu>
