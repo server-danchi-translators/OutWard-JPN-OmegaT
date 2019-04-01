@@ -1374,6 +1374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When one’s stability reaches 50%, he is knocked back; when it reaches 0%, he is knocked down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T081403Z" creationid="setom" creationdate="20190401T081403Z">
+        <seg>スタビリティーが50％までいくとノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your health or stamina decreases (e.g. during combat), your max health or stamina decreases.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
