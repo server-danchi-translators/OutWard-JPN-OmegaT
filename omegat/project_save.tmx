@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press [InputAction_LockToggle] again to remove the lock.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T074013Z" creationid="setom" creationdate="20190401T074013Z">
+        <seg>[InputAction_LockToggle]をもう一度押すとロックが解除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press [InputAction_LockToggle] to lock your camera on an enemy, allowing you to hit him more easily.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
