@@ -384,8 +384,80 @@
       <tuv lang="EN-US">
         <seg>CharacterStat_NeedLevel_HungerVeryLow</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T113943Z" creationid="setom" creationdate="20190401T113943Z">
-        <seg>とても空腹</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114019Z" creationid="setom" creationdate="20190401T113943Z">
+        <seg>CharacterStat_NeedLevel_HungerVeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_Medium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114023Z" creationid="setom" creationdate="20190401T114023Z">
+        <seg>CharacterStat_NeedLevel_Medium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_TemperatureHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114031Z" creationid="setom" creationdate="20190401T114031Z">
+        <seg>CharacterStat_NeedLevel_TemperatureHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_TemperatureLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114044Z" creationid="setom" creationdate="20190401T114044Z">
+        <seg>CharacterStat_NeedLevel_TemperatureLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_TemperatureVeryHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114048Z" creationid="setom" creationdate="20190401T114048Z">
+        <seg>CharacterStat_NeedLevel_TemperatureVeryHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_TemperatureVeryLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114103Z" creationid="setom" creationdate="20190401T114103Z">
+        <seg>CharacterStat_NeedLevel_TemperatureVeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_ThirstHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114115Z" creationid="setom" creationdate="20190401T114115Z">
+        <seg>CharacterStat_NeedLevel_ThirstHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_ThirstLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114122Z" creationid="setom" creationdate="20190401T114122Z">
+        <seg>CharacterStat_NeedLevel_ThirstLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_ThirstVeryLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114139Z" creationid="setom" creationdate="20190401T114139Z">
+        <seg>CharacterStat_NeedLevel_ThirstVeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Sleep</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114146Z" creationid="setom" creationdate="20190401T114146Z">
+        <seg>CharacterStat_Sleep</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +466,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114046Z" creationid="setom" creationdate="20190401T114046Z">
+        <seg>寒い</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114043Z" creationid="setom" creationdate="20190401T114034Z">
+        <seg>暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot Weather Def.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113653Z" creationid="setom" creationdate="20190401T113653Z">
@@ -982,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neutral</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
+        <seg>通常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that arrows must be equipped before they can be shot.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112535Z" creationid="setom" creationdate="20190331T112500Z">
@@ -1142,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refreshed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
+        <seg>リフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113254Z" creationid="setom" creationdate="20190401T113234Z">
@@ -1194,6 +1298,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111721Z" creationid="setom" creationdate="20190331T111721Z">
         <seg>ただランタンをバックパック内に入れるだけで、火を点けずとも光を灯すだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114153Z" creationid="setom" creationdate="20190401T114153Z">
+        <seg>睡眠</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thirsty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114138Z" creationid="setom" creationdate="20190401T114138Z">
+        <seg>渇き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
@@ -1802,6 +1922,38 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
         <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114113Z" creationid="setom" creationdate="20190401T114113Z">
+        <seg>とても寒い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Hot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114101Z" creationid="setom" creationdate="20190401T114101Z">
+        <seg>とても暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Hungry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114022Z" creationid="setom" creationdate="20190401T114022Z">
+        <seg>とても空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Thirsty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114145Z" creationid="setom" creationdate="20190401T114145Z">
+        <seg>酷い渇き</seg>
       </tuv>
     </tu>
     <tu>
