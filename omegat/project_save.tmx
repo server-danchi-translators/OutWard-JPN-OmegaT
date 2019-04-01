@@ -3880,8 +3880,8 @@
       <tuv lang="EN-US">
         <seg>You need a cooking pot deployed on a lit campfire to cook recipes with more than one ingredient.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112158Z" creationid="setom" creationdate="20190331T112158Z">
-        <seg>火を灯したキャンプファイアで一つより多くの材料を使うレシピを料理する際は料理鍋の配備が必要になる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T124204Z" creationid="setom" creationdate="20190331T112158Z">
+        <seg>火を灯したキャンプファイアで二つ以上の材料を使うレシピを料理する際はCooking Potの配備が必要になる。</seg>
       </tuv>
     </tu>
     <tu>
