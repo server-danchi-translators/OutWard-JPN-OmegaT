@@ -1870,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handheld</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122948Z" creationid="setom" creationdate="20190401T122948Z">
+        <seg>携行品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -2166,6 +2174,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inventory_Section_PocketContent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122856Z" creationid="setom" creationdate="20190401T122856Z">
+        <seg>Inventory_Section_PocketContent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Quiver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122925Z" creationid="setom" creationdate="20190401T122925Z">
+        <seg>Inventory_Section_Quiver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Usables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122931Z" creationid="setom" creationdate="20190401T122931Z">
+        <seg>Inventory_Section_Usables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Weapons</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122941Z" creationid="setom" creationdate="20190401T122941Z">
+        <seg>Inventory_Section_Weapons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115140Z" creationid="setom" creationdate="20190401T115140Z">
@@ -2232,8 +2272,8 @@
       <tuv lang="EN-US">
         <seg>Main Hand</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T120248Z" creationid="setom" creationdate="20190401T120248Z">
-        <seg>利き腕</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122847Z" creationid="setom" creationdate="20190401T120248Z">
+        <seg>利き手</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,8 +2520,8 @@
       <tuv lang="EN-US">
         <seg>Off Hand</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T122743Z" creationid="setom" creationdate="20190401T122743Z">
-        <seg>逆腕</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122855Z" creationid="setom" creationdate="20190401T122743Z">
+        <seg>非利き手</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pocket Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122923Z" creationid="setom" creationdate="20190401T122923Z">
+        <seg>ポケットの中身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pocket Weight</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120044Z" creationid="setom" creationdate="20190401T120044Z">
@@ -2626,6 +2674,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115303Z" creationid="setom" creationdate="20190401T115303Z">
         <seg>ゲームをやめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quiver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122930Z" creationid="setom" creationdate="20190401T122930Z">
+        <seg>矢筒</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,14 +2910,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Start Split</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115539Z" creationid="setom" creationdate="20190401T115539Z">
-        <seg>分割開始</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Start Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113529Z" creationid="setom" creationdate="20190401T113529Z">
@@ -2906,14 +2954,6 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115111Z" creationid="setom" creationdate="20190401T115111Z">
         <seg>オンラインプレイを中断</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Stop Split</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115745Z" creationid="setom" creationdate="20190401T115745Z">
-        <seg>分割停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3562,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115844Z" creationid="setom" creationdate="20190401T115844Z">
         <seg>解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Usables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122940Z" creationid="setom" creationdate="20190401T122940Z">
+        <seg>消耗品</seg>
       </tuv>
     </tu>
     <tu>
