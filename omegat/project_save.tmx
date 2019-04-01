@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T123217Z" creationid="setom" creationdate="20190401T123217Z">
+        <seg>欲求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
@@ -3826,6 +3834,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112951Z" creationid="setom" creationdate="20190331T112951Z">
         <seg>フレンドリストに入っている人と一緒にプレイしよう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can retake the Alchemy Kit from the fire, to use on your next campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T123610Z" creationid="setom" creationdate="20190401T123610Z">
+        <seg>火の中からでも、Alchemy Kitを取り出して次のキャンプファイアで使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
