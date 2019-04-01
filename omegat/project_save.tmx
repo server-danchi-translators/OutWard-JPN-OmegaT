@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Awake</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
+        <seg>起床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -278,6 +286,110 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharacterStat_Defense_HeatResistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113648Z" creationid="setom" creationdate="20190401T113648Z">
+        <seg>CharacterStat_Defense_HeatResistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Defense_ImpactResistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113653Z" creationid="setom" creationdate="20190401T113653Z">
+        <seg>CharacterStat_Defense_ImpactResistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Defense_Protection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113707Z" creationid="setom" creationdate="20190401T113707Z">
+        <seg>CharacterStat_Defense_Protection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Drink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113734Z" creationid="setom" creationdate="20190401T113734Z">
+        <seg>CharacterStat_Drink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113749Z" creationid="setom" creationdate="20190401T113749Z">
+        <seg>CharacterStat_Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Health</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113758Z" creationid="setom" creationdate="20190401T113758Z">
+        <seg>CharacterStat_Health</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Mana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113834Z" creationid="setom" creationdate="20190401T113834Z">
+        <seg>CharacterStat_Mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_FatigueHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113840Z" creationid="setom" creationdate="20190401T113840Z">
+        <seg>CharacterStat_NeedLevel_FatigueHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_FatigueLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113849Z" creationid="setom" creationdate="20190401T113849Z">
+        <seg>CharacterStat_NeedLevel_FatigueLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_FatigueVeryLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113900Z" creationid="setom" creationdate="20190401T113900Z">
+        <seg>CharacterStat_NeedLevel_FatigueVeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_HungerHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113910Z" creationid="setom" creationdate="20190401T113910Z">
+        <seg>CharacterStat_NeedLevel_HungerHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_HungerLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113922Z" creationid="setom" creationdate="20190401T113922Z">
+        <seg>CharacterStat_NeedLevel_HungerLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_NeedLevel_HungerVeryLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113943Z" creationid="setom" creationdate="20190401T113943Z">
+        <seg>とても空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
@@ -338,6 +450,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
         <seg>ドッジロールにより如何なる攻撃もとりあえずは避けられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113747Z" creationid="setom" creationdate="20190401T113747Z">
+        <seg>渇き</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,10 +638,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113756Z" creationid="setom" creationdate="20190401T113756Z">
+        <seg>空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food rots with time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
         <seg>食料は腐る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Full</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113916Z" creationid="setom" creationdate="20190401T113916Z">
+        <seg>満腹</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113802Z" creationid="setom" creationdate="20190401T113802Z">
+        <seg>体力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114137Z" creationid="setom" creationdate="20190331T114137Z">
@@ -598,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot Weather Def.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113653Z" creationid="setom" creationdate="20190401T113653Z">
+        <seg>高温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they can knock you down too.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113107Z" creationid="setom" creationdate="20190331T113107Z">
@@ -610,6 +762,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114013Z" creationid="setom" creationdate="20190331T114013Z">
         <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来なくなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hungry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113928Z" creationid="setom" creationdate="20190401T113928Z">
+        <seg>空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact Resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113705Z" creationid="setom" creationdate="20190401T113705Z">
+        <seg>打撃耐性</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +850,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
         <seg>MISSING DESC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113837Z" creationid="setom" creationdate="20190401T113837Z">
+        <seg>マナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +1050,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
         <seg>[InputAction_Attack1]で通常攻撃が、[InputAction_Attack2]で特殊攻撃ができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Protection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113732Z" creationid="setom" creationdate="20190401T113732Z">
+        <seg>物理防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113857Z" creationid="setom" creationdate="20190401T113857Z">
+        <seg>疲れている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
@@ -1610,6 +1802,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
         <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Tired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113908Z" creationid="setom" creationdate="20190401T113908Z">
+        <seg>とても疲れている</seg>
       </tuv>
     </tu>
     <tu>
