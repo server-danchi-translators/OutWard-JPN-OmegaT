@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOT IN DB</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034800Z" creationid="setom" creationdate="20190401T034800Z">
+        <seg>NOT IN DB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033934Z" creationid="setom" creationdate="20190401T033934Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033926Z" creationid="setom" creationdate="20190401T033910Z">
         <seg>普通の斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Axe 2H</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034817Z" creationid="setom" creationdate="20190401T034817Z">
+        <seg>普通の斧 2H</seg>
       </tuv>
     </tu>
     <tu>
