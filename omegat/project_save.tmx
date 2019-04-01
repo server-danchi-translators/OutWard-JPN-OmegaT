@@ -94,10 +94,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ChannelingMenu_CurrentStat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113201Z" creationid="setom" creationdate="20190401T113201Z">
+        <seg>ChannelingMenu_CurrentStat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChannelingMenu_ResultStat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113248Z" creationid="setom" creationdate="20190401T113248Z">
+        <seg>ChannelingMenu_ResultStat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChannelingMenu_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113236Z" creationid="setom" creationdate="20190401T113236Z">
+        <seg>ChannelingMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChannelingMenu_WarningMessage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113306Z" creationid="setom" creationdate="20190401T113306Z">
+        <seg>ChannelingMenu_WarningMessage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_CreateButton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113310Z" creationid="setom" creationdate="20190401T113310Z">
+        <seg>CharacterCreation_CreateButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Face</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113322Z" creationid="setom" creationdate="20190401T113322Z">
+        <seg>CharacterCreation_Field_Face</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Field_Gender</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113326Z" creationid="setom" creationdate="20190401T113326Z">
+        <seg>CharacterCreation_Field_Gender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113316Z" creationid="setom" creationdate="20190401T113316Z">
+        <seg>作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113247Z" creationid="setom" creationdate="20190401T113247Z">
+        <seg>結果</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Face Style</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
+        <seg>顔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the red line to learn about the game’s mechanics.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072352Z" creationid="setom" creationdate="20190401T072352Z">
@@ -314,6 +394,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
         <seg>植物やキノコの採集は、食料探しの最も基本的な方法だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113331Z" creationid="setom" creationdate="20190401T113331Z">
+        <seg>性別</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +530,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
         <seg>MISSING DESC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Channeling</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113304Z" creationid="setom" creationdate="20190401T113304Z">
+        <seg>マナチャネリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +778,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111825Z" creationid="setom" creationdate="20190331T111825Z">
         <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T113254Z" creationid="setom" creationdate="20190401T113234Z">
+        <seg>結果</seg>
       </tuv>
     </tu>
     <tu>
