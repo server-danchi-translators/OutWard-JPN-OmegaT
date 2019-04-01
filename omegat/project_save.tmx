@@ -62,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Weapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114803Z" creationid="setom" creationdate="20190401T114803Z">
+        <seg>任意の武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114437Z" creationid="setom" creationdate="20190401T114437Z">
         <seg>いくつかの {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114822Z" creationid="setom" creationdate="20190401T114822Z">
+        <seg>適用</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114838Z" creationid="setom" creationdate="20190401T114838Z">
+        <seg>割り当て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awake</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
         <seg>起床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114841Z" creationid="setom" creationdate="20190401T114841Z">
+        <seg>戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +710,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DamageType_Electric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
+        <seg>DamageType_Electric</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DamageType_Ethereal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114605Z" creationid="setom" creationdate="20190401T114605Z">
+        <seg>DamageType_Ethereal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DamageType_Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114702Z" creationid="setom" creationdate="20190401T114702Z">
+        <seg>DamageType_Fire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DamageType_Frost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114707Z" creationid="setom" creationdate="20190401T114707Z">
+        <seg>DamageType_Frost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DamageType_Physical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114721Z" creationid="setom" creationdate="20190401T114721Z">
+        <seg>DamageType_Physical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
@@ -686,10 +758,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114817Z" creationid="setom" creationdate="20190401T114817Z">
+        <seg>デフォルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defense</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114339Z" creationid="setom" creationdate="20190401T114339Z">
         <seg>防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DeployableTrapMenu_EmptyInventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114726Z" creationid="setom" creationdate="20190401T114726Z">
+        <seg>DeployableTrapMenu_EmptyInventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DeployableTrapMenu_Instruction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114731Z" creationid="setom" creationdate="20190401T114731Z">
+        <seg>DeployableTrapMenu_Instruction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DeployableTrapMenu_NotArmed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114736Z" creationid="setom" creationdate="20190401T114736Z">
+        <seg>DeployableTrapMenu_NotArmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DeployableTrapMenu_ResultTrap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114741Z" creationid="setom" creationdate="20190401T114741Z">
+        <seg>DeployableTrapMenu_ResultTrap</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethereal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114700Z" creationid="setom" creationdate="20190401T114700Z">
+        <seg>エーテル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evade attacks by dodging with [InputAction_Dodge], though this consumes a fair amount of Stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T075426Z" creationid="setom" creationdate="20190401T075426Z">
@@ -882,6 +1002,38 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
         <seg>顔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction_BlueChamber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114748Z" creationid="setom" creationdate="20190401T114748Z">
+        <seg>Faction_BlueChamber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction_HeroicKingdomLevant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114751Z" creationid="setom" creationdate="20190401T114751Z">
+        <seg>Faction_HeroicKingdomLevant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Faction_HolyMissionEllat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114753Z" creationid="setom" creationdate="20190401T114753Z">
+        <seg>Faction_HolyMissionEllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114706Z" creationid="setom" creationdate="20190401T114706Z">
+        <seg>炎</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114720Z" creationid="setom" creationdate="20190401T114720Z">
+        <seg>氷結</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113916Z" creationid="setom" creationdate="20190401T113916Z">
@@ -930,6 +1090,62 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113331Z" creationid="setom" creationdate="20190401T113331Z">
         <seg>性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_AnyWeapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114759Z" creationid="setom" creationdate="20190401T114759Z">
+        <seg>General_AnyWeapon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Apply</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114818Z" creationid="setom" creationdate="20190401T114818Z">
+        <seg>General_Apply</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Assign</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114831Z" creationid="setom" creationdate="20190401T114831Z">
+        <seg>General_Assign</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Back</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114839Z" creationid="setom" creationdate="20190401T114839Z">
+        <seg>General_Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Cancel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114842Z" creationid="setom" creationdate="20190401T114842Z">
+        <seg>General_Cancel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114809Z" creationid="setom" creationdate="20190401T114809Z">
+        <seg>General_Default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_None</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114804Z" creationid="setom" creationdate="20190401T114804Z">
+        <seg>General_None</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114633Z" creationid="setom" creationdate="20190401T114603Z">
+        <seg>雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Look at the Maps, as exterior regions are huge.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
@@ -1278,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Armed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
+        <seg>非武装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that arrows must be equipped before they can be shot.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112535Z" creationid="setom" creationdate="20190331T112500Z">
@@ -1346,6 +1578,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
         <seg>[InputAction_Attack1]で通常攻撃が、[InputAction_Attack2]で特殊攻撃ができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114726Z" creationid="setom" creationdate="20190401T114726Z">
+        <seg>物理</seg>
       </tuv>
     </tu>
     <tu>
