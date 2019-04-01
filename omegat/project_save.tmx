@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Ingredient</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114443Z" creationid="setom" creationdate="20190401T114443Z">
+        <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114437Z" creationid="setom" creationdate="20190401T114437Z">
+        <seg>いくつかの {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
@@ -66,6 +82,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
         <seg>起床</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Stats</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
+        <seg>基本ステータス</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +170,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113306Z" creationid="setom" creationdate="20190401T113306Z">
         <seg>ChannelingMenu_WarningMessage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharSelection_SelectCharacter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114355Z" creationid="setom" creationdate="20190401T114355Z">
+        <seg>CharSelection_SelectCharacter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharSelection_SelectSave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114403Z" creationid="setom" creationdate="20190401T114403Z">
+        <seg>CharSelection_SelectSave</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,6 +502,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharacterStat_Stamina</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114316Z" creationid="setom" creationdate="20190401T114316Z">
+        <seg>CharacterStat_Stamina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStat_Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114320Z" creationid="setom" creationdate="20190401T114320Z">
+        <seg>CharacterStat_Temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStatus_Tab_BasicStats</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114325Z" creationid="setom" creationdate="20190401T114325Z">
+        <seg>CharacterStatus_Tab_BasicStats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStatus_Tab_Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114335Z" creationid="setom" creationdate="20190401T114335Z">
+        <seg>CharacterStatus_Tab_Defense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStatus_Tab_HandHeld</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114340Z" creationid="setom" creationdate="20190401T114340Z">
+        <seg>CharacterStatus_Tab_HandHeld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterStatus_Tab_StatusEffect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114345Z" creationid="setom" creationdate="20190401T114345Z">
+        <seg>CharacterStatus_Tab_StatusEffect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
@@ -482,6 +570,70 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
         <seg>低温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_AnyIngredient</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114414Z" creationid="setom" creationdate="20190401T114414Z">
+        <seg>CraftingMenu_AnyIngredient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_AnyIngredientGeneric</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114438Z" creationid="setom" creationdate="20190401T114438Z">
+        <seg>CraftingMenu_AnyIngredientGeneric</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114445Z" creationid="setom" creationdate="20190401T114445Z">
+        <seg>CraftingMenu_FreeRecipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe_Alchemy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114452Z" creationid="setom" creationdate="20190401T114452Z">
+        <seg>CraftingMenu_FreeRecipe_Alchemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe_Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114516Z" creationid="setom" creationdate="20190401T114516Z">
+        <seg>CraftingMenu_FreeRecipe_Campfire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe_CookingPot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114520Z" creationid="setom" creationdate="20190401T114520Z">
+        <seg>CraftingMenu_FreeRecipe_CookingPot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe_Forge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114532Z" creationid="setom" creationdate="20190401T114532Z">
+        <seg>CraftingMenu_FreeRecipe_Forge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_FreeRecipe_Survival</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114536Z" creationid="setom" creationdate="20190401T114536Z">
+        <seg>CraftingMenu_FreeRecipe_Survival</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +666,30 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034132Z" creationid="setom" creationdate="20190401T034132Z">
         <seg>DS_01_FromStart_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DamageType_Decay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114540Z" creationid="setom" creationdate="20190401T114540Z">
+        <seg>DamageType_Decay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
+        <seg>減衰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114339Z" creationid="setom" creationdate="20190401T114339Z">
+        <seg>防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand Held</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114344Z" creationid="setom" creationdate="20190401T114344Z">
+        <seg>携帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -962,6 +1146,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112626Z" creationid="setom" creationdate="20190331T112626Z">
         <seg>まずはレイラインでマナが解放される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Recipe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114452Z" creationid="setom" creationdate="20190401T114452Z">
+        <seg>マニュアルレシピ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual Recipe is used to make potions whose recipe you don’t know yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114504Z" creationid="setom" creationdate="20190401T114504Z">
+        <seg>マニュアルレシピは、レシピを知らないポーションを作るために使用されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1478,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select Character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114402Z" creationid="setom" creationdate="20190401T114402Z">
+        <seg>キャラクター選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114413Z" creationid="setom" creationdate="20190401T114413Z">
+        <seg>セーブの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shields can block arrows and the like, but you cannot block magical blasts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111608Z" creationid="setom" creationdate="20190331T111608Z">
@@ -1326,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stamina</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
+        <seg>スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard Axe</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033926Z" creationid="setom" creationdate="20190401T033910Z">
@@ -1366,10 +1590,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Status Effects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114354Z" creationid="setom" creationdate="20190401T114354Z">
+        <seg>ステータス効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such objects burn out over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112759Z" creationid="setom" creationdate="20190331T112759Z">
         <seg>だがそういったオブジェクトは時間の経過で燃え尽きてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114324Z" creationid="setom" creationdate="20190401T114324Z">
+        <seg>温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,8 +2096,8 @@
       <tuv lang="EN-US">
         <seg>Thirsty</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T114138Z" creationid="setom" creationdate="20190401T114138Z">
-        <seg>渇き</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114303Z" creationid="setom" creationdate="20190401T114138Z">
+        <seg>喉が渇いた</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +2192,8 @@
       <tuv lang="EN-US">
         <seg>Very Thirsty</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T114145Z" creationid="setom" creationdate="20190401T114145Z">
-        <seg>酷い渇き</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T114313Z" creationid="setom" creationdate="20190401T114145Z">
+        <seg>とても喉が渇いた</seg>
       </tuv>
     </tu>
     <tu>
