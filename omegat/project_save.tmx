@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Follow the red line to learn about the game’s mechanics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T072352Z" creationid="setom" creationdate="20190401T072352Z">
+        <seg>赤い線を追って、ゲームのシステムを学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food rots with time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
@@ -434,6 +442,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113952Z" creationid="setom" creationdate="20190331T113952Z">
         <seg>近接武器は通常攻撃と特殊攻撃が作成できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T072453Z" creationid="setom" creationdate="20190401T072453Z">
+        <seg>Message_Tutorial_Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Locking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T072446Z" creationid="setom" creationdate="20190401T072446Z">
+        <seg>Message_Tutorial_Locking</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to Outward’s tutorial.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T072250Z" creationid="setom" creationdate="20190401T072250Z">
+        <seg>Outward のチュートリアルにようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your health or stamina decreases (e.g. during combat), your max health or stamina decreases.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
@@ -1290,6 +1322,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112033Z" creationid="setom" creationdate="20190331T112033Z">
         <seg>テントで休んでいても攻撃を受けることがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can bypass parts of the tutorial by not following the red line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T072442Z" creationid="setom" creationdate="20190401T072442Z">
+        <seg>赤い線から外れれば、チュートリアルから抜け出すことができます。</seg>
       </tuv>
     </tu>
     <tu>
