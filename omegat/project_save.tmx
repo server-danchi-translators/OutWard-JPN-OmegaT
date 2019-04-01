@@ -1590,6 +1590,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General_StartSplit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115531Z" creationid="setom" creationdate="20190401T115531Z">
+        <seg>General_StartSplit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Stash</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115541Z" creationid="setom" creationdate="20190401T115541Z">
+        <seg>General_Stash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_StopSplit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115733Z" creationid="setom" creationdate="20190401T115733Z">
+        <seg>General_StopSplit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115746Z" creationid="setom" creationdate="20190401T115746Z">
+        <seg>General_Take</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guards can also provide advice.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114230Z" creationid="setom" creationdate="20190331T114230Z">
@@ -2406,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115539Z" creationid="setom" creationdate="20190401T115539Z">
+        <seg>分割開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113529Z" creationid="setom" creationdate="20190401T113529Z">
@@ -2418,6 +2458,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112606Z" creationid="setom" creationdate="20190331T112606Z">
         <seg>始めたばかりのキャラクターは魔法が使えない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stash</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115732Z" creationid="setom" creationdate="20190401T115554Z">
+        <seg>収納</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,10 +2494,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115745Z" creationid="setom" creationdate="20190401T115745Z">
+        <seg>分割停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such objects burn out over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112759Z" creationid="setom" creationdate="20190331T112759Z">
         <seg>だがそういったオブジェクトは時間の経過で燃え尽きてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115754Z" creationid="setom" creationdate="20190401T115754Z">
+        <seg>取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,8 +3320,8 @@
       <tuv lang="EN-US">
         <seg>You can store any item you don’t want in the Stash chests found in homes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112859Z" creationid="setom" creationdate="20190331T112556Z">
-        <seg>家の中の隠しチェストには見つかりたくないアイテムを貯蔵できる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115712Z" creationid="setom" creationdate="20190331T112556Z">
+        <seg>家の中の収納チェストには見つかりたくないアイテムを貯蔵できる。</seg>
       </tuv>
     </tu>
     <tu>
