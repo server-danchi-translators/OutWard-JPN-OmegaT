@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033938Z" creationid="setom" creationdate="20190401T033938Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100001</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033905Z" creationid="setom" creationdate="20190401T033905Z">
+        <seg>100001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100002</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033945Z" creationid="setom" creationdate="20190401T033945Z">
+        <seg>100002</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
@@ -58,6 +82,30 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033937Z" creationid="setom" creationdate="20190401T033937Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_01_FromStart_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034132Z" creationid="setom" creationdate="20190401T034132Z">
+        <seg>DS_01_FromStart_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033935Z" creationid="setom" creationdate="20190401T033935Z">
+        <seg>Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ItemID</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033932Z" creationid="setom" creationdate="20190401T033932Z">
+        <seg>ItemID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items can be repaired while you rest in a tent.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
@@ -338,6 +394,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
         <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MISSING DESC</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
+        <seg>MISSING DESC</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +442,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033934Z" creationid="setom" creationdate="20190401T033934Z">
+        <seg>Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standard Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033926Z" creationid="setom" creationdate="20190401T033910Z">
+        <seg>普通の斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting characters can’t use magic.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112606Z" creationid="setom" creationdate="20190331T112606Z">
@@ -550,10 +630,394 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T033936Z" creationid="setom" creationdate="20190401T033936Z">
+        <seg>Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such objects burn out over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112759Z" creationid="setom" creationdate="20190331T112759Z">
         <seg>だがそういったオブジェクトは時間の経過で燃え尽きてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034005Z" creationid="setom" creationdate="20190401T034005Z">
+        <seg>Test_Tip1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034019Z" creationid="setom" creationdate="20190401T034019Z">
+        <seg>Test_Tip10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034021Z" creationid="setom" creationdate="20190401T034021Z">
+        <seg>Test_Tip11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034022Z" creationid="setom" creationdate="20190401T034022Z">
+        <seg>Test_Tip12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034024Z" creationid="setom" creationdate="20190401T034024Z">
+        <seg>Test_Tip13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034026Z" creationid="setom" creationdate="20190401T034026Z">
+        <seg>Test_Tip14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034027Z" creationid="setom" creationdate="20190401T034027Z">
+        <seg>Test_Tip15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034029Z" creationid="setom" creationdate="20190401T034029Z">
+        <seg>Test_Tip16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034030Z" creationid="setom" creationdate="20190401T034030Z">
+        <seg>Test_Tip17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034032Z" creationid="setom" creationdate="20190401T034032Z">
+        <seg>Test_Tip18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034033Z" creationid="setom" creationdate="20190401T034033Z">
+        <seg>Test_Tip19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034007Z" creationid="setom" creationdate="20190401T034007Z">
+        <seg>Test_Tip2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034035Z" creationid="setom" creationdate="20190401T034035Z">
+        <seg>Test_Tip20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034036Z" creationid="setom" creationdate="20190401T034036Z">
+        <seg>Test_Tip21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034038Z" creationid="setom" creationdate="20190401T034038Z">
+        <seg>Test_Tip22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034039Z" creationid="setom" creationdate="20190401T034039Z">
+        <seg>Test_Tip23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034041Z" creationid="setom" creationdate="20190401T034041Z">
+        <seg>Test_Tip24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034042Z" creationid="setom" creationdate="20190401T034042Z">
+        <seg>Test_Tip25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034043Z" creationid="setom" creationdate="20190401T034043Z">
+        <seg>Test_Tip26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034045Z" creationid="setom" creationdate="20190401T034045Z">
+        <seg>Test_Tip27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034046Z" creationid="setom" creationdate="20190401T034046Z">
+        <seg>Test_Tip28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034051Z" creationid="setom" creationdate="20190401T034051Z">
+        <seg>Test_Tip29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034009Z" creationid="setom" creationdate="20190401T034009Z">
+        <seg>Test_Tip3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip30</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034059Z" creationid="setom" creationdate="20190401T034059Z">
+        <seg>Test_Tip30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip31</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034100Z" creationid="setom" creationdate="20190401T034100Z">
+        <seg>Test_Tip31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034102Z" creationid="setom" creationdate="20190401T034102Z">
+        <seg>Test_Tip32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip33</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034103Z" creationid="setom" creationdate="20190401T034103Z">
+        <seg>Test_Tip33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip34</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034105Z" creationid="setom" creationdate="20190401T034105Z">
+        <seg>Test_Tip34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip35</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034106Z" creationid="setom" creationdate="20190401T034106Z">
+        <seg>Test_Tip35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip36</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034108Z" creationid="setom" creationdate="20190401T034108Z">
+        <seg>Test_Tip36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip37</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034110Z" creationid="setom" creationdate="20190401T034110Z">
+        <seg>Test_Tip37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip38</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034111Z" creationid="setom" creationdate="20190401T034111Z">
+        <seg>Test_Tip38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip39</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034112Z" creationid="setom" creationdate="20190401T034112Z">
+        <seg>Test_Tip39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034010Z" creationid="setom" creationdate="20190401T034010Z">
+        <seg>Test_Tip4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip40</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034114Z" creationid="setom" creationdate="20190401T034114Z">
+        <seg>Test_Tip40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip41</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034115Z" creationid="setom" creationdate="20190401T034115Z">
+        <seg>Test_Tip41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip42</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034117Z" creationid="setom" creationdate="20190401T034117Z">
+        <seg>Test_Tip42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip43</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034118Z" creationid="setom" creationdate="20190401T034118Z">
+        <seg>Test_Tip43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip44</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034119Z" creationid="setom" creationdate="20190401T034119Z">
+        <seg>Test_Tip44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip45</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034120Z" creationid="setom" creationdate="20190401T034120Z">
+        <seg>Test_Tip45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034122Z" creationid="setom" creationdate="20190401T034122Z">
+        <seg>Test_Tip46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034123Z" creationid="setom" creationdate="20190401T034123Z">
+        <seg>Test_Tip47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034012Z" creationid="setom" creationdate="20190401T034012Z">
+        <seg>Test_Tip5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034014Z" creationid="setom" creationdate="20190401T034014Z">
+        <seg>Test_Tip6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034015Z" creationid="setom" creationdate="20190401T034015Z">
+        <seg>Test_Tip7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034017Z" creationid="setom" creationdate="20190401T034017Z">
+        <seg>Test_Tip8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test_Tip9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034018Z" creationid="setom" creationdate="20190401T034018Z">
+        <seg>Test_Tip9</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +1442,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
         <seg>敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>loc_key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034003Z" creationid="setom" creationdate="20190401T034003Z">
+        <seg>loc_key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>value</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
+        <seg>value</seg>
       </tuv>
     </tu>
     <tu>
