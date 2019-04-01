@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Head down to learn about basic combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T073251Z" creationid="setom" creationdate="20190401T073251Z">
+        <seg>まずは戦闘の基本について学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114137Z" creationid="setom" creationdate="20190331T114137Z">
@@ -442,6 +450,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113952Z" creationid="setom" creationdate="20190331T113952Z">
         <seg>近接武器は通常攻撃と特殊攻撃が作成できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Attacks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T073254Z" creationid="setom" creationdate="20190401T073254Z">
+        <seg>Message_Tutorial_Attacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T073135Z" creationid="setom" creationdate="20190401T073135Z">
+        <seg>Message_Tutorial_Combat</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +602,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
         <seg>強力な武器やポーションが作成でき、他に強力な罠にも使える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press [InputAction_LockToggle] to lock your camera on an enemy, allowing you to hit him more easily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
+        <seg>[InputAction_LockToggle]でカメラを敵にロックでき、攻撃がより当てやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
