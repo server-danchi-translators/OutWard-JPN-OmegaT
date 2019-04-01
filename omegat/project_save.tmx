@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bag Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120015Z" creationid="setom" creationdate="20190401T120015Z">
+        <seg>バッグの重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Stats</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115907Z" creationid="setom" creationdate="20190401T115907Z">
+        <seg>比較</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114934Z" creationid="setom" creationdate="20190401T114934Z">
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Equipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120003Z" creationid="setom" creationdate="20190401T120003Z">
+        <seg>現在の装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033937Z" creationid="setom" creationdate="20190401T033937Z">
@@ -818,6 +842,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114721Z" creationid="setom" creationdate="20190401T114721Z">
         <seg>DamageType_Physical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Day</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115852Z" creationid="setom" creationdate="20190401T115852Z">
+        <seg>日</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1034,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
         <seg>装備は使うと耐久力を失い、壊れていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipped Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120026Z" creationid="setom" creationdate="20190401T120026Z">
+        <seg>装備の重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General_Compare</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115905Z" creationid="setom" creationdate="20190401T115905Z">
+        <seg>General_Compare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General_Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114931Z" creationid="setom" creationdate="20190401T114931Z">
@@ -1322,6 +1370,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114912Z" creationid="setom" creationdate="20190401T114912Z">
         <seg>General_Credits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Day</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115849Z" creationid="setom" creationdate="20190401T115849Z">
+        <seg>General_Day</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General_Reset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115826Z" creationid="setom" creationdate="20190401T115826Z">
+        <seg>General_Reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General_Restart</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115303Z" creationid="setom" creationdate="20190401T115303Z">
@@ -1618,6 +1682,102 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115746Z" creationid="setom" creationdate="20190401T115746Z">
         <seg>General_Take</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_TakeAll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115804Z" creationid="setom" creationdate="20190401T115804Z">
+        <seg>General_TakeAll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Transfer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115831Z" creationid="setom" creationdate="20190401T115831Z">
+        <seg>General_Transfer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115818Z" creationid="setom" creationdate="20190401T115818Z">
+        <seg>General_Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Unlock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115842Z" creationid="setom" creationdate="20190401T115842Z">
+        <seg>General_Unlock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_WaitForOthers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115853Z" creationid="setom" creationdate="20190401T115853Z">
+        <seg>General_WaitForOthers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Yes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115845Z" creationid="setom" creationdate="20190401T115845Z">
+        <seg>General_Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_High</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115908Z" creationid="setom" creationdate="20190401T115908Z">
+        <seg>GraphicSettings_High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_Low</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115912Z" creationid="setom" creationdate="20190401T115912Z">
+        <seg>GraphicSettings_Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_Medium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115915Z" creationid="setom" creationdate="20190401T115915Z">
+        <seg>GraphicSettings_Medium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_Potato</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115916Z" creationid="setom" creationdate="20190401T115916Z">
+        <seg>GraphicSettings_Potato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_VeryHigh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115919Z" creationid="setom" creationdate="20190401T115919Z">
+        <seg>GraphicSettings_VeryHigh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GraphicSettings_VeryLow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115914Z" creationid="setom" creationdate="20190401T115914Z">
+        <seg>GraphicSettings_VeryLow</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,6 +1954,54 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
         <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Container_CurrentEquipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115958Z" creationid="setom" creationdate="20190401T115958Z">
+        <seg>Inventory_Container_CurrentEquipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Container_NoLimit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115921Z" creationid="setom" creationdate="20190401T115921Z">
+        <seg>Inventory_Container_NoLimit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Overview_BagWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120004Z" creationid="setom" creationdate="20190401T120004Z">
+        <seg>Inventory_Overview_BagWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Overview_EquippedWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120016Z" creationid="setom" creationdate="20190401T120016Z">
+        <seg>Inventory_Overview_EquippedWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Overview_PocketWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120027Z" creationid="setom" creationdate="20190401T120027Z">
+        <seg>Inventory_Overview_PocketWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Overview_TotalWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120048Z" creationid="setom" creationdate="20190401T120048Z">
+        <seg>Inventory_Overview_TotalWeight</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Limit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115934Z" creationid="setom" creationdate="20190401T115934Z">
+        <seg>無制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Armed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
@@ -2174,6 +2390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pocket Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120044Z" creationid="setom" creationdate="20190401T120044Z">
+        <seg>ポケットの重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Potato</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115951Z" creationid="setom" creationdate="20190401T115951Z">
+        <seg>ジャガイモ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
@@ -2242,6 +2474,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
         <seg>リフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115830Z" creationid="setom" creationdate="20190401T115830Z">
+        <seg>リセット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2754,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115754Z" creationid="setom" creationdate="20190401T115754Z">
         <seg>取る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115814Z" creationid="setom" creationdate="20190401T115814Z">
+        <seg>全て回収</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,6 +3294,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120051Z" creationid="setom" creationdate="20190401T120051Z">
+        <seg>総重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transfer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115841Z" creationid="setom" creationdate="20190401T115841Z">
+        <seg>転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Traps are very useful.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114124Z" creationid="setom" creationdate="20190331T114124Z">
@@ -3062,10 +3326,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115825Z" creationid="setom" creationdate="20190401T115825Z">
+        <seg>チュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two-handed weapons deal more damage and have more reach than smaller weapons.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114012Z" creationid="setom" creationdate="20190331T114012Z">
         <seg>両手武器は、小さな武器よりも多くのダメージと広いリーチを持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115844Z" creationid="setom" creationdate="20190401T115844Z">
+        <seg>解除</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3426,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142431Z" creationid="urakata" creationdate="20190331T092802Z">
         <seg>Monsoonでaromor pieceが完成するまで24時間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for others...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115904Z" creationid="setom" creationdate="20190401T115904Z">
+        <seg>参加者を待っています…</seg>
       </tuv>
     </tu>
     <tu>
