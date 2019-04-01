@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
+        <seg>全て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120108Z" creationid="setom" creationdate="20190401T120108Z">
+        <seg>矢弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Ingredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114443Z" creationid="setom" creationdate="20190401T114443Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114822Z" creationid="setom" creationdate="20190401T114822Z">
         <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120120Z" creationid="setom" creationdate="20190401T120120Z">
+        <seg>鎧</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +146,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114841Z" creationid="setom" creationdate="20190401T114841Z">
         <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120126Z" creationid="setom" creationdate="20190401T120126Z">
+        <seg>バッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bag Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120134Z" creationid="setom" creationdate="20190401T120134Z">
+        <seg>バッグの中身</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +210,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
         <seg>水を煮たり生肉を炙ったりするだけならば、火を点けたキャンプファイアだけで構わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120154Z" creationid="setom" creationdate="20190401T120154Z">
+        <seg>ブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +962,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114741Z" creationid="setom" creationdate="20190401T114741Z">
         <seg>DeployableTrapMenu_ResultTrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120204Z" creationid="setom" creationdate="20190401T120204Z">
+        <seg>接地品</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helmets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120227Z" creationid="setom" creationdate="20190401T120216Z">
+        <seg>ヘルメット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115114Z" creationid="setom" creationdate="20190401T115114Z">
@@ -1950,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ingredients</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120240Z" creationid="setom" creationdate="20190401T120240Z">
+        <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inns will take care of all your needs for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
@@ -2002,6 +2074,94 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120048Z" creationid="setom" creationdate="20190401T120048Z">
         <seg>Inventory_Overview_TotalWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120052Z" creationid="setom" creationdate="20190401T120052Z">
+        <seg>Inventory_Section_All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Ammo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
+        <seg>Inventory_Section_Ammo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Armors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120109Z" creationid="setom" creationdate="20190401T120109Z">
+        <seg>Inventory_Section_Armors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120120Z" creationid="setom" creationdate="20190401T120120Z">
+        <seg>Inventory_Section_Backpack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_BackpackContent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120127Z" creationid="setom" creationdate="20190401T120127Z">
+        <seg>Inventory_Section_BackpackContent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120135Z" creationid="setom" creationdate="20190401T120135Z">
+        <seg>Inventory_Section_Boots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Deployables</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120154Z" creationid="setom" creationdate="20190401T120154Z">
+        <seg>Inventory_Section_Deployables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Helmet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120205Z" creationid="setom" creationdate="20190401T120205Z">
+        <seg>Inventory_Section_Helmet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_Ingredients</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120233Z" creationid="setom" creationdate="20190401T120233Z">
+        <seg>Inventory_Section_Ingredients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_MainHand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120241Z" creationid="setom" creationdate="20190401T120241Z">
+        <seg>Inventory_Section_MainHand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inventory_Section_OffHand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120249Z" creationid="setom" creationdate="20190401T120249Z">
+        <seg>Inventory_Section_OffHand</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2226,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
         <seg>MISSING DESC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Main Hand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T120248Z" creationid="setom" creationdate="20190401T120248Z">
+        <seg>利き腕</seg>
       </tuv>
     </tu>
     <tu>
