@@ -3640,8 +3640,8 @@
       <tuv lang="EN-US">
         <seg>Which special attack will be made depends on the number of normal attacks you just performed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T074321Z" creationid="setom" creationdate="20190331T113953Z">
-        <seg>どんな特殊攻撃になるかは、通常攻撃次第だ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190401T122446Z" creationid="setom" creationdate="20190331T113953Z">
+        <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
       </tuv>
     </tu>
     <tu>
