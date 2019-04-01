@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Stability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T075727Z" creationid="setom" creationdate="20190401T075727Z">
+        <seg>Message_Tutorial_Stability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114002Z" creationid="setom" creationdate="20190331T114002Z">
@@ -1610,6 +1618,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
         <seg>敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your stability bar is at the bottom of the screen while enemies have it under their health bar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T075944Z" creationid="setom" creationdate="20190401T075944Z">
+        <seg>自分の体幹ゲージは画面の下部にあり、敵の場合は体力ゲージの下にあります。</seg>
       </tuv>
     </tu>
     <tu>
