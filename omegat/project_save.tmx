@@ -1446,10 +1446,146 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General_Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115149Z" creationid="setom" creationdate="20190401T115149Z">
+        <seg>General_Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Merchant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115155Z" creationid="setom" creationdate="20190401T115155Z">
+        <seg>General_Merchant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_NewGame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115201Z" creationid="setom" creationdate="20190401T115201Z">
+        <seg>General_NewGame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_No</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115216Z" creationid="setom" creationdate="20190401T115216Z">
+        <seg>General_No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General_None</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114804Z" creationid="setom" creationdate="20190401T114804Z">
         <seg>General_None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Occupied</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115220Z" creationid="setom" creationdate="20190401T115220Z">
+        <seg>General_Occupied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Ok</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115221Z" creationid="setom" creationdate="20190401T115221Z">
+        <seg>General_Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_OpenGame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115224Z" creationid="setom" creationdate="20190401T115224Z">
+        <seg>General_OpenGame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Quit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
+        <seg>General_Quit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Restart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115303Z" creationid="setom" creationdate="20190401T115303Z">
+        <seg>General_Restart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Resume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
+        <seg>General_Resume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115324Z" creationid="setom" creationdate="20190401T115324Z">
+        <seg>General_Save</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Second</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
+        <seg>General_Second</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Seconds</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115336Z" creationid="setom" creationdate="20190401T115336Z">
+        <seg>General_Seconds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Select</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115341Z" creationid="setom" creationdate="20190401T115341Z">
+        <seg>General_Select</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115345Z" creationid="setom" creationdate="20190401T115345Z">
+        <seg>General_Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Skill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115428Z" creationid="setom" creationdate="20190401T115428Z">
+        <seg>General_Skill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_StartResting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115432Z" creationid="setom" creationdate="20190401T115432Z">
+        <seg>General_StartResting</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,10 +1878,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115149Z" creationid="setom" creationdate="20190401T115149Z">
+        <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074305Z" creationid="setom" creationdate="20190331T113952Z">
         <seg>近接武器は通常攻撃と特殊攻撃ができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115154Z" creationid="setom" creationdate="20190401T115154Z">
+        <seg>メニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115200Z" creationid="setom" creationdate="20190401T115200Z">
+        <seg>商人</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115215Z" creationid="setom" creationdate="20190401T115215Z">
+        <seg>ニューゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Armed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
@@ -1890,6 +2058,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112824Z" creationid="setom" creationdate="20190331T112557Z">
         <seg>貨幣や銀貨にも重量があることを心に留めておけ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Game to Friends</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
+        <seg>フレンドのゲーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quit Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115303Z" creationid="setom" creationdate="20190401T115303Z">
+        <seg>ゲームをやめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Race</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113445Z" creationid="setom" creationdate="20190401T113445Z">
@@ -2030,10 +2214,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
+        <seg>再スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Result</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113254Z" creationid="setom" creationdate="20190401T113234Z">
         <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115324Z" creationid="setom" creationdate="20190401T115324Z">
+        <seg>続ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2262,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
+        <seg>セーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115336Z" creationid="setom" creationdate="20190401T115336Z">
+        <seg>秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second(s)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115340Z" creationid="setom" creationdate="20190401T115340Z">
+        <seg>秒(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115344Z" creationid="setom" creationdate="20190401T115344Z">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select Character</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114402Z" creationid="setom" creationdate="20190401T114402Z">
@@ -2074,6 +2306,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114413Z" creationid="setom" creationdate="20190401T114413Z">
         <seg>セーブの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115349Z" creationid="setom" creationdate="20190401T115349Z">
+        <seg>設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2338,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111721Z" creationid="setom" creationdate="20190331T111721Z">
         <seg>ただランタンをバックパック内に入れるだけで、火を点けずとも光を灯すだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115431Z" creationid="setom" creationdate="20190401T115431Z">
+        <seg>スキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2394,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034817Z" creationid="setom" creationdate="20190401T034817Z">
         <seg>普通の斧 2H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Resting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190401T115530Z" creationid="setom" creationdate="20190401T115530Z">
+        <seg>休息をとる</seg>
       </tuv>
     </tu>
     <tu>
