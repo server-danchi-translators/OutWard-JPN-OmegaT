@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- Active -</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083614Z" creationid="totochan" creationdate="20190402T083614Z">
+        <seg>- アクティブ -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Completed -</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083626Z" creationid="totochan" creationdate="20190402T083626Z">
+        <seg>- 完了 -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Missing Ingredients -</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083459Z" creationid="totochan" creationdate="20190402T083459Z">
+        <seg>- 材料を失った -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033938Z" creationid="setom" creationdate="20190401T033938Z">
@@ -2102,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083607Z" creationid="totochan" creationdate="20190402T083607Z">
+        <seg>耐冷防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Weather Def.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
@@ -3638,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Head armor which reduces the damage you receive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083741Z" creationid="totochan" creationdate="20190402T083741Z">
+        <seg>頭に受けるダメージを軽減します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head down to learn about basic combat.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073251Z" creationid="setom" creationdate="20190401T073251Z">
@@ -3650,6 +3690,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113802Z" creationid="setom" creationdate="20190401T113802Z">
         <seg>体力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heat Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083536Z" creationid="totochan" creationdate="20190402T083536Z">
+        <seg>耐熱防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -4643,6 +4691,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021915Z" creationid="hiru4" creationdate="20190402T020859Z">
         <seg>消費マナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083522Z" creationid="totochan" creationdate="20190402T083522Z">
+        <seg>マナ消費</seg>
       </tuv>
     </tu>
     <tu>
@@ -6624,6 +6680,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083504Z" creationid="totochan" creationdate="20190402T083504Z">
+        <seg>速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
@@ -6636,6 +6700,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021108Z" creationid="hiru4" creationdate="20190402T021108Z">
         <seg>消費スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083515Z" creationid="totochan" creationdate="20190402T083515Z">
+        <seg>スタミナ消費</seg>
       </tuv>
     </tu>
     <tu>
@@ -7972,6 +8044,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113425Z" creationid="setom" creationdate="20190331T113425Z">
         <seg>だがセーブスロットは1つしかない、つまり古いセーブデータをロードして結果から逃げるなんてことは出来ないということだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You pay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083632Z" creationid="totochan" creationdate="20190402T083632Z">
+        <seg>支払いYou pay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You receive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083645Z" creationid="totochan" creationdate="20190402T083645Z">
+        <seg>受け取る</seg>
       </tuv>
     </tu>
     <tu>
