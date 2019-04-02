@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Item in Legacy Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021313Z" creationid="hiru4" creationdate="20190402T021313Z">
+        <seg>引き継げるアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ItemID</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033932Z" creationid="setom" creationdate="20190401T033932Z">
@@ -2766,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pouch Bonus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021258Z" creationid="hiru4" creationdate="20190402T021258Z">
+        <seg>ポーチ補正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
@@ -2898,6 +2914,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
         <seg>再スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restored Drink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021047Z" creationid="hiru4" creationdate="20190402T021047Z">
+        <seg>水分補給</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restored Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021034Z" creationid="hiru4" creationdate="20190402T021034Z">
+        <seg>食料補給Restored Food</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,6 +3106,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
         <seg>スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021108Z" creationid="hiru4" creationdate="20190402T021108Z">
+        <seg>消費スタミナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3806,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021122Z" creationid="hiru4" creationdate="20190402T021122Z">
+        <seg>種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unit Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021151Z" creationid="hiru4" creationdate="20190402T021151Z">
+        <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlimited</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021157Z" creationid="hiru4" creationdate="20190402T021157Z">
+        <seg>無制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115844Z" creationid="setom" creationdate="20190401T115844Z">
@@ -3870,10 +3934,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waterproof</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021217Z" creationid="hiru4" creationdate="20190402T021217Z">
+        <seg>防水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waterskins are the only way to store water.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111812Z" creationid="setom" creationdate="20190331T111812Z">
         <seg>革の水筒の用途は水を貯めることだけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021224Z" creationid="hiru4" creationdate="20190402T021224Z">
+        <seg>重量</seg>
       </tuv>
     </tu>
     <tu>
