@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>1 – Introduction</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T093927Z" creationid="setom" creationdate="20190402T093927Z">
-        <seg>1 – イントロダクション</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094016Z" creationid="setom" creationdate="20190402T093927Z">
+        <seg>1 – はじめに</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113508Z" creationid="setom" creationdate="20190401T113508Z">
         <seg>2 Players</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2 – Basic Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094023Z" creationid="setom" creationdate="20190402T094023Z">
+        <seg>2 – 戦闘の基本</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1250,46 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074934Z" creationid="setom" creationdate="20190402T074934Z">
         <seg>2300090</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3 – Locking on Enemies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094032Z" creationid="setom" creationdate="20190402T094032Z">
+        <seg>3 – 敵のロックオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4 – Basic Attacks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094038Z" creationid="setom" creationdate="20190402T094038Z">
+        <seg>4 – 攻撃の基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5 – Blocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094151Z" creationid="setom" creationdate="20190402T094042Z">
+        <seg>5 – ブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6 – Defences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094155Z" creationid="setom" creationdate="20190402T094155Z">
+        <seg>6 – 防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7 – Stability Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094422Z" creationid="setom" creationdate="20190402T094422Z">
+        <seg>7 – スタビリティーバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -6184,10 +6232,58 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Attacks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094033Z" creationid="setom" creationdate="20190402T094033Z">
+        <seg>Player_Message_TutorialTitle_Attacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Blocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094039Z" creationid="setom" creationdate="20190402T094039Z">
+        <seg>Player_Message_TutorialTitle_Blocking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094017Z" creationid="setom" creationdate="20190402T094017Z">
+        <seg>Player_Message_TutorialTitle_Combat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Defences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094042Z" creationid="setom" creationdate="20190402T094042Z">
+        <seg>Player_Message_TutorialTitle_Defences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T093907Z" creationid="setom" creationdate="20190402T093907Z">
         <seg>Player_Message_TutorialTitle_Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Locking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094024Z" creationid="setom" creationdate="20190402T094024Z">
+        <seg>Player_Message_TutorialTitle_Locking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Stability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094156Z" creationid="setom" creationdate="20190402T094156Z">
+        <seg>Player_Message_TutorialTitle_Stability</seg>
       </tuv>
     </tu>
     <tu>
