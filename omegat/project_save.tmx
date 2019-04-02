@@ -7378,8 +7378,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You can also move away from attacks by holding [InputAction_Sprint] to Sprint.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T075016Z" creationid="setom" creationdate="20190401T075724Z">
-        <seg>[InputAction_Sprint]を押し続けるとダッシュで攻撃から逃げることもできます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T075409Z" creationid="setom" creationdate="20190401T075724Z">
+        <seg>[InputAction_Sprint]を長押しで、ダッシュして攻撃から逃げることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7628,6 +7628,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024253Z" creationid="hiru4" creationdate="20190402T024253Z">
         <seg>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Gamepad_Specific]To use quickslots with a gamepad, press the assigned button while holding [InputAction_QuickSlotToggle1] or [InputAction_QuickSlotToggle2].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T075631Z" creationid="setom" creationdate="20190402T075631Z">
+        <seg>[Gamepad_Specific]ゲームパッドでクイックスロットを使うには、[InputAction_QuickSlotToggle1]または[InputAction_QuickSlotToggle2]を長押ししながら割り当てられているボタンを押します。</seg>
       </tuv>
     </tu>
     <tu>
