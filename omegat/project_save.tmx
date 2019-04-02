@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather 3 Wood from the nearby tree, enter your menu with [InputAction_ToggleInventory], go to the Crafting tab and select a Campfire Kit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082717Z" creationid="setom" creationdate="20190402T082717Z">
+        <seg>近くの木から3つの木材を集めて[InputAction_ToggleInventory]を押し、メニューのクラフトタブからCampfire Kitを選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gathering plants and mushrooms is the most basic way to find food.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
@@ -4055,6 +4063,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It takes a long time to recover from illness, though medicinal teas can help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082436Z" creationid="setom" creationdate="20190402T082436Z">
+        <seg>病気の治療には時間がかかりますが、薬効のあるお茶が助けになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was forged to slay horrors, who are weak to lightning.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064155Z" creationid="setom" creationdate="20190402T064155Z">
@@ -4651,6 +4667,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074549Z" creationid="setom" creationdate="20190401T074549Z">
         <seg>Message_Tutorial_Blocking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082439Z" creationid="setom" creationdate="20190402T082439Z">
+        <seg>Message_Tutorial_Campfire</seg>
       </tuv>
     </tu>
     <tu>
@@ -7164,6 +7188,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075655Z" creationid="setom" creationdate="20190402T075330Z">
         <seg>スキルやアイテムのクイックスロットへの割当ては[InputAction_ToggleInventory]でメニューを開き、タブを選んで行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To cook in the wild, you must craft Campfire Kits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082523Z" creationid="setom" creationdate="20190402T082523Z">
+        <seg>野外で料理をするにはCampfire Kitsを作らないといけません。</seg>
       </tuv>
     </tu>
     <tu>
