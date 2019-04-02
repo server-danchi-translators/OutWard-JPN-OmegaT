@@ -3670,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guarding lowers the chance that this occurs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090654Z" creationid="setom" creationdate="20190402T090654Z">
+        <seg>見回りをすることでその可能性を減らすことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guards can also provide advice.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114230Z" creationid="setom" creationdate="20190331T114230Z">
@@ -5075,6 +5083,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074958Z" creationid="setom" creationdate="20190402T074958Z">
         <seg>Message_Tutorial_Quickslots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Repairing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090758Z" creationid="setom" creationdate="20190402T090758Z">
+        <seg>Message_Tutorial_Repairing</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +8076,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
         <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where you decide to rest also impacts how likely it is you will be attacked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090757Z" creationid="setom" creationdate="20190402T090757Z">
+        <seg>休息をする場所によって、襲撃の可能性は変化します。</seg>
       </tuv>
     </tu>
     <tu>
