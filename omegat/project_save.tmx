@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After the Resting Time, your fatigue status will be {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024207Z" creationid="hiru4" creationdate="20190402T024207Z">
+        <seg>休憩後の疲労状態{1}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
@@ -982,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current Equipment Durability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024143Z" creationid="hiru4" creationdate="20190402T024143Z">
+        <seg>現在の装備の耐久値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023238Z" creationid="hiru4" creationdate="20190402T023238Z">
@@ -1282,6 +1298,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114911Z" creationid="setom" creationdate="20190401T114911Z">
         <seg>装備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment Durability after rest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024118Z" creationid="hiru4" creationdate="20190402T024118Z">
+        <seg>修理後の装備の耐久値</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2154,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022357Z" creationid="hiru4" creationdate="20190402T022357Z">
         <seg>草の密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024300Z" creationid="hiru4" creationdate="20190402T024300Z">
+        <seg>警戒Guard</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3744,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repairing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024309Z" creationid="hiru4" creationdate="20190402T024309Z">
+        <seg>修理Repairing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repairing restores your equipped items’ durability.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023810Z" creationid="hiru4" creationdate="20190402T023810Z">
@@ -3756,6 +3796,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
         <seg>再スタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024316Z" creationid="hiru4" creationdate="20190402T024316Z">
+        <seg>休息</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3876,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
         <seg>SS シャドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe Zone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024329Z" creationid="hiru4" creationdate="20190402T024329Z">
+        <seg>安全地帯</seg>
       </tuv>
     </tu>
     <tu>
@@ -5192,6 +5248,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need {1} to be fully recovered</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024242Z" creationid="hiru4" creationdate="20190402T024242Z">
+        <seg>完全に回復するには{1}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You only have 8 quickslots, so choose wisely.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111857Z" creationid="setom" creationdate="20190331T111834Z">
@@ -5248,6 +5312,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your fatigue status is {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024224Z" creationid="hiru4" creationdate="20190402T024224Z">
+        <seg>現在の疲労状況{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
@@ -5260,6 +5332,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T080630Z" creationid="setom" creationdate="20190401T075944Z">
         <seg>自分のスタビリティーバーは画面の下部にあり、敵の場合は体力バーの下にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your statuses will be: Fatigue: {1}Drink:{2}Food:{3}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024253Z" creationid="hiru4" creationdate="20190402T024253Z">
+        <seg>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</seg>
       </tuv>
     </tu>
     <tu>
