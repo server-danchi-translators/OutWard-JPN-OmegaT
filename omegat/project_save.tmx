@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Animation Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022204Z" creationid="hiru4" creationdate="20190402T022204Z">
+        <seg>アニメーション品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Ingredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114443Z" creationid="setom" creationdate="20190401T114443Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112521Z" creationid="setom" creationdate="20190331T112453Z">
         <seg>遠距離攻撃に弓は最も基本的な手段だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camera Sensitivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022122Z" creationid="hiru4" creationdate="20190402T022122Z">
+        <seg>カメラ感度Camera Sensitivity</seg>
       </tuv>
     </tu>
     <tu>
