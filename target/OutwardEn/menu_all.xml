@@ -407,27 +407,27 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>QuestMenu_Tab_MainQuests</column_1><column_2>メジャークエスト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>QuestMenu_Tab_SideQuests</column_1><column_2>サブクエスト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Audio_MuteBackground</column_1><column_2>バックグラウンド時ミュート</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Connection_Error_ConnectionLost</column_1><column_2>Connection to the server has been lost.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Connection_Error_ConnectionFailed</column_1><column_2>Failed to connect to the server.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>You are about to reset to default mapping. Do you wish to proceed?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Connection_Error_ConnectionLost</column_1><column_2>ホストとの接続を失った</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Connection_Error_ConnectionFailed</column_1><column_2>フレンドを招待</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>You are about to reset to default mapping. どれくらい睡眠をとりますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Mushroom</column_1><column_2>Mushroom</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Male</column_1><column_2>Male</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Female</column_1><column_2>Female</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Male</column_1><column_2>男性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Female</column_1><column_2>女性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CharacterCreation_White</column_1><column_2>Auraian</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CharacterCreation_Black</column_1><column_2>Tramon</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CharacterCreation_Asian</column_1><column_2>Kazite</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>OptionMenu_Quality_Fullscreen</column_1><column_2>Fullscreen</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>OptionMenu_Quality_Windowed</column_1><column_2>Windowed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>OptionMenu_Quality_Borderless</column_1><column_2>Borderless</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Loading_WaitingPlayerToConnect</column_1><column_2>Waiting for the other player to connect.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_LogOut</column_1><column_2>Log out</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_Load</column_1><column_2>Load</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_ChooseSave</column_1><column_2>Choose a save</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_ChooseCharacter</column_1><column_2>Choose a character</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Compass_North</column_1><column_2>N</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Compass_South</column_1><column_2>S</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Compass_East</column_1><column_2>E</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Compass_West</column_1><column_2>W</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>OptionMenu_Quality_Fullscreen</column_1><column_2>全画面Fullscreen</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>OptionMenu_Quality_Windowed</column_1><column_2>ウィンドウモード</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>OptionMenu_Quality_Borderless</column_1><column_2>ボーダレス</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Loading_WaitingPlayerToConnect</column_1><column_2>参加者を待っています…</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_LogOut</column_1><column_2>ログアウト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_Load</column_1><column_2>ロード</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_ChooseSave</column_1><column_2>セーブの選択</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_ChooseCharacter</column_1><column_2>キャラクター選択</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Compass_North</column_1><column_2>北</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Compass_South</column_1><column_2>南</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Compass_East</column_1><column_2>東</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Compass_West</column_1><column_2>西</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="2">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

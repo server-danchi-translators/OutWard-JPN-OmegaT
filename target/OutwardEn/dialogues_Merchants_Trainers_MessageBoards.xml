@@ -351,25 +351,25 @@
     <ooo_row><column_1>Message_Tutorial_ComplexSkills2</column_1><column_2>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesは所持品にありますね？Fire Sigilを詠唱し、魔法陣の中でSparkを使ってください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_WeaponSkills</column_1><column_2>EnrageとPredator Leapのスキルをクイックスロットに割り当ててください。Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけPredator Leapが使えるようになります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_NegativeEffects2</column_1><column_2>ステータス効果は画面左下に表示されます。マイナス効果を取り除いておくことが戦闘で重要になります。例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Needs</column_1><column_2>食事や給水の正しい手順を学んでいきましょう。キャラクターには二つの欲求があります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Gathering</column_1><column_2>喉の渇きや空腹を満たしてください。さもなければあなたは気絶してしまいます。動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶには水筒が必要になります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Needs</column_1><column_2>キャラクターの欲求のうちの二つ、食事や給水の正しい手順を学んでいきましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Gathering</column_1><column_2>喉の渇きや空腹を満たしてください。さもなければあなたは気絶してしまいます。動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶにはwaterskinが必要になります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Disease</column_1><column_2>肉は調理し、水は煮沸して病気にならないようにしましょう。病気の治療には時間がかかりますが、薬効のあるお茶が助けになります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Campfire</column_1><column_2>野外で料理をするにはCampfire Kitsを作らないといけません。近くの木から3つの木材を集めて[InputAction_ToggleInventory]を押し、メニューのクラフトタブからCampfire Kitを選択してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Campfire2</column_1><column_2>Campfire Kitを持っていたら、所持品から使用してみてください。地面にCampfireを設置できます。火打石と打ち金を持っているなら、キャンプファイアに火をつけることができます、</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Cooking</column_1><column_2>材料を1つしか使わない料理なら火をつけたキャンプファイアだけで大丈夫です。複数の材料を使ったレシピであれば、キッチンか火にかけた料理鍋が必要です。料理鍋が所持品にあればキャンプファイアで使うことができます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Temperature</column_1><column_2>階段を下りて極端な気候の中での体温管理の方法を学んでいきましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Temperature</column_1><column_2>階段を下りて、極端な気候の中での体温調節の方法を学んでいきましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_TemperatureHot</column_1><column_2>猛暑の中では水を飲んで、日光対策のされた衣服を着ましょう。重鎧では殆ど暑さを凌げません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_TemperatureCold</column_1><column_2>寒気の中ではキャンプファイアや松明で温まってください。綿入り、もしくは毛皮付きの衣服も寒さから身を守ってくれます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Inventory</column_1><column_2>所持品の容量管理を学んでいきましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Inventory2</column_1><column_2>バックパックがあっても見つけたアイテムをすべて回収することはできません。装備はとても重く、貨幣さえ重量があります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Durability</column_1><column_2>装備は戦闘で壊れ、やがて効果がなくなっていきます、ランタンも点け続ければば燃え尽きてしまいますが、クラフトでまた補充することができます。食料は、休憩や他の地域への旅の最中でも時間で腐ります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Durability</column_1><column_2>装備は戦闘で傷つき、やがて効果がなくなっていきます、ランタンも点け続ければば燃え尽きてしまいますが、クラフトでまた補充することができます。食料は、休憩や他の地域への旅の最中でも時間の経過で腐ります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Backpack</column_1><column_2>バックパックは所持品の容量を増やしますが、ドッジロールが鈍重になります。戦闘の前には[InputAction_HandleBag]でバックパックを降ろし、決着を付けてから拾いましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Lanterns</column_1><column_2>ポーチではなく、バックパック内にあるランタンは、ぶら下げることで左手を空けられるため、盾を持ったり両手武器を装備したりできます。[InputAction_ToggleLights]でランタンの開け閉めができます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Resting</column_1><column_2>目に進んで休息について学びましょう。睡眠はキャラクターのもう一つの欲求です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Sleeping</column_1><column_2>宿屋やテントでの睡眠は疲労を取り除き体力を回復します。ダメージを食らったり、激しい動きにより低下した体力やスタミナの上限も回復されます、</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Guarding</column_1><column_2>休息後、敵が奇襲をかけることがあります。警戒をすることでその可能性を減らすことができます。休息をする場所によって、襲撃の可能性は変化します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_Repairing</column_1><column_2>修理によって武器や鎧の耐久力を回復できます。今装備しているアイテムしか修理されないことは覚えておいてください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Message_Tutorial_End</column_1><column_2>扉を開けてチュートリアルを終了しメインメニューに戻ってください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Lanterns</column_1><column_2>ポーチではなく、バックパック内にあるランタンは、ぶら下げることで左手を空けられるため、盾を持ったり両手武器を装備したりできます。[InputAction_ToggleLights]でランタンを点けたり消したりできます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Resting</column_1><column_2>目に進んで休息について学びましょう。睡眠はキャラクターの第三の欲求です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Sleeping</column_1><column_2>宿屋やテントでの睡眠は疲れを取り、体力を回復します。ダメージを食らったり、激しい動きにより低下した体力やスタミナの上限も回復されます、</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Guarding</column_1><column_2>休息後、敵が奇襲をかけることがあります。警戒することでその可能性を減らすことができます。休息をする場所によって、襲撃の可能性は変化します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_Repairing</column_1><column_2>修理によって武器や鎧の耐久を回復できます。今装備しているアイテムしか修理されないことは覚えておきましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Message_Tutorial_End</column_1><column_2>扉を開けてチュートリアルを終了しメインメニューに戻りましょう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Blocking</column_1><column_2>[InputAction_Block] でのブロックは打撃ダメージを防ぎ、ノックバックも減少させます。盾はスタミナの減少も少なくし、矢も防ぐことができます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_WeaponSkillsReq</column_1><column_2>物理スキルは度々特定の種類の武器の使用、もしくはRage Boonのようなステータス効果が有効になっている必要があります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Message_Tutorial_Effects</column_1><column_2>エレベーターを使ってマイナスのステータス効果の区画へ行ってください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
