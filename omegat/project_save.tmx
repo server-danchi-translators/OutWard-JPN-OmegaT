@@ -9602,8 +9602,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Wear them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T141133Z" creationid="setom" creationdate="20190402T141133Z">
-        <seg>着ていいぞ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141241Z" creationid="setom" creationdate="20190402T141133Z">
+        <seg>ちゃんと着ろよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9724,6 +9724,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
         <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where are we, Yzan?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141453Z" creationid="setom" creationdate="20190402T141453Z">
+        <seg>Yzan、ここはどこだ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9970,8 +9978,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You must be freezing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T133307Z" creationid="setom" creationdate="20190402T133307Z">
-        <seg>凍っちまったかと思ってたぜ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141409Z" creationid="setom" creationdate="20190402T133307Z">
+        <seg>にしても寒そうだな。</seg>
       </tuv>
     </tu>
     <tu>
