@@ -10801,6 +10801,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} changed into {2}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194755Z" creationid="totochan" creationdate="20190402T194755Z">
+        <seg>{1}を{2}に交換した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} has been armed.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194317Z" creationid="totochan" creationdate="20190402T194317Z">
@@ -10817,10 +10825,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} has been learned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194731Z" creationid="totochan" creationdate="20190402T194731Z">
+        <seg>{1}が覚えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} has broken.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194650Z" creationid="totochan" creationdate="20190402T194650Z">
         <seg>{1}壊れた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} has rotten.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194825Z" creationid="totochan" creationdate="20190402T194825Z">
+        <seg>{1}は腐っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10865,6 +10889,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} is out of fuel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194839Z" creationid="totochan" creationdate="20190402T194839Z">
+        <seg>{1}燃料不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} must be emptied before unequipping, but it can be dropped.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193805Z" creationid="totochan" creationdate="20190402T193805Z">
@@ -10895,6 +10927,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
         <seg>1}は{2}時間寝たいです、あなたも眠りますか？
 
 あなたも眠りたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} was removed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194914Z" creationid="totochan" creationdate="20190402T194914Z">
+        <seg>{1}を削除しました。</seg>
       </tuv>
     </tu>
     <tu>
