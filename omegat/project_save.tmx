@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021545Z" creationid="hiru4" creationdate="20190402T021545Z">
+        <seg>血液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
@@ -2350,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legacy Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021340Z" creationid="hiru4" creationdate="20190402T021340Z">
+        <seg>引継ぎ用チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142528Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -2362,6 +2378,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114633Z" creationid="setom" creationdate="20190401T114603Z">
         <seg>雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021356Z" creationid="hiru4" creationdate="20190402T021356Z">
+        <seg>ローディング</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,6 +2618,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115215Z" creationid="setom" creationdate="20190401T115215Z">
         <seg>ニューゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next Tip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021406Z" creationid="hiru4" creationdate="20190402T021406Z">
+        <seg>次のTIP</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected Item</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021320Z" creationid="hiru4" creationdate="20190402T021320Z">
+        <seg>アイテム選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115349Z" creationid="setom" creationdate="20190401T115349Z">
@@ -3058,6 +3098,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074854Z" creationid="setom" creationdate="20190401T074854Z">
         <seg>盾はスタミナの減少も少なくし、矢も防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show HUD</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021601Z" creationid="hiru4" creationdate="20190402T021601Z">
+        <seg>HUD表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show Notifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021627Z" creationid="hiru4" creationdate="20190402T021627Z">
+        <seg>通知を表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Text Language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021533Z" creationid="hiru4" creationdate="20190402T021533Z">
+        <seg>テキスト言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Journal is a menu tab used to track your next tasks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112721Z" creationid="setom" creationdate="20190331T112721Z">
@@ -3742,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To Continue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021349Z" creationid="hiru4" creationdate="20190402T021349Z">
+        <seg>コンティニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
@@ -3778,6 +3850,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114124Z" creationid="setom" creationdate="20190331T114124Z">
         <seg>罠はとても便利だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Travel Rations required</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021506Z" creationid="hiru4" creationdate="20190402T021506Z">
+        <seg>移動に必要な保存食</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Travel to {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021526Z" creationid="hiru4" creationdate="20190402T021526Z">
+        <seg>{1}へ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3978,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113908Z" creationid="setom" creationdate="20190401T113908Z">
         <seg>とても疲れている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Voice Language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021540Z" creationid="hiru4" creationdate="20190402T021540Z">
+        <seg>音声言語</seg>
       </tuv>
     </tu>
     <tu>
