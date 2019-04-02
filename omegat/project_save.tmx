@@ -470,6 +470,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2100000</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062732Z" creationid="setom" creationdate="20190402T062732Z">
+        <seg>2100000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2100010</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062733Z" creationid="setom" creationdate="20190402T062733Z">
+        <seg>2100010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2100020</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062734Z" creationid="setom" creationdate="20190402T062734Z">
+        <seg>2100020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2100030</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062736Z" creationid="setom" creationdate="20190402T062736Z">
+        <seg>2100030</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -2750,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immense man-cutting saw of the bandit lord Zagis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062826Z" creationid="setom" creationdate="20190402T062826Z">
+        <seg>蛮族長Zagisの恐ろしく切れるノコギリ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impact</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021854Z" creationid="setom" creationdate="20190402T021854Z">
@@ -2826,6 +2866,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062433Z" creationid="setom" creationdate="20190402T062433Z">
         <seg>敵を猛毒にかける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflicts Pain on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062837Z" creationid="setom" creationdate="20190402T062837Z">
+        <seg>痛みを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6540,6 +6588,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062351Z" creationid="setom" creationdate="20190402T062335Z">
         <seg>「Dawn Weaverの知恵が我らを作り直し、磁器は我らの肉に移された。」敵を燃やす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The Dusk Father’s knowledge made us all kings; we built our sky castles under the earth.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062727Z" creationid="setom" creationdate="20190402T062727Z">
+        <seg>「Dusk Fatherの知恵が我らを王にし、我らは天空城をこの大地の下に建てた。」</seg>
       </tuv>
     </tu>
     <tu>
