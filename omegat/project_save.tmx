@@ -902,6 +902,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020741Z" creationid="hiru4" creationdate="20190402T020724Z">
+        <seg>攻撃力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage Bonus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020751Z" creationid="hiru4" creationdate="20190402T020751Z">
+        <seg>攻撃力補正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DamageType_Decay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114540Z" creationid="setom" creationdate="20190401T114540Z">
@@ -1058,6 +1074,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
         <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Durability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020829Z" creationid="hiru4" creationdate="20190402T020829Z">
+        <seg>耐久値</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
         <seg>食料は腐る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freshness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020851Z" creationid="hiru4" creationdate="20190402T020851Z">
+        <seg>鮮度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Cost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020859Z" creationid="hiru4" creationdate="20190402T020859Z">
+        <seg>消費マナMana Cost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana must first be unlocked at a Ley Line.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112626Z" creationid="setom" creationdate="20190331T112626Z">
@@ -2498,6 +2538,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement Speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020911Z" creationid="hiru4" creationdate="20190402T020911Z">
+        <seg>移動速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,10 +2790,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020802Z" creationid="hiru4" creationdate="20190402T020802Z">
+        <seg>防御力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put out your light when sneaking!</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112137Z" creationid="setom" creationdate="20190331T112137Z">
         <seg>隠れるときは光を避けろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020919Z" creationid="hiru4" creationdate="20190402T020919Z">
+        <seg>クイックスロット</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2854,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduced Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021005Z" creationid="hiru4" creationdate="20190402T021005Z">
+        <seg>空腹が進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduced Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021017Z" creationid="hiru4" creationdate="20190402T021017Z">
+        <seg>喉の渇きが進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refreshed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
@@ -2802,6 +2882,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115830Z" creationid="setom" creationdate="20190401T115830Z">
         <seg>リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resistances</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020816Z" creationid="hiru4" creationdate="20190402T020816Z">
+        <seg>抵抗力</seg>
       </tuv>
     </tu>
     <tu>
