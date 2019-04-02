@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082925Z" creationid="setom" creationdate="20190402T082925Z">
+        <seg>Flint and Steelを持っているなら、Campfireに火をつけることができます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immense bow which inflicts Confusion on enemies, making them more vulnerable to Impact.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064811Z" creationid="setom" creationdate="20190402T064811Z">
@@ -4679,6 +4687,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Campfire2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082718Z" creationid="setom" creationdate="20190402T082718Z">
+        <seg>Message_Tutorial_Campfire2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073135Z" creationid="setom" creationdate="20190401T073135Z">
@@ -5003,6 +5019,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122855Z" creationid="setom" creationdate="20190401T122743Z">
         <seg>非利き手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have a Campfire Kit, go to your Inventory and use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082844Z" creationid="setom" creationdate="20190402T082844Z">
+        <seg>Campfire Kitを持っていたら、インベントリから使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,6 +7732,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115712Z" creationid="setom" creationdate="20190331T112556Z">
         <seg>家の中の収納チェストには見つかりたくないアイテムを貯蔵できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then deploy the Campfire on the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082858Z" creationid="setom" creationdate="20190402T082858Z">
+        <seg>地面にCampfireを設置できます。</seg>
       </tuv>
     </tu>
     <tu>
