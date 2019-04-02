@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021854Z" creationid="setom" creationdate="20190402T021854Z">
+        <seg>打撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impact Resistance</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113705Z" creationid="setom" creationdate="20190401T113705Z">
@@ -2342,6 +2350,270 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ItemStat_AttackSpeed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021820Z" creationid="setom" creationdate="20190402T021820Z">
+        <seg>ItemStat_AttackSpeed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Capacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021821Z" creationid="setom" creationdate="20190402T021821Z">
+        <seg>ItemStat_Capacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ColdProtection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021822Z" creationid="setom" creationdate="20190402T021822Z">
+        <seg>ItemStat_ColdProtection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ConsumedItems</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021823Z" creationid="setom" creationdate="20190402T021823Z">
+        <seg>ItemStat_ConsumedItems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021824Z" creationid="setom" creationdate="20190402T021824Z">
+        <seg>ItemStat_Content</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Cooldown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021825Z" creationid="setom" creationdate="20190402T021825Z">
+        <seg>ItemStat_Cooldown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_CorruptionProtection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021826Z" creationid="setom" creationdate="20190402T021826Z">
+        <seg>ItemStat_CorruptionProtection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Damage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021827Z" creationid="setom" creationdate="20190402T021827Z">
+        <seg>ItemStat_Damage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_DamageModifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021828Z" creationid="setom" creationdate="20190402T021828Z">
+        <seg>ItemStat_DamageModifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_DamageProtection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021829Z" creationid="setom" creationdate="20190402T021829Z">
+        <seg>ItemStat_DamageProtection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_DamageResistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021830Z" creationid="setom" creationdate="20190402T021830Z">
+        <seg>ItemStat_DamageResistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Durability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021831Z" creationid="setom" creationdate="20190402T021831Z">
+        <seg>ItemStat_Durability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Freshness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021832Z" creationid="setom" creationdate="20190402T021832Z">
+        <seg>ItemStat_Freshness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_HeatProtection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021834Z" creationid="setom" creationdate="20190402T021834Z">
+        <seg>ItemStat_HeatProtection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_HeatRegenPenalty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021836Z" creationid="setom" creationdate="20190402T021836Z">
+        <seg>ItemStat_HeatRegenPenalty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Impact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021840Z" creationid="setom" creationdate="20190402T021840Z">
+        <seg>ItemStat_Impact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ImpactRes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021843Z" creationid="setom" creationdate="20190402T021843Z">
+        <seg>ItemStat_ImpactRes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ManaCost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021911Z" creationid="setom" creationdate="20190402T021911Z">
+        <seg>ItemStat_ManaCost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_MovementPenalty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021916Z" creationid="setom" creationdate="20190402T021916Z">
+        <seg>ItemStat_MovementPenalty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_PouchCapacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021933Z" creationid="setom" creationdate="20190402T021933Z">
+        <seg>ItemStat_PouchCapacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_QuickSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021918Z" creationid="setom" creationdate="20190402T021918Z">
+        <seg>ItemStat_QuickSlot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ReducedFood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021919Z" creationid="setom" creationdate="20190402T021919Z">
+        <seg>ItemStat_ReducedFood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_ReducedWater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021921Z" creationid="setom" creationdate="20190402T021921Z">
+        <seg>ItemStat_ReducedWater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_RestoredFood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021922Z" creationid="setom" creationdate="20190402T021922Z">
+        <seg>ItemStat_RestoredFood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_RestoredWater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021746Z" creationid="setom" creationdate="20190402T021746Z">
+        <seg>ItemStat_RestoredWater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_StaminaCost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021924Z" creationid="setom" creationdate="20190402T021924Z">
+        <seg>ItemStat_StaminaCost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_StaminaUsePenalty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021925Z" creationid="setom" creationdate="20190402T021925Z">
+        <seg>ItemStat_StaminaUsePenalty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_TotalWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021927Z" creationid="setom" creationdate="20190402T021927Z">
+        <seg>ItemStat_TotalWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Type</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021928Z" creationid="setom" creationdate="20190402T021928Z">
+        <seg>ItemStat_Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_UnitWeight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021929Z" creationid="setom" creationdate="20190402T021929Z">
+        <seg>ItemStat_UnitWeight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_UnlimitedCapacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021930Z" creationid="setom" creationdate="20190402T021930Z">
+        <seg>ItemStat_UnlimitedCapacity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Waterproof</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021931Z" creationid="setom" creationdate="20190402T021931Z">
+        <seg>ItemStat_Waterproof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ItemStat_Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021932Z" creationid="setom" creationdate="20190402T021932Z">
+        <seg>ItemStat_Weight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Items can be repaired while you rest in a tent.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
@@ -2374,6 +2646,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LegacyChestMenu_ItemInChest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021934Z" creationid="setom" creationdate="20190402T021934Z">
+        <seg>LegacyChestMenu_ItemInChest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LegacyChestMenu_SelectedItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021935Z" creationid="setom" creationdate="20190402T021935Z">
+        <seg>LegacyChestMenu_SelectedItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LegacyChestMenu_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021936Z" creationid="setom" creationdate="20190402T021936Z">
+        <seg>LegacyChestMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142528Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -2394,6 +2690,46 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021356Z" creationid="hiru4" creationdate="20190402T021356Z">
         <seg>ローディング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LoadingScreen_Continue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021937Z" creationid="setom" creationdate="20190402T021937Z">
+        <seg>LoadingScreen_Continue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LoadingScreen_Loading</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021937Z" creationid="setom" creationdate="20190402T021937Z">
+        <seg>LoadingScreen_Loading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LoadingScreen_NextTip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021938Z" creationid="setom" creationdate="20190402T021938Z">
+        <seg>LoadingScreen_NextTip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LongTravel_RequiredTravelRation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021941Z" creationid="setom" creationdate="20190402T021941Z">
+        <seg>LongTravel_RequiredTravelRation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LongTravel_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021942Z" creationid="setom" creationdate="20190402T021942Z">
+        <seg>LongTravel_Title</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,8 +2776,8 @@
       <tuv lang="EN-US">
         <seg>Mana Cost</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T020859Z" creationid="hiru4" creationdate="20190402T020859Z">
-        <seg>消費マナMana Cost</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021915Z" creationid="hiru4" creationdate="20190402T020859Z">
+        <seg>消費マナ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Trainer_SkillAlreadyKnown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021944Z" creationid="setom" creationdate="20190402T021944Z">
+        <seg>Notification_Trainer_SkillAlreadyKnown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off Hand</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122855Z" creationid="setom" creationdate="20190401T122743Z">
@@ -2746,6 +3090,54 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
         <seg>フレンドのゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_Blood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021952Z" creationid="setom" creationdate="20190402T021952Z">
+        <seg>OptionMenu_Gameplay_Blood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_EnemyHealth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021958Z" creationid="setom" creationdate="20190402T021958Z">
+        <seg>OptionMenu_Gameplay_EnemyHealth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_Hud</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021955Z" creationid="setom" creationdate="20190402T021955Z">
+        <seg>OptionMenu_Gameplay_Hud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_Notifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021956Z" creationid="setom" creationdate="20190402T021956Z">
+        <seg>OptionMenu_Gameplay_Notifications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_General_Language</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021946Z" creationid="setom" creationdate="20190402T021946Z">
+        <seg>OptionMenu_General_Language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_General_LanguageAudio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021950Z" creationid="setom" creationdate="20190402T021950Z">
+        <seg>OptionMenu_General_LanguageAudio</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,8 +3392,8 @@
       <tuv lang="EN-US">
         <seg>Restored Food</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T021034Z" creationid="hiru4" creationdate="20190402T021034Z">
-        <seg>食料補給Restored Food</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T021745Z" creationid="hiru4" creationdate="20190402T021034Z">
+        <seg>腹を満たす</seg>
       </tuv>
     </tu>
     <tu>
