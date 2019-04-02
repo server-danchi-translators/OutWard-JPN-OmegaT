@@ -2590,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection to the server has been lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193148Z" creationid="totochan" creationdate="20190402T193148Z">
+        <seg>ホストとの接続を失った</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection with host lost</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083127Z" creationid="totochan" creationdate="20190402T083127Z">
@@ -3134,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you wish to proceed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193223Z" creationid="totochan" creationdate="20190402T193223Z">
+        <seg>どれくらい睡眠をとりますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dodging allows you to temporarily evade any type of attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
@@ -3634,6 +3650,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114753Z" creationid="setom" creationdate="20190401T114753Z">
         <seg>Faction_HolyMissionEllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to connect to the server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193158Z" creationid="totochan" creationdate="20190402T193158Z">
+        <seg>フレンドを招待</seg>
       </tuv>
     </tu>
     <tu>
