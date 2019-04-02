@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 – Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T093927Z" creationid="setom" creationdate="20190402T093927Z">
+        <seg>1 – イントロダクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>100001</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033905Z" creationid="setom" creationdate="20190401T033905Z">
@@ -6172,6 +6180,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061549Z" creationid="setom" creationdate="20190402T061549Z">
         <seg>PlayerMenu_Tab_Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T093907Z" creationid="setom" creationdate="20190402T093907Z">
+        <seg>Player_Message_TutorialTitle_Introduction</seg>
       </tuv>
     </tu>
     <tu>
