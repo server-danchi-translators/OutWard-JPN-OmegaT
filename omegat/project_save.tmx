@@ -9002,8 +9002,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The number of attacks you make before making a special attack will change which strike you will make.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T074451Z" creationid="setom" creationdate="20190401T074405Z">
-        <seg>特殊攻撃までに何回通常攻撃を行ったかで、特殊攻撃は変化します。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T145433Z" creationid="setom" creationdate="20190401T074405Z">
+        <seg>特殊攻撃の前に行った通常攻撃の回数で特殊攻撃は変化します。</seg>
       </tuv>
     </tu>
     <tu>
