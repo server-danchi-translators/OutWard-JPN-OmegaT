@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooking with a single ingredient only requires a lit campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083035Z" creationid="setom" creationdate="20190402T083035Z">
+        <seg>材料を1つしか使わない料理なら火をつけたキャンプファイアだけで大丈夫です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooldown</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020703Z" creationid="hiru4" creationdate="20190402T020703Z">
@@ -3752,8 +3760,8 @@
       <tuv lang="EN-US">
         <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082925Z" creationid="setom" creationdate="20190402T082925Z">
-        <seg>Flint and Steelを持っているなら、Campfireに火をつけることができます、</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083322Z" creationid="setom" creationdate="20190402T082925Z">
+        <seg>火打石と打ち金を持っているなら、キャンプファイアに火をつけることができます、</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,6 +4779,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080126Z" creationid="setom" creationdate="20190402T080126Z">
         <seg>Message_Tutorial_ComplexSkills2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Cooking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082927Z" creationid="setom" creationdate="20190402T082927Z">
+        <seg>Message_Tutorial_Cooking</seg>
       </tuv>
     </tu>
     <tu>
@@ -5940,6 +5956,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113451Z" creationid="setom" creationdate="20190401T113451Z">
         <seg>ランダム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recipes with multiple ingredients require a Kitchen or a Cooking Pot deployed on a fire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083154Z" creationid="setom" creationdate="20190402T083154Z">
+        <seg>複数の材料を使ったレシピであれば、キッチンか</seg>
       </tuv>
     </tu>
     <tu>
