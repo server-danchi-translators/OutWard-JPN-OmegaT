@@ -158,6 +158,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>15 – Removing Negative Effects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094617Z" creationid="setom" creationdate="20190402T094617Z">
+        <seg>15 – 負の効果の除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>16 – Character Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094626Z" creationid="setom" creationdate="20190402T094626Z">
+        <seg>16 – キャラクターの欲求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17 – Hunger and Thirst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094633Z" creationid="setom" creationdate="20190402T094633Z">
+        <seg>17 – 空腹と渇き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18 – Illnesses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094637Z" creationid="setom" creationdate="20190402T094637Z">
+        <seg>18 – 病気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19 – Craft a Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094645Z" creationid="setom" creationdate="20190402T094645Z">
+        <seg>19 – キャンプファイアの作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Players</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113508Z" creationid="setom" creationdate="20190401T113508Z">
@@ -170,6 +210,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094023Z" creationid="setom" creationdate="20190402T094023Z">
         <seg>2 – 戦闘の基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20 – Deploy a Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094657Z" creationid="setom" creationdate="20190402T094657Z">
+        <seg>20 – キャンプファイアの設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +586,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062700Z" creationid="setom" creationdate="20190402T062700Z">
         <seg>2020140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>21 – Cooking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094701Z" creationid="setom" creationdate="20190402T094701Z">
+        <seg>21 – 料理</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>22 – Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094704Z" creationid="setom" creationdate="20190402T094704Z">
+        <seg>22 – 温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2200000</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064747Z" creationid="setom" creationdate="20190402T064747Z">
@@ -1218,6 +1282,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064851Z" creationid="setom" creationdate="20190402T064851Z">
         <seg>2200040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>23 – Hot Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094709Z" creationid="setom" creationdate="20190402T094709Z">
+        <seg>23 – 高温</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1354,30 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074934Z" creationid="setom" creationdate="20190402T074934Z">
         <seg>2300090</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>24 – Cold Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094714Z" creationid="setom" creationdate="20190402T094714Z">
+        <seg>24 – 低温</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>25 – Final Advice on Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094754Z" creationid="setom" creationdate="20190402T094754Z">
+        <seg>25 – 温度に関する最後の助言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>26 – Inventory Management</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094817Z" creationid="setom" creationdate="20190402T094817Z">
+        <seg>26 – 所持品管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,8 +2904,8 @@
       <tuv lang="EN-US">
         <seg>Empty Inventory</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115054Z" creationid="setom" creationdate="20190401T115049Z">
-        <seg>空のインベントリ</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094846Z" creationid="setom" creationdate="20190401T115049Z">
+        <seg>所持品なし</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,10 +6400,50 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Cooking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094658Z" creationid="setom" creationdate="20190402T094658Z">
+        <seg>Player_Message_TutorialTitle_Cooking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_CraftFire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094637Z" creationid="setom" creationdate="20190402T094637Z">
+        <seg>Player_Message_TutorialTitle_CraftFire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_CraftFire2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094646Z" creationid="setom" creationdate="20190402T094646Z">
+        <seg>Player_Message_TutorialTitle_CraftFire2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Defences</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094042Z" creationid="setom" creationdate="20190402T094042Z">
         <seg>Player_Message_TutorialTitle_Defences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Hunger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094627Z" creationid="setom" creationdate="20190402T094627Z">
+        <seg>Player_Message_TutorialTitle_Hunger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Illness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094634Z" creationid="setom" creationdate="20190402T094634Z">
+        <seg>Player_Message_TutorialTitle_Illness</seg>
       </tuv>
     </tu>
     <tu>
@@ -6320,6 +6456,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094756Z" creationid="setom" creationdate="20190402T094756Z">
+        <seg>Player_Message_TutorialTitle_Inventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Locking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094024Z" creationid="setom" creationdate="20190402T094024Z">
@@ -6328,10 +6472,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094617Z" creationid="setom" creationdate="20190402T094617Z">
+        <seg>Player_Message_TutorialTitle_Needs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_NegativeEffects</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094557Z" creationid="setom" creationdate="20190402T094557Z">
         <seg>Player_Message_TutorialTitle_NegativeEffects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_NegativeEffects2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094605Z" creationid="setom" creationdate="20190402T094605Z">
+        <seg>Player_Message_TutorialTitle_NegativeEffects2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6372,6 +6532,38 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094156Z" creationid="setom" creationdate="20190402T094156Z">
         <seg>Player_Message_TutorialTitle_Stability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094701Z" creationid="setom" creationdate="20190402T094701Z">
+        <seg>Player_Message_TutorialTitle_Temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Temperature2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094714Z" creationid="setom" creationdate="20190402T094714Z">
+        <seg>Player_Message_TutorialTitle_Temperature2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_TemperatureCold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094710Z" creationid="setom" creationdate="20190402T094710Z">
+        <seg>Player_Message_TutorialTitle_TemperatureCold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_TemperatureHot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094705Z" creationid="setom" creationdate="20190402T094705Z">
+        <seg>Player_Message_TutorialTitle_TemperatureHot</seg>
       </tuv>
     </tu>
     <tu>
