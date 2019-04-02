@@ -206,6 +206,110 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2000130</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062058Z" creationid="setom" creationdate="20190402T062058Z">
+        <seg>2000130</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000140</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062117Z" creationid="setom" creationdate="20190402T062117Z">
+        <seg>2000140</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000150</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062119Z" creationid="setom" creationdate="20190402T062119Z">
+        <seg>2000150</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000151</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062142Z" creationid="setom" creationdate="20190402T062142Z">
+        <seg>2000151</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000160</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062228Z" creationid="setom" creationdate="20190402T062228Z">
+        <seg>2000160</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010000</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062229Z" creationid="setom" creationdate="20190402T062229Z">
+        <seg>2010000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010020</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062231Z" creationid="setom" creationdate="20190402T062231Z">
+        <seg>2010020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010030</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062232Z" creationid="setom" creationdate="20190402T062232Z">
+        <seg>2010030</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010031</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062233Z" creationid="setom" creationdate="20190402T062233Z">
+        <seg>2010031</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010040</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062235Z" creationid="setom" creationdate="20190402T062235Z">
+        <seg>2010040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010050</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062237Z" creationid="setom" creationdate="20190402T062237Z">
+        <seg>2010050</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010060</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062238Z" creationid="setom" creationdate="20190402T062238Z">
+        <seg>2010060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2010070</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062248Z" creationid="setom" creationdate="20190402T062248Z">
+        <seg>2010070</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -2522,6 +2626,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062026Z" creationid="setom" creationdate="20190402T062026Z">
         <seg>敵を出血させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflicts Chill and Pain on enemies, increasing the Frost and Physical damage they take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062140Z" creationid="setom" creationdate="20190402T062140Z">
+        <seg>敵に冷気と痛みを与え、氷ダメージと物理ダメージを増加させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflicts Slow Down and Bleeding on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062109Z" creationid="setom" creationdate="20190402T062109Z">
+        <seg>敵の動きを鈍くし、出血させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6196,6 +6316,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111758Z" creationid="setom" creationdate="20190331T111758Z">
         <seg>“ガタがきた”アイテムでもまだまだ使えるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The Commander said to make this sword fit for a king.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062225Z" creationid="setom" creationdate="20190402T062225Z">
+        <seg>“指揮官は言った、この剣を王に相応しいものにする、と”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The Dawn Weaver’s knowledge remade us; we grafted porcelain to our flesh.” Inflicts Burning on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062351Z" creationid="setom" creationdate="20190402T062335Z">
+        <seg>「Dawn Weaverの知恵が我らを作り直し、磁器は我らの肉に移された。」敵を燃やす。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
