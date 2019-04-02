@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cast a Fire Sigil then use Spark while standing inside the sigil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080449Z" creationid="setom" creationdate="20190402T080449Z">
+        <seg>Fire Sigilを詠唱し、魔法陣の中でSparkを使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111914Z" creationid="setom" creationdate="20190331T111914Z">
