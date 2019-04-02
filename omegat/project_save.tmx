@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack Speed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T015737Z" creationid="hiru4" creationdate="20190402T015737Z">
+        <seg>攻撃速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awake</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114847Z" creationid="setom" creationdate="20190401T114847Z">
         <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Capacity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020042Z" creationid="hiru4" creationdate="20190402T020042Z">
+        <seg>容量</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>Frost</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T114720Z" creationid="setom" creationdate="20190401T114720Z">
-        <seg>氷結</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T015631Z" creationid="setom" creationdate="20190401T114720Z">
+        <seg>氷</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T015728Z" creationid="hiru4" creationdate="20190402T015728Z">
+        <seg>所持品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inventory_Container_CurrentEquipment</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115958Z" creationid="setom" creationdate="20190401T115958Z">
@@ -2482,6 +2506,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115934Z" creationid="setom" creationdate="20190401T115934Z">
         <seg>無制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No compatible component in inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020138Z" creationid="hiru4" creationdate="20190402T020138Z">
+        <seg>所持品の中に使える材料がない</seg>
       </tuv>
     </tu>
     <tu>
