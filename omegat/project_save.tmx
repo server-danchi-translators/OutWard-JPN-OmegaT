@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aniso.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022224Z" creationid="setom" creationdate="20190402T022212Z">
+        <seg>異方性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Ingredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114443Z" creationid="setom" creationdate="20190401T114443Z">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114753Z" creationid="setom" creationdate="20190401T114753Z">
         <seg>Faction_HolyMissionEllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filtering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022228Z" creationid="setom" creationdate="20190402T022228Z">
+        <seg>フィルタリング</seg>
       </tuv>
     </tu>
     <tu>
@@ -3228,6 +3244,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022039Z" creationid="setom" creationdate="20190402T022039Z">
         <seg>OptionMenu_Graphics_AnisoFiltering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_Antialiasing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022229Z" creationid="setom" creationdate="20190402T022229Z">
+        <seg>OptionMenu_Graphics_Antialiasing</seg>
       </tuv>
     </tu>
     <tu>
