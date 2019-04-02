@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Capture Pending</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071827Z" creationid="hiru4" creationdate="20190402T071827Z">
+        <seg>沸騰している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cast a Fire Sigil then use Spark while standing inside the sigil.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080449Z" creationid="setom" creationdate="20190402T080449Z">
