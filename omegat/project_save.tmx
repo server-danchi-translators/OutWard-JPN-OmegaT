@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced Shader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023211Z" creationid="hiru4" creationdate="20190402T023211Z">
+        <seg>高度なシェーダーAdvanced Shader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
@@ -150,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Atmosphere Fog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023203Z" creationid="hiru4" creationdate="20190402T023203Z">
+        <seg>大気密度Atmosphere Fog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114900Z" creationid="setom" creationdate="20190401T114900Z">
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015737Z" creationid="hiru4" creationdate="20190402T015737Z">
         <seg>攻撃速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023321Z" creationid="hiru4" creationdate="20190402T023321Z">
+        <seg>音楽</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023238Z" creationid="hiru4" creationdate="20190402T023238Z">
+        <seg>カスタム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>D</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033937Z" creationid="setom" creationdate="20190401T033937Z">
@@ -1114,6 +1146,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033935Z" creationid="setom" creationdate="20190401T033935Z">
         <seg>Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023354Z" creationid="hiru4" creationdate="20190402T023354Z">
+        <seg>ディスプレイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1510,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gamepad</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023334Z" creationid="hiru4" creationdate="20190402T023334Z">
+        <seg>ゲームパッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gameplay</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023340Z" creationid="hiru4" creationdate="20190402T023340Z">
+        <seg>ゲームプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gathering plants and mushrooms is the most basic way to find food.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
@@ -1482,6 +1538,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113331Z" creationid="setom" creationdate="20190401T113331Z">
         <seg>性別</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023420Z" creationid="hiru4" creationdate="20190402T023406Z">
+        <seg>基本</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2082,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115914Z" creationid="setom" creationdate="20190401T115914Z">
         <seg>GraphicSettings_VeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Graphics</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023346Z" creationid="hiru4" creationdate="20190402T023346Z">
+        <seg>グラフィック</seg>
       </tuv>
     </tu>
     <tu>
@@ -2735,6 +2807,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keyboard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023328Z" creationid="hiru4" creationdate="20190402T023328Z">
+        <seg>キーボードKeyboard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legacy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015547Z" creationid="hiru4" creationdate="20190402T015547Z">
@@ -2923,6 +3003,22 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112747Z" creationid="setom" creationdate="20190331T112747Z">
         <seg>多くの場所は真っ暗で、ランタンや松明で道を明るくする必要がでてくる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023227Z" creationid="hiru4" creationdate="20190402T023227Z">
+        <seg>マップ1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023232Z" creationid="hiru4" creationdate="20190402T023232Z">
+        <seg>マップ 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3568,6 +3664,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Render Scale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023150Z" creationid="hiru4" creationdate="20190402T023150Z">
+        <seg>レンダリングスケールRender Scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115830Z" creationid="setom" creationdate="20190401T115830Z">
@@ -3692,6 +3796,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115340Z" creationid="setom" creationdate="20190401T115340Z">
         <seg>秒(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023216Z" creationid="hiru4" creationdate="20190402T023216Z">
+        <seg>セクションSection</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4754,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Vertical Sync</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023111Z" creationid="hiru4" creationdate="20190402T023111Z">
-        <seg>画面同期</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023130Z" creationid="hiru4" creationdate="20190402T023111Z">
+        <seg>垂直同期</seg>
       </tuv>
     </tu>
     <tu>
