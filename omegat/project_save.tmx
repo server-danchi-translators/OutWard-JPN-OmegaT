@@ -4400,8 +4400,8 @@
       <tuv lang="EN-US">
         <seg>Guarding lowers the chance that this occurs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T100001Z" creationid="setom" creationdate="20190402T090654Z">
-        <seg>警戒をすることでその可能性を減らすことができます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164351Z" creationid="setom" creationdate="20190402T090654Z">
+        <seg>警戒することでその可能性を減らすことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,8 +6305,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Note that only your currently equipped items will be repaired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T091414Z" creationid="setom" creationdate="20190402T091414Z">
-        <seg>今装備しているアイテムしか修理されないことは覚えておいてください。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164429Z" creationid="setom" creationdate="20190402T091414Z">
+        <seg>今装備しているアイテムしか修理されないことは覚えておきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7738,8 +7738,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Repairing restores the durability of your weapons and armor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T091318Z" creationid="setom" creationdate="20190402T091318Z">
-        <seg>修理によって武器や鎧の耐久力を回復できます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164414Z" creationid="setom" creationdate="20190402T091318Z">
+        <seg>修理によって武器や鎧の耐久を回復できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,8 +8386,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Sleep is another of your character’s needs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090251Z" creationid="setom" creationdate="20190402T090251Z">
-        <seg>睡眠はキャラクターのもう一つの欲求です。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164258Z" creationid="setom" creationdate="20190402T090251Z">
+        <seg>睡眠はキャラクターの第三の欲求です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,8 +8434,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Sleeping, either in an inn or in a tent, removes tiredness and restores health.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090405Z" creationid="setom" creationdate="20190402T090405Z">
-        <seg>宿屋やテントでの睡眠は疲労を取り除き体力を回復します。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164508Z" creationid="setom" creationdate="20190402T090405Z">
+        <seg>宿屋やテントでの睡眠は疲れを取り、体力を回復します。</seg>
       </tuv>
     </tu>
     <tu>
