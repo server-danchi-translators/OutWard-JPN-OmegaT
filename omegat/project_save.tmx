@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumed Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020518Z" creationid="hiru4" creationdate="20190402T020518Z">
+        <seg>消費アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Container</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115009Z" creationid="setom" creationdate="20190401T115009Z">
@@ -742,10 +750,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020551Z" creationid="hiru4" creationdate="20190402T020551Z">
+        <seg>コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115022Z" creationid="setom" creationdate="20190401T115016Z">
         <seg>コンティニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooldown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020703Z" creationid="hiru4" creationdate="20190402T020703Z">
+        <seg>クールダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corruption Protection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020712Z" creationid="hiru4" creationdate="20190402T020712Z">
+        <seg>腐敗防止n</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +1024,8 @@
       <tuv lang="EN-US">
         <seg>Deployables</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T120204Z" creationid="setom" creationdate="20190401T120204Z">
-        <seg>接地品</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020507Z" creationid="setom" creationdate="20190401T120204Z">
+        <seg>設置品</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3066,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115111Z" creationid="setom" creationdate="20190401T115111Z">
         <seg>オンラインプレイを中断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020441Z" creationid="hiru4" creationdate="20190402T020441Z">
+        <seg>分割画面停止</seg>
       </tuv>
     </tu>
     <tu>
