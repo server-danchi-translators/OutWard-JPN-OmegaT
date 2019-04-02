@@ -431,34 +431,35 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
   </ooo_sheet>
   <ooo_sheet num="2">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Bag_CannotUnequip</column_1><column_2>{1} must be emptied before unequipping, but it can be dropped.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_AtLeastOneIngredient</column_1><column_2>At least one ingredient is needed to start crafting.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_MissingIngredient</column_1><column_2>Missing some ingredients.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_WasteCleanWater</column_1><column_2>No need to boil clean water.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_InvalidCombination</column_1><column_2>Invalid Combination</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Crafting_InvalidCombinationWaste</column_1><column_2>Invalid Combination. Ingredients lost.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Deployable_CannotPlaceHere</column_1><column_2>{1} cannot be placed here.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Deployable_DisassembleNotEmpty</column_1><column_2>{1} must be empty before disassembling.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Deployable_TentIsFull</column_1><column_2>{1} is already used.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Deployable_TrapArmed</column_1><column_2>{1} has been armed.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Disease_Contract</column_1><column_2>{1} has been contracted.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Disease_Receding</column_1><column_2>{1} is now receding.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Gather_ItemRequired</column_1><column_2>A {1} is required to gather this resource.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Inventory_BagOverweight</column_1><column_2>Bag Overweight</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Inventory_PouchOverweight</column_1><column_2>Pouch Overweight</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Broken</column_1><column_2>{1} broke.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_CannotCarry</column_1><column_2>{1} cannot be taken.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Damaged</column_1><column_2>{1} is badly damaged.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Received</column_1><column_2>{1} {2} added.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_RecipeLearnt</column_1><column_2>{1} recipe has been learned.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Removed</column_1><column_2>{1} {2} removed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_TorchBroken</column_1><column_2>{1} has broken.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_TorchDamaged</column_1><column_2>{1} is almost burnt out.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_UnlockSkill</column_1><column_2>{1} has been learned.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Transformed</column_1><column_2>{1} changed into {2}.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_FoodRotten</column_1><column_2>{1} has rotten.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_OutOfFuel</column_1><column_2>{1} is out of fuel.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_RemovedInventory</column_1><column_2>{1} was removed.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Bag_CannotUnequip</column_1><column_2>{1}を外す前に空にする必要がありますが、破棄することはできます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>
+Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一つの材料が作成を開始するために必要とされます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Crafting_MissingIngredient</column_1><column_2>材料がたりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Crafting_WasteCleanWater</column_1><column_2>清潔な水を煮沸する必要はありません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Crafting_InvalidCombination</column_1><column_2>無効な組み合わせ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Crafting_InvalidCombinationWaste</column_1><column_2>無効な組み合わせ。材料が失われました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Deployable_CannotPlaceHere</column_1><column_2>{1}ここには設置することができません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Deployable_DisassembleNotEmpty</column_1><column_2>{1}を外す前に空にする必要がありますが、破棄することはできます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Deployable_TentIsFull</column_1><column_2>{1}は使用済み</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Deployable_TrapArmed</column_1><column_2>{1}武装している。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Disease_Contract</column_1><column_2>{1}になった。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Disease_Receding</column_1><column_2>{1}破棄します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Gather_ItemRequired</column_1><column_2>{1}この材料を収集する必要があります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Inventory_BagOverweight</column_1><column_2>バッグが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Inventory_PouchOverweight</column_1><column_2>ポーチが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Broken</column_1><column_2>{1}壊れた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_CannotCarry</column_1><column_2>{1}取れない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Damaged</column_1><column_2>{1}破損しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Received</column_1><column_2>{1}{2}を追加</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_RecipeLearnt</column_1><column_2>{1}のレシピを覚えた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Removed</column_1><column_2>{1}{2}を削除</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_TorchBroken</column_1><column_2>{1}壊れた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_TorchDamaged</column_1><column_2>{1}は燃え尽きた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_UnlockSkill</column_1><column_2>{1}が覚えた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Transformed</column_1><column_2>{1}を{2}に交換した。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_FoodRotten</column_1><column_2>{1}は腐っている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_OutOfFuel</column_1><column_2>{1}燃料不足</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_RemovedInventory</column_1><column_2>{1}を削除しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_LognTravel_DistanceThreshold</column_1><column_2>All players must be closer to travel.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_LongTraval_NotEnoughRatio</column_1><column_2>Not enough travel rations.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Fatigue_Drowsy</column_1><column_2>You are tired.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -764,7 +765,7 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>StatusEffect_AttackUp_Desc</column_1><column_2>Weapon Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_AttackUp_Name</column_1><column_2>Physical Attack Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BagBurden_Desc</column_1><column_2>Gradually slows your movement speed, as the weight increases.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>Bag Overweight</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>バッグが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Name</column_1><column_2>Bandages</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E3V1]%. Ethereal Resistance +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -942,7 +943,7 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>StatusEffect_PossessedBoonAmplified_Desc</column_1><column_2>Decay Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PossessedBoonAmplified_Name</column_1><column_2>Possessed Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PouchBurden_Desc</column_1><column_2>Gradually slows your movement speed, as the weight increases.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_PouchBurden_Name</column_1><column_2>Pouch Overweight</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_PouchBurden_Name</column_1><column_2>ポーチが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RageBoon_Desc</column_1><column_2>Weapon Impact +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RageBoon_Name</column_1><column_2>Rage</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RageBoonAmplified_Desc</column_1><column_2>Weapon Impact +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
