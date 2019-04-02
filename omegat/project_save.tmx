@@ -1848,24 +1848,24 @@
       <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T110921Z" creationid="setom" creationdate="20190331T110921Z">
-        <seg>防御は近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T100436Z" creationid="setom" creationdate="20190331T110921Z">
+        <seg>ブロックは近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Blocking with [InputAction_Block] prevents the damage from a strike and reduces how much you would be knocked back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T074802Z" creationid="setom" creationdate="20190401T074802Z">
-        <seg>[InputAction_Block] での防御はダメージを防ぎ、ノックバックも減少させます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T100344Z" creationid="setom" creationdate="20190401T074802Z">
+        <seg>[InputAction_Block] でのブロックはダメージを防ぎ、ノックバックも減少させます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Blocking with a shield is more advantageous than blocking with a weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T065223Z" creationid="setom" creationdate="20190402T064937Z">
-        <seg>武器よりも、盾を使っての防御がより有効だ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T100354Z" creationid="setom" creationdate="20190402T064937Z">
+        <seg>武器よりも、盾を使ってのブロックがより有効だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,8 +7874,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Shields can block arrows and the like, but you cannot block magical blasts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111608Z" creationid="setom" creationdate="20190331T111608Z">
-        <seg>盾で矢やそれに近いものを防御できるが、マジックブラストは防げない。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T100415Z" creationid="setom" creationdate="20190331T111608Z">
+        <seg>盾で矢やそれに近いものをブロックできるが、マジックブラストは防げない。</seg>
       </tuv>
     </tu>
     <tu>
