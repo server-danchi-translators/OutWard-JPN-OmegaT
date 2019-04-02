@@ -9056,6 +9056,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They’ll keep you warmer than nothing!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141218Z" creationid="setom" creationdate="20190402T141218Z">
+        <seg>何もねぇよっか温まるはずだぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Things like cooking pots and traps help greatly too.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114221Z" creationid="setom" creationdate="20190331T114221Z">
@@ -9592,6 +9600,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wear them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141133Z" creationid="setom" creationdate="20190402T141133Z">
+        <seg>着ていいぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weather_Cold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095246Z" creationid="setom" creationdate="20190402T095246Z">
@@ -9924,6 +9940,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112532Z" creationid="setom" creationdate="20190331T112454Z">
         <seg>ズームして遠くの敵に射撃できるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You found some rags on the beach?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T141107Z" creationid="setom" creationdate="20190402T141107Z">
+        <seg>砂浜でぼろ服を見つけただろ？</seg>
       </tuv>
     </tu>
     <tu>
