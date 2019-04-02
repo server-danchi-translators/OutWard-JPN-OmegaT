@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A {1} is required to gather this resource.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194423Z" creationid="totochan" creationdate="20190402T194423Z">
+        <seg>{1}この材料を収集する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T070727Z" creationid="hiru4" creationdate="20190402T070727Z">
@@ -1850,6 +1858,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120134Z" creationid="setom" creationdate="20190401T120134Z">
         <seg>バッグの中身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bag Overweight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194447Z" creationid="totochan" creationdate="20190402T194447Z">
+        <seg>バッグが一杯です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7713,6 +7729,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pouch Overweight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194458Z" creationid="totochan" creationdate="20190402T194458Z">
+        <seg>ポーチが一杯です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112659Z" creationid="setom" creationdate="20190331T112659Z">
@@ -10753,10 +10777,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} broke.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194510Z" creationid="totochan" creationdate="20190402T194510Z">
+        <seg>{1}壊れた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} cannot be placed here.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194100Z" creationid="totochan" creationdate="20190402T194100Z">
         <seg>{1}ここには設置することができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} cannot be taken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194527Z" creationid="totochan" creationdate="20190402T194527Z">
+        <seg>{1}取れない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10777,10 +10817,34 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} has broken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194650Z" creationid="totochan" creationdate="20190402T194650Z">
+        <seg>{1}壊れた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is almost burnt out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194710Z" creationid="totochan" creationdate="20190402T194710Z">
+        <seg>{1}は燃え尽きた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} is already used.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194300Z" creationid="totochan" creationdate="20190402T194300Z">
         <seg>{1}は使用済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is badly damaged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194540Z" creationid="totochan" creationdate="20190402T194540Z">
+        <seg>{1}破損しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10817,12 +10881,36 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} recipe has been learned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194616Z" creationid="totochan" creationdate="20190402T194616Z">
+        <seg>{1}のレシピを覚えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} wants to sleep for {2} hours, do you want to sleep too?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071348Z" creationid="hiru4" creationdate="20190402T071348Z">
         <seg>1}は{2}時間寝たいです、あなたも眠りますか？
 
 あなたも眠りたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} {2} added.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194551Z" creationid="totochan" creationdate="20190402T194551Z">
+        <seg>{1}{2}を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} {2} removed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194634Z" creationid="totochan" creationdate="20190402T194634Z">
+        <seg>{1}{2}を削除</seg>
       </tuv>
     </tu>
     <tu>
