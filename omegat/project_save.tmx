@@ -4943,6 +4943,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083714Z" creationid="setom" creationdate="20190402T083714Z">
+        <seg>Message_Tutorial_Temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_WeaponSkills</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080450Z" creationid="setom" creationdate="20190402T080450Z">
@@ -5968,6 +5976,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proceed down to learn about managing your temperature in extreme climates.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083846Z" creationid="setom" creationdate="20190402T083846Z">
+        <seg>階段を下りて極端な気候の中での体温管理の方法を学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Proceed to learn about Food and Drink, which are two of the character’s needs.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081804Z" creationid="setom" creationdate="20190402T081804Z">
@@ -6058,8 +6074,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Recipes with multiple ingredients require a Kitchen or a Cooking Pot deployed on a fire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T083154Z" creationid="setom" creationdate="20190402T083154Z">
-        <seg>複数の材料を使ったレシピであれば、キッチンか</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083636Z" creationid="setom" creationdate="20190402T083154Z">
+        <seg>複数の材料を使ったレシピであれば、キッチンか火にかけた料理鍋が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7988,6 +8004,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082858Z" creationid="setom" creationdate="20190402T082858Z">
         <seg>地面にCampfireを設置できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can use a Cooking Pot in your inventory and place it on a Campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T083713Z" creationid="setom" creationdate="20190402T083713Z">
+        <seg>料理鍋がインベントリにあればキャンプファイアで使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
