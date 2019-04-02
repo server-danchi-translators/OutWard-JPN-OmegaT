@@ -4784,6 +4784,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windowed Mode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023046Z" creationid="hiru4" creationdate="20190402T023046Z">
+        <seg>ウィンドウモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114322Z" creationid="urakata" creationdate="20190331T071251Z">
