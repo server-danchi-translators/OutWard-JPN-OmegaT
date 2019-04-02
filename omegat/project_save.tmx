@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2300090</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T074934Z" creationid="setom" creationdate="20190402T074934Z">
+        <seg>2300090</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T070727Z" creationid="hiru4" creationdate="20190402T070727Z">
@@ -6932,6 +6940,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This shield is unlikely to last long in a fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T074930Z" creationid="setom" creationdate="20190402T074919Z">
+        <seg>あまり長持ちしそうにない盾だ。</seg>
       </tuv>
     </tu>
     <tu>
