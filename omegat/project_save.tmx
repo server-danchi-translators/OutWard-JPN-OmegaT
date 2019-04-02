@@ -80,8 +80,16 @@
       <tuv lang="EN-US">
         <seg>Aniso.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T022224Z" creationid="setom" creationdate="20190402T022212Z">
-        <seg>異方性</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022233Z" creationid="hiru4" creationdate="20190402T022233Z">
+        <seg>アニソ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antialiasing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022255Z" creationid="hiru4" creationdate="20190402T022255Z">
+        <seg>アンチエイリアシング</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bloom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
+        <seg>ブルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
@@ -258,6 +274,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112521Z" creationid="setom" creationdate="20190331T112453Z">
         <seg>遠距離攻撃に弓は最も基本的な手段だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brightness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
+        <seg>輝度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depth of Field</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022511Z" creationid="hiru4" creationdate="20190402T022511Z">
+        <seg>被写界深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033935Z" creationid="setom" creationdate="20190401T033935Z">
@@ -1346,6 +1378,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114753Z" creationid="setom" creationdate="20190401T114753Z">
         <seg>Faction_HolyMissionEllat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field of View</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022317Z" creationid="hiru4" creationdate="20190402T022317Z">
+        <seg>視野角</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Graphic Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022339Z" creationid="hiru4" creationdate="20190402T022339Z">
+        <seg>グラフィック品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GraphicSettings_High</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115908Z" creationid="setom" creationdate="20190401T115908Z">
@@ -1962,6 +2010,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115914Z" creationid="setom" creationdate="20190401T115914Z">
         <seg>GraphicSettings_VeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grass Distance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022350Z" creationid="hiru4" creationdate="20190402T022350Z">
+        <seg>草の表示距離</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grass Quantity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022357Z" creationid="hiru4" creationdate="20190402T022357Z">
+        <seg>草の密度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2711,6 +2775,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022405Z" creationid="hiru4" creationdate="20190402T022405Z">
+        <seg>照明品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lightning</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114633Z" creationid="setom" creationdate="20190401T114603Z">
@@ -2951,10 +3023,26 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Model Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
+        <seg>モデル品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Motion Blur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022519Z" creationid="hiru4" creationdate="20190402T022519Z">
+        <seg>モーションブラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -3560,6 +3648,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SS Shadows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
+        <seg>SS シャドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
@@ -3628,6 +3724,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115349Z" creationid="setom" creationdate="20190401T115349Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shadow Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022421Z" creationid="hiru4" creationdate="20190402T022421Z">
+        <seg>影の品質</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,6 +3956,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114324Z" creationid="setom" creationdate="20190401T114324Z">
         <seg>温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terrain Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022444Z" creationid="hiru4" creationdate="20190402T022444Z">
+        <seg>地形品質</seg>
       </tuv>
     </tu>
     <tu>
@@ -4240,6 +4352,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022451Z" creationid="hiru4" creationdate="20190402T022451Z">
+        <seg>テクスチャー品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Journal is a menu tab used to track your next tasks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112721Z" creationid="setom" creationdate="20190331T112721Z">
@@ -4588,6 +4708,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115904Z" creationid="setom" creationdate="20190401T115904Z">
         <seg>参加者を待っています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Quality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T022458Z" creationid="hiru4" creationdate="20190402T022458Z">
+        <seg>水面品質</seg>
       </tuv>
     </tu>
     <tu>
