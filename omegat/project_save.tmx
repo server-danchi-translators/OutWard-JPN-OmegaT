@@ -1880,8 +1880,8 @@
       <tuv lang="EN-US">
         <seg>Blocking with [InputAction_Block] prevents the damage from a strike and reduces how much you would be knocked back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T100344Z" creationid="setom" creationdate="20190401T074802Z">
-        <seg>[InputAction_Block] でのブロックはダメージを防ぎ、ノックバックも減少させます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T145609Z" creationid="setom" creationdate="20190401T074802Z">
+        <seg>[InputAction_Block] でのブロックは打撃ダメージを防ぎ、ノックバックも減少させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3544,8 +3544,8 @@
       <tuv lang="EN-US">
         <seg>Evade attacks by dodging with [InputAction_Dodge], though this consumes a fair amount of Stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T075030Z" creationid="setom" creationdate="20190401T075426Z">
-        <seg>[InputAction_Dodge]でドッジロールによる回避ができ、スタミナの消費量も少なめです。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T145804Z" creationid="setom" creationdate="20190401T075426Z">
+        <seg>[InputAction_Dodge]でドッジロールによる回避ができますが、ある程度スタミナを消費します。</seg>
       </tuv>
     </tu>
     <tu>
