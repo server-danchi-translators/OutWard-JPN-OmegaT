@@ -4510,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, they’re not much, but wear them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T143134Z" creationid="setom" creationdate="20190402T143134Z">
+        <seg>ほれ、大したもんじゃないが着とけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hitting enemies, especially with heavier weapons, will knock them back and cancel their attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113105Z" creationid="setom" creationdate="20190331T113105Z">
@@ -9618,8 +9626,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Wear them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T141241Z" creationid="setom" creationdate="20190402T141133Z">
-        <seg>ちゃんと着ろよ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T143143Z" creationid="setom" creationdate="20190402T141133Z">
+        <seg>ちゃんと着とけよ。</seg>
       </tuv>
     </tu>
     <tu>
