@@ -4966,6 +4966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ingredients lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194133Z" creationid="totochan" creationdate="20190402T194133Z">
+        <seg>材料が失われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inns will take care of all your needs for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
@@ -5016,8 +5024,8 @@
       <tuv lang="EN-US">
         <seg>Invalid Combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194044Z" creationid="totochan" creationdate="20190402T194044Z">
-        <seg>無効な組み合わせ。材料が失われました。</seg>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194152Z" creationid="totochan" creationdate="20190402T194044Z">
+        <seg>無効な組み合わせ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10753,6 +10761,30 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} has been armed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194317Z" creationid="totochan" creationdate="20190402T194317Z">
+        <seg>{1}武装している。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} has been contracted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194348Z" creationid="totochan" creationdate="20190402T194348Z">
+        <seg>{1}になった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is already used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194300Z" creationid="totochan" creationdate="20190402T194300Z">
+        <seg>{1}は使用済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} is empty.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071614Z" creationid="hiru4" creationdate="20190402T071614Z">
@@ -10761,9 +10793,25 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} is now receding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194405Z" creationid="totochan" creationdate="20190402T194405Z">
+        <seg>{1}破棄します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} must be emptied before unequipping, but it can be dropped.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193805Z" creationid="totochan" creationdate="20190402T193805Z">
+        <seg>{1}を外す前に空にする必要がありますが、破棄することはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} must be empty before disassembling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194216Z" creationid="totochan" creationdate="20190402T194216Z">
         <seg>{1}を外す前に空にする必要がありますが、破棄することはできます。</seg>
       </tuv>
     </tu>
