@@ -6001,8 +6001,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>My grandmother brought ruin to our tribe long ago, bringing a heavy Blood Price upon my family.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T103441Z" creationid="setom" creationdate="20190402T103441Z">
-        <seg>祖母は過去に部族を没落させ、一族の血の価値も酷く落とした。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103606Z" creationid="setom" creationdate="20190402T103441Z">
+        <seg>祖母が過去に部族を没落させ、一族の血の価値も酷く落とした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7356,6 +7356,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102954Z" creationid="setom" creationdate="20190402T102954Z">
         <seg>Prologue_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prologue_3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103546Z" creationid="setom" creationdate="20190402T103546Z">
+        <seg>Prologue_3</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,6 +9556,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072250Z" creationid="setom" creationdate="20190401T072250Z">
         <seg>Outward のチュートリアルにようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ve paid the debt caused by her actions ever since.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103622Z" creationid="setom" creationdate="20190402T103544Z">
+        <seg>それ以来、我々はその責任として借金を払わされ続けている。</seg>
       </tuv>
     </tu>
     <tu>
