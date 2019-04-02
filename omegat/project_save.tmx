@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least one ingredient is needed to start crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193927Z" creationid="totochan" creationdate="20190402T193927Z">
+        <seg>最低でも一つの材料が作成を開始するために必要とされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atmosphere Fog</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025306Z" creationid="hiru4" creationdate="20190402T023203Z">
@@ -4998,6 +5006,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid Combination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194029Z" creationid="totochan" creationdate="20190402T194029Z">
+        <seg>無効な組み合わせ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Combination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194044Z" creationid="totochan" creationdate="20190402T194044Z">
+        <seg>無効な組み合わせ。材料が失われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inventory</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015728Z" creationid="hiru4" creationdate="20190402T015728Z">
@@ -6247,6 +6271,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Missing some ingredients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193847Z" creationid="totochan" creationdate="20190402T193847Z">
+        <seg>材料がたりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
@@ -6415,6 +6447,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No need to boil clean water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194000Z" creationid="totochan" creationdate="20190402T194000Z">
+        <seg>清潔な水を煮沸する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Armed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
@@ -6475,6 +6515,15 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112824Z" creationid="setom" creationdate="20190331T112557Z">
         <seg>貨幣や銀貨にも重量があることを心に留めておけ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Crafting_AtLeastOneIngredient</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193916Z" creationid="totochan" creationdate="20190402T193831Z">
+        <seg>
+Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
     </tu>
     <tu>
@@ -10692,6 +10741,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134738Z" creationid="setom" creationdate="20190402T134738Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} cannot be placed here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T194100Z" creationid="totochan" creationdate="20190402T194100Z">
+        <seg>{1}ここには設置することができません。</seg>
       </tuv>
     </tu>
     <tu>
