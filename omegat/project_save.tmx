@@ -2432,8 +2432,8 @@
       <tuv lang="EN-US">
         <seg>Chest Armor</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T083912Z" creationid="totochan" creationdate="20190402T083912Z">
-        <seg>鎧r</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101417Z" creationid="totochan" creationdate="20190402T083912Z">
+        <seg>鎧</seg>
       </tuv>
     </tu>
     <tu>
@@ -4432,8 +4432,8 @@
       <tuv lang="EN-US">
         <seg>Heavy helmets are detrimental to spellcasters, increasing the Mana cost of their abilities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T083857Z" creationid="totochan" creationdate="20190402T083857Z">
-        <seg>重装ヘルメットはスペルキャスターにとって有害であり、必要なマナコストが増加します。.</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101412Z" creationid="totochan" creationdate="20190402T083857Z">
+        <seg>重装ヘルメットはスペルキャスターにとって有害であり、必要なマナコストが増加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5369,8 +5369,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Loading Items</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T083017Z" creationid="totochan" creationdate="20190402T083017Z">
-        <seg>アイテムを読込中Loading Items</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101322Z" creationid="totochan" creationdate="20190402T083017Z">
+        <seg>アイテムを読込中</seg>
       </tuv>
     </tu>
     <tu>
@@ -6161,8 +6161,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Opening connection to friends.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T082911Z" creationid="totochan" creationdate="20190402T082911Z">
-        <seg>フレンドを招待Opening connection to friends.</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101346Z" creationid="totochan" creationdate="20190402T082911Z">
+        <seg>フレンドを招待</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,8 +7218,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Positioning Players</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T083032Z" creationid="totochan" creationdate="20190402T083032Z">
-        <seg>プレイヤーの位置を再設定Positioning Players</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101313Z" creationid="totochan" creationdate="20190402T083032Z">
+        <seg>プレイヤーの位置を再設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,8 +9266,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Voices Volume</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T082921Z" creationid="totochan" creationdate="20190402T082921Z">
-        <seg>音声音量Voices Volume</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101330Z" creationid="totochan" creationdate="20190402T082921Z">
+        <seg>音声音量</seg>
       </tuv>
     </tu>
     <tu>
