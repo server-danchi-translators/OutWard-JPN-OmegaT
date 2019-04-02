@@ -6167,6 +6167,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, I have no choice but to pick myself up yet again and face the wild, untamed land outside the walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104418Z" creationid="setom" creationdate="20190402T104418Z">
+        <seg>今や、私には未開の地、壁の向こう側に向かう以外に選択肢はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061957Z" creationid="setom" creationdate="20190402T061957Z">
@@ -7380,6 +7388,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103546Z" creationid="setom" creationdate="20190402T103546Z">
         <seg>Prologue_3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prologue_4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104113Z" creationid="setom" creationdate="20190402T104113Z">
+        <seg>Prologue_4</seg>
       </tuv>
     </tu>
     <tu>
