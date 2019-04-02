@@ -18,7 +18,7 @@
     <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>Random</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>1 Player</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>2 Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>CharacterCreation_Player_NewGame</column_1><column_2>新規スタート</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>CharacterCreation_Player_NewGame</column_1><column_2>Start New Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>Start Tutorial</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>Physical Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_ColdResistance</column_1><column_2>Cold Weather Def.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -297,10 +297,10 @@ Otherwise, survival crafting is used to make essentials items such as Makeshift 
     <ooo_row><column_1>PlayerMenu_Tab_Skills</column_1><column_2>Skills</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>PlayerMenu_Tab_Status</column_1><column_2>Vitals</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_ChancesOfAmbush</column_1><column_2>Ambush</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>警戒時間を増やせば、休息時の待ち伏せの可能性が減少します。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>Each hour spent guarding reduces the chance of ambush while resting.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_GuardSafeZone</column_1><column_2>This location is safe. You can rest without fear of being ambushed.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Description_Repair</column_1><column_2>Repairing restores your equipped items’ durability.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
-    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>睡眠は疲れ、健康、スタミナを癒しますが、マナを減少させます。</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>Sleep heals tiredness, max health and max stamina, but reduces your max mana.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Guard_Resume</column_1><column_2>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_PosRestNeedOverview</column_1><column_2>Needs</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Rest_Repair_AfterRestDurability</column_1><column_2>Equipment Durability after rest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
