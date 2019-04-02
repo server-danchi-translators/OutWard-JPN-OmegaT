@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clean Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071624Z" creationid="hiru4" creationdate="20190402T071624Z">
+        <seg>清潔な水r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114856Z" creationid="setom" creationdate="20190401T114851Z">
@@ -2042,6 +2050,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
         <seg>低温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coldest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071730Z" creationid="hiru4" creationdate="20190402T071730Z">
+        <seg>とても寒い</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2810,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025320Z" creationid="hiru4" creationdate="20190402T023059Z">
         <seg>フレームレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fresh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071746Z" creationid="hiru4" creationdate="20190402T071746Z">
+        <seg>穏やか</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3578,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113653Z" creationid="setom" creationdate="20190401T113653Z">
         <seg>高温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hottest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071801Z" creationid="hiru4" creationdate="20190402T071801Z">
+        <seg>とても暑いHottest</seg>
       </tuv>
     </tu>
     <tu>
@@ -5600,6 +5632,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rancid Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071644Z" creationid="hiru4" creationdate="20190402T071644Z">
+        <seg>汚水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113451Z" creationid="setom" creationdate="20190401T113451Z">
@@ -5912,6 +5952,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>River Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071634Z" creationid="hiru4" creationdate="20190402T071634Z">
+        <seg>川の水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SS Shadows</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
@@ -5924,6 +5972,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024329Z" creationid="hiru4" creationdate="20190402T024329Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Salt Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071654Z" creationid="hiru4" creationdate="20190402T071654Z">
+        <seg>海水r</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,10 +6160,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skill Cost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071523Z" creationid="hiru4" creationdate="20190402T071523Z">
+        <seg>消費スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skill: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071501Z" creationid="hiru4" creationdate="20190402T071501Z">
         <seg>スキル: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skill: {1} or {2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071512Z" creationid="hiru4" creationdate="20190402T071512Z">
+        <seg>スキル: {1} or {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7064,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlocked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071530Z" creationid="hiru4" creationdate="20190402T071530Z">
+        <seg>解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unpause Game</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023454Z" creationid="hiru4" creationdate="20190402T023454Z">
@@ -7448,6 +7528,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your Resources</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071551Z" creationid="hiru4" creationdate="20190402T071551Z">
+        <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your body has needs.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110732Z" creationid="setom" creationdate="20190331T110732Z">
@@ -7508,6 +7596,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
         <seg>value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} is empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071614Z" creationid="hiru4" creationdate="20190402T071614Z">
+        <seg>{1} は空です</seg>
       </tuv>
     </tu>
     <tu>
