@@ -3376,8 +3376,8 @@
       <tuv lang="EN-US">
         <seg>Equipment breaks during combat, becoming less effective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T085225Z" creationid="setom" creationdate="20190402T085225Z">
-        <seg>装備は戦闘で壊れ、やがて効果がなくなっていきます、</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164113Z" creationid="setom" creationdate="20190402T085225Z">
+        <seg>装備は戦闘で傷つき、やがて効果がなくなっていきます、</seg>
       </tuv>
     </tu>
     <tu>
@@ -3680,8 +3680,8 @@
       <tuv lang="EN-US">
         <seg>Food rots with time, even when you are resting or travelling to another region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T085630Z" creationid="setom" creationdate="20190402T085630Z">
-        <seg>食料は、休憩や他の地域への旅の最中でも時間で腐ります。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164131Z" creationid="setom" creationdate="20190402T085630Z">
+        <seg>食料は、休憩や他の地域への旅の最中でも時間の経過で腐ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6377,8 +6377,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Open and close lanterns with [InputAction_ToggleLights].</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090156Z" creationid="setom" creationdate="20190402T090156Z">
-        <seg>[InputAction_ToggleLights]でランタンの開け閉めができます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T164049Z" creationid="setom" creationdate="20190402T090156Z">
+        <seg>[InputAction_ToggleLights]でランタンを点けたり消したりできます。</seg>
       </tuv>
     </tu>
     <tu>
