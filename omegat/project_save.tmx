@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After you’ve finished resting, enemies can ambush you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090545Z" creationid="setom" creationdate="20190402T090545Z">
+        <seg>休息後、敵が奇襲をかけることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
@@ -4239,6 +4247,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also restores maximum health, which is lowered by taking damage, and maximum stamina, which is lowered by performing strenuous actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090520Z" creationid="setom" creationdate="20190402T090520Z">
+        <seg>ダメージを食らったり、激しい動きにより低下した体力やスタミナの上限も回復されます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It takes a long time to recover from illness, though medicinal teas can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082436Z" creationid="setom" creationdate="20190402T082436Z">
@@ -4991,6 +5007,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Guarding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090521Z" creationid="setom" creationdate="20190402T090521Z">
+        <seg>Message_Tutorial_Guarding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072453Z" creationid="setom" creationdate="20190401T072453Z">
@@ -5067,6 +5091,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075724Z" creationid="setom" creationdate="20190402T075724Z">
         <seg>Message_Tutorial_Skills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Sleeping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090251Z" creationid="setom" creationdate="20190402T090251Z">
+        <seg>Message_Tutorial_Sleeping</seg>
       </tuv>
     </tu>
     <tu>
@@ -6860,6 +6892,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112114Z" creationid="setom" creationdate="20190331T112114Z">
         <seg>テントや宿屋で眠ることで最大値は回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep is another of your character’s needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090251Z" creationid="setom" creationdate="20190402T090251Z">
+        <seg>睡眠はキャラクターのもう一つの欲求です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleeping, either in an inn or in a tent, removes tiredness and restores health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090405Z" creationid="setom" creationdate="20190402T090405Z">
+        <seg>宿屋やテントでの睡眠は疲労を取り除き体力を回復します。</seg>
       </tuv>
     </tu>
     <tu>
