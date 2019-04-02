@@ -3566,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eto made it out too, he's making his way home to Cierzo to go get help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165147Z" creationid="setom" creationdate="20190402T165147Z">
+        <seg>Etoも生き残っててよ、Cierzoまで帰る手助けをしてくれるぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evade attacks by dodging with [InputAction_Dodge], though this consumes a fair amount of Stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145804Z" creationid="setom" creationdate="20190401T075426Z">
