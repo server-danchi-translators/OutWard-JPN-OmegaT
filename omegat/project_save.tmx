@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invert Y Camera</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021742Z" creationid="hiru4" creationdate="20190402T021742Z">
+        <seg>Y軸カメラ反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115140Z" creationid="setom" creationdate="20190401T115140Z">
@@ -2470,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master Volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021653Z" creationid="hiru4" creationdate="20190402T021653Z">
+        <seg>全体音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115149Z" creationid="setom" creationdate="20190401T115149Z">
@@ -2574,10 +2590,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mouse Sensitivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021749Z" creationid="hiru4" creationdate="20190402T021749Z">
+        <seg>マウス感度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement Speed</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020911Z" creationid="hiru4" creationdate="20190402T020911Z">
         <seg>移動速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Music Volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021705Z" creationid="hiru4" creationdate="20190402T021705Z">
+        <seg>音楽音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mute Non Focus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021731Z" creationid="hiru4" creationdate="20190402T021731Z">
+        <seg>ミュートs</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Enemy Health</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021640Z" creationid="hiru4" creationdate="20190402T021640Z">
+        <seg>敵の体力を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show HUD</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021601Z" creationid="hiru4" creationdate="20190402T021601Z">
@@ -3146,6 +3194,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112114Z" creationid="setom" creationdate="20190331T112114Z">
         <seg>テントや宿屋で眠ることで最大値は回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sounds Volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
+        <seg>効果音量</seg>
       </tuv>
     </tu>
     <tu>
