@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104914Z" creationid="setom" creationdate="20190402T104914Z">
+        <seg>{1}を採取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gather {ItemName}</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104900Z" creationid="setom" creationdate="20190402T104900Z">
@@ -4762,6 +4770,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
         <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Area_Travel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104903Z" creationid="setom" creationdate="20190402T104903Z">
+        <seg>Interaction_Area_Travel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Base_GatherWater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104916Z" creationid="setom" creationdate="20190402T104916Z">
+        <seg>Interaction_Base_GatherWater</seg>
       </tuv>
     </tu>
     <tu>
