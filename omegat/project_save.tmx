@@ -5007,6 +5007,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_End</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091415Z" creationid="setom" creationdate="20190402T091415Z">
+        <seg>Message_Tutorial_End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Gathering</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081805Z" creationid="setom" creationdate="20190402T081805Z">
@@ -5355,6 +5363,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111628Z" creationid="setom" creationdate="20190331T111628Z">
         <seg>しかし、殆どのバックパックは装備しているとドッジロールが鈍重になることに注意しろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that only your currently equipped items will be repaired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091414Z" creationid="setom" creationdate="20190402T091414Z">
+        <seg>今装備しているアイテムしか修理されないことは覚えておいてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6364,6 +6380,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061654Z" creationid="hiru4" creationdate="20190402T024309Z">
         <seg>修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repairing restores the durability of your weapons and armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091318Z" creationid="setom" creationdate="20190402T091318Z">
+        <seg>修理によって武器や鎧の耐久力を回復できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7860,6 +7884,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081152Z" creationid="setom" creationdate="20190402T081152Z">
         <seg>Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけPredator Leapが使えるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the door to exit the Tutorial and return to the Main Menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091450Z" creationid="setom" creationdate="20190402T091450Z">
+        <seg>扉を開けてチュートリアルを終了しメインメニューに戻ってください。</seg>
       </tuv>
     </tu>
     <tu>
