@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All heavy armor slows down the wearer, though that is offset by a higher defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T145450Z" creationid="totochan" creationdate="20190402T145450Z">
+        <seg>高い防御力によって相殺されるが、重装備系の鎧は着用者を移動速度を鈍らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All my life, I've lived within the safety of Cierzo, spared the brutality of the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102136Z" creationid="setom" creationdate="20190402T102136Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025406Z" creationid="hiru4" creationdate="20190402T022233Z">
         <seg>異方性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ankle armor which reduces the damage you receive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T145139Z" creationid="totochan" creationdate="20190402T145139Z">
+        <seg>足首に受けるダメージを軽減する防具.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9620,6 +9636,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102952Z" creationid="setom" creationdate="20190402T102952Z">
         <seg>我々は個人ではなく、血統で審判を下されるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapons are held in this hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T145555Z" creationid="totochan" creationdate="20190402T145555Z">
+        <seg>武器を手に持っています。Weapons are held in this hand.</seg>
       </tuv>
     </tu>
     <tu>
