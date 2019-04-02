@@ -5007,6 +5007,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Effects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091701Z" creationid="setom" creationdate="20190402T091701Z">
+        <seg>Message_Tutorial_Effects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_End</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091415Z" creationid="setom" creationdate="20190402T091415Z">
@@ -5163,6 +5171,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080450Z" creationid="setom" creationdate="20190402T080450Z">
         <seg>Message_Tutorial_WeaponSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_WeaponSkillsReq</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091454Z" creationid="setom" creationdate="20190402T091454Z">
+        <seg>Message_Tutorial_WeaponSkillsReq</seg>
       </tuv>
     </tu>
     <tu>
@@ -6052,6 +6068,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113625Z" creationid="setom" creationdate="20190401T113606Z">
         <seg>物理耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical skills often require you to wield a specific weapon type or to have a Status Effect active on you, such as the Rage Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091701Z" creationid="setom" creationdate="20190402T091701Z">
+        <seg>物理スキルは度々特定の種類の武器の使用、もしくはRage Boonのようなステータス効果が有効になっている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7900,6 +7924,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
         <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this elevator to reach the section on negative Status Effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T091812Z" creationid="setom" creationdate="20190402T091812Z">
+        <seg>エレベーターを使ってマイナスのステータス効果の区画へ行ってください。</seg>
       </tuv>
     </tu>
     <tu>
