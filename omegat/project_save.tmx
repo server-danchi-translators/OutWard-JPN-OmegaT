@@ -10402,6 +10402,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1598_0</prop>
+      <tuv lang="EN-US">
+        <seg>greeting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T144452Z" creationid="setom" creationdate="20190402T144452Z">
+        <seg>挨拶をする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1603_0</prop>
+      <tuv lang="EN-US">
+        <seg>Good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T144327Z" creationid="setom" creationdate="20190402T144327Z">
+        <seg>はい。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OutwardEn/menu_all.xml</prop>
       <prop type="id">24_0</prop>
       <tuv lang="EN-US">
