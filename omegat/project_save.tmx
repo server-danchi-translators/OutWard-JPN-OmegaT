@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
+        <seg>私は旧友のYzanと共に、借金を帳消しにするだけの金銭を求め、海を渡って遠征に参加した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083322Z" creationid="setom" creationdate="20190402T082925Z">
@@ -5251,6 +5259,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
         <seg>だがアイテムはテントで休息中に修復できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m lucky to still be breathing after our ship hit rocks on the return voyage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104112Z" creationid="setom" creationdate="20190402T104112Z">
+        <seg>帰航の際に船が座礁したのだ。私がまだ息をしているのが僅かながらの幸運だろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8980,6 +8996,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
         <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was a mistake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
+        <seg>これが間違いだった。</seg>
       </tuv>
     </tu>
     <tu>
