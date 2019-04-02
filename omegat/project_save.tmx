@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, Bleeding deals damage over time, and is healed with Bandages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081621Z" creationid="setom" creationdate="20190402T081621Z">
+        <seg>例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frame Rate</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025320Z" creationid="hiru4" creationdate="20190402T023059Z">
@@ -4671,6 +4679,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_NegativeEffects2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081154Z" creationid="setom" creationdate="20190402T081154Z">
+        <seg>Message_Tutorial_NegativeEffects2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Quickslots</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074958Z" creationid="setom" creationdate="20190402T074958Z">
@@ -5776,6 +5792,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removing negative effects is important between battles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081345Z" creationid="setom" creationdate="20190402T081345Z">
+        <seg>良くない効果を取り除いておくことは戦いには大切なことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Render Scale</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025310Z" creationid="hiru4" creationdate="20190402T023150Z">
@@ -6420,6 +6444,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114354Z" creationid="setom" creationdate="20190401T114354Z">
         <seg>ステータス効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status effects are displayed at the bottom left of the screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081216Z" creationid="setom" creationdate="20190402T081216Z">
+        <seg>ステータス効果は画面左下に表示されます。</seg>
       </tuv>
     </tu>
     <tu>
