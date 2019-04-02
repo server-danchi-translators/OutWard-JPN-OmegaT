@@ -3728,8 +3728,8 @@
       <tuv lang="EN-US">
         <seg>Heavy armors rarely protect against the heat, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T084437Z" creationid="setom" creationdate="20190402T084217Z">
-        <seg>だけども、重鎧では殆ど暑さを凌げません。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T084515Z" creationid="setom" creationdate="20190402T084217Z">
+        <seg>重鎧では殆ど暑さを凌げません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,10 +3902,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In cold climates, campfires and torches can warm you up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T084838Z" creationid="setom" creationdate="20190402T084838Z">
+        <seg>寒気の中ではキャンプファイアや松明で温まってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In hot climates, drink water and wear clothing tailored to protect against the sun.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T084051Z" creationid="setom" creationdate="20190402T084051Z">
-        <seg>猛暑のなかでは水を飲んで、日光対策のされた衣服を着ましょう。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T084554Z" creationid="setom" creationdate="20190402T084051Z">
+        <seg>猛暑の中では水を飲んで、日光対策のされた衣服を着ましょう。</seg>
       </tuv>
     </tu>
     <tu>
