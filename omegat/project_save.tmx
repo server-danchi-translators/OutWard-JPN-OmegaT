@@ -3744,6 +3744,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rest_Repair_AfterRestDurability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024027Z" creationid="hiru4" creationdate="20190402T023904Z">
+        <seg>Rest_Repair_AfterRestDurability値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
