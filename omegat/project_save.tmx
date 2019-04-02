@@ -10176,6 +10176,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
         <seg>「かの鍛冶師は武器庫中の武器全てを鍛え直し、強固で鋭利にしようとした。」</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ナンパした船で怪我をしたのなら私が用意した &lt;color=#00CCFF&gt;&lt;b&gt;sleep in one of the bedrolls&lt;/b&gt;&lt;/color&gt; 使って休息をとればいい。</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T133002Z" creationid="setom" creationdate="20190402T133002Z">
+        <seg>難破の怪我が酷い様なら真っすぐ行って、俺の用意した&lt;color=#00CCFF&gt;&lt;b&gt;寝袋で寝るといい&lt;/b&gt;&lt;/color&gt;見張りは俺がやっておく。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">OutwardEn/menu_all.xml</prop>
