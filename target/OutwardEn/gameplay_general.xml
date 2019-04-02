@@ -283,7 +283,7 @@
     <ooo_row><column_1>Interaction_NPC_Base_Trade</column_1><column_2>Trade with {NPCName}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_NPC_Short_Trade</column_1><column_2>Trade</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Base_DrinkWater</column_1><column_2>Drink {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Base_GatherWater</column_1><column_2>Gather {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Base_GatherWater</column_1><column_2>{1}を採取</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Disassemble</column_1><column_2>Disassemble</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_DisassembleTrap</column_1><column_2>Disassemble {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_OpenContainer</column_1><column_2>Open</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -293,10 +293,10 @@
     <ooo_row><column_1>Interaction_Item_Read</column_1><column_2>Read</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Equip</column_1><column_2>Equip</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Take</column_1><column_2>取る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Item_Gather</column_1><column_2>Gather {ItemName}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Gather</column_1><column_2>{ItemName}を採取</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_GatherMining</column_1><column_2>Mine {ItemName}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_ConfirmDeploy</column_1><column_2>Deploy {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Area_Travel</column_1><column_2>Travel to {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Travel</column_1><column_2>{1}へ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Area_Exit</column_1><column_2>Exit to {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Area_Enter</column_1><column_2>Enter {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Area_GoTo</column_1><column_2>Go to {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

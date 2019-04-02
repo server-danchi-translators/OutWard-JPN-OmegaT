@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ooo_calc_export scriptAuthor="vjl" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptUpdate="2011-03-02" scriptVersion="2.2.0_qdxml">
   <ooo_sheet num="1">
-    <ooo_row><column_1>ItemID</column_1><column_2>名前</column_2><column_3>Desc</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ItemID</column_1><column_2>Name</column_2><column_3>Desc</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100010</column_1><column_2>Throw Lantern</column_2><column_3>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds. Using this skill destroys the lantern.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100020</column_1><column_2>Predator Leap</column_2><column_3>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage. Requires the Rage boon.</column_3><column_4/><column_5/><column_6>Lower weapons</column_6></ooo_row>
     <ooo_row><column_1>8100030</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
@@ -90,7 +90,7 @@
     <ooo_row><column_1>8205230</column_1><column_2>Pressure Plate Expertise</column_2><column_3>Increases the power of your Pressure Plate Traps. Allows the reuse of Pressure Plates after they have been triggered, though they must be re-armed with another charge or compatible item.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200110</column_1><column_2>Enrage</column_2><column_3>Grants the Rage boon, which increases the Impact of your attacks. Using this skill burns a bit of your maximum health until the next time you sleep. Certain skills require this boon to be active.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200120</column_1><column_2>Focus</column_2><column_3>Grants the Discipline boon, which increases the Physical Damage of your attacks. Using this skill burns a bit of your maximum stamina until the next time you sleep. Certain skills require this boon to be active.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8200130</column_1><column_2>Warm</column_2><column_3>Grants the Warm boon, which increases your Fire Damage and Fire Resistance. It also increases your protection to cold weather. Certain skills require this boon to be active.</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8200130</column_1><column_2>温暖</column_2><column_3>Grants the Warm boon, which increases your Fire Damage and Fire Resistance. It also increases your protection to cold weather. Certain skills require this boon to be active.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200140</column_1><column_2>Cool</column_2><column_3>Grants the Cool boon, which increases your Frost Damage and Frost Resistance. It also increases your protection to hot weather. Certain skills require this boon to be active.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200150</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200160</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>

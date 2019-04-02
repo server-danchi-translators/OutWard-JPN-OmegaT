@@ -98,7 +98,7 @@
     <ooo_row><column_1>Enmerkar_SQ_RedLich_06</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Enmerkar_SQ_RedLich_07</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Enmerkar_SQ_RedLich_08</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Enmerkar_SQ_RedScholar_01</column_1><column_2>You there! You look like a capable explorer! Might I hire you for something? I’ve heard of a blood-red Idol hidden in this place. I’ll pay you 100 silver if you bring it to me!</column_2><column_3/><column_4/><column_5>greeting</column_5><column_6/></ooo_row>
+    <ooo_row><column_1>Enmerkar_SQ_RedScholar_01</column_1><column_2>You there! You look like a capable explorer! Might I hire you for something? I’ve heard of a blood-red Idol hidden in this place. I’ll pay you 100 silver if you bring it to me!</column_2><column_3/><column_4/><column_5>こんにちは</column_5><column_6/></ooo_row>
     <ooo_row><column_1>Player_Enmerkar_SQ_RedScholar_a_01</column_1><column_2>Here, your Idol. Watch yourself, this thing seems to talk.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Enmerkar_SQ_RedScholar_b_01</column_1><column_2>I’ll keep an eye out for it.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Enmerkar_SQ_RedScholar_c_01</column_1><column_2>I scoured the place and couldn’t find it. I think it’s long gone from here.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -217,7 +217,7 @@
   </ooo_sheet>
   <ooo_sheet num="5">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3>value_fem</column_3><column_4>audio_file</column_4><column_5>emote_tag</column_5><column_6>anim_tag</column_6></ooo_row>
-    <ooo_row><column_1>Abrassar_SQ_Barrelman_01</column_1><column_2>Hiyo! What? You've never seen a man in a barrel before? How positively sad! This is the only way to live!</column_2><column_3/><column_4/><column_5>greeting</column_5><column_6/></ooo_row>
+    <ooo_row><column_1>Abrassar_SQ_Barrelman_01</column_1><column_2>Hiyo! What? You've never seen a man in a barrel before? How positively sad! This is the only way to live!</column_2><column_3/><column_4/><column_5>こんにちは</column_5><column_6/></ooo_row>
     <ooo_row><column_1>Abrassar_SQ_Barrelman_02</column_1><column_2>Why are you in a barrel?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Abrassar_SQ_Barrelman_03</column_1><column_2>Why are you wearing a fish on your head?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Abrassar_SQ_Barrelman_04</column_1><column_2>Do you... need anything?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

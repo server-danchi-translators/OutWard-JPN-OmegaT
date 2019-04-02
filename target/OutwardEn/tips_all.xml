@@ -3,16 +3,16 @@
   <ooo_sheet num="1">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip1</column_1><column_2>身体には欲求が存在する。. 飲食、そしてテントや宿屋で寝ることで欲求を満たせ。欲求が満たせなければ、ペナルティを受けることになる。だが宿屋なら全ての欲求に応えてくれるだろう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Test_Tip2</column_1><column_2>防御は近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。盾で矢やそれに近いものを防御できるが、マジックブラストは防げない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Test_Tip2</column_1><column_2>ブロックは近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。盾で矢やそれに近いものをブロックできるが、マジックブラストは防げない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip3</column_1><column_2>ドッジロールにより如何なる攻撃もとりあえずは避けられる。しかし、殆どのバックパックは装備しているとドッジロールが鈍重になることに注意しろ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Test_Tip4</column_1><column_2>ボタンを押すか、インベントリからバックパックを降ろしたり拾ったりできる。コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Test_Tip4</column_1><column_2>ボタンを押すか、所持品からバックパックを降ろしたり拾ったりできる。コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip5</column_1><column_2>殆どのバックパックはランタンを吊り下げられるため、両手を空けつつ光を提供できる。ただランタンをバックパック内に入れるだけで、火を点けずとも光を灯すだろう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip6</column_1><column_2>装備は使うと耐久力を失い、壊れていく。だがアイテムはテントで休息中に修復できる。“ガタがきた”アイテムでもまだまだ使えるぞ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip7</column_1><column_2>革の水筒の用途は水を貯めることだけだ。だがそれこそが探検家たちに重要であり、水筒が複数あればきっと役に立つだろう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip8</column_1><column_2>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法だ。しかし、クイックスロットは8個しかない、賢い選択をしろ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip9</column_1><column_2>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。特定のポーションや茶で病気を治療できるが、それでも回復には時間がかかってしまう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip10</column_1><column_2>火打ち石と打ち金、もしくは特定の火の呪文によりキャンプファイアを灯せる。だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Test_Tip11</column_1><column_2>インベントリ、ひいてはバックパックもスペースには限りがある。役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Test_Tip11</column_1><column_2>所持品、ひいてはバックパックもスペースには限りがある。役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip12</column_1><column_2>食料は腐る。無駄になる前に食べるか調理せよ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip13</column_1><column_2>テントで休んでいても攻撃を受けることがある。安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Test_Tip14</column_1><column_2>多くの有用なアイテムを自分の手で作ることができる。このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

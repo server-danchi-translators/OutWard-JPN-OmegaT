@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ooo_calc_export scriptAuthor="vjl" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptUpdate="2011-03-02" scriptVersion="2.2.0_qdxml">
   <ooo_sheet num="1">
-    <ooo_row><column_1>ItemID</column_1><column_2>名前</column_2><column_3>Desc</column_3><column_4>Status</column_4><column_5>D</column_5><column_6/></ooo_row>
-    <ooo_row><column_1>0</column_1><column_2>ポケット</column_2><column_3/><column_4>NOT IN DB</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>100001</column_1><column_2>普通の斧</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>100002</column_1><column_2>普通の斧 2H</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ItemID</column_1><column_2>Name</column_2><column_3>Desc</column_3><column_4>Status</column_4><column_5>D</column_5><column_6/></ooo_row>
+    <ooo_row><column_1>0</column_1><column_2>Pocket</column_2><column_3/><column_4>NOT IN DB</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>100001</column_1><column_2>Standard Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>100002</column_1><column_2>Standard Axe 2H</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>100003</column_1><column_2>Standard Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>100004</column_1><column_2>Standard Sword 2H</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>100005</column_1><column_2>Standard Bludgeon</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
@@ -14,53 +14,53 @@
     <ooo_row><column_1>2000010</column_1><column_2>Iron Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000020</column_1><column_2>Steel Sabre</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000030</column_1><column_2>Wolf Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000031</column_1><column_2>Radiant Wolf Sword</column_2><column_3>Sword that emits a blade of energy, which is both indestructible and luminous.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000031</column_1><column_2>Radiant Wolf Sword</column_2><column_3>エネルギーの刃を放つ剣。光り輝くこの刃が折れることはない。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000042</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000050</column_1><column_2>Fang Sword</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000050</column_1><column_2>Fang Sword</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000060</column_1><column_2>Machete</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000070</column_1><column_2>Marble Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000080</column_1><column_2>Gold-Lich Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000090</column_1><column_2>Old Legion Gladius</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000100</column_1><column_2>Runic Blade</column_2><column_3>Summoned magical sword that lasts for a limited amount of time.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000100</column_1><column_2>Runic Blade</column_2><column_3>限られた時間の間、魔法の剣を召喚する。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000110</column_1><column_2>Desert Khopesh</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000120</column_1><column_2>Jade Scimitar</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000130</column_1><column_2>Assassin Sword</column_2><column_3>Inflicts Slow Down and Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000130</column_1><column_2>Assassin Sword</column_2><column_3>敵の動きを鈍くし、出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000140</column_1><column_2>Palladium Sword</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000150</column_1><column_2>Brand</column_2><column_3>Inflicts Chill and Pain on enemies, increasing the Frost and Physical damage they take.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2000151</column_1><column_2>Strange Rusted Sword</column_2><column_3>“The Commander said to make this sword fit for a king.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000150</column_1><column_2>Brand</column_2><column_3>敵に冷気と痛みを与え、氷ダメージと物理ダメージを増加させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2000151</column_1><column_2>Strange Rusted Sword</column_2><column_3>「指揮官は言った、この剣を王に相応しいものにする、と」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2000160</column_1><column_2>Tsar Sword</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010000</column_1><column_2>Iron Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010020</column_1><column_2>Living Wood Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010030</column_1><column_2>Brutal Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010031</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2010040</column_1><column_2>Fang Axe</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2010040</column_1><column_2>Fang Axe</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010050</column_1><column_2>Hatchet</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010060</column_1><column_2>Marble Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2010070</column_1><column_2>Sunfall Axe</column_2><column_3>“The Dawn Weaver’s knowledge remade us; we grafted porcelain to our flesh.” Inflicts Burning on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2010080</column_1><column_2>Beast Golem Axe</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2010090</column_1><column_2>Tuanosaur Axe</column_2><column_3>Inflicts Extreme Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2010100</column_1><column_2>Horror Axe</column_2><column_3>Inflicts Extreme Poison on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2010070</column_1><column_2>Sunfall Axe</column_2><column_3>「Dawn Weaverの知恵が我らを作り直し、磁器は我らの肉に移された。」敵を燃やす。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2010080</column_1><column_2>Beast Golem Axe</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2010090</column_1><column_2>Tuanosaur Axe</column_2><column_3>敵を大量出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2010100</column_1><column_2>Horror Axe</column_2><column_3>敵に猛毒をかける。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010110</column_1><column_2>Palladium Axe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2010120</column_1><column_2>Tsar Axe</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020010</column_1><column_2>Iron Mace</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020020</column_1><column_2>Brutal Club</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020020</column_1><column_2>Brutal Club</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020030</column_1><column_2>Jade-Lich Mace </column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020040</column_1><column_2>Marble Morningstar</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020050</column_1><column_2>Fang Club</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020040</column_1><column_2>Marble Morningstar</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020050</column_1><column_2>Fang Club</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020060</column_1><column_2>Gold-Lich Mace</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020070</column_1><column_2>Merton’s Firepoker</column_2><column_3>“A flamin’ weapon that don’t go cold, prefect for a lad that can’t die!”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020070</column_1><column_2>Merton’s Firepoker</column_2><column_3>「決して冷めない神官の武器は、不死者共にピッタリだ！」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020080</column_1><column_2>Giant Iron Key</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020090</column_1><column_2>Blacksmith's Hammer</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020091</column_1><column_2>Blacksmith's Vintage Hammer</column_2><column_3>“The smith wanted to refine, strengthen and sharpen all weapons in the armory.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020091</column_1><column_2>Blacksmith's Vintage Hammer</column_2><column_3>「かの鍛冶師は武器庫中の武器全てを鍛え直し、強固で鋭利にしようとした。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020100</column_1><column_2>Palladium Mace</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020110</column_1><column_2>Obsidian Mace</column_2><column_3>Inflicts Burning on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020110</column_1><column_2>Obsidian Mace</column_2><column_3>敵を燃やす。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2020120</column_1><column_2>Tsar Mace</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020130</column_1><column_2>Primitive Club</column_2><column_3>The lowest of the low when it comes to weaponry, though it can easily be crafted with Wood.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2020140</column_1><column_2>Skycrown Mace</column_2><column_3>“The Dusk Father’s knowledge made us all kings; we built our sky castles under the earth.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020130</column_1><column_2>Primitive Club</column_2><column_3>武器としては下の下だが、木で簡単に作ることができる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2020140</column_1><column_2>Skycrown Mace</column_2><column_3>「Dusk Fatherの知恵が我らを王にし、我らは天空城をこの大地の下に建てた。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100000</column_1><column_2>Prayer Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100010</column_1><column_2>Wolf Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100020</column_1><column_2>Fang Greatsword</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100030</column_1><column_2>Zagis' Saw</column_2><column_3>Immense man-cutting saw of the bandit lord Zagis. Inflicts Pain on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100020</column_1><column_2>Fang Greatsword</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100030</column_1><column_2>Zagis' Saw</column_2><column_3>蛮族長Zagisの恐ろしく切れるノコギリ。痛みを与える。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100040</column_1><column_2>Marble Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100050</column_1><column_2>Gold-Lich Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100060</column_1><column_2>Golem Rapier</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
@@ -68,87 +68,87 @@
     <ooo_row><column_1>2100070</column_1><column_2>Thorny Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100080</column_1><column_2>Iron Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100081</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100100</column_1><column_2>Starchild Claymore</column_2><column_3>“The Dawn Weaver’s knowledge showed us the way; He came from the stars, and to the stars we shall follow.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100110</column_1><column_2>Assassin Claymore</column_2><column_3>Inflicts Slow Down and Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100100</column_1><column_2>Starchild Claymore</column_2><column_3>「Dawn Weaverの知識が我らに道を示した。星より来たりし彼の者に我らは付き従おう。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100110</column_1><column_2>Assassin Claymore</column_2><column_3>敵の動きを鈍くし、出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100120</column_1><column_2>Palladium Claymore</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100130</column_1><column_2>Pathfinder Claymore</column_2><column_3>Inflicts Vulnerability to all non-physical elements on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100130</column_1><column_2>Pathfinder Claymore</column_2><column_3>全ての霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2100140</column_1><column_2>Tsar Claymore</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100150</column_1><column_2>Royal Great-Kopesh</column_2><column_3>Inflicts Pain on enemies.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2100999</column_1><column_2>Great Runic Blade</column_2><column_3>Summoned magical sword that lasts for a limited amount of time.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100150</column_1><column_2>Royal Great-Kopesh</column_2><column_3>痛みを与える。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2100999</column_1><column_2>Great Runic Blade</column_2><column_3>限られた時間の間、魔法の剣を召喚する。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110000</column_1><column_2>Brutal Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110001</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2110010</column_1><column_2>Fang Greataxe</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2110010</column_1><column_2>Fang Greataxe</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110020</column_1><column_2>Marble Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110030</column_1><column_2>Iron Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110040</column_1><column_2>Felling Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2110050</column_1><column_2>Crescent Greataxe</column_2><column_3>Inflicts Vulnerability to all non-physical elements on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2110060</column_1><column_2>Tuanosaur Greataxe</column_2><column_3>Inflicts Extreme Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2110050</column_1><column_2>Crescent Greataxe</column_2><column_3>全ての霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2110060</column_1><column_2>Tuanosaur Greataxe</column_2><column_3>敵を大量出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110070</column_1><column_2>Giantkind Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110080</column_1><column_2>Palladium Greataxe</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2110090</column_1><column_2>Tsar Greataxe</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2110100</column_1><column_2>Worldedge Greataxe</column_2><column_3>“The Dusk Father’s knowledge is eternal; this world is but one stop in His travel across the great void.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2110100</column_1><column_2>Worldedge Greataxe</column_2><column_3>「Dusk Fatherの知恵は永遠なり。この世は彼の者の大いなる虚無を超える旅の一端でしかない。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120000</column_1><column_2>Brutal Greatmace</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120010</column_1><column_2>Wolf Greathammer</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120020</column_1><column_2>Fang Greatclub</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120020</column_1><column_2>Fang Greatclub</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120030</column_1><column_2>Marble Greathammer</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120040</column_1><column_2>Mantis Greatpick</column_2><column_3>Inflicts Pain on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120050</column_1><column_2>Mining Pick</column_2><column_3>Essential tool to harvest mineral deposits.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120060</column_1><column_2>Pyrite Greathammer</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120070</column_1><column_2>Pillar Greathammer</column_2><column_3>Artifact greathammer of an executioner who guarded the Spire of Light, crushing the bones of invaders before feeding on them.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120040</column_1><column_2>Mantis Greatpick</column_2><column_3>痛みを与える。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120050</column_1><column_2>Mining Pick</column_2><column_3>鉱床の採掘に必須の道具。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120060</column_1><column_2>Pyrite Greathammer</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120070</column_1><column_2>Pillar Greathammer</column_2><column_3>侵略者の骨を粉砕し光の尖塔を守った執行者の、アーティファクトの大槌</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120080</column_1><column_2>Iron Greathammer</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120090</column_1><column_2>Manticore Greatmace</column_2><column_3>Inflicts Extreme Poison on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120090</column_1><column_2>Manticore Greatmace</column_2><column_3>敵に猛毒をかける。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120110</column_1><column_2>Palladium Greathammer</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2120120</column_1><column_2>Obsidian Greatmace</column_2><column_3>Inflicts Burning on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2120120</column_1><column_2>Obsidian Greatmace</column_2><column_3>敵を燃やす。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2120130</column_1><column_2>Tsar Greathammer</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130000</column_1><column_2>Brutal Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130010</column_1><column_2>Worn Guisarme</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2130020</column_1><column_2>Fang Trident</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2130021</column_1><column_2>Werlig Spear</column_2><column_3>Artifact spear of the Cabal of Winds. It was forged to slay horrors, who are weak to lightning.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2130020</column_1><column_2>Fang Trident</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2130021</column_1><column_2>Werlig Spear</column_2><column_3>Cabal of Windsの秘宝である槍。光に脆弱な恐ろしき者達を殺すために鍛えられた</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130030</column_1><column_2>Quarterstaff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130040</column_1><column_2>Pitchfork</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130050</column_1><column_2>Marble Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130060</column_1><column_2>Gold-Lich Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130070</column_1><column_2>Old Legion Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130080</column_1><column_2>Troglodyte Trident</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2130081</column_1><column_2>Troglodyte Pole Mace</column_2><column_3>Inflicts Confusion on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2130081</column_1><column_2>Troglodyte Pole Mace</column_2><column_3>敵を混乱させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130082</column_1><column_2>Troglodyte Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130100</column_1><column_2>Thorny Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130110</column_1><column_2>Iron Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2130120</column_1><column_2>Phytosaur Spear</column_2><column_3>Inflicts Poison on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2130120</column_1><column_2>Phytosaur Spear</column_2><column_3>敵に毒をかける。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130130</column_1><column_2>Fishing Harpoon</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130140</column_1><column_2>Palladium Spear</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2130150</column_1><column_2>Tsar Spear</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140000</column_1><column_2>Iron Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140010</column_1><column_2>Cleaver Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140020</column_1><column_2>Fang Halberd</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140020</column_1><column_2>Fang Halberd</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140030</column_1><column_2>Marble Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140050</column_1><column_2>Mushroom Halberd</column_2><column_3>Inflicts Poison on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140060</column_1><column_2>Thrice-Wrought Halberd</column_2><column_3>Artifact forged long ago by a female blacksmith for a Gold Lich she loved.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140070</column_1><column_2>Crescent Scythe</column_2><column_3>Inflicts Vulnerability to all non-physical elements on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140080</column_1><column_2>Beast Golem Halberd</column_2><column_3>Inflicts Bleeding on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140050</column_1><column_2>Mushroom Halberd</column_2><column_3>敵に毒をかける。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140060</column_1><column_2>Thrice-Wrought Halberd</column_2><column_3>遥か昔、愛するGold Lichの為に女鍛冶師によって鍛えられたアーティファクト。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140070</column_1><column_2>Crescent Scythe</column_2><column_3>全ての霊体の敵を脆弱にする。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140080</column_1><column_2>Beast Golem Halberd</column_2><column_3>敵を出血させる。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140090</column_1><column_2>Giantkind Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140100</column_1><column_2>Palladium Halberd</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2140110</column_1><column_2>Tsar Halberd</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2140120</column_1><column_2>Dreamer Halberd</column_2><column_3>“The Dusk Father’s knowledge is universal; even lesser beings can learn what we have been taught.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2140120</column_1><column_2>Dreamer Halberd</column_2><column_3>「Dusk Fatherの知恵は万能である。劣りし者でさえも我らの教えを学ぶことができる。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150000</column_1><column_2>Scholar’s Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2150001</column_1><column_2>Mage’s Poking Stick</column_2><column_3>“The mage who used this stick favored magic that manipulated fire, shadow and time.”</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2150001</column_1><column_2>Mage’s Poking Stick</column_2><column_3>「この棒を使ったメイジは火、影、そして時間さえも巧みに操る魔法に長けていた。」</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150010</column_1><column_2>Jade-Lich Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150030</column_1><column_2>Compasswood Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150031</column_1><column_2>Rotwood Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150040</column_1><column_2>Troglodyte Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2150050</column_1><column_2>Master’s Staff</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2200000</column_1><column_2>Simple Bow</column_2><column_3>Beginner's short bow mostly used to hunt small game, due to its lack of power.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2200010</column_1><column_2>Recurve Bow</column_2><column_3>Compact bow which inflicts Slow Down on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2200020</column_1><column_2>War Bow</column_2><column_3>Immense bow which inflicts Confusion on enemies, making them more vulnerable to Impact.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2200030</column_1><column_2>Horror Bow</column_2><column_3>Bow made from Shell Horror chitin which inflicts Extreme Poison on enemies.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2200040</column_1><column_2>Coralhorn Bow</column_2><column_3>Bow which inflicts Pain, cursing the enemy to receive more physical damage, made from Coralhorn Antler.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300000</column_1><column_2>Round Shield</column_2><column_3>Basic shield of wood and iron. Blocking with a shield is more advantageous than blocking with a weapon.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300030</column_1><column_2>Zhorn’s Demon Shield</column_2><column_3>An unusual possession of the ancient great hunter. Whatever magic used to enchant this shield is long gone, though it retains its excellent craftsmanship.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300040</column_1><column_2>Tower Shield</column_2><column_3>Immense shield that is quite heavy, but that protects from arrows aimed for the wielder’s head or legs.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300050</column_1><column_2>Wolf Shield</column_2><column_3>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300060</column_1><column_2>Fang Shield</column_2><column_3>The added fangs do little to improve the shield’s toughness, but are telling of the wielder’s mental state.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300070</column_1><column_2>Old Legion Shield</column_2><column_3>Peculiar oval shield used by the warriors of an ancient legion.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>2300080</column_1><column_2>Plank Shield</column_2><column_3>Hastily built from broken planks, it grants the ability to block arrows, at least. This shield is unlikely to last long in a fight.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2200000</column_1><column_2>Simple Bow</column_2><column_3>力が弱いため、ほぼ小規模な狩りにだけ使われる初心者の短弓。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2200010</column_1><column_2>Recurve Bow</column_2><column_3>敵の動きを鈍くする小型の弓。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2200020</column_1><column_2>War Bow</column_2><column_3>敵を混乱させ、大きな衝撃を与える巨大な弓。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2200030</column_1><column_2>Horror Bow</column_2><column_3>敵に猛毒をかける、Shell Horrorの殻から出来た弓。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2200040</column_1><column_2>Coralhorn Bow</column_2><column_3>Coralhornの枝角で出来た弓で、敵に痛みを与え、物理ダメージを増やす呪いをかける。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300000</column_1><column_2>Round Shield</column_2><column_3>木や鉄でできた基本的な盾。武器よりも、盾を使ってのブロックがより有効だ。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300030</column_1><column_2>Zhorn’s Demon Shield</column_2><column_3>古代の偉大な狩人の奇妙な一品。この盾に掛けられた魔法は消えてしまっているが、素晴らしい細工は健在だ。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300040</column_1><column_2>Tower Shield</column_2><column_3>非常に重いが、矢に狙われようと使い手の頭や足も守れる巨大な盾。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300050</column_1><column_2>Wolf Shield</column_2><column_3>北方に到達し、勇敢にも氷の獣の広がりを極寒の地で防いだWolf Knightsが使った盾。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300060</column_1><column_2>Fang Shield</column_2><column_3>付属の牙が盾の耐久を少し改善したが、使用者の精神状態に悪影響を与えてしまう。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300070</column_1><column_2>Old Legion Shield</column_2><column_3>古代の軍隊の戦士が使用した独特な丸みを帯びた盾。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>2300080</column_1><column_2>Plank Shield</column_2><column_3>折れた木の板でできた急造りのもので、最低限ではあるが矢を防ぐことはできる。あまり長持ちしそうにない盾だ。</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2300090</column_1><column_2>Marble Shield</column_2><column_3>A shield made long ago to be ornamental, due to its weight, but that is still useful in combat.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2300091</column_1><column_2>Inner Marble Shield</column_2><column_3>A shield that has been masterfully made, being meant for guards within a ruler’s inner circle.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>2300100</column_1><column_2>Gold-Lich Shield</column_2><column_3>A shield seldom used by a lich minions, as they have no regard for their life. Mortal agents can be rewarded with this equipment, however. </column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
@@ -599,10 +599,10 @@
     <ooo_row><column_1>5300151</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>5300160</column_1><column_2>Preservation Backpack</column_2><column_3>Elite bag that strongly slows down the decay of the food it contains. &lt;color=#ff5043&gt;Equipping this backpack slows your dodge and removes your dodge invincibility.&lt;/color&gt;</column_3><column_4>OK</column_4><column_5/><column_6>Pack with wards that increase your Elemental Resistances by 10.</column_6></ooo_row>
     <ooo_row><column_1>5300999</column_1><column_2>-</column_2><column_3/><column_4>MISSING DESC</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>5600000</column_1><column_2>Clean Water</column_2><column_3>Refreshing drink that carries no risk of disease. This pristine water was most likely boiled over a campfire or gathered at a fountain.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>5600001</column_1><column_2>River Water</column_2><column_3>Drink that carries a risk of Indigestion, a serious disease. It should be boiled over a campfire to produce Clean Water.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>5600002</column_1><column_2>Salt Water</column_2><column_3>Drink that actually makes one more thirsty and is likely to cause Indigestion. It should be boiled over a campfire to produce Clean Water. This will also provide Salt, which can be used in cooking or alchemy.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>5600003</column_1><column_2>Rancid Water</column_2><column_3>Foul liquid that should be avoided at all costs, since it is almost certain to cause Indigestion. It should be boiled over a campfire to produce Clean Water.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>5600000</column_1><column_2>清潔な水</column_2><column_3>Refreshing drink that carries no risk of disease. This pristine water was most likely boiled over a campfire or gathered at a fountain.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>5600001</column_1><column_2>川の水</column_2><column_3>Drink that carries a risk of Indigestion, a serious disease. It should be boiled over a campfire to produce Clean Water.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>5600002</column_1><column_2>海水</column_2><column_3>Drink that actually makes one more thirsty and is likely to cause Indigestion. It should be boiled over a campfire to produce Clean Water. This will also provide Salt, which can be used in cooking or alchemy.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>5600003</column_1><column_2>汚水</column_2><column_3>Foul liquid that should be avoided at all costs, since it is almost certain to cause Indigestion. It should be boiled over a campfire to produce Clean Water.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>5600010</column_1><column_2>Flint and Steel</column_2><column_3>Basic survival tool used to light campfires. It might have other uses, however.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>5600020</column_1><column_2>Hangman's Key</column_2><column_3>A small key that can unlock certain doors.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>5600021</column_1><column_2>Old Levant's Key</column_2><column_3>A small key that can unlock certain doors.</column_3><column_4>OK</column_4><column_5/><column_6/></ooo_row>
@@ -841,7 +841,7 @@
     <ooo_row><column_1>5000005</column_1><column_2>Bed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>1900001</column_1><column_2>Kitchen</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>1000000</column_1><column_2>Chest</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>1000030</column_1><column_2>Legacy Chest</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>1000030</column_1><column_2>引継ぎ用チェスト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>1000040</column_1><column_2>Ornate Chest</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>1000060</column_1><column_2>Trog Chest</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>1000070</column_1><column_2>Hollowed Trunk</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
