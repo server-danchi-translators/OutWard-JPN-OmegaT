@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backpacks increase your inventory capacity but usually slow down your dodge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085706Z" creationid="setom" creationdate="20190402T085706Z">
+        <seg>バックパックはインベントリ容量を増やしますが、ドッジロールが鈍重になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bag</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120126Z" creationid="setom" creationdate="20190401T120126Z">
@@ -4879,6 +4887,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085631Z" creationid="setom" creationdate="20190402T085631Z">
+        <seg>Message_Tutorial_Backpack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Blocking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074549Z" creationid="setom" creationdate="20190401T074549Z">
@@ -8052,6 +8068,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111654Z" creationid="setom" creationdate="20190331T111654Z">
         <seg>ボタンを押すか、インベントリからバックパックを降ろしたり拾ったりできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can drop your backpack with [InputAction_HandleBag] before combat, then pick it back up after the fight has ended.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085919Z" creationid="setom" creationdate="20190402T085919Z">
+        <seg>戦闘の前には[InputAction_HandleBag]でバックパックを降ろし、決着を付けてから拾いましょう。</seg>
       </tuv>
     </tu>
     <tu>
