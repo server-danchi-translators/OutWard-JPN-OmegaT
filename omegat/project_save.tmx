@@ -4591,6 +4591,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lanterns in your backpack, and not in your pouch, are hung from your backpack, freeing your off hand for a shield or a two-handed weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090109Z" creationid="setom" creationdate="20190402T090109Z">
+        <seg>ポーチではなく、バックパック内にあるランタンは、ぶら下げて非利き手を空けられるため、盾を持ったり両手武器を装備したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legacy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015547Z" creationid="hiru4" creationdate="20190402T015547Z">
@@ -5007,6 +5015,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Lanterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085920Z" creationid="setom" creationdate="20190402T085920Z">
+        <seg>Message_Tutorial_Lanterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Locking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072446Z" creationid="setom" creationdate="20190401T072446Z">
@@ -5035,6 +5051,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074958Z" creationid="setom" creationdate="20190402T074958Z">
         <seg>Message_Tutorial_Quickslots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Resting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090157Z" creationid="setom" creationdate="20190402T090157Z">
+        <seg>Message_Tutorial_Resting</seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,6 +5355,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
         <seg>フレンドのゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open and close lanterns with [InputAction_ToggleLights].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090156Z" creationid="setom" creationdate="20190402T090156Z">
+        <seg>[InputAction_ToggleLights]でランタンの開け閉めができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6116,6 +6148,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083846Z" creationid="setom" creationdate="20190402T083846Z">
         <seg>階段を下りて極端な気候の中での体温管理の方法を学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed forward to learn about Resting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T090231Z" creationid="setom" creationdate="20190402T090231Z">
+        <seg>目に進んで休息について学びましょう。</seg>
       </tuv>
     </tu>
     <tu>
