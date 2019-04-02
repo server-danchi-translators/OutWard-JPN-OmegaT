@@ -401,12 +401,12 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>EquipmentMenu_Empty_LeftHand</column_1><column_2>左手</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>EquipmentMenu_Empty_LeftHand_Desc</column_1><column_2>ランタン、戦闘用装具、盾をこの手に持ちます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>EquipmentMenu_Empty_Back</column_1><column_2>バックパック</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Back_Desc</column_1><column_2>Container that grants you a second inventory that is much larger than your pouches. Most backpacks slow down your dodge, however.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Quiver</column_1><column_2>Arrows</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Quiver_Desc</column_1><column_2>Quiver that can contain up to 30 arrows. One must manually refill their quiver between fights so as not to run out of arrows during battle.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>QuestMenu_Tab_MainQuests</column_1><column_2>Major Quests</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>QuestMenu_Tab_SideQuests</column_1><column_2>Minor Quests</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>OptionMenu_Audio_MuteBackground</column_1><column_2>Mute in background</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Back_Desc</column_1><column_2>ポーチよりはるかに大きい収納用の装備。バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Quiver</column_1><column_2>矢</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Quiver_Desc</column_1><column_2>矢筒には３０本の矢を入れておくことができます。. 戦いの最中に矢を使い果たさないように、戦いの合間に矢筒に矢を補充しなければなりません.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>QuestMenu_Tab_MainQuests</column_1><column_2>メジャークエスト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>QuestMenu_Tab_SideQuests</column_1><column_2>サブクエスト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>OptionMenu_Audio_MuteBackground</column_1><column_2>バックグラウンド時ミュート</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Connection_Error_ConnectionLost</column_1><column_2>Connection to the server has been lost.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Connection_Error_ConnectionFailed</column_1><column_2>Failed to connect to the server.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>You are about to reset to default mapping. Do you wish to proceed?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
