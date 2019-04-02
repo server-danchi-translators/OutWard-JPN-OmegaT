@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, put the Spark and Fire Sigil skills in your quickslots, and be certain to have Fire Stones in your inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080247Z" creationid="setom" creationdate="20190402T080247Z">
+        <seg>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesはインベントリにありますね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the red line to learn about the game’s mechanics.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072352Z" creationid="setom" creationdate="20190401T072352Z">
@@ -4611,6 +4619,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075756Z" creationid="setom" creationdate="20190402T075756Z">
         <seg>Message_Tutorial_ComplexSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_ComplexSkills2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080126Z" creationid="setom" creationdate="20190402T080126Z">
+        <seg>Message_Tutorial_ComplexSkills2</seg>
       </tuv>
     </tu>
     <tu>
@@ -6436,6 +6452,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115814Z" creationid="setom" creationdate="20190401T115814Z">
         <seg>全て回収</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take Astral Potions to replenish your Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080120Z" creationid="setom" creationdate="20190402T080120Z">
+        <seg>Astral Potionsを取ってマナを充填させましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take some Fire Stones on the table, so you can cast Fire Sigils.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080053Z" creationid="setom" creationdate="20190402T080053Z">
+        <seg>テーブルのFire Stonesを取ってください、Fire Sigilsが唱えられるようになります。</seg>
       </tuv>
     </tu>
     <tu>
