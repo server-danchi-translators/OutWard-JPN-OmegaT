@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T145810Z" creationid="totochan" creationdate="20190402T145810Z">
+        <seg>バックパック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backpacks increase your inventory capacity but usually slow down your dodge.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095032Z" creationid="setom" creationdate="20190402T085706Z">
@@ -5411,6 +5419,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095526Z" creationid="setom" creationdate="20190402T090109Z">
         <seg>ポーチではなく、バックパック内にあるランタンは、ぶら下げることで左手を空けられるため、盾を持ったり両手武器を装備したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lanterns, combat trinkets and shields are held in this hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T145756Z" creationid="totochan" creationdate="20190402T145756Z">
+        <seg>ランタン、戦闘用装具、盾をこの手に持ちます。</seg>
       </tuv>
     </tu>
     <tu>
