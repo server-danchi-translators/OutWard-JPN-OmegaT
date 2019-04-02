@@ -8978,8 +8978,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The last thing I remember was our ship hitting a rock...</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T141553Z" creationid="setom" creationdate="20190402T141553Z">
-        <seg>最後に覚えてるのは、確か私たちの船が岩に当たって…</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T142428Z" creationid="setom" creationdate="20190402T141553Z">
+        <seg>最後に覚えてるのは確か、私たちの船が岩に当たって…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9074,8 +9074,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>They’ll keep you warmer than nothing!</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T141218Z" creationid="setom" creationdate="20190402T141218Z">
-        <seg>何もねぇよっか温まるはずだぜ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T142451Z" creationid="setom" creationdate="20190402T141218Z">
+        <seg>何もねぇよりかは温まるはずだぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10144,6 +10144,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’ll catch a cold if you wander around without any clothes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T143104Z" creationid="setom" creationdate="20190402T143104Z">
+        <seg>服も着ねぇで歩き回ってみろ、風邪引いちまうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yzan_beach_01</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133108Z" creationid="setom" creationdate="20190402T133108Z">
@@ -10164,6 +10172,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134740Z" creationid="setom" creationdate="20190402T134740Z">
         <seg>Yzan_beach_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_beach_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T142454Z" creationid="setom" creationdate="20190402T142454Z">
+        <seg>Yzan_beach_04</seg>
       </tuv>
     </tu>
     <tu>
