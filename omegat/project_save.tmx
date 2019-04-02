@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambush</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023539Z" creationid="hiru4" creationdate="20190402T023539Z">
+        <seg>待ち伏せ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ammo</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120108Z" creationid="setom" creationdate="20190401T120108Z">
@@ -866,6 +874,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115033Z" creationid="setom" creationdate="20190401T115033Z">
         <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023501Z" creationid="hiru4" creationdate="20190402T023501Z">
+        <seg>作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -2030,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go Back to Main Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
+        <seg>メニューに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphic Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022339Z" creationid="hiru4" creationdate="20190402T022339Z">
@@ -2799,6 +2823,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Journal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023509Z" creationid="hiru4" creationdate="20190402T023509Z">
+        <seg>ジャーナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep your temperature neutral with appropriate clothes, certain types of food or campfires.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
@@ -3464,6 +3496,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pause Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023446Z" creationid="hiru4" creationdate="20190402T023446Z">
+        <seg>一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay close attention to the alerts displayed on the bottom left.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112732Z" creationid="setom" creationdate="20190331T112732Z">
@@ -3668,6 +3708,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023150Z" creationid="hiru4" creationdate="20190402T023150Z">
         <seg>レンダリングスケールRender Scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repairing restores your equipped items’ durability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023810Z" creationid="hiru4" creationdate="20190402T023810Z">
+        <seg>修理すると装備品の耐久が回復します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3916,6 +3964,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115431Z" creationid="setom" creationdate="20190401T115431Z">
         <seg>スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023517Z" creationid="hiru4" creationdate="20190402T023517Z">
+        <seg>スキルを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,6 +4656,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This location is safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
+        <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
@@ -4736,6 +4800,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unpause Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023454Z" creationid="hiru4" creationdate="20190402T023454Z">
+        <seg>停止解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Usables</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122940Z" creationid="setom" creationdate="20190401T122940Z">
@@ -4796,6 +4868,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113908Z" creationid="setom" creationdate="20190401T113908Z">
         <seg>とても疲れている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vitals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023527Z" creationid="hiru4" creationdate="20190402T023527Z">
+        <seg>急所</seg>
       </tuv>
     </tu>
     <tu>
@@ -5044,6 +5124,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112951Z" creationid="setom" creationdate="20190331T112951Z">
         <seg>フレンドリストに入っている人と一緒にプレイしよう!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can rest without fear of being ambushed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023656Z" creationid="hiru4" creationdate="20190402T023656Z">
+        <seg>この場所は安全です。待ち伏せされることを恐れずに休むことができます。</seg>
       </tuv>
     </tu>
     <tu>
