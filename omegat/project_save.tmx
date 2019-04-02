@@ -4679,6 +4679,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081625Z" creationid="setom" creationdate="20190402T081625Z">
+        <seg>Message_Tutorial_Needs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_NegativeEffects2</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081154Z" creationid="setom" creationdate="20190402T081154Z">
@@ -5684,6 +5692,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
         <seg>[InputAction_LockToggle]でカメラを敵にロックでき、攻撃がより当てやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed to learn about Food and Drink, which are two of the character’s needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081804Z" creationid="setom" creationdate="20190402T081804Z">
+        <seg>食事や給水の正しい手順を学んでいきましょう。キャラクターには二つの欲求があります。</seg>
       </tuv>
     </tu>
     <tu>
