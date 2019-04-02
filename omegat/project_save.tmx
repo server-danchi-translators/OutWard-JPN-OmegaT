@@ -3648,8 +3648,8 @@
       <tuv lang="EN-US">
         <seg>For all the safety that my tribe provides, our laws are harsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T102851Z" creationid="setom" creationdate="20190402T102851Z">
-        <seg>全ては安全の為、我々の部族は苛烈な法律強いている。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T102907Z" creationid="setom" creationdate="20190402T102851Z">
+        <seg>全ては安全の為、我々の部族は苛烈な法を強いている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7344,6 +7344,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prologue_2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T102954Z" creationid="setom" creationdate="20190402T102954Z">
+        <seg>Prologue_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020802Z" creationid="hiru4" creationdate="20190402T020802Z">
@@ -8824,6 +8832,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The failures of my bloodline weigh heavy on me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
+        <seg>血統の失敗が私に重くのしかかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game auto-saves but you can also save manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
@@ -9428,6 +9444,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111812Z" creationid="setom" creationdate="20190331T111812Z">
         <seg>革の水筒の用途は水を貯めることだけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are judged not as individuals, but as bloodlines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T102952Z" creationid="setom" creationdate="20190402T102952Z">
+        <seg>我々は個人ではなく、血統で審判を下されるのだ。</seg>
       </tuv>
     </tu>
     <tu>
