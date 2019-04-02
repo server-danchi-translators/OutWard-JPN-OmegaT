@@ -2720,8 +2720,8 @@
       <tuv lang="EN-US">
         <seg>Evade attacks by dodging with [InputAction_Dodge], though this consumes a fair amount of Stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T075426Z" creationid="setom" creationdate="20190401T075426Z">
-        <seg>[InputAction_Dodge] でドッジロールによる回避ができ、スタミナの消費量も少なめです。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T075030Z" creationid="setom" creationdate="20190401T075426Z">
+        <seg>[InputAction_Dodge]でドッジロールによる回避ができ、スタミナの消費量も少なめです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,6 +4627,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072446Z" creationid="setom" creationdate="20190401T072446Z">
         <seg>Message_Tutorial_Locking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Quickslots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T074958Z" creationid="setom" creationdate="20190402T074958Z">
+        <seg>Message_Tutorial_Quickslots</seg>
       </tuv>
     </tu>
     <tu>
@@ -6976,6 +6984,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To assign skills or items to quickslots, open the menu with [InputAction_ToggleInventory], then select the Quickslot tab and assign them there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T075330Z" creationid="setom" creationdate="20190402T075330Z">
+        <seg>スキルやアイテムのクイックスロットへの割当ては[InputAction_ToggleInventory]でメニューを開き、タブを選んで実行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
@@ -7362,8 +7378,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You can also move away from attacks by holding [InputAction_Sprint] to Sprint.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T075724Z" creationid="setom" creationdate="20190401T075724Z">
-        <seg>[InputAction_Sprint] を押し続けるとダッシュで攻撃から逃げることもできます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T075016Z" creationid="setom" creationdate="20190401T075724Z">
+        <seg>[InputAction_Sprint]を押し続けるとダッシュで攻撃から逃げることもできます。</seg>
       </tuv>
     </tu>
     <tu>
