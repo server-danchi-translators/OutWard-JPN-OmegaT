@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062000Z" creationid="setom" creationdate="20190402T062000Z">
+        <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>0</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033938Z" creationid="setom" creationdate="20190401T033938Z">
@@ -46,10 +54,154 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>100004</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061803Z" creationid="setom" creationdate="20190402T061803Z">
+        <seg>100004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100005</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061806Z" creationid="setom" creationdate="20190402T061806Z">
+        <seg>100005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100006</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061809Z" creationid="setom" creationdate="20190402T061809Z">
+        <seg>100006</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100007</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061812Z" creationid="setom" creationdate="20190402T061812Z">
+        <seg>100007</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>100008</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061814Z" creationid="setom" creationdate="20190402T061814Z">
+        <seg>100008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2 Players</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113508Z" creationid="setom" creationdate="20190401T113508Z">
         <seg>2 Players</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000010</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061816Z" creationid="setom" creationdate="20190402T061816Z">
+        <seg>2000010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000020</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061818Z" creationid="setom" creationdate="20190402T061818Z">
+        <seg>2000020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000030</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061820Z" creationid="setom" creationdate="20190402T061820Z">
+        <seg>2000030</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000031</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061822Z" creationid="setom" creationdate="20190402T061822Z">
+        <seg>2000031</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000042</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061958Z" creationid="setom" creationdate="20190402T061958Z">
+        <seg>2000042</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000050</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062004Z" creationid="setom" creationdate="20190402T062004Z">
+        <seg>2000050</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000060</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062030Z" creationid="setom" creationdate="20190402T062030Z">
+        <seg>2000060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000070</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062037Z" creationid="setom" creationdate="20190402T062037Z">
+        <seg>2000070</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000080</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062040Z" creationid="setom" creationdate="20190402T062040Z">
+        <seg>2000080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000090</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062042Z" creationid="setom" creationdate="20190402T062042Z">
+        <seg>2000090</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000100</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062043Z" creationid="setom" creationdate="20190402T062043Z">
+        <seg>2000100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000110</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062055Z" creationid="setom" creationdate="20190402T062055Z">
+        <seg>2000110</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2000120</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062057Z" creationid="setom" creationdate="20190402T062057Z">
+        <seg>2000120</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inflicts Bleeding on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062026Z" creationid="setom" creationdate="20190402T062026Z">
+        <seg>敵を出血させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120240Z" creationid="setom" creationdate="20190401T120240Z">
@@ -3379,6 +3539,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021944Z" creationid="setom" creationdate="20190402T021944Z">
         <seg>Notification_Trainer_SkillAlreadyKnown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061957Z" creationid="setom" creationdate="20190402T061957Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -4728,14 +4896,6 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Standard Axe 2H</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T034817Z" creationid="setom" creationdate="20190401T034817Z">
-        <seg>普通の斧 2H</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Start New Game</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022728Z" creationid="setom" creationdate="20190402T022641Z">
@@ -4820,6 +4980,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112759Z" creationid="setom" creationdate="20190331T112759Z">
         <seg>だがそういったオブジェクトは時間の経過で燃え尽きてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summoned magical sword that lasts for a limited amount of time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T062053Z" creationid="setom" creationdate="20190402T062053Z">
+        <seg>限られた時間の間、魔法の剣を召喚する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sword that emits a blade of energy, which is both indestructible and luminous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T061954Z" creationid="setom" creationdate="20190402T061954Z">
+        <seg>エネルギーの刃を放つ剣。光り輝くこの刃が折れることはない。</seg>
       </tuv>
     </tu>
     <tu>
