@@ -1710,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150721Z" creationid="totochan" creationdate="20190402T150721Z">
+        <seg>矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Artifact forged long ago by a female blacksmith for a Gold Lich she loved.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064418Z" creationid="setom" creationdate="20190402T064418Z">
@@ -5647,6 +5655,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Major Quests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150938Z" creationid="totochan" creationdate="20190402T150938Z">
+        <seg>メジャークエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113837Z" creationid="setom" creationdate="20190401T113837Z">
@@ -6063,6 +6079,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minor Quests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150954Z" creationid="totochan" creationdate="20190402T150954Z">
+        <seg>サブクエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Misc.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083438Z" creationid="totochan" creationdate="20190402T083438Z">
@@ -6083,6 +6107,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most backpacks slow down your dodge, however.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150546Z" creationid="totochan" creationdate="20190402T150546Z">
+        <seg>バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6131,6 +6163,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022028Z" creationid="hiru4" creationdate="20190402T021731Z">
         <seg>ミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mute in background</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T151008Z" creationid="totochan" creationdate="20190402T151008Z">
+        <seg>バックグラウンド時ミュート</seg>
       </tuv>
     </tu>
     <tu>
@@ -6315,6 +6355,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
         <seg>Campfire Kitを持っていたら、所持品から使用してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One must manually refill their quiver between fights so as not to run out of arrows during battle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150918Z" creationid="totochan" creationdate="20190402T150918Z">
+        <seg>戦いの最中に矢を使い果たさないように、戦いの合間に矢筒に矢を補充しなければなりません.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7588,6 +7636,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122930Z" creationid="setom" creationdate="20190401T122930Z">
         <seg>矢筒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quiver that can contain up to 30 arrows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150713Z" creationid="totochan" creationdate="20190402T150713Z">
+        <seg>矢筒には３０本の矢を入れておくことができます。.</seg>
       </tuv>
     </tu>
     <tu>
