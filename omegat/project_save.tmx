@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>10 – Spell Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094524Z" creationid="setom" creationdate="20190402T094524Z">
+        <seg>10 – 呪文の使い方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>100001</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033905Z" creationid="setom" creationdate="20190401T033905Z">
@@ -122,6 +130,30 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061814Z" creationid="setom" creationdate="20190402T061814Z">
         <seg>100008</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11 – Throwing a Fireball</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094539Z" creationid="setom" creationdate="20190402T094539Z">
+        <seg>11 – ファイアボール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12 – Weapon Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094545Z" creationid="setom" creationdate="20190402T094545Z">
+        <seg>12 – 武器スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14 – Negative Effects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094604Z" creationid="setom" creationdate="20190402T094604Z">
+        <seg>14 – 負の効果</seg>
       </tuv>
     </tu>
     <tu>
@@ -1290,6 +1322,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094422Z" creationid="setom" creationdate="20190402T094422Z">
         <seg>7 – スタビリティーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8 – Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094427Z" creationid="setom" creationdate="20190402T094427Z">
+        <seg>8 – スキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9 – Quickslots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094434Z" creationid="setom" creationdate="20190402T094434Z">
+        <seg>9 – クイックスロット</seg>
       </tuv>
     </tu>
     <tu>
@@ -6280,10 +6328,66 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_NegativeEffects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094557Z" creationid="setom" creationdate="20190402T094557Z">
+        <seg>Player_Message_TutorialTitle_NegativeEffects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094423Z" creationid="setom" creationdate="20190402T094423Z">
+        <seg>Player_Message_TutorialTitle_Skills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Spells</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094428Z" creationid="setom" creationdate="20190402T094428Z">
+        <seg>Player_Message_TutorialTitle_Spells</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Spells2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094435Z" creationid="setom" creationdate="20190402T094435Z">
+        <seg>Player_Message_TutorialTitle_Spells2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Spells3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094525Z" creationid="setom" creationdate="20190402T094525Z">
+        <seg>Player_Message_TutorialTitle_Spells3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Stability</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094156Z" creationid="setom" creationdate="20190402T094156Z">
         <seg>Player_Message_TutorialTitle_Stability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_WeaponSkills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094540Z" creationid="setom" creationdate="20190402T094540Z">
+        <seg>Player_Message_TutorialTitle_WeaponSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_WeaponSkills2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094545Z" creationid="setom" creationdate="20190402T094545Z">
+        <seg>Player_Message_TutorialTitle_WeaponSkills2</seg>
       </tuv>
     </tu>
     <tu>
