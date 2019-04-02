@@ -4104,6 +4104,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start New Game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022728Z" creationid="setom" creationdate="20190402T022641Z">
+        <seg>ニューゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Resting</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115530Z" creationid="setom" creationdate="20190401T115530Z">
