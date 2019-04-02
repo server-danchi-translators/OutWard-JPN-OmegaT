@@ -2646,6 +2646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Container that grants you a second inventory that is much larger than your pouches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T150146Z" creationid="totochan" creationdate="20190402T150146Z">
+        <seg>ポーチよりはるかに大きい収納用の装備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020551Z" creationid="hiru4" creationdate="20190402T020551Z">
