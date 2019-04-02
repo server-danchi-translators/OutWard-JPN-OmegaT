@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He hasn't come back yet...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T171340Z" creationid="setom" creationdate="20190402T171340Z">
+        <seg>だけどあいつはまだ帰ってこねぇ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head armor which reduces the damage you receive.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083741Z" creationid="totochan" creationdate="20190402T083741Z">
@@ -4694,10 +4702,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm worried he might have run into hyenas.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T171504Z" creationid="setom" creationdate="20190402T171504Z">
+        <seg>もしかしたらハイエナに出くわしちまったんじゃねぇかって心配なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083322Z" creationid="setom" creationdate="20190402T082925Z">
         <seg>火打石と打ち金を持っているなら、キャンプファイアに火をつけることができます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're well enough, can you look for him?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T171620Z" creationid="setom" creationdate="20190402T171620Z">
+        <seg>行けそうなら、あいつを探してきちゃくれねぇか？</seg>
       </tuv>
     </tu>
     <tu>
