@@ -2718,6 +2718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment breaks during combat, becoming less effective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085225Z" creationid="setom" creationdate="20190402T085225Z">
+        <seg>装備は戦闘で壊れ、やがて効果がなくなっていきます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equipment is quite heavy and even coins have weight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085158Z" creationid="setom" creationdate="20190402T085158Z">
+        <seg>装備はとても重く、貨幣さえ重量があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment loses durability with use, becoming weaker.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
@@ -4551,6 +4567,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lanterns burn out while they are lit, and can be refilled by using Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085417Z" creationid="setom" creationdate="20190402T085417Z">
+        <seg>ランタンも点け続ければば燃え尽きてしまいますが、クラフトでまた補充することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legacy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015547Z" creationid="hiru4" creationdate="20190402T015547Z">
@@ -4915,6 +4939,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082147Z" creationid="setom" creationdate="20190402T082147Z">
         <seg>Message_Tutorial_Disease</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Durability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085159Z" creationid="setom" creationdate="20190402T085159Z">
+        <seg>Message_Tutorial_Durability</seg>
       </tuv>
     </tu>
     <tu>
