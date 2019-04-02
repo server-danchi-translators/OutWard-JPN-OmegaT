@@ -1054,6 +1054,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2150000</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064711Z" creationid="setom" creationdate="20190402T064711Z">
+        <seg>2150000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150001</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064713Z" creationid="setom" creationdate="20190402T064713Z">
+        <seg>2150001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150010</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064742Z" creationid="setom" creationdate="20190402T064742Z">
+        <seg>2150010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150030</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064743Z" creationid="setom" creationdate="20190402T064743Z">
+        <seg>2150030</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150031</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064744Z" creationid="setom" creationdate="20190402T064744Z">
+        <seg>2150031</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150040</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064745Z" creationid="setom" creationdate="20190402T064745Z">
+        <seg>2150040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2150050</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064746Z" creationid="setom" creationdate="20190402T064746Z">
+        <seg>2150050</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2200000</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064747Z" creationid="setom" creationdate="20190402T064747Z">
+        <seg>2200000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2200010</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064757Z" creationid="setom" creationdate="20190402T064757Z">
+        <seg>2200010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2200020</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064805Z" creationid="setom" creationdate="20190402T064805Z">
+        <seg>2200020</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2200030</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064813Z" creationid="setom" creationdate="20190402T064813Z">
+        <seg>2200030</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2200040</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064851Z" creationid="setom" creationdate="20190402T064851Z">
+        <seg>2200040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -1286,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beginner's short bow mostly used to hunt small game, due to its lack of power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064756Z" creationid="setom" creationdate="20190402T064756Z">
+        <seg>力が弱いため、ほぼ小規模な狩りにだけ使われる初心者の短弓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -1338,6 +1442,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120154Z" creationid="setom" creationdate="20190401T120154Z">
         <seg>ブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bow made from Shell Horror chitin which inflicts Extreme Poison on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064849Z" creationid="setom" creationdate="20190402T064849Z">
+        <seg>敵に猛毒をかける、Shell Horrorの殻から出来た弓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bow which inflicts Pain, cursing the enemy to receive more physical damage, made from Coralhorn Antler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064923Z" creationid="setom" creationdate="20190402T064923Z">
+        <seg>Coralhornの枝角で出来た弓で、敵に痛みを与え、物理ダメージを増やす呪いをかける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1954,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
         <seg>低温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compact bow which inflicts Slow Down on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064804Z" creationid="setom" creationdate="20190402T064804Z">
+        <seg>敵の動きを鈍くする小型の弓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immense bow which inflicts Confusion on enemies, making them more vulnerable to Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064811Z" creationid="setom" creationdate="20190402T064811Z">
+        <seg>敵を混乱させ、大きな衝撃を与える巨大な弓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immense man-cutting saw of the bandit lord Zagis.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062826Z" creationid="setom" creationdate="20190402T062826Z">
@@ -3464,8 +3600,8 @@
       <tuv lang="EN-US">
         <seg>Inflicts Poison on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064300Z" creationid="setom" creationdate="20190402T064300Z">
-        <seg>敵に毒をかける。Inflicts Poison on enemies.</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064634Z" creationid="setom" creationdate="20190402T064300Z">
+        <seg>敵に毒をかける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,8 +7338,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>“The Dawn Weaver’s knowledge showed us the way; He came from the stars, and to the stars we shall follow.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T063900Z" creationid="setom" creationdate="20190402T063900Z">
-        <seg>「夜明けの紡ぎ手の知識が我らに道を示した。星より来たりし彼の者に我らは付き従おう。」</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064652Z" creationid="setom" creationdate="20190402T063900Z">
+        <seg>「Dawn Weaverの知識が我らに道を示した。星より来たりし彼の者に我らは付き従おう。」</seg>
       </tuv>
     </tu>
     <tu>
@@ -7228,6 +7364,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062727Z" creationid="setom" creationdate="20190402T062727Z">
         <seg>「Dusk Fatherの知恵が我らを王にし、我らは天空城をこの大地の下に建てた。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“The mage who used this stick favored magic that manipulated fire, shadow and time.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064738Z" creationid="setom" creationdate="20190402T064722Z">
+        <seg>「この棒を使ったメイジは火、影、そして時間さえも巧みに操る魔法に長けていた。」</seg>
       </tuv>
     </tu>
     <tu>
