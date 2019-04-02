@@ -4574,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165745Z" creationid="setom" creationdate="20190402T165629Z">
+        <seg>あいつはKaziteだぜ、 [PlayerName]。しかも船で生まれたんだぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hitting enemies, especially with heavier weapons, will knock them back and cancel their attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113105Z" creationid="setom" creationdate="20190331T113105Z">
@@ -9240,6 +9248,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This probably isn’t the first time he’s had to survive a shipwreck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165716Z" creationid="setom" creationdate="20190402T165716Z">
+        <seg>多分だが、難破して生き残ったのもこれが初めてじゃねぇよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This shield is unlikely to last long in a fight.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074930Z" creationid="setom" creationdate="20190402T074919Z">
@@ -10348,6 +10364,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141554Z" creationid="setom" creationdate="20190402T141554Z">
         <seg>Yzan_beach_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_beach_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165459Z" creationid="setom" creationdate="20190402T165459Z">
+        <seg>Yzan_beach_06</seg>
       </tuv>
     </tu>
     <tu>
