@@ -3135,6 +3135,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merchant’s Stock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024431Z" creationid="hiru4" creationdate="20190402T024431Z">
+        <seg>商人の在庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Attacks</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073254Z" creationid="setom" creationdate="20190401T073254Z">
@@ -3820,6 +3828,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114108Z" creationid="setom" creationdate="20190331T114108Z">
         <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player is buying</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024400Z" creationid="hiru4" creationdate="20190402T024400Z">
+        <seg>購入する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,6 +5032,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Repair:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024344Z" creationid="hiru4" creationdate="20190402T024344Z">
+        <seg>全ての修理:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Weight</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120051Z" creationid="setom" creationdate="20190401T120051Z">
@@ -5604,6 +5628,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
         <seg>value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}’s Inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T024435Z" creationid="hiru4" creationdate="20190402T024435Z">
+        <seg>{1}の所持品</seg>
       </tuv>
     </tu>
     <tu>
