@@ -1390,6 +1390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>27 – Lanterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095759Z" creationid="setom" creationdate="20190402T095759Z">
+        <seg>27 – ランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>28 – Dropping the Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095820Z" creationid="setom" creationdate="20190402T095820Z">
+        <seg>28 – バックパック落とし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3 – Locking on Enemies</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094032Z" creationid="setom" creationdate="20190402T094032Z">
@@ -4822,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inventory_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095719Z" creationid="setom" creationdate="20190402T095719Z">
+        <seg>Inventory_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invert Y Camera</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022032Z" creationid="hiru4" creationdate="20190402T021742Z">
@@ -5193,8 +5217,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Lanterns in your backpack, and not in your pouch, are hung from your backpack, freeing your off hand for a shield or a two-handed weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090109Z" creationid="setom" creationdate="20190402T090109Z">
-        <seg>ポーチではなく、バックパック内にあるランタンは、ぶら下げて非利き手を空けられるため、盾を持ったり両手武器を装備したりできます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095526Z" creationid="setom" creationdate="20190402T090109Z">
+        <seg>ポーチではなく、バックパック内にあるランタンは、ぶら下げることで左手を空けられるため、盾を持ったり両手武器を装備したりできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,6 +6864,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_BackpackDrop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095800Z" creationid="setom" creationdate="20190402T095800Z">
+        <seg>Player_Message_TutorialTitle_BackpackDrop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Blocking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094039Z" creationid="setom" creationdate="20190402T094039Z">
@@ -6916,6 +6948,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094756Z" creationid="setom" creationdate="20190402T094756Z">
         <seg>Player_Message_TutorialTitle_Inventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095753Z" creationid="setom" creationdate="20190402T095753Z">
+        <seg>Player_Message_TutorialTitle_Lantern</seg>
       </tuv>
     </tu>
     <tu>
