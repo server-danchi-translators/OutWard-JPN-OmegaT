@@ -3566,10 +3566,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eto made it out alive too?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165433Z" creationid="setom" creationdate="20190402T165433Z">
+        <seg>Etoも生き残ったのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eto made it out too, he's making his way home to Cierzo to go get help.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T165147Z" creationid="setom" creationdate="20190402T165147Z">
-        <seg>Etoも生き残っててよ、Cierzoまで帰る手助けをしてくれるぜ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165417Z" creationid="setom" creationdate="20190402T165147Z">
+        <seg>Etoも生き残っててな、Cierzoに帰るための助けを呼びに行ってんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7440,6 +7448,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Yzan_beach_a_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165420Z" creationid="setom" creationdate="20190402T165420Z">
+        <seg>Player_Yzan_beach_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pocket Content</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122923Z" creationid="setom" creationdate="20190401T122923Z">
@@ -9044,6 +9060,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022451Z" creationid="hiru4" creationdate="20190402T022451Z">
         <seg>テクスチャー品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T165458Z" creationid="setom" creationdate="20190402T165458Z">
+        <seg>ああElattよ、感謝します。</seg>
       </tuv>
     </tu>
     <tu>
