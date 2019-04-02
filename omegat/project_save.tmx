@@ -1688,8 +1688,8 @@
       <tuv lang="EN-US">
         <seg>Backpacks increase your inventory capacity but usually slow down your dodge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T085706Z" creationid="setom" creationdate="20190402T085706Z">
-        <seg>バックパックはインベントリ容量を増やしますが、ドッジロールが鈍重になります。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095032Z" creationid="setom" creationdate="20190402T085706Z">
+        <seg>バックパックは所持品の容量を増やしますが、ドッジロールが鈍重になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,8 +3160,8 @@
       <tuv lang="EN-US">
         <seg>First, put the Spark and Fire Sigil skills in your quickslots, and be certain to have Fire Stones in your inventory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T080247Z" creationid="setom" creationdate="20190402T080247Z">
-        <seg>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesはインベントリにありますね？</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094958Z" creationid="setom" creationdate="20190402T080247Z">
+        <seg>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesは所持品にありますね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5425,8 +5425,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Most spells require items in your inventory or an effect active on you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T075909Z" creationid="setom" creationdate="20190402T075909Z">
-        <seg>殆どのスキルはインベントリに特定のアイテムがあるか、何らかの効果が有効になっているが必要になります。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094957Z" creationid="setom" creationdate="20190402T075909Z">
+        <seg>殆どのスキルは所持品に特定のアイテムがあるか、何らかの効果が有効になっているが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5633,8 +5633,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Once you have a Campfire Kit, go to your Inventory and use it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082844Z" creationid="setom" creationdate="20190402T082844Z">
-        <seg>Campfire Kitを持っていたら、インベントリから使用してみてください。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
+        <seg>Campfire Kitを持っていたら、所持品から使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6682,8 +6682,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Proceed to learn about managing your inventory capacity.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T085002Z" creationid="setom" creationdate="20190402T085002Z">
-        <seg>インベントリ容量の管理を学んでいきましょう。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095044Z" creationid="setom" creationdate="20190402T085002Z">
+        <seg>所持品の容量管理を学んでいきましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7280,6 +7280,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ShopMenu_SellCartInfo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095124Z" creationid="setom" creationdate="20190402T095124Z">
+        <seg>ShopMenu_SellCartInfo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Enemy Health</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021640Z" creationid="hiru4" creationdate="20190402T021640Z">
@@ -7344,6 +7352,54 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SkillMenu_ActiveSkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095125Z" creationid="setom" creationdate="20190402T095125Z">
+        <seg>SkillMenu_ActiveSkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillMenu_CosmeticSkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095127Z" creationid="setom" creationdate="20190402T095127Z">
+        <seg>SkillMenu_CosmeticSkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillMenu_PassiveSkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095126Z" creationid="setom" creationdate="20190402T095126Z">
+        <seg>SkillMenu_PassiveSkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Eto</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095128Z" creationid="setom" creationdate="20190402T095128Z">
+        <seg>SkillTree_Name_Eto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Hermit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095129Z" creationid="setom" creationdate="20190402T095129Z">
+        <seg>SkillTree_Name_Hermit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Hunter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095130Z" creationid="setom" creationdate="20190402T095130Z">
+        <seg>SkillTree_Name_Hunter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SkillTree_Name_Mercenary</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071029Z" creationid="hiru4" creationdate="20190402T071029Z">
@@ -7352,10 +7408,34 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SkillTree_Name_Monk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095135Z" creationid="setom" creationdate="20190402T095135Z">
+        <seg>SkillTree_Name_Monk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Philosopher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095136Z" creationid="setom" creationdate="20190402T095136Z">
+        <seg>SkillTree_Name_Philosopher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SkillTree_Name_Rogue</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071105Z" creationid="hiru4" creationdate="20190402T071014Z">
         <seg>illTree_Name_Rogue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Sage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095138Z" creationid="setom" creationdate="20190402T095138Z">
+        <seg>SkillTree_Name_Sage</seg>
       </tuv>
     </tu>
     <tu>
@@ -7388,6 +7468,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T090251Z" creationid="setom" creationdate="20190402T090251Z">
         <seg>睡眠はキャラクターのもう一つの欲求です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep_Title_LocalPlayer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095139Z" creationid="setom" creationdate="20190402T095139Z">
+        <seg>Sleep_Title_LocalPlayer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep_Title_OtherPlayer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095142Z" creationid="setom" creationdate="20190402T095142Z">
+        <seg>Sleep_Title_OtherPlayer</seg>
       </tuv>
     </tu>
     <tu>
@@ -8490,8 +8586,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Waiting for others....</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T071410Z" creationid="hiru4" creationdate="20190402T071410Z">
-        <seg>待機中....</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095218Z" creationid="hiru4" creationdate="20190402T071410Z">
+        <seg>参加者を待っています…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8674,8 +8770,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You can drop and pick up backpacks with a button or by using the inventory menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111654Z" creationid="setom" creationdate="20190331T111654Z">
-        <seg>ボタンを押すか、インベントリからバックパックを降ろしたり拾ったりできる。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094942Z" creationid="setom" creationdate="20190331T111654Z">
+        <seg>ボタンを押すか、所持品からバックパックを降ろしたり拾ったりできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8770,8 +8866,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You can use a Cooking Pot in your inventory and place it on a Campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T083713Z" creationid="setom" creationdate="20190402T083713Z">
-        <seg>料理鍋がインベントリにあればキャンプファイアで使うことができます。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T095003Z" creationid="setom" creationdate="20190402T083713Z">
+        <seg>料理鍋が所持品にあればキャンプファイアで使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8786,8 +8882,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You have very limited inventory space, even with a backpack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111954Z" creationid="setom" creationdate="20190331T111954Z">
-        <seg>インベントリ、ひいてはバックパックもスペースには限りがある。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T094954Z" creationid="setom" creationdate="20190331T111954Z">
+        <seg>所持品、ひいてはバックパックもスペースには限りがある。</seg>
       </tuv>
     </tu>
     <tu>
