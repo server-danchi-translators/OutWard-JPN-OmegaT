@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear Keybind</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082834Z" creationid="totochan" creationdate="20190402T082834Z">
+        <seg>キーバインド削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114856Z" creationid="setom" creationdate="20190401T114851Z">
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020351Z" creationid="hiru4" creationdate="20190402T020351Z">
         <seg>取引を確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection with host lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083127Z" creationid="totochan" creationdate="20190402T083127Z">
+        <seg>ホストとの接続を失った</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heat Recovery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082009Z" creationid="totochan" creationdate="20190402T082009Z">
+        <seg>熱冷却</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114137Z" creationid="setom" creationdate="20190331T114137Z">
@@ -4383,6 +4407,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Joining...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083038Z" creationid="totochan" creationdate="20190402T083038Z">
+        <seg>参加中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Journal</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023509Z" creationid="hiru4" creationdate="20190402T023509Z">
@@ -4475,6 +4507,30 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025508Z" creationid="hiru4" creationdate="20190402T021356Z">
         <seg>ロード中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Area</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082956Z" creationid="totochan" creationdate="20190402T082930Z">
+        <seg>エリアを読み込み中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Characters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083004Z" creationid="totochan" creationdate="20190402T083004Z">
+        <seg>キャラクターを読込中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Items</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083017Z" creationid="totochan" creationdate="20190402T083017Z">
+        <seg>アイテムを読込中Loading Items</seg>
       </tuv>
     </tu>
     <tu>
@@ -5035,6 +5091,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
         <seg>フレンドのゲーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening connection to friends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082911Z" creationid="totochan" creationdate="20190402T082911Z">
+        <seg>フレンドを招待Opening connection to friends.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5744,6 +5808,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Positioning Players</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083032Z" creationid="totochan" creationdate="20190402T083032Z">
+        <seg>プレイヤーの位置を再設定Positioning Players</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potato</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115951Z" creationid="setom" creationdate="20190401T115951Z">
@@ -5892,6 +5964,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
         <seg>リフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reloading World...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
+        <seg>ワールドを再読込み...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6220,6 +6300,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
         <seg>セーブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083045Z" creationid="totochan" creationdate="20190402T083045Z">
+        <seg>保存中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7448,6 +7536,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voices Volume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082921Z" creationid="totochan" creationdate="20190402T082921Z">
+        <seg>音声音量Voices Volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Voting</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071427Z" creationid="hiru4" creationdate="20190402T071427Z">
@@ -7488,6 +7584,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Waiting for other players to resume.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082853Z" creationid="totochan" creationdate="20190402T082853Z">
+        <seg>参加者の再開を待っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting for others...</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115904Z" creationid="setom" creationdate="20190401T115904Z">
@@ -7500,6 +7604,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071410Z" creationid="hiru4" creationdate="20190402T071410Z">
         <seg>待機中....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T082032Z" creationid="totochan" creationdate="20190402T082032Z">
+        <seg>温暖</seg>
       </tuv>
     </tu>
     <tu>
