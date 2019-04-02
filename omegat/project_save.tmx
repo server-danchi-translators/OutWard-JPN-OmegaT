@@ -1182,6 +1182,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2300060</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T070008Z" creationid="setom" creationdate="20190402T070008Z">
+        <seg>2300060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2300070</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T070105Z" creationid="setom" creationdate="20190402T070105Z">
+        <seg>2300070</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -5930,8 +5946,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T070003Z" creationid="setom" creationdate="20190402T070003Z">
-        <seg>北方に到達し、勇敢にも氷の獣が広がるのを極寒の地で防いだWolf Knightsが使った盾。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T070022Z" creationid="setom" creationdate="20190402T070003Z">
+        <seg>北方に到達し、勇敢にも氷の獣の広がりを極寒の地で防いだWolf Knightsが使った盾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6612,6 +6628,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114220Z" creationid="setom" creationdate="20190331T114220Z">
         <seg>探検家の絶対に基本となる道具は、革の水筒や食料、包帯、解毒剤、テント、そして薪を収容したバックパックである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The added fangs do little to improve the shield’s toughness, but are telling of the wielder’s mental state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T070828Z" creationid="setom" creationdate="20190402T070828Z">
+        <seg>付属の牙が盾の耐久を少し改善したが、使用者の精神状態に悪影響がある。</seg>
       </tuv>
     </tu>
     <tu>
