@@ -1278,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082144Z" creationid="setom" creationdate="20190402T082144Z">
+        <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶには水筒が必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animation Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022204Z" creationid="hiru4" creationdate="20190402T022204Z">
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114437Z" creationid="setom" creationdate="20190401T114437Z">
         <seg>いくつかの {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appease your thirst and hunger, or you will pass out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081934Z" creationid="setom" creationdate="20190402T081934Z">
+        <seg>喉の渇きや空腹を満たしてください。さもなければあなたは気絶してしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4659,6 +4675,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074456Z" creationid="setom" creationdate="20190401T074456Z">
         <seg>Message_Tutorial_Defences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Gathering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081805Z" creationid="setom" creationdate="20190402T081805Z">
+        <seg>Message_Tutorial_Gathering</seg>
       </tuv>
     </tu>
     <tu>
