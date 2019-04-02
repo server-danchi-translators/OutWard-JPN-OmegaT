@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Borderless</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193309Z" creationid="totochan" creationdate="20190402T193309Z">
+        <seg>ボーダレス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bow made from Shell Horror chitin which inflicts Extreme Poison on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064849Z" creationid="setom" creationdate="20190402T064849Z">
@@ -2482,6 +2490,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T101417Z" creationid="totochan" creationdate="20190402T083912Z">
         <seg>鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a character</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193355Z" creationid="totochan" creationdate="20190402T193355Z">
+        <seg>キャラクター選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose a save</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193348Z" creationid="totochan" creationdate="20190402T193348Z">
+        <seg>セーブの選択</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193420Z" creationid="totochan" creationdate="20190402T193420Z">
+        <seg>東</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each city has several merchants, either directly outside or inside buildings.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114208Z" creationid="setom" creationdate="20190331T114208Z">
@@ -3662,6 +3694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193243Z" creationid="totochan" creationdate="20190402T193243Z">
+        <seg>女性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field of View</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022317Z" creationid="hiru4" creationdate="20190402T022317Z">
@@ -3786,6 +3826,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113916Z" creationid="setom" creationdate="20190401T113916Z">
         <seg>満腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193251Z" creationid="totochan" creationdate="20190402T193251Z">
+        <seg>全画面Fullscreen</seg>
       </tuv>
     </tu>
     <tu>
@@ -5591,6 +5639,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193337Z" creationid="totochan" creationdate="20190402T193337Z">
+        <seg>ロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025508Z" creationid="hiru4" creationdate="20190402T021356Z">
@@ -5695,6 +5751,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193329Z" creationid="totochan" creationdate="20190402T193329Z">
+        <seg>ログアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LongTravel_RequiredTravelRation</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021941Z" creationid="setom" creationdate="20190402T021941Z">
@@ -5739,6 +5803,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T150938Z" creationid="totochan" creationdate="20190402T150938Z">
         <seg>メジャークエスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193234Z" creationid="totochan" creationdate="20190402T193234Z">
+        <seg>男性</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6331,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103606Z" creationid="setom" creationdate="20190402T103441Z">
         <seg>祖母が過去に部族を没落させ、一族の血の価値も酷く落とした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193406Z" creationid="totochan" creationdate="20190402T193406Z">
+        <seg>北</seg>
       </tuv>
     </tu>
     <tu>
@@ -8112,6 +8192,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193414Z" creationid="totochan" creationdate="20190402T193414Z">
+        <seg>南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SS Shadows</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
@@ -9712,6 +9800,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193429Z" creationid="totochan" creationdate="20190402T193429Z">
+        <seg>西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T104219Z" creationid="urakata" creationdate="20190331T141910Z">
@@ -9763,6 +9859,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
         <seg>Waiting for others....</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095218Z" creationid="hiru4" creationdate="20190402T071410Z">
+        <seg>参加者を待っています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for the other player to connect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193324Z" creationid="totochan" creationdate="20190402T193324Z">
         <seg>参加者を待っています…</seg>
       </tuv>
     </tu>
@@ -10012,6 +10116,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
         <seg>野生の獣は体の一部をドロップする。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windowed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T193256Z" creationid="totochan" creationdate="20190402T193256Z">
+        <seg>ウィンドウモード</seg>
       </tuv>
     </tu>
     <tu>
