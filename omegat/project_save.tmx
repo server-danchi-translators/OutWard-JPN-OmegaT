@@ -2120,8 +2120,8 @@
       <tuv lang="EN-US">
         <seg>Cosmetic Skills</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T070745Z" creationid="hiru4" creationdate="20190402T070745Z">
-        <seg>コスメティックスキルCosmetic Skills</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071036Z" creationid="hiru4" creationdate="20190402T070745Z">
+        <seg>コスメティックスキル</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,14 +4487,6 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Mercenary</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T070848Z" creationid="hiru4" creationdate="20190402T070848Z">
-        <seg>傭兵Mercenary</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Merchant</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115200Z" creationid="setom" creationdate="20190401T115200Z">
@@ -6080,6 +6072,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SkillTree_Name_Mercenary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071029Z" creationid="hiru4" creationdate="20190402T071029Z">
+        <seg>killTree_Name_Mercenary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SkillTree_Name_Rogue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071105Z" creationid="hiru4" creationdate="20190402T071014Z">
+        <seg>illTree_Name_Rogue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061611Z" creationid="hiru4" creationdate="20190402T023517Z">
@@ -7068,14 +7076,6 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115904Z" creationid="setom" creationdate="20190401T115904Z">
         <seg>参加者を待っています…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Warrior Monk</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T070859Z" creationid="hiru4" creationdate="20190402T070859Z">
-        <seg>僧兵Warrior Monk</seg>
       </tuv>
     </tu>
     <tu>
