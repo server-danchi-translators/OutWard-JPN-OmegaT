@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frame Rate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023059Z" creationid="hiru4" creationdate="20190402T023059Z">
+        <seg>フレームレートFrame Rate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freshness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020851Z" creationid="hiru4" creationdate="20190402T020851Z">
@@ -3576,6 +3584,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023052Z" creationid="hiru4" creationdate="20190402T023052Z">
+        <seg>解像度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Restart</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115309Z" creationid="setom" creationdate="20190401T115309Z">
@@ -4620,6 +4636,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
         <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vertical Sync</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T023111Z" creationid="hiru4" creationdate="20190402T023111Z">
+        <seg>画面同期</seg>
       </tuv>
     </tu>
     <tu>
