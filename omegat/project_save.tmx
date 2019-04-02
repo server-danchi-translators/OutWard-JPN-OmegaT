@@ -2320,8 +2320,9 @@
       <tuv lang="EN-US">
         <seg>Invert Y Camera</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T021742Z" creationid="hiru4" creationdate="20190402T021742Z">
-        <seg>Y軸カメラ反転</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022032Z" creationid="hiru4" creationdate="20190402T021742Z">
+        <seg>
+Y軸カメラ反転</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,8 +2953,8 @@
       <tuv lang="EN-US">
         <seg>Mute Non Focus</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T021731Z" creationid="hiru4" creationdate="20190402T021731Z">
-        <seg>ミュートs</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022028Z" creationid="hiru4" creationdate="20190402T021731Z">
+        <seg>ミュート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,10 +3095,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OptionMenu_Audio_MasterVolume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022021Z" creationid="setom" creationdate="20190402T022021Z">
+        <seg>OptionMenu_Audio_MasterVolume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Audio_MusicVolume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022022Z" creationid="setom" creationdate="20190402T022022Z">
+        <seg>OptionMenu_Audio_MusicVolume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Audio_MuteNonFocus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022024Z" creationid="setom" creationdate="20190402T022024Z">
+        <seg>OptionMenu_Audio_MuteNonFocus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Audio_SoundsVolume</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022023Z" creationid="setom" creationdate="20190402T022023Z">
+        <seg>OptionMenu_Audio_SoundsVolume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OptionMenu_Gameplay_Blood</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021952Z" creationid="setom" creationdate="20190402T021952Z">
         <seg>OptionMenu_Gameplay_Blood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_CameraSensitivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022036Z" creationid="setom" creationdate="20190402T022036Z">
+        <seg>OptionMenu_Gameplay_CameraSensitivity</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3155,23 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021955Z" creationid="setom" creationdate="20190402T021955Z">
         <seg>OptionMenu_Gameplay_Hud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_InvertMouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022030Z" creationid="setom" creationdate="20190402T022029Z">
+        <seg>
+OptionMenu_Gameplay_InvertMouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Gameplay_MouseSensitivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022033Z" creationid="setom" creationdate="20190402T022033Z">
+        <seg>OptionMenu_Gameplay_MouseSensitivity</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3196,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021950Z" creationid="setom" creationdate="20190402T021950Z">
         <seg>OptionMenu_General_LanguageAudio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_AnimationQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022038Z" creationid="setom" creationdate="20190402T022038Z">
+        <seg>OptionMenu_Graphics_AnimationQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_AnisoFiltering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T022039Z" creationid="setom" creationdate="20190402T022039Z">
+        <seg>OptionMenu_Graphics_AnisoFiltering</seg>
       </tuv>
     </tu>
     <tu>
