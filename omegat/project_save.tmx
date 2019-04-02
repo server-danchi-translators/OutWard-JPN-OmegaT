@@ -2966,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food rots with time, even when you are resting or travelling to another region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085630Z" creationid="setom" creationdate="20190402T085630Z">
+        <seg>食料は、休憩や他の地域への旅の最中でも時間で腐ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food rots with time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
