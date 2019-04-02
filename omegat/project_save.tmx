@@ -816,8 +816,8 @@
       <tuv lang="EN-US">
         <seg>Current</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T113247Z" creationid="setom" creationdate="20190401T113247Z">
-        <seg>結果</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T015448Z" creationid="setom" creationdate="20190401T113247Z">
+        <seg>現在</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2234,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
         <seg>適切な衣服や特定の食べ物やキャンプファイアを用いて体温を丁度良い温度に保て。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Legacy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T015547Z" creationid="hiru4" creationdate="20190402T015547Z">
+        <seg>引継ぎ</seg>
       </tuv>
     </tu>
     <tu>
