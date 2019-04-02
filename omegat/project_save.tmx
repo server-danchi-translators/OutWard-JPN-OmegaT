@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gather {ItemName}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104900Z" creationid="setom" creationdate="20190402T104900Z">
+        <seg>{ItemName}を採取</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gathering plants and mushrooms is the most basic way to find food.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
@@ -4754,6 +4762,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110845Z" creationid="setom" creationdate="20190331T110845Z">
         <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Gather</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104849Z" creationid="setom" creationdate="20190402T104849Z">
+        <seg>Interaction_Item_Gather</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T104844Z" creationid="setom" creationdate="20190402T104844Z">
+        <seg>Interaction_Item_Take</seg>
       </tuv>
     </tu>
     <tu>
