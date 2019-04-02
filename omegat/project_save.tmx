@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Breakthrough Point</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071440Z" creationid="hiru4" creationdate="20190402T071440Z">
+        <seg>ブレークスルーポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -2694,6 +2702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Faction: {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071446Z" creationid="hiru4" creationdate="20190402T071446Z">
+        <seg>派閥: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faction_BlueChamber</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114748Z" creationid="setom" creationdate="20190401T114748Z">
@@ -3554,6 +3570,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115137Z" creationid="setom" creationdate="20190401T115137Z">
         <seg>時間(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How long do you want to sleep?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071232Z" creationid="hiru4" creationdate="20190402T071232Z">
+        <seg>どれくらい睡眠をとりますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,6 +4715,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
         <seg>非武装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not in bed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071420Z" creationid="hiru4" creationdate="20190402T071420Z">
+        <seg>ベッドがありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,6 +6104,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skill: {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071501Z" creationid="hiru4" creationdate="20190402T071501Z">
+        <seg>スキル: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SkillTree_Name_Mercenary</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071029Z" creationid="hiru4" creationdate="20190402T071029Z">
@@ -7040,6 +7080,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Voting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071427Z" creationid="hiru4" creationdate="20190402T071427Z">
+        <seg>投票</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T104219Z" creationid="urakata" creationdate="20190331T141910Z">
@@ -7076,6 +7124,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115904Z" creationid="setom" creationdate="20190401T115904Z">
         <seg>参加者を待っています…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for others....</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071410Z" creationid="hiru4" creationdate="20190402T071410Z">
+        <seg>待機中....</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,6 +7508,16 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
         <seg>value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} wants to sleep for {2} hours, do you want to sleep too?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T071348Z" creationid="hiru4" creationdate="20190402T071348Z">
+        <seg>1}は{2}時間寝たいです、あなたも眠りますか？
+
+あなたも眠りたいですか？</seg>
       </tuv>
     </tu>
     <tu>
