@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even with a backpack, you cannot take all the items you will find.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085110Z" creationid="setom" creationdate="20190402T085110Z">
+        <seg>バックパックがあっても見つけたアイテムをすべて回収することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Style</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
@@ -4927,6 +4935,22 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_Inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T084942Z" creationid="setom" creationdate="20190402T084942Z">
+        <seg>Message_Tutorial_Inventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Inventory2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085003Z" creationid="setom" creationdate="20190402T085003Z">
+        <seg>Message_Tutorial_Inventory2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Locking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072446Z" creationid="setom" creationdate="20190401T072446Z">
@@ -5768,6 +5792,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Padded or fur-lined clothes also protect against the cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T084941Z" creationid="setom" creationdate="20190402T084941Z">
+        <seg>綿入り、もしくは毛皮付きの衣服も寒さから身を守ってくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
@@ -6036,6 +6068,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081804Z" creationid="setom" creationdate="20190402T081804Z">
         <seg>食事や給水の正しい手順を学んでいきましょう。キャラクターには二つの欲求があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proceed to learn about managing your inventory capacity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T085002Z" creationid="setom" creationdate="20190402T085002Z">
+        <seg>インベントリ容量の管理を学んでいきましょう。</seg>
       </tuv>
     </tu>
     <tu>
