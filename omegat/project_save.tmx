@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023211Z" creationid="hiru4" creationdate="20190402T023211Z">
-        <seg>高度なシェーダーAdvanced Shader</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
+        <seg>高度なシェーダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
         <seg>全て</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Already known</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025456Z" creationid="setom" creationdate="20190402T025456Z">
+        <seg>習得済み</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Aniso.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T022233Z" creationid="hiru4" creationdate="20190402T022233Z">
-        <seg>アニソ.</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025406Z" creationid="hiru4" creationdate="20190402T022233Z">
+        <seg>異方性</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +184,8 @@
       <tuv lang="EN-US">
         <seg>Atmosphere Fog</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023203Z" creationid="hiru4" creationdate="20190402T023203Z">
-        <seg>大気密度Atmosphere Fog</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025306Z" creationid="hiru4" creationdate="20190402T023203Z">
+        <seg>大気密度</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +336,8 @@
       <tuv lang="EN-US">
         <seg>Camera Sensitivity</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T022122Z" creationid="hiru4" creationdate="20190402T022122Z">
-        <seg>カメラ感度Camera Sensitivity</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025330Z" creationid="hiru4" creationdate="20190402T022122Z">
+        <seg>カメラ感度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,8 +1528,8 @@
       <tuv lang="EN-US">
         <seg>Frame Rate</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023059Z" creationid="hiru4" creationdate="20190402T023059Z">
-        <seg>フレームレートFrame Rate</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025320Z" creationid="hiru4" creationdate="20190402T023059Z">
+        <seg>フレームレート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,6 +3423,30 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OptionMenu_Controls_Map1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025240Z" creationid="setom" creationdate="20190402T025240Z">
+        <seg>OptionMenu_Controls_Map1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Controls_Map2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025241Z" creationid="setom" creationdate="20190402T025241Z">
+        <seg>OptionMenu_Controls_Map2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Controls_Section</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025240Z" creationid="setom" creationdate="20190402T025240Z">
+        <seg>OptionMenu_Controls_Section</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OptionMenu_Gameplay_Blood</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021952Z" creationid="setom" creationdate="20190402T021952Z">
@@ -3488,6 +3520,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OptionMenu_GraphicS_FrameRate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025235Z" creationid="setom" creationdate="20190402T025235Z">
+        <seg>OptionMenu_GraphicS_FrameRate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_AdvancedShader</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025239Z" creationid="setom" creationdate="20190402T025239Z">
+        <seg>OptionMenu_Graphics_AdvancedShader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OptionMenu_Graphics_AnimationQuality</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022038Z" creationid="setom" creationdate="20190402T022038Z">
@@ -3508,6 +3556,198 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022229Z" creationid="setom" creationdate="20190402T022229Z">
         <seg>OptionMenu_Graphics_Antialiasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_Bloom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025219Z" creationid="setom" creationdate="20190402T025219Z">
+        <seg>OptionMenu_Graphics_Bloom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_Brightness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025213Z" creationid="setom" creationdate="20190402T025213Z">
+        <seg>OptionMenu_Graphics_Brightness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_DoF</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025230Z" creationid="setom" creationdate="20190402T025230Z">
+        <seg>OptionMenu_Graphics_DoF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_FoV</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025216Z" creationid="setom" creationdate="20190402T025216Z">
+        <seg>OptionMenu_Graphics_FoV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_FoVSolo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025217Z" creationid="setom" creationdate="20190402T025217Z">
+        <seg>OptionMenu_Graphics_FoVSolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_FoVSplit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025218Z" creationid="setom" creationdate="20190402T025218Z">
+        <seg>OptionMenu_Graphics_FoVSplit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_GraphicQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025221Z" creationid="setom" creationdate="20190402T025221Z">
+        <seg>OptionMenu_Graphics_GraphicQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_GrassDistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025222Z" creationid="setom" creationdate="20190402T025222Z">
+        <seg>OptionMenu_Graphics_GrassDistance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_GrassQuantity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025222Z" creationid="setom" creationdate="20190402T025222Z">
+        <seg>OptionMenu_Graphics_GrassQuantity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_LightQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025223Z" creationid="setom" creationdate="20190402T025223Z">
+        <seg>OptionMenu_Graphics_LightQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_ModelQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025224Z" creationid="setom" creationdate="20190402T025224Z">
+        <seg>OptionMenu_Graphics_ModelQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_MotionBlur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025232Z" creationid="setom" creationdate="20190402T025232Z">
+        <seg>OptionMenu_Graphics_MotionBlur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_RenderScale</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025237Z" creationid="setom" creationdate="20190402T025237Z">
+        <seg>OptionMenu_Graphics_RenderScale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_Resolution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025234Z" creationid="setom" creationdate="20190402T025234Z">
+        <seg>OptionMenu_Graphics_Resolution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_SSAO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025226Z" creationid="setom" creationdate="20190402T025226Z">
+        <seg>OptionMenu_Graphics_SSAO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_SSShadows</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025227Z" creationid="setom" creationdate="20190402T025227Z">
+        <seg>OptionMenu_Graphics_SSShadows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_Scattering</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025238Z" creationid="setom" creationdate="20190402T025238Z">
+        <seg>OptionMenu_Graphics_Scattering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_ShadowQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025225Z" creationid="setom" creationdate="20190402T025225Z">
+        <seg>OptionMenu_Graphics_ShadowQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_TerrainQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025228Z" creationid="setom" creationdate="20190402T025228Z">
+        <seg>OptionMenu_Graphics_TerrainQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_TextureQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025229Z" creationid="setom" creationdate="20190402T025229Z">
+        <seg>OptionMenu_Graphics_TextureQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_VerticalSync</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025236Z" creationid="setom" creationdate="20190402T025236Z">
+        <seg>OptionMenu_Graphics_VerticalSync</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_WaterQuality</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025230Z" creationid="setom" creationdate="20190402T025230Z">
+        <seg>OptionMenu_Graphics_WaterQuality</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Graphics_WindowedMode</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025233Z" creationid="setom" creationdate="20190402T025233Z">
+        <seg>OptionMenu_Graphics_WindowedMode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Preset_Custom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025242Z" creationid="setom" creationdate="20190402T025242Z">
+        <seg>OptionMenu_Preset_Custom</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,8 +3978,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Render Scale</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023150Z" creationid="hiru4" creationdate="20190402T023150Z">
-        <seg>レンダリングスケールRender Scale</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025310Z" creationid="hiru4" creationdate="20190402T023150Z">
+        <seg>レンダリングスケール</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,8 +4154,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Section</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T023216Z" creationid="hiru4" creationdate="20190402T023216Z">
-        <seg>セクションSection</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T025251Z" creationid="hiru4" creationdate="20190402T023216Z">
+        <seg>セクション</seg>
       </tuv>
     </tu>
     <tu>
