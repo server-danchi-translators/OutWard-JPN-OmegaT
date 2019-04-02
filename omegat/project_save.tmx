@@ -7658,8 +7658,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Removing negative effects is important between battles.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T081345Z" creationid="setom" creationdate="20190402T081345Z">
-        <seg>良くない効果を取り除いておくことは戦いには大切なことです。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T150744Z" creationid="setom" creationdate="20190402T081345Z">
+        <seg>マイナス効果を取り除いておくことが戦闘で重要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,8 +9194,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>To assign skills or items to quickslots, open the menu with [InputAction_ToggleInventory], then select the Quickslot tab and assign them there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T075655Z" creationid="setom" creationdate="20190402T075330Z">
-        <seg>スキルやアイテムのクイックスロットへの割当ては[InputAction_ToggleInventory]でメニューを開き、タブを選んで行います。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T145959Z" creationid="setom" creationdate="20190402T075330Z">
+        <seg>スキルやアイテムのクイックスロットへの割当ては[InputAction_ToggleInventory]でメニューを開き、クイックスロットタブを選んで行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,8 +9786,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>When one’s stability reaches 50%, he is knocked back; when it reaches 0%, he is knocked down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T081403Z" creationid="setom" creationdate="20190401T081403Z">
-        <seg>スタビリティーが50％までいくとノックバックし、0％になればノックダウンします。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
+        <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
       </tuv>
     </tu>
     <tu>
