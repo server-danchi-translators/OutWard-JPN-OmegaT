@@ -5344,6 +5344,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peculiar oval shield used by the warriors of an ancient legion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T071030Z" creationid="setom" creationdate="20190402T071021Z">
+        <seg>古代の軍隊の戦士が使用した独特な丸みを帯びた盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform attacks with [InputAction_Attack1] and special attacks with [InputAction_Attack2].</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
@@ -6674,8 +6682,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The added fangs do little to improve the shield’s toughness, but are telling of the wielder’s mental state.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T070828Z" creationid="setom" creationdate="20190402T070828Z">
-        <seg>付属の牙が盾の耐久を少し改善したが、使用者の精神状態に悪影響がある。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T070842Z" creationid="setom" creationdate="20190402T070828Z">
+        <seg>付属の牙が盾の耐久を少し改善したが、使用者の精神状態に悪影響を与えてしまう。</seg>
       </tuv>
     </tu>
     <tu>
