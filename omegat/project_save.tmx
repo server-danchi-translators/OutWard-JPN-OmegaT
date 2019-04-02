@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All pieces of armor can also help with hot or cold weather, and the Chest Armor again has the largest influence on that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T095619Z" creationid="totochan" creationdate="20190402T095429Z">
+        <seg>すべての鎧は温度の調整を手助けすることができます、そして、チェストアーマーは再びそれに最も大きな影響を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Already known</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025456Z" creationid="setom" creationdate="20190402T025456Z">
@@ -1586,6 +1594,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114822Z" creationid="setom" creationdate="20190401T114822Z">
         <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor piece that has the largest influence on defense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083953Z" creationid="totochan" creationdate="20190402T083953Z">
+        <seg>防御力に最も大きな影響を与える装甲部位</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2354,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114345Z" creationid="setom" creationdate="20190401T114345Z">
         <seg>CharacterStatus_Tab_StatusEffect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chest Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083912Z" creationid="totochan" creationdate="20190402T083912Z">
+        <seg>鎧r</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4354,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084515Z" creationid="setom" creationdate="20190402T084217Z">
         <seg>重鎧では殆ど暑さを凌げません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy helmets are detrimental to spellcasters, increasing the Mana cost of their abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190402T083857Z" creationid="totochan" creationdate="20190402T083857Z">
+        <seg>重装ヘルメットはスペルキャスターにとって有害であり、必要なマナコストが増加します。.</seg>
       </tuv>
     </tu>
     <tu>
