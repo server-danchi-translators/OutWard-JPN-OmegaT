@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cook your meat and boil your water so as not to become ill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082314Z" creationid="setom" creationdate="20190402T082314Z">
+        <seg>肉は調理し、水は煮沸して病気にならないようにしましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooldown</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020703Z" creationid="hiru4" creationdate="20190402T020703Z">
@@ -4675,6 +4683,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074456Z" creationid="setom" creationdate="20190401T074456Z">
         <seg>Message_Tutorial_Defences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message_Tutorial_Disease</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T082147Z" creationid="setom" creationdate="20190402T082147Z">
+        <seg>Message_Tutorial_Disease</seg>
       </tuv>
     </tu>
     <tu>
