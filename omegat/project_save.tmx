@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm Transaction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020351Z" creationid="hiru4" creationdate="20190402T020351Z">
+        <seg>取引を確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Container</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115009Z" creationid="setom" creationdate="20190401T115009Z">
@@ -2782,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020239Z" creationid="hiru4" creationdate="20190402T020239Z">
+        <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resume</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115324Z" creationid="setom" creationdate="20190401T115324Z">
@@ -2858,6 +2874,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114413Z" creationid="setom" creationdate="20190401T114413Z">
         <seg>セーブの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select a compatible item to arm the trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020204Z" creationid="hiru4" creationdate="20190402T020204Z">
+        <seg>罠に使うアイテムを選ぶ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,6 +2978,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115530Z" creationid="setom" creationdate="20190401T115530Z">
         <seg>休息をとる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190402T020407Z" creationid="hiru4" creationdate="20190402T020407Z">
+        <seg>分割画面開始</seg>
       </tuv>
     </tu>
     <tu>
