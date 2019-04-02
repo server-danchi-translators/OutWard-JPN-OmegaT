@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign the Enrage and Predator Leap skills to your quickslots.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080535Z" creationid="setom" creationdate="20190402T080535Z">
+        <seg>EnrageとPredator Leapのスキルをクイックスロットに割り当ててください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atmosphere Fog</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025306Z" creationid="hiru4" creationdate="20190402T023203Z">
@@ -4687,6 +4695,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message_Tutorial_WeaponSkills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T080450Z" creationid="setom" creationdate="20190402T080450Z">
+        <seg>Message_Tutorial_WeaponSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114002Z" creationid="setom" creationdate="20190331T114002Z">
@@ -7204,6 +7220,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122940Z" creationid="setom" creationdate="20190401T122940Z">
         <seg>消耗品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Enrage to gain the Rage boon and only then you can use Predator Leap, since the leap requires having Rage active on you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T081152Z" creationid="setom" creationdate="20190402T081152Z">
+        <seg>Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけPredator Leapが使えるようになります。</seg>
       </tuv>
     </tu>
     <tu>
