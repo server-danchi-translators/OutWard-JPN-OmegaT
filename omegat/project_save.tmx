@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All my life, I've lived within the safety of Cierzo, spared the brutality of the world outside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T102136Z" creationid="setom" creationdate="20190402T102136Z">
+        <seg>私はいままでCierzoで安全に生活をし、外の世界の残虐さからは免れてきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All pieces of armor can also help with hot or cold weather, and the Chest Armor again has the largest influence on that.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T095619Z" creationid="totochan" creationdate="20190402T095429Z">
@@ -7308,6 +7316,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075755Z" creationid="setom" creationdate="20190402T075755Z">
         <seg>階段を上がってスキルを習得しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prologue_1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T101546Z" creationid="setom" creationdate="20190402T101546Z">
+        <seg>Prologue_1</seg>
       </tuv>
     </tu>
     <tu>
