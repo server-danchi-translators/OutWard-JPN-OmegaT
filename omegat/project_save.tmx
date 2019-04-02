@@ -1616,8 +1616,8 @@
       <tuv lang="EN-US">
         <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082144Z" creationid="setom" creationdate="20190402T082144Z">
-        <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶには水筒が必要になります。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
+        <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶにはwaterskinが必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,8 +7522,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Proceed to learn about Food and Drink, which are two of the character’s needs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T081804Z" creationid="setom" creationdate="20190402T081804Z">
-        <seg>食事や給水の正しい手順を学んでいきましょう。キャラクターには二つの欲求があります。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190402T151012Z" creationid="setom" creationdate="20190402T081804Z">
+        <seg>キャラクターの欲求のうちの二つ、食事や給水の正しい手順を学んでいきましょう。</seg>
       </tuv>
     </tu>
     <tu>
