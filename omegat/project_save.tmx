@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2300000</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064925Z" creationid="setom" creationdate="20190402T064925Z">
+        <seg>2300000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -1382,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic shield of wood and iron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T064931Z" creationid="setom" creationdate="20190402T064931Z">
+        <seg>木や鉄でできた基本的な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginner's short bow mostly used to hunt small game, due to its lack of power.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064756Z" creationid="setom" creationdate="20190402T064756Z">
@@ -1410,6 +1426,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074802Z" creationid="setom" creationdate="20190401T074802Z">
         <seg>[InputAction_Block] での防御はダメージを防ぎ、ノックバックも減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocking with a shield is more advantageous than blocking with a weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190402T065223Z" creationid="setom" creationdate="20190402T064937Z">
+        <seg>武器よりも、盾を使っての防御がより有効だ。</seg>
       </tuv>
     </tu>
     <tu>
