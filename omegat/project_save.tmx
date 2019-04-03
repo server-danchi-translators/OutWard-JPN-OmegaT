@@ -13018,6 +13018,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102131Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
+        <seg>Ash Giants はあなたを彼らの村の外へ捨てたのだ。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Authentication ticket expired.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070915Z" creationid="hiru4" creationdate="20190403T070915Z">
@@ -13310,8 +13319,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>They then go off merrily to the inn, clearly going to brag to the serving girls about how they saved your life and didn’t even ask for payment...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T101908Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
-        <seg>それから彼らは陽気に旅館へと行く。彼らがあなたの命をどのように救ったかについて、奉仕する女の子たちに自慢しようとしていて、支払いさえ要求しませんでした...</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102022Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
+        <seg>それから彼らは陽気に旅館へと行く。彼らがあなたの命をどのように救ったかについて、奉仕する女の子たちに自慢しようとしていて、支払いを要求することは無かった...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15076,6 +15085,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055749Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
         <seg>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wake up in the marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102033Z" creationid="はぐくみ会" creationdate="20190403T101958Z">
+        <seg>あなたは湿地で目を覚ました。
 </seg>
       </tuv>
     </tu>
