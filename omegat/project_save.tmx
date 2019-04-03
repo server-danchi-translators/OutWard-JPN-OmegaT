@@ -10805,6 +10805,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The foul smell of rotting meat fills your nostrils as they dump you into a large, well lit room.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085310Z" creationid="はぐくみ会" creationdate="20190403T085259Z">
+        <seg>大きく明るく照らされた部屋にあなたを投げ入れる。腐った肉の嫌なにおいが鼻孔を満たす。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game auto-saves but you can also save manually.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
@@ -11281,6 +11290,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021526Z" creationid="hiru4" creationdate="20190402T021526Z">
         <seg>{1}へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodytes gather around a large stone pot over a fire, sometimes staring at you hungrily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085428Z" creationid="はぐくみ会" creationdate="20190403T085428Z">
+        <seg>Troglodytes は、火の上の大きな石の鉢の周りに集まり、時々あなたを見つめている。空腹なのだ。</seg>
       </tuv>
     </tu>
     <tu>
