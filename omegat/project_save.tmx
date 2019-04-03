@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A passing missionary must have brought you to the Inn in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102434Z" creationid="はぐくみ会" creationdate="20190403T102434Z">
+        <seg>宣教師が Monsoon の宿にあなたを連れていき、去っていったのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054520Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -13221,6 +13229,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The smell of sweet incense greets you as you awaken from the fevered dreams of the last few days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102326Z" creationid="はぐくみ会" creationdate="20190403T102326Z">
+        <seg>あなたが過去数日間の熱い夢から目覚めたときに、甘い香の香りがあなたを迎えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The status menu shows details related to your equipment or what effects are currently affecting you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112738Z" creationid="setom" creationdate="20190331T112738Z">
@@ -14785,6 +14801,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
         <seg>お互いが離れすぎているため休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can’t help but feel a little miffed at this rude treatment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102228Z" creationid="はぐくみ会" creationdate="20190403T102228Z">
+        <seg>あなたは彼らを手助けすることはできないが、この失礼な扱いに少し戸惑いを感じることはできる。</seg>
       </tuv>
     </tu>
     <tu>
