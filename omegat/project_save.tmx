@@ -1816,6 +1816,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to go back to the Main Menu?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064405Z" creationid="hiru4" creationdate="20190403T064405Z">
+        <seg>メインメニューに戻りますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor piece that has the largest influence on defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083953Z" creationid="totochan" creationdate="20190402T083953Z">
@@ -3518,6 +3526,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023354Z" creationid="hiru4" creationdate="20190402T023354Z">
         <seg>ディスプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064232Z" creationid="hiru4" creationdate="20190403T064118Z">
+        <seg>継続しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to proceed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064351Z" creationid="hiru4" creationdate="20190403T064351Z">
+        <seg>続行しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -7273,6 +7297,14 @@ Notification_Crafting_AtLeastOneIngredient</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once applied, theses changes will be permanent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064251Z" creationid="hiru4" creationdate="20190403T064251Z">
+        <seg>一旦適用されると、変更はできませんが続行しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have a Campfire Kit, go to your Inventory and use it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
@@ -9538,14 +9570,6 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>SplitScreen_Stop_Title</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T064100Z" creationid="hiru4" creationdate="20190403T064100Z">
-        <seg>分割画面を停止</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
@@ -9671,6 +9695,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020441Z" creationid="hiru4" creationdate="20190402T020441Z">
         <seg>分割画面停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop Split-screen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064158Z" creationid="hiru4" creationdate="20190403T064158Z">
+        <seg>分割画面を停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -11229,8 +11261,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are about to stop split-screen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T064054Z" creationid="hiru4" creationdate="20190403T064054Z">
-        <seg>分割画面を停止</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064224Z" creationid="hiru4" creationdate="20190403T064054Z">
+        <seg>分割画面を停止して</seg>
       </tuv>
     </tu>
     <tu>
