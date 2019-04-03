@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot complete transaction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052143Z" creationid="hiru4" creationdate="20190403T052143Z">
+        <seg>対応するアイテムを装備していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot rest: Not enough time assigned.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051753Z" creationid="hiru4" creationdate="20190403T051753Z">
@@ -6599,6 +6607,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No compatible item equipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052158Z" creationid="hiru4" creationdate="20190403T052158Z">
+        <seg>マナが不足しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No compatible weapon or ammunition equipped.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051539Z" creationid="hiru4" creationdate="20190403T051539Z">
@@ -6627,6 +6643,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
         <seg>非武装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052212Z" creationid="hiru4" creationdate="20190403T052212Z">
+        <seg>スタミナが不足しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9841,6 +9865,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transaction complete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052127Z" creationid="hiru4" creationdate="20190403T052127Z">
+        <seg>取引を完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transfer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115841Z" creationid="setom" creationdate="20190401T115841Z">
@@ -10693,6 +10725,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
         <seg>お互いが離れすぎているため休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not have enough Silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052110Z" creationid="hiru4" creationdate="20190403T052110Z">
+        <seg>シルバーが不足しています。</seg>
       </tuv>
     </tu>
     <tu>
