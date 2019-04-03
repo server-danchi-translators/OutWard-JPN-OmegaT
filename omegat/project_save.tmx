@@ -9117,6 +9117,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nothing seems to have harmed you while you were out cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T112648Z" creationid="はぐくみ会" creationdate="20190403T112648Z">
+        <seg>あなたが気を失っている間、傷つけられた様子はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Action_Invalid</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091139Z" creationid="setom" creationdate="20190403T091139Z">
