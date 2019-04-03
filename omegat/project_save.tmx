@@ -1968,6 +1968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As your eyes open, you find yourself propped up against a wall at the gates of Monsoon, safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102724Z" creationid="はぐくみ会" creationdate="20190403T102724Z">
+        <seg>あなたの目が開くと、あなたは自分自身が Monsoon の門の壁に支えられていることに気づくだろう。安全だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
@@ -13153,6 +13161,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T094502Z" creationid="はぐくみ会" creationdate="20190403T094502Z">
         <seg>宿屋の主人は、あなたの銀に対して、あなたの滞在の代金を払うよう、手助けをしてくれた。それ以外は問題ない。健康だ。
 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The innkeeper has used money from your own pouch to pay for your treatment, but at least you’re still alive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102535Z" creationid="はぐくみ会" creationdate="20190403T102535Z">
+        <seg>宿主はあなたの治療のために、あなたの財布からお金を使っているが、少なくともあなたはまだ生きている。
+</seg>
       </tuv>
     </tu>
     <tu>
