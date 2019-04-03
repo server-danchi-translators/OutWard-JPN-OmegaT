@@ -9150,8 +9150,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T071555Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>Required: Cool Boon 構えた武器に氷の力を付与し、追加ダメージと鈍足効果を与える。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T071701Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>Required: Cool Boon 構えている近接武器へ一時的に氷の力を付与し、追加ダメージと鈍足効果を与える。</seg>
       </tuv>
     </tu>
     <tu>
