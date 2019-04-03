@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alchemy is used to create consumable items with very potent properties, such as potions that heal instantly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T013035Z" creationid="hiru4" creationdate="20190403T013035Z">
+        <seg>Alchemyは即座に回復する非常に強力な性質を持つ薬等の消耗品を作るのに使われます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
