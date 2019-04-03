@@ -10253,6 +10253,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suddenly, a noise echoes in the cave and the monsters freeze.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085527Z" creationid="はぐくみ会" creationdate="20190403T085527Z">
+        <seg>突然、洞窟の中に雑音が響き渡り、モンスター達は動きを止める。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Summoned magical sword that lasts for a limited amount of time.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062053Z" creationid="setom" creationdate="20190402T062053Z">
@@ -10793,6 +10802,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061630Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
         <seg>その怪物はあなたを救ったにちがいない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The dimwitted creatures then grab spears and charge out, leaving you alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085908Z" creationid="はぐくみ会" creationdate="20190403T085908Z">
+        <seg>モンスター達は槍をつかみ、突撃していく。あなたを一人のこして。</seg>
       </tuv>
     </tu>
     <tu>
