@@ -12671,6 +12671,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your body and mind are broken, all that's left is to await the release of death...Strange purple auras swirl around you and you give yourself to them, riding a strange dreamlike current, passing stars and ghostly figures...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090339Z" creationid="はぐくみ会" creationdate="20190403T090339Z">
+        <seg>あなたの体と心は壊れた。あとは死による解放を待つだけだ...奇妙な紫色のオーラがあなたの周りを旋回し、あなたは夢のような流れに乗り、星と幽霊のような人物を通過しながら、あなたは彼らに自分自身を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your body has needs.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110732Z" creationid="setom" creationdate="20190331T110732Z">
