@@ -2144,6 +2144,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandages or Health Potions will do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095339Z" creationid="rkmad" creationdate="20190403T095339Z">
+        <seg>包帯か、水薬の類が必要なのだけれど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Stats</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
@@ -10393,8 +10401,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Oy, you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T095125Z" creationid="rkmad" creationdate="20190403T095125Z">
-        <seg>そこのあなた</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095244Z" creationid="rkmad" creationdate="20190403T095125Z">
+        <seg>ああ、そこのあなた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14800,8 +14808,16 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You know how to make bandages, right?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T095143Z" creationid="rkmad" creationdate="20190403T095143Z">
-        <seg>包帯の作り方は分かる？</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095422Z" creationid="rkmad" creationdate="20190403T095143Z">
+        <seg>包帯の作り方は分かるわよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You know how to make them, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095548Z" creationid="rkmad" creationdate="20190403T095457Z">
+        <seg>あなた、ポーションの作り方は知っているわよね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -14818,6 +14834,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134454Z" creationid="setom" creationdate="20190402T134454Z">
         <seg>喉が渇きすぎて酷い顔してるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You mix water, Blood Mushroom and a Gravel Beetle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095533Z" creationid="rkmad" creationdate="20190403T095533Z">
+        <seg>水と Blood Mushroom と Gravel Beetle を混ぜて作るのよ。</seg>
       </tuv>
     </tu>
     <tu>
