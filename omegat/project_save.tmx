@@ -9701,6 +9701,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The miserable cries of your fellow prisoners fill the air as you are shoved into iron cages, and left to stew in total darkness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060418Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
+        <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残されました。煮込んでシチューにするために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of attacks you make before making a special attack will change which strike you will make.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145433Z" creationid="setom" creationdate="20190401T074405Z">
@@ -10898,6 +10906,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141107Z" creationid="setom" creationdate="20190402T141107Z">
         <seg>砂浜でぼろ服を見つけただろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You get to work on forcing the bolts off the prison door.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060534Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
+        <seg>あなたは仕事を得る。刑務所のドアからボルトを無理やり押し出す仕事を。
+</seg>
       </tuv>
     </tu>
     <tu>
