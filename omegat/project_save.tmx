@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A corpse hanging from a gibbet passes your vision...As unconsciousness takes you, you know that you have been taken prisoner by the Montcalm Tribe...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065240Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
+        <seg>無意識があなたを連れて行くように、あなたは Montcalm 族によって捕虜にされたことを知っている...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055856Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
@@ -10566,8 +10574,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>They seem to have no use for sick prisoners...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T064726Z" creationid="はぐくみ会" creationdate="20190403T064726Z">
-        <seg>彼らは病気の囚人には役に立たないようです...</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T064908Z" creationid="はぐくみ会" creationdate="20190403T064726Z">
+        <seg>彼らは病気の囚人には役に立たない...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11851,6 +11859,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053622Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
         <seg>あなたは地面に倒れ、壊れ、敗北した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You force your eyes open and find yourself in a cart with prisoners and corpses, bouncing along the road.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065104Z" creationid="はぐくみ会" creationdate="20190403T064901Z">
+        <seg>あなたは目を開き、そして見つける。道路に沿って跳ている、囚人と死体が入ったカートの中に自分自身を。
+</seg>
       </tuv>
     </tu>
     <tu>
