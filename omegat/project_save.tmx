@@ -3365,8 +3365,8 @@
       <tuv lang="EN-US">
         <seg>Could not open connection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062214Z" creationid="hiru4" creationdate="20190403T062214Z">
-        <seg>接続を開くことができませんでした。/</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091255Z" creationid="hiru4" creationdate="20190403T062214Z">
+        <seg>接続を開くことができませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7677,8 +7677,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>No ammunition equipped</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051253Z" creationid="hiru4" creationdate="20190403T051253Z">
-        <seg>弾薬を装填していない。」</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091039Z" creationid="hiru4" creationdate="20190403T051253Z">
+        <seg>弾薬を装填していない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7835,6 +7835,15 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Action_Invalid</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091139Z" creationid="setom" creationdate="20190403T091139Z">
+        <seg>
+Notification_Action_Invalid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Bag_CannotUnequip</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090922Z" creationid="setom" creationdate="20190403T090922Z">
@@ -7924,6 +7933,22 @@ Notification_Crafting_AtLeastOneIngredient</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Disease_Cough</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091307Z" creationid="setom" creationdate="20190403T091307Z">
+        <seg>Notification_Disease_Cough</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Disease_Puke</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091308Z" creationid="setom" creationdate="20190403T091308Z">
+        <seg>Notification_Disease_Puke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Disease_Receding</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090932Z" creationid="setom" creationdate="20190403T090932Z">
@@ -7936,6 +7961,30 @@ Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090933Z" creationid="setom" creationdate="20190403T090933Z">
         <seg>Notification_Gather_ItemRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Interaction_ActivatedByLever</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091128Z" creationid="setom" creationdate="20190403T091128Z">
+        <seg>Notification_Interaction_ActivatedByLever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Interaction_DoesNotMove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091125Z" creationid="setom" creationdate="20190403T091125Z">
+        <seg>Notification_Interaction_DoesNotMove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Interaction_Locked</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091124Z" creationid="setom" creationdate="20190403T091124Z">
+        <seg>Notification_Interaction_Locked</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8033,22 @@ Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090947Z" creationid="setom" creationdate="20190403T090947Z">
         <seg>Notification_Item_FoodRotten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_InfuseNotCompatible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091144Z" creationid="setom" creationdate="20190403T091144Z">
+        <seg>Notification_Item_InfuseNotCompatible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_NoLanternSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091305Z" creationid="setom" creationdate="20190403T091305Z">
+        <seg>Notification_Item_NoLanternSlot</seg>
       </tuv>
     </tu>
     <tu>
@@ -8060,6 +8125,22 @@ Notification_Crafting_AtLeastOneIngredient</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Item_Waterskin_Empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091304Z" creationid="setom" creationdate="20190403T091304Z">
+        <seg>Notification_Item_Waterskin_Empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Waterskin_Needed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091303Z" creationid="setom" creationdate="20190403T091303Z">
+        <seg>Notification_Item_Waterskin_Needed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_LognTravel_DistanceThreshold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090949Z" creationid="setom" creationdate="20190403T090949Z">
@@ -8072,6 +8153,14 @@ Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090949Z" creationid="setom" creationdate="20190403T090949Z">
         <seg>Notification_LongTraval_NotEnoughRatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_LongTravel_NotEnoughRation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091251Z" creationid="setom" creationdate="20190403T091251Z">
+        <seg>Notification_LongTravel_NotEnoughRation</seg>
       </tuv>
     </tu>
     <tu>
@@ -8125,6 +8214,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Need_Temperature_Neutral</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091302Z" creationid="setom" creationdate="20190403T091302Z">
+        <seg>Notification_Need_Temperature_Neutral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Need_Temperature_VeryCold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091008Z" creationid="setom" creationdate="20190403T091008Z">
@@ -8157,10 +8254,58 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Network_GameOpenFailed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091249Z" creationid="setom" creationdate="20190403T091249Z">
+        <seg>Notification_Network_GameOpenFailed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Network_GameOpenSuccessfully</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091138Z" creationid="setom" creationdate="20190403T091138Z">
+        <seg>Notification_Network_GameOpenSuccessfully</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Network_PlayerDisconnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091258Z" creationid="setom" creationdate="20190403T091258Z">
+        <seg>Notification_Network_PlayerDisconnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Network_PlayerDoneConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091259Z" creationid="setom" creationdate="20190403T091259Z">
+        <seg>Notification_Network_PlayerDoneConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Network_PlayerStartConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091257Z" creationid="setom" creationdate="20190403T091257Z">
+        <seg>Notification_Network_PlayerStartConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_ProjectileWeapon_NoAmmunition</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091014Z" creationid="setom" creationdate="20190403T091014Z">
         <seg>Notification_ProjectileWeapon_NoAmmunition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quest_Completed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091048Z" creationid="setom" creationdate="20190403T091048Z">
+        <seg>Notification_Quest_Completed</seg>
       </tuv>
     </tu>
     <tu>
@@ -8189,10 +8334,426 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Quickslot_DeployWarning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091055Z" creationid="setom" creationdate="20190403T091055Z">
+        <seg>Notification_Quickslot_DeployWarning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quickslot_MissingWeapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091056Z" creationid="setom" creationdate="20190403T091056Z">
+        <seg>Notification_Quickslot_MissingWeapon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quickslot_NoItemInventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091057Z" creationid="setom" creationdate="20190403T091057Z">
+        <seg>Notification_Quickslot_NoItemInventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_CriticalDrink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091058Z" creationid="setom" creationdate="20190403T091058Z">
+        <seg>Notification_Resting_CriticalDrink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_CriticalFood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091059Z" creationid="setom" creationdate="20190403T091059Z">
+        <seg>Notification_Resting_CriticalFood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_CriticalSleep</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091059Z" creationid="setom" creationdate="20190403T091059Z">
+        <seg>Notification_Resting_CriticalSleep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_CriticalTempCold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091100Z" creationid="setom" creationdate="20190403T091100Z">
+        <seg>Notification_Resting_CriticalTempCold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_CriticalTempHeat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091101Z" creationid="setom" creationdate="20190403T091101Z">
+        <seg>Notification_Resting_CriticalTempHeat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_MinimumRest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091102Z" creationid="setom" creationdate="20190403T091102Z">
+        <seg>Notification_Resting_MinimumRest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_NotEnough</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091103Z" creationid="setom" creationdate="20190403T091103Z">
+        <seg>Notification_Resting_NotEnough</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_TooFarPlayer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091105Z" creationid="setom" creationdate="20190403T091105Z">
+        <seg>Notification_Resting_TooFarPlayer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Resting_TooMuch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091104Z" creationid="setom" creationdate="20190403T091104Z">
+        <seg>Notification_Resting_TooMuch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_ShopTransaction_CantComplete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091108Z" creationid="setom" creationdate="20190403T091108Z">
+        <seg>Notification_ShopTransaction_CantComplete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_ShopTransaction_Completed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091107Z" creationid="setom" creationdate="20190403T091107Z">
+        <seg>Notification_ShopTransaction_Completed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_ShopTransaction_MerchantNotEnoughMoney</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091106Z" creationid="setom" creationdate="20190403T091106Z">
+        <seg>Notification_ShopTransaction_MerchantNotEnoughMoney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_ShopTransaction_PlayerNotEnoughMoney</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091107Z" creationid="setom" creationdate="20190403T091107Z">
+        <seg>Notification_ShopTransaction_PlayerNotEnoughMoney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_SkillPistol_MustBeEmpty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091120Z" creationid="setom" creationdate="20190403T091120Z">
+        <seg>Notification_SkillPistol_MustBeEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_SkillPistol_NeedsBullet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091120Z" creationid="setom" creationdate="20190403T091120Z">
+        <seg>Notification_SkillPistol_NeedsBullet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_BlessedRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091133Z" creationid="setom" creationdate="20190403T091133Z">
+        <seg>Notification_Skill_BlessedRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_CoolRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091134Z" creationid="setom" creationdate="20190403T091134Z">
+        <seg>Notification_Skill_CoolRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_Cooldown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091303Z" creationid="setom" creationdate="20190403T091303Z">
+        <seg>Notification_Skill_Cooldown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_DisciplineRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091131Z" creationid="setom" creationdate="20190403T091131Z">
+        <seg>Notification_Skill_DisciplineRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_DurabilityRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091300Z" creationid="setom" creationdate="20190403T091300Z">
+        <seg>Notification_Skill_DurabilityRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_ImbuedWeaponRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091130Z" creationid="setom" creationdate="20190403T091130Z">
+        <seg>Notification_Skill_ImbuedWeaponRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_LexiconRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091305Z" creationid="setom" creationdate="20190403T091305Z">
+        <seg>Notification_Skill_LexiconRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_MistRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091137Z" creationid="setom" creationdate="20190403T091137Z">
+        <seg>Notification_Skill_MistRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_NoCompatibleItem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091109Z" creationid="setom" creationdate="20190403T091109Z">
+        <seg>Notification_Skill_NoCompatibleItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_NotEnoughtMana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091110Z" creationid="setom" creationdate="20190403T091110Z">
+        <seg>Notification_Skill_NotEnoughtMana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_NotEnoughtStamina</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091111Z" creationid="setom" creationdate="20190403T091111Z">
+        <seg>Notification_Skill_NotEnoughtStamina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_PistolAlreadyInfused</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091135Z" creationid="setom" creationdate="20190403T091135Z">
+        <seg>Notification_Skill_PistolAlreadyInfused</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_PossessedRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091136Z" creationid="setom" creationdate="20190403T091136Z">
+        <seg>Notification_Skill_PossessedRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_RageRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091129Z" creationid="setom" creationdate="20190403T091129Z">
+        <seg>Notification_Skill_RageRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_RequiredItemMultiple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091111Z" creationid="setom" creationdate="20190403T091111Z">
+        <seg>Notification_Skill_RequiredItemMultiple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_RequiredItemSingle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091112Z" creationid="setom" creationdate="20190403T091112Z">
+        <seg>Notification_Skill_RequiredItemSingle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_RequirementsNotMet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091301Z" creationid="setom" creationdate="20190403T091301Z">
+        <seg>Notification_Skill_RequirementsNotMet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_WarmRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091135Z" creationid="setom" creationdate="20190403T091135Z">
+        <seg>Notification_Skill_WarmRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Skill_WindAltarRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091132Z" creationid="setom" creationdate="20190403T091132Z">
+        <seg>Notification_Skill_WindAltarRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Stash_NotEnoughRoom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091121Z" creationid="setom" creationdate="20190403T091121Z">
+        <seg>Notification_Stash_NotEnoughRoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_SwitchArea_AreaNotActive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091122Z" creationid="setom" creationdate="20190403T091122Z">
+        <seg>Notification_SwitchArea_AreaNotActive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_SwitchArea_NotSameSwitch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091124Z" creationid="setom" creationdate="20190403T091124Z">
+        <seg>Notification_SwitchArea_NotSameSwitch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_SwitchArea_Request</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091123Z" creationid="setom" creationdate="20190403T091123Z">
+        <seg>Notification_SwitchArea_Request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_AlternativeSkillAlreadyLearnt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091114Z" creationid="setom" creationdate="20190403T091114Z">
+        <seg>Notification_Trainer_AlternativeSkillAlreadyLearnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_FactionBlueChamber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091115Z" creationid="setom" creationdate="20190403T091115Z">
+        <seg>Notification_Trainer_FactionBlueChamber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_FactionHeroicKingdom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091116Z" creationid="setom" creationdate="20190403T091116Z">
+        <seg>Notification_Trainer_FactionHeroicKingdom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_FactionHolyMission</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091116Z" creationid="setom" creationdate="20190403T091116Z">
+        <seg>Notification_Trainer_FactionHolyMission</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_NotEnoughMoney</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091113Z" creationid="setom" creationdate="20190403T091113Z">
+        <seg>Notification_Trainer_NotEnoughMoney</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_RequiredAnySkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091118Z" creationid="setom" creationdate="20190403T091118Z">
+        <seg>Notification_Trainer_RequiredAnySkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_RequiredBreakthrough</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091119Z" creationid="setom" creationdate="20190403T091119Z">
+        <seg>Notification_Trainer_RequiredBreakthrough</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trainer_RequiredSkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091117Z" creationid="setom" creationdate="20190403T091117Z">
+        <seg>Notification_Trainer_RequiredSkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Trainer_SkillAlreadyKnown</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021944Z" creationid="setom" creationdate="20190402T021944Z">
         <seg>Notification_Trainer_SkillAlreadyKnown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Trap_NotRequiredTraining</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091138Z" creationid="setom" creationdate="20190403T091138Z">
+        <seg>Notification_Trap_NotRequiredTraining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Tutorial_NoConnection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091137Z" creationid="setom" creationdate="20190403T091137Z">
+        <seg>Notification_Tutorial_NoConnection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_UnpluggedGamepad</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091306Z" creationid="setom" creationdate="20190403T091306Z">
+        <seg>Notification_UnpluggedGamepad</seg>
       </tuv>
     </tu>
     <tu>
@@ -11459,8 +12020,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The item does not have enough durability.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062345Z" creationid="hiru4" creationdate="20190403T062345Z">
-        <seg>アイテムの耐久力が不足しています。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091350Z" creationid="hiru4" creationdate="20190403T062345Z">
+        <seg>アイテムの耐久値が不足しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11491,8 +12052,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The merchant does not have enough Silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052104Z" creationid="hiru4" creationdate="20190403T052104Z">
-        <seg>商人のシルバーが不足しています。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091406Z" creationid="hiru4" creationdate="20190403T052104Z">
+        <seg>商人の銀貨が不足しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,7 +13535,7 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You cannot do this now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062151Z" creationid="hiru4" creationdate="20190403T062151Z">
+      <tuv lang="JA" changeid="setom" changedate="20190403T091247Z" creationid="hiru4" creationdate="20190403T062151Z">
         <seg>今その行動はできません。</seg>
       </tuv>
     </tu>
@@ -13007,8 +13568,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You do not have enough Silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052110Z" creationid="hiru4" creationdate="20190403T052110Z">
-        <seg>シルバーが不足しています。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091417Z" creationid="hiru4" creationdate="20190403T052110Z">
+        <seg>銀貨が不足しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13684,8 +14245,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>{1} has been completed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051446Z" creationid="hiru4" creationdate="20190403T051446Z">
-        <seg>{1} が完了しました。」</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091052Z" creationid="hiru4" creationdate="20190403T051446Z">
+        <seg>{1} が完了しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,8 +14447,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>{1}’s log has been updated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051325Z" creationid="hiru4" creationdate="20190403T051325Z">
-        <seg>{1}のログが更新されました。」</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091045Z" creationid="hiru4" creationdate="20190403T051325Z">
+        <seg>{1}のログが更新されました。</seg>
       </tuv>
     </tu>
     <tu>
