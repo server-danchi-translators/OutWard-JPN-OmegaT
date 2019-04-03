@@ -2243,8 +2243,8 @@
       <tuv lang="EN-US">
         <seg>Bandit Lieutenant</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112228Z" creationid="Gaiden Shinji" creationdate="20190403T110522Z">
-        <seg>盗賊ルナテン</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110522Z">
+        <seg>盗賊小隊長</seg>
       </tuv>
     </tu>
     <tu>
@@ -2253,6 +2253,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110546Z" creationid="Gaiden Shinji" creationdate="20190403T110546Z">
         <seg>マンハンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Desert_Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113011Z" creationid="Gaiden Shinji" creationdate="20190403T113011Z">
+        <seg>盗賊Bandit_Desert_Captain</seg>
       </tuv>
     </tu>
     <tu>
@@ -4492,25 +4500,17 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Desert Archer</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112714Z" creationid="Gaiden Shinji" creationdate="20190403T110230Z">
-        <seg>砂漠の射</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Desert Bandit</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112228Z" creationid="Gaiden Shinji" creationdate="20190403T110241Z">
-        <seg>砂漠の盗賊</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113005Z" creationid="Gaiden Shinji" creationdate="20190403T113005Z">
+        <seg>砂漠の隊長</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Desert Captain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112703Z" creationid="Gaiden Shinji" creationdate="20190403T110255Z">
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112958Z" creationid="Gaiden Shinji" creationdate="20190403T110255Z">
         <seg>砂漠の隊長</seg>
       </tuv>
     </tu>
@@ -4518,8 +4518,8 @@
       <tuv lang="EN-US">
         <seg>Desert Lieutenant</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112750Z" creationid="Gaiden Shinji" creationdate="20190403T110303Z">
-        <seg>砂漠のルナテン</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110303Z">
+        <seg>砂漠の小隊長</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,8 +7519,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Kazite Archer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110331Z" creationid="Gaiden Shinji" creationdate="20190403T110331Z">
-        <seg>カザイトアーチャ</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112813Z" creationid="Gaiden Shinji" creationdate="20190403T110331Z">
+        <seg>カザイト射手</seg>
       </tuv>
     </tu>
     <tu>
@@ -7543,8 +7543,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Kazite Lieutenant</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110413Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
-        <seg>カザイトルナテン</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
+        <seg>カザイト小隊長</seg>
       </tuv>
     </tu>
     <tu>
