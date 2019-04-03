@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Whoa there, now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054029Z" creationid="はぐくみ会" creationdate="20190403T054029Z">
+        <seg>"おっ、今だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062000Z" creationid="setom" creationdate="20190402T062000Z">
@@ -1514,6 +1522,15 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094434Z" creationid="setom" creationdate="20190402T094434Z">
         <seg>9 – クイックスロット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A warm voice reaches you through the haze of pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053950Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
+        <seg>暖かい声が痛みの霞を通してあなたに届く。
+</seg>
       </tuv>
     </tu>
     <tu>
