@@ -5060,6 +5060,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disease: Acute Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134844Z" creationid="totochan" creationdate="20190403T134844Z">
+        <seg>病気：急性のかぜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disease: Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134832Z" creationid="totochan" creationdate="20190403T134832Z">
+        <seg>病気：かぜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023354Z" creationid="hiru4" creationdate="20190402T023354Z">
@@ -6888,6 +6904,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122948Z" creationid="setom" creationdate="20190401T122948Z">
         <seg>携行品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has a chance to make you vomit when eating, nullifying the food’s effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134858Z" creationid="totochan" creationdate="20190403T134858Z">
+        <seg>食べたときに嘔吐する可能性があり、食べ物の効果を無効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11807,6 +11831,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical Damage +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134749Z" creationid="totochan" creationdate="20190403T134730Z">
+        <seg>物理ダメージ+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Defenses Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134617Z" creationid="totochan" creationdate="20190403T134617Z">
+        <seg>物理的防御上昇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physical Protection</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113732Z" creationid="setom" creationdate="20190401T113732Z">
@@ -13256,6 +13296,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rune with no effect but can be combined with other runes in the correct order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134716Z" creationid="totochan" creationdate="20190403T134716Z">
+        <seg>ルーンの効果なし、正しいルーンを組み合わせてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rusty oil lantern with a weak flame.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080841Z" creationid="rkmad" creationdate="20190403T080754Z">
@@ -14204,6 +14252,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134133Z" creationid="totochan" creationdate="20190403T134133Z">
         <seg>スタミナ消費-[E4V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Regen [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134812Z" creationid="totochan" creationdate="20190403T134812Z">
+        <seg>スタミナ回復[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
