@@ -3211,6 +3211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chersonese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115005Z" creationid="Gaiden Shinji" creationdate="20190403T115005Z">
+        <seg>チェルソネシス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chersonese Misc.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114810Z" creationid="Gaiden Shinji" creationdate="20190403T114810Z">
@@ -3239,6 +3247,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193348Z" creationid="totochan" creationdate="20190402T193348Z">
         <seg>セーブの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cierzo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115041Z" creationid="Gaiden Shinji" creationdate="20190403T115041Z">
+        <seg>シエルゾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cierzo Dungeon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115100Z" creationid="Gaiden Shinji" creationdate="20190403T115100Z">
+        <seg>シエルゾダンジョン</seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,6 +3335,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113642Z" creationid="setom" creationdate="20190401T113642Z">
         <seg>低温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold seaside mountains, teeming with wildlife and many bandit clans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115037Z" creationid="Gaiden Shinji" creationdate="20190403T115037Z">
+        <seg>冷たい海辺の山々には、野生動物や盗賊の一族がたくさんいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4467,10 +4499,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Ziggurat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115144Z" creationid="Gaiden Shinji" creationdate="20190403T115144Z">
+        <seg>ダークジグラット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Ziggurat Interior</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115154Z" creationid="Gaiden Shinji" creationdate="20190403T115154Z">
+        <seg>ダークジグラットインテリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Day</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115852Z" creationid="setom" creationdate="20190401T115852Z">
         <seg>日</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dead Roots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115223Z" creationid="Gaiden Shinji" creationdate="20190403T115223Z">
+        <seg>デッドルート</seg>
       </tuv>
     </tu>
     <tu>
@@ -6228,6 +6284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giants’ Village</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115129Z" creationid="Gaiden Shinji" creationdate="20190403T115129Z">
+        <seg>ジャイアントの村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go Back to Main Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
@@ -6549,6 +6613,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hermit's House</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114943Z" creationid="Gaiden Shinji" creationdate="20190403T114943Z">
+        <seg>隠者の家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heroic Kingdom’s Conflux Path</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114634Z" creationid="Gaiden Shinji" creationdate="20190403T114634Z">
@@ -6811,6 +6883,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110826Z" creationid="Gaiden Shinji" creationdate="20190403T110826Z">
         <seg>穢れなき者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immaculate's Cave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114953Z" creationid="Gaiden Shinji" creationdate="20190403T114953Z">
+        <seg>穢れなき洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -7705,6 +7785,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104112Z" creationid="setom" creationdate="20190402T104112Z">
         <seg>帰航の際に船が座礁したのだ。私がまだ息をしているのが僅かながらの幸運だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade Quarry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115121Z" creationid="Gaiden Shinji" creationdate="20190403T115121Z">
+        <seg>玉採石場</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,6 +12122,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reptilian Lair</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115135Z" creationid="Gaiden Shinji" creationdate="20190403T115135Z">
+        <seg>爬虫類の隠れ家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: 1-Handed Sword Close combat attack which deals high Damage and Impact, and inflicts Pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T074144Z" creationid="rkmad" creationdate="20190403T074144Z">
@@ -12978,6 +13074,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spire of Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115202Z" creationid="Gaiden Shinji" creationdate="20190403T115202Z">
+        <seg>光の尖塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SplitScreen_Stop_Message</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091555Z" creationid="setom" creationdate="20190403T091555Z">
@@ -13022,6 +13126,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113655Z" creationid="Gaiden Shinji" creationdate="20190403T113655Z">
         <seg>スターマッシュルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starfish Cave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114936Z" creationid="Gaiden Shinji" creationdate="20190403T114936Z">
+        <seg>ヒトデ洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -14349,6 +14461,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114346Z" creationid="Gaiden Shinji" creationdate="20190403T114346Z">
         <seg>木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trog Infiltration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114929Z" creationid="Gaiden Shinji" creationdate="20190403T114929Z">
+        <seg>トロッグの侵入</seg>
       </tuv>
     </tu>
     <tu>
@@ -16213,6 +16333,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170737Z" creationid="setom" creationdate="20190402T170737Z">
         <seg>Yzan_beach_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ziggurat Passage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115211Z" creationid="Gaiden Shinji" creationdate="20190403T115211Z">
+        <seg>ジグラットパッセージ</seg>
       </tuv>
     </tu>
     <tu>
