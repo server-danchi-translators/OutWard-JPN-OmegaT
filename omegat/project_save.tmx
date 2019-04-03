@@ -3427,6 +3427,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T144618Z" creationid="Horizon" creationdate="20190403T144618Z">
+        <seg>チャット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check your Dashboard and make sure the AppId you use is complete and correct.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070903Z" creationid="hiru4" creationdate="20190403T070903Z">
@@ -14444,6 +14452,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
         <seg>効果音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special Attack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T144645Z" creationid="Horizon" creationdate="20190403T144645Z">
+        <seg>特殊攻撃</seg>
       </tuv>
     </tu>
     <tu>
