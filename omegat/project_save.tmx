@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"You lack Reason.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061952Z" creationid="はぐくみ会" creationdate="20190403T061952Z">
+        <seg>"特に意味はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062000Z" creationid="setom" creationdate="20190402T062000Z">
@@ -2005,6 +2013,15 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064931Z" creationid="setom" creationdate="20190402T064931Z">
         <seg>木や鉄でできた基本的な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be thankful for the Wind of Kindness, for it bore me to you in your time of need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062035Z" creationid="はぐくみ会" creationdate="20190403T062035Z">
+        <seg>優しさの風に感謝しなさい、それはあなたが必要としている時に私に吹いたのだから。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4993,6 +5010,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hours later, you awake to find yourself in a small hovel with an old man smoking a pipe, who smirks at you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061850Z" creationid="はぐくみ会" creationdate="20190403T061850Z">
+        <seg>数時間後、あなたは老人がパイプを吸っている小さな小屋で目を覚ました。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How long do you want to sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071232Z" creationid="hiru4" creationdate="20190402T071232Z">
@@ -7675,6 +7701,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
         <seg>[InputAction_Attack1]で通常攻撃が、[InputAction_Attack2]で特殊攻撃ができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps more care in the future will do you good, hmmm?"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062137Z" creationid="はぐくみ会" creationdate="20190403T062137Z">
+        <seg>もっと注意を払うことであなたはうまくいくでしょう。hmmm？"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11319,6 +11353,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111701Z" creationid="setom" creationdate="20190331T111701Z">
         <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your consciousness fades again for a few minutes, before you manage to get up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061812Z" creationid="はぐくみ会" creationdate="20190403T061812Z">
+        <seg>あなたが立ち上がろうとするが、あなたの意識は数分間再び消える。</seg>
       </tuv>
     </tu>
     <tu>
