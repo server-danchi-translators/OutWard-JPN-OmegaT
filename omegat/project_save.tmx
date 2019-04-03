@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>"Whoa there, now!</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054029Z" creationid="はぐくみ会" creationdate="20190403T054029Z">
-        <seg>"おっ、今だ！</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060741Z" creationid="はぐくみ会" creationdate="20190403T054029Z">
+        <seg>"おっ、起きたか！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,6 +5746,23 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s hard work, but eventually you succeed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060644Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
+        <seg>それは大変な仕事だが、結局あなたは成功します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s time to make your escape!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060619Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
+        <seg>脱出する時が来た！
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m lucky to still be breathing after our ship hit rocks on the return voyage.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104112Z" creationid="setom" creationdate="20190402T104112Z">
@@ -9703,8 +9720,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The miserable cries of your fellow prisoners fill the air as you are shoved into iron cages, and left to stew in total darkness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060418Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
-        <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残されました。煮込んでシチューにするために。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060702Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
+        <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んでシチューにするために。</seg>
       </tuv>
     </tu>
     <tu>
