@@ -1680,6 +1680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An infused weapon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T054309Z" creationid="hiru4" creationdate="20190403T054309Z">
+        <seg>装填済みの武器が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An unusual possession of the ancient great hunter.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T065247Z" creationid="setom" creationdate="20190402T065247Z">
@@ -2017,6 +2025,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blessed Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T061333Z" creationid="hiru4" creationdate="20190403T060423Z">
+        <seg>Blessed Boonが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T100436Z" creationid="setom" creationdate="20190331T110921Z">
@@ -2117,6 +2133,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
         <seg>輝度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bullets are required in your inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053719Z" creationid="hiru4" creationdate="20190403T053719Z">
+        <seg>弾丸はあなたの所持品に必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2937,6 +2961,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cool Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T061318Z" creationid="hiru4" creationdate="20190403T060612Z">
+        <seg>Cool Boonが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooldown</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020703Z" creationid="hiru4" creationdate="20190402T020703Z">
@@ -3365,6 +3397,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095304Z" creationid="setom" creationdate="20190402T095304Z">
         <seg>Dialogue_DefaultEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discipline Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T060356Z" creationid="hiru4" creationdate="20190403T060356Z">
+        <seg>規律の恩恵が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5467,6 +5507,22 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053846Z" creationid="hiru4" creationdate="20190403T053846Z">
+        <seg>動かせない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not open from here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053908Z" creationid="hiru4" creationdate="20190403T053908Z">
+        <seg>ここからでは開けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a monstrous beast that walks on two legs, red pulsing veins running along its body.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061556Z" creationid="はぐくみ会" creationdate="20190403T061556Z">
@@ -5480,6 +5536,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060813Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
         <seg>意識を取り戻すまでの数時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is locked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053840Z" creationid="hiru4" creationdate="20190403T053840Z">
+        <seg>ロックされている</seg>
       </tuv>
     </tu>
     <tu>
@@ -7647,6 +7711,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pistol is already infused.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062013Z" creationid="hiru4" creationdate="20190403T062013Z">
+        <seg>ピストルはすでに装填されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114108Z" creationid="setom" creationdate="20190331T114108Z">
@@ -8267,6 +8339,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113445Z" creationid="setom" creationdate="20190401T113445Z">
         <seg>種族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rage Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T061347Z" creationid="hiru4" creationdate="20190403T054254Z">
+        <seg>Rage Boonが必要です。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9808,6 +9888,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is not enough room in {1} to store everything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053734Z" creationid="hiru4" creationdate="20190403T053734Z">
+        <seg>{1}のすべてを収納するスペースが不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's also plenty of Gaberries growing around here if you’re still hungry afterwards.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170802Z" creationid="setom" creationdate="20190402T170525Z">
@@ -10392,6 +10480,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warm Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T061258Z" creationid="hiru4" creationdate="20190403T061258Z">
+        <seg>Warm Boonが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022458Z" creationid="hiru4" creationdate="20190402T022458Z">
@@ -10636,6 +10732,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
         <seg>野生の獣は体の一部をドロップする。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind Altar is not activated in this region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T060413Z" creationid="hiru4" creationdate="20190403T060413Z">
+        <seg>風の祭壇は、この地域で活性化されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11443,6 +11547,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0}({1}) not active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053752Z" creationid="hiru4" creationdate="20190403T053752Z">
+        <seg>{0}({1})アクティブではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} broke.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194510Z" creationid="totochan" creationdate="20190402T194510Z">
@@ -11539,6 +11651,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} is already trying to go to a different area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053823Z" creationid="hiru4" creationdate="20190403T053823Z">
+        <seg>{1}は、別のエリアに移動しようとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} is already used.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194300Z" creationid="totochan" creationdate="20190402T194300Z">
@@ -11603,6 +11723,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} must be empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052847Z" creationid="hiru4" creationdate="20190403T052847Z">
+        <seg>{1}空でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} must be learned prior to unlock this skill.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052734Z" creationid="hiru4" creationdate="20190403T052734Z">
@@ -11623,6 +11751,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194616Z" creationid="totochan" creationdate="20190402T194616Z">
         <seg>{1}のレシピを覚えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} wants to go to {2}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T053810Z" creationid="hiru4" creationdate="20190403T053810Z">
+        <seg>{1}から{2}へ</seg>
       </tuv>
     </tu>
     <tu>
