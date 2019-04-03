@@ -14681,6 +14681,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You awaken, overwhelmed by a sense of paranoia and terror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T105724Z" creationid="はぐくみ会" creationdate="20190403T105724Z">
+        <seg>あなたは目覚める。妄想と恐怖の感覚に圧倒されて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also move away from attacks by holding [InputAction_Sprint] to Sprint.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075409Z" creationid="setom" creationdate="20190401T075724Z">
@@ -15161,6 +15169,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061730Z" creationid="はぐくみ会" creationdate="20190403T061730Z">
         <seg>それは本を手に持ち、静かに笑っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You see one of the Vigil crystals up above...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T105850Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
+        <seg>あなたは上に Vigil クリスタルの1つを見つける...</seg>
       </tuv>
     </tu>
     <tu>
