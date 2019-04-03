@@ -3035,6 +3035,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Character Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161810Z" creationid="Horizon" creationdate="20190403T161722Z">
+        <seg>キャラクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Name</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113440Z" creationid="setom" creationdate="20190401T113440Z">
@@ -14408,6 +14416,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show/Hide Map</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161621Z" creationid="Horizon" creationdate="20190403T161621Z">
+        <seg>マップの表示/非表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simply place a lantern in your backpack inventory, lighting the lantern if it is not lit already.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111721Z" creationid="setom" creationdate="20190331T111721Z">
@@ -14861,6 +14877,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033936Z" creationid="setom" creationdate="20190401T033936Z">
         <seg>Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Status Effect Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161753Z" creationid="Horizon" creationdate="20190403T161753Z">
+        <seg>ステータス</seg>
       </tuv>
     </tu>
     <tu>
