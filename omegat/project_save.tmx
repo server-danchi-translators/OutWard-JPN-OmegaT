@@ -4883,6 +4883,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decay Damage and Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134536Z" creationid="totochan" creationdate="20190403T134536Z">
+        <seg>崩壊ダメージと耐性[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114817Z" creationid="setom" creationdate="20190401T114817Z">
@@ -6004,6 +6012,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost Damage and Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134353Z" creationid="totochan" creationdate="20190403T134303Z">
+        <seg>フロストダメージ耐性+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost Damage and Resistance [E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134047Z" creationid="totochan" creationdate="20190403T134047Z">
@@ -7089,6 +7105,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114043Z" creationid="setom" creationdate="20190401T114034Z">
         <seg>暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot Weather Def +[E2V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134424Z" creationid="totochan" creationdate="20190403T134424Z">
+        <seg>耐熱補正 +[E2V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -9676,6 +9700,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement Speed [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134504Z" creationid="totochan" creationdate="20190403T134504Z">
+        <seg>移動速度[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement, Stamina Cost and Hot Weather penalties from heavy armors is reduced.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071250Z" creationid="hiru4" creationdate="20190403T071250Z">
@@ -11787,6 +11819,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113625Z" creationid="setom" creationdate="20190401T113606Z">
         <seg>物理耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical and Impact Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134558Z" creationid="totochan" creationdate="20190403T134558Z">
+        <seg>物理と打撃抵抗+[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
