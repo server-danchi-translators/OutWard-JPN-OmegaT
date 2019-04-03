@@ -7229,6 +7229,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He pats a large backpack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T235606Z" creationid="はぐくみ会" creationdate="20190403T235418Z">
+        <seg>彼は巨大な背負い袋を軽く叩く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head armor which reduces the damage you receive.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083741Z" creationid="totochan" creationdate="20190402T083741Z">
@@ -18589,6 +18597,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T234402Z" creationid="はぐくみ会" creationdate="20190403T234402Z">
         <seg>“こんにちは、小さきヒトよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“I have things in here for to prevent you from being in trouble again!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T235832Z" creationid="はぐくみ会" creationdate="20190403T235832Z">
+        <seg>“この  Silvernose は、あなたが再び悩むことが無いように、ここにものを持っているよ！</seg>
       </tuv>
     </tu>
     <tu>
