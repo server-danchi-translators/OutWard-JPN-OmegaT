@@ -8481,6 +8481,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about the Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062919Z" creationid="hiru4" creationdate="20190403T062719Z">
+        <seg>Read about the Tutorial_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recipes with multiple ingredients require a Kitchen or a Cooking Pot deployed on a fire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083636Z" creationid="setom" creationdate="20190402T083154Z">
@@ -10947,6 +10955,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are coughing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062616Z" creationid="hiru4" creationdate="20190403T062616Z">
+        <seg>咳をしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are hot.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051139Z" creationid="hiru4" creationdate="20190403T051139Z">
@@ -11223,6 +11239,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
         <seg>お互いが離れすぎているため休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You could not keep it in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062649Z" creationid="hiru4" creationdate="20190403T062649Z">
+        <seg>維持することができませんでした.</seg>
       </tuv>
     </tu>
     <tu>
