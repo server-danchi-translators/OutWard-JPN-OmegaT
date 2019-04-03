@@ -11983,6 +11983,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone must have brought you back home and nursed you back to health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T093057Z" creationid="はぐくみ会" creationdate="20190403T093057Z">
+        <seg>誰かがあなたを家に持ち帰り、手当てしてくれたのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -14824,6 +14832,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T143104Z" creationid="setom" creationdate="20190402T143104Z">
         <seg>服も着ねぇで歩き回ってみろ、風邪引いちまうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re not sure how long you’ve been unconscious...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T093207Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
+        <seg>どれだけ長く気を失っていたのか...</seg>
       </tuv>
     </tu>
     <tu>
