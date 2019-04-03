@@ -12802,6 +12802,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ghost drops your arm, and turns away, motioning to slam the long-gone door into place and twisting a "key" into the air, before marching away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T092136Z" creationid="はぐくみ会" creationdate="20190403T091808Z">
+        <seg>幽霊はあなたの腕を離し、向きを変え、扉を所定の位置に押し込み、空中で「鍵」をひねるように動かす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The item does not have enough durability.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091350Z" creationid="hiru4" creationdate="20190403T062345Z">
@@ -14757,8 +14765,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Your journey ends at a broken old cell whose door has long since fallen away.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091709Z" creationid="はぐくみ会" creationdate="20190403T091709Z">
-        <seg>あなたの旅は、古い独房で終わる。扉がずっと昔に落ち無くなった壊れた独房で。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091838Z" creationid="はぐくみ会" creationdate="20190403T091709Z">
+        <seg>あなたの旅は、古い独房で終わる。扉がずっと昔に落ちた壊れた独房で。</seg>
       </tuv>
     </tu>
     <tu>
