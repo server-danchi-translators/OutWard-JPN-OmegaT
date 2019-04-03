@@ -12006,6 +12006,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are in no state to resist as she binds your hands and blindfolds you, and forces you to march.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084317Z" creationid="はぐくみ会" creationdate="20190403T084317Z">
+        <seg>彼女はあなたの手を縛り、あなたを目隠しし、そして行進を強制するので、あなたは抵抗できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are thirsty.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051219Z" creationid="hiru4" creationdate="20190403T051219Z">
@@ -12383,6 +12391,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094954Z" creationid="setom" creationdate="20190331T111954Z">
         <seg>所持品、ひいてはバックパックもスペースには限りがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You hear bandit activity loud all around you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084513Z" creationid="はぐくみ会" creationdate="20190403T084513Z">
+        <seg>あなたの周りの至る所で、略奪が行われている音や声がする。</seg>
       </tuv>
     </tu>
     <tu>
