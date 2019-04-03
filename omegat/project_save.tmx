@@ -3459,6 +3459,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134059Z" creationid="totochan" creationdate="20190403T134059Z">
+        <seg>冷やす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a character</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193355Z" creationid="totochan" creationdate="20190402T193355Z">
@@ -3551,6 +3559,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083607Z" creationid="totochan" creationdate="20190402T083607Z">
         <seg>耐冷防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold Weather Def +[E3V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134119Z" creationid="totochan" creationdate="20190403T134119Z">
+        <seg>冷気耐性 +[E3V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -3663,6 +3679,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114527Z" creationid="Gaiden Shinji" creationdate="20190403T114527Z">
         <seg>コンフラックスチャンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confusion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134248Z" creationid="totochan" creationdate="20190403T134248Z">
+        <seg>混乱</seg>
       </tuv>
     </tu>
     <tu>
@@ -5980,6 +6004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost Damage and Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134047Z" creationid="totochan" creationdate="20190403T134047Z">
+        <seg>フロストへの耐性[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Full</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113916Z" creationid="setom" creationdate="20190401T113916Z">
@@ -7323,6 +7355,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113705Z" creationid="setom" creationdate="20190401T113705Z">
         <seg>打撃耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134207Z" creationid="totochan" creationdate="20190403T134207Z">
+        <seg>耐打撃性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -13944,6 +13984,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep: Cierzo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134153Z" creationid="totochan" creationdate="20190403T134153Z">
+        <seg>睡眠：Cierzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep_Title_LocalPlayer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095139Z" creationid="setom" creationdate="20190402T095139Z">
@@ -14092,6 +14140,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133223Z" creationid="totochan" creationdate="20190403T133134Z">
         <seg>スタミナ消費-[E3V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost of actions -[E4V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134133Z" creationid="totochan" creationdate="20190403T134133Z">
+        <seg>スタミナ消費-[E4V1]%</seg>
       </tuv>
     </tu>
     <tu>
