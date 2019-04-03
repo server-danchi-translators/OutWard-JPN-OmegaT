@@ -10733,6 +10733,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Montcalm tribe appear to have mistaken you for dead...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084023Z" creationid="はぐくみ会" creationdate="20190403T084023Z">
+        <seg>Montcalm の部族はあなたを死者と間違えたようだ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Photon Cloud rejected the sent AppId.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070847Z" creationid="hiru4" creationdate="20190403T070847Z">
@@ -11877,6 +11885,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With great effort, you pull yourself free, and find yourself outside rough wooden walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T083941Z" creationid="はぐくみ会" creationdate="20190403T083941Z">
+        <seg>多大な努力を払って、あなたは自分を解放し、荒い木製の壁の外にでた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114322Z" creationid="urakata" creationdate="20190331T071251Z">
@@ -12048,8 +12064,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You awake from the verge of death, corpses piled on top of you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T083832Z" creationid="はぐくみ会" creationdate="20190403T083832Z">
-        <seg>死の寸前から目が覚めた、死体があなたの上に積まれています。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T083903Z" creationid="はぐくみ会" creationdate="20190403T083832Z">
+        <seg>死の寸前から目が覚めた、死体があなたの上に積まれている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,6 +12640,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054400Z" creationid="はぐくみ会" creationdate="20190403T054400Z">
         <seg>あなたの目は開いていて、あなたは自分自身が安全だと感じる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your eyes open to the sight of a Kazite woman pointing a sword right between your eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084150Z" creationid="はぐくみ会" creationdate="20190403T084150Z">
+        <seg>目を開けると、Kazite の女性があなたの両目の間に刀を向けている。</seg>
       </tuv>
     </tu>
     <tu>
