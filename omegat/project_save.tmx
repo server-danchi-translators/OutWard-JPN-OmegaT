@@ -3179,6 +3179,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumes your Cool boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T071626Z" creationid="rkmad" creationdate="20190403T071626Z">
+        <seg>このスペルを使用した際 Cool boon は失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Container</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115009Z" creationid="setom" creationdate="20190401T115009Z">
@@ -9136,6 +9144,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023810Z" creationid="hiru4" creationdate="20190402T023810Z">
         <seg>修理すると装備品の耐久が回復します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T071555Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>Required: Cool Boon 構えた武器に氷の力を付与し、追加ダメージと鈍足効果を与える。</seg>
       </tuv>
     </tu>
     <tu>
