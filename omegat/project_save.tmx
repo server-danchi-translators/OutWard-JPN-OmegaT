@@ -5788,6 +5788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FishingSpot_Fish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130516Z" creationid="setom" creationdate="20190403T130516Z">
+        <seg>FishingSpot_Fish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the red line to learn about the game’s mechanics.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072352Z" creationid="setom" creationdate="20190401T072352Z">
@@ -5984,6 +5992,30 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112715Z" creationid="setom" creationdate="20190331T112715Z">
         <seg>植物やキノコの採集は、食料探しの最も基本的な方法だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gem_Emerald</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130517Z" creationid="setom" creationdate="20190403T130517Z">
+        <seg>Gem_Emerald</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gem_Ruby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130518Z" creationid="setom" creationdate="20190403T130518Z">
+        <seg>Gem_Ruby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gem_Sapphire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130519Z" creationid="setom" creationdate="20190403T130519Z">
+        <seg>Gem_Sapphire</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,8 +7649,8 @@
       <tuv lang="EN-US">
         <seg>Iron vein</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114216Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
-        <seg>鉱脈(アイアン)</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130616Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
+        <seg>鉄鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,6 +9372,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Misc_PearlBirdNest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130520Z" creationid="setom" creationdate="20190403T130520Z">
+        <seg>Misc_PearlBirdNest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Missing some ingredients.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193847Z" creationid="totochan" creationdate="20190402T193847Z">
@@ -9472,6 +9512,30 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020911Z" creationid="hiru4" creationdate="20190402T020911Z">
         <seg>移動速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushrooms_Bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130520Z" creationid="setom" creationdate="20190403T130520Z">
+        <seg>Mushrooms_Bleeding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushrooms_Green</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130521Z" creationid="setom" creationdate="20190403T130521Z">
+        <seg>Mushrooms_Green</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushrooms_Star</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130522Z" creationid="setom" creationdate="20190403T130522Z">
+        <seg>Mushrooms_Star</seg>
       </tuv>
     </tu>
     <tu>
@@ -11417,8 +11481,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Palladium vein</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114316Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
-        <seg>鉱脈(パラジウム)</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130627Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
+        <seg>パラジウム鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,6 +11635,102 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114108Z" creationid="setom" creationdate="20190331T114108Z">
         <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Cactus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130523Z" creationid="setom" creationdate="20190403T130523Z">
+        <seg>Plant_Cactus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Crabeye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130523Z" creationid="setom" creationdate="20190403T130523Z">
+        <seg>Plant_Crabeye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Gaberries</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130524Z" creationid="setom" creationdate="20190403T130524Z">
+        <seg>Plant_Gaberries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_GhostPlant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130525Z" creationid="setom" creationdate="20190403T130525Z">
+        <seg>Plant_GhostPlant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Livweedy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130528Z" creationid="setom" creationdate="20190403T130528Z">
+        <seg>Plant_Livweedy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Marshmelon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130528Z" creationid="setom" creationdate="20190403T130528Z">
+        <seg>Plant_Marshmelon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Rafflampy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130529Z" creationid="setom" creationdate="20190403T130529Z">
+        <seg>Plant_Rafflampy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Seaweed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130530Z" creationid="setom" creationdate="20190403T130530Z">
+        <seg>Plant_Seaweed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_SmokeRoot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130531Z" creationid="setom" creationdate="20190403T130531Z">
+        <seg>Plant_SmokeRoot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Tree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130544Z" creationid="setom" creationdate="20190403T130544Z">
+        <seg>Plant_Tree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Turmmip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130532Z" creationid="setom" creationdate="20190403T130532Z">
+        <seg>Plant_Turmmip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plant_Woolshroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130533Z" creationid="setom" creationdate="20190403T130533Z">
+        <seg>Plant_Woolshroom</seg>
       </tuv>
     </tu>
     <tu>
@@ -12738,8 +12898,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rich Iron vein</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114231Z" creationid="Gaiden Shinji" creationdate="20190403T114231Z">
-        <seg>鉱脈(リッチアイアン)</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130610Z" creationid="Gaiden Shinji" creationdate="20190403T114231Z">
+        <seg>豊かな鉄鉱脈</seg>
       </tuv>
     </tu>
     <tu>
@@ -12748,6 +12908,86 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071634Z" creationid="hiru4" creationdate="20190402T071634Z">
         <seg>川の水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_Ammolite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130533Z" creationid="setom" creationdate="20190403T130533Z">
+        <seg>Rock_Ammolite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_BlueSand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130534Z" creationid="setom" creationdate="20190403T130534Z">
+        <seg>Rock_BlueSand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_CopalYellow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130535Z" creationid="setom" creationdate="20190403T130535Z">
+        <seg>Rock_CopalYellow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_Iron</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130536Z" creationid="setom" creationdate="20190403T130536Z">
+        <seg>Rock_Iron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_IronRich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130537Z" creationid="setom" creationdate="20190403T130537Z">
+        <seg>Rock_IronRich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_ManaStone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130539Z" creationid="setom" creationdate="20190403T130539Z">
+        <seg>Rock_ManaStone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130541Z" creationid="setom" creationdate="20190403T130541Z">
+        <seg>Rock_Oil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_Palladium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130542Z" creationid="setom" creationdate="20190403T130542Z">
+        <seg>Rock_Palladium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_PetrifiedWood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130543Z" creationid="setom" creationdate="20190403T130543Z">
+        <seg>Rock_PetrifiedWood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock_Salt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130542Z" creationid="setom" creationdate="20190403T130542Z">
+        <seg>Rock_Salt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12794,8 +13034,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114325Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
-        <seg>ソルトクリスタル</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
+        <seg>岩塩</seg>
       </tuv>
     </tu>
     <tu>
