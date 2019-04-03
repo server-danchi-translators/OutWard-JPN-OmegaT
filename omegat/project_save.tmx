@@ -2177,6 +2177,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110502Z" creationid="Gaiden Shinji" creationdate="20190403T110502Z">
+        <seg>バンディット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110457Z" creationid="Gaiden Shinji" creationdate="20190403T110457Z">
+        <seg>アーチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110509Z" creationid="Gaiden Shinji" creationdate="20190403T110509Z">
+        <seg>キャプテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Defender</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110516Z" creationid="Gaiden Shinji" creationdate="20190403T110516Z">
+        <seg>ディフェンダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Lieutenant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110522Z" creationid="Gaiden Shinji" creationdate="20190403T110522Z">
+        <seg>バンディットルナテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Manhunter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110546Z" creationid="Gaiden Shinji" creationdate="20190403T110546Z">
+        <seg>マンハンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Stats</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
@@ -6447,6 +6495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ice Witch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110607Z" creationid="Gaiden Shinji" creationdate="20190403T110559Z">
+        <seg>アイスウィッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the attack hits the enemy’s back, the damage and impact are tripled.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T070341Z" creationid="rkmad" creationdate="20190403T070252Z">
@@ -7381,6 +7437,38 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kazite Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110331Z" creationid="Gaiden Shinji" creationdate="20190403T110331Z">
+        <seg>カザイトアーチャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Bandit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110401Z" creationid="Gaiden Shinji" creationdate="20190403T110401Z">
+        <seg>カザイトバンディット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110407Z" creationid="Gaiden Shinji" creationdate="20190403T110407Z">
+        <seg>カザイトキャプテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Lieutenant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110413Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
+        <seg>カザイトルナテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep your temperature neutral with appropriate clothes, certain types of food or campfires.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
@@ -7801,6 +7889,38 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023232Z" creationid="hiru4" creationdate="20190402T023232Z">
         <seg>マップ 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110423Z" creationid="Gaiden Shinji" creationdate="20190403T110423Z">
+        <seg>マーシュアーチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Archer Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110450Z" creationid="Gaiden Shinji" creationdate="20190403T110450Z">
+        <seg>マーシュアーチャーキャプテン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Bandit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110433Z" creationid="Gaiden Shinji" creationdate="20190403T110433Z">
+        <seg>マーシュバンディット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110441Z" creationid="Gaiden Shinji" creationdate="20190403T110441Z">
+        <seg>マーシュキャプテン</seg>
       </tuv>
     </tu>
     <tu>
@@ -13925,6 +14045,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Witch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110554Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
+        <seg>ベンダベルウィッチVendavel Witch</seg>
       </tuv>
     </tu>
     <tu>
