@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2300091</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122652Z" creationid="setom" creationdate="20190403T122652Z">
+        <seg>2300091</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>24 – Cold Temperatures</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094714Z" creationid="setom" creationdate="20190402T094714Z">
@@ -1602,6 +1610,14 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102434Z" creationid="はぐくみ会" creationdate="20190403T102434Z">
         <seg>宣教師が Monsoon の宿にあなたを連れていき、去っていったのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A shield made long ago to be ornamental, due to its weight, but that is still useful in combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122649Z" creationid="setom" creationdate="20190403T122634Z">
+        <seg>遥か昔に観賞用として作られた盾だが、その重さもあいまって戦闘でも使える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,6 +2285,166 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110546Z" creationid="Gaiden Shinji" creationdate="20190403T110546Z">
         <seg>マンハンター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Desert_Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122141Z" creationid="setom" creationdate="20190403T122141Z">
+        <seg>Bandit_Desert_Archer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Desert_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122142Z" creationid="setom" creationdate="20190403T122142Z">
+        <seg>Bandit_Desert_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Desert_Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122143Z" creationid="setom" creationdate="20190403T122143Z">
+        <seg>Bandit_Desert_Captain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Desert_Lieutenant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122143Z" creationid="setom" creationdate="20190403T122143Z">
+        <seg>Bandit_Desert_Lieutenant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_IceWitch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122156Z" creationid="setom" creationdate="20190403T122156Z">
+        <seg>Bandit_IceWitch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Kazite_Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122144Z" creationid="setom" creationdate="20190403T122144Z">
+        <seg>Bandit_Kazite_Archer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Kazite_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122145Z" creationid="setom" creationdate="20190403T122145Z">
+        <seg>Bandit_Kazite_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Kazite_Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122145Z" creationid="setom" creationdate="20190403T122145Z">
+        <seg>Bandit_Kazite_Captain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Kazite_Lieutenant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122146Z" creationid="setom" creationdate="20190403T122146Z">
+        <seg>Bandit_Kazite_Lieutenant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Marsh_Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122147Z" creationid="setom" creationdate="20190403T122147Z">
+        <seg>Bandit_Marsh_Archer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Marsh_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122148Z" creationid="setom" creationdate="20190403T122148Z">
+        <seg>Bandit_Marsh_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Marsh_Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122148Z" creationid="setom" creationdate="20190403T122148Z">
+        <seg>Bandit_Marsh_Captain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Marsh_CaptainArcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122151Z" creationid="setom" creationdate="20190403T122151Z">
+        <seg>Bandit_Marsh_CaptainArcher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122151Z" creationid="setom" creationdate="20190403T122151Z">
+        <seg>Bandit_Standard_Archer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122152Z" creationid="setom" creationdate="20190403T122152Z">
+        <seg>Bandit_Standard_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_Captain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122153Z" creationid="setom" creationdate="20190403T122153Z">
+        <seg>Bandit_Standard_Captain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122154Z" creationid="setom" creationdate="20190403T122154Z">
+        <seg>Bandit_Standard_Defense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_Lieutenant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122154Z" creationid="setom" creationdate="20190403T122154Z">
+        <seg>Bandit_Standard_Lieutenant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_Standard_ManhunterArcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122155Z" creationid="setom" creationdate="20190403T122155Z">
+        <seg>Bandit_Standard_ManhunterArcher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit_VendavelWitch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T122156Z" creationid="setom" creationdate="20190403T122156Z">
+        <seg>Bandit_VendavelWitch</seg>
       </tuv>
     </tu>
     <tu>
@@ -4423,6 +4599,94 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T093118Z" creationid="setom" creationdate="20190403T093118Z">
         <seg>DS_23_GhostPrisoner_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_25_CierzoHome_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111403Z" creationid="setom" creationdate="20190403T111403Z">
+        <seg>DS_25_CierzoHome_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_31_BergInn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111405Z" creationid="setom" creationdate="20190403T111405Z">
+        <seg>DS_31_BergInn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_32_BergDoors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111407Z" creationid="setom" creationdate="20190403T111407Z">
+        <seg>DS_32_BergDoors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_39_LevantInn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111408Z" creationid="setom" creationdate="20190403T111408Z">
+        <seg>DS_39_LevantInn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_40_LevantDoors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111410Z" creationid="setom" creationdate="20190403T111410Z">
+        <seg>DS_40_LevantDoors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_43_HMD2_Entrance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111411Z" creationid="setom" creationdate="20190403T111411Z">
+        <seg>DS_43_HMD2_Entrance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_49_MonsoonInn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111413Z" creationid="setom" creationdate="20190403T111413Z">
+        <seg>DS_49_MonsoonInn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_50_MonsoonDoors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111414Z" creationid="setom" creationdate="20190403T111414Z">
+        <seg>DS_50_MonsoonDoors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_51_CierzoHomeTuto</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111415Z" creationid="setom" creationdate="20190403T111415Z">
+        <seg>DS_51_CierzoHomeTuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_51_CierzoHomeTuto_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111417Z" creationid="setom" creationdate="20190403T111417Z">
+        <seg>DS_51_CierzoHomeTuto_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_52_Vigile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T111418Z" creationid="setom" creationdate="20190403T111418Z">
+        <seg>DS_52_Vigile</seg>
       </tuv>
     </tu>
     <tu>
