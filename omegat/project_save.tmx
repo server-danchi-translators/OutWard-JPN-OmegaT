@@ -3773,8 +3773,8 @@
       <tuv lang="EN-US">
         <seg>Drink that carries a risk of Indigestion, a serious disease.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T075614Z" creationid="rkmad" creationdate="20190403T075505Z">
-        <seg>飲むことは出来るが、この水を飲むと病気になるかもしれない。喉が乾いているのでなければ、そのまま飲むべきではないだろう。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T075723Z" creationid="rkmad" creationdate="20190403T075505Z">
+        <seg>飲むことは出来るが、この水を飲むと病気になるかもしれない。よほど喉が乾いているのでなければ、そのまま飲むべきではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,6 +11009,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
         <seg>これが間違いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This will also provide Salt, which can be used in cooking or alchemy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T075829Z" creationid="rkmad" creationdate="20190403T075829Z">
+        <seg>また、沸騰させることで塩も同時に得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
