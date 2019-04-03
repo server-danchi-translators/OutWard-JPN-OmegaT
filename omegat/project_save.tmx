@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A game with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071037Z" creationid="hiru4" creationdate="20190403T071037Z">
+        <seg>同じ名前のゲームが既に存在します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055856Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
@@ -2903,6 +2911,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114345Z" creationid="setom" creationdate="20190401T114345Z">
         <seg>CharacterStatus_Tab_StatusEffect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your Dashboard and make sure the AppId you use is complete and correct.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070903Z" creationid="hiru4" creationdate="20190403T070903Z">
+        <seg>ダッシュボードをチェックして、使用するAppIdが完全で正しいことを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4487,6 +4503,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193251Z" creationid="totochan" creationdate="20190402T193251Z">
         <seg>全画面Fullscreen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game is closed and cannot be joined at the moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071059Z" creationid="hiru4" creationdate="20190403T071051Z">
+        <seg>ゲームは終了し、現在参加することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game is full.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071024Z" creationid="hiru4" creationdate="20190403T071024Z">
+        <seg>ゲームはいっぱいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,6 +7414,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051539Z" creationid="hiru4" creationdate="20190403T051539Z">
         <seg>対応する武器や弾薬を装備していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No game found with the given name.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071125Z" creationid="hiru4" creationdate="20190403T071125Z">
+        <seg>指定された名前のゲームは見つかりませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10557,10 +10597,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Authentication ticket expired.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070915Z" creationid="hiru4" creationdate="20190403T070915Z">
+        <seg>認証チケットが期限切れです。再度接続して対処してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Journal is a menu tab used to track your next tasks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112721Z" creationid="setom" creationdate="20190331T112721Z">
         <seg>メニュータブのジャーナルは次の仕事の追跡に使用される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Photon Cloud rejected the sent AppId.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070847Z" creationid="hiru4" creationdate="20190403T070847Z">
+        <seg>PhotonCloudは送信されたAppIdを拒否しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10809,6 +10865,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114303Z" creationid="setom" creationdate="20190401T114138Z">
         <seg>喉が渇いた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is often due to the host being currently loading.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071055Z" creationid="hiru4" creationdate="20190403T071055Z">
+        <seg>これは多くの場合、ホストが現在ロード中であることが原因です。&lt;</seg>
       </tuv>
     </tu>
     <tu>
