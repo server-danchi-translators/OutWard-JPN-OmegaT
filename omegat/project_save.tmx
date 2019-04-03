@@ -5911,10 +5911,26 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual Recipe allows you to brew concoctions whose recipe you don’t know yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T012901Z" creationid="hiru4" creationdate="20190403T012901Z">
+        <seg>マニュアルレシピを使用すると、まだレシピを知らないレシピの発見と製造ができます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual Recipe is used to make potions whose recipe you don’t know yet.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114504Z" creationid="setom" creationdate="20190401T114504Z">
         <seg>マニュアルレシピは、レシピを知らないポーションを作るために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manual recipe allows the discovery of new crafting recipes, such as weapons made from monster parts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T012617Z" creationid="hiru4" creationdate="20190403T012617Z">
+        <seg>マニュアルレシピにより、モンスターの部位を使って新しい武器の製造レシピの発見が可能.</seg>
       </tuv>
     </tu>
     <tu>
