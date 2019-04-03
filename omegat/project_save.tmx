@@ -14104,6 +14104,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sheathe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145826Z" creationid="Horizon" creationdate="20190403T145826Z">
+        <seg>抜刀/納刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shell Horror</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110833Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
@@ -15859,6 +15867,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T101733Z" creationid="はぐくみ会" creationdate="20190403T095947Z">
         <seg>傭兵の集団は Levant の門にあなたを安全に連れ戻す。あなたの安心のために！無償で！
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toggle Lights</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145928Z" creationid="Horizon" creationdate="20190403T145928Z">
+        <seg>ライトのオン/オフ</seg>
       </tuv>
     </tu>
     <tu>
