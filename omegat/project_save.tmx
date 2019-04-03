@@ -14172,6 +14172,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We’re grateful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T101159Z" creationid="rkmad" creationdate="20190403T101127Z">
+        <seg>感謝するわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We’ve paid the debt caused by her actions ever since.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103622Z" creationid="setom" creationdate="20190402T103544Z">
@@ -15829,6 +15837,16 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T100646Z" creationid="rkmad" creationdate="20190403T095953Z">
         <seg>ああ、包帯を持ってきてくれたのね。よくやったわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2475_0</prop>
+      <tuv lang="EN-US">
+        <seg>thanks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T101150Z" creationid="rkmad" creationdate="20190403T101150Z">
+        <seg>本当にありがとう。</seg>
       </tuv>
     </tu>
     <tu>
