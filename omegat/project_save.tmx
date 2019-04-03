@@ -3581,8 +3581,8 @@
       <tuv lang="EN-US">
         <seg>Cold Weather Def +[E3V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134119Z" creationid="totochan" creationdate="20190403T134119Z">
-        <seg>冷気耐性 +[E3V1].</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141917Z" creationid="totochan" creationdate="20190403T134119Z">
+        <seg>冷気耐性 +[E3V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,8 +6198,8 @@
       <tuv lang="EN-US">
         <seg>Frost Damage and Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134047Z" creationid="totochan" creationdate="20190403T134047Z">
-        <seg>フロストへの耐性[E1V1]%.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141902Z" creationid="totochan" creationdate="20190403T134047Z">
+        <seg>フロストへの耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -12113,8 +12113,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical and Impact Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134558Z" creationid="totochan" creationdate="20190403T134558Z">
-        <seg>物理と打撃抵抗+[E1V1]%.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141955Z" creationid="totochan" creationdate="20190403T134558Z">
+        <seg>物理と打撃抵抗+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
