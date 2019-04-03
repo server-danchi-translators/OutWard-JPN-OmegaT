@@ -9478,8 +9478,8 @@
       <tuv lang="EN-US">
         <seg>My grandmother brought ruin to our tribe long ago, bringing a heavy Blood Price upon my family.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T103606Z" creationid="setom" creationdate="20190402T103441Z">
-        <seg>祖母が過去に部族を没落させ、一族の血の価値も酷く落とした。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T124831Z" creationid="setom" creationdate="20190402T103441Z">
+        <seg>祖母が過去に部族を没落させ、一族の血の価値も酷く落としたのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16955,8 +16955,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} {2} added.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194551Z" creationid="totochan" creationdate="20190402T194551Z">
-        <seg>{1}{2}を追加</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T124959Z" creationid="totochan" creationdate="20190402T194551Z">
+        <seg>{2}を{1}つ追加</seg>
       </tuv>
     </tu>
     <tu>
