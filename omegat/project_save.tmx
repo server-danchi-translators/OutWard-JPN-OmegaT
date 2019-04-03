@@ -3627,6 +3627,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Defenceless, you cannot stop the approach of the ghostly figure that bears down on you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090939Z" creationid="はぐくみ会" creationdate="20190403T090939Z">
+        <seg>身を守るすべが無い。あなたを圧迫する、幽霊のような姿が接近してくるのを止めることができない。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Defense</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114339Z" creationid="setom" creationdate="20190401T114339Z">
@@ -6076,6 +6085,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053840Z" creationid="hiru4" creationdate="20190403T053840Z">
         <seg>ロックされている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the dull aches that wake you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090508Z" creationid="はぐくみ会" creationdate="20190403T090508Z">
+        <seg>鈍い痛みに目が覚める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,6 +10888,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The magical auras are not gone, but now you can sense their source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090554Z" creationid="はぐくみ会" creationdate="20190403T090554Z">
+        <seg>魔法のオーラは消えたわけでは無い、今、あなたはそれらの出所を感じることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The merchant does not have enough Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052104Z" creationid="hiru4" creationdate="20190403T052104Z">
@@ -12077,6 +12102,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084317Z" creationid="はぐくみ会" creationdate="20190403T084317Z">
         <seg>彼女はあなたの手を縛り、あなたを目隠しし、そして行進を強制するので、あなたは抵抗できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are in the central chamber below the Conflux Mountain, in the care of the Watchers of the Ley Line...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090636Z" creationid="はぐくみ会" creationdate="20190403T090636Z">
+        <seg>あなたは Ley Line の監視人の世話で、Conflux Mountain の下の中央の部屋にいる...</seg>
       </tuv>
     </tu>
     <tu>
