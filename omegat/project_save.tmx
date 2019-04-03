@@ -11495,6 +11495,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outward will close.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T132724Z" creationid="totochan" creationdate="20190403T132724Z">
+        <seg>Outward を閉じます。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oy, you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095244Z" creationid="rkmad" creationdate="20190403T095125Z">
