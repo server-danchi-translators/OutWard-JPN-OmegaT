@@ -1943,6 +1943,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102944Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
+        <seg>あなたの救世主を探しあたりを見回す。群衆の中に輝く白い装甲の誰かが消えるのを見た...
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you lift up your head, a shape moves in the corner of your eyes.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061426Z" creationid="はぐくみ会" creationdate="20190403T061426Z">
@@ -13248,8 +13257,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The smell of sweet incense greets you as you awaken from the fevered dreams of the last few days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102326Z" creationid="はぐくみ会" creationdate="20190403T102326Z">
-        <seg>あなたが過去数日間の熱い夢から目覚めたときに、甘い香の香りがあなたを迎えた。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102926Z" creationid="はぐくみ会" creationdate="20190403T102326Z">
+        <seg>あなたが過去数日間の熱い夢から目覚めたときに、甘い香の香りが辺りに漂っていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13739,6 +13748,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021122Z" creationid="hiru4" creationdate="20190402T021122Z">
         <seg>種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconsciousness comes quickly, and you dream of being ensnared in something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T103159Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
+        <seg>気絶は素早く訪れる。そして、あなたは何かに襲われる夢を見る。</seg>
       </tuv>
     </tu>
     <tu>
