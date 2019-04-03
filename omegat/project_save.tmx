@@ -14098,6 +14098,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When your eyes open, you find yourself wrapped up in a bed at the inn in Berg, having been unconscious for days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T094220Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
+        <seg>あなたは自分が Berg の宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your health or stamina decreases (e.g. during combat), your max health or stamina decreases.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
