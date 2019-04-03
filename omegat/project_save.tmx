@@ -9996,6 +9996,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Forward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161206Z" creationid="Horizon" creationdate="20190403T161206Z">
+        <seg>前に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Horizontally</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T150859Z" creationid="Horizon" creationdate="20190403T150859Z">
