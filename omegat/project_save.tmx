@@ -17829,6 +17829,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You wake up to see a butterfly resting on your nose, someplace quiet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T233058Z" creationid="はぐくみ会" creationdate="20190403T233058Z">
+        <seg>目が覚めると、蝶があなたの鼻の上にとまっているのが見える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will then be able to better target that enemy, especially with ranged weapons or skills.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113011Z" creationid="setom" creationdate="20190331T113011Z">
