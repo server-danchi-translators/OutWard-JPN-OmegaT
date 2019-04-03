@@ -15244,6 +15244,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You got lucky…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T112735Z" creationid="はぐくみ会" creationdate="20190403T112735Z">
+        <seg>幸運だ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have a transaction pending, are you sure you want to leave?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064503Z" creationid="hiru4" creationdate="20190403T064503Z">
