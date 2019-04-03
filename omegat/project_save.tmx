@@ -1927,6 +1927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor Penalties Reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071338Z" creationid="hiru4" creationdate="20190403T071338Z">
+        <seg>重装ペナルティー軽減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor piece that has the largest influence on defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083953Z" creationid="totochan" creationdate="20190402T083953Z">
@@ -2125,6 +2133,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023321Z" creationid="hiru4" creationdate="20190402T023321Z">
         <seg>音楽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authentication failed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071220Z" creationid="hiru4" creationdate="20190403T071220Z">
+        <seg>認証に失敗しました。外側が閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4303,6 +4319,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113316Z" creationid="setom" creationdate="20190401T113316Z">
         <seg>作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071156Z" creationid="hiru4" creationdate="20190403T071136Z">
+        <seg>ホストするる</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gradually slows your movement speed, as the weight increases.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071444Z" creationid="hiru4" creationdate="20190403T071444Z">
+        <seg>体重が増えるにつれて、徐々に移動速度が遅くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072147Z" creationid="rkmad" creationdate="20190403T072045Z">
@@ -8124,6 +8156,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join game</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071141Z" creationid="hiru4" creationdate="20190403T071141Z">
+        <seg>ゲームに参加します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joining...</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083038Z" creationid="totochan" creationdate="20190402T083038Z">
@@ -9512,6 +9552,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020911Z" creationid="hiru4" creationdate="20190402T020911Z">
         <seg>移動速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement, Stamina Cost and Hot Weather penalties from heavy armors is reduced.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071250Z" creationid="hiru4" creationdate="20190403T071250Z">
+        <seg>重装備によるペナルティは移動、スタミナ、体温</seg>
       </tuv>
     </tu>
     <tu>
@@ -11591,6 +11639,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical Attack Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071433Z" creationid="hiru4" creationdate="20190403T071433Z">
+        <seg>物理攻撃力上昇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physical Protection</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113732Z" creationid="setom" creationdate="20190401T113732Z">
@@ -12467,6 +12523,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083636Z" creationid="setom" creationdate="20190402T083154Z">
         <seg>複数の材料を使ったレシピであれば、キッチンか火にかけた料理鍋が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recover [E1V1] Health per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T132811Z" creationid="hiru4" creationdate="20190403T132811Z">
+        <seg>1秒あたりの[E1V1]ヘルスを回復する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15491,6 +15555,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T065550Z" creationid="rkmad" creationdate="20190403T065550Z">
         <seg>敵を蹴りノックバックさせ、スタミナを減少させる。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon Physical Damage +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T071357Z" creationid="hiru4" creationdate="20190403T071357Z">
+        <seg>武器の物理的ダメージ+%.</seg>
       </tuv>
     </tu>
     <tu>
