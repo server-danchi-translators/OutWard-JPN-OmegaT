@@ -9172,6 +9172,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: 1-Handed Sword Close combat attack which deals high Damage and Impact, and inflicts Pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T074144Z" creationid="rkmad" creationdate="20190403T074144Z">
+        <seg>Required: 1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T071818Z" creationid="rkmad" creationdate="20190403T071555Z">
