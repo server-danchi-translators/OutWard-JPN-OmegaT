@@ -2477,8 +2477,8 @@
       <tuv lang="EN-US">
         <seg>Certain skills require this boon to be active.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T072244Z" creationid="rkmad" creationdate="20190403T072244Z">
-        <seg>特定のスキルを使用する場合、Cool Boon を事前に付与しておく必要があります。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072447Z" creationid="rkmad" creationdate="20190403T072244Z">
+        <seg>特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
