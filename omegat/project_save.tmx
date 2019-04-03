@@ -1695,6 +1695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Aim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T144817Z" creationid="Horizon" creationdate="20190403T144817Z">
+        <seg>エイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alchemy is used to create consumable items with very potent properties, such as potions that heal instantly.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T013035Z" creationid="hiru4" creationdate="20190403T013035Z">
@@ -2558,6 +2566,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114512Z" creationid="Gaiden Shinji" creationdate="20190403T114512Z">
         <seg>ブリスターバロウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145052Z" creationid="Horizon" creationdate="20190403T145052Z">
+        <seg>ブロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -4431,6 +4447,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114930Z" creationid="setom" creationdate="20190401T114930Z">
         <seg>クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crouch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T144749Z" creationid="Horizon" creationdate="20190403T144749Z">
+        <seg>しゃがむ</seg>
       </tuv>
     </tu>
     <tu>
