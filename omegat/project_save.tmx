@@ -1632,6 +1632,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ActionCategory_QuickSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091857Z" creationid="setom" creationdate="20190403T091857Z">
+        <seg>ActionCategory_QuickSlot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T070727Z" creationid="hiru4" creationdate="20190402T070727Z">
@@ -3583,6 +3591,30 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090904Z" creationid="setom" creationdate="20190403T090904Z">
         <seg>ControlRemapping_ResetWarning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Back</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091921Z" creationid="setom" creationdate="20190403T091921Z">
+        <seg>Controller_Input_Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Delete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091909Z" creationid="setom" creationdate="20190403T091909Z">
+        <seg>Controller_Input_Delete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091918Z" creationid="setom" creationdate="20190403T091918Z">
+        <seg>Controller_Input_Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InputAction_Attack1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091858Z" creationid="setom" creationdate="20190403T091858Z">
+        <seg>InputAction_Attack1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_DialogueNext</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091903Z" creationid="setom" creationdate="20190403T091903Z">
+        <seg>InputAction_DialogueNext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Area_Travel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104903Z" creationid="setom" creationdate="20190402T104903Z">
@@ -7535,6 +7583,46 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064939Z" creationid="hiru4" creationdate="20190403T064939Z">
         <seg>設定の変更が適用されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_32758</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091815Z" creationid="setom" creationdate="20190403T091815Z">
+        <seg>MessageBox_Photon_32758</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_32764</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091814Z" creationid="setom" creationdate="20190403T091814Z">
+        <seg>MessageBox_Photon_32764</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_32765</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091811Z" creationid="setom" creationdate="20190403T091811Z">
+        <seg>MessageBox_Photon_32765</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_32766</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091813Z" creationid="setom" creationdate="20190403T091813Z">
+        <seg>MessageBox_Photon_32766</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_AuthenticationTicketExpired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091807Z" creationid="setom" creationdate="20190403T091807Z">
+        <seg>MessageBox_Photon_AuthenticationTicketExpired</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,6 +12124,46 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081216Z" creationid="setom" creationdate="20190402T081216Z">
         <seg>ステータス効果は画面左下に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_BagBurden_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091820Z" creationid="setom" creationdate="20190403T091820Z">
+        <seg>StatusEffect_BagBurden_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodWarm_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091834Z" creationid="setom" creationdate="20190403T091834Z">
+        <seg>StatusEffect_FoodWarm_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Hunger4_Full_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091852Z" creationid="setom" creationdate="20190403T091852Z">
+        <seg>StatusEffect_Hunger4_Full_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_PouchBurden_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091842Z" creationid="setom" creationdate="20190403T091842Z">
+        <seg>StatusEffect_PouchBurden_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WarmBoon_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091846Z" creationid="setom" creationdate="20190403T091846Z">
+        <seg>StatusEffect_WarmBoon_Name</seg>
       </tuv>
     </tu>
     <tu>
