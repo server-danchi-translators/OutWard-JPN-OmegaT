@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A cold voice reaches you through the haze of pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061220Z" creationid="はぐくみ会" creationdate="20190403T061220Z">
+        <seg>暖かい声が痛みの霞を通してあなたに届く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055856Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
@@ -1811,6 +1819,14 @@
         <seg>As you start to black out from the pain, you sense someone standing above you, defending you!</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053919Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
+        <seg>痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you start to black out from the pain, you sense something standing above you, defending you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060952Z" creationid="はぐくみ会" creationdate="20190403T060952Z">
         <seg>痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！</seg>
       </tuv>
     </tu>
@@ -5428,8 +5444,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>It is hours before you regain consciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053414Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
-        <seg>意識を取り戻すまでの数時間.</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060813Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
+        <seg>意識を取り戻すまでの数時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,8 +10648,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053444Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
-        <seg>あなたは殴られ血が流されていますが、生きている。
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060804Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg>あなたは殴られ血が流されているが、生きている。
 </seg>
       </tuv>
     </tu>
