@@ -8892,6 +8892,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lock (Toggle)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145507Z" creationid="Horizon" creationdate="20190403T145507Z">
+        <seg>ロックオン(切り替え)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locking on foes is essential with this skill.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T140031Z" creationid="Horizon" creationdate="20190403T135440Z">
@@ -14544,6 +14552,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sprint</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145410Z" creationid="Horizon" creationdate="20190403T145410Z">
+        <seg>ダッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
@@ -14862,6 +14878,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064622Z" creationid="hiru4" creationdate="20190403T064622Z">
         <seg>{1}をください</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take/Drop Bag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145728Z" creationid="Horizon" creationdate="20190403T145728Z">
+        <seg>バッグを拾う/落とす</seg>
       </tuv>
     </tu>
     <tu>
