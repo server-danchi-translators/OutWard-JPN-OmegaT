@@ -3571,10 +3571,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Weather Def +[E1V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140308Z" creationid="totochan" creationdate="20190403T140308Z">
+        <seg>冷気耐性 +[E3V1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Weather Def +[E3V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134119Z" creationid="totochan" creationdate="20190403T134119Z">
         <seg>冷気耐性 +[E3V1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cold Weather Def Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140345Z" creationid="totochan" creationdate="20190403T140345Z">
+        <seg>冷気耐性上昇</seg>
       </tuv>
     </tu>
     <tu>
@@ -7289,6 +7305,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114043Z" creationid="setom" creationdate="20190401T114034Z">
         <seg>暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot Weather Def +[E1V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140501Z" creationid="totochan" creationdate="20190403T140501Z">
+        <seg>高温耐性 +[E1V1].</seg>
       </tuv>
     </tu>
     <tu>
