@@ -3741,8 +3741,8 @@
       <tuv lang="EN-US">
         <seg>Do you wish to proceed?</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T193223Z" creationid="totochan" creationdate="20190402T193223Z">
-        <seg>どれくらい睡眠をとりますか？</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T081616Z" creationid="totochan" creationdate="20190402T193223Z">
+        <seg>続行しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -11905,6 +11905,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064756Z" creationid="hiru4" creationdate="20190403T064756Z">
         <seg>デフォルトマッピングにリセットしようとしています。処理しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are about to reset to default mapping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T081607Z" creationid="rkmad" creationdate="20190403T081607Z">
+        <seg>キーコンフィグをデフォルトに戻そうとしています。</seg>
       </tuv>
     </tu>
     <tu>
