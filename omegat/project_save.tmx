@@ -5935,6 +5935,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manual Recipe is used to make single-ingredient recipes, such as Grilled Meat, or to boil River Water into Clean Water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T013233Z" creationid="hiru4" creationdate="20190403T013233Z">
+        <seg>マニュアルレシピは、焼いた肉などの単一の材料から作られるレシピや、川の水を煮沸して飲料水にするために使用されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual recipe allows the discovery of new crafting recipes, such as weapons made from monster parts.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T012617Z" creationid="hiru4" creationdate="20190403T012617Z">
@@ -7173,6 +7181,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061527Z" creationid="setom" creationdate="20190402T061527Z">
         <seg>OptionMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or to create a dish with several ingredients, whose recipe you don't know yet!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T013347Z" creationid="hiru4" creationdate="20190403T013347Z">
+        <seg>他に、いくつかの食材を使って知らないレシピの料理を作ることができます！</seg>
       </tuv>
     </tu>
     <tu>
