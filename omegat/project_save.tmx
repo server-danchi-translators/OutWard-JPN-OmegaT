@@ -2688,6 +2688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clearly, dinner has been served!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055601Z" creationid="はぐくみ会" creationdate="20190403T055601Z">
+        <seg>夕食の準備が整ったことは明らかだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114856Z" creationid="setom" creationdate="20190401T114851Z">
@@ -4924,6 +4932,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113928Z" creationid="setom" creationdate="20190401T113928Z">
         <seg>空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hyenas howl nearby, hungry for flesh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055237Z" creationid="はぐくみ会" creationdate="20190403T055237Z">
+        <seg>ハイエナは空腹であり、遠吠えをしている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10481,6 +10497,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
         <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you finally come to and open your eyes, you see the half-eaten leg of some poor explorer inches from your face.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055146Z" creationid="はぐくみ会" creationdate="20190403T055146Z">
+        <seg>あなたがようやく目を開いたとき、貧弱な探検家のものであろう、半分食べられた足を見る。</seg>
       </tuv>
     </tu>
     <tu>
