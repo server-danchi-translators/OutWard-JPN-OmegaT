@@ -5315,6 +5315,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hours later you open your eyes again, imprisoned within the Montcalm Village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065337Z" creationid="はぐくみ会" creationdate="20190403T065337Z">
+        <seg>数時間後、 Montcalm の村の中に閉じ込められたあなたは再び目を開いた。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hours later, you awake to find yourself in a small hovel with an old man smoking a pipe, who smirks at you.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061850Z" creationid="はぐくみ会" creationdate="20190403T061850Z">
@@ -11902,6 +11911,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063206Z" creationid="はぐくみ会" creationdate="20190403T063022Z">
         <seg>少なくともあなたはまだ生きてるが、風邪をひいてしまったようだ...
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have no doubt they intend for your corpse to join the others dangling outside!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065537Z" creationid="はぐくみ会" creationdate="20190403T065537Z">
+        <seg>彼らがあなたの死体を外にぶら下がっている他の人たちに加わえようと意図しているのは間違いありません！</seg>
       </tuv>
     </tu>
     <tu>
