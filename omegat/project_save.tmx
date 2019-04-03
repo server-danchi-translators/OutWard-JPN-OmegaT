@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055856Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
+        <seg>鞭によりあなたの腕は叩きつけられ、夜通し走るように命じられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054520Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -11034,6 +11042,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114021Z" creationid="setom" creationdate="20190331T114021Z">
         <seg>あなたはキックのような僅かばかりのスキルを備えてゲームが始まる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wake from unconsciousness to see a bandit tying your hands together, and chaining you to a line of other prisoners.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055749Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
+        <seg>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
+</seg>
       </tuv>
     </tu>
     <tu>
