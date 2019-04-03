@@ -1609,9 +1609,8 @@
       <tuv lang="EN-US">
         <seg>A warm voice reaches you through the haze of pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053950Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
-        <seg>暖かい声が痛みの霞を通してあなたに届く。
-</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T095012Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
+        <seg>痛みで意識が霞む中、暖かい声があなたに届く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1947,8 +1946,8 @@
       <tuv lang="EN-US">
         <seg>As you start to black out from the pain, you sense someone standing above you, defending you!</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053919Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
-        <seg>痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T094919Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
+        <seg>痛みで意識が遠のこうとした直前に誰かがあなたの上に立っていることに気づいた。あなたを守っているのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6802,8 +6801,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>It ain't your time to die today.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054138Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
-        <seg>今日はまだあなたの死ぬ時ではない。
+      <tuv lang="JA" changeid="setom" changedate="20190403T095029Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
+        <seg>今日はまだ君の死ぬ時ではない。
 </seg>
       </tuv>
     </tu>
@@ -12419,8 +12418,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Stay with me, I'll look after you."</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054212Z" creationid="はぐくみ会" creationdate="20190403T054212Z">
-        <seg>私と一緒に居なさい、私はあなたの世話をします。"</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T095055Z" creationid="はぐくみ会" creationdate="20190403T054212Z">
+        <seg>私と一緒に居なさい、私があなたの世話をしよう。"</seg>
       </tuv>
     </tu>
     <tu>
