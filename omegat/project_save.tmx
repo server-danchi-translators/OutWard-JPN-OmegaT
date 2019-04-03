@@ -5099,6 +5099,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072045Z" creationid="rkmad" creationdate="20190403T072045Z">
+        <seg>氷属性のダメージと耐性を増加させる Cool Boon を付与します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphic Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022339Z" creationid="hiru4" creationdate="20190402T022339Z">
@@ -9150,8 +9158,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T071701Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>Required: Cool Boon 構えている近接武器へ一時的に氷の力を付与し、追加ダメージと鈍足効果を与える。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T071818Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>Required: Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
       </tuv>
     </tu>
     <tu>
