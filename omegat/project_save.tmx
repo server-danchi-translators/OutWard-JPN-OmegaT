@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character must be loaded before joining another game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064838Z" creationid="hiru4" creationdate="20190403T064838Z">
+        <seg>他のゲームに参加する前にキャラクターをロードする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A cold voice reaches you through the haze of pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061220Z" creationid="はぐくみ会" creationdate="20190403T061220Z">
@@ -1696,6 +1704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, you won’t be able to learn {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064633Z" creationid="hiru4" creationdate="20190403T064633Z">
+        <seg>あなたは{1}を学ぶことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023539Z" creationid="hiru4" creationdate="20190402T023539Z">
@@ -1836,6 +1852,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064405Z" creationid="hiru4" creationdate="20190403T064405Z">
         <seg>メインメニューに戻りますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to restart the demo?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064441Z" creationid="hiru4" creationdate="20190403T064441Z">
+        <seg>再開しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2005,6 +2029,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114841Z" creationid="setom" creationdate="20190401T114841Z">
         <seg>戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back to Main Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064421Z" creationid="hiru4" creationdate="20190403T064421Z">
+        <seg>メインメニューに戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Buy {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064524Z" creationid="hiru4" creationdate="20190403T064524Z">
+        <seg>{1}を購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the time you get back up, you are alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T064534Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
@@ -2263,6 +2303,30 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052255Z" creationid="hiru4" creationdate="20190403T052143Z">
         <seg>取引を完了できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot join another game while in split screen mode.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064821Z" creationid="hiru4" creationdate="20190403T064821Z">
+        <seg>分割画面モードでは、他のゲームに参加できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot join another game while in the tutorial.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064809Z" creationid="hiru4" creationdate="20190403T064809Z">
+        <seg>チュートリアル中は他のゲームに参加できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot join at this moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064849Z" creationid="hiru4" creationdate="20190403T064849Z">
+        <seg>現時点では参加できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2939,6 +3003,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connect an additional gamepad to enable split-screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064902Z" creationid="hiru4" creationdate="20190403T064902Z">
+        <seg>分割画面を有効にするには、追加のゲームパッドを接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection Error</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064927Z" creationid="hiru4" creationdate="20190403T064927Z">
+        <seg>接続エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection cannot be opened here.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062110Z" creationid="hiru4" creationdate="20190403T062110Z">
@@ -3611,6 +3691,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064536Z" creationid="hiru4" creationdate="20190403T064536Z">
+        <seg>{1}を捨てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Durability</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020829Z" creationid="hiru4" creationdate="20190402T020829Z">
@@ -4095,6 +4183,14 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055041Z" creationid="はぐくみ会" creationdate="20190403T055041Z">
         <seg>すべての岩石と隆起に叩きつけられ、痛みを引き起こす。そしてあなたは暗闇の中に引きずられる...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit Shop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064515Z" creationid="hiru4" creationdate="20190403T064515Z">
+        <seg>店を出る</seg>
       </tuv>
     </tu>
     <tu>
@@ -5280,6 +5376,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171504Z" creationid="setom" creationdate="20190402T171504Z">
         <seg>もしかしたらハイエナに出くわしちまったんじゃねぇかって心配なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you continue, these changes will be discarded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
+        <seg>よろしいですか？&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6601,6 +6705,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MessageBox_OptionsPending</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064939Z" creationid="hiru4" creationdate="20190403T064939Z">
+        <seg>設定の変更が適用されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message_Tutorial_Attacks</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073254Z" creationid="setom" creationdate="20190401T073254Z">
@@ -7005,6 +7117,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063018Z" creationid="hiru4" creationdate="20190403T063018Z">
         <seg>{1}に入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move {1} to {2}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064547Z" creationid="hiru4" creationdate="20190403T064547Z">
+        <seg>{1}を{2}に移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -8803,6 +8923,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove {1} from cart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064559Z" creationid="hiru4" creationdate="20190403T064559Z">
+        <seg>{1}を移動させる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removing negative effects is important between battles.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T150744Z" creationid="setom" creationdate="20190402T081345Z">
@@ -9035,6 +9163,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Restart Demo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064451Z" creationid="hiru4" creationdate="20190403T064451Z">
+        <seg>再起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resting</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024316Z" creationid="hiru4" creationdate="20190402T024316Z">
@@ -9235,10 +9371,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sell {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064608Z" creationid="hiru4" creationdate="20190403T064608Z">
+        <seg>{1}を売る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115349Z" creationid="setom" creationdate="20190401T115349Z">
         <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064911Z" creationid="hiru4" creationdate="20190403T064911Z">
+        <seg>設定が適用されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9571,6 +9723,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some changes to your settings have not been applied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064952Z" creationid="hiru4" creationdate="20190403T064952Z">
+        <seg>続行すると変更は破棄されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -9792,6 +9952,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080053Z" creationid="setom" creationdate="20190402T080053Z">
         <seg>テーブルのFire Stonesを取ってください、Fire Sigilsが唱えられるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064622Z" creationid="hiru4" creationdate="20190403T064622Z">
+        <seg>{1}をください</seg>
       </tuv>
     </tu>
     <tu>
@@ -10320,6 +10488,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112738Z" creationid="setom" creationdate="20190331T112738Z">
         <seg>ステータスメニューは装備に関連するものや現在影響を受けているものについての詳細を表示する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The teaching fee is {1} silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064651Z" creationid="hiru4" creationdate="20190403T064651Z">
+        <seg>授業料は{1}シルバーです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11292,6 +11468,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are about to learn {1}.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064645Z" creationid="hiru4" creationdate="20190403T064645Z">
+        <seg>あなたは{1}を学ぼうとしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are about to reset to default mapping, do you want to procced?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064756Z" creationid="hiru4" creationdate="20190403T064756Z">
+        <seg>デフォルトマッピングにリセットしようとしています。処理しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are about to stop split-screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064224Z" creationid="hiru4" creationdate="20190403T064054Z">
@@ -11676,6 +11868,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060534Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
         <seg>あなたは仕事を得る。刑務所のドアからボルトを無理やり押し出す仕事を。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have a transaction pending, are you sure you want to leave?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064503Z" creationid="hiru4" creationdate="20190403T064503Z">
+        <seg>取引が済んでいませんが、立ち去りますか？</seg>
       </tuv>
     </tu>
     <tu>
