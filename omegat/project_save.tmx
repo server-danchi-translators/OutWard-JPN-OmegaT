@@ -8244,6 +8244,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or refuse to work, and it's to 'The Hole' with ye!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084937Z" creationid="はぐくみ会" creationdate="20190403T084937Z">
+        <seg>それとも仕事を拒否するのなら、「穴」へ！"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or to create a dish with several ingredients, whose recipe you don't know yet!</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T013347Z" creationid="hiru4" creationdate="20190403T013347Z">
@@ -11905,6 +11913,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114322Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>力を振り絞り、死ぬ気で体を動かして再び意識を失った場所へと向かった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without the strength to fight, you can only watch helplessly as Troglodytes surround you, chittering in their barbaric language, and haul you through their cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085210Z" creationid="はぐくみ会" creationdate="20190403T085210Z">
+        <seg>戦う力がなければ、Troglodytes があなたを取り囲み、彼らの野蛮な言葉をさえずり、彼らの洞窟にあなたを運ぶ。</seg>
       </tuv>
     </tu>
     <tu>
