@@ -2064,8 +2064,8 @@
       <tuv lang="EN-US">
         <seg>Cannot complete transaction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052143Z" creationid="hiru4" creationdate="20190403T052143Z">
-        <seg>対応するアイテムを装備していません。</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052255Z" creationid="hiru4" creationdate="20190403T052143Z">
+        <seg>取引を完了できません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6609,8 +6609,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>No compatible item equipped.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052158Z" creationid="hiru4" creationdate="20190403T052158Z">
-        <seg>マナが不足しています</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052310Z" creationid="hiru4" creationdate="20190403T052158Z">
+        <seg>対応するアイテムを装備していません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,7 +6649,15 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Not enough Mana.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052212Z" creationid="hiru4" creationdate="20190403T052212Z">
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052322Z" creationid="hiru4" creationdate="20190403T052212Z">
+        <seg>マナが不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough Stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052343Z" creationid="hiru4" creationdate="20190403T052234Z">
         <seg>スタミナが不足しています。</seg>
       </tuv>
     </tu>
@@ -9537,6 +9545,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The alternative skill has already been learned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052451Z" creationid="hiru4" creationdate="20190403T052451Z">
+        <seg>別のスキルを既に習得しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The failures of my bloodline weigh heavy on me.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
@@ -10777,6 +10793,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must be part of the Blue Chamber to learn this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052506Z" creationid="hiru4" creationdate="20190403T052506Z">
+        <seg>スキルを学ぶためにBlue Chamberの一員でなければなりません。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must be part of the Heroic Kingdom of Levant to learn this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052605Z" creationid="hiru4" creationdate="20190403T052605Z">
+        <seg>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must deploy a trap trigger (like a Tripwire Trap) on the ground, then place a compatible object in it (like spikes or weapons).</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114127Z" creationid="setom" creationdate="20190331T114127Z">
@@ -11249,6 +11281,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052408Z" creationid="hiru4" creationdate="20190403T052408Z">
+        <seg>{1}が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} must be emptied before unequipping, but it can be dropped.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193805Z" creationid="totochan" creationdate="20190402T193805Z">
@@ -11319,6 +11359,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051325Z" creationid="hiru4" creationdate="20190403T051325Z">
         <seg>{1}のログが更新されました。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{2} {1} are required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052400Z" creationid="hiru4" creationdate="20190403T052400Z">
+        <seg>{2}と{1}が必要</seg>
       </tuv>
     </tu>
     <tu>
