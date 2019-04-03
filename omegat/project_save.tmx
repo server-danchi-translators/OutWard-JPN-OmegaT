@@ -5116,6 +5116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disease: Life Drain 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135433Z" creationid="totochan" creationdate="20190403T135433Z">
+        <seg>病気：ライフドレイン1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023354Z" creationid="hiru4" creationdate="20190402T023354Z">
@@ -8720,6 +8728,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
         <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose 10% of your health per minute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135248Z" creationid="totochan" creationdate="20190403T135248Z">
+        <seg>1分あたりあなたのヘルスの10%を失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15414,6 +15430,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This illness will eventually kill you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135257Z" creationid="totochan" creationdate="20190403T135257Z">
+        <seg>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This illness will kill you soon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135514Z" creationid="totochan" creationdate="20190403T135514Z">
+        <seg>病気は結局あなたを殺すでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is often due to the host being currently loading.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071055Z" creationid="hiru4" creationdate="20190403T071055Z">
@@ -17595,6 +17627,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115211Z" creationid="Gaiden Shinji" creationdate="20190403T115211Z">
         <seg>ジグラットパッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[E1V1]% maximum health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135420Z" creationid="totochan" creationdate="20190403T135420Z">
+        <seg>E1V1]最大ヘルス%</seg>
       </tuv>
     </tu>
     <tu>
