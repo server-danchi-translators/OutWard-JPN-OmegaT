@@ -2869,8 +2869,8 @@
       <tuv lang="EN-US">
         <seg>Cannot rest: You will fall unconscious from thirst.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051634Z" creationid="hiru4" creationdate="20190403T051634Z">
-        <seg>休息できない：喉の渇きから意識不明になります。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141751Z" creationid="hiru4" creationdate="20190403T051634Z">
+        <seg>休息できない：喉の渇きから意識不明になります</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,8 +8710,8 @@
       <tuv lang="EN-US">
         <seg>Lightning Damage and Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T133625Z" creationid="totochan" creationdate="20190403T133625Z">
-        <seg>ライトニングへの耐性+[E1V1]%.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141831Z" creationid="totochan" creationdate="20190403T133625Z">
+        <seg>ライトニングへの耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -8918,8 +8918,8 @@
       <tuv lang="EN-US">
         <seg>Lose [E1V1]% of your health per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T133408Z" creationid="totochan" creationdate="20190403T133408Z">
-        <seg>毎秒ヘルスの[E1V1%を失います。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141820Z" creationid="totochan" creationdate="20190403T133408Z">
+        <seg>毎秒ヘルスの[E1V1%を失います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11921,8 +11921,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Outward will close.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T132724Z" creationid="totochan" creationdate="20190403T132724Z">
-        <seg>Outward を閉じます。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141805Z" creationid="totochan" creationdate="20190403T132724Z">
+        <seg>Outward を閉じます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16425,8 +16425,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapon Physical Damage +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T071357Z" creationid="hiru4" creationdate="20190403T071357Z">
-        <seg>武器の物理的ダメージ+%.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
+        <seg>武器の物理的ダメージ+%</seg>
       </tuv>
     </tu>
     <tu>
@@ -16839,8 +16839,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are hungry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051102Z" creationid="hiru4" creationdate="20190403T051014Z">
-        <seg>お腹がすいている。」</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141557Z" creationid="hiru4" creationdate="20190403T051014Z">
+        <seg>お腹がすいている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16895,8 +16895,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are very hungry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051125Z" creationid="hiru4" creationdate="20190403T051125Z">
-        <seg>とてもお腹がすいている。」</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141615Z" creationid="hiru4" creationdate="20190403T051125Z">
+        <seg>とてもお腹がすいている。</seg>
       </tuv>
     </tu>
     <tu>
