@@ -6069,9 +6069,9 @@
       <tuv lang="EN-US">
         <seg>He lets you down gently at the city gates with a gruff “Watch yourself out there, you were nearly a manticore’s dinner!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T095014Z" creationid="はぐくみ会" creationdate="20190403T095014Z">
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T095033Z" creationid="はぐくみ会" creationdate="20190403T095014Z">
         <seg>彼は街の入り口で優しく降ろしてくれた。
- “気を付けた方がいい。お前はマンティコアの夕食になるところだったんだぞ！”</seg>
+ “気を付けろ、お前はマンティコアの夕食になるところだったんだぞ！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14445,6 +14445,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063450Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
         <seg>あなたは、Cierzoからの狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You awaken wrapped in silk sheets at Levant’s inn, apparently having been nursed back to health after several days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T095153Z" creationid="はぐくみ会" creationdate="20190403T095153Z">
+        <seg>あなたは Levant’s inn で絹のシーツに包まれて目を覚ました。数日後には健康に戻る。</seg>
       </tuv>
     </tu>
     <tu>
