@@ -13210,6 +13210,16 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">OutwardEn/item_all.xml</prop>
+      <prop type="id">2072_0</prop>
+      <tuv lang="EN-US">
+        <seg>It should be boiled over a campfire to produce Clean Water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080314Z" creationid="rkmad" creationdate="20190403T080314Z">
+        <seg>どうしても飲みたいというのであれば、焚き火で沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">OutwardEn/menu_all.xml</prop>
       <prop type="id">24_0</prop>
       <tuv lang="EN-US">
