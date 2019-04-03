@@ -7271,6 +7271,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the enemy has the Pain or Confusion hex, this attack’s damage and knockback are doubled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T134343Z" creationid="Horizon" creationdate="20190403T134343Z">
+        <seg>敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
@@ -12786,8 +12794,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Dagger attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T072756Z" creationid="rkmad" creationdate="20190403T072743Z">
-        <seg>Required: Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T134134Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>必要: Dagger 手に持った短剣による一撃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12810,8 +12818,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133647Z" creationid="Horizon" creationdate="20190403T133647Z">
-        <seg>必要: Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い打撃とダメージを与える。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133931Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要: Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12828,6 +12836,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062358Z" creationid="hiru4" creationdate="20190403T062358Z">
         <seg>要求が満たされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requires the Rage boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133926Z" creationid="Horizon" creationdate="20190403T133926Z">
+        <seg>Rage boonを発動している必要があります。</seg>
       </tuv>
     </tu>
     <tu>
