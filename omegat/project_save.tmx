@@ -9964,6 +9964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Vertically</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T151013Z" creationid="Horizon" creationdate="20190403T151013Z">
+        <seg>前後に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Bag</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063009Z" creationid="hiru4" creationdate="20190403T063009Z">
@@ -12753,8 +12761,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pouch Overweight</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194458Z" creationid="totochan" creationdate="20190402T194458Z">
-        <seg>ポーチが一杯です。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T154348Z" creationid="totochan" creationdate="20190402T194458Z">
+        <seg>ポケットが一杯です。</seg>
       </tuv>
     </tu>
     <tu>
