@@ -13144,6 +13144,278 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene_Berg_Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130908Z" creationid="setom" creationdate="20190403T130908Z">
+        <seg>Scene_Berg_Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Berg_OpenDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130911Z" creationid="setom" creationdate="20190403T130911Z">
+        <seg>Scene_Berg_OpenDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Berg_Town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130912Z" creationid="setom" creationdate="20190403T130912Z">
+        <seg>Scene_Berg_Town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Berg_TownDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130913Z" creationid="setom" creationdate="20190403T130913Z">
+        <seg>Scene_Berg_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130914Z" creationid="setom" creationdate="20190403T130914Z">
+        <seg>Scene_Chersonese_Dungeon1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon1Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130929Z" creationid="setom" creationdate="20190403T130929Z">
+        <seg>Scene_Chersonese_Dungeon1Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130924Z" creationid="setom" creationdate="20190403T130924Z">
+        <seg>Scene_Chersonese_Dungeon2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon2Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130930Z" creationid="setom" creationdate="20190403T130930Z">
+        <seg>Scene_Chersonese_Dungeon2Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130931Z" creationid="setom" creationdate="20190403T130931Z">
+        <seg>Scene_Chersonese_Dungeon3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon3Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130932Z" creationid="setom" creationdate="20190403T130932Z">
+        <seg>Scene_Chersonese_Dungeon3Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130933Z" creationid="setom" creationdate="20190403T130933Z">
+        <seg>Scene_Chersonese_Dungeon4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4BC</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130934Z" creationid="setom" creationdate="20190403T130934Z">
+        <seg>Scene_Chersonese_Dungeon4BC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4BCDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130936Z" creationid="setom" creationdate="20190403T130936Z">
+        <seg>Scene_Chersonese_Dungeon4BCDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130937Z" creationid="setom" creationdate="20190403T130937Z">
+        <seg>Scene_Chersonese_Dungeon4Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4HM</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130934Z" creationid="setom" creationdate="20190403T130934Z">
+        <seg>Scene_Chersonese_Dungeon4HM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4HMDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130937Z" creationid="setom" creationdate="20190403T130937Z">
+        <seg>Scene_Chersonese_Dungeon4HMDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4LV</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130935Z" creationid="setom" creationdate="20190403T130935Z">
+        <seg>Scene_Chersonese_Dungeon4LV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon4LVDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130938Z" creationid="setom" creationdate="20190403T130938Z">
+        <seg>Scene_Chersonese_Dungeon4LVDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130938Z" creationid="setom" creationdate="20190403T130938Z">
+        <seg>Scene_Chersonese_Dungeon5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon5Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130939Z" creationid="setom" creationdate="20190403T130939Z">
+        <seg>Scene_Chersonese_Dungeon5Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130940Z" creationid="setom" creationdate="20190403T130940Z">
+        <seg>Scene_Chersonese_Dungeon6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon6Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130940Z" creationid="setom" creationdate="20190403T130940Z">
+        <seg>Scene_Chersonese_Dungeon6Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130941Z" creationid="setom" creationdate="20190403T130941Z">
+        <seg>Scene_Chersonese_Dungeon7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon7Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130942Z" creationid="setom" creationdate="20190403T130942Z">
+        <seg>Scene_Chersonese_Dungeon7Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130943Z" creationid="setom" creationdate="20190403T130943Z">
+        <seg>Scene_Chersonese_Dungeon8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon8Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130943Z" creationid="setom" creationdate="20190403T130943Z">
+        <seg>Scene_Chersonese_Dungeon8Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130944Z" creationid="setom" creationdate="20190403T130944Z">
+        <seg>Scene_Chersonese_Dungeon9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_Dungeon9Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130944Z" creationid="setom" creationdate="20190403T130944Z">
+        <seg>Scene_Chersonese_Dungeon9Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130945Z" creationid="setom" creationdate="20190403T130945Z">
+        <seg>Scene_Chersonese_DungeonsSmall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130946Z" creationid="setom" creationdate="20190403T130946Z">
+        <seg>Scene_Chersonese_DungeonsSmall1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130947Z" creationid="setom" creationdate="20190403T130947Z">
+        <seg>Scene_Chersonese_DungeonsSmall2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130947Z" creationid="setom" creationdate="20190403T130947Z">
+        <seg>Scene_Chersonese_DungeonsSmall3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130948Z" creationid="setom" creationdate="20190403T130948Z">
+        <seg>Scene_Chersonese_DungeonsSmall4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmallDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T130946Z" creationid="setom" creationdate="20190403T130946Z">
+        <seg>Scene_Chersonese_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seaweed</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114007Z" creationid="Gaiden Shinji" creationdate="20190403T114007Z">
