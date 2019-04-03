@@ -3771,6 +3771,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drink that actually makes one more thirsty and is likely to cause Indigestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080042Z" creationid="rkmad" creationdate="20190403T080042Z">
+        <seg>海水を飲んだところで、喉が潤うどころか乾くばかりだ。また、病気になるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drink that carries a risk of Indigestion, a serious disease.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T075723Z" creationid="rkmad" creationdate="20190403T075505Z">
@@ -4471,6 +4479,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081621Z" creationid="setom" creationdate="20190402T081621Z">
         <seg>例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foul liquid that should be avoided at all costs, since it is almost certain to cause Indigestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080258Z" creationid="rkmad" creationdate="20190403T080258Z">
+        <seg>こんな汚い水を口にすれば、間違いなく病気にかかるだろう。絶対に飲んではならない。</seg>
       </tuv>
     </tu>
     <tu>
