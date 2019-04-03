@@ -5036,6 +5036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drink {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T125412Z" creationid="setom" creationdate="20190403T125412Z">
+        <seg>{1}を飲む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063029Z" creationid="hiru4" creationdate="20190403T063029Z">
@@ -6895,8 +6903,8 @@
       <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T165745Z" creationid="setom" creationdate="20190402T165629Z">
-        <seg>あいつはKaziteだぜ、 [PlayerName]。しかも船で生まれたんだぞ。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T125545Z" creationid="setom" creationdate="20190402T165629Z">
+        <seg>あいつはKaziteだぜ、 [PlayerName]。 しかも船で生まれたんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,6 +7363,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104903Z" creationid="setom" creationdate="20190402T104903Z">
         <seg>Interaction_Area_Travel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Base_DrinkWater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T125416Z" creationid="setom" creationdate="20190403T125416Z">
+        <seg>Interaction_Base_DrinkWater</seg>
       </tuv>
     </tu>
     <tu>
