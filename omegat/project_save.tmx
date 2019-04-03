@@ -13050,6 +13050,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The innkeeper has helped himself to your Silver to pay for your stay, but you are otherwise alive and healthy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T094502Z" creationid="はぐくみ会" creationdate="20190403T094502Z">
+        <seg>宿屋の主人は、あなたの銀に対して、あなたの滞在の代金を払うよう、手助けをしてくれた。それ以外は問題ない。健康だ。
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The item does not have enough durability.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091350Z" creationid="hiru4" creationdate="20190403T062345Z">
@@ -14094,6 +14103,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055146Z" creationid="はぐくみ会" creationdate="20190403T055146Z">
         <seg>あなたがようやく目を開いたとき、貧弱な探検家のものであろう、半分食べられた足を見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you next awake, you are being carried by a hunter from Berg, on his way back to the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T094651Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
+        <seg>あなたが次に目を覚ましたとき、あなたは Berg からのハンターによって運ばれていた。彼は街に帰る途中だ。
+</seg>
       </tuv>
     </tu>
     <tu>
