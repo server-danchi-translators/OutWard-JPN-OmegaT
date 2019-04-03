@@ -9864,6 +9864,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only your aching body tells you that the shipwreck you suffered was not a nightmare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T104233Z" creationid="はぐくみ会" creationdate="20190403T104233Z">
+        <seg>あなたの痛む肉体だけが、あの難破船は悪夢ではなかったとあなたに伝える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Game to Friends</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
@@ -14502,6 +14510,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are back in your old bed at home, the Lighthouse in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T104028Z" creationid="はぐくみ会" creationdate="20190403T104028Z">
+        <seg>あなたは家の古いベッド、Cierzo の Lighthouse に戻った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T093554Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
@@ -15356,6 +15372,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T093207Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
         <seg>どれだけ長く気を失っていたのか...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan must have brought you back to your family’s lighthouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T104154Z" creationid="はぐくみ会" creationdate="20190403T104154Z">
+        <seg>Yzan は、あなたをあなたの家族のいる lighthouse に連れ戻したのだ。</seg>
       </tuv>
     </tu>
     <tu>
