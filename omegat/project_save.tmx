@@ -1808,6 +1808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete {1} character?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063938Z" creationid="hiru4" creationdate="20190403T063938Z">
+        <seg>{1}を削除してよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor piece that has the largest influence on defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083953Z" creationid="totochan" creationdate="20190402T083953Z">
@@ -3418,6 +3426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete Save?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064019Z" creationid="hiru4" creationdate="20190403T064019Z">
+        <seg>削除を保存しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063221Z" creationid="hiru4" creationdate="20190403T063221Z">
@@ -3966,6 +3982,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141903Z" creationid="urakata" creationdate="20190331T141903Z">
         <seg>Errand_Monsoon_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063844Z" creationid="hiru4" creationdate="20190403T063844Z">
+        <seg>エラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,6 +6132,22 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063622Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
         <seg>彼女に寄りかかって、あなたはなんとか生き残った。死にかけだが、Cierzoに戻ってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063915Z" creationid="hiru4" creationdate="20190403T063915Z">
+        <seg>チュートリアルを終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave the tutorial?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063905Z" creationid="hiru4" creationdate="20190403T063905Z">
+        <seg>チュートリアルを終了しますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,6 +9538,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SplitScreen_Stop_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064100Z" creationid="hiru4" creationdate="20190403T064100Z">
+        <seg>分割画面を停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
@@ -10875,6 +10923,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063839Z" creationid="hiru4" creationdate="20190403T063839Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022458Z" creationid="hiru4" creationdate="20190402T022458Z">
@@ -11167,6 +11223,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114022Z" creationid="setom" creationdate="20190331T114022Z">
         <seg>幾つかの役に立つサバイバルクラフトレシピも知っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are about to stop split-screen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T064054Z" creationid="hiru4" creationdate="20190403T064054Z">
+        <seg>分割画面を停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -11821,6 +11885,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T071223Z" creationid="urakata" creationdate="20190331T071223Z">
         <seg>敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your name cannot be empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063925Z" creationid="hiru4" creationdate="20190403T063925Z">
+        <seg>名前は空白にできません</seg>
       </tuv>
     </tu>
     <tu>
