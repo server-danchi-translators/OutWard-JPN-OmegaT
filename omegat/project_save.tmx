@@ -5467,6 +5467,15 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a monstrous beast that walks on two legs, red pulsing veins running along its body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061556Z" creationid="はぐくみ会" creationdate="20190403T061556Z">
+        <seg>それは2本足で歩く、巨大な獣で、その体には赤く脈動をする血管が沿っている。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is hours before you regain consciousness.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060813Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
@@ -9719,6 +9728,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The creature must have saved you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061630Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
+        <seg>その怪物はあなたを救ったにちがいない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The failures of my bloodline weigh heavy on me.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
@@ -11117,6 +11134,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
         <seg>欲求が満たせなければ、ペナルティを受けることになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You see it holding a book in its hands, as it lets out a quiet laugh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061730Z" creationid="はぐくみ会" creationdate="20190403T061730Z">
+        <seg>それは本を手に持ち、静かに笑っている。</seg>
       </tuv>
     </tu>
     <tu>
