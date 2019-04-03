@@ -5628,6 +5628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethereal Resistance +[E4V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133211Z" creationid="totochan" creationdate="20190403T133211Z">
+        <seg>エーテル耐性+[E4V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eto made it out alive too?</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T165433Z" creationid="setom" creationdate="20190402T165433Z">
@@ -8504,6 +8512,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
         <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose [E1V1]% of your health per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133408Z" creationid="totochan" creationdate="20190403T133408Z">
+        <seg>毎秒ヘルスの[E1V1%を失います。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13996,6 +14012,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021108Z" creationid="hiru4" creationdate="20190402T021108Z">
         <seg>消費スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost of actions -[E3V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133223Z" creationid="totochan" creationdate="20190403T133134Z">
+        <seg>スタミナ消費-[E3V1]%</seg>
       </tuv>
     </tu>
     <tu>
