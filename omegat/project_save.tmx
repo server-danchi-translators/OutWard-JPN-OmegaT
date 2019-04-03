@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"Here's how it goes slave!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084651Z" creationid="はぐくみ会" creationdate="20190403T084651Z">
+        <seg>"これが奴隷になる方法だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Whoa there, now!</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060741Z" creationid="はぐくみ会" creationdate="20190403T054029Z">
@@ -11909,6 +11917,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Work when we tell you to, and you’ll get food and water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084820Z" creationid="はぐくみ会" creationdate="20190403T084820Z">
+        <seg>私たちの命令通りに働け、あなたは食べ物と水を手に入れることができる。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You also know several useful survival crafting recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114022Z" creationid="setom" creationdate="20190331T114022Z">
@@ -12616,6 +12633,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062434Z" creationid="hiru4" creationdate="20190403T062434Z">
         <seg>体温が正常に戻りました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your captor boots you into a cell and slams cold iron bars behind you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084619Z" creationid="はぐくみ会" creationdate="20190403T084619Z">
+        <seg>あなたを捕獲した者はあなたを独房に入れ、あなたの後ろに冷たい鉄の棒を打ちつける。
+</seg>
       </tuv>
     </tu>
     <tu>
