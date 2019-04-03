@@ -2866,6 +2866,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection cannot be opened here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062110Z" creationid="hiru4" creationdate="20190403T062110Z">
+        <seg>ここで接続を開くことはできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection is ready.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062123Z" creationid="hiru4" creationdate="20190403T062123Z">
+        <seg>接続の準備が完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection to the server has been lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193148Z" creationid="totochan" creationdate="20190402T193148Z">
@@ -3014,6 +3030,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083141Z" creationid="totochan" creationdate="20190402T083141Z">
         <seg>ワールドに参加できません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not open connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062214Z" creationid="hiru4" creationdate="20190403T062214Z">
+        <seg>接続を開くことができませんでした。/</seg>
       </tuv>
     </tu>
     <tu>
@@ -6671,6 +6695,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mist Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062056Z" creationid="hiru4" creationdate="20190403T062056Z">
+        <seg>Mist Boonが必要です。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
@@ -6863,6 +6895,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No compatible melee weapon equipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062202Z" creationid="hiru4" creationdate="20190403T062202Z">
+        <seg>対応する近接武器を装備していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No compatible weapon or ammunition equipped.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051539Z" creationid="hiru4" creationdate="20190403T051539Z">
@@ -6907,6 +6947,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052343Z" creationid="hiru4" creationdate="20190403T052234Z">
         <seg>スタミナが不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not enough rations to travel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062227Z" creationid="hiru4" creationdate="20190403T062227Z">
+        <seg>移動するための食糧が不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -8173,6 +8221,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083345Z" creationid="totochan" creationdate="20190402T083345Z">
         <seg>ポジティブ効果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Boon is required.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062034Z" creationid="hiru4" creationdate="20190403T062034Z">
+        <seg>Possessed Boonが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,6 +9922,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The item does not have enough durability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062345Z" creationid="hiru4" creationdate="20190403T062345Z">
+        <seg>アイテムの耐久力が不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The last thing I remember was our ship hitting a rock...</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T142428Z" creationid="setom" creationdate="20190402T141553Z">
@@ -11099,6 +11163,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot do this now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062151Z" creationid="hiru4" creationdate="20190403T062151Z">
+        <seg>今その行動はできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot rest too far away from each other.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
@@ -11111,6 +11183,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052110Z" creationid="hiru4" creationdate="20190403T052110Z">
         <seg>シルバーが不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not have the required training.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062140Z" creationid="hiru4" creationdate="20190403T062140Z">
+        <seg>必要な訓練を受けていません。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11553,6 +11633,30 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T144019Z" creationid="setom" creationdate="20190402T133615Z">
         <seg>こんにちは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>has connected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062302Z" creationid="hiru4" creationdate="20190403T062302Z">
+        <seg>接続完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>has disconnected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062248Z" creationid="hiru4" creationdate="20190403T062248Z">
+        <seg>切断されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>has started connecting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062239Z" creationid="hiru4" creationdate="20190403T062239Z">
+        <seg>接続開始</seg>
       </tuv>
     </tu>
     <tu>
