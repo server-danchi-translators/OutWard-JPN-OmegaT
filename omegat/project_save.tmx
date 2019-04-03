@@ -1737,8 +1737,8 @@
       <tuv lang="EN-US">
         <seg>All players must be closer to travel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T050917Z" creationid="hiru4" creationdate="20190403T050917Z">
-        <seg>参加してるプレーヤーが近くにいなければ、なりません。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141546Z" creationid="hiru4" creationdate="20190403T050917Z">
+        <seg>参加してるプレーヤーが近くにいなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2644,8 +2644,8 @@
       <tuv lang="EN-US">
         <seg>Borderless</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T193309Z" creationid="totochan" creationdate="20190402T193309Z">
-        <seg>ボーダレス</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141426Z" creationid="totochan" creationdate="20190402T193309Z">
+        <seg>ボーダーレス</seg>
       </tuv>
     </tu>
     <tu>
@@ -6222,8 +6222,8 @@
       <tuv lang="EN-US">
         <seg>Fullscreen</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T193251Z" creationid="totochan" creationdate="20190402T193251Z">
-        <seg>全画面Fullscreen</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141402Z" creationid="totochan" creationdate="20190402T193251Z">
+        <seg>フルスクリーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -9886,8 +9886,8 @@
       <tuv lang="EN-US">
         <seg>Most backpacks slow down your dodge, however.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T150546Z" creationid="totochan" creationdate="20190402T150546Z">
-        <seg>バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141257Z" creationid="totochan" creationdate="20190402T150546Z">
+        <seg>バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12913,8 +12913,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Quiver that can contain up to 30 arrows.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T150713Z" creationid="totochan" creationdate="20190402T150713Z">
-        <seg>矢筒には３０本の矢を入れておくことができます。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T141330Z" creationid="totochan" creationdate="20190402T150713Z">
+        <seg>矢筒には30本の矢を入れておくことができます。</seg>
       </tuv>
     </tu>
     <tu>
