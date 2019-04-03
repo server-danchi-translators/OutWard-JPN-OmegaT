@@ -13163,6 +13163,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The treatment and food has not come cheap either, judging by how light your coin pouch has become.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T095250Z" creationid="はぐくみ会" creationdate="20190403T095250Z">
+        <seg>あなたの財布がどれほど明るくなったかで判断すると、治療や食べ物も安くなっていないようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The warm smells of Cierzo's inn greet you.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063027Z" creationid="はぐくみ会" creationdate="20190403T062501Z">
@@ -14095,6 +14103,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072250Z" creationid="setom" creationdate="20190401T072250Z">
         <seg>Outward のチュートリアルにようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, you live to fight another day!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T095440Z" creationid="はぐくみ会" creationdate="20190403T095440Z">
+        <seg>さて、あなたは生きている。また戦うために！
+</seg>
       </tuv>
     </tu>
     <tu>
