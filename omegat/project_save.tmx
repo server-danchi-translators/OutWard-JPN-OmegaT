@@ -6929,6 +6929,15 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is pure luck that brings a mercenary company to your aid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T100008Z" creationid="はぐくみ会" creationdate="20190403T095902Z">
+        <seg>あなたを援助するために傭兵会社をもたらすもの、それは純粋な運だ。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is the dull aches that wake you.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T090508Z" creationid="はぐくみ会" creationdate="20190403T090508Z">
@@ -13299,6 +13308,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They then go off merrily to the inn, clearly going to brag to the serving girls about how they saved your life and didn’t even ask for payment...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T101908Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
+        <seg>それから彼らは陽気に旅館へと行く。彼らがあなたの命をどのように救ったかについて、奉仕する女の子たちに自慢しようとしていて、支払いさえ要求しませんでした...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They will sell food, equipment and crafting recipes, in addition to selling goods related to their city’s specialties.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114210Z" creationid="setom" creationdate="20190331T114210Z">
@@ -13487,6 +13504,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To your relief, his band brings you back safely to the gates of Levant, free of charge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T101733Z" creationid="はぐくみ会" creationdate="20190403T095947Z">
+        <seg>傭兵の集団は Levant の門にあなたを安全に連れ戻す。あなたの安心のために！無償で！
+</seg>
       </tuv>
     </tu>
     <tu>
