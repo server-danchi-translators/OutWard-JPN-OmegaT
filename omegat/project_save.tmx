@@ -1794,8 +1794,8 @@
       <tuv lang="EN-US">
         <seg>Another important dialogue is in progress.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051428Z" creationid="hiru4" creationdate="20190403T051428Z">
-        <seg>重要な会話が更新されました。」.</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091031Z" creationid="hiru4" creationdate="20190403T051428Z">
+        <seg>重要な会話が更新されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,6 +2555,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharacterCreation_Female</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090907Z" creationid="setom" creationdate="20190403T090907Z">
+        <seg>CharacterCreation_Female</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CharacterCreation_Field_Face</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113322Z" creationid="setom" creationdate="20190401T113322Z">
@@ -2615,6 +2623,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113441Z" creationid="setom" creationdate="20190401T113441Z">
         <seg>CharacterCreation_Field_Race</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Male</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090906Z" creationid="setom" creationdate="20190403T090906Z">
+        <seg>CharacterCreation_Male</seg>
       </tuv>
     </tu>
     <tu>
@@ -3067,6 +3083,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compass_East</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090920Z" creationid="setom" creationdate="20190403T090920Z">
+        <seg>Compass_East</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compass_North</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090918Z" creationid="setom" creationdate="20190403T090918Z">
+        <seg>Compass_North</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compass_South</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090919Z" creationid="setom" creationdate="20190403T090919Z">
+        <seg>Compass_South</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compass_West</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090921Z" creationid="setom" creationdate="20190403T090921Z">
+        <seg>Compass_West</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114934Z" creationid="setom" creationdate="20190401T114934Z">
@@ -3143,6 +3191,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083127Z" creationid="totochan" creationdate="20190402T083127Z">
         <seg>ホストとの接続を失った</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection_Error_ConnectionFailed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090903Z" creationid="setom" creationdate="20190403T090903Z">
+        <seg>Connection_Error_ConnectionFailed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection_Error_ConnectionLost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090901Z" creationid="setom" creationdate="20190403T090901Z">
+        <seg>Connection_Error_ConnectionLost</seg>
       </tuv>
     </tu>
     <tu>
@@ -3231,6 +3295,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115022Z" creationid="setom" creationdate="20190401T115016Z">
         <seg>コンティニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ControlRemapping_ResetWarning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090904Z" creationid="setom" creationdate="20190403T090904Z">
+        <seg>ControlRemapping_ResetWarning</seg>
       </tuv>
     </tu>
     <tu>
@@ -3383,6 +3455,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095318Z" creationid="setom" creationdate="20190402T095318Z">
         <seg>CraftingMenu_Any_Meat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CraftingMenu_Any_Mushroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090905Z" creationid="setom" creationdate="20190403T090905Z">
+        <seg>CraftingMenu_Any_Mushroom</seg>
       </tuv>
     </tu>
     <tu>
@@ -4108,6 +4188,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_Back</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090855Z" creationid="setom" creationdate="20190403T090855Z">
+        <seg>EquipmentMenu_Empty_Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_Back_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090856Z" creationid="setom" creationdate="20190403T090856Z">
+        <seg>EquipmentMenu_Empty_Back_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EquipmentMenu_Empty_Chest</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095358Z" creationid="setom" creationdate="20190402T095358Z">
@@ -4128,6 +4224,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095403Z" creationid="setom" creationdate="20190402T095403Z">
         <seg>EquipmentMenu_Empty_Foot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_Foot_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090835Z" creationid="setom" creationdate="20190403T090835Z">
+        <seg>EquipmentMenu_Empty_Foot_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4156,10 +4260,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_LeftHand_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090854Z" creationid="setom" creationdate="20190403T090854Z">
+        <seg>EquipmentMenu_Empty_LeftHand_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_Quiver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090857Z" creationid="setom" creationdate="20190403T090857Z">
+        <seg>EquipmentMenu_Empty_Quiver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_Quiver_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090858Z" creationid="setom" creationdate="20190403T090858Z">
+        <seg>EquipmentMenu_Empty_Quiver_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>EquipmentMenu_Empty_RightHand</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095419Z" creationid="setom" creationdate="20190402T095419Z">
         <seg>EquipmentMenu_Empty_RightHand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EquipmentMenu_Empty_RightHand_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090853Z" creationid="setom" creationdate="20190403T090853Z">
+        <seg>EquipmentMenu_Empty_RightHand_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4708,6 +4844,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General_ChooseCharacter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090918Z" creationid="setom" creationdate="20190403T090918Z">
+        <seg>General_ChooseCharacter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_ChooseSave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090917Z" creationid="setom" creationdate="20190403T090917Z">
+        <seg>General_ChooseSave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>General_Close</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114848Z" creationid="setom" creationdate="20190401T114848Z">
@@ -4888,6 +5040,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115138Z" creationid="setom" creationdate="20190401T115138Z">
         <seg>General_Item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_Load</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090916Z" creationid="setom" creationdate="20190403T090916Z">
+        <seg>General_Load</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General_LogOut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090916Z" creationid="setom" creationdate="20190403T090916Z">
+        <seg>General_LogOut</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,6 +5560,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T081213Z" creationid="rkmad" creationdate="20190403T081213Z">
         <seg>調理用の大鍋。少し重たいが、キッチンを持ち歩くよりはよほど軽い。これを焚き火に設置することで、満足の行く料理を作ることができるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helmet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090849Z" creationid="setom" creationdate="20190403T090849Z">
+        <seg>ヘルメット</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,6 +6891,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loading_WaitingPlayerToConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090915Z" creationid="setom" creationdate="20190403T090915Z">
+        <seg>Loading_WaitingPlayerToConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Log out</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193329Z" creationid="totochan" creationdate="20190402T193329Z">
@@ -7635,11 +7819,356 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notification_Bag_CannotUnequip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090922Z" creationid="setom" creationdate="20190403T090922Z">
+        <seg>Notification_Bag_CannotUnequip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193916Z" creationid="totochan" creationdate="20190402T193831Z">
         <seg>
 Notification_Crafting_AtLeastOneIngredient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Crafting_InvalidCombination</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090926Z" creationid="setom" creationdate="20190403T090926Z">
+        <seg>Notification_Crafting_InvalidCombination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Crafting_InvalidCombinationWaste</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090927Z" creationid="setom" creationdate="20190403T090927Z">
+        <seg>Notification_Crafting_InvalidCombinationWaste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Crafting_MissingIngredient</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090924Z" creationid="setom" creationdate="20190403T090924Z">
+        <seg>Notification_Crafting_MissingIngredient</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Crafting_WasteCleanWater</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090925Z" creationid="setom" creationdate="20190403T090925Z">
+        <seg>Notification_Crafting_WasteCleanWater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Deployable_CannotPlaceHere</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090928Z" creationid="setom" creationdate="20190403T090928Z">
+        <seg>Notification_Deployable_CannotPlaceHere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Deployable_DisassembleNotEmpty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090929Z" creationid="setom" creationdate="20190403T090929Z">
+        <seg>Notification_Deployable_DisassembleNotEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Deployable_TentIsFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090929Z" creationid="setom" creationdate="20190403T090929Z">
+        <seg>Notification_Deployable_TentIsFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Deployable_TrapArmed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090930Z" creationid="setom" creationdate="20190403T090930Z">
+        <seg>Notification_Deployable_TrapArmed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Disease_Contract</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090931Z" creationid="setom" creationdate="20190403T090931Z">
+        <seg>Notification_Disease_Contract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Disease_Receding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090932Z" creationid="setom" creationdate="20190403T090932Z">
+        <seg>Notification_Disease_Receding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Gather_ItemRequired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090933Z" creationid="setom" creationdate="20190403T090933Z">
+        <seg>Notification_Gather_ItemRequired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Inventory_BagOverweight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090934Z" creationid="setom" creationdate="20190403T090934Z">
+        <seg>Notification_Inventory_BagOverweight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Inventory_PouchOverweight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090934Z" creationid="setom" creationdate="20190403T090934Z">
+        <seg>Notification_Inventory_PouchOverweight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Broken</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090938Z" creationid="setom" creationdate="20190403T090938Z">
+        <seg>Notification_Item_Broken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_CannotCarry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090939Z" creationid="setom" creationdate="20190403T090939Z">
+        <seg>Notification_Item_CannotCarry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Damaged</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090939Z" creationid="setom" creationdate="20190403T090939Z">
+        <seg>Notification_Item_Damaged</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_FoodRotten</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090947Z" creationid="setom" creationdate="20190403T090947Z">
+        <seg>Notification_Item_FoodRotten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_OutOfFuel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090947Z" creationid="setom" creationdate="20190403T090947Z">
+        <seg>Notification_Item_OutOfFuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Received</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090940Z" creationid="setom" creationdate="20190403T090940Z">
+        <seg>Notification_Item_Received</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_RecipeLearnt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090941Z" creationid="setom" creationdate="20190403T090941Z">
+        <seg>Notification_Item_RecipeLearnt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Removed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090942Z" creationid="setom" creationdate="20190403T090942Z">
+        <seg>Notification_Item_Removed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_RemovedInventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090948Z" creationid="setom" creationdate="20190403T090948Z">
+        <seg>Notification_Item_RemovedInventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_TorchBroken</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090943Z" creationid="setom" creationdate="20190403T090943Z">
+        <seg>Notification_Item_TorchBroken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_TorchDamaged</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090944Z" creationid="setom" creationdate="20190403T090944Z">
+        <seg>Notification_Item_TorchDamaged</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_Transformed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090946Z" creationid="setom" creationdate="20190403T090946Z">
+        <seg>Notification_Item_Transformed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Item_UnlockSkill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090945Z" creationid="setom" creationdate="20190403T090945Z">
+        <seg>Notification_Item_UnlockSkill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_LognTravel_DistanceThreshold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090949Z" creationid="setom" creationdate="20190403T090949Z">
+        <seg>Notification_LognTravel_DistanceThreshold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_LongTraval_NotEnoughRatio</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090949Z" creationid="setom" creationdate="20190403T090949Z">
+        <seg>Notification_LongTraval_NotEnoughRatio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Fatigue_Drowsy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090950Z" creationid="setom" creationdate="20190403T090950Z">
+        <seg>Notification_Need_Fatigue_Drowsy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Fatigue_Tired</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090951Z" creationid="setom" creationdate="20190403T090950Z">
+        <seg>
+Notification_Need_Fatigue_Tired</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Hunger_Hungry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091003Z" creationid="setom" creationdate="20190403T091003Z">
+        <seg>Notification_Need_Hunger_Hungry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Hunger_Starving</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091004Z" creationid="setom" creationdate="20190403T091004Z">
+        <seg>Notification_Need_Hunger_Starving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Temperature_Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091006Z" creationid="setom" creationdate="20190403T091006Z">
+        <seg>Notification_Need_Temperature_Cold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Temperature_Hot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091007Z" creationid="setom" creationdate="20190403T091007Z">
+        <seg>Notification_Need_Temperature_Hot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Temperature_VeryCold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091008Z" creationid="setom" creationdate="20190403T091008Z">
+        <seg>Notification_Need_Temperature_VeryCold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Temperature_VeryHot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091009Z" creationid="setom" creationdate="20190403T091009Z">
+        <seg>Notification_Need_Temperature_VeryHot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Thirst_Parched</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091011Z" creationid="setom" creationdate="20190403T091011Z">
+        <seg>Notification_Need_Thirst_Parched</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Need_Thirst_Thirsty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091012Z" creationid="setom" creationdate="20190403T091012Z">
+        <seg>Notification_Need_Thirst_Thirsty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_ProjectileWeapon_NoAmmunition</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091014Z" creationid="setom" creationdate="20190403T091014Z">
+        <seg>Notification_ProjectileWeapon_NoAmmunition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quest_ImportantDialogueActive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091024Z" creationid="setom" creationdate="20190403T091024Z">
+        <seg>Notification_Quest_ImportantDialogueActive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quest_LogHasBeenUpdated</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091022Z" creationid="setom" creationdate="20190403T091022Z">
+        <seg>Notification_Quest_LogHasBeenUpdated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification_Quest_ReceiveQuest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091023Z" creationid="setom" creationdate="20190403T091023Z">
+        <seg>Notification_Quest_ReceiveQuest</seg>
       </tuv>
     </tu>
     <tu>
@@ -7760,6 +8289,14 @@ Notification_Crafting_AtLeastOneIngredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022022Z" creationid="setom" creationdate="20190402T022022Z">
         <seg>OptionMenu_Audio_MusicVolume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Audio_MuteBackground</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090900Z" creationid="setom" creationdate="20190403T090900Z">
+        <seg>OptionMenu_Audio_MuteBackground</seg>
       </tuv>
     </tu>
     <tu>
@@ -8125,6 +8662,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OptionMenu_Quality_Borderless</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090914Z" creationid="setom" creationdate="20190403T090914Z">
+        <seg>OptionMenu_Quality_Borderless</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Quality_Fullscreen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090912Z" creationid="setom" creationdate="20190403T090912Z">
+        <seg>OptionMenu_Quality_Fullscreen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OptionMenu_Quality_High</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061503Z" creationid="setom" creationdate="20190402T061503Z">
@@ -8185,6 +8738,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061517Z" creationid="setom" creationdate="20190402T061517Z">
         <seg>OptionMenu_Quality_VeryLow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OptionMenu_Quality_Windowed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090913Z" creationid="setom" creationdate="20190403T090913Z">
+        <seg>OptionMenu_Quality_Windowed</seg>
       </tuv>
     </tu>
     <tu>
@@ -9065,6 +9626,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095342Z" creationid="setom" creationdate="20190402T095342Z">
         <seg>QuestMenu_Separator_Completed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QuestMenu_Tab_MainQuests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090859Z" creationid="setom" creationdate="20190403T090859Z">
+        <seg>QuestMenu_Tab_MainQuests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QuestMenu_Tab_SideQuests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T090900Z" creationid="setom" creationdate="20190403T090900Z">
+        <seg>QuestMenu_Tab_SideQuests</seg>
       </tuv>
     </tu>
     <tu>
@@ -12116,8 +12693,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are thirsty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051219Z" creationid="hiru4" creationdate="20190403T051219Z">
-        <seg>喉が渇いている。」</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091020Z" creationid="hiru4" creationdate="20190403T051219Z">
+        <seg>喉が渇いている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12164,8 +12741,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are very tired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051005Z" creationid="hiru4" creationdate="20190403T051005Z">
-        <seg>とても疲れている</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091002Z" creationid="hiru4" creationdate="20190403T051005Z">
+        <seg>とても寒い</seg>
       </tuv>
     </tu>
     <tu>
