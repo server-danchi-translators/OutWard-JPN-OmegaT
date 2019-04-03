@@ -2169,6 +2169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auto Run</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161533Z" creationid="Horizon" creationdate="20190403T161533Z">
+        <seg>オートラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awake</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
@@ -9996,6 +10004,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move Backward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161246Z" creationid="Horizon" creationdate="20190403T161246Z">
+        <seg>後ろに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move Forward</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T161206Z" creationid="Horizon" creationdate="20190403T161206Z">
@@ -10008,6 +10024,22 @@
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T150859Z" creationid="Horizon" creationdate="20190403T150859Z">
         <seg>左右に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161214Z" creationid="Horizon" creationdate="20190403T161214Z">
+        <seg>左に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161224Z" creationid="Horizon" creationdate="20190403T161224Z">
+        <seg>右に移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,6 +13019,70 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020919Z" creationid="hiru4" creationdate="20190402T020919Z">
         <seg>クイックスロット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161254Z" creationid="Horizon" creationdate="20190403T161254Z">
+        <seg>クイックスロット1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161303Z" creationid="Horizon" creationdate="20190403T161303Z">
+        <seg>クイックスロット 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161313Z" creationid="Horizon" creationdate="20190403T161313Z">
+        <seg>クイックスロット 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161322Z" creationid="Horizon" creationdate="20190403T161322Z">
+        <seg>クイックスロット 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161328Z" creationid="Horizon" creationdate="20190403T161328Z">
+        <seg>クイックスロット 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161336Z" creationid="Horizon" creationdate="20190403T161336Z">
+        <seg>クイックスロット 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161344Z" creationid="Horizon" creationdate="20190403T161344Z">
+        <seg>クイックスロット 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quick Slot 8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T161417Z" creationid="Horizon" creationdate="20190403T161417Z">
+        <seg>クイックスロット 8</seg>
       </tuv>
     </tu>
     <tu>
