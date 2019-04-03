@@ -3829,8 +3829,8 @@
       <tuv lang="EN-US">
         <seg>Consumes some of the lantern's durability.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135115Z" creationid="Horizon" creationdate="20190403T135115Z">
-        <seg>ランタンの耐久性をいくらか消費します。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140019Z" creationid="Horizon" creationdate="20190403T135115Z">
+        <seg>ランタンの耐久性をいくらか消費する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,24 +7473,24 @@
       <tuv lang="EN-US">
         <seg>If it has both, they are quadrupled instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T134546Z" creationid="Horizon" creationdate="20190403T134546Z">
-        <seg>それが両方の場合は4倍になります。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135944Z" creationid="Horizon" creationdate="20190403T134546Z">
+        <seg>それが両方の場合は4倍になる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the attack hits the enemy’s back, the damage and impact are tripled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135315Z" creationid="rkmad" creationdate="20190403T070252Z">
-        <seg>敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与えます。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135838Z" creationid="rkmad" creationdate="20190403T070252Z">
+        <seg>敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the enemy has the Pain or Confusion hex, this attack’s damage and knockback are doubled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T134430Z" creationid="Horizon" creationdate="20190403T134343Z">
-        <seg>敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になります。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135846Z" creationid="Horizon" creationdate="20190403T134343Z">
+        <seg>敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,8 +7673,8 @@
       <tuv lang="EN-US">
         <seg>Inflicts Extreme Bleeding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135808Z" creationid="Horizon" creationdate="20190403T135808Z">
-        <seg>極度の出血を引き起こします。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140044Z" creationid="Horizon" creationdate="20190403T135808Z">
+        <seg>極度の出血を引き起こす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,8 +8830,8 @@
       <tuv lang="EN-US">
         <seg>Locking on foes is essential with this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135440Z" creationid="Horizon" creationdate="20190403T135440Z">
-        <seg>このスキルを使用するには、敵をロックオンすることが必要です。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140031Z" creationid="Horizon" creationdate="20190403T135440Z">
+        <seg>このスキルを使用するには、敵をロックオンする必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13122,8 +13122,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Simple attack with the dagger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T072812Z" creationid="rkmad" creationdate="20190403T070405Z">
-        <seg>Required: Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140140Z" creationid="rkmad" creationdate="20190403T070405Z">
+        <seg>必要: Dagger 手に持った短剣による一撃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13146,8 +13146,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Shield Rush forward to hit foes with your shield for high Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T074411Z" creationid="rkmad" creationdate="20190403T070631Z">
-        <seg>Required: Shield 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140311Z" creationid="rkmad" creationdate="20190403T070631Z">
+        <seg>必要: Shield 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,8 +15656,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This skill lowers the durability of the torch or lantern used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135008Z" creationid="Horizon" creationdate="20190403T135008Z">
-        <seg>このスキルは使用されるトーチやランタンの耐久性を低下させます。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T140002Z" creationid="Horizon" creationdate="20190403T135008Z">
+        <seg>このスキルは使用されるトーチやランタンの耐久性を低下させる。</seg>
       </tuv>
     </tu>
     <tu>
