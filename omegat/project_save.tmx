@@ -2235,7 +2235,7 @@
       <tuv lang="EN-US">
         <seg>Bandit Defender</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110516Z" creationid="Gaiden Shinji" creationdate="20190403T110516Z">
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113432Z" creationid="Gaiden Shinji" creationdate="20190403T110516Z">
         <seg>ディフェンダー</seg>
       </tuv>
     </tu>
@@ -4716,6 +4716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emerald</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113559Z" creationid="Gaiden Shinji" creationdate="20190403T113559Z">
+        <seg>エメラルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Empty</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063226Z" creationid="setom" creationdate="20190401T115042Z">
@@ -5304,6 +5312,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094958Z" creationid="setom" creationdate="20190402T080247Z">
         <seg>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesは所持品にありますね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113605Z" creationid="Gaiden Shinji" creationdate="20190403T113554Z">
+        <seg>魚</seg>
       </tuv>
     </tu>
     <tu>
@@ -10825,6 +10841,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pearlbird Nest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113639Z" creationid="Gaiden Shinji" creationdate="20190403T113639Z">
+        <seg>真珠の群生地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peculiar oval shield used by the warriors of an ancient legion.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T071030Z" creationid="setom" creationdate="20190402T071021Z">
@@ -12058,6 +12082,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ruby</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113614Z" creationid="Gaiden Shinji" creationdate="20190403T113614Z">
+        <seg>ルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rusty oil lantern with a weak flame.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080841Z" creationid="rkmad" creationdate="20190403T080754Z">
@@ -12094,6 +12126,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095246Z" creationid="hiru4" creationdate="20190402T071654Z">
         <seg>海水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sapphire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113619Z" creationid="Gaiden Shinji" creationdate="20190403T113619Z">
+        <seg>サファイヤ</seg>
       </tuv>
     </tu>
     <tu>
