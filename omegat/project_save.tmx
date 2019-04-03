@@ -7391,6 +7391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interaction_Item_OpenContainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T125926Z" creationid="setom" creationdate="20190403T125926Z">
+        <seg>Interaction_Item_OpenContainer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Item_Take</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104844Z" creationid="setom" creationdate="20190402T104844Z">
@@ -10747,6 +10755,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T104233Z" creationid="はぐくみ会" creationdate="20190403T104233Z">
         <seg>あなたの痛む肉体だけが、あの難破船は悪夢ではなかったとあなたに伝える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T125922Z" creationid="setom" creationdate="20190403T125922Z">
+        <seg>開く</seg>
       </tuv>
     </tu>
     <tu>
