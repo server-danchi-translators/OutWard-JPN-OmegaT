@@ -2530,6 +2530,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133425Z" creationid="totochan" creationdate="20190403T133425Z">
+        <seg>出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blessed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133647Z" creationid="totochan" creationdate="20190403T133647Z">
+        <seg>恩恵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blessed Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T061333Z" creationid="hiru4" creationdate="20190403T060423Z">
@@ -2678,6 +2694,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053719Z" creationid="hiru4" creationdate="20190403T053719Z">
         <seg>弾丸はあなたの所持品に必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133848Z" creationid="totochan" creationdate="20190403T133848Z">
+        <seg>燃える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133857Z" creationid="totochan" creationdate="20190403T133857Z">
+        <seg>炎上</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,6 +5732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extreme Bleeding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133439Z" creationid="totochan" creationdate="20190403T133439Z">
+        <seg>大量出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Style</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
@@ -5792,6 +5832,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114706Z" creationid="setom" creationdate="20190401T114706Z">
         <seg>炎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Damage and Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133751Z" creationid="totochan" creationdate="20190403T133751Z">
+        <seg>ファイアーの耐性力[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,6 +8400,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114633Z" creationid="setom" creationdate="20190401T114603Z">
         <seg>雷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning Damage and Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133625Z" creationid="totochan" creationdate="20190403T133625Z">
+        <seg>ライトニングへの耐性+[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13880,6 +13936,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep: Camo Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134022Z" creationid="totochan" creationdate="20190403T134022Z">
+        <seg>睡眠：迷彩テント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep_Title_LocalPlayer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095139Z" creationid="setom" creationdate="20190402T095139Z">
@@ -14185,6 +14249,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stealth +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
+        <seg>ステルス+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Online Play</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115111Z" creationid="setom" creationdate="20190401T115111Z">
@@ -14278,6 +14350,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080120Z" creationid="setom" creationdate="20190402T080120Z">
         <seg>Astral Potionsを取ってマナを充填させましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take [E1V1] Fire Damage per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T133841Z" creationid="totochan" creationdate="20190403T133841Z">
+        <seg>毎秒炎か[E1V1]ダメージを受ける</seg>
       </tuv>
     </tu>
     <tu>
