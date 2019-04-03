@@ -9180,6 +9180,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Dagger Dagger attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072743Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>Required: Dagger 手に持ったダガーによる一撃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Dagger Simple attack with the dagger.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T071423Z" creationid="rkmad" creationdate="20190403T070405Z">
