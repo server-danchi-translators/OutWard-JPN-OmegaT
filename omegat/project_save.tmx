@@ -3808,6 +3808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every rock and bump causes jolts of pain that knock you into darkness for a while...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055041Z" creationid="はぐくみ会" creationdate="20190403T055041Z">
+        <seg>すべての岩石と隆起に叩きつけられ、痛みを引き起こす。そしてあなたは暗闇の中に引きずられる...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Style</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
@@ -10970,6 +10978,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095349Z" creationid="totochan" creationdate="20190402T083632Z">
         <seg>支払い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You raise you arms, shielding your vulnerable throat from the animals that howl at you, and brace yourself for death...Fangs sink into your leg and you feel yourself dragged across the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054851Z" creationid="はぐくみ会" creationdate="20190403T054851Z">
+        <seg>あなたは腕を上げ、あなたに向かって吠える動物からあなたの傷つきやすい喉を守り、そして死のためにあなた自身を支えます...牙が足に喰い込み、そして、あなたは地面を引きずられる。</seg>
       </tuv>
     </tu>
     <tu>
