@@ -14148,6 +14148,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You awake to the familiar scent of your old home at the Lighthouse in Cierzo, warm and tucked into your bed, your backpack propped up beside you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T093013Z" creationid="はぐくみ会" creationdate="20190403T093013Z">
+        <seg>あなたは Cierzo の Lighthouse で古い家のおなじみの香りに目を覚ました。暖かいベッドに横になっている。あなたのバックパックは傍に置かれていた。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You awaken hours later, underground.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061342Z" creationid="はぐくみ会" creationdate="20190403T061342Z">
