@@ -12688,6 +12688,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133329Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要: ランタン 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Shield Rush forward to hit foes with your shield for high Impact.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T074411Z" creationid="rkmad" creationdate="20190403T070631Z">
@@ -15833,8 +15841,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weak attack that excels at knocking back enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T065550Z" creationid="rkmad" creationdate="20190403T065550Z">
-        <seg>敵を蹴りノックバックさせ、スタミナを減少させる。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T132941Z" creationid="rkmad" creationdate="20190403T065550Z">
+        <seg>敵を蹴りノックバックさせ、スタミナを減少させる。</seg>
       </tuv>
     </tu>
     <tu>
