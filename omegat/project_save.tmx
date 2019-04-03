@@ -2146,8 +2146,8 @@
       <tuv lang="EN-US">
         <seg>Bandages or Health Potions will do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T095339Z" creationid="rkmad" creationdate="20190403T095339Z">
-        <seg>包帯か、水薬の類が必要なのだけれど。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095622Z" creationid="rkmad" creationdate="20190403T095339Z">
+        <seg>包帯か、ポーションが必要なのだけれども。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,10 +6318,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have a bandage for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095825Z" creationid="rkmad" creationdate="20190403T095825Z">
+        <seg>包帯を持ってきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have a fellow whose life depends on one!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095801Z" creationid="rkmad" creationdate="20190403T095745Z">
+        <seg>あなたが薬を提供してくれるかどうかで、皆の命が救われるのよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
         <seg>私は旧友のYzanと共に、借金を帳消しにするだけの金銭を求め、海を渡って遠征に参加した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I made the potion for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095841Z" creationid="rkmad" creationdate="20190403T095841Z">
+        <seg>ポーションを作ってきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14840,8 +14864,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You mix water, Blood Mushroom and a Gravel Beetle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T095533Z" creationid="rkmad" creationdate="20190403T095533Z">
-        <seg>水と Blood Mushroom と Gravel Beetle を混ぜて作るのよ。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095751Z" creationid="rkmad" creationdate="20190403T095533Z">
+        <seg>水と Blood Mushroom と Gravel Beetle を混ぜて作るの。</seg>
       </tuv>
     </tu>
     <tu>
