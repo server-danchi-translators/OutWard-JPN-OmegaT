@@ -12874,6 +12874,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The sign on the cell is in the Old Language, but it's easy enough to guess that it reads "marked for execution".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T092537Z" creationid="はぐくみ会" creationdate="20190403T092537Z">
+        <seg>独房にしるされている標識は古い言語だが、「処刑のマーク」であると推測するのは簡単だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The status menu shows details related to your equipment or what effects are currently affecting you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112738Z" creationid="setom" creationdate="20190331T112738Z">
