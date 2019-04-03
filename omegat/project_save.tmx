@@ -1905,6 +1905,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assign to Quick Slot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063120Z" creationid="hiru4" creationdate="20190403T063120Z">
+        <seg>クイックスロット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least one ingredient is needed to start crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193927Z" creationid="totochan" creationdate="20190402T193927Z">
@@ -1917,6 +1925,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025306Z" creationid="hiru4" creationdate="20190402T023203Z">
         <seg>大気密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attach this Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063446Z" creationid="hiru4" creationdate="20190403T063446Z">
+        <seg>ランタンを設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2190,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102507Z" creationid="setom" creationdate="20190402T102507Z">
         <seg>だがAuraiでの暮らしは楽ではなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063234Z" creationid="hiru4" creationdate="20190403T063234Z">
+        <seg>購入</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063221Z" creationid="hiru4" creationdate="20190403T063221Z">
+        <seg>設置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DeployableTrapMenu_EmptyInventory</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114726Z" creationid="setom" creationdate="20190401T114726Z">
@@ -3498,6 +3530,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063029Z" creationid="hiru4" creationdate="20190403T063029Z">
+        <seg>捨てる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drop less useful items and don’t pick up everything you find, as too much weight will slow you down.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
@@ -3570,6 +3610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063353Z" creationid="hiru4" creationdate="20190403T063353Z">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Effects</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083401Z" creationid="totochan" creationdate="20190402T083401Z">
@@ -3588,8 +3636,8 @@
       <tuv lang="EN-US">
         <seg>Empty</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115042Z" creationid="setom" creationdate="20190401T115042Z">
-        <seg>空</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063226Z" creationid="setom" creationdate="20190401T115042Z">
+        <seg>空にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3654,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115057Z" creationid="setom" creationdate="20190401T115057Z">
         <seg>決定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063128Z" creationid="hiru4" creationdate="20190403T063128Z">
+        <seg>装備</seg>
       </tuv>
     </tu>
     <tu>
@@ -3970,6 +4026,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Explore Stack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063309Z" creationid="hiru4" creationdate="20190403T063309Z">
+        <seg>スタックを調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Face Style</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113325Z" creationid="setom" creationdate="20190401T113325Z">
@@ -4030,6 +4094,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022317Z" creationid="hiru4" creationdate="20190402T022317Z">
         <seg>視野角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill with {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063212Z" creationid="hiru4" creationdate="20190403T063212Z">
+        <seg>{1}を注ぐ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4190,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025320Z" creationid="hiru4" creationdate="20190402T023059Z">
         <seg>フレームレート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free Quick Slot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063417Z" creationid="hiru4" creationdate="20190403T063417Z">
+        <seg>フリークイックスロット</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,6 +6152,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063334Z" creationid="hiru4" creationdate="20190403T063334Z">
+        <seg>着火</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022405Z" creationid="hiru4" creationdate="20190402T022405Z">
@@ -6780,6 +6868,46 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021749Z" creationid="hiru4" creationdate="20190402T021749Z">
         <seg>マウス感度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Bag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063009Z" creationid="hiru4" creationdate="20190403T063009Z">
+        <seg>バッグに入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Fuel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062950Z" creationid="hiru4" creationdate="20190403T062950Z">
+        <seg>燃料を追加&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Ingredients</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062933Z" creationid="hiru4" creationdate="20190403T062933Z">
+        <seg>材料を移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to Pocket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063000Z" creationid="hiru4" creationdate="20190403T063000Z">
+        <seg>ポケットに入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move to {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063018Z" creationid="hiru4" creationdate="20190403T063018Z">
+        <seg>{1}に入れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -8402,6 +8530,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put Out</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063347Z" creationid="hiru4" creationdate="20190403T063347Z">
+        <seg>消す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put out your light when sneaking!</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112137Z" creationid="setom" creationdate="20190331T112137Z">
@@ -8498,6 +8634,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063204Z" creationid="hiru4" creationdate="20190403T063204Z">
+        <seg>読むRead</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about the Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062919Z" creationid="hiru4" creationdate="20190403T062719Z">
@@ -8542,6 +8686,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
         <seg>ワールドを再読込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063254Z" creationid="hiru4" creationdate="20190403T063254Z">
+        <seg>削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +9118,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021320Z" creationid="hiru4" creationdate="20190402T021320Z">
         <seg>アイテム選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063242Z" creationid="hiru4" creationdate="20190403T063242Z">
+        <seg>売る</seg>
       </tuv>
     </tu>
     <tu>
@@ -9463,6 +9623,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062053Z" creationid="setom" creationdate="20190402T062053Z">
         <seg>限られた時間の間、魔法の剣を召喚する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Switch Equipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063043Z" creationid="hiru4" creationdate="20190403T063043Z">
+        <seg>装備を変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -10403,6 +10571,30 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unequip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063143Z" creationid="hiru4" creationdate="20190403T063143Z">
+        <seg>装備を外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unequip (to Bag)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063100Z" creationid="hiru4" creationdate="20190403T063100Z">
+        <seg>未装備（バッグ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unequip (to Pocket)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063110Z" creationid="hiru4" creationdate="20190403T063110Z">
+        <seg>未装備（ポケット）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unit Weight</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021151Z" creationid="hiru4" creationdate="20190402T021151Z">
@@ -10447,6 +10639,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122940Z" creationid="setom" creationdate="20190401T122940Z">
         <seg>消耗品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T063151Z" creationid="hiru4" creationdate="20190403T063151Z">
+        <seg>使う</seg>
       </tuv>
     </tu>
     <tu>
