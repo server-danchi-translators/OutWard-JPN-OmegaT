@@ -6104,6 +6104,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leaning on her, you manage to hobble back to Cierzo, more dead than alive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063622Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
+        <seg>彼女に寄りかかって、あなたはなんとか生き残った。死にかけだが、Cierzoに戻ってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legacy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015547Z" creationid="hiru4" creationdate="20190402T015547Z">
@@ -9146,6 +9154,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She refuses payment and leaves you with a firm pat on the shoulder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063818Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
+        <seg>彼女はお礼を受け取らず、去っていった。あなたの肩をたたいて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T070022Z" creationid="setom" creationdate="20190402T070003Z">
@@ -11264,6 +11280,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061342Z" creationid="はぐくみ会" creationdate="20190403T061342Z">
         <seg>あなたは数時間後に目覚めた。地下で。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You awaken to the sight of a huntress from Cierzo pouring water into your mouth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063450Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
+        <seg>あなたは、Cierzoからの狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
+</seg>
       </tuv>
     </tu>
     <tu>
