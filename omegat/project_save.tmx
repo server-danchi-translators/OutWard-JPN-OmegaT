@@ -13955,6 +13955,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your journey ends at a broken old cell whose door has long since fallen away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091709Z" creationid="はぐくみ会" creationdate="20190403T091709Z">
+        <seg>あなたの旅は、古い独房で終わる。扉がずっと昔に落ち無くなった壊れた独房で。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your name cannot be empty</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063925Z" creationid="hiru4" creationdate="20190403T063925Z">
