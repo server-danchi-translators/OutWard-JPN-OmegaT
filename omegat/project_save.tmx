@@ -10391,6 +10391,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oy, you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095125Z" creationid="rkmad" creationdate="20190403T095125Z">
+        <seg>そこのあなた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Padded or fur-lined clothes also protect against the cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084941Z" creationid="setom" creationdate="20190402T084941Z">
@@ -13963,6 +13971,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We need medical supplies to patch our men up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095232Z" creationid="rkmad" creationdate="20190403T095232Z">
+        <seg>彼らを治療するための医薬品が不足していてね・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We're not far from home.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164854Z" creationid="setom" creationdate="20190402T164723Z">
@@ -14761,6 +14777,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084513Z" creationid="はぐくみ会" creationdate="20190403T084513Z">
         <seg>あなたの周りの至る所で、略奪が行われている音や声がする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You know how to make bandages, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095143Z" creationid="rkmad" creationdate="20190403T095143Z">
+        <seg>包帯の作り方は分かる？</seg>
       </tuv>
     </tu>
     <tu>
