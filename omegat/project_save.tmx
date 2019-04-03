@@ -3773,8 +3773,8 @@
       <tuv lang="EN-US">
         <seg>Drink that carries a risk of Indigestion, a serious disease.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T075505Z" creationid="rkmad" creationdate="20190403T075505Z">
-        <seg>飲むことは出来るが、この水を飲むと病気になるかもしれない。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T075614Z" creationid="rkmad" creationdate="20190403T075505Z">
+        <seg>飲むことは出来るが、この水を飲むと病気になるかもしれない。喉が乾いているのでなければ、そのまま飲むべきではないだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6053,14 @@ Y軸カメラ反転</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062813Z" creationid="はぐくみ会" creationdate="20190403T062813Z">
         <seg>誰かがあなたを死の瀬戸際に見つけ、あなたを健康状態に戻した。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be boiled over a campfire to produce Clean Water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T075715Z" creationid="rkmad" creationdate="20190403T075548Z">
+        <seg>可能であれば焚き火で沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
       </tuv>
     </tu>
     <tu>
