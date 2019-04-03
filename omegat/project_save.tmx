@@ -11469,6 +11469,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With clenched teeth, you manage to drag yourself outside to safety, where you fall unconscious again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065807Z" creationid="はぐくみ会" creationdate="20190403T065807Z">
+        <seg>噛み込んだ歯で、あなたは自分を安全のために外に引きずり出すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114322Z" creationid="urakata" creationdate="20190331T071251Z">
@@ -11513,6 +11521,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064224Z" creationid="hiru4" creationdate="20190403T064054Z">
         <seg>分割画面を停止して</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are alone, but surely not safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065730Z" creationid="はぐくみ会" creationdate="20190403T065730Z">
+        <seg>あなたは一人だが、しかし確実に安全ではない。</seg>
       </tuv>
     </tu>
     <tu>
