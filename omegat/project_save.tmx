@@ -12706,8 +12706,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133329Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要: ランタン 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133340Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要: ランタン 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133647Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要: Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い打撃とダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15571,6 +15579,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this skill destroys the lantern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T133428Z" creationid="Horizon" creationdate="20190403T133428Z">
+        <seg>このスキルを使用するとランタンが壊れます。</seg>
       </tuv>
     </tu>
     <tu>
