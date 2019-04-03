@@ -2315,6 +2315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can hit the target twice and inflict the Confusion status effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T070838Z" creationid="rkmad" creationdate="20190403T070838Z">
+        <seg>突進後に盾を振り抜き二度ダメージを与え、当たった敵を混乱のステータス異常に陥れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114847Z" creationid="setom" creationdate="20190401T114847Z">
