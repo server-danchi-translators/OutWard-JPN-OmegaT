@@ -5372,6 +5372,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elemental Immunity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140001Z" creationid="totochan" creationdate="20190403T140001Z">
+        <seg>エレメンタルへの耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elemental Resistance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140017Z" creationid="totochan" creationdate="20190403T140017Z">
+        <seg>エレメンタルへの耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elemental Resistance 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140041Z" creationid="totochan" creationdate="20190403T140041Z">
+        <seg>エレメンタルへの耐性２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emerald</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113559Z" creationid="Gaiden Shinji" creationdate="20190403T113559Z">
@@ -5996,6 +6020,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire, Frost, Lightning, Decay and Ethereal Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140025Z" creationid="totochan" creationdate="20190403T140025Z">
+        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire, Frost, Lightning, Decay and Ethereal Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T140131Z" creationid="totochan" creationdate="20190403T140131Z">
+        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firefly Powder</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114003Z" creationid="Gaiden Shinji" creationdate="20190403T114003Z">
@@ -6144,6 +6184,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134047Z" creationid="totochan" creationdate="20190403T134047Z">
         <seg>フロストへの耐性[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frost, Fire, Lightning, Decay and Ethereal Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135923Z" creationid="totochan" creationdate="20190403T135923Z">
+        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,6 +7563,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T065632Z" creationid="setom" creationdate="20190402T065632Z">
         <seg>非常に重いが、矢に狙われようと使い手の頭や足も守れる巨大な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immune to Frost, Fire, Lightning, Decay and Ethereal Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135834Z" creationid="totochan" creationdate="20190403T135834Z">
+        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性</seg>
       </tuv>
     </tu>
     <tu>
