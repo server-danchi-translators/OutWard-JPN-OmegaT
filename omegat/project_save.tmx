@@ -5244,6 +5244,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dodge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145311Z" creationid="Horizon" creationdate="20190403T145311Z">
+        <seg>ドッジロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dodging allows you to temporarily evade any type of attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
@@ -14116,6 +14124,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074854Z" creationid="setom" creationdate="20190401T074854Z">
         <seg>盾はスタミナの減少も少なくし、矢も防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shoot Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T145214Z" creationid="Horizon" creationdate="20190403T145214Z">
+        <seg>矢をはなつ</seg>
       </tuv>
     </tu>
     <tu>
