@@ -2025,6 +2025,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorization on the Photon Cloud failed because the app's subscription does not allow to use a particular region's server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070804Z" creationid="hiru4" creationdate="20190403T070804Z">
+        <seg>サブスクリプションで特定の地域のサーバーを使用することが許可されていないため、PhotonCloudでの認証に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Authorization on the Photon Cloud failed because the concurrent users limit of the app's subscription is reached.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070831Z" creationid="hiru4" creationdate="20190403T070831Z">
+        <seg>アプリケーションのサブスクリプションの同時ユーザー制限に達したため、PhotonCloudでの承認に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Awake</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113843Z" creationid="setom" creationdate="20190401T113843Z">
@@ -2335,6 +2351,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064849Z" creationid="hiru4" creationdate="20190403T064849Z">
         <seg>現時点では参加できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot play online.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065214Z" creationid="hiru4" creationdate="20190403T065214Z">
+        <seg>オンラインで遊ぶことはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check your network connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065227Z" creationid="hiru4" creationdate="20190403T065227Z">
+        <seg>ネットワーク接続を確認してください。&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chest Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T101417Z" creationid="totochan" creationdate="20190402T083912Z">
@@ -3035,10 +3067,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connection could not be established.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065237Z" creationid="hiru4" creationdate="20190403T065237Z">
+        <seg>接続できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connection is ready.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062123Z" creationid="hiru4" creationdate="20190403T062123Z">
         <seg>接続の準備が完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connection timed out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070453Z" creationid="hiru4" creationdate="20190403T070453Z">
+        <seg>接続がタイムアウトしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3811,6 +3859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End splitscreen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065148Z" creationid="hiru4" creationdate="20190403T065148Z">
+        <seg>分割画面終了n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115057Z" creationid="setom" creationdate="20190401T115057Z">
@@ -4191,6 +4247,14 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055041Z" creationid="はぐくみ会" creationdate="20190403T055041Z">
         <seg>すべての岩石と隆起に叩きつけられ、痛みを引き起こす。そしてあなたは暗闇の中に引きずられる...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception in the receive-loop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070648Z" creationid="hiru4" creationdate="20190403T070648Z">
+        <seg>例外：受信ループが発生しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8612,6 +8676,30 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please reconnect player's 1 controller.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065045Z" creationid="hiru4" creationdate="20190403T065045Z">
+        <seg>プレイヤー1のコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reconnect player's 2 controller.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065056Z" creationid="hiru4" creationdate="20190403T065056Z">
+        <seg>プレイヤー2のコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reconnect player's controller.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065024Z" creationid="hiru4" creationdate="20190403T065024Z">
+        <seg>プレーヤーのコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pocket Content</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122923Z" creationid="setom" creationdate="20190401T122923Z">
@@ -8696,6 +8784,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
         <seg>[InputAction_LockToggle]でカメラを敵にロックでき、攻撃がより当てやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primary user signed out, returning to main menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065106Z" creationid="hiru4" creationdate="20190403T065106Z">
+        <seg>プライマリユーザーがサインアウトし、メインメニューに戻りました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9356,6 +9452,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secondary user signed out, exiting splitscreen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065119Z" creationid="hiru4" creationdate="20190403T065119Z">
+        <seg>セカンダリユーザーがログアウトしました分割画面を終了します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Section</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025251Z" creationid="hiru4" creationdate="20190402T023216Z">
@@ -9404,6 +9508,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selected user is already signed in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065132Z" creationid="hiru4" creationdate="20190403T065132Z">
+        <seg>選択したユーザーは既にサインインしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sell</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063242Z" creationid="hiru4" creationdate="20190403T063242Z">
@@ -9416,6 +9528,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064608Z" creationid="hiru4" creationdate="20190403T064608Z">
         <seg>{1}を売る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server actively disconnected this client.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070658Z" creationid="hiru4" creationdate="20190403T070658Z">
+        <seg>サーバーはこのクライアントを切断しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9768,6 +9888,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064952Z" creationid="hiru4" creationdate="20190403T064952Z">
         <seg>続行すると変更は破棄されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some exception caused the connection to close.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070748Z" creationid="hiru4" creationdate="20190403T070748Z">
+        <seg>何らかの例外により接続が閉じられました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10477,6 +10605,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game is not fully installed, please wait.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065202Z" creationid="hiru4" creationdate="20190403T065202Z">
+        <seg>ゲームが完全にインストールされていません。しばらくお待ちください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The item does not have enough durability.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062345Z" creationid="hiru4" creationdate="20190403T062345Z">
@@ -10521,6 +10657,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145433Z" creationid="setom" creationdate="20190401T074405Z">
         <seg>特殊攻撃の前に行った通常攻撃の回数で特殊攻撃は変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The security settings for client or server do not allow a connection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T065249Z" creationid="hiru4" creationdate="20190403T065249Z">
+        <seg>クライアントまたはサーバーのセキュリティ設定で接続が許可されていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10705,6 +10849,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
         <seg>これが間違いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timeout disconnect by client.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070634Z" creationid="hiru4" creationdate="20190403T070634Z">
+        <seg>クライアントによるタイムアウト切断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Timeout disconnect by server.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T070734Z" creationid="hiru4" creationdate="20190403T070734Z">
+        <seg>サーバータイムアウトによる切断</seg>
       </tuv>
     </tu>
     <tu>
