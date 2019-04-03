@@ -4499,6 +4499,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>D-Pad Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155037Z" creationid="Horizon" creationdate="20190403T155037Z">
+        <seg>↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D-Pad Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155054Z" creationid="Horizon" creationdate="20190403T155054Z">
+        <seg>←</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D-Pad Right</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155203Z" creationid="Horizon" creationdate="20190403T155203Z">
+        <seg>→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>D-Pad Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155030Z" creationid="Horizon" creationdate="20190403T155030Z">
+        <seg>↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DS_01_FromStart_a</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034132Z" creationid="setom" creationdate="20190401T034132Z">
@@ -8656,6 +8688,22 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063905Z" creationid="hiru4" creationdate="20190403T063905Z">
         <seg>チュートリアルを終了しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left Shoulder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155226Z" creationid="Horizon" creationdate="20190403T155226Z">
+        <seg>LB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left Trigger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155212Z" creationid="Horizon" creationdate="20190403T155212Z">
+        <seg>LT</seg>
       </tuv>
     </tu>
     <tu>
@@ -13508,6 +13556,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130610Z" creationid="Gaiden Shinji" creationdate="20190403T114231Z">
         <seg>豊かな鉄鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right Shoulder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155256Z" creationid="Horizon" creationdate="20190403T155256Z">
+        <seg>RB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right Trigger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T155218Z" creationid="Horizon" creationdate="20190403T155218Z">
+        <seg>RT</seg>
       </tuv>
     </tu>
     <tu>
