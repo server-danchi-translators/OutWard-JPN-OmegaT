@@ -5397,6 +5397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the attack hits the enemy’s back, the damage and impact are tripled.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T070252Z" creationid="rkmad" creationdate="20190403T070252Z">
+        <seg>敵の背後をとってスキルを使用した場合、3倍のダメージと衝撃を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
