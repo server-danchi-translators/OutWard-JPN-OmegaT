@@ -11401,6 +11401,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Relief floods you as you recognize where you are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T103811Z" creationid="はぐくみ会" creationdate="20190403T103811Z">
+        <seg>自分がどこにいるかを認識すると、あなたは救済されたのだと安堵した。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloading World...</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
@@ -14375,6 +14384,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023046Z" creationid="hiru4" creationdate="20190402T023046Z">
         <seg>ウィンドウモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a yelp, you jump out of your bed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T103302Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
+        <seg>助けを借り、あなたはベッドから飛び出す。
+</seg>
       </tuv>
     </tu>
     <tu>
