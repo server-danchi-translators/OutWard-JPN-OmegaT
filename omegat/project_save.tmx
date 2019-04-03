@@ -6511,6 +6511,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No ammunition equipped</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051253Z" creationid="hiru4" creationdate="20190403T051253Z">
+        <seg>弾薬を装填していない。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No compatible component in inventory</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020138Z" creationid="hiru4" creationdate="20190402T020138Z">
@@ -10329,10 +10337,74 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051134Z" creationid="hiru4" creationdate="20190403T051134Z">
+        <seg>寒い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are hot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051139Z" creationid="hiru4" creationdate="20190403T051139Z">
+        <seg>暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are hungry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051102Z" creationid="hiru4" creationdate="20190403T051014Z">
+        <seg>お腹がすいている。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are thirsty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051219Z" creationid="hiru4" creationdate="20190403T051219Z">
+        <seg>喉が渇いている。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are tired.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T050952Z" creationid="hiru4" creationdate="20190403T050952Z">
         <seg>疲れている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are very cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051145Z" creationid="hiru4" creationdate="20190403T051145Z">
+        <seg>とても寒い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are very hot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051150Z" creationid="hiru4" creationdate="20190403T051150Z">
+        <seg>とても暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are very hungry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051125Z" creationid="hiru4" creationdate="20190403T051125Z">
+        <seg>とてもお腹がすいている。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are very thirsty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051229Z" creationid="hiru4" creationdate="20190403T051205Z">
+        <seg>とても喉が渇いている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11071,6 +11143,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024435Z" creationid="hiru4" creationdate="20190402T024435Z">
         <seg>{1}の所持品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}’s log has been updated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051325Z" creationid="hiru4" creationdate="20190403T051325Z">
+        <seg>{1}のログが更新されました。」</seg>
       </tuv>
     </tu>
     <tu>
