@@ -2,27 +2,27 @@
 <ooo_calc_export scriptAuthor="vjl" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptUpdate="2011-03-02" scriptVersion="2.2.0_qdxml">
   <ooo_sheet num="1">
     <ooo_row><column_1>ItemID</column_1><column_2>Name</column_2><column_3>Desc</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100010</column_1><column_2>Throw Lantern</column_2><column_3>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds. Using this skill destroys the lantern.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100020</column_1><column_2>Predator Leap</column_2><column_3>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage. Requires the Rage boon.</column_3><column_4/><column_5/><column_6>Lower weapons</column_6></ooo_row>
+    <ooo_row><column_1>8100010</column_1><column_2>Throw Lantern</column_2><column_3>必要: Lantern 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。このスキルを使用するとランタンが壊れる。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100020</column_1><column_2>Predator Leap</column_2><column_3>必要: Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。Rage boonの発動が必要。</column_3><column_4/><column_5/><column_6>Lower weapons</column_6></ooo_row>
     <ooo_row><column_1>8100030</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100040</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100050</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100060</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100070</column_1><column_2>Backstab</column_2><column_3>Required: Dagger 手に持った短剣による一撃。敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与える。</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100071</column_1><column_2>Opportunist Stab</column_2><column_3>Required: Dagger 手に持った短剣による一撃。If the enemy has the Pain or Confusion hex, this attack’s damage and knockback are doubled. If it has both, they are quadrupled instead.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100072</column_1><column_2>Dagger Slash</column_2><column_3>Required: Dagger 手に持った短剣による一撃。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100070</column_1><column_2>Backstab</column_2><column_3>必要: Dagger 手に持った短剣による一撃。敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与える。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100071</column_1><column_2>Opportunist Stab</column_2><column_3>必要: Dagger 手に持った短剣による一撃。敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になる。それが両方の場合は4倍になる。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100072</column_1><column_2>Dagger Slash</column_2><column_3>必要: Dagger 手に持った短剣による一撃。</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100080</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100090</column_1><column_2>Flamethrower</column_2><column_3>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect. This skill lowers the durability of the torch or lantern used.</column_3><column_4/><column_5/><column_6>Consumes some of the lantern's durability.</column_6></ooo_row>
-    <ooo_row><column_1>8100100</column_1><column_2>Evasion Shot</column_2><column_3>Required: Bow Shoot an arrow while jumping backwards. Causes the Cripple status effect on the target. Locking on foes is essential with this skill.</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100090</column_1><column_2>Flamethrower</column_2><column_3>必要: TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。このスキルは使用されるトーチやランタンの耐久性を低下させる。</column_3><column_4/><column_5/><column_6>ランタンの耐久性をいくらか消費する。</column_6></ooo_row>
+    <ooo_row><column_1>8100100</column_1><column_2>Evasion Shot</column_2><column_3>必要: Bow 後方にジャンプしながら矢を撃つ。ターゲットにCripple状態の効果を与えます。このスキルを使用するには、敵をロックオンする必要がある。</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100101</column_1><column_2>Sniper Shot</column_2><column_3>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100102</column_1><column_2>Piercing Shot</column_2><column_3>Required: Bow Strong shot that goes through enemies and hits other foes behind. Inflicts Extreme Bleeding.</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100102</column_1><column_2>Piercing Shot</column_2><column_3>必要: Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。極度の出血を引き起こす。</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100110</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100120</column_1><column_2>Push Kick</column_2><column_3>敵を蹴りノックバックさせ、スタミナを減少させる。. </column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100120</column_1><column_2>Push Kick</column_2><column_3>敵を蹴りノックバックさせ、スタミナを減少させる。 </column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100121</column_1><column_2>Sweep Kick</column_2><column_3>Weak attack with a wide arc of effect and high Impact. Will knock down a target afflicted by the Confusion status effect.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100130</column_1><column_2>Mana Push</column_2><column_3>Spell which inflicts no damage but has high Impact in a wide area in front of the caster. Can be combined with other spells for powerful effects.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100140</column_1><column_2>Mana Ward</column_2><column_3>Envelops you in Mana and, for an instant, you become immune to Damage. Can be combined with other spells for powerful effects.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100150</column_1><column_2>Conjure</column_2><column_3>Spell which does nothing on its own, but can be combined with other abilities.</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8100190</column_1><column_2>Shield Charge</column_2><column_3>Required: Shield 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。突進後に盾を振り抜き更にダメージを与え、当たった敵を混乱のステータス異常に陥れる。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8100190</column_1><column_2>Shield Charge</column_2><column_3>必要: Shield 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。突進後に盾を振り抜き更にダメージを与え、当たった敵を混乱のステータス異常に陥れる。</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100200</column_1><column_2>Gong Strike</column_2><column_3>Required: Infused Weapon, Shield Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</column_3><column_4/><column_5/><column_6>Lowers the weapon’s durability by 6%.</column_6></ooo_row>
     <ooo_row><column_1>8100210</column_1><column_2>Rune: Dez</column_2><column_3>Required: Lexicon Blue rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8100220</column_1><column_2>Rune: Shim</column_2><column_3>Required: Lexicon Red rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4/><column_5/><column_6/></ooo_row>
@@ -95,12 +95,12 @@
     <ooo_row><column_1>8200150</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200160</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200170</column_1><column_2>Mist</column_2><column_3>Grants the Mist boon, which increases your Ethereal Damage and Ethereal Resistance. 特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8200180</column_1><column_2>Blessed</column_2><column_3>Grants the Blessed boon, which increases your Lightning Damage and Lightning Resistance. 特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8200180</column_1><column_2>恩恵</column_2><column_3>Grants the Blessed boon, which increases your Lightning Damage and Lightning Resistance. 特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200190</column_1><column_2>Possessed</column_2><column_3>Grants the Possessed boon, which increases your Decay Damage and Decay Resistance. 特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8200210</column_1><column_2>Confusion</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8200210</column_1><column_2>混乱</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200220</column_1><column_2>Pain</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8200230</column_1><column_2>Burn</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>8200240</column_1><column_2>Chill</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8200230</column_1><column_2>燃える</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>8200240</column_1><column_2>冷やす</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200250</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200260</column_1><column_2>-</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>8200270</column_1><column_2>Haunted</column_2><column_3>-</column_3><column_4/><column_5/><column_6/></ooo_row>

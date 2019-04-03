@@ -756,7 +756,7 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>MessageBox_Photon_32758</column_1><column_2>指定された名前のゲームは見つかりませんでした。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>MessageBox_Online_RoomNameCreate</column_1><column_2>ホストするる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>MessageBox_Online_RoomNameJoin</column_1><column_2>ゲームに参加します</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Authentication_Failed</column_1><column_2>認証に失敗しました。外側が閉じます。Outward will close.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Authentication_Failed</column_1><column_2>認証に失敗しました。外側が閉じます。Outward を閉じます。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="7">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -768,103 +768,103 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>バッグが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Name</column_1><column_2>Bandages</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E3V1]%. Ethereal Resistance +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]%エーテル耐性+[E4V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BergSleepBuff_Name</column_1><column_2>Sleep: Berg</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bleeding1_Desc</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bleeding1_Name</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex1_Desc</column_1><column_2>Lose [E1V1]% of your health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex1_Name</column_1><column_2>Bleeding</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex2_Desc</column_1><column_2>Lose [E1V1]% of your health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BleedingHex2_Name</column_1><column_2>Extreme Bleeding</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoon_Desc</column_1><column_2>Lightning Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoon_Name</column_1><column_2>Blessed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Desc</column_1><column_2>Lightning Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex1_Desc</column_1><column_2>毎秒ヘルスの[E1V1%を失います。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex1_Name</column_1><column_2>出血</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex2_Desc</column_1><column_2>毎秒ヘルスの[E1V1%を失います。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BleedingHex2_Name</column_1><column_2>大量出血</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoon_Desc</column_1><column_2>ライトニングへの耐性+[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoon_Name</column_1><column_2>恩恵</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Desc</column_1><column_2>ライトニングへの耐性+[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BlessBoonAmplified_Name</column_1><column_2>Bless Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BurnHex_Desc</column_1><column_2>Fire Damage and Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BurnHex_Name</column_1><column_2>Burn</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Burning_Desc</column_1><column_2>Take [E1V1] Fire Damage per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Burning_Name</column_1><column_2>Burning</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Desc</column_1><column_2>Stealth +[E1V1]%. Stamina Cost of actions -[E3V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Name</column_1><column_2>Sleep: Camo Tent</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ChillHex_Desc</column_1><column_2>Frost Damage and Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ChillHex_Name</column_1><column_2>Chill</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Desc</column_1><column_2>Cold Weather Def +[E3V1]. Stamina Cost of actions -[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Name</column_1><column_2>Sleep: Cierzo</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ConfusionHex_Desc</column_1><column_2>Impact Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ConfusionHex_Name</column_1><column_2>Confusion</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CoolBoon_Desc</column_1><column_2>Frost Damage and Resistance +[E1V1]%. Hot Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BurnHex_Desc</column_1><column_2>ファイアーの耐性力[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BurnHex_Name</column_1><column_2>燃える</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Burning_Desc</column_1><column_2>毎秒炎か[E1V1]ダメージを受ける</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Burning_Name</column_1><column_2>炎上</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Desc</column_1><column_2>ステルス+[E1V1]%スタミナ消費-[E3V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CamoTentSleepBuff_Name</column_1><column_2>睡眠：迷彩テント</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ChillHex_Desc</column_1><column_2>フロストへの耐性[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ChillHex_Name</column_1><column_2>冷やす</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Desc</column_1><column_2>冷気耐性 +[E3V1]. スタミナ消費-[E4V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CierzoSleepBuff_Name</column_1><column_2>睡眠：Cierzo</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ConfusionHex_Desc</column_1><column_2>耐打撃性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ConfusionHex_Name</column_1><column_2>混乱</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CoolBoon_Desc</column_1><column_2>フロストダメージ耐性+[E1V1]%耐熱補正 +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_CoolBoon_Name</column_1><column_2>Cool</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CoolBoonAmplified_Desc</column_1><column_2>Frost Damage and Resistance +[E1V1]%. Hot Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CoolBoonAmplified_Desc</column_1><column_2>フロストダメージ耐性+[E1V1]%耐熱補正 +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_CoolBoonAmplified_Name</column_1><column_2>Cool Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Cripple_Desc</column_1><column_2>Movement Speed [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Cripple_Desc</column_1><column_2>移動速度[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Cripple_Name</column_1><column_2>Crippled</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_CurseHex_Desc</column_1><column_2>Decay Damage and Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_CurseHex_Desc</column_1><column_2>崩壊ダメージと耐性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_CurseHex_Name</column_1><column_2>Curse</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DefenseBonus_Desc</column_1><column_2>Physical and Impact Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DefenseBonus_Name</column_1><column_2>Physical Defenses Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DezRunes_Desc</column_1><column_2>Rune with no effect but can be combined with other runes in the correct order.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DefenseBonus_Desc</column_1><column_2>物理と打撃抵抗+[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DefenseBonus_Name</column_1><column_2>物理的防御上昇</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DezRunes_Desc</column_1><column_2>ルーンの効果なし、正しいルーンを組み合わせてください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_DezRunes_Name</column_1><column_2>Dez Runes</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DisciplineBoon_Desc</column_1><column_2>Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DisciplineBoon_Desc</column_1><column_2>物理ダメージ+[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_DisciplineBoon_Name</column_1><column_2>Discipline</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DisciplineBoonAmplified_Desc</column_1><column_2>Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DisciplineBoonAmplified_Desc</column_1><column_2>物理ダメージ+[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_DisciplineBoonAmplified_Name</column_1><column_2>Discipline Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Cold_1_Desc</column_1><column_2>Stamina Regen [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Cold_1_Name</column_1><column_2>Disease: Cold</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Cold_2_Desc</column_1><column_2>Stamina Regen [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Cold_2_Name</column_1><column_2>Disease: Acute Cold</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Indigestion_1_Desc</column_1><column_2>Has a chance to make you vomit when eating, nullifying the food’s effect.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Indigestion_1_Name</column_1><column_2>Disease: Indigestion</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Desc</column_1><column_2>Has a high chance to make you vomit when eating, nullifying the food’s effect.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Name</column_1><column_2>Disease: Acute Indigestion</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Desc</column_1><column_2>Lose 3% of your health per minute. Eating restores [E2V1]% less food.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Name</column_1><column_2>Disease: Infection</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Desc</column_1><column_2>Lose 7% of your health per minute. Eating restores [E2V1]% less food.</column_2><column_3/><column_4>Reduces Max Health by [E1V1]%. Eating restores [E2V1]% less food.</column_4><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Name</column_1><column_2>Disease: Acute Infection</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Desc</column_1><column_2>Lose 10% of your health per minute. Eating restores [E2V1]% less food.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Name</column_1><column_2>Disease: Extreme Infection</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Desc</column_1><column_2>This illness will eventually kill you. [E1V1]% maximum health.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Name</column_1><column_2>Disease: Life Drain 1</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Desc</column_1><column_2>This illness will eventually kill you. [E1V1]% maximum health.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Desc</column_1><column_2>This illness will kill you soon. [E1V1]% maximum health.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Name</column_1><column_2>Disease: Life Drain 2</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Name</column_1><column_2>Disease: Life Drain 3</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Dizzy_Desc</column_1><column_2>Impact Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Dizzy_Name</column_1><column_2>Dizzy</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_DoomHex_Desc</column_1><column_2>Lightning Damage and Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Cold_1_Desc</column_1><column_2>スタミナ回復[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Cold_1_Name</column_1><column_2>病気：かぜ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Cold_2_Desc</column_1><column_2>スタミナ回復[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Cold_2_Name</column_1><column_2>病気：急性のかぜ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Indigestion_1_Desc</column_1><column_2>食べたときに嘔吐する可能性があり、食べ物の効果を無効にします。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Indigestion_1_Name</column_1><column_2>病気：消化不良</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Desc</column_1><column_2>食べるときに嘔吐させる可能性が高く、食べ物の効果を無効にします。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Indigestion_2_Name</column_1><column_2>病気：急性消化不良</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Desc</column_1><column_2>1分あたりあなたのヘルスの3%を失います。食べると回復する[E2V1]%少ない食物。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_1_Name</column_1><column_2>病気：感染症</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Desc</column_1><column_2>1分あたりあなたのヘルスの7%を失います。食べると回復する[E2V1]%少ない食物。</column_2><column_3/><column_4>Reduces Max Health by [E1V1]%. 食べると回復する[E2V1]%少ない食物。</column_4><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_2_Name</column_1><column_2>病気：急性感染症</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Desc</column_1><column_2>1分あたりあなたのヘルスの10%を失います。食べると回復する[E2V1]%少ない食物。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_Infection_3_Name</column_1><column_2>病気：重度の感染症</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Desc</column_1><column_2>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス%E1V1]最大ヘルス%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_1_Name</column_1><column_2>病気：ライフドレイン1</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Desc</column_1><column_2>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス%E1V1]最大ヘルス%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Desc</column_1><column_2>病気は結局あなたを殺すでしょう。E1V1]最大ヘルス%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_2_Name</column_1><column_2>病気：ライフドレイン1 2</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Disease_LifeDrain_3_Name</column_1><column_2>病気：ライフドレイン1 3</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Dizzy_Desc</column_1><column_2>耐打撃性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Dizzy_Name</column_1><column_2>眩暈</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_DoomHex_Desc</column_1><column_2>ライトニングダメージと耐性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_DoomHex_Name</column_1><column_2>Doomed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Drunk_Desc</column_1><column_2>Impact Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Drunk_Name</column_1><column_2>Drunk</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_EgothRunes_Desc</column_1><column_2>Rune with no effect but can be combined with other runes in the correct order.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Drunk_Desc</column_1><column_2>耐打撃性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Drunk_Name</column_1><column_2>酩酊</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_EgothRunes_Desc</column_1><column_2>ルーンの効果なし、正しいルーンを組み合わせてください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_EgothRunes_Name</column_1><column_2>Egoth Runes</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalImmunity_Desc</column_1><column_2>Immune to Frost, Fire, Lightning, Decay and Ethereal Damage.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalImmunity_Name</column_1><column_2>Elemental Immunity</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalResistance_Desc</column_1><column_2>Frost, Fire, Lightning, Decay and Ethereal Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalResistance_Name</column_1><column_2>Elemental Resistance</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalResistance2_Desc</column_1><column_2>Fire, Frost, Lightning, Decay and Ethereal Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalResistance2_Name</column_1><column_2>Elemental Resistance 2</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ElementalVulnerability_Desc</column_1><column_2>Fire, Frost, Lightning, Decay and Ethereal Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalImmunity_Desc</column_1><column_2>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalImmunity_Name</column_1><column_2>エレメンタルへの耐性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalResistance_Desc</column_1><column_2>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalResistance_Name</column_1><column_2>エレメンタルへの耐性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalResistance2_Desc</column_1><column_2>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalResistance2_Name</column_1><column_2>エレメンタルへの耐性２</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ElementalVulnerability_Desc</column_1><column_2>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ElementalVulnerability_Name</column_1><column_2>Elemental Vulnerability</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_EnvColdResistance_Desc</column_1><column_2>Cold Weather Def +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_EnvColdResistance_Name</column_1><column_2>Cold Weather Def Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_EnvHeatResistance_Desc</column_1><column_2>Hot Weather Def +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_EnvColdResistance_Desc</column_1><column_2>冷気耐性 +[E3V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_EnvColdResistance_Name</column_1><column_2>冷気耐性上昇</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_EnvHeatResistance_Desc</column_1><column_2>高温耐性 +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_EnvHeatResistance_Name</column_1><column_2>Hot Weather Defense</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Environment Resistance_Desc</column_1><column_2>Hot and Cold Weather Def [E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Environment Resistance_Name</column_1><column_2>Weather Defense</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FalRunes_Desc</column_1><column_2>Rune with no effect but can be combined with other runes in the correct order.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FalRunes_Desc</column_1><column_2>ルーンの効果なし、正しいルーンを組み合わせてください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FalRunes_Name</column_1><column_2>Fal Runes</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Desc</column_1><column_2>Stamina Regen [E1V1]%. Mana Regen [E2V1] per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Desc</column_1><column_2>スタミナ回復[E1V1]%Mana Regen [E2V1] per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue2_Drowsy_Name</column_1><column_2>Needs: Tired</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Desc</column_1><column_2>Stamina Regen [E1V1]%. Mana Regen [E2V1] per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Desc</column_1><column_2>スタミナ回復[E1V1]%Mana Regen [E2V1] per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue3_Tired_Name</column_1><column_2>Needs: Very Tired</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue6_Energized_Desc</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Fatigue6_Energized_Name</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FireflyStatus_Desc</column_1><column_2>Makes you more visible to enemies.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FireflyStatus_Name</column_1><column_2>Fireflies</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodDizzy_Desc</column_1><column_2>Impact Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodDizzy_Name</column_1><column_2>Dizzy</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodEnvColdResistance_Desc</column_1><column_2>Cold Weather Def +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodDizzy_Desc</column_1><column_2>耐打撃性[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodDizzy_Name</column_1><column_2>眩暈</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodEnvColdResistance_Desc</column_1><column_2>冷気耐性 +[E3V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodEnvColdResistance_Name</column_1><column_2>Cold Weather Defense</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodEnvHeatResistance_Desc</column_1><column_2>Hot Weather Def +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodEnvHeatResistance_Desc</column_1><column_2>高温耐性 +[E1V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodEnvHeatResistance_Name</column_1><column_2>Hot Weather Defense</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPoisonedHex_Desc</column_1><column_2>Take [E1V1] Decay Damage per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPoisonedHex_Name</column_1><column_2>Poison</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -878,7 +878,7 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_FoodWarm_Name</column_1><column_2>温暖</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Desc</column_1><column_2>Immune to Damage, but vulnerable to Impact.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ForceBubble_Name</column_1><column_2>Force Bubble</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>Cold Weather Def +[E1V1]. Stamina Cost of actions -[E2V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Desc</column_1><column_2>冷気耐性 +[E3V1]. Stamina Cost of actions -[E2V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FurTentSleepBuff_Name</column_1><column_2>Sleep: Fur Tent</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_GaberryWine_Desc</column_1><column_2>Mana cost [E1V1]%. Physical Resistance [E2V1]%. Impact Resistance [E3V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_GaberryWine_Name</column_1><column_2>Gaberry Wine</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -904,11 +904,11 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_Hunger3_Hungry_Name</column_1><column_2>Needs: Hungry</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger6_Bloated_Desc</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger6_Bloated_Name</column_1><column_2/><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ImmolatedHex_Desc</column_1><column_2>Deal +[E2V1]% Fire Damage. Take [E1V1] Fire Damage per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ImmolatedHex_Desc</column_1><column_2>Deal +[E2V1]% Fire Damage. 毎秒炎か[E1V1]ダメージを受ける</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ImmolatedHex_Name</column_1><column_2>Immolate</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ImpactUp_Desc</column_1><column_2>Weapon Impact +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ImpactUp_Name</column_1><column_2>Impact Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_LevantSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E3V1]%. Hot Weather Def +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_LevantSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]%Hot Weather Def +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_LevantSleepBuff_Name</column_1><column_2>Sleep: Levant</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_LuxuryTentSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_LuxuryTentSleepBuff_Name</column_1><column_2>Sleep: Luxury Tent</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -930,7 +930,7 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_MistBoon_Name</column_1><column_2>Mist</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Desc</column_1><column_2>Ethereal Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_MistBoonAmplified_Name</column_1><column_2>Mist Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E3V1]%. Impact Resistance +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Desc</column_1><column_2>スタミナ消費-[E3V1]%Impact Resistance +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_MonsoonSleepBuff_Name</column_1><column_2>Sleep: Monsoon</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Desc</column_1><column_2>Physical Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PainHex_Name</column_1><column_2>Pain</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -960,9 +960,9 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_RunicProtection_Name</column_1><column_2>Runic Protection</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicProtectionAmplified_Desc</column_1><column_2>Physical Resistance +[E1V1]%. Physical Protection +[E2V1]. Other Resistances +[E3V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicProtectionAmplified_Name</column_1><column_2>Runic Protection Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ShimRunes_Desc</column_1><column_2>Rune with no effect but can be combined with other runes in the correct order.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ShimRunes_Desc</column_1><column_2>ルーンの効果なし、正しいルーンを組み合わせてください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_ShimRunes_Name</column_1><column_2>Shim Runes</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_SlowDown_Desc</column_1><column_2>Movement Speed [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_SlowDown_Desc</column_1><column_2>移動速度[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_SlowDown_Name</column_1><column_2>Slow Down</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_SpeedUp_Desc</column_1><column_2>Movement Speed +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_SpeedUp_Name</column_1><column_2>Speed Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -986,13 +986,13 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_StealthUp_Name</column_1><column_2>Stealth Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Stun_Desc</column_1><column_2>Cannot act.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Stun_Name</column_1><column_2>Stunned</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Desc</column_1><column_2>Can catch a Cold. Movement Speed [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature2_Cold_Desc</column_1><column_2>Can catch a Cold. 移動速度[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature2_Cold_Name</column_1><column_2>Needs: Cold</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Desc</column_1><column_2>Can catch a Cold. Movement Speed [E2V1]%. Take [E1V1] Frost Damage per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature3_VeryCold_Name</column_1><column_2>Needs: Very Cold</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature4_Hot_Desc</column_1><column_2>Stamina Cost of actions +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature4_Hot_Name</column_1><column_2>Needs: Hot</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>Impact Resistance [E1V1]%. Stamina Cost of actions +[E2V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Desc</column_1><column_2>耐打撃性[E1V1]%Stamina Cost of actions +[E2V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Temperature5_VeryHot_Name</column_1><column_2>Needs: Very Hot</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_TentSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_TentSleepBuff_Name</column_1><column_2>Sleep: Simple Tent</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -1001,24 +1001,24 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_Thirst2_Parched_Name</column_1><column_2>Needs: Very Thirsty</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Thirst3_Thirsty_Desc</column_1><column_2>Your max Stamina decreases 3 times faster.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Name</column_1><column_2>Needs: Refreshed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Desc</column_1><column_2>Stamina Regen [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Thirst4_Refreshed_Desc</column_1><column_2>スタミナ回復[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoon_Desc</column_1><column_2>Fire Damage and Resistance +[E1V1]%. Cold Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoon_Name</column_1><column_2>温暖</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoonAmplified_Desc</column_1><column_2>Fire Damage and Resistance +[E1V1]%. Cold Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WarmBoonAmplified_Name</column_1><column_2>Warm Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Desc</column_1><column_2>Recover [E1V1] Stamina per second. Hot Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Desc</column_1><column_2>Recover [E1V1] Stamina per second. 耐熱補正 +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WaterStaminaRcovery_Name</column_1><column_2>Water Effect</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Wet_Desc</column_1><column_2>Cold Weather Def [E1V1]. Frost Resistance [E3V1]. Fire Resistance +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Wet_Name</column_1><column_2>Wet</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WindImbueStats_Desc</column_1><column_2>Movement Speed +[E1V1]%. Weapon Impact +[E2V1]%. Stamina burns [E3V1]% faster.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WindImbueStats_Name</column_1><column_2>Wind Imbue</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodAttackUp_Desc</column_1><column_2>Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodAttackUp_Desc</column_1><column_2>物理ダメージ+[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodAttackUp_Name</column_1><column_2>物理攻撃力上昇</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodBless_Desc</column_1><column_2>Lightning Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodBless_Name</column_1><column_2>Blessed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodCool_Desc</column_1><column_2>Frost Damage and Resistance +[E1V1]%. Hot Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodBless_Desc</column_1><column_2>ライトニングへの耐性+[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodBless_Name</column_1><column_2>恩恵</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodCool_Desc</column_1><column_2>フロストダメージ耐性+[E1V1]%耐熱補正 +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodCool_Name</column_1><column_2>Cool</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodDiscipline_Desc</column_1><column_2>Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodDiscipline_Desc</column_1><column_2>物理ダメージ+[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodDiscipline_Name</column_1><column_2>Discipline</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodImpactUp_Desc</column_1><column_2>Weapon Impact +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodImpactUp_Name</column_1><column_2>Impact Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -1026,7 +1026,7 @@ Notification_Action_Invalid</column_1><column_2>今その行動はできませ�
     <ooo_row><column_1>StatusEffect_FoodMist_Name</column_1><column_2>Mist</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPossessed_Desc</column_1><column_2>Decay Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodPossessed_Name</column_1><column_2>Possessed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodSlowDown_Desc</column_1><column_2>Movement Speed [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodSlowDown_Desc</column_1><column_2>移動速度[E1V1]%</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodSlowDown_Name</column_1><column_2>Slow Down</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger4_Full_Desc</column_1><column_2>Recover [E1V1] Burnt Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger4_Full_Name</column_1><column_2>満腹</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
