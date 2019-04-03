@@ -6196,6 +6196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, you deserve a little pay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100014Z" creationid="rkmad" creationdate="20190403T100005Z">
+        <seg>少ないけれど、とっておきなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T165745Z" creationid="setom" creationdate="20190402T165629Z">
@@ -15384,6 +15392,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>reward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T095852Z" creationid="rkmad" creationdate="20190403T095852Z">
+        <seg>報酬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>value</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
@@ -15787,6 +15803,16 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T144536Z" creationid="setom" creationdate="20190402T144327Z">
         <seg>ああ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2469_0</prop>
+      <tuv lang="EN-US">
+        <seg>Good work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100108Z" creationid="rkmad" creationdate="20190403T095953Z">
+        <seg>よくやったわ。</seg>
       </tuv>
     </tu>
     <tu>
