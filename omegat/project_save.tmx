@@ -1783,6 +1783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancient forest of giant trees, with vicious arcane monsters prowling about.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114432Z" creationid="Gaiden Shinji" creationdate="20190403T114432Z">
+        <seg>巨大な木々の群生する古代の森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
@@ -2306,6 +2314,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114443Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
+        <seg>ベルク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -2318,6 +2334,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T061333Z" creationid="hiru4" creationdate="20190403T060423Z">
         <seg>Blessed Boonが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blister Burrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114512Z" creationid="Gaiden Shinji" creationdate="20190403T114512Z">
+        <seg>ブリスターバロウ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2390,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
         <seg>ブルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Chamber’s Conflux Path</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114542Z" creationid="Gaiden Shinji" creationdate="20190403T114542Z">
+        <seg>ブルーチャンバーの合流路</seg>
       </tuv>
     </tu>
     <tu>
@@ -3343,6 +3375,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020351Z" creationid="hiru4" creationdate="20190402T020351Z">
         <seg>取引を確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflux Chambers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114527Z" creationid="Gaiden Shinji" creationdate="20190403T114527Z">
+        <seg>コンフラックスチャンバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,6 +4828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enmerkar Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114410Z" creationid="Gaiden Shinji" creationdate="20190403T114410Z">
+        <seg>エンマーカルの森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115057Z" creationid="setom" creationdate="20190401T115057Z">
@@ -6120,6 +6168,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091549Z" creationid="setom" creationdate="20190403T091549Z">
         <seg>GenericMessage_Warning_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ghost Pass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114517Z" creationid="Gaiden Shinji" creationdate="20190403T114517Z">
+        <seg>ゴーストバス</seg>
       </tuv>
     </tu>
     <tu>
@@ -10993,6 +11049,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Petrified Wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114343Z" creationid="Gaiden Shinji" creationdate="20190403T114336Z">
+        <seg>化石の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physical</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114726Z" creationid="setom" creationdate="20190401T114726Z">
@@ -12246,6 +12310,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024329Z" creationid="hiru4" creationdate="20190402T024329Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Salt Crystal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114325Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
+        <seg>ソルトクリスタル</seg>
       </tuv>
     </tu>
     <tu>
@@ -14177,6 +14249,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114346Z" creationid="Gaiden Shinji" creationdate="20190403T114346Z">
+        <seg>木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Troglodytes gather around a large stone pot over a fire, sometimes staring at you hungrily.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T085428Z" creationid="はぐくみ会" creationdate="20190403T085428Z">
@@ -14365,6 +14445,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Fortress</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114500Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
+        <seg>ベンダベル要塞</seg>
       </tuv>
     </tu>
     <tu>
