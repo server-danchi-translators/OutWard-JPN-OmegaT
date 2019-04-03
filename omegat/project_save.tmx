@@ -1759,6 +1759,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ammolite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114039Z" creationid="Gaiden Shinji" creationdate="20190403T114039Z">
+        <seg>アンモナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An infused weapon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T054309Z" creationid="hiru4" creationdate="20190403T054309Z">
@@ -2358,6 +2366,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
         <seg>ブルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Sand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114045Z" creationid="Gaiden Shinji" creationdate="20190403T114045Z">
+        <seg>青い砂</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,6 +5348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Firefly Powder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114003Z" creationid="Gaiden Shinji" creationdate="20190403T114003Z">
+        <seg>ホタルパウダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, put the Spark and Fire Sigil skills in your quickslots, and be certain to have Fire Stones in your inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094958Z" creationid="setom" creationdate="20190402T080247Z">
@@ -7104,6 +7128,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron vein</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114216Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
+        <seg>鉱脈(アイアン)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It ain't your time to die today.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T095029Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
@@ -7965,6 +7997,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Stone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114237Z" creationid="Gaiden Shinji" creationdate="20190403T114237Z">
+        <seg>マナストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana Use</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083522Z" creationid="totochan" creationdate="20190402T083522Z">
@@ -8073,6 +8113,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112703Z" creationid="Gaiden Shinji" creationdate="20190403T110441Z">
         <seg>マーシュ隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marshmelon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113956Z" creationid="Gaiden Shinji" creationdate="20190403T113956Z">
+        <seg>マーシュメロン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10144,6 +10192,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114240Z" creationid="Gaiden Shinji" creationdate="20190403T114240Z">
+        <seg>油</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oil lantern that shines brightly.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080825Z" creationid="rkmad" creationdate="20190403T080825Z">
@@ -10837,6 +10893,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062413Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
         <seg>あなたの意識が薄れるにつれて、痛みはあなたの体を包み込む…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Palladium vein</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114316Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
+        <seg>鉱脈(パラジウム)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12130,6 +12194,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rich Iron vein</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114231Z" creationid="Gaiden Shinji" creationdate="20190403T114231Z">
+        <seg>鉱脈(リッチアイアン)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>River Water</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071634Z" creationid="hiru4" creationdate="20190402T071634Z">
@@ -12206,6 +12278,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083045Z" creationid="totochan" creationdate="20190402T083045Z">
         <seg>保存中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seaweed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114007Z" creationid="Gaiden Shinji" creationdate="20190403T114007Z">
+        <seg>海藻</seg>
       </tuv>
     </tu>
     <tu>
@@ -12678,6 +12758,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164508Z" creationid="setom" creationdate="20190402T090405Z">
         <seg>宿屋やテントでの睡眠は疲れを取り、体力を回復します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smoke Root</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114016Z" creationid="Gaiden Shinji" creationdate="20190403T114016Z">
+        <seg>スモークルート</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,6 +14193,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turmmip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114024Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
+        <seg>ターミップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115825Z" creationid="setom" creationdate="20190401T115825Z">
@@ -14837,11 +14933,27 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Woolshroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114032Z" creationid="Gaiden Shinji" creationdate="20190403T114032Z">
+        <seg>ウールルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Work when we tell you to, and you’ll get food and water.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T084820Z" creationid="はぐくみ会" creationdate="20190403T084820Z">
         <seg>私たちの命令通りに働け、あなたは食べ物と水を手に入れることができる。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yellow Copal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114055Z" creationid="Gaiden Shinji" creationdate="20190403T114055Z">
+        <seg>イエローコパール</seg>
       </tuv>
     </tu>
     <tu>
