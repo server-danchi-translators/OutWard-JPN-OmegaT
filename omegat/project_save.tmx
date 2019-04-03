@@ -5622,6 +5622,15 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It seems someone found you on the edge of death and nursed you back to health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062813Z" creationid="はぐくみ会" creationdate="20190403T062813Z">
+        <seg>誰かがあなたを死の瀬戸際に見つけ、あなたを健康状態に戻した。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It takes a long time to recover from illness, though medicinal teas can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082436Z" creationid="setom" creationdate="20190402T082436Z">
@@ -7701,6 +7710,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T072133Z" creationid="urakata" creationdate="20190331T072041Z">
         <seg>怪我によって目覚め、難破した体が痛みに震える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pain wracks your body as your consciousness fades…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062413Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
+        <seg>あなたの意識が薄れるにつれて、痛みはあなたの体を包み込む…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10018,6 +10035,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The warm smells of Cierzo's inn greet you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063027Z" creationid="はぐくみ会" creationdate="20190403T062501Z">
+        <seg>Cierzo's innの温かい香りがあなたを迎えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The weather often gets dangerously cold or hot.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112444Z" creationid="setom" creationdate="20190331T112444Z">
@@ -11243,6 +11268,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can’t stand anymore, the very act of breathing is becoming difficult.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062304Z" creationid="はぐくみ会" creationdate="20190403T062304Z">
+        <seg>もう我慢できない、まさに呼吸の行為が困難になりつつある。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You could not keep it in.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062649Z" creationid="hiru4" creationdate="20190403T062649Z">
@@ -11287,6 +11321,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060534Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
         <seg>あなたは仕事を得る。刑務所のドアからボルトを無理やり押し出す仕事を。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have been out cold for days, though at the least you're still alive...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063206Z" creationid="はぐくみ会" creationdate="20190403T063022Z">
+        <seg>少なくともあなたはまだ生きてるが、風邪をひいてしまったようだ...
 </seg>
       </tuv>
     </tu>
