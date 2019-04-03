@@ -9108,6 +9108,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refreshing drink that carries no risk of disease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T075131Z" creationid="rkmad" creationdate="20190403T075131Z">
+        <seg>安全に飲むことができる美味しい水で、長旅では貴重かつ必需品だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloading World...</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
