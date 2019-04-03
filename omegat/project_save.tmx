@@ -2073,6 +2073,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BackToMainMenu_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091638Z" creationid="setom" creationdate="20190403T091638Z">
+        <seg>BackToMainMenu_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>BackToMainMenu_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091639Z" creationid="setom" creationdate="20190403T091639Z">
+        <seg>BackToMainMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backpack</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T145810Z" creationid="totochan" creationdate="20190402T145810Z">
@@ -2491,6 +2507,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ChannelingMenu_Confirm_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091558Z" creationid="setom" creationdate="20190403T091558Z">
+        <seg>ChannelingMenu_Confirm_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ChannelingMenu_Confirm_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091637Z" creationid="setom" creationdate="20190403T091637Z">
+        <seg>ChannelingMenu_Confirm_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ChannelingMenu_CurrentStat</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113201Z" creationid="setom" creationdate="20190401T113201Z">
@@ -2523,6 +2555,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharSelection_DeleteSaveMessage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091553Z" creationid="setom" creationdate="20190403T091553Z">
+        <seg>CharSelection_DeleteSaveMessage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharSelection_DeleteSaveTitle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091554Z" creationid="setom" creationdate="20190403T091554Z">
+        <seg>CharSelection_DeleteSaveTitle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CharSelection_SelectCharacter</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114355Z" creationid="setom" creationdate="20190401T114355Z">
@@ -2551,6 +2599,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113310Z" creationid="setom" creationdate="20190401T113310Z">
         <seg>CharacterCreation_CreateButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_EmptyName_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091553Z" creationid="setom" creationdate="20190403T091553Z">
+        <seg>CharacterCreation_EmptyName_Message</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,6 +3347,230 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Context_Cooking_MoveToFuel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091518Z" creationid="setom" creationdate="20190403T091518Z">
+        <seg>Context_Cooking_MoveToFuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Cooking_MoveToIngredients</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091517Z" creationid="setom" creationdate="20190403T091517Z">
+        <seg>Context_Cooking_MoveToIngredients</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Equipment_Switch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091528Z" creationid="setom" creationdate="20190403T091528Z">
+        <seg>Context_Equipment_Switch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Equipment_UnequipBag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091529Z" creationid="setom" creationdate="20190403T091529Z">
+        <seg>Context_Equipment_UnequipBag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Equipment_UnequipPocket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091529Z" creationid="setom" creationdate="20190403T091529Z">
+        <seg>Context_Equipment_UnequipPocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_AssignToQuickSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091530Z" creationid="setom" creationdate="20190403T091530Z">
+        <seg>Context_Item_AssignToQuickSlot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Buy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091539Z" creationid="setom" creationdate="20190403T091539Z">
+        <seg>Context_Item_Buy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Deploy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091538Z" creationid="setom" creationdate="20190403T091538Z">
+        <seg>Context_Item_Deploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Drop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091527Z" creationid="setom" creationdate="20190403T091527Z">
+        <seg>Context_Item_Drop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Empty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091539Z" creationid="setom" creationdate="20190403T091539Z">
+        <seg>Context_Item_Empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Equip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091531Z" creationid="setom" creationdate="20190403T091531Z">
+        <seg>Context_Item_Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_ExploreStack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091541Z" creationid="setom" creationdate="20190403T091541Z">
+        <seg>Context_Item_ExploreStack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Fill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091537Z" creationid="setom" creationdate="20190403T091537Z">
+        <seg>Context_Item_Fill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_FreeQuickSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091546Z" creationid="setom" creationdate="20190403T091546Z">
+        <seg>Context_Item_FreeQuickSlot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_LanternAttach</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091547Z" creationid="setom" creationdate="20190403T091547Z">
+        <seg>Context_Item_LanternAttach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091542Z" creationid="setom" creationdate="20190403T091542Z">
+        <seg>Context_Item_Light</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_MoveToBag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091520Z" creationid="setom" creationdate="20190403T091520Z">
+        <seg>Context_Item_MoveToBag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_MoveToContainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091526Z" creationid="setom" creationdate="20190403T091526Z">
+        <seg>Context_Item_MoveToContainer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_MoveToPocket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091519Z" creationid="setom" creationdate="20190403T091519Z">
+        <seg>Context_Item_MoveToPocket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_PutOut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091543Z" creationid="setom" creationdate="20190403T091543Z">
+        <seg>Context_Item_PutOut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Read</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091533Z" creationid="setom" creationdate="20190403T091533Z">
+        <seg>Context_Item_Read</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Remove</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091541Z" creationid="setom" creationdate="20190403T091541Z">
+        <seg>Context_Item_Remove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Sell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091540Z" creationid="setom" creationdate="20190403T091540Z">
+        <seg>Context_Item_Sell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091527Z" creationid="setom" creationdate="20190403T091527Z">
+        <seg>Context_Item_Take</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Unequip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091532Z" creationid="setom" creationdate="20190403T091532Z">
+        <seg>Context_Item_Unequip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Item_Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091532Z" creationid="setom" creationdate="20190403T091532Z">
+        <seg>Context_Item_Use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Map_Create</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091544Z" creationid="setom" creationdate="20190403T091544Z">
+        <seg>Context_Map_Create</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Context_Map_Edit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091544Z" creationid="setom" creationdate="20190403T091544Z">
+        <seg>Context_Map_Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115022Z" creationid="setom" creationdate="20190401T115016Z">
@@ -3740,6 +4020,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Demo_Reset_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091640Z" creationid="setom" creationdate="20190403T091640Z">
+        <seg>Demo_Reset_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demo_Reset_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091640Z" creationid="setom" creationdate="20190403T091640Z">
+        <seg>Demo_Reset_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063221Z" creationid="hiru4" creationdate="20190403T063221Z">
@@ -4014,8 +4310,8 @@
       <tuv lang="EN-US">
         <seg>End splitscreen</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T065148Z" creationid="hiru4" creationdate="20190403T065148Z">
-        <seg>分割画面終了n</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091703Z" creationid="hiru4" creationdate="20190403T065148Z">
+        <seg>分割画面終了</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,6 +5600,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115845Z" creationid="setom" creationdate="20190401T115845Z">
         <seg>General_Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GenericMessage_Error_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091549Z" creationid="setom" creationdate="20190403T091549Z">
+        <seg>GenericMessage_Error_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GenericMessage_Warning_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091549Z" creationid="setom" creationdate="20190403T091549Z">
+        <seg>GenericMessage_Warning_Title</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,10 +7443,322 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MessageBox_CharacterSelect_AlreadySignedIn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091658Z" creationid="setom" creationdate="20190403T091658Z">
+        <seg>MessageBox_CharacterSelect_AlreadySignedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Controller_Reconnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091655Z" creationid="setom" creationdate="20190403T091655Z">
+        <seg>MessageBox_Controller_Reconnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Controller_ReconnectP1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091655Z" creationid="setom" creationdate="20190403T091655Z">
+        <seg>MessageBox_Controller_ReconnectP1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Controller_ReconnectP2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091656Z" creationid="setom" creationdate="20190403T091656Z">
+        <seg>MessageBox_Controller_ReconnectP2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Installation_NotFullyInstalled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091659Z" creationid="setom" creationdate="20190403T091659Z">
+        <seg>MessageBox_Installation_NotFullyInstalled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Network_CannotJoinAtThisMoment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091651Z" creationid="setom" creationdate="20190403T091651Z">
+        <seg>MessageBox_Network_CannotJoinAtThisMoment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Network_ConnectionError</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091653Z" creationid="setom" creationdate="20190403T091653Z">
+        <seg>MessageBox_Network_ConnectionError</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Network_JoinNoCharacter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091651Z" creationid="setom" creationdate="20190403T091651Z">
+        <seg>MessageBox_Network_JoinNoCharacter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Network_JoinSplitscreen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091650Z" creationid="setom" creationdate="20190403T091650Z">
+        <seg>MessageBox_Network_JoinSplitscreen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Network_JoinTutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091649Z" creationid="setom" creationdate="20190403T091649Z">
+        <seg>MessageBox_Network_JoinTutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Online_CannotConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091711Z" creationid="setom" creationdate="20190403T091711Z">
+        <seg>MessageBox_Online_CannotConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MessageBox_OptionsPending</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064939Z" creationid="hiru4" creationdate="20190403T064939Z">
         <seg>設定の変更が適用されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_DisconnectByClientTimeout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091714Z" creationid="setom" creationdate="20190403T091714Z">
+        <seg>MessageBox_Photon_DisconnectByClientTimeout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_DisconnectByServer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091716Z" creationid="setom" creationdate="20190403T091716Z">
+        <seg>MessageBox_Photon_DisconnectByServer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_DisconnectByServerLogic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091720Z" creationid="setom" creationdate="20190403T091720Z">
+        <seg>MessageBox_Photon_DisconnectByServerLogic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_DisconnectByServerTimeout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091718Z" creationid="setom" creationdate="20190403T091718Z">
+        <seg>MessageBox_Photon_DisconnectByServerTimeout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_DisconnectByServerUserLimit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091721Z" creationid="setom" creationdate="20190403T091721Z">
+        <seg>MessageBox_Photon_DisconnectByServerUserLimit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_Exception</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091722Z" creationid="setom" creationdate="20190403T091722Z">
+        <seg>MessageBox_Photon_Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_ExceptionOnConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091712Z" creationid="setom" creationdate="20190403T091712Z">
+        <seg>MessageBox_Photon_ExceptionOnConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_InternalReceiveException</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091714Z" creationid="setom" creationdate="20190403T091714Z">
+        <seg>MessageBox_Photon_InternalReceiveException</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_InvalidAuthentication</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091744Z" creationid="setom" creationdate="20190403T091744Z">
+        <seg>MessageBox_Photon_InvalidAuthentication</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_InvalidRegion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091737Z" creationid="setom" creationdate="20190403T091737Z">
+        <seg>MessageBox_Photon_InvalidRegion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_MaxCcuReached</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091738Z" creationid="setom" creationdate="20190403T091738Z">
+        <seg>MessageBox_Photon_MaxCcuReached</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_SecurityExceptionOnConnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091712Z" creationid="setom" creationdate="20190403T091712Z">
+        <seg>MessageBox_Photon_SecurityExceptionOnConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Photon_TimeoutDisconnect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091713Z" creationid="setom" creationdate="20190403T091713Z">
+        <seg>MessageBox_Photon_TimeoutDisconnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Settings_Applied</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091653Z" creationid="setom" creationdate="20190403T091653Z">
+        <seg>MessageBox_Settings_Applied</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_SignOut_Player1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091657Z" creationid="setom" creationdate="20190403T091657Z">
+        <seg>MessageBox_SignOut_Player1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_SignOut_Player2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091657Z" creationid="setom" creationdate="20190403T091657Z">
+        <seg>MessageBox_SignOut_Player2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_SplitScreen_EndSplit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091659Z" creationid="setom" creationdate="20190403T091659Z">
+        <seg>MessageBox_SplitScreen_EndSplit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Split_NotEnoughControllers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091652Z" creationid="setom" creationdate="20190403T091652Z">
+        <seg>MessageBox_Split_NotEnoughControllers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_Buy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091642Z" creationid="setom" creationdate="20190403T091642Z">
+        <seg>MessageBox_Stack_Buy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_Drop</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091643Z" creationid="setom" creationdate="20190403T091643Z">
+        <seg>MessageBox_Stack_Drop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_MoveTo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091643Z" creationid="setom" creationdate="20190403T091643Z">
+        <seg>MessageBox_Stack_MoveTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_RemoveCart</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091644Z" creationid="setom" creationdate="20190403T091644Z">
+        <seg>MessageBox_Stack_RemoveCart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_Sell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091645Z" creationid="setom" creationdate="20190403T091645Z">
+        <seg>MessageBox_Stack_Sell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Stack_Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091645Z" creationid="setom" creationdate="20190403T091645Z">
+        <seg>MessageBox_Stack_Take</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Trainer_ConfirmLearnAlternative</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091646Z" creationid="setom" creationdate="20190403T091646Z">
+        <seg>MessageBox_Trainer_ConfirmLearnAlternative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Trainer_ConfirmLearnBase</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091647Z" creationid="setom" creationdate="20190403T091647Z">
+        <seg>MessageBox_Trainer_ConfirmLearnBase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Trainer_ConfirmLearnFee</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091647Z" creationid="setom" creationdate="20190403T091647Z">
+        <seg>MessageBox_Trainer_ConfirmLearnFee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MessageBox_Trainer_ConfirmProceed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091511Z" creationid="setom" creationdate="20190403T091511Z">
+        <seg>MessageBox_Trainer_ConfirmProceed</seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,8 +8141,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>Move to Fuel</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062950Z" creationid="hiru4" creationdate="20190403T062950Z">
-        <seg>燃料を追加&lt;</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091524Z" creationid="hiru4" creationdate="20190403T062950Z">
+        <seg>燃料を追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -10297,8 +10921,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T063204Z" creationid="hiru4" creationdate="20190403T063204Z">
-        <seg>読むRead</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091536Z" creationid="hiru4" creationdate="20190403T063204Z">
+        <seg>読む</seg>
       </tuv>
     </tu>
     <tu>
@@ -10999,6 +11623,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shop_Exit_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091641Z" creationid="setom" creationdate="20190403T091641Z">
+        <seg>Shop_Exit_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shop_Exit_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091641Z" creationid="setom" creationdate="20190403T091641Z">
+        <seg>Shop_Exit_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Enemy Health</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021640Z" creationid="hiru4" creationdate="20190402T021640Z">
@@ -11275,6 +11915,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083504Z" creationid="totochan" creationdate="20190402T083504Z">
         <seg>速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SplitScreen_Stop_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091555Z" creationid="setom" creationdate="20190403T091555Z">
+        <seg>SplitScreen_Stop_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SplitScreen_Stop_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091557Z" creationid="setom" creationdate="20190403T091557Z">
+        <seg>SplitScreen_Stop_Title</seg>
       </tuv>
     </tu>
     <tu>
@@ -12092,8 +12748,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>The teaching fee is {1} silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T064651Z" creationid="hiru4" creationdate="20190403T064651Z">
-        <seg>授業料は{1}シルバーです。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091508Z" creationid="hiru4" creationdate="20190403T064651Z">
+        <seg>授業料は銀貨{1}枚です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12510,6 +13166,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115825Z" creationid="setom" creationdate="20190401T115825Z">
         <seg>チュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorial_Leave_Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091551Z" creationid="setom" creationdate="20190403T091551Z">
+        <seg>Tutorial_Leave_Message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tutorial_Leave_Title</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091552Z" creationid="setom" creationdate="20190403T091552Z">
+        <seg>Tutorial_Leave_Title</seg>
       </tuv>
     </tu>
     <tu>
@@ -13189,8 +13861,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are about to stop split-screen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T064224Z" creationid="hiru4" creationdate="20190403T064054Z">
-        <seg>分割画面を停止して</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T091620Z" creationid="hiru4" creationdate="20190403T064054Z">
+        <seg>分割画面を停止しようとしています。</seg>
       </tuv>
     </tu>
     <tu>
