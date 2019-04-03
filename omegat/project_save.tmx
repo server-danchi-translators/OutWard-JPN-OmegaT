@@ -15277,6 +15277,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You hover in and out of consciousness for hours, until at last you are able to get back up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T112333Z" creationid="はぐくみ会" creationdate="20190403T112333Z">
+        <seg>何時間も意識の外で彷徨い、やっとあなたは立ち直ることができた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You know how to make bandages, right?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095422Z" creationid="rkmad" creationdate="20190403T095143Z">
@@ -15634,8 +15642,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Your life-threatening injuries have been bandaged by a hooded man, who silently turns to leave, entering a door along the mountain wall without a backwards glance...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111410Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
-        <seg>あなたの生命にかかわる損傷は、フードを被った男によって包帯をされていた。彼は後ろを見ることなく、山の壁に現れた扉に入り、静かに去って行く...
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T112222Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
+        <seg>生命にかかわる損傷は、フードを被った男によって包帯をされていた。彼は振り向くことなく、山の壁沿いの扉に入り、静かに去って行く...
 </seg>
       </tuv>
     </tu>
