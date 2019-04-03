@@ -8697,6 +8697,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep heals tiredness, max health and max stamina, but reduces your max mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T014806Z" creationid="hiru4" creationdate="20190403T014806Z">
+        <seg>睡眠は疲労をとり、ヘルスとスタミナを回復させますが、マナを減少させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep in a tent or an inn to recover your maximum health and stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112114Z" creationid="setom" creationdate="20190331T112114Z">
