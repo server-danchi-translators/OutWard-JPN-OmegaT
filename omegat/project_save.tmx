@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All players must be closer to travel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T050917Z" creationid="hiru4" creationdate="20190403T050917Z">
+        <seg>参加してるプレーヤーが近くにいなければ、なりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Already known</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025456Z" creationid="setom" creationdate="20190402T025456Z">
