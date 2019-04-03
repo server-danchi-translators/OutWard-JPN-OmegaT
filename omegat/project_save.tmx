@@ -6583,6 +6583,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No Breakthrough Point remaining.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052809Z" creationid="hiru4" creationdate="20190403T052809Z">
+        <seg>ブレークスルーポイントは残りは有りません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Limit</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115934Z" creationid="setom" creationdate="20190401T115934Z">
@@ -10795,8 +10803,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You must be part of the Blue Chamber to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052506Z" creationid="hiru4" creationdate="20190403T052506Z">
-        <seg>スキルを学ぶためにBlue Chamberの一員でなければなりません。.</seg>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052617Z" creationid="hiru4" creationdate="20190403T052506Z">
+        <seg>スキルを学ぶためにBlue Chamberのメンバーでなければなりません。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10805,6 +10813,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052605Z" creationid="hiru4" creationdate="20190403T052605Z">
         <seg>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must be part of the Holy Mission of Elatt to learn this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052652Z" creationid="hiru4" creationdate="20190403T052652Z">
+        <seg>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11301,6 +11317,22 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194216Z" creationid="totochan" creationdate="20190402T194216Z">
         <seg>{1}を外す前に空にする必要がありますが、破棄することはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} must be learned prior to unlock this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052734Z" creationid="hiru4" creationdate="20190403T052734Z">
+        <seg>{1}は、スキルロックを解除する前提条件です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} or {2} must be learned prior to unlock this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052751Z" creationid="hiru4" creationdate="20190403T052751Z">
+        <seg>{1}または{2}は、このスキルのロックを解除する前提条件です。</seg>
       </tuv>
     </tu>
     <tu>
