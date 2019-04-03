@@ -1903,6 +1903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armored Troglodyte</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T111657Z" creationid="Gaiden Shinji" creationdate="20190403T111657Z">
+        <seg>アーマード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armors</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120120Z" creationid="setom" creationdate="20190401T120120Z">
@@ -1981,6 +1989,30 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102724Z" creationid="はぐくみ会" creationdate="20190403T102724Z">
         <seg>あなたの目が開くと、あなたは自分自身が Monsoon の門の壁に支えられていることに気づくだろう。安全だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ash Giant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110656Z" creationid="Gaiden Shinji" creationdate="20190403T110656Z">
+        <seg>アッシュジャイアント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ash Giant Elite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110704Z" creationid="Gaiden Shinji" creationdate="20190403T110704Z">
+        <seg>アッシュジャイアントエリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ash Giant Priest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110713Z" creationid="Gaiden Shinji" creationdate="20190403T110713Z">
+        <seg>アッシュジャイアントプリースト</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,6 +2278,14 @@
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062035Z" creationid="はぐくみ会" creationdate="20190403T062035Z">
         <seg>優しさの風に感謝しなさい、それはあなたが必要としている時に私に吹いたのだから。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beast Golem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110725Z" creationid="Gaiden Shinji" creationdate="20190403T110725Z">
+        <seg>ビーストゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,6 +5356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forge Golem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110729Z" creationid="Gaiden Shinji" creationdate="20190403T110729Z">
+        <seg>フォージゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foul liquid that should be avoided at all costs, since it is almost certain to cause Indigestion.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080422Z" creationid="rkmad" creationdate="20190403T080258Z">
@@ -6543,6 +6591,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Illuminator Horror</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110815Z" creationid="Gaiden Shinji" creationdate="20190403T110746Z">
+        <seg>イルミネートホラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immaculate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110826Z" creationid="Gaiden Shinji" creationdate="20190403T110826Z">
+        <seg>穢れなき者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immense bow which inflicts Confusion on enemies, making them more vulnerable to Impact.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064811Z" creationid="setom" creationdate="20190402T064811Z">
@@ -7425,6 +7489,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104112Z" creationid="setom" creationdate="20190402T104112Z">
         <seg>帰航の際に船が座礁したのだ。私がまだ息をしているのが僅かながらの幸運だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade-Lich Acolyte</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110650Z" creationid="Gaiden Shinji" creationdate="20190403T110650Z">
+        <seg>ジェイドリッチアコライト</seg>
       </tuv>
     </tu>
     <tu>
@@ -8665,6 +8737,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
         <seg>モデル品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Molten Forge Golem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110736Z" creationid="Gaiden Shinji" creationdate="20190403T110736Z">
+        <seg>モルテンフォージゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12242,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shell Horror</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110833Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
+        <seg>シェルホラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T070022Z" creationid="setom" creationdate="20190402T070003Z">
@@ -12760,6 +12848,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063043Z" creationid="hiru4" creationdate="20190403T063043Z">
         <seg>装備を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sword Golem</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110718Z" creationid="Gaiden Shinji" creationdate="20190403T110718Z">
+        <seg>ソードゴーレム</seg>
       </tuv>
     </tu>
     <tu>
@@ -14067,8 +14163,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Vendavel Witch</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110554Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
-        <seg>ベンダベルウィッチVendavel Witch</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110614Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
+        <seg>ベンダベルウィッチ</seg>
       </tuv>
     </tu>
     <tu>
