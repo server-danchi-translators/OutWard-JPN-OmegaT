@@ -30,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>-</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T062000Z" creationid="setom" creationdate="20190402T062000Z">
-        <seg>-</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>- Active -</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083614Z" creationid="totochan" creationdate="20190402T083614Z">
@@ -5371,6 +5363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heavy pot that enables the preparation of recipes with more than one ingredient, to be used on a lit campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T081213Z" creationid="rkmad" creationdate="20190403T081213Z">
+        <seg>調理用の大鍋。少し重たいが、キッチンを持ち歩くよりはよほど軽い。これを焚き火に設置することで、満足の行く料理を作ることができるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helmets</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120227Z" creationid="setom" creationdate="20190401T120216Z">
@@ -9542,8 +9542,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Rusty oil lantern with a weak flame.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T080754Z" creationid="rkmad" creationdate="20190403T080754Z">
-        <seg>弱々しい灯りを放つ、錆びたオイルランタン。オイルが切れても補充することで再利用できる。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080841Z" creationid="rkmad" creationdate="20190403T080754Z">
+        <seg>弱々しい灯りを放つ、錆びたオイルランタン。オイルが切れても、補充することで再利用できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11121,6 +11121,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools used to distill ingredients into potions, to be used on a lit campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T081039Z" creationid="rkmad" creationdate="20190403T081039Z">
+        <seg>ポーションの作成などで使われる、錬金術の道具。これを焚き火に設置することで、様々なアイテムを作ることができるだろう。</seg>
       </tuv>
     </tu>
     <tu>
