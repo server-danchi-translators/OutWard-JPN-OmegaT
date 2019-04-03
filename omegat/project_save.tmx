@@ -9004,6 +9004,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Shield Rush forward to hit foes with your shield for high Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T070631Z" creationid="rkmad" creationdate="20190403T070631Z">
+        <seg>Required: Shield 盾を構え、前方に突進し相手に強い衝撃を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements not met.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062358Z" creationid="hiru4" creationdate="20190403T062358Z">
