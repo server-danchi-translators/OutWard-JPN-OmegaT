@@ -9593,6 +9593,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To create dishes with multiple ingredients, deploy a Cooking Pot on the campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T013733Z" creationid="hiru4" creationdate="20190403T013733Z">
+        <seg>キャンプファイヤーで調理鍋を使えば複数の食材を使った料理を作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
@@ -10405,6 +10413,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T123610Z" creationid="setom" creationdate="20190401T123610Z">
         <seg>火の中からでも、Alchemy Kitを取り出して次のキャンプファイアで使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can retake the Cooking Pot from the fire, to use on your next campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T013532Z" creationid="hiru4" creationdate="20190403T013532Z">
+        <seg>キャンプファイヤーで使ったお鍋何度も使うために回収することができます。</seg>
       </tuv>
     </tu>
     <tu>
