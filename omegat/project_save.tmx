@@ -1608,8 +1608,8 @@
       <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054520Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
-        <seg>暖かいキャンプファイヤーが近くで鳴り響き、その横にメモと神秘的なボトルが立てかけられていた。
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111132Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
+        <seg>暖かい焚火が鳴り響き、その横にメモと神秘的な瓶が立てかけられていた。
 </seg>
       </tuv>
     </tu>
@@ -6399,6 +6399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How in Elatt’s name did you end up here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T110023Z" creationid="はぐくみ会" creationdate="20190403T110023Z">
+        <seg>Elatt’s の名前でどうやってここに来たのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How long do you want to sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071232Z" creationid="hiru4" creationdate="20190402T071232Z">
@@ -7398,8 +7406,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>It’s hard work, but eventually you succeed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060644Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
-        <seg>それは大変な仕事だが、結局あなたは成功します。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111205Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
+        <seg>それは大変な仕事だが、結局あなたは成功した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11385,6 +11393,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purple grass surrounds you as you stir from unconsciousness high atop a mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T110522Z" creationid="はぐくみ会" creationdate="20190403T110522Z">
+        <seg>山の頂上で無意識のうちに紫の草があなたを取り囲む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put Out</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063347Z" creationid="hiru4" creationdate="20190403T063347Z">
@@ -12564,8 +12580,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Stars and campfires dance in your fevered mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054321Z" creationid="はぐくみ会" creationdate="20190403T054321Z">
-        <seg>星とキャンプファイヤーはあなたの熱い心の中で踊ります。
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111031Z" creationid="はぐくみ会" creationdate="20190403T054321Z">
+        <seg>星と焚火はあなたの熱い心の中で踊る。
 </seg>
       </tuv>
     </tu>
@@ -15117,8 +15133,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You get to work on forcing the bolts off the prison door.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060534Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
-        <seg>あなたは仕事を得る。刑務所のドアからボルトを無理やり押し出す仕事を。
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111157Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
+        <seg>あなたは仕事を得る。刑務所の扉からボルトを無理矢理にでも押し出す仕事を。
 </seg>
       </tuv>
     </tu>
@@ -15516,6 +15532,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091838Z" creationid="はぐくみ会" creationdate="20190403T091709Z">
         <seg>あなたの旅は、古い独房で終わる。扉がずっと昔に落ちた壊れた独房で。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your life-threatening injuries have been bandaged by a hooded man, who silently turns to leave, entering a door along the mountain wall without a backwards glance...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111410Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
+        <seg>あなたの生命にかかわる損傷は、フードを被った男によって包帯をされていた。彼は後ろを見ることなく、山の壁に現れた扉に入り、静かに去って行く...
+</seg>
       </tuv>
     </tu>
     <tu>
