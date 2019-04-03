@@ -13106,16 +13106,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135301Z" creationid="Horizon" creationdate="20190403T135301Z">
-        <seg>必要: Bow 後方にジャンプしながら矢を撃つ。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142119Z" creationid="Horizon" creationdate="20190403T135301Z">
+        <seg>必要：Bow 後方にジャンプしながら矢を撃つ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Strong shot that goes through enemies and hits other foes behind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135727Z" creationid="Horizon" creationdate="20190403T135727Z">
-        <seg>必要: Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142133Z" creationid="Horizon" creationdate="20190403T135727Z">
+        <seg>必要：Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13130,32 +13130,32 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Dagger attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T134134Z" creationid="rkmad" creationdate="20190403T072743Z">
-        <seg>必要: Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142044Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>必要：Dagger 手に持った短剣による一撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Dagger Simple attack with the dagger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T140140Z" creationid="rkmad" creationdate="20190403T070405Z">
-        <seg>必要: Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142058Z" creationid="rkmad" creationdate="20190403T070405Z">
+        <seg>必要：Dagger 手に持った短剣による一撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135512Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要: Lantern 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142038Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要：Lantern 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133931Z" creationid="Horizon" creationdate="20190403T133647Z">
-        <seg>必要: Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142032Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要：Rage Boon、近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13170,8 +13170,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135527Z" creationid="Horizon" creationdate="20190403T134941Z">
-        <seg>必要: TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T142110Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要：TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。</seg>
       </tuv>
     </tu>
     <tu>
