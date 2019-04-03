@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you start to black out from the pain, you sense someone standing above you, defending you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053919Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
+        <seg>痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
@@ -10497,6 +10505,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are beaten and bloody, but alive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053444Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg>あなたは殴られ血が流されていますが、生きている。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051134Z" creationid="hiru4" creationdate="20190403T051134Z">
@@ -10769,6 +10786,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You fall to the ground, broken and defeated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053622Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
+        <seg>あなたは地面に倒れ、壊れ、敗北した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You found some rags on the beach?</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141107Z" creationid="setom" creationdate="20190402T141107Z">
@@ -10917,6 +10942,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113011Z" creationid="setom" creationdate="20190331T113011Z">
         <seg>その時はより厄介な敵にしたほうがいい、特に遠距離武器やスキルを持った敵だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will wear these scars for quite some time...You curse your recklessness and vow to be more prepared for danger in the future.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053536Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
+        <seg>かなりの時間これらの傷跡が消えることはない…あなたはあなたの無謀さを呪い、将来の危険にもっと備えるように誓う。</seg>
       </tuv>
     </tu>
     <tu>
