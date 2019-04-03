@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Waterskin is required to gather water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062445Z" creationid="hiru4" creationdate="20190403T062445Z">
+        <seg>水を汲むには水袋が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A cold voice reaches you through the haze of pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061220Z" creationid="はぐくみ会" creationdate="20190403T061220Z">
@@ -3250,6 +3258,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current backpack has no lantern slot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062552Z" creationid="hiru4" creationdate="20190403T062552Z">
+        <seg>バックパックにはランタンスロットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023238Z" creationid="hiru4" creationdate="20190402T023238Z">
@@ -4150,6 +4166,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023334Z" creationid="hiru4" creationdate="20190402T023334Z">
         <seg>ゲームパッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamepad has been unplugged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062604Z" creationid="hiru4" creationdate="20190403T062604Z">
+        <seg>ゲームパッドが有りません</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,6 +8561,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Requirements not met.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062358Z" creationid="hiru4" creationdate="20190403T062358Z">
+        <seg>要求が満たされていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115830Z" creationid="setom" creationdate="20190401T115830Z">
@@ -10106,6 +10138,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This skill is still in cooldown.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062506Z" creationid="hiru4" creationdate="20190403T062506Z">
+        <seg>クールダウン中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
@@ -11163,6 +11203,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot boil water as the Waterskin is empty.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062530Z" creationid="hiru4" creationdate="20190403T062530Z">
+        <seg>Waterskinが空のため湯を沸かすことができません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot do this now.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062151Z" creationid="hiru4" creationdate="20190403T062151Z">
@@ -11292,6 +11340,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need an equipped Lexicon to cast Rune spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062542Z" creationid="hiru4" creationdate="20190403T062542Z">
+        <seg>呪文を唱えるために呪文書が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to rest at least 1 hour.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051741Z" creationid="hiru4" creationdate="20190403T051741Z">
@@ -11417,6 +11473,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T110732Z" creationid="setom" creationdate="20190331T110732Z">
         <seg>身体には欲求が存在する。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your body temperature is back to normal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T062434Z" creationid="hiru4" creationdate="20190403T062434Z">
+        <seg>体温が正常に戻りました</seg>
       </tuv>
     </tu>
     <tu>
