@@ -12046,6 +12046,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You awake from the verge of death, corpses piled on top of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T083832Z" creationid="はぐくみ会" creationdate="20190403T083832Z">
+        <seg>死の寸前から目が覚めた、死体があなたの上に積まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You awaken hours later, underground.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061342Z" creationid="はぐくみ会" creationdate="20190403T061342Z">
