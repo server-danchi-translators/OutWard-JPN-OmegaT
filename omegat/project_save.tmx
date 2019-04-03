@@ -2062,6 +2062,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot rest: Not enough time assigned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051753Z" creationid="hiru4" creationdate="20190403T051753Z">
+        <seg>時間が短すぎて休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: Too much time assigned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051807Z" creationid="hiru4" creationdate="20190403T051807Z">
+        <seg>時間が長すぎて休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: You will fall unconscious from cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051717Z" creationid="hiru4" creationdate="20190403T051717Z">
+        <seg>休息できない：寒さから意識不明になります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: You will fall unconscious from exhaustion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051701Z" creationid="hiru4" creationdate="20190403T051701Z">
+        <seg>休息できない：疲労から意識不明になります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: You will fall unconscious from heat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051730Z" creationid="hiru4" creationdate="20190403T051730Z">
+        <seg>休息できない：熱から意識不明になります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: You will fall unconscious from hunger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051648Z" creationid="hiru4" creationdate="20190403T051648Z">
+        <seg>休息できない：飢餓から意識不明になります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot rest: You will fall unconscious from thirst.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051634Z" creationid="hiru4" creationdate="20190403T051634Z">
@@ -9497,6 +9545,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The merchant does not have enough Silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T052104Z" creationid="hiru4" creationdate="20190403T052104Z">
+        <seg>商人のシルバーが不足しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of attacks you make before making a special attack will change which strike you will make.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145433Z" creationid="setom" creationdate="20190401T074405Z">
@@ -10633,6 +10689,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You cannot rest too far away from each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
+        <seg>お互いが離れすぎているため休息できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You found some rags on the beach?</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141107Z" creationid="setom" creationdate="20190402T141107Z">
@@ -10685,6 +10749,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T124204Z" creationid="setom" creationdate="20190331T112158Z">
         <seg>火を灯したキャンプファイアで二つ以上の材料を使うレシピを料理する際はCooking Potの配備が必要になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to rest at least 1 hour.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051741Z" creationid="hiru4" creationdate="20190403T051741Z">
+        <seg>休息には最低1時間必要です。</seg>
       </tuv>
     </tu>
     <tu>
