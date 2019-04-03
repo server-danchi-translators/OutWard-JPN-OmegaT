@@ -2257,14 +2257,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Bandit_Desert_Captain</seg>
-      </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113011Z" creationid="Gaiden Shinji" creationdate="20190403T113011Z">
-        <seg>盗賊Bandit_Desert_Captain</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Basic Stats</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
@@ -4500,10 +4492,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Desert Archer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113240Z" creationid="Gaiden Shinji" creationdate="20190403T113240Z">
+        <seg>砂漠の射手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Desert Bandit</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113005Z" creationid="Gaiden Shinji" creationdate="20190403T113005Z">
-        <seg>砂漠の隊長</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113150Z" creationid="Gaiden Shinji" creationdate="20190403T113005Z">
+        <seg>砂漠の盗賊</seg>
       </tuv>
     </tu>
     <tu>
