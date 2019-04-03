@@ -3931,6 +3931,238 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DS_01_FromStart_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093212Z" creationid="setom" creationdate="20190403T093212Z">
+        <seg>DS_01_FromStart_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_02_GEP_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093211Z" creationid="setom" creationdate="20190403T093211Z">
+        <seg>DS_02_GEP_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_02_GEP_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093209Z" creationid="setom" creationdate="20190403T093209Z">
+        <seg>DS_02_GEP_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_03_HyenasDefeat_Cherso_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093207Z" creationid="setom" creationdate="20190403T093207Z">
+        <seg>DS_03_HyenasDefeat_Cherso_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_03_HyenasDefeat_Cherso_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093206Z" creationid="setom" creationdate="20190403T093206Z">
+        <seg>DS_03_HyenasDefeat_Cherso_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_04_BanditSouthCampPrisoner_Cherso_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093205Z" creationid="setom" creationdate="20190403T093205Z">
+        <seg>DS_04_BanditSouthCampPrisoner_Cherso_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_04_BanditSouthCampPrisoner_Cherso_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093203Z" creationid="setom" creationdate="20190403T093203Z">
+        <seg>DS_04_BanditSouthCampPrisoner_Cherso_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_05_Immaculate_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093201Z" creationid="setom" creationdate="20190403T093201Z">
+        <seg>DS_05_Immaculate_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_05_Immaculate_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093159Z" creationid="setom" creationdate="20190403T093159Z">
+        <seg>DS_05_Immaculate_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_05_Immaculate_c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093158Z" creationid="setom" creationdate="20190403T093158Z">
+        <seg>DS_05_Immaculate_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_06_Hermit_Cherso_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093156Z" creationid="setom" creationdate="20190403T093156Z">
+        <seg>DS_06_Hermit_Cherso_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_07_CierzoInn_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093155Z" creationid="setom" creationdate="20190403T093155Z">
+        <seg>DS_07_CierzoInn_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_07_CierzoInn_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093154Z" creationid="setom" creationdate="20190403T093154Z">
+        <seg>DS_07_CierzoInn_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_08_CierzoDoors_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093152Z" creationid="setom" creationdate="20190403T093152Z">
+        <seg>DS_08_CierzoDoors_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_09_BanditSouthCampTrashed_Cherso_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093151Z" creationid="setom" creationdate="20190403T093151Z">
+        <seg>DS_09_BanditSouthCampTrashed_Cherso_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_09_BanditSouthCampTrashed_Cherso_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093149Z" creationid="setom" creationdate="20190403T093149Z">
+        <seg>DS_09_BanditSouthCampTrashed_Cherso_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_10_BanditNorthCampPrisoner_Cherso_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093148Z" creationid="setom" creationdate="20190403T093148Z">
+        <seg>DS_10_BanditNorthCampPrisoner_Cherso_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_10_BanditNorthCampPrisoner_Cherso_c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093147Z" creationid="setom" creationdate="20190403T093147Z">
+        <seg>DS_10_BanditNorthCampPrisoner_Cherso_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_12_CD2_Entrance_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093145Z" creationid="setom" creationdate="20190403T093145Z">
+        <seg>DS_12_CD2_Entrance_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_19_BanditNorthCampTrashed_Cherso_c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093143Z" creationid="setom" creationdate="20190403T093143Z">
+        <seg>DS_19_BanditNorthCampTrashed_Cherso_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_20_VendavelPrisoner_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093141Z" creationid="setom" creationdate="20190403T093141Z">
+        <seg>DS_20_VendavelPrisoner_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_20_VendavelPrisoner_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093139Z" creationid="setom" creationdate="20190403T093139Z">
+        <seg>DS_20_VendavelPrisoner_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_21_TroglodytesDefeat_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093130Z" creationid="setom" creationdate="20190403T093130Z">
+        <seg>DS_21_TroglodytesDefeat_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_21_TroglodytesDefeat_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093128Z" creationid="setom" creationdate="20190403T093128Z">
+        <seg>DS_21_TroglodytesDefeat_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_22_Watchers_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093126Z" creationid="setom" creationdate="20190403T093126Z">
+        <seg>DS_22_Watchers_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_22_Watchers_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093124Z" creationid="setom" creationdate="20190403T093124Z">
+        <seg>DS_22_Watchers_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_23_GhostPrisoner_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093122Z" creationid="setom" creationdate="20190403T093122Z">
+        <seg>DS_23_GhostPrisoner_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_23_GhostPrisoner_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093120Z" creationid="setom" creationdate="20190403T093120Z">
+        <seg>DS_23_GhostPrisoner_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_23_GhostPrisoner_c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093118Z" creationid="setom" creationdate="20190403T093118Z">
+        <seg>DS_23_GhostPrisoner_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Damage</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020741Z" creationid="hiru4" creationdate="20190402T020724Z">
@@ -6619,8 +6851,8 @@ Y軸カメラ反転</seg>
       <tuv lang="EN-US">
         <seg>It is hours before you regain consciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060813Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
-        <seg>意識を取り戻すまでの数時間。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093540Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
+        <seg>数時間後に意識を取り戻した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14037,8 +14269,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060804Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
-        <seg>あなたは殴られ血が流されているが、生きている。
+      <tuv lang="JA" changeid="setom" changedate="20190403T093554Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg>あなたは殴られて血が流れているが、まだ生きている。
 </seg>
       </tuv>
     </tu>
