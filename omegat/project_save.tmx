@@ -5068,10 +5068,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disease: Acute Indigestion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134936Z" creationid="totochan" creationdate="20190403T134936Z">
+        <seg>病気：急性消化不良</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disease: Acute Infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135153Z" creationid="totochan" creationdate="20190403T135153Z">
+        <seg>病気：急性感染症</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disease: Cold</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134832Z" creationid="totochan" creationdate="20190403T134832Z">
         <seg>病気：かぜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disease: Extreme Infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135229Z" creationid="totochan" creationdate="20190403T135140Z">
+        <seg>病気：重度の感染症</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disease: Indigestion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134910Z" creationid="totochan" creationdate="20190403T134910Z">
+        <seg>病気：消化不良</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disease: Infection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135009Z" creationid="totochan" creationdate="20190403T135009Z">
+        <seg>病気：感染症</seg>
       </tuv>
     </tu>
     <tu>
@@ -5240,6 +5280,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111912Z" creationid="setom" creationdate="20190331T111912Z">
         <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eating restores [E2V1]% less food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135019Z" creationid="totochan" creationdate="20190403T135019Z">
+        <seg>食べると回復する[E2V1]%少ない食物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,6 +6960,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134858Z" creationid="totochan" creationdate="20190403T134858Z">
         <seg>食べたときに嘔吐する可能性があり、食べ物の効果を無効にします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has a high chance to make you vomit when eating, nullifying the food’s effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T134922Z" creationid="totochan" creationdate="20190403T134922Z">
+        <seg>食べるときに嘔吐させる可能性が高く、食べ物の効果を無効にします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8664,6 +8720,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
         <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose 3% of your health per minute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135035Z" creationid="totochan" creationdate="20190403T134957Z">
+        <seg>1分あたりあなたのヘルスの3%を失います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lose 7% of your health per minute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="totochan" changedate="20190403T135106Z" creationid="totochan" creationdate="20190403T135106Z">
+        <seg>1分あたりあなたのヘルスの7%を失います。</seg>
       </tuv>
     </tu>
     <tu>
