@@ -5368,6 +5368,15 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It ain't your time to die today.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054138Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
+        <seg>今日はまだあなたの死ぬ時ではない。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also restores maximum health, which is lowered by taking damage, and maximum stamina, which is lowered by performing strenuous actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T090520Z" creationid="setom" creationdate="20190402T090520Z">
@@ -9002,6 +9011,15 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stars and campfires dance in your fevered mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054321Z" creationid="はぐくみ会" creationdate="20190403T054321Z">
+        <seg>星とキャンプファイヤーはあなたの熱い心の中で踊ります。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start New Game</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T022728Z" creationid="setom" creationdate="20190402T022641Z">
@@ -9070,6 +9088,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081216Z" creationid="setom" creationdate="20190402T081216Z">
         <seg>ステータス効果は画面左下に表示されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stay with me, I'll look after you."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054212Z" creationid="はぐくみ会" creationdate="20190403T054212Z">
+        <seg>私と一緒に居なさい、私はあなたの世話をします。"</seg>
       </tuv>
     </tu>
     <tu>
