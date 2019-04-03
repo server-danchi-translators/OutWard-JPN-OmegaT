@@ -2907,6 +2907,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Causes the Cripple status effect on the target.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135403Z" creationid="Horizon" creationdate="20190403T135403Z">
+        <seg>ターゲットにCripple状態の効果を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111914Z" creationid="setom" creationdate="20190331T111914Z">
@@ -3815,6 +3823,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020518Z" creationid="hiru4" creationdate="20190402T020518Z">
         <seg>消費アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumes some of the lantern's durability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135115Z" creationid="Horizon" creationdate="20190403T135115Z">
+        <seg>ランタンの耐久性をいくらか消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7407,18 +7423,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it has both, they are quadrupled instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T134546Z" creationid="Horizon" creationdate="20190403T134546Z">
+        <seg>それが両方の場合は4倍になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the attack hits the enemy’s back, the damage and impact are tripled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T070341Z" creationid="rkmad" creationdate="20190403T070252Z">
-        <seg>敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与える。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135315Z" creationid="rkmad" creationdate="20190403T070252Z">
+        <seg>敵の背後からスキルを使用することに成功した場合、3倍のダメージと衝撃を与えます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the enemy has the Pain or Confusion hex, this attack’s damage and knockback are doubled.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T134343Z" creationid="Horizon" creationdate="20190403T134343Z">
-        <seg>敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になる。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T134430Z" creationid="Horizon" creationdate="20190403T134343Z">
+        <seg>敵が痛みまたは混乱状態である場合、このスキルによるダメージとノックバックは2倍になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7587,6 +7611,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062442Z" creationid="setom" creationdate="20190402T062424Z">
         <seg>敵を大量出血させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflicts Extreme Bleeding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135808Z" creationid="Horizon" creationdate="20190403T135808Z">
+        <seg>極度の出血を引き起こします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8768,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090915Z" creationid="setom" creationdate="20190403T090915Z">
         <seg>Loading_WaitingPlayerToConnect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locking on foes is essential with this skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135440Z" creationid="Horizon" creationdate="20190403T135440Z">
+        <seg>このスキルを使用するには、敵をロックオンすることが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12992,6 +13032,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135301Z" creationid="Horizon" creationdate="20190403T135301Z">
+        <seg>必要: Bow 後方にジャンプしながら矢を撃つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Bow Strong shot that goes through enemies and hits other foes behind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135727Z" creationid="Horizon" creationdate="20190403T135727Z">
+        <seg>必要: Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T071818Z" creationid="rkmad" creationdate="20190403T071555Z">
@@ -13018,8 +13074,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133340Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要: ランタン 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135512Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要: Lantern 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13040,6 +13096,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135527Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要: TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements not met.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062358Z" creationid="hiru4" creationdate="20190403T062358Z">
@@ -13050,8 +13114,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Requires the Rage boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133926Z" creationid="Horizon" creationdate="20190403T133926Z">
-        <seg>Rage boonを発動している必要があります。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135833Z" creationid="Horizon" creationdate="20190403T133926Z">
+        <seg>Rage boonの発動が必要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15534,6 +15598,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This skill lowers the durability of the torch or lantern used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135008Z" creationid="Horizon" creationdate="20190403T135008Z">
+        <seg>このスキルは使用されるトーチやランタンの耐久性を低下させます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
@@ -15977,8 +16049,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Using this skill destroys the lantern.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T133428Z" creationid="Horizon" creationdate="20190403T133428Z">
-        <seg>このスキルを使用するとランタンが壊れます。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190403T135813Z" creationid="Horizon" creationdate="20190403T133428Z">
+        <seg>このスキルを使用するとランタンが壊れる。</seg>
       </tuv>
     </tu>
     <tu>
