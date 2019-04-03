@@ -121,7 +121,7 @@
     <ooo_row><column_1>General_Skill</column_1><column_2>スキル</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_StartResting</column_1><column_2>休息をとる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_StartSplit</column_1><column_2>分割画面開始</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_Stash</column_1><column_2>収納</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_Stash</column_1><column_2>収納箱</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_StopSplit</column_1><column_2>分割画面停止</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_Take</column_1><column_2>取る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_TakeAll</column_1><column_2>全て回収</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -213,9 +213,7 @@
     <ooo_row><column_1>OptionMenu_Audio_MusicVolume</column_1><column_2>音楽音量</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Audio_SoundsVolume</column_1><column_2>効果音量</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Audio_MuteNonFocus</column_1><column_2>ミュート</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>
-OptionMenu_Gameplay_InvertMouse</column_1><column_2>
-Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>OptionMenu_Gameplay_InvertMouse</column_1><column_2>Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Gameplay_MouseSensitivity</column_1><column_2>マウス感度</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Gameplay_CameraSensitivity</column_1><column_2>カメラ感度</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>OptionMenu_Graphics_AnimationQuality</column_1><column_2>アニメーション品質</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -357,7 +355,7 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>Connection_Error_ConnectionWithHostLost</column_1><column_2>ホストとの接続を失った</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Connection_Error_JoinRoomFailed</column_1><column_2>ワールドに参加できません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Meat</column_1><column_2>Meat</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CraftingMenu_Any_Fish</column_1><column_2>Fish</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CraftingMenu_Any_Fish</column_1><column_2>魚</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Vegetable</column_1><column_2>Vegetable</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Water</column_1><column_2>Water</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Egg</column_1><column_2>Egg</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -390,7 +388,7 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>QuestMenu_Separator_Completed</column_1><column_2>- 完了 -</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>ShopMenu_Transaction_Pay</column_1><column_2>支払い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>ShopMenu_Transaction_Receive</column_1><column_2>受け取る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>EquipmentMenu_Empty_Helmet</column_1><column_2>Helmet</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>EquipmentMenu_Empty_Helmet</column_1><column_2>ヘルメット</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>EquipmentMenu_Empty_Helmet_Desc</column_1><column_2>頭に受けるダメージを軽減します。重装ヘルメットはスペルキャスターにとって有害であり、必要なマナコストが増加します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>EquipmentMenu_Empty_Chest</column_1><column_2>鎧</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>EquipmentMenu_Empty_Chest_Desc</column_1><column_2>防御力に最も大きな影響を与える装甲部位すべての鎧は耐熱、耐冷の補正があり、これに関しても胴の部位は最も大きな影響を与えます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -409,7 +407,7 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>OptionMenu_Audio_MuteBackground</column_1><column_2>バックグラウンド時ミュート</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Connection_Error_ConnectionLost</column_1><column_2>ホストとの接続を失った</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Connection_Error_ConnectionFailed</column_1><column_2>フレンドを招待</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>You are about to reset to default mapping. どれくらい睡眠をとりますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>キーコンフィグをデフォルトに戻そうとしています。戻してよろしいですか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CraftingMenu_Any_Mushroom</column_1><column_2>Mushroom</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CharacterCreation_Male</column_1><column_2>男性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>CharacterCreation_Female</column_1><column_2>女性</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -450,7 +448,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Item_Broken</column_1><column_2>{1}壊れた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_CannotCarry</column_1><column_2>{1}取れない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_Damaged</column_1><column_2>{1}破損しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Received</column_1><column_2>{1}{2}を追加</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Received</column_1><column_2>{2}を{1}つ追加</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_RecipeLearnt</column_1><column_2>{1}のレシピを覚えた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_Removed</column_1><column_2>{1}{2}を削除</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_TorchBroken</column_1><column_2>{1}壊れた。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -463,7 +461,8 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_LognTravel_DistanceThreshold</column_1><column_2>参加してるプレーヤーが近くにいなければ、なりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_LongTraval_NotEnoughRatio</column_1><column_2>移動に不十分な食糧.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Fatigue_Drowsy</column_1><column_2>疲れている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Fatigue_Tired</column_1><column_2>とても疲れている</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>
+Notification_Need_Fatigue_Tired</column_1><column_2>とても寒い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Hunger_Hungry</column_1><column_2>お腹がすいている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Hunger_Starving</column_1><column_2>とてもお腹がすいている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Temperature_Cold</column_1><column_2>寒い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -471,12 +470,12 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Need_Temperature_VeryCold</column_1><column_2>とても寒い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Temperature_VeryHot</column_1><column_2>とても暑い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Thirst_Parched</column_1><column_2>とても喉が渇いている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Thirst_Thirsty</column_1><column_2>喉が渇いている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ProjectileWeapon_NoAmmunition</column_1><column_2>弾薬を装填していない。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_LogHasBeenUpdated</column_1><column_2>{1}のログが更新されました。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Thirst_Thirsty</column_1><column_2>喉が渇いている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ProjectileWeapon_NoAmmunition</column_1><column_2>弾薬を装填していない。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_LogHasBeenUpdated</column_1><column_2>{1}のログが更新されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Quest_ReceiveQuest</column_1><column_2>{1} がジャーナルに追加されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_ImportantDialogueActive</column_1><column_2>重要な会話が更新されました。」.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_Completed</column_1><column_2>{1} が完了しました。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_ImportantDialogueActive</column_1><column_2>重要な会話が更新されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_Completed</column_1><column_2>{1} が完了しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Quickslot_DeployWarning</column_1><column_2>クイックスロットを使用することはできません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Quickslot_MissingWeapon</column_1><column_2>対応する武器や弾薬を装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Quickslot_NoItemInventory</column_1><column_2> {1} はバッグの中にあります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -489,8 +488,8 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Resting_NotEnough</column_1><column_2>時間が短すぎて休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Resting_TooMuch</column_1><column_2>時間が長すぎて休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Resting_TooFarPlayer</column_1><column_2>お互いが離れすぎているため休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_MerchantNotEnoughMoney</column_1><column_2>商人のシルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_PlayerNotEnoughMoney</column_1><column_2>シルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_MerchantNotEnoughMoney</column_1><column_2>商人の銀貨が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_PlayerNotEnoughMoney</column_1><column_2>銀貨が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_ShopTransaction_Completed</column_1><column_2>取引を完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_ShopTransaction_CantComplete</column_1><column_2>取引を完了できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Skill_NoCompatibleItem</column_1><column_2>対応するアイテムを装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -498,7 +497,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Skill_NotEnoughtStamina</column_1><column_2>スタミナが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Skill_RequiredItemMultiple</column_1><column_2>{2}と{1}が必要</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Skill_RequiredItemSingle</column_1><column_2>{1}が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_NotEnoughMoney</column_1><column_2>シルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_NotEnoughMoney</column_1><column_2>銀貨が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Trainer_AlternativeSkillAlreadyLearnt</column_1><column_2>別のスキルを既に習得しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Trainer_FactionBlueChamber</column_1><column_2>スキルを学ぶためにBlue Chamberのメンバーでなければなりません。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Trainer_FactionHeroicKingdom</column_1><column_2>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -528,14 +527,15 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Tutorial_NoConnection</column_1><column_2>ここで接続を開くことはできません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Network_GameOpenSuccessfully</column_1><column_2>接続の準備が完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Trap_NotRequiredTraining</column_1><column_2>必要な訓練を受けていません。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Action_Invalid</column_1><column_2>今その行動はできません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>
+Notification_Action_Invalid</column_1><column_2>今その行動はできません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_InfuseNotCompatible</column_1><column_2>対応する近接武器を装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_GameOpenFailed</column_1><column_2>接続を開くことができませんでした。/</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_GameOpenFailed</column_1><column_2>接続を開くことができませんでした。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_LongTravel_NotEnoughRation</column_1><column_2>移動するための食糧が不足</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Network_PlayerStartConnect</column_1><column_2>接続開始</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Network_PlayerDisconnect</column_1><column_2>切断されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Network_PlayerDoneConnect</column_1><column_2>接続完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_DurabilityRequired</column_1><column_2>アイテムの耐久力が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_DurabilityRequired</column_1><column_2>アイテムの耐久値が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Skill_RequirementsNotMet</column_1><column_2>要求が満たされていません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Need_Temperature_Neutral</column_1><column_2>体温が正常に戻りました</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_Waterskin_Needed</column_1><column_2>水を汲むには水袋が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -661,7 +661,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
   <ooo_sheet num="5">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Cooking_MoveToIngredients</column_1><column_2>材料を移動</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Cooking_MoveToFuel</column_1><column_2>燃料を追加&lt;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Cooking_MoveToFuel</column_1><column_2>燃料を追加</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_MoveToPocket</column_1><column_2>ポケットに入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_MoveToBag</column_1><column_2>バッグに入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_MoveToContainer</column_1><column_2>{1}に入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -674,7 +674,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Context_Item_Equip</column_1><column_2>装備</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Unequip</column_1><column_2>装備を外す</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Use</column_1><column_2>使う</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Read</column_1><column_2>読むRead</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Read</column_1><column_2>読む</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Fill</column_1><column_2>{1}を注ぐ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>設置</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Empty</column_1><column_2>空にする</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -691,82 +691,82 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
   </ooo_sheet>
   <ooo_sheet num="6">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>GenericMessage_Warning_Title</column_1><column_2>Warning</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>GenericMessage_Error_Title</column_1><column_2>Error</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Tutorial_Leave_Message</column_1><column_2>Leave the tutorial?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Tutorial_Leave_Title</column_1><column_2>Leave Tutorial</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CharacterCreation_EmptyName_Message</column_1><column_2>Your name cannot be empty</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CharSelection_DeleteSaveMessage</column_1><column_2>Are you sure you want to delete {1} character?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>Delete Save?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>SplitScreen_Stop_Message</column_1><column_2>You are about to stop split-screen. Do you want to continue?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>SplitScreen_Stop_Title</column_1><column_2>Stop Split-screen</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>ChannelingMenu_Confirm_Message</column_1><column_2>Once applied, theses changes will be permanent. Do you want to proceed?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>GenericMessage_Warning_Title</column_1><column_2>警告</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>GenericMessage_Error_Title</column_1><column_2>エラー</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Tutorial_Leave_Message</column_1><column_2>チュートリアルを終了しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Tutorial_Leave_Title</column_1><column_2>チュートリアルを終了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CharacterCreation_EmptyName_Message</column_1><column_2>名前は空白にできません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CharSelection_DeleteSaveMessage</column_1><column_2>{1}を削除してよろしいですか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>CharSelection_DeleteSaveTitle</column_1><column_2>削除を保存しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>SplitScreen_Stop_Message</column_1><column_2>分割画面を停止しようとしています。継続しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>SplitScreen_Stop_Title</column_1><column_2>分割画面を停止</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ChannelingMenu_Confirm_Message</column_1><column_2>一旦適用されると、変更はできませんが続行しますか？続行しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>ChannelingMenu_Confirm_Title</column_1><column_2>マナチャネリング</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>BackToMainMenu_Message</column_1><column_2>Are you sure you want to go back to the Main Menu?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>BackToMainMenu_Title</column_1><column_2>Back to Main Menu</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Demo_Reset_Message</column_1><column_2>Are you sure you want to restart the demo?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Demo_Reset_Title</column_1><column_2>Restart Demo</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Shop_Exit_Message</column_1><column_2>You have a transaction pending, are you sure you want to leave?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Shop_Exit_Title</column_1><column_2>Exit Shop</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Buy</column_1><column_2>Buy {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Drop</column_1><column_2>Drop {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_MoveTo</column_1><column_2>Move {1} to {2}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_RemoveCart</column_1><column_2>Remove {1} from cart</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Sell</column_1><column_2>Sell {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Stack_Take</column_1><column_2>Take {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnAlternative</column_1><column_2>Also, you won’t be able to learn {1}.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnBase</column_1><column_2>You are about to learn {1}.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnFee</column_1><column_2>The teaching fee is {1} silver.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Trainer_ConfirmProceed</column_1><column_2>Do you want to proceed?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>You are about to reset to default mapping, do you want to procced?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_JoinTutorial</column_1><column_2>Cannot join another game while in the tutorial.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_JoinSplitscreen</column_1><column_2>Cannot join another game while in split screen mode.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_JoinNoCharacter</column_1><column_2>A character must be loaded before joining another game.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_CannotJoinAtThisMoment</column_1><column_2>Cannot join at this moment.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Split_NotEnoughControllers</column_1><column_2>Connect an additional gamepad to enable split-screen.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Settings_Applied</column_1><column_2>Settings applied.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Network_ConnectionError</column_1><column_2>Connection Error</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_OptionsPending</column_1><column_2>Some changes to your settings have not been applied. If you continue, these changes will be discarded. Do you want to continue?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Controller_Reconnect</column_1><column_2>Please reconnect player's controller.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Controller_ReconnectP1</column_1><column_2>Please reconnect player's 1 controller.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Controller_ReconnectP2</column_1><column_2>Please reconnect player's 2 controller.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_SignOut_Player1</column_1><column_2>Primary user signed out, returning to main menu.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_SignOut_Player2</column_1><column_2>Secondary user signed out, exiting splitscreen.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_CharacterSelect_AlreadySignedIn</column_1><column_2>Selected user is already signed in.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_SplitScreen_EndSplit</column_1><column_2>End splitscreen</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Installation_NotFullyInstalled</column_1><column_2>The game is not fully installed, please wait.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Online_CannotConnect</column_1><column_2>Cannot play online. Check your network connection.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_ExceptionOnConnect</column_1><column_2>Connection could not be established.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_SecurityExceptionOnConnect</column_1><column_2>The security settings for client or server do not allow a connection.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_TimeoutDisconnect</column_1><column_2>Connection timed out.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByClientTimeout</column_1><column_2>Timeout disconnect by client.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_InternalReceiveException</column_1><column_2>Exception in the receive-loop.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServer</column_1><column_2>Server actively disconnected this client.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerTimeout</column_1><column_2>Timeout disconnect by server.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerLogic</column_1><column_2>Server actively disconnected this client.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerUserLimit</column_1><column_2>Server actively disconnected this client.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_Exception</column_1><column_2>Some exception caused the connection to close.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_InvalidRegion</column_1><column_2>Authorization on the Photon Cloud failed because the app's subscription does not allow to use a particular region's server.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_MaxCcuReached</column_1><column_2>Authorization on the Photon Cloud failed because the concurrent users limit of the app's subscription is reached.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_InvalidAuthentication</column_1><column_2>The Photon Cloud rejected the sent AppId. Check your Dashboard and make sure the AppId you use is complete and correct.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_AuthenticationTicketExpired</column_1><column_2>The Authentication ticket expired. Handle this by connecting again.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_32765</column_1><column_2>Game is full.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_32766</column_1><column_2>A game with the same name already exists.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_32764</column_1><column_2>Game is closed and cannot be joined at the moment. This is often due to the host being currently loading.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Photon_32758</column_1><column_2>No game found with the given name.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Online_RoomNameCreate</column_1><column_2>Create a game</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Online_RoomNameJoin</column_1><column_2>Join game</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>MessageBox_Authentication_Failed</column_1><column_2>Authentication failed. Outward will close.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>BackToMainMenu_Message</column_1><column_2>メインメニューに戻りますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>BackToMainMenu_Title</column_1><column_2>メインメニューに戻る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Demo_Reset_Message</column_1><column_2>再開しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Demo_Reset_Title</column_1><column_2>再起動</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Shop_Exit_Message</column_1><column_2>取引が済んでいませんが、立ち去りますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Shop_Exit_Title</column_1><column_2>店を出る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Buy</column_1><column_2>{1}を購入</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Drop</column_1><column_2>{1}を捨てる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_MoveTo</column_1><column_2>{1}を{2}に移動</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_RemoveCart</column_1><column_2>{1}を移動させる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Sell</column_1><column_2>{1}を売る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Stack_Take</column_1><column_2>{1}をください</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnAlternative</column_1><column_2>あなたは{1}を学ぶことができません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnBase</column_1><column_2>あなたは{1}を学ぼうとしています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Trainer_ConfirmLearnFee</column_1><column_2>授業料は銀貨{1}枚です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Trainer_ConfirmProceed</column_1><column_2>続行しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>ControlRemapping_ResetWarning</column_1><column_2>デフォルトマッピングにリセットしようとしています。処理しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_JoinTutorial</column_1><column_2>チュートリアル中は他のゲームに参加できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_JoinSplitscreen</column_1><column_2>分割画面モードでは、他のゲームに参加できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_JoinNoCharacter</column_1><column_2>他のゲームに参加する前にキャラクターをロードする必要があります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_CannotJoinAtThisMoment</column_1><column_2>現時点では参加できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Split_NotEnoughControllers</column_1><column_2>分割画面を有効にするには、追加のゲームパッドを接続してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Settings_Applied</column_1><column_2>設定が適用されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Network_ConnectionError</column_1><column_2>接続エラー</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_OptionsPending</column_1><column_2>続行すると変更は破棄されます。よろしいですか？&lt;継続しますか？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Controller_Reconnect</column_1><column_2>プレーヤーのコントローラーを再接続してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Controller_ReconnectP1</column_1><column_2>プレイヤー1のコントローラーを再接続してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Controller_ReconnectP2</column_1><column_2>プレイヤー2のコントローラーを再接続してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_SignOut_Player1</column_1><column_2>プライマリユーザーがサインアウトし、メインメニューに戻りました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_SignOut_Player2</column_1><column_2>セカンダリユーザーがログアウトしました分割画面を終了します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_CharacterSelect_AlreadySignedIn</column_1><column_2>選択したユーザーは既にサインインしています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_SplitScreen_EndSplit</column_1><column_2>分割画面終了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Installation_NotFullyInstalled</column_1><column_2>ゲームが完全にインストールされていません。しばらくお待ちください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Online_CannotConnect</column_1><column_2>オンラインで遊ぶことはできません。ネットワーク接続を確認してください。&lt;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_ExceptionOnConnect</column_1><column_2>接続できませんでした。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_SecurityExceptionOnConnect</column_1><column_2>クライアントまたはサーバーのセキュリティ設定で接続が許可されていません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_TimeoutDisconnect</column_1><column_2>接続がタイムアウトしました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByClientTimeout</column_1><column_2>クライアントによるタイムアウト切断</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_InternalReceiveException</column_1><column_2>例外：受信ループが発生しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServer</column_1><column_2>サーバーはこのクライアントを切断しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerTimeout</column_1><column_2>サーバータイムアウトによる切断</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerLogic</column_1><column_2>サーバーはこのクライアントを切断しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_DisconnectByServerUserLimit</column_1><column_2>サーバーはこのクライアントを切断しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_Exception</column_1><column_2>何らかの例外により接続が閉じられました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_InvalidRegion</column_1><column_2>サブスクリプションで特定の地域のサーバーを使用することが許可されていないため、PhotonCloudでの認証に失敗しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_MaxCcuReached</column_1><column_2>アプリケーションのサブスクリプションの同時ユーザー制限に達したため、PhotonCloudでの承認に失敗しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_InvalidAuthentication</column_1><column_2>PhotonCloudは送信されたAppIdを拒否しました。ダッシュボードをチェックして、使用するAppIdが完全で正しいことを確認してください。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_AuthenticationTicketExpired</column_1><column_2>認証チケットが期限切れです。再度接続して対処してください。Handle this by connecting again.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_32765</column_1><column_2>ゲームはいっぱいです。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_32766</column_1><column_2>同じ名前のゲームが既に存在します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_32764</column_1><column_2>ゲームは終了し、現在参加することはできません。これは多くの場合、ホストが現在ロード中であることが原因です。&lt;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Photon_32758</column_1><column_2>指定された名前のゲームは見つかりませんでした。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Online_RoomNameCreate</column_1><column_2>ホストするる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Online_RoomNameJoin</column_1><column_2>ゲームに参加します</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>MessageBox_Authentication_Failed</column_1><column_2>認証に失敗しました。外側が閉じます。Outward will close.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="7">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Desc</column_1><column_2>Movement, Stamina Cost and Hot Weather penalties from heavy armors is reduced.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Name</column_1><column_2>Armor Penalties Reduction</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_AttackUp_Desc</column_1><column_2>Weapon Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_AttackUp_Name</column_1><column_2>Physical Attack Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_BagBurden_Desc</column_1><column_2>Gradually slows your movement speed, as the weight increases.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Desc</column_1><column_2>重装備によるペナルティは移動、スタミナ、体温</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_ArmorPenaltiesReduction_Name</column_1><column_2>重装ペナルティー軽減</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_AttackUp_Desc</column_1><column_2>武器の物理的ダメージ+%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_AttackUp_Name</column_1><column_2>物理攻撃力上昇</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_BagBurden_Desc</column_1><column_2>体重が増えるにつれて、徐々に移動速度が遅くなります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BagBurden_Name</column_1><column_2>バッグが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_Bandages1_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_Bandages1_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Bandages1_Name</column_1><column_2>Bandages</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BergSleepBuff_Desc</column_1><column_2>Stamina Cost of actions -[E3V1]%. Ethereal Resistance +[E4V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_BergSleepBuff_Name</column_1><column_2>Sleep: Berg</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -888,15 +888,15 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>StatusEffect_HallowedMarshPoisonLvl2_Name</column_1><column_2>Marsh High Poison</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HauntedHex_Desc</column_1><column_2>Ethereal Damage and Resistance [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HauntedHex_Name</column_1><column_2>Haunted</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery1_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery1_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery1_Name</column_1><column_2>Health Recovery 1</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery2_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery2_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery2_Name</column_1><column_2>Health Recovery 2</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery3_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery3_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery3_Name</column_1><column_2>Health Recovery 3</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery4_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery4_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery4_Name</column_1><column_2>Health Recovery 4</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_HealthRecovery5_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_HealthRecovery5_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_HealthRecovery5_Name</column_1><column_2>Health Recovery 5</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger2_Starving_Desc</column_1><column_2>Max Health decreases 3 times faster. Damages you deal: [E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_Hunger2_Starving_Name</column_1><column_2>Needs: Very Hungry</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -942,7 +942,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>StatusEffect_PossessedBoon_Name</column_1><column_2>Possessed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PossessedBoonAmplified_Desc</column_1><column_2>Decay Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PossessedBoonAmplified_Name</column_1><column_2>Possessed Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_PouchBurden_Desc</column_1><column_2>Gradually slows your movement speed, as the weight increases.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_PouchBurden_Desc</column_1><column_2>体重が増えるにつれて、徐々に移動速度が遅くなります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_PouchBurden_Name</column_1><column_2>ポーチが一杯です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RageBoon_Desc</column_1><column_2>Weapon Impact +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RageBoon_Name</column_1><column_2>Rage</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -950,7 +950,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>StatusEffect_RageBoonAmplified_Name</column_1><column_2>Rage Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicBlade_Desc</column_1><column_2>Magical summoned sword. Can be combined with more runes.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicBlade_Name</column_1><column_2>Runic Blade</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_RunicHealAmplified_Desc</column_1><column_2>Recover [E1V1] Health per second.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_RunicHealAmplified_Desc</column_1><column_2>1秒あたりの[E1V1]ヘルスを回復する。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicHealAmplified_Name</column_1><column_2>Runic Heal Amplified</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicLantern_Desc</column_1><column_2>Magical light that does not occupy a hand. Can be combined with more runes.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_RunicLantern_Name</column_1><column_2>Runic Lantern</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -1013,7 +1013,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>StatusEffect_WindImbueStats_Desc</column_1><column_2>Movement Speed +[E1V1]%. Weapon Impact +[E2V1]%. Stamina burns [E3V1]% faster.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_WindImbueStats_Name</column_1><column_2>Wind Imbue</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodAttackUp_Desc</column_1><column_2>Physical Damage +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>StatusEffect_FoodAttackUp_Name</column_1><column_2>Physical Attack Up</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>StatusEffect_FoodAttackUp_Name</column_1><column_2>物理攻撃力上昇</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodBless_Desc</column_1><column_2>Lightning Damage and Resistance +[E1V1]%.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodBless_Name</column_1><column_2>Blessed</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>StatusEffect_FoodCool_Desc</column_1><column_2>Frost Damage and Resistance +[E1V1]%. Hot Weather Def +[E2V1].</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

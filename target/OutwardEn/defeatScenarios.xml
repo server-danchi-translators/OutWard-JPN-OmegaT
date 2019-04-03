@@ -3,22 +3,21 @@
   <ooo_sheet num="1">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_01_FromStart_a</column_1><column_2>怪我によって目覚め、難破した体が痛みに震える。敵はあなたが死んだと思って捨てて行ったようだが、それでもここでうかうかしてはいられない。力を振り絞り、死ぬ気で体を動かして再び意識を失った場所へと向かった。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_01_FromStart_b</column_1><column_2>意識を取り戻すまでの数時間。あなたは殴られ血が流されているが、生きている。
-かなりの時間これらの傷跡が消えることはない…あなたはあなたの無謀さを呪い、将来の危険にもっと備えるように誓う。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_02_GEP_a</column_1><column_2>あなたは地面に倒れ、壊れ、敗北した。痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！暖かい声が痛みの霞を通してあなたに届く。
-&quot;おっ、起きたか！今日はまだあなたの死ぬ時ではない。
-私と一緒に居なさい、私はあなたの世話をします。&quot;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_02_GEP_b</column_1><column_2>星とキャンプファイヤーはあなたの熱い心の中で踊ります。
-あなたの目は開いていて、あなたは自分自身が安全だと感じる。暖かいキャンプファイヤーが近くで鳴り響き、その横にメモと神秘的なボトルが立てかけられていた。
+    <ooo_row><column_1>DS_01_FromStart_b</column_1><column_2>数時間後に意識を取り戻した。殴られて出血までしているが、まだ生きている。
+傷跡は長く残りそうだ…。あなたは自身の無謀さを呪い、これからはもっと慎重になることを誓った。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_02_GEP_a</column_1><column_2>あなたは骨も折られ地面に倒れ伏した。痛みで意識が遠のこうとした直前に誰かがあなたの上に立っていることに気づいた。あなたを守っているのだ！痛みで意識が霞む中、暖かい声があなたに届く。「おお、起きたか！今日はまだ君の死ぬ時ではない。
+私と一緒に居なさい、私が世話をしよう。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_02_GEP_b</column_1><column_2>星と焚火はあなたの熱い心の中で踊る。
+あなたの目は開いていて、あなたは自分自身が安全だと感じる。暖かい焚火が鳴り響き、その横にメモと神秘的な瓶が立てかけられていた。
 あなたは一人ですが、少し前に誰かがここにいたような気がする…</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_03_HyenasDefeat_Cherso_a</column_1><column_2>あなたは腕を上げ、あなたに向かって吠える動物からあなたの傷つきやすい喉を守り、そして死のためにあなた自身を支えます...牙が足に喰い込み、そして、あなたは地面を引きずられる。すべての岩石と隆起に叩きつけられ、痛みを引き起こす。そしてあなたは暗闇の中に引きずられる...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_03_HyenasDefeat_Cherso_b</column_1><column_2>あなたがようやく目を開いたとき、貧弱な探検家のものであろう、半分食べられた足を見る。ハイエナは空腹であり、遠吠えをしている。夕食の準備が整ったことは明らかだ！</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_04_BanditSouthCampPrisoner_Cherso_a</column_1><column_2>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
 鞭によりあなたの腕は叩きつけられ、夜通し走るように命じられる。捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、ついに、あなたの視界に盗賊たちのキャンプが...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_04_BanditSouthCampPrisoner_Cherso_b</column_1><column_2>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んでシチューにするために。あなたは仕事を得る。刑務所のドアからボルトを無理やり押し出す仕事を。
-それは大変な仕事だが、結局あなたは成功します。脱出する時が来た！
+    <ooo_row><column_1>DS_04_BanditSouthCampPrisoner_Cherso_b</column_1><column_2>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んでシチューにするために。あなたは仕事を得る。刑務所の扉からボルトを無理矢理にでも押し出す仕事を。
+それは大変な仕事だが、結局あなたは成功した。脱出する時が来た！
 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_05_Immaculate_a</column_1><column_2>あなたは地面に倒れ、壊れ、敗北した。痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！暖かい声が痛みの霞を通してあなたに届く。&quot;生きているか？答えなさい！&quot;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_05_Immaculate_a</column_1><column_2>あなたは骨も折られ地面に倒れ伏した。痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！暖かい声が痛みの霞を通してあなたに届く。&quot;生きているか？答えなさい！&quot;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_05_Immaculate_b</column_1><column_2>あなたは数時間後に目覚めた。地下で。頭を上げると、視界の隅を動くものが。
 それは2本足で歩く、巨大な獣で、その体には赤く脈動をする血管が沿っている。
 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -31,35 +30,59 @@
     <ooo_row><column_1>DS_07_CierzoInn_b</column_1><column_2>Cierzo's innの温かい香りがあなたを迎えた。誰かがあなたを死の瀬戸際に見つけ、あなたを健康状態に戻した。
 少なくともあなたはまだ生きてるが、風邪をひいてしまったようだ...
 </column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_08_CierzoDoors_b</column_1><column_2>You awaken to the sight of a huntress from Cierzo pouring water into your mouth. Leaning on her, you manage to hobble back to Cierzo, more dead than alive. She refuses payment and leaves you with a firm pat on the shoulder.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_09_BanditSouthCampTrashed_Cherso_a</column_1><column_2>You wake up to see a bandit tying your hands together, and chaining you to a line of other prisoners. A lash from a whip stings your back as you are ordered to run through the night. Your captors run you ragged until their camp finally enters your vision...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_09_BanditSouthCampTrashed_Cherso_b</column_1><column_2>A wave of nausea from the death march you were forced to make rises from your stomach, and you vomit onto the cold hard ground, before falling into your own mess. By the time you get back up, you are alone. They seem to have no use for sick prisoners...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_10_BanditNorthCampPrisoner_Cherso_b</column_1><column_2>You force your eyes open and find yourself in a cart with prisoners and corpses, bouncing along the road. A corpse hanging from a gibbet passes your vision...As unconsciousness takes you, you know that you have been taken prisoner by the Montcalm Tribe...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_10_BanditNorthCampPrisoner_Cherso_c</column_1><column_2>Hours later you open your eyes again, imprisoned within the Montcalm Village. You have no doubt they intend for your corpse to join the others dangling outside!</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_12_CD2_Entrance_a</column_1><column_2>怪我によって目覚め、難破した体が痛みに震える。You are alone, but surely not safe. With clenched teeth, you manage to drag yourself outside to safety, where you fall unconscious again.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_19_BanditNorthCampTrashed_Cherso_c</column_1><column_2>You awake from the verge of death, corpses piled on top of you. With great effort, you pull yourself free, and find yourself outside rough wooden walls. The Montcalm tribe appear to have mistaken you for dead...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_20_VendavelPrisoner_a</column_1><column_2>Your eyes open to the sight of a Kazite woman pointing a sword right between your eyes. You are in no state to resist as she binds your hands and blindfolds you, and forces you to march. You hear bandit activity loud all around you.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_20_VendavelPrisoner_b</column_1><column_2>Your captor boots you into a cell and slams cold iron bars behind you. &quot;Here's how it goes slave! Work when we tell you to, and you’ll get food and water. Or refuse to work, and it's to 'The Hole' with ye!&quot;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_21_TroglodytesDefeat_a</column_1><column_2>Without the strength to fight, you can only watch helplessly as Troglodytes surround you, chittering in their barbaric language, and haul you through their cave. The foul smell of rotting meat fills your nostrils as they dump you into a large, well lit room.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_21_TroglodytesDefeat_b</column_1><column_2>Troglodytes gather around a large stone pot over a fire, sometimes staring at you hungrily. Suddenly, a noise echoes in the cave and the monsters freeze. The dimwitted creatures then grab spears and charge out, leaving you alone.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_22_Watchers_a</column_1><column_2>Your body and mind are broken, all that's left is to await the release of death...Strange purple auras swirl around you and you give yourself to them, riding a strange dreamlike current, passing stars and ghostly figures...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_22_Watchers_b</column_1><column_2>It is the dull aches that wake you. The magical auras are not gone, but now you can sense their source. You are in the central chamber below the Conflux Mountain, in the care of the Watchers of the Ley Line...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_23_GhostPrisoner_a</column_1><column_2>Defenceless, you cannot stop the approach of the ghostly figure that bears down on you. It speaks to you in a language you cannot recognize, but the intention is clear - do not resist! It grabs your arm and drags you through the Ghost Pass, sword ready if you try to escape...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_23_GhostPrisoner_b</column_1><column_2>Your journey ends at a broken old cell whose door has long since fallen away. The ghost drops your arm, and turns away, motioning to slam the long-gone door into place and twisting a &quot;key&quot; into the air, before marching away.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_23_GhostPrisoner_c</column_1><column_2>The sign on the cell is in the Old Language, but it's easy enough to guess that it reads &quot;marked for execution&quot;. You thank your lucky stars that the ghost was trapped in its old memories, unable to reason and think...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_25_CierzoHome_b</column_1><column_2>You awake to the familiar scent of your old home at the Lighthouse in Cierzo, warm and tucked into your bed, your backpack propped up beside you. Someone must have brought you back home and nursed you back to health. You’re not sure how long you’ve been unconscious...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_31_BergInn</column_1><column_2>When your eyes open, you find yourself wrapped up in a bed at the inn in Berg, having been unconscious for days. The innkeeper has helped himself to your Silver to pay for your stay, but you are otherwise alive and healthy.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_32_BergDoors</column_1><column_2>When you next awake, you are being carried by a hunter from Berg, on his way back to the city. He lets you down gently at the city gates with a gruff “Watch yourself out there, you were nearly a manticore’s dinner!”</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_39_LevantInn</column_1><column_2>You awaken wrapped in silk sheets at Levant’s inn, apparently having been nursed back to health after several days. The treatment and food has not come cheap either, judging by how light your coin pouch has become. Well, you live to fight another day!</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_40_LevantDoors</column_1><column_2>It is pure luck that brings a mercenary company to your aid. To your relief, his band brings you back safely to the gates of Levant, free of charge. They then go off merrily to the inn, clearly going to brag to the serving girls about how they saved your life and didn’t even ask for payment...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_43_HMD2_Entrance</column_1><column_2>You wake up in the marsh. The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village. You can’t help but feel a little miffed at this rude treatment.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_49_MonsoonInn</column_1><column_2>The smell of sweet incense greets you as you awaken from the fevered dreams of the last few days. A passing missionary must have brought you to the Inn in Monsoon. The innkeeper has used money from your own pouch to pay for your treatment, but at least you’re still alive.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_50_MonsoonDoors</column_1><column_2>As your eyes open, you find yourself propped up against a wall at the gates of Monsoon, safe. As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_51_CierzoHomeTuto</column_1><column_2>Unconsciousness comes quickly, and you dream of being ensnared in something. With a yelp, you jump out of your bed. Relief floods you as you recognize where you are. You are back in your old bed at home, the Lighthouse in Cierzo.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_51_CierzoHomeTuto_b</column_1><column_2>Yzan must have brought you back to your family’s lighthouse. Only your aching body tells you that the shipwreck you suffered was not a nightmare.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_52_Vigile</column_1><column_2>Visions of monsters fill your fevered dreams, and something stalks you relentlessly though twisted nightmares. You awaken, overwhelmed by a sense of paranoia and terror. You see one of the Vigil crystals up above... How in Elatt’s name did you end up here?</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_53_Watchers2</column_1><column_2>Purple grass surrounds you as you stir from unconsciousness high atop a mountain. Your life-threatening injuries have been bandaged by a hooded man, who silently turns to leave, entering a door along the mountain wall without a backwards glance...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_54_JustWakeUp</column_1><column_2>You hover in and out of consciousness for hours, until at last you are able to get back up. Nothing seems to have harmed you while you were out cold. You got lucky…</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_08_CierzoDoors_b</column_1><column_2>あなたは、Cierzoからの狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
+彼女に寄りかかって、あなたはなんとか生き残った。死にかけだが、Cierzoに戻ってきた。彼女はお礼を受け取らず、去っていった。あなたの肩をたたいて。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_09_BanditSouthCampTrashed_Cherso_a</column_1><column_2>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。鞭によりあなたの腕は叩きつけられ、夜通し走るように命じられる。捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、ついに、あなたの視界に盗賊たちのキャンプが...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_09_BanditSouthCampTrashed_Cherso_b</column_1><column_2>強制された死の行進。吐き気の波。そしてあなたは混乱に陥る前に、冷たい硬い地面に嘔吐した。あなたが戻る時まで、あなたは一人だ。
+彼らは病気の囚人には役に立たない...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_10_BanditNorthCampPrisoner_Cherso_b</column_1><column_2>あなたは目を開き、そして見つける。道路に沿って跳ている、囚人と死体が入ったカートの中に自分自身を。
+無意識があなたを連れて行くように、あなたは Montcalm 族によって捕虜にされたことを知っている...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_10_BanditNorthCampPrisoner_Cherso_c</column_1><column_2>数時間後、 Montcalm の村の中に閉じ込められたあなたは再び目を開いた。
+彼らがあなたの死体を外にぶら下がっている他の人たちに加わえようと意図しているのは間違いありません！</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_12_CD2_Entrance_a</column_1><column_2>怪我によって目覚め、難破した体が痛みに震える。あなたは一人だが、しかし確実に安全ではない。歯を食いしばり、あなたは安全のために自分を外に引きずり出すことができる。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_19_BanditNorthCampTrashed_Cherso_c</column_1><column_2>死の寸前から目が覚めた、死体があなたの上に積まれている。多大な努力を払って、あなたは自分を解放し、荒い木製の壁の外にでた。Montcalm の部族はあなたを死者と間違えたようだ...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_20_VendavelPrisoner_a</column_1><column_2>目を開けると、Kazite の女性があなたの両目の間に刀を向けている。彼女はあなたの手を縛り、あなたを目隠しし、そして行進を強制するので、あなたは抵抗できない。あなたの周りの至る所で、略奪が行われている音や声がする。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_20_VendavelPrisoner_b</column_1><column_2>あなたを捕獲した者はあなたを独房に入れ、あなたの後ろに冷たい鉄の棒を打ちつける。
+&quot;これが奴隷になる方法だ！私たちの命令通りに働け、あなたは食べ物と水を手に入れることができる。
+それとも仕事を拒否するのなら、「穴」へ！&quot;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_21_TroglodytesDefeat_a</column_1><column_2>戦う力がなければ、Troglodytes があなたを取り囲み、彼らの野蛮な言葉をさえずり、彼らの洞窟にあなたを運ぶ。大きく明るく照らされた部屋にあなたを投げ入れる。腐った肉の嫌なにおいが鼻孔を満たす。
+</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_21_TroglodytesDefeat_b</column_1><column_2>Troglodytes は、火の上の大きな石の鉢の周りに集まり、時々あなたを見つめている。空腹なのだ。突然、洞窟の中に雑音が響き渡り、モンスター達は動きを止める。
+モンスター達は槍をつかみ、突撃していく。あなたを一人のこして。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_22_Watchers_a</column_1><column_2>あなたの体と心は壊れた。あとは死による解放を待つだけだ...奇妙な紫色のオーラがあなたの周りを旋回し、あなたは夢のような流れに乗り、星と幽霊のような人物を通過しながら、あなたは彼らに自分自身を与える。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_22_Watchers_b</column_1><column_2>鈍い痛みに目が覚める。魔法のオーラは消えたわけでは無い、今、あなたはそれらの出所を感じることができる。あなたは Ley Line の監視人の世話で、Conflux Mountain の下の中央の部屋にいる...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_23_GhostPrisoner_a</column_1><column_2>身を守るすべが無い。あなたを圧迫する、幽霊のような姿が接近してくるのを止めることができない。
+それはあなたが認識できない言語で話し掛けてくる。しかし意図は明らかだ - 抵抗するな！それはあなたの腕をつかみ、あなたを引きずりながら Ghost Pass を通る。脱出しようと試みるのならば、武器をつかめ…</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_23_GhostPrisoner_b</column_1><column_2>あなたの旅は、古い独房で終わる。扉がずっと昔に落ちた壊れた独房で。幽霊はあなたの腕を離し、向きを変え、扉を所定の位置に押し込み、空中で「鍵」をひねるように動かす。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_23_GhostPrisoner_c</column_1><column_2>独房にしるされている標識は古い言語だが、「処刑のマーク」であると推測するのは簡単だ。あなたは幸運な星たち感謝する。その幽霊が古い思い出に閉じ込められていて、推論も思考もできないことに...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_25_CierzoHome_b</column_1><column_2>あなたは Cierzo の Lighthouse で古い家のおなじみの香りに目を覚ました。暖かいベッドに横になっている。あなたのバックパックは傍に置かれていた。
+誰かがあなたを家に持ち帰り、手当てしてくれたのだ。どれだけ長く気を失っていたのか...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_31_BergInn</column_1><column_2>あなたは自分が Berg の宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
+宿屋の主人は、あなたの銀に対して、あなたの滞在の代金を払うよう、手助けをしてくれた。それ以外は問題ない。健康だ。
+.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_32_BergDoors</column_1><column_2>あなたが次に目を覚ましたとき、あなたは Berg からのハンターによって運ばれていた。彼は街に帰る途中だ。
+彼は街の入り口で優しく降ろしてくれた。
+ “気を付けろ、お前はマンティコアの夕食になるところだったんだぞ！”</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_39_LevantInn</column_1><column_2>あなたは Levant’s inn で絹のシーツに包まれて目を覚ました。数日後には健康に戻る。あなたの財布がどれほど明るくなったかで判断すると、治療や食べ物も安くなっていないようだ。さて、あなたは生きている。また戦うために！
+</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_40_LevantDoors</column_1><column_2>あなたを援助するために傭兵会社をもたらすもの、それは純粋な運だ。
+傭兵の集団は Levant の門にあなたを安全に連れ戻す。あなたの安心のために！無償で！
+それから彼らは陽気に旅館へと行く。彼らがあなたの命をどのように救ったかについて、奉仕する女の子たちに自慢しようとしていて、支払いを要求することは無かった...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_43_HMD2_Entrance</column_1><column_2>あなたは湿地で目を覚ました。
+Ash Giants はあなたを彼らの村の外へ捨てたのだ。
+あなたは彼らを手助けすることはできないが、この失礼な扱いに少し戸惑いを感じることはできる。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_49_MonsoonInn</column_1><column_2>あなたが過去数日間の熱い夢から目覚めたときに、甘い香の香りが辺りに漂っていた。宣教師が Monsoon の宿にあなたを連れていき、去っていったのだ。宿主はあなたの治療のために、あなたの財布からお金を使っているが、少なくともあなたはまだ生きている。
+</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_50_MonsoonDoors</column_1><column_2>あなたの目が開くと、あなたは自分自身が Monsoon の門の壁に支えられていることに気づくだろう。安全だ。あなたの救世主を探しあたりを見回す。群衆の中に輝く白い装甲の誰かが消えるのを見た...
+</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_51_CierzoHomeTuto</column_1><column_2>気絶は素早く訪れる。そして、あなたは何かに襲われる夢を見る。小さな悲鳴とともに、あなたはベッドから飛び出す。
+自分がどこにいるかを認識し、あなたは救済されたのだと安堵した。
+あなたは家の古いベッド、Cierzo の Lighthouse に戻った。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_51_CierzoHomeTuto_b</column_1><column_2>Yzan は、あなたをあなたの家族のいる lighthouse に連れ戻したのだ。あなたの痛む肉体だけが、あの難破船は悪夢ではなかったとあなたに伝える。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_52_Vigile</column_1><column_2>怪物のまぼろしはあなたの熱っぽい夢を満たし、そして、何かが、あなたを、容赦なく執拗につけまわす。ねじれた悪夢だ。あなたは目覚める。妄想と恐怖の感覚に圧倒されて。あなたは上に Vigil クリスタルの1つを見つける... Elatt’s の名前でどうやってここに来たのだ？</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_53_Watchers2</column_1><column_2>山の頂上で無意識のうちに紫の草があなたを取り囲む。生命にかかわる損傷は、フードを被った男によって包帯をされていた。彼は振り向くことなく、山の壁沿いの扉に入り、静かに去って行く...
+</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>DS_54_JustWakeUp</column_1><column_2>何時間も意識の外で彷徨い、やっとあなたは立ち直ることができた。あなたが気を失っている間、傷つけられた様子はない。幸運だ…</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_55_SavedByGhosts</column_1><column_2>You wake up to see a butterfly resting on your nose, someplace quiet. As you pull yourself up you notice a trio of ghosts guarding you...yet they soon vanish as if they were never there...It would seem that the Ancestral Memories sent you aid in your time of need.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_56_SavedByGiants</column_1><column_2>The smell of ash and cinder wakes you. The wide grin of a travelling Giant merchant greets you as you open your eyes. “Haloo, there, small human! That was a close call, no? You are lucky Silvernose came to your rescue!”</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_56_SavedByGiants_b</column_1><column_2>He pats a large backpack. “I have things in here for to prevent you from being in trouble again! My prices are very good, small human!” It would seem that your alliance with the Giants has just saved your life.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -94,7 +117,7 @@
     <ooo_row><column_1>DS_310_HMQ4_DefeatByBattlebornThugs</column_1><column_2>You haul yourself to your feet, beaten and bloody. Those thugs from the Blue Chamber Collective beat you to within an inch of your life, then slaughtered the prisoners...Elatt will no doubt be upset.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_311_HMQ5_DefeatByImmaculate</column_1><column_2>As the Immaculates pounce on you without mercy, the ground beneath you crumbles, and you fall into darkness. By the time you pull yourself out, your foes seem to have regained their senses and fled the cave. They will no doubt be a danger to Monsoon in the future.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_312_LQ1_DefeatByLevantAgents</column_1><column_2>You cough up soot and ash as you wake up. The chamber is caked in dust, and a large hole yawns wide in the wall above you. The attackers seem to have detonated an explosive and left you to take the blame...</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>DS_313_LQ2_DefeatByBCScoots</column_1><column_2>You cough up sand as you stir from unconsciousness. あなたは殴られ血が流されているが、生きている。
+    <ooo_row><column_1>DS_313_LQ2_DefeatByBCScoots</column_1><column_2>You cough up sand as you stir from unconsciousness. 殴られて出血までしているが、まだ生きている。
 It would seem that those Blue Chamber Scouts still uphold the tradition of not killing foes unless truly needed, or they mistook your for dead.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_314_LQ4_DefeatBySoldiers</column_1><column_2>You open your eyes in the abandoned docks, inches from death. You have no idea how long you’ve been out, but by now the coup against Levant is likely in full swing. You should hurry if you intend to stop them!</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>DS_315_LQ4_DefeatByCyrene</column_1><column_2>You open your eyes, and can tell by the stench that you’ve been thrown onto a pile of corpses. It seems Cyrene mistook you for dead.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -107,7 +130,7 @@ It would seem that those Blue Chamber Scouts still uphold the tradition of not k
     <ooo_row><column_1>Camping_NoEvent</column_1><column_2>Fortunately, your rest goes without incident and you feel better prepared for the day ahead.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Camping_Ambush</column_1><column_2>Your rest is interrupted by the faintest of unnatural sounds! You scramble to protect yourself from the ambush!</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Prologue_1</column_1><column_2>私はいままでCierzoで安全に生活をし、外の世界の残虐さからは免れてきた。だがAuraiでの暮らしは楽ではなかった。全ては安全の為、我々の部族は苛烈な法を強いている。我々は個人ではなく、血統で審判を下されるのだ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Prologue_2</column_1><column_2>血統の失敗が私に重くのしかかった。祖母が過去に部族を没落させ、一族の血の価値も酷く落とした。それ以来、我々はその責任として借金を払わされ続けている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Prologue_2</column_1><column_2>血統の失敗が私に重くのしかかった。祖母が過去に部族を没落させ、一族の血の価値も酷く落としたのだ。それ以来、我々はその責任として借金を払わされ続けている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Prologue_3</column_1><column_2>私は旧友のYzanと共に、借金を帳消しにするだけの金銭を求め、海を渡って遠征に参加した。これが間違いだった。帰航の際に船が座礁したのだ。私がまだ息をしているのが僅かながらの幸運だろう。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Prologue_4</column_1><column_2>今や、私には未開の地、壁の向こう側に向かう以外に選択肢はない。自分自身の未来を切り開くか、いっそ死ぬかだ。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
