@@ -6240,6 +6240,14 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It grabs your arm and drags you through the Ghost Pass, sword ready if you try to escape...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091422Z" creationid="はぐくみ会" creationdate="20190403T091422Z">
+        <seg>それはあなたの腕をつかみ、あなたを引きずりながら Ghost Pass を通る。脱出しようと試みるのならば、武器をつかめ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a monstrous beast that walks on two legs, red pulsing veins running along its body.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061556Z" creationid="はぐくみ会" creationdate="20190403T061556Z">
@@ -6286,6 +6294,14 @@ Y軸カメラ反転</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T075715Z" creationid="rkmad" creationdate="20190403T075548Z">
         <seg>可能であれば焚き火で沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It speaks to you in a language you cannot recognize, but the intention is clear - do not resist!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091119Z" creationid="はぐくみ会" creationdate="20190403T091037Z">
+        <seg>それはあなたが認識できない言語で話し掛けてくる。しかし意図は明らかだ - 抵抗するな！</seg>
       </tuv>
     </tu>
     <tu>
