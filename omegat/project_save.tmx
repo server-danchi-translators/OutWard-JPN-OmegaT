@@ -4234,6 +4234,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damn, it’s not bad either.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100521Z" creationid="rkmad" creationdate="20190403T100521Z">
+        <seg>素晴らしいわ！　ポーションを提供してくれるだなんて、最高よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Day</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115852Z" creationid="setom" creationdate="20190401T115852Z">
@@ -6198,8 +6206,8 @@
       <tuv lang="EN-US">
         <seg>Here, you deserve a little pay.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T100014Z" creationid="rkmad" creationdate="20190403T100005Z">
-        <seg>少ないけれど、とっておきなさい。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100702Z" creationid="rkmad" creationdate="20190403T100005Z">
+        <seg>少ないけれど、お礼よ。とっておきなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,8 +6344,8 @@
       <tuv lang="EN-US">
         <seg>I have a fellow whose life depends on one!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T095801Z" creationid="rkmad" creationdate="20190403T095745Z">
-        <seg>あなたが薬を提供してくれるかどうかで、皆の命が救われるのよ！</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100636Z" creationid="rkmad" creationdate="20190403T095745Z">
+        <seg>あなたが薬を提供してくれるかどうかが、囚人達の命にかかわるのよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,6 +6370,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104614Z" creationid="setom" creationdate="20190402T104614Z">
         <seg>自分自身の未来を切り開くか、いっそ死ぬかだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think you might have saved someone’s life, prisoner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100535Z" creationid="rkmad" creationdate="20190403T100535Z">
+        <seg>あなたのおかげで、ここに居る囚人達の命が救われるかもしれない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15811,8 +15827,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>Good work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T100509Z" creationid="rkmad" creationdate="20190403T095953Z">
-        <seg>ああ、包帯を持ってきれくれたのね。よくやったわ。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T100646Z" creationid="rkmad" creationdate="20190403T095953Z">
+        <seg>ああ、包帯を持ってきてくれたのね。よくやったわ。</seg>
       </tuv>
     </tu>
     <tu>
