@@ -1670,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Another important dialogue is in progress.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051428Z" creationid="hiru4" creationdate="20190403T051428Z">
+        <seg>重要な会話が更新されました。」.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antialiasing</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022255Z" creationid="hiru4" creationdate="20190402T022255Z">
@@ -2050,6 +2058,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114847Z" creationid="setom" creationdate="20190401T114847Z">
         <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot rest: You will fall unconscious from thirst.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051634Z" creationid="hiru4" creationdate="20190403T051634Z">
+        <seg>休息できない：喉の渇きから意識不明になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can’t use Quickslots while deploying items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051524Z" creationid="hiru4" creationdate="20190403T051524Z">
+        <seg>クイックスロットを使用することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6527,10 +6551,26 @@ Y軸カメラ反転</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No compatible weapon or ammunition equipped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051539Z" creationid="hiru4" creationdate="20190403T051539Z">
+        <seg>対応する武器や弾薬を装備していません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No need to boil clean water.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194000Z" creationid="totochan" creationdate="20190402T194000Z">
         <seg>清潔な水を煮沸する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No {1} in inventory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051604Z" creationid="hiru4" creationdate="20190403T051604Z">
+        <seg> {1} はバッグの中にあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10993,10 +11033,26 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} has been added to the Journal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051400Z" creationid="hiru4" creationdate="20190403T051400Z">
+        <seg>{1} がジャーナルに追加されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} has been armed.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194317Z" creationid="totochan" creationdate="20190402T194317Z">
         <seg>{1}武装している。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} has been completed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hiru4" changedate="20190403T051446Z" creationid="hiru4" creationdate="20190403T051446Z">
+        <seg>{1} が完了しました。」</seg>
       </tuv>
     </tu>
     <tu>
