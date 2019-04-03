@@ -1526,6 +1526,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054520Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
+        <seg>暖かいキャンプファイヤーが近くで鳴り響き、その横にメモと神秘的なボトルが立てかけられていた。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm voice reaches you through the haze of pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053950Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
@@ -10548,6 +10557,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are alone, but you feel like someone was just here a moment ago...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054545Z" creationid="はぐくみ会" creationdate="20190403T054545Z">
+        <seg>あなたは一人ですが、少し前に誰かがここにいたような気がする…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053444Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
@@ -11025,6 +11042,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111701Z" creationid="setom" creationdate="20190331T111701Z">
         <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your eyes flutter open and you find yourself someplace safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054400Z" creationid="はぐくみ会" creationdate="20190403T054400Z">
+        <seg>あなたの目は開いていて、あなたは自分自身が安全だと感じる。</seg>
       </tuv>
     </tu>
     <tu>
