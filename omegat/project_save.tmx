@@ -11095,6 +11095,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your captors run you and the others ragged until their camp finally enters your vision...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060137Z" creationid="はぐくみ会" creationdate="20190403T060137Z">
+        <seg>捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、ついに、あなたの視界に盗賊たちのキャンプが...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your compass will point to your last-used backpack, making it easier to find back.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111701Z" creationid="setom" creationdate="20190331T111701Z">
