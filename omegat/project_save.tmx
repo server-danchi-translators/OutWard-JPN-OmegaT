@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"Are you alive?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061253Z" creationid="はぐくみ会" creationdate="20190403T061253Z">
+        <seg>"生きているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"Whoa there, now!</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060741Z" creationid="はぐくみ会" creationdate="20190403T054029Z">
@@ -1720,6 +1728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Answer me!"</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061311Z" creationid="はぐくみ会" creationdate="20190403T061311Z">
+        <seg>答えなさい！"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antialiasing</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022255Z" creationid="hiru4" creationdate="20190402T022255Z">
@@ -1812,6 +1828,15 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064149Z" creationid="setom" creationdate="20190402T064149Z">
         <seg>Cabal of Windsの秘宝である槍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you lift up your head, a shape moves in the corner of your eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061426Z" creationid="はぐくみ会" creationdate="20190403T061426Z">
+        <seg>頭を上げると、視界の隅を動くものが。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -10731,6 +10756,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051005Z" creationid="hiru4" creationdate="20190403T051005Z">
         <seg>とても疲れている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You awaken hours later, underground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061342Z" creationid="はぐくみ会" creationdate="20190403T061342Z">
+        <seg>あなたは数時間後に目覚めた。地下で。</seg>
       </tuv>
     </tu>
     <tu>
