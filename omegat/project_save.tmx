@@ -14649,8 +14649,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You fall to the ground, broken and defeated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053622Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
-        <seg>あなたは地面に倒れ、壊れ、敗北した。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T094107Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
+        <seg>あなたは地面に倒れ、骨も折られて敗北を喫した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14909,8 +14909,8 @@ OptionMenu_Gameplay_InvertMouse</seg>
       <tuv lang="EN-US">
         <seg>You will wear these scars for quite some time...You curse your recklessness and vow to be more prepared for danger in the future.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T053536Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
-        <seg>かなりの時間これらの傷跡が消えることはない…あなたはあなたの無謀さを呪い、将来の危険にもっと備えるように誓う。</seg>
+      <tuv lang="JA" changeid="setom" changedate="20190403T093735Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
+        <seg>傷跡は長く残りそうだ…あなたは自身の無謀さを呪い、これからはもっと慎重になることを誓った。</seg>
       </tuv>
     </tu>
     <tu>
