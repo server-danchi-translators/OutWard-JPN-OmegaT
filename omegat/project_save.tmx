@@ -2475,6 +2475,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certain skills require this boon to be active.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072244Z" creationid="rkmad" creationdate="20190403T072244Z">
+        <seg>特定のスキルを使用する場合、Cool Boon を事前に付与しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114958Z" creationid="setom" creationdate="20190401T114958Z">
@@ -5101,8 +5109,8 @@
       <tuv lang="EN-US">
         <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T072045Z" creationid="rkmad" creationdate="20190403T072045Z">
-        <seg>氷属性のダメージと耐性を増加させる Cool Boon を付与します。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072147Z" creationid="rkmad" creationdate="20190403T072045Z">
+        <seg>このスペルを使用した際、氷属性のダメージと耐性を増加させる Cool Boon をあなたに付与します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5971,6 +5979,14 @@ Y軸カメラ反転</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T054138Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
         <seg>今日はまだあなたの死ぬ時ではない。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also increases your protection to hot weather.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T072129Z" creationid="rkmad" creationdate="20190403T072129Z">
+        <seg>また、このスペルは暑さからあなたを守ってくれることでしょう。</seg>
       </tuv>
     </tu>
     <tu>
