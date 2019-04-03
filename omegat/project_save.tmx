@@ -15766,6 +15766,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The smell of ash and cinder wakes you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T234100Z" creationid="はぐくみ会" creationdate="20190403T234100Z">
+        <seg>灰と火薬のにおいに目を覚まされる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The smell of sweet incense greets you as you awaken from the fevered dreams of the last few days.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T102926Z" creationid="はぐくみ会" creationdate="20190403T102326Z">
@@ -15810,6 +15818,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112444Z" creationid="setom" creationdate="20190331T112444Z">
         <seg>水は危険なほど冷たい、または熱い状態で手に入ることが多い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The wide grin of a travelling Giant merchant greets you as you open your eyes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T234301Z" creationid="はぐくみ会" creationdate="20190403T234301Z">
+        <seg>目を開くと、巨人の商人が大きな笑みであなたを迎える。</seg>
       </tuv>
     </tu>
     <tu>
