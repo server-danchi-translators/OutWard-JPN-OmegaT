@@ -287,11 +287,11 @@
     <ooo_row><column_1>Interaction_Item_Disassemble</column_1><column_2>Disassemble</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_DisassembleTrap</column_1><column_2>Disassemble {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_OpenContainer</column_1><column_2>Open</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Item_Use</column_1><column_2>Use</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Use</column_1><column_2>使う</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Loot</column_1><column_2>Loot</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_TurnOff</column_1><column_2>Turn off</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Item_Read</column_1><column_2>Read</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Interaction_Item_Equip</column_1><column_2>Equip</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Read</column_1><column_2>読むRead</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Equip</column_1><column_2>装備</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Take</column_1><column_2>取る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_Gather</column_1><column_2>{ItemName}を採取</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Interaction_Item_GatherMining</column_1><column_2>Mine {ItemName}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>

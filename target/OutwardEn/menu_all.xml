@@ -92,7 +92,7 @@
     <ooo_row><column_1>General_Continue</column_1><column_2>コンティニュー</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_Craft</column_1><column_2>クラフト</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_Delete</column_1><column_2>削除</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>General_Empty</column_1><column_2>空</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>General_Empty</column_1><column_2>空にする</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_EmptyInventory</column_1><column_2>所持品なし</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_Enter</column_1><column_2>決定</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>General_FindGame</column_1><column_2>ゲームを検索</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -279,10 +279,10 @@ Y軸カメラ反転</column_2><column_3/><column_4/><column_5/><column_6/></ooo_
     <ooo_row><column_1>PlayerMenu_Tab_Skills</column_1><column_2>スキル</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>PlayerMenu_Tab_Status</column_1><column_2>急所</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_ChancesOfAmbush</column_1><column_2>待ち伏せ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>Each hour spent guarding reduces the chance of ambush while resting.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Rest_Description_Guard</column_1><column_2>警戒する時間を増やせば、待ち伏せされる可能性が減ります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_Description_GuardSafeZone</column_1><column_2>安全地帯この場所は安全です。待ち伏せされることを恐れずに休むことができます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_Description_Repair</column_1><column_2>修理すると装備品の耐久が回復します。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>Sleep heals tiredness, max health and max stamina, but reduces your max mana.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Rest_Description_Sleep</column_1><column_2>睡眠は疲労をとり、ヘルスとスタミナを回復させますが、マナを減少させます。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_Guard_Resume</column_1><column_2>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_PosRestNeedOverview</column_1><column_2>欲求</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Rest_Repair_AfterRestDurability値</column_1><column_2>修理後の装備の耐久値</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -460,92 +460,92 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Notification_Item_FoodRotten</column_1><column_2>{1}は腐っている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_OutOfFuel</column_1><column_2>{1}燃料不足</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Notification_Item_RemovedInventory</column_1><column_2>{1}を削除しました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_LognTravel_DistanceThreshold</column_1><column_2>All players must be closer to travel.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_LongTraval_NotEnoughRatio</column_1><column_2>Not enough travel rations.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Fatigue_Drowsy</column_1><column_2>You are tired.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Fatigue_Tired</column_1><column_2>You are very tired.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Hunger_Hungry</column_1><column_2>You are hungry.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Hunger_Starving</column_1><column_2>You are very hungry.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_Cold</column_1><column_2>You are cold.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_Hot</column_1><column_2>You are hot.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_VeryCold</column_1><column_2>You are very cold.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_VeryHot</column_1><column_2>You are very hot.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Thirst_Parched</column_1><column_2>You are very thirsty.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Thirst_Thirsty</column_1><column_2>You are thirsty.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ProjectileWeapon_NoAmmunition</column_1><column_2>No ammunition equipped</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_LogHasBeenUpdated</column_1><column_2>{1}’s log has been updated.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_ReceiveQuest</column_1><column_2>{1} has been added to the Journal.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_ImportantDialogueActive</column_1><column_2>Another important dialogue is in progress.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quest_Completed</column_1><column_2>{1} has been completed.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quickslot_DeployWarning</column_1><column_2>Can’t use Quickslots while deploying items.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quickslot_MissingWeapon</column_1><column_2>No compatible weapon or ammunition equipped.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Quickslot_NoItemInventory</column_1><column_2>No {1} in inventory.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_CriticalDrink</column_1><column_2>Cannot rest: You will fall unconscious from thirst.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_CriticalFood</column_1><column_2>Cannot rest: You will fall unconscious from hunger.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_CriticalSleep</column_1><column_2>Cannot rest: You will fall unconscious from exhaustion.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_CriticalTempCold</column_1><column_2>Cannot rest: You will fall unconscious from cold.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_CriticalTempHeat</column_1><column_2>Cannot rest: You will fall unconscious from heat.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_MinimumRest</column_1><column_2>You need to rest at least 1 hour.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_NotEnough</column_1><column_2>Cannot rest: Not enough time assigned.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_TooMuch</column_1><column_2>Cannot rest: Too much time assigned.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Resting_TooFarPlayer</column_1><column_2>You cannot rest too far away from each other.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_MerchantNotEnoughMoney</column_1><column_2>The merchant does not have enough Silver.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_PlayerNotEnoughMoney</column_1><column_2>You do not have enough Silver.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_Completed</column_1><column_2>Transaction complete.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_ShopTransaction_CantComplete</column_1><column_2>Cannot complete transaction.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_NoCompatibleItem</column_1><column_2>No compatible item equipped.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_NotEnoughtMana</column_1><column_2>Not enough Mana.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_NotEnoughtStamina</column_1><column_2>Not enough Stamina.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_RequiredItemMultiple</column_1><column_2>{2} {1} are required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_RequiredItemSingle</column_1><column_2>{1} is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_NotEnoughMoney</column_1><column_2>You do not have enough Silver.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_AlternativeSkillAlreadyLearnt</column_1><column_2>The alternative skill has already been learned.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_FactionBlueChamber</column_1><column_2>You must be part of the Blue Chamber to learn this skill.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_FactionHeroicKingdom</column_1><column_2>You must be part of the Heroic Kingdom of Levant to learn this skill.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_FactionHolyMission</column_1><column_2>You must be part of the Holy Mission of Elatt to learn this skill.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_RequiredSkill</column_1><column_2>{1} must be learned prior to unlock this skill.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_RequiredAnySkill</column_1><column_2>{1} or {2} must be learned prior to unlock this skill.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trainer_RequiredBreakthrough</column_1><column_2>No Breakthrough Point remaining.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_SkillPistol_MustBeEmpty</column_1><column_2>{1} must be empty.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_SkillPistol_NeedsBullet</column_1><column_2>Bullets are required in your inventory.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Stash_NotEnoughRoom</column_1><column_2>There is not enough room in {1} to store everything.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_SwitchArea_AreaNotActive</column_1><column_2>{0}({1}) not active.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_SwitchArea_Request</column_1><column_2>{1} wants to go to {2}.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_SwitchArea_NotSameSwitch</column_1><column_2>{1} is already trying to go to a different area.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Interaction_Locked</column_1><column_2>It is locked.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Interaction_DoesNotMove</column_1><column_2>It does not move.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Interaction_ActivatedByLever</column_1><column_2>It does not open from here.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_RageRequired</column_1><column_2>Rage Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_ImbuedWeaponRequired</column_1><column_2>An infused weapon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_DisciplineRequired</column_1><column_2>Discipline Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_WindAltarRequired</column_1><column_2>Wind Altar is not activated in this region.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_BlessedRequired</column_1><column_2>Blessed Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_CoolRequired</column_1><column_2>Cool Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_WarmRequired</column_1><column_2>Warm Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_PistolAlreadyInfused</column_1><column_2>Pistol is already infused.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_PossessedRequired</column_1><column_2>Possessed Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_MistRequired</column_1><column_2>Mist Boon is required.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Tutorial_NoConnection</column_1><column_2>Connection cannot be opened here.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_GameOpenSuccessfully</column_1><column_2>Connection is ready.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Trap_NotRequiredTraining</column_1><column_2>You do not have the required training.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Action_Invalid</column_1><column_2>You cannot do this now.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_InfuseNotCompatible</column_1><column_2>No compatible melee weapon equipped.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_GameOpenFailed</column_1><column_2>Could not open connection.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_LongTravel_NotEnoughRation</column_1><column_2>Not enough rations to travel.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_PlayerStartConnect</column_1><column_2>has started connecting.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_PlayerDisconnect</column_1><column_2>has disconnected.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Network_PlayerDoneConnect</column_1><column_2>has connected.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_DurabilityRequired</column_1><column_2>The item does not have enough durability.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_RequirementsNotMet</column_1><column_2>Requirements not met.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Need_Temperature_Neutral</column_1><column_2>Your body temperature is back to normal.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Waterskin_Needed</column_1><column_2>A Waterskin is required to gather water.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_Cooldown</column_1><column_2>This skill is still in cooldown.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_Waterskin_Empty</column_1><column_2>You cannot boil water as the Waterskin is empty.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Skill_LexiconRequired</column_1><column_2>You need an equipped Lexicon to cast Rune spells.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Item_NoLanternSlot</column_1><column_2>Current backpack has no lantern slot.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_UnpluggedGamepad</column_1><column_2>Gamepad has been unplugged.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Disease_Cough</column_1><column_2>You are coughing.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Notification_Disease_Puke</column_1><column_2>You could not keep it in.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_LognTravel_DistanceThreshold</column_1><column_2>参加してるプレーヤーが近くにいなければ、なりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_LongTraval_NotEnoughRatio</column_1><column_2>移動に不十分な食糧.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Fatigue_Drowsy</column_1><column_2>疲れている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Fatigue_Tired</column_1><column_2>とても疲れている</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Hunger_Hungry</column_1><column_2>お腹がすいている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Hunger_Starving</column_1><column_2>とてもお腹がすいている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_Cold</column_1><column_2>寒い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_Hot</column_1><column_2>暑い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_VeryCold</column_1><column_2>とても寒い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_VeryHot</column_1><column_2>とても暑い</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Thirst_Parched</column_1><column_2>とても喉が渇いている。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Thirst_Thirsty</column_1><column_2>喉が渇いている。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ProjectileWeapon_NoAmmunition</column_1><column_2>弾薬を装填していない。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_LogHasBeenUpdated</column_1><column_2>{1}のログが更新されました。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_ReceiveQuest</column_1><column_2>{1} がジャーナルに追加されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_ImportantDialogueActive</column_1><column_2>重要な会話が更新されました。」.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quest_Completed</column_1><column_2>{1} が完了しました。」</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quickslot_DeployWarning</column_1><column_2>クイックスロットを使用することはできません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quickslot_MissingWeapon</column_1><column_2>対応する武器や弾薬を装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Quickslot_NoItemInventory</column_1><column_2> {1} はバッグの中にあります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_CriticalDrink</column_1><column_2>休息できない：喉の渇きから意識不明になります。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_CriticalFood</column_1><column_2>休息できない：飢餓から意識不明になります</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_CriticalSleep</column_1><column_2>休息できない：疲労から意識不明になります</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_CriticalTempCold</column_1><column_2>休息できない：寒さから意識不明になります</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_CriticalTempHeat</column_1><column_2>休息できない：熱から意識不明になります</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_MinimumRest</column_1><column_2>休息には最低1時間必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_NotEnough</column_1><column_2>時間が短すぎて休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_TooMuch</column_1><column_2>時間が長すぎて休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Resting_TooFarPlayer</column_1><column_2>お互いが離れすぎているため休息できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_MerchantNotEnoughMoney</column_1><column_2>商人のシルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_PlayerNotEnoughMoney</column_1><column_2>シルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_Completed</column_1><column_2>取引を完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_ShopTransaction_CantComplete</column_1><column_2>取引を完了できません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_NoCompatibleItem</column_1><column_2>対応するアイテムを装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_NotEnoughtMana</column_1><column_2>マナが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_NotEnoughtStamina</column_1><column_2>スタミナが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_RequiredItemMultiple</column_1><column_2>{2}と{1}が必要</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_RequiredItemSingle</column_1><column_2>{1}が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_NotEnoughMoney</column_1><column_2>シルバーが不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_AlternativeSkillAlreadyLearnt</column_1><column_2>別のスキルを既に習得しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_FactionBlueChamber</column_1><column_2>スキルを学ぶためにBlue Chamberのメンバーでなければなりません。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_FactionHeroicKingdom</column_1><column_2>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_FactionHolyMission</column_1><column_2>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_RequiredSkill</column_1><column_2>{1}は、スキルロックを解除する前提条件です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_RequiredAnySkill</column_1><column_2>{1}または{2}は、このスキルのロックを解除する前提条件です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trainer_RequiredBreakthrough</column_1><column_2>ブレークスルーポイントは残りは有りません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_SkillPistol_MustBeEmpty</column_1><column_2>{1}空でなければなりません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_SkillPistol_NeedsBullet</column_1><column_2>弾丸はあなたの所持品に必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Stash_NotEnoughRoom</column_1><column_2>{1}のすべてを収納するスペースが不足</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_SwitchArea_AreaNotActive</column_1><column_2>{0}({1})アクティブではありません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_SwitchArea_Request</column_1><column_2>{1}から{2}へ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_SwitchArea_NotSameSwitch</column_1><column_2>{1}は、別のエリアに移動しようとしています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Interaction_Locked</column_1><column_2>ロックされている</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Interaction_DoesNotMove</column_1><column_2>動かせない</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Interaction_ActivatedByLever</column_1><column_2>ここからでは開けません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_RageRequired</column_1><column_2>Rage Boonが必要です。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_ImbuedWeaponRequired</column_1><column_2>装填済みの武器が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_DisciplineRequired</column_1><column_2>規律の恩恵が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_WindAltarRequired</column_1><column_2>風の祭壇は、この地域で活性化されていません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_BlessedRequired</column_1><column_2>Blessed Boonが必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_CoolRequired</column_1><column_2>Cool Boonが必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_WarmRequired</column_1><column_2>Warm Boonが必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_PistolAlreadyInfused</column_1><column_2>ピストルはすでに装填されています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_PossessedRequired</column_1><column_2>Possessed Boonが必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_MistRequired</column_1><column_2>Mist Boonが必要です。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Tutorial_NoConnection</column_1><column_2>ここで接続を開くことはできません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_GameOpenSuccessfully</column_1><column_2>接続の準備が完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Trap_NotRequiredTraining</column_1><column_2>必要な訓練を受けていません。.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Action_Invalid</column_1><column_2>今その行動はできません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_InfuseNotCompatible</column_1><column_2>対応する近接武器を装備していません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_GameOpenFailed</column_1><column_2>接続を開くことができませんでした。/</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_LongTravel_NotEnoughRation</column_1><column_2>移動するための食糧が不足</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_PlayerStartConnect</column_1><column_2>接続開始</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_PlayerDisconnect</column_1><column_2>切断されました。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Network_PlayerDoneConnect</column_1><column_2>接続完了</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_DurabilityRequired</column_1><column_2>アイテムの耐久力が不足しています。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_RequirementsNotMet</column_1><column_2>要求が満たされていません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Need_Temperature_Neutral</column_1><column_2>体温が正常に戻りました</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Waterskin_Needed</column_1><column_2>水を汲むには水袋が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_Cooldown</column_1><column_2>クールダウン中</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_Waterskin_Empty</column_1><column_2>Waterskinが空のため湯を沸かすことができません。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Skill_LexiconRequired</column_1><column_2>呪文を唱えるために呪文書が必要です。</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Item_NoLanternSlot</column_1><column_2>バックパックにはランタンスロットがありません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_UnpluggedGamepad</column_1><column_2>ゲームパッドが有りません</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Disease_Cough</column_1><column_2>咳をしています</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Notification_Disease_Puke</column_1><column_2>維持することができませんでした.</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="3">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -624,7 +624,7 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
     <ooo_row><column_1>Player_Message_TutorialTitle_Repairing</column_1><column_2>33 – 修理</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Message_TutorialTitle_Guarding</column_1><column_2>34 – 警戒</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Message_TutorialTitle_End</column_1><column_2>35 – 終わり</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Player_Message_Tutorial_Introduction</column_1><column_2>Read about the Tutorial</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Player_Message_Tutorial_Introduction</column_1><column_2>Read about the Tutorial_</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Combat</column_1><column_2>Read about Basic Combat</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Blocking</column_1><column_2>Read about Blocking</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Player_Message_Tutorial_Stability</column_1><column_2>Read about the Stability Bar</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
@@ -660,34 +660,34 @@ Notification_Crafting_AtLeastOneIngredient</column_1><column_2>最低でも一�
   </ooo_sheet>
   <ooo_sheet num="5">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Cooking_MoveToIngredients</column_1><column_2>Move to Ingredients</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Cooking_MoveToFuel</column_1><column_2>Move to Fuel</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_MoveToPocket</column_1><column_2>Move to Pocket</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_MoveToBag</column_1><column_2>Move to Bag</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_MoveToContainer</column_1><column_2>Move to {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Drop</column_1><column_2>Drop</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Cooking_MoveToIngredients</column_1><column_2>材料を移動</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Cooking_MoveToFuel</column_1><column_2>燃料を追加&lt;</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_MoveToPocket</column_1><column_2>ポケットに入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_MoveToBag</column_1><column_2>バッグに入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_MoveToContainer</column_1><column_2>{1}に入れる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Drop</column_1><column_2>捨てる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Item_Take</column_1><column_2>取る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Equipment_Switch</column_1><column_2>Switch Equipment</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Equipment_UnequipBag</column_1><column_2>Unequip (to Bag)</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Equipment_UnequipPocket</column_1><column_2>Unequip (to Pocket)</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_AssignToQuickSlot</column_1><column_2>Assign to Quick Slot</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Equip</column_1><column_2>Equip</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Unequip</column_1><column_2>Unequip</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Use</column_1><column_2>Use</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Read</column_1><column_2>Read</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Fill</column_1><column_2>Fill with {1}</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>Deploy</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Empty</column_1><column_2>空</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Buy</column_1><column_2>Buy</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Sell</column_1><column_2>Sell</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Remove</column_1><column_2>Remove</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_ExploreStack</column_1><column_2>Explore Stack</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_Light</column_1><column_2>Light</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_PutOut</column_1><column_2>Put Out</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Equipment_Switch</column_1><column_2>装備を変更</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Equipment_UnequipBag</column_1><column_2>未装備（バッグ）</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Equipment_UnequipPocket</column_1><column_2>未装備（ポケット）</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_AssignToQuickSlot</column_1><column_2>クイックスロット</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Equip</column_1><column_2>装備</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Unequip</column_1><column_2>装備を外す</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Use</column_1><column_2>使う</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Read</column_1><column_2>読むRead</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Fill</column_1><column_2>{1}を注ぐ</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Deploy</column_1><column_2>設置</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Empty</column_1><column_2>空にする</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Buy</column_1><column_2>購入</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Sell</column_1><column_2>売る</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Remove</column_1><column_2>削除</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_ExploreStack</column_1><column_2>スタックを調べる</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_Light</column_1><column_2>着火</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_PutOut</column_1><column_2>消す</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
     <ooo_row><column_1>Context_Map_Create</column_1><column_2>作成</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Map_Edit</column_1><column_2>Edit</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_FreeQuickSlot</column_1><column_2>Free Quick Slot</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
-    <ooo_row><column_1>Context_Item_LanternAttach</column_1><column_2>Attach this Lantern</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Map_Edit</column_1><column_2>編集</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_FreeQuickSlot</column_1><column_2>フリークイックスロット</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
+    <ooo_row><column_1>Context_Item_LanternAttach</column_1><column_2>ランタンを設置</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="6">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3/><column_4/><column_5/><column_6/></ooo_row>
