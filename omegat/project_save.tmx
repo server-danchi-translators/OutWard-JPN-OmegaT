@@ -7643,6 +7643,14 @@ Notification_Crafting_AtLeastOneIngredient</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oil lantern that shines brightly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080825Z" creationid="rkmad" creationdate="20190403T080825Z">
+        <seg>冒険者が愛用する、明るいオイルランタン。オイルが切れても、補充することで再利用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once applied, theses changes will be permanent.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064251Z" creationid="hiru4" creationdate="20190403T064251Z">
@@ -9528,6 +9536,14 @@ OptionMenu_Gameplay_InvertMouse</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071634Z" creationid="hiru4" creationdate="20190402T071634Z">
         <seg>川の水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rusty oil lantern with a weak flame.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190403T080754Z" creationid="rkmad" creationdate="20190403T080754Z">
+        <seg>弱々しい灯りを放つ、錆びたオイルランタン。オイルが切れても補充することで再利用できる。</seg>
       </tuv>
     </tu>
     <tu>
