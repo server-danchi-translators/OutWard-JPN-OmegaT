@@ -2978,6 +2978,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burnt Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112328Z" creationid="Gaiden Shinji" creationdate="20190404T112328Z">
+        <seg>焼けた前哨基地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But if you do not pay off those 4 months of missed payments on your own, the tribe will have my head.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080951Z" creationid="rkmad" creationdate="20190404T080951Z">
@@ -3859,10 +3867,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cierzo Streets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112535Z" creationid="Gaiden Shinji" creationdate="20190404T112535Z">
+        <seg>シエルゾストリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
         <seg>Cierzoの鍛冶屋へBlue Sandを持ち込むとpieces of Blue Sand Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City Hall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112447Z" creationid="Gaiden Shinji" creationdate="20190404T112447Z">
+        <seg>市役所</seg>
       </tuv>
     </tu>
     <tu>
@@ -5956,6 +5980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dolmen Crypt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112313Z" creationid="Gaiden Shinji" creationdate="20190404T112313Z">
+        <seg>ドルメンクリプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double all the Damage you deal.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065506Z" creationid="rkmad" creationdate="20190404T065506Z">
@@ -6128,6 +6160,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112035Z" creationid="setom" creationdate="20190331T112035Z">
         <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elatt’s Temple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112521Z" creationid="Gaiden Shinji" creationdate="20190404T112521Z">
+        <seg>エラット聖堂</seg>
       </tuv>
     </tu>
     <tu>
@@ -6792,6 +6832,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193158Z" creationid="totochan" creationdate="20190402T193158Z">
         <seg>フレンドを招待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fang &amp; Claw’s Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112443Z" creationid="Gaiden Shinji" creationdate="20190404T112443Z">
+        <seg>ファング&amp;クローズイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -8357,6 +8405,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hive's Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112319Z" creationid="Gaiden Shinji" creationdate="20190404T112319Z">
+        <seg>ハイブの罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
@@ -8905,8 +8961,8 @@
       <tuv lang="EN-US">
         <seg>Immaculate's Camp</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111321Z" creationid="Gaiden Shinji" creationdate="20190404T111321Z">
-        <seg>穢れなきキャンプImmaculate's Camp</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112336Z" creationid="Gaiden Shinji" creationdate="20190404T111321Z">
+        <seg>穢れなきキャンプ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,6 +9035,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113406Z" creationid="setom" creationdate="20190331T113406Z">
         <seg>重要なランドマークにはアイコンが付いていて、カーソルを合わせるとその名前が表示されるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Between</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112409Z" creationid="Gaiden Shinji" creationdate="20190404T112409Z">
+        <seg>間に</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10260,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Levant Streets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112611Z" creationid="Gaiden Shinji" creationdate="20190404T112611Z">
+        <seg>レヴァンテストリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142528Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -10216,6 +10288,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022405Z" creationid="hiru4" creationdate="20190402T022405Z">
         <seg>照明品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lighthouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112543Z" creationid="Gaiden Shinji" creationdate="20190404T112543Z">
+        <seg>灯台</seg>
       </tuv>
     </tu>
     <tu>
@@ -10728,6 +10808,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115200Z" creationid="setom" creationdate="20190401T115200Z">
         <seg>商人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant’s Promenade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112506Z" creationid="Gaiden Shinji" creationdate="20190404T112506Z">
+        <seg>承認の遊歩道</seg>
       </tuv>
     </tu>
     <tu>
@@ -11448,6 +11536,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111529Z" creationid="Gaiden Shinji" creationdate="20190404T111529Z">
         <seg>モンスーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monsoon Streets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112423Z" creationid="Gaiden Shinji" creationdate="20190404T112423Z">
+        <seg>モンスーンストリート</seg>
       </tuv>
     </tu>
     <tu>
@@ -13975,6 +14071,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player House</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112527Z" creationid="Gaiden Shinji" creationdate="20190404T112527Z">
+        <seg>プレイヤーハウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player is buying</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024400Z" creationid="hiru4" creationdate="20190402T024400Z">
@@ -16060,6 +16164,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103308Z" creationid="seto" creationdate="20190404T103308Z">
         <seg>Scene_Hallowed_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sea-Salt Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112556Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
+        <seg>シーソルトイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -18303,6 +18415,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Town Hall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112601Z" creationid="Gaiden Shinji" creationdate="20190404T112601Z">
+        <seg>町役場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Toxic swamp lit by flowers and fireflies, dotted with dinosaurs nests and glowing undead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111521Z" creationid="Gaiden Shinji" creationdate="20190404T111521Z">
@@ -18419,6 +18539,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114346Z" creationid="Gaiden Shinji" creationdate="20190403T114346Z">
         <seg>木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tree Husk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112354Z" creationid="Gaiden Shinji" creationdate="20190404T112354Z">
+        <seg>ツリーハスク</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,6 +18867,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113908Z" creationid="setom" creationdate="20190401T113908Z">
         <seg>とても疲れている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112401Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
+        <seg>ヴィジル</seg>
       </tuv>
     </tu>
     <tu>
