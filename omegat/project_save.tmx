@@ -1697,8 +1697,8 @@
       <tuv lang="EN-US">
         <seg>A {1} is required to gather this resource.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194423Z" creationid="totochan" creationdate="20190402T194423Z">
-        <seg>{1}この材料を収集する必要があります。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132749Z" creationid="totochan" creationdate="20190402T194423Z">
+        <seg>{1}この材料を収集する必要があります</seg>
       </tuv>
     </tu>
     <tu>
@@ -1849,8 +1849,8 @@
       <tuv lang="EN-US">
         <seg>All players must be closer to travel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141546Z" creationid="hiru4" creationdate="20190403T050917Z">
-        <seg>参加してるプレーヤーが近くにいなければなりません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132836Z" creationid="hiru4" creationdate="20190403T050917Z">
+        <seg>参加してるプレーヤーが近くにいなければなりません</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,8 +2515,8 @@
       <tuv lang="EN-US">
         <seg>Bag Overweight</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194447Z" creationid="totochan" creationdate="20190402T194447Z">
-        <seg>バッグが一杯です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132752Z" creationid="totochan" creationdate="20190402T194447Z">
+        <seg>バッグが一杯です</seg>
       </tuv>
     </tu>
     <tu>
@@ -12806,8 +12806,8 @@
       <tuv lang="EN-US">
         <seg>No ammunition equipped</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091039Z" creationid="hiru4" creationdate="20190403T051253Z">
-        <seg>弾薬を装填していない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132919Z" creationid="hiru4" creationdate="20190403T051253Z">
+        <seg>弾薬を装填していない</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,8 +12918,8 @@
       <tuv lang="EN-US">
         <seg>Not enough travel rations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T050942Z" creationid="hiru4" creationdate="20190403T050942Z">
-        <seg>移動に不十分な食糧.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132858Z" creationid="hiru4" creationdate="20190403T050942Z">
+        <seg>移動するには食糧が足りません</seg>
       </tuv>
     </tu>
     <tu>
@@ -15641,8 +15641,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pouch Overweight</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T154348Z" creationid="totochan" creationdate="20190402T194458Z">
-        <seg>ポケットが一杯です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132754Z" creationid="totochan" creationdate="20190402T194458Z">
+        <seg>ポケットが一杯です</seg>
       </tuv>
     </tu>
     <tu>
@@ -21239,8 +21239,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are hungry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141557Z" creationid="hiru4" creationdate="20190403T051014Z">
-        <seg>お腹がすいている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132904Z" creationid="hiru4" creationdate="20190403T051014Z">
+        <seg>お腹がすいている</seg>
       </tuv>
     </tu>
     <tu>
@@ -21279,16 +21279,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are thirsty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091020Z" creationid="hiru4" creationdate="20190403T051219Z">
-        <seg>喉が渇いている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132912Z" creationid="hiru4" creationdate="20190403T051219Z">
+        <seg>喉が渇いている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You are tired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T050952Z" creationid="hiru4" creationdate="20190403T050952Z">
-        <seg>疲れている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132901Z" creationid="hiru4" creationdate="20190403T050952Z">
+        <seg>疲れている</seg>
       </tuv>
     </tu>
     <tu>
@@ -21311,16 +21311,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are very hungry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141615Z" creationid="hiru4" creationdate="20190403T051125Z">
-        <seg>とてもお腹がすいている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132908Z" creationid="hiru4" creationdate="20190403T051125Z">
+        <seg>とてもお腹がすいている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You are very thirsty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051229Z" creationid="hiru4" creationdate="20190403T051205Z">
-        <seg>とても喉が渇いている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132910Z" creationid="hiru4" creationdate="20190403T051205Z">
+        <seg>とても喉が渇いている</seg>
       </tuv>
     </tu>
     <tu>
@@ -22746,8 +22746,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} broke.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194510Z" creationid="totochan" creationdate="20190402T194510Z">
-        <seg>{1}壊れた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132758Z" creationid="totochan" creationdate="20190402T194510Z">
+        <seg>{1}壊れた</seg>
       </tuv>
     </tu>
     <tu>
@@ -22762,16 +22762,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} cannot be taken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194527Z" creationid="totochan" creationdate="20190402T194527Z">
-        <seg>{1}取れない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132800Z" creationid="totochan" creationdate="20190402T194527Z">
+        <seg>{1}取れない</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} changed into {2}.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194755Z" creationid="totochan" creationdate="20190402T194755Z">
-        <seg>{1}を{2}に交換した。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132814Z" creationid="totochan" creationdate="20190402T194755Z">
+        <seg>{1}を{2}に交換した</seg>
       </tuv>
     </tu>
     <tu>
@@ -22786,8 +22786,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been armed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T080234Z" creationid="totochan" creationdate="20190402T194317Z">
-        <seg>{1}武装している。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132742Z" creationid="totochan" creationdate="20190402T194317Z">
+        <seg>{1}武装している</seg>
       </tuv>
     </tu>
     <tu>
@@ -22802,40 +22802,40 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been contracted.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194348Z" creationid="totochan" creationdate="20190402T194348Z">
-        <seg>{1}になった。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132744Z" creationid="totochan" creationdate="20190402T194348Z">
+        <seg>{1}になった</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} has been learned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194731Z" creationid="totochan" creationdate="20190402T194731Z">
-        <seg>{1}が覚えた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132813Z" creationid="totochan" creationdate="20190402T194731Z">
+        <seg>{1}が覚えた</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} has broken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194650Z" creationid="totochan" creationdate="20190402T194650Z">
-        <seg>{1}壊れた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132808Z" creationid="totochan" creationdate="20190402T194650Z">
+        <seg>{1}壊れた</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} has rotten.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194825Z" creationid="totochan" creationdate="20190402T194825Z">
-        <seg>{1}は腐っている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132826Z" creationid="totochan" creationdate="20190402T194825Z">
+        <seg>{1}は腐った</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} is almost burnt out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194710Z" creationid="totochan" creationdate="20190402T194710Z">
-        <seg>{1}は燃え尽きた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132810Z" creationid="totochan" creationdate="20190402T194710Z">
+        <seg>{1}は燃え尽きた</seg>
       </tuv>
     </tu>
     <tu>
@@ -22858,8 +22858,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} is badly damaged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194540Z" creationid="totochan" creationdate="20190402T194540Z">
-        <seg>{1}破損しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132804Z" creationid="totochan" creationdate="20190402T194540Z">
+        <seg>{1}破損しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -22874,8 +22874,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} is now receding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194405Z" creationid="totochan" creationdate="20190402T194405Z">
-        <seg>{1}破棄します。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132747Z" creationid="totochan" creationdate="20190402T194405Z">
+        <seg>{1}破棄します</seg>
       </tuv>
     </tu>
     <tu>
@@ -22938,8 +22938,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} recipe has been learned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194616Z" creationid="totochan" creationdate="20190402T194616Z">
-        <seg>{1}のレシピを覚えた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132806Z" creationid="totochan" creationdate="20190402T194616Z">
+        <seg>{1}のレシピを覚えた</seg>
       </tuv>
     </tu>
     <tu>
@@ -22964,8 +22964,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} was removed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194914Z" creationid="totochan" creationdate="20190402T194914Z">
-        <seg>{1}を削除しました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132829Z" creationid="totochan" creationdate="20190402T194914Z">
+        <seg>{1}を削除しました</seg>
       </tuv>
     </tu>
     <tu>
