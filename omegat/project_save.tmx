@@ -10516,6 +10516,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No doubt they intend to use you as slave labor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T013201Z" creationid="はぐくみ会" creationdate="20190404T013201Z">
+        <seg>彼らはあなたを奴隷として利用しようとしていことは明らかだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No game found with the given name.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071125Z" creationid="hiru4" creationdate="20190403T071125Z">
@@ -18142,8 +18150,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up deep underground, at a bandit’s camp in an old crumbling mine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T012709Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
-        <seg>目を覚ました場所は地下のようだ。砕けた古い鉱山の、盗賊達の野営地。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T012820Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
+        <seg>地下深くで目を覚ます。砕けた古い鉱山の、盗賊達の野営地で。</seg>
       </tuv>
     </tu>
     <tu>
