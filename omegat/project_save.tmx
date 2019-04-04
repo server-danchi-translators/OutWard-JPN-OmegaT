@@ -1727,6 +1727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abrassar Misc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111652Z" creationid="Gaiden Shinji" creationdate="20190404T111652Z">
+        <seg>アブラザール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ActionCategory_QuickSlot</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091857Z" creationid="setom" creationdate="20190403T091857Z">
@@ -1899,6 +1907,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T065247Z" creationid="setom" creationdate="20190402T065247Z">
         <seg>古代の偉大な狩人の奇妙な一品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ancient Hive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111623Z" creationid="Gaiden Shinji" creationdate="20190404T111623Z">
+        <seg>エンシェントハイブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,6 +6076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Electric Lab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111553Z" creationid="Gaiden Shinji" creationdate="20190404T111553Z">
+        <seg>エレクトリックラボ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elemental Immunity</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T140001Z" creationid="totochan" creationdate="20190403T140001Z">
@@ -7888,6 +7912,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113412Z" creationid="setom" creationdate="20190401T113412Z">
         <seg>髪型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hallowed Marsh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111452Z" creationid="Gaiden Shinji" creationdate="20190404T111452Z">
+        <seg>ハロードマーシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -10044,6 +10076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Levant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111445Z" creationid="Gaiden Shinji" creationdate="20190404T111445Z">
+        <seg>レヴァンテ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142528Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -11288,6 +11328,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110736Z" creationid="Gaiden Shinji" creationdate="20190403T110736Z">
         <seg>モルテンフォージゴーレム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monsoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111529Z" creationid="Gaiden Shinji" creationdate="20190404T111529Z">
+        <seg>モンスーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -15312,6 +15360,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sand Rose Cave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111631Z" creationid="Gaiden Shinji" creationdate="20190404T111631Z">
+        <seg>サンドローズケープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sapphire</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113619Z" creationid="Gaiden Shinji" creationdate="20190403T113619Z">
@@ -16713,6 +16769,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stone Titan Caves</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111616Z" creationid="Gaiden Shinji" creationdate="20190404T111616Z">
+        <seg>ストーンタイタン洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Online Play</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115111Z" creationid="setom" creationdate="20190401T115111Z">
@@ -17319,6 +17383,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070847Z" creationid="hiru4" creationdate="20190403T070847Z">
         <seg>PhotonCloudは送信されたAppIdを拒否しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Slide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111559Z" creationid="Gaiden Shinji" creationdate="20190404T111559Z">
+        <seg>スライド</seg>
       </tuv>
     </tu>
     <tu>
@@ -18071,6 +18143,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Toxic swamp lit by flowers and fireflies, dotted with dinosaurs nests and glowing undead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111521Z" creationid="Gaiden Shinji" creationdate="20190404T111521Z">
+        <seg>恐竜の巣と輝くアンデットが点在する花とホタルに照らされた。有毒な湿地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TrainerMenu_Requirement_Breakthrough</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095229Z" creationid="setom" creationdate="20190402T095229Z">
@@ -18283,6 +18363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111302Z" creationid="Gaiden Shinji" creationdate="20190404T111238Z">
         <seg>島の下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undercity Passage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111540Z" creationid="Gaiden Shinji" creationdate="20190404T111540Z">
+        <seg>アンダーシティパッセージ</seg>
       </tuv>
     </tu>
     <tu>
