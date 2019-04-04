@@ -3899,6 +3899,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chef_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115106Z" creationid="seto" creationdate="20190404T115106Z">
+        <seg>Chef_Vendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115109Z" creationid="seto" creationdate="20190404T115109Z">
+        <seg>Chef_Vendavel_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115112Z" creationid="seto" creationdate="20190404T115112Z">
+        <seg>Chef_Vendavel_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chersonese</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115005Z" creationid="Gaiden Shinji" creationdate="20190403T115005Z">
@@ -8432,6 +8456,22 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T013948Z" creationid="rkmad" creationdate="20190404T011459Z">
         <seg>おい、誰か居ないのか！こいつを捕まえろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GuideSlave_Vendavel_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114850Z" creationid="seto" creationdate="20190404T114850Z">
+        <seg>GuideSlave_Vendavel_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GuideSlave_Vendavel_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114851Z" creationid="seto" creationdate="20190404T114851Z">
+        <seg>GuideSlave_Vendavel_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -14439,6 +14479,46 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PickAxeGuy_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114851Z" creationid="seto" creationdate="20190404T114851Z">
+        <seg>PickAxeGuy_Vendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PickAxeGuy_Vendavel_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114853Z" creationid="seto" creationdate="20190404T114853Z">
+        <seg>PickAxeGuy_Vendavel_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PickAxeGuy_Vendavel_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114855Z" creationid="seto" creationdate="20190404T114855Z">
+        <seg>PickAxeGuy_Vendavel_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PickAxeGuy_Vendavel_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114856Z" creationid="seto" creationdate="20190404T114856Z">
+        <seg>PickAxeGuy_Vendavel_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>PickAxeGuy_Vendavel_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114857Z" creationid="seto" creationdate="20190404T114857Z">
+        <seg>PickAxeGuy_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pirates’ Hideout</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114910Z" creationid="Gaiden Shinji" creationdate="20190403T114910Z">
@@ -14643,6 +14723,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061549Z" creationid="setom" creationdate="20190402T061549Z">
         <seg>PlayerMenu_Tab_Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Chef_Vendavel_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115108Z" creationid="seto" creationdate="20190404T115108Z">
+        <seg>Player_Chef_Vendavel_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Chef_Vendavel_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115112Z" creationid="seto" creationdate="20190404T115112Z">
+        <seg>Player_Chef_Vendavel_a_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -14935,6 +15031,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_ShivSlave_Vendavel_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114900Z" creationid="seto" creationdate="20190404T114900Z">
+        <seg>Player_ShivSlave_Vendavel_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Yzan_beach_a_04</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141559Z" creationid="setom" creationdate="20190402T141559Z">
@@ -15075,6 +15179,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065106Z" creationid="hiru4" creationdate="20190403T065106Z">
         <seg>プライマリユーザーがサインアウトし、メインメニューに戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prisonkeeper_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114909Z" creationid="seto" creationdate="20190404T114909Z">
+        <seg>Prisonkeeper_Vendavel_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -16876,6 +16988,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074854Z" creationid="setom" creationdate="20190401T074854Z">
         <seg>盾はスタミナの減少も少なくし、矢も防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShivSlave_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114858Z" creationid="seto" creationdate="20190404T114858Z">
+        <seg>ShivSlave_Vendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShivSlave_Vendavel_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114901Z" creationid="seto" creationdate="20190404T114901Z">
+        <seg>ShivSlave_Vendavel_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShivSlave_Vendavel_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T114903Z" creationid="seto" creationdate="20190404T114903Z">
+        <seg>ShivSlave_Vendavel_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -21676,14 +21812,6 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133114Z" creationid="setom" creationdate="20190402T133114Z">
         <seg>emote_tag</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>greeting</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T144019Z" creationid="setom" creationdate="20190402T133615Z">
-        <seg>こんにちは</seg>
       </tuv>
     </tu>
     <tu>
