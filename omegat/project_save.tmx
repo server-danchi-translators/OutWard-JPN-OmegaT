@@ -1911,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancestor’s Resting Place</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112002Z" creationid="Gaiden Shinji" creationdate="20190404T112002Z">
+        <seg>祖先の休憩所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ancient Hive</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111623Z" creationid="Gaiden Shinji" creationdate="20190404T111623Z">
@@ -3027,6 +3035,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cabal of Wind Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111829Z" creationid="Gaiden Shinji" creationdate="20190404T111829Z">
+        <seg>風の一党の前哨基地Cabal of Wind Outpost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cabal of Wind Temple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111934Z" creationid="Gaiden Shinji" creationdate="20190404T111934Z">
+        <seg>風の一党の聖堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cactus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113710Z" creationid="Gaiden Shinji" creationdate="20190403T113710Z">
@@ -3175,6 +3199,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020042Z" creationid="hiru4" creationdate="20190402T020042Z">
         <seg>容量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Captain's Cabin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111713Z" creationid="Gaiden Shinji" creationdate="20190404T111713Z">
+        <seg>隊長のキャビン</seg>
       </tuv>
     </tu>
     <tu>
@@ -4511,6 +4543,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025555Z" creationid="hiru4" creationdate="20190402T020712Z">
         <seg>腐敗防止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Corsairs' Headquarters</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111724Z" creationid="Gaiden Shinji" creationdate="20190404T111724Z">
+        <seg>コルセアズ本社</seg>
       </tuv>
     </tu>
     <tu>
@@ -5884,6 +5924,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dock's Storage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111803Z" creationid="Gaiden Shinji" creationdate="20190404T111803Z">
+        <seg>ドックの倉庫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dodge</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145311Z" creationid="Horizon" creationdate="20190403T145311Z">
@@ -6684,6 +6732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Face of the Ancients</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111955Z" creationid="Gaiden Shinji" creationdate="20190404T111955Z">
+        <seg>古代人の顔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Faction: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071446Z" creationid="hiru4" creationdate="20190402T071446Z">
@@ -6904,6 +6960,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081621Z" creationid="setom" creationdate="20190402T081621Z">
         <seg>例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forest Hives</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111855Z" creationid="Gaiden Shinji" creationdate="20190404T111855Z">
+        <seg>フォレストハイブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8257,6 +8321,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113105Z" creationid="setom" creationdate="20190331T113105Z">
         <seg>敵を攻撃時、特に重武器の時は敵をノックバックさせ、更に敵の攻撃がキャンセルされるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hive Prison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111703Z" creationid="Gaiden Shinji" creationdate="20190404T111703Z">
+        <seg>ハイブ刑務所</seg>
       </tuv>
     </tu>
     <tu>
@@ -15232,6 +15304,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>River’s End</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111729Z" creationid="Gaiden Shinji" creationdate="20190404T111729Z">
+        <seg>リバーズエンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rock_Ammolite</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130533Z" creationid="setom" creationdate="20190403T130533Z">
@@ -15312,10 +15392,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Royal Manticore’s Lair</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111849Z" creationid="Gaiden Shinji" creationdate="20190404T111849Z">
+        <seg>Royal Manticore’sの隠れ家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ruby</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113614Z" creationid="Gaiden Shinji" creationdate="20190403T113614Z">
         <seg>ルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ruined Outpost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111746Z" creationid="Gaiden Shinji" creationdate="20190404T111746Z">
+        <seg>前哨基地跡</seg>
       </tuv>
     </tu>
     <tu>
