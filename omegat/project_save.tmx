@@ -7455,8 +7455,8 @@
       <tuv lang="EN-US">
         <seg>Here, your dinner, prisoner.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T011825Z" creationid="rkmad" creationdate="20190404T011825Z">
-        <seg>ほら、これがお前の分だ、囚人。とっておけ。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012143Z" creationid="rkmad" creationdate="20190404T011825Z">
+        <seg>ほら、囚人。これがお前の分だ。とっておけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16961,8 +16961,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We don’t need any more food for today, shoo!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T011951Z" creationid="rkmad" creationdate="20190404T011951Z">
-        <seg>今日はもうこれ以上は必要ないな。ほら、お前も仕事に戻れ！</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
+        <seg>今日はもう調理の必要はないな。ほら、お前も仕事に戻れ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,6 +17182,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
         <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where are my meat stews?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012220Z" creationid="rkmad" creationdate="20190404T012220Z">
+        <seg>私の分のシチューは無いのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -18323,6 +18331,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024253Z" creationid="hiru4" creationdate="20190402T024253Z">
         <seg>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’d better have a good excuse, prisoner!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012327Z" creationid="rkmad" creationdate="20190404T012327Z">
+        <seg>囚人！自分の立場と口の聞き方には、少し気をつけた方がいいぞ。</seg>
       </tuv>
     </tu>
     <tu>
