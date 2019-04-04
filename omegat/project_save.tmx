@@ -6342,24 +6342,24 @@
       <tuv lang="EN-US">
         <seg>Do a small task for Cyrene or Baron Montgomery in Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134652Z" creationid="Light" creationdate="20190404T134652Z">
-        <seg>LevantでCyreneかBaron Montgomeryのために軽い仕事をする</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134812Z" creationid="Light" creationdate="20190404T134652Z">
+        <seg>LevantでCyreneかBaron Montgomeryの依頼をこなす</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do a small task for Sagard, Julius, or Gabriella in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134556Z" creationid="Light" creationdate="20190404T134411Z">
-        <seg>BergでSagard、Julius、またはGabriellaのために軽い仕事をする</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134802Z" creationid="Light" creationdate="20190404T134411Z">
+        <seg>BergでSagard、Julius、またはGabriellaの依頼をこなす</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Do a small task for Zephyrien, Lockwell, or Mofat in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134752Z" creationid="Light" creationdate="20190404T134752Z">
-        <seg>MonsoonでZephyrien、LockwellまたはMofatのために軽い仕事をする</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134826Z" creationid="Light" creationdate="20190404T134752Z">
+        <seg>MonsoonでZephyrien、LockwellまたはMofatの依頼をこなす</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,6 +10848,30 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071141Z" creationid="hiru4" creationdate="20190403T071141Z">
         <seg>ゲームに参加します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joined the Blue Chamber Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134905Z" creationid="Light" creationdate="20190404T134839Z">
+        <seg>Blue Chamber Collectiveに参加した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joined the Heroic Kingdom of Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134940Z" creationid="Light" creationdate="20190404T134940Z">
+        <seg>Heroic Kingdom of Levantに参加した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joined the Holy Mission of Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134858Z" creationid="Light" creationdate="20190404T134858Z">
+        <seg>Holy Mission of Elattに参加した</seg>
       </tuv>
     </tu>
     <tu>
@@ -18662,6 +18686,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T133643Z" creationid="Light" creationdate="20190404T133643Z">
         <seg>Rissaと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Yzan in the village of Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
+        <seg>Cierzoの村でYzanと話す</seg>
       </tuv>
     </tu>
     <tu>
