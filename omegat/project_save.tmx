@@ -1584,8 +1584,8 @@
       <tuv lang="EN-US">
         <seg>A dark, lonely alley greets you as you open your eyes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T044924Z" creationid="pugnus" creationdate="20190404T044924Z">
-        <seg>あなたが目を開くと、暗く、寂しい小道はあなたを迎える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T045140Z" creationid="pugnus" creationdate="20190404T044924Z">
+        <seg>あなたが目を開くと、暗く、寂しい小道が視界に入る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1618,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042350Z" creationid="はぐくみ会" creationdate="20190403T102434Z">
         <seg>通りがかった宣教師が Monsoon の宿にあなたを連れていき、去っていったのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A quick check confirms that they’ve helped themselves to your pouch of money as repayment while they were at it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T045705Z" creationid="pugnus" creationdate="20190404T045705Z">
+        <seg>素早く荷物の確認をする。彼らは礼金を財布から抜き取っていた。</seg>
       </tuv>
     </tu>
     <tu>
