@@ -2127,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you free yourself, you can feel their poison coursing through your veins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T111635Z" creationid="pugnus" creationdate="20190404T111635Z">
+        <seg>繭から抜け出し自由になる。あなたは彼らの毒があなたの血管を流れていることを感じる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042354Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
@@ -16488,6 +16496,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Something bitter trickles from your mouth as you wake, cocooned by venomous insect creatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T111509Z" creationid="pugnus" creationdate="20190404T111509Z">
+        <seg>目を覚ますと、あなたの口から苦いものが滴り落ちる。あなたは有毒な昆虫によって繭に包まれていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -19784,6 +19800,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You don’t know why they’ve taken you prisoner, but given that they tried to set you on fire...You clearly don’t want to find out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T111226Z" creationid="pugnus" creationdate="20190404T111226Z">
+        <seg>なぜ彼らがあなたを捕虜にしたのかはわからない。が、あなたを同じように火にかけようとしているのかも...あまり考えたくはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You fall to the ground, broken and defeated.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T034354Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
@@ -19927,6 +19951,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134454Z" creationid="setom" creationdate="20190402T134454Z">
         <seg>喉が渇きすぎて酷い顔してるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may not have much time left before the poison takes you...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T111752Z" creationid="pugnus" creationdate="20190404T111752Z">
+        <seg>毒があなたを死に追いやるまで、あまり時間が無いかもしれない...</seg>
       </tuv>
     </tu>
     <tu>
