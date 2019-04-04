@@ -9051,6 +9051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It would seem that those Blue Chamber Scouts still uphold the tradition of not killing foes unless truly needed, or they mistook your for dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103429Z" creationid="pugnus" creationdate="20190404T103429Z">
+        <seg>Blue Chamber Scouts は敵を殺さない伝統を守り続けているようだ。または...彼らはあなたが死んだと勘違いしたのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It would seem your alliance with them has saved your life.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042730Z" creationid="はぐくみ会" creationdate="20190404T005336Z">
@@ -19205,8 +19213,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You open your eyes in the abandoned docks, inches from death.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T102258Z" creationid="pugnus" creationdate="20190404T102122Z">
-        <seg>あなたは放棄された造船所で目を開く。死に片脚を踏み込んでいたが、戻ってきた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103143Z" creationid="pugnus" creationdate="20190404T102122Z">
+        <seg>あなたは放棄された造船所で目を開く。あと少しで死ぬところだったが、戻ってきた。</seg>
       </tuv>
     </tu>
     <tu>
