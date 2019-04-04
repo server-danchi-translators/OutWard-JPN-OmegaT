@@ -16995,6 +16995,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attackers seem to have detonated an explosive and left you to take the blame...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T104326Z" creationid="pugnus" creationdate="20190404T104326Z">
+        <seg>攻撃者は爆発物を爆発させ、あなたを犯人に仕立て上げようとしたようだ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The blood rushes to your head as you awaken upside down, cocooned by massive predatory bugs.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042742Z" creationid="はぐくみ会" creationdate="20190404T011111Z">
@@ -17013,8 +17021,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The chamber is caked in dust, and a large hole yawns wide in the wall above you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T104051Z" creationid="pugnus" creationdate="20190404T104051Z">
-        <seg>部屋は塵と埃で覆われている。そして大きな穴が天井に空いている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T104151Z" creationid="pugnus" creationdate="20190404T104051Z">
+        <seg>部屋は塵と埃で覆われている。そして天井には大きな穴が空いている。</seg>
       </tuv>
     </tu>
     <tu>
