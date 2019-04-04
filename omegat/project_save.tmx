@@ -3218,6 +3218,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But Chamberlady Aberdeen!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222007Z" creationid="seto" creationdate="20190404T222007Z">
+        <seg>で、でも Chamberlady Aberdeen！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But if you do not pay off those 4 months of missed payments on your own, the tribe will have my head.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T131349Z" creationid="rkmad" creationdate="20190404T080951Z">
@@ -12908,6 +12916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221914Z" creationid="seto" creationdate="20190404T221914Z">
+        <seg>Mob_NE_Call_To_Advent_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
@@ -21226,8 +21242,8 @@ Rissa_NE_Call_To_A_13</seg>
       <tuv lang="EN-US">
         <seg>Under the laws of the Blue Chamber Collective, I have declared a period of mourning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T221814Z" creationid="seto" creationdate="20190404T221814Z">
-        <seg>Blue Chamber Collectiveの法の下、追悼の週をここに宣言するわ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221852Z" creationid="seto" creationdate="20190404T221814Z">
+        <seg>Blue Chamber Collectiveの法の下、追悼の期をここに宣言するわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23288,6 +23304,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T220422Z" creationid="seto" creationdate="20190404T122225Z">
         <seg>四か月も逃げれば部族への借りを返さずに済むとでも思ったか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You understand what that means, don't you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221913Z" creationid="seto" creationdate="20190404T221913Z">
+        <seg>みんな、私の言ってることが分かるわよね？</seg>
       </tuv>
     </tu>
     <tu>
