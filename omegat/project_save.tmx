@@ -6308,6 +6308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dolmen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115641Z" creationid="Gaiden Shinji" creationdate="20190404T115641Z">
+        <seg>ドルメン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dolmen Crypt</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112313Z" creationid="Gaiden Shinji" creationdate="20190404T112313Z">
@@ -7244,6 +7252,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fifth Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115731Z" creationid="Gaiden Shinji" creationdate="20190404T115731Z">
+        <seg>フィフスウォッチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fill with {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063212Z" creationid="hiru4" creationdate="20190403T063212Z">
@@ -7304,6 +7320,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114003Z" creationid="Gaiden Shinji" creationdate="20190403T114003Z">
         <seg>ホタルパウダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115658Z" creationid="Gaiden Shinji" creationdate="20190404T115658Z">
+        <seg>ファーストウォッチャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,6 +7480,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080422Z" creationid="rkmad" creationdate="20190403T080258Z">
         <seg>あなたこんな汚い水を口にすれば、間違いなく病気にかかるだろう。絶対に飲んではならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fourth Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115722Z" creationid="Gaiden Shinji" creationdate="20190404T115722Z">
+        <seg>フォースウォッチャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,6 +10736,14 @@
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141251Z" creationid="hiru4" creationdate="20190402T023328Z">
         <seg>キーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>King Simeon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115526Z" creationid="Gaiden Shinji" creationdate="20190404T115526Z">
+        <seg>シメオン王</seg>
       </tuv>
     </tu>
     <tu>
@@ -16528,6 +16568,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sand Corsair Scout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115520Z" creationid="Gaiden Shinji" creationdate="20190404T115520Z">
+        <seg>サンドコルセア スカウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sand Rose Cave</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111631Z" creationid="Gaiden Shinji" creationdate="20190404T111631Z">
@@ -17112,6 +17160,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115704Z" creationid="Gaiden Shinji" creationdate="20190404T115704Z">
+        <seg>セカンドウォッチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second(s)</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115340Z" creationid="setom" creationdate="20190401T115340Z">
@@ -17672,6 +17728,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soeran</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115530Z" creationid="Gaiden Shinji" creationdate="20190404T115530Z">
+        <seg>ソラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some changes to your settings have not been applied.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064952Z" creationid="hiru4" creationdate="20190403T064952Z">
@@ -18150,6 +18214,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145728Z" creationid="Horizon" creationdate="20190403T145728Z">
         <seg>バッグを拾う/落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115533Z" creationid="Gaiden Shinji" creationdate="20190404T115533Z">
+        <seg>タレロン</seg>
       </tuv>
     </tu>
     <tu>
@@ -19182,6 +19254,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Third Watcher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115710Z" creationid="Gaiden Shinji" creationdate="20190404T115710Z">
+        <seg>サードウォッチャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thirsty</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114303Z" creationid="setom" creationdate="20190401T114138Z">
@@ -19855,10 +19935,42 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vanas’s Tomb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115542Z" creationid="Gaiden Shinji" creationdate="20190404T115542Z">
+        <seg>バナスの墓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Varaon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115546Z" creationid="Gaiden Shinji" creationdate="20190404T115546Z">
+        <seg>バラオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vendavel Fortress</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114500Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
         <seg>ベンダベル要塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Prisoner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115629Z" creationid="Gaiden Shinji" creationdate="20190404T115558Z">
+        <seg>ベンダベルの囚人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Slave</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115617Z" creationid="Gaiden Shinji" creationdate="20190404T115617Z">
+        <seg>ベンダベルの奴隷</seg>
       </tuv>
     </tu>
     <tu>
@@ -20583,6 +20695,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042201Z" creationid="はぐくみ会" creationdate="20190403T085210Z">
         <seg>戦う力がなければ、Troglodytes があなたを取り囲み、彼らの野蛮な言葉をさえずり、彼らの洞窟にあなたを運ぶ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Brother</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115741Z" creationid="Gaiden Shinji" creationdate="20190404T115741Z">
+        <seg>ウルフブラザー</seg>
       </tuv>
     </tu>
     <tu>
@@ -21944,6 +22064,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yzan Argenson</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115756Z" creationid="Gaiden Shinji" creationdate="20190404T115756Z">
+        <seg>イザン・アルジャンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yzan must have brought you back to your family’s lighthouse.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042444Z" creationid="はぐくみ会" creationdate="20190403T104154Z">
@@ -22044,6 +22172,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170737Z" creationid="setom" creationdate="20190402T170737Z">
         <seg>Yzan_beach_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zagis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115801Z" creationid="Gaiden Shinji" creationdate="20190404T115801Z">
+        <seg>ザギス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115808Z" creationid="Gaiden Shinji" creationdate="20190404T115808Z">
+        <seg>ゼフィリアン</seg>
       </tuv>
     </tu>
     <tu>
