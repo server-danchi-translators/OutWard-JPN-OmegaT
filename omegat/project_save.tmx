@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dozen people lost their lives in that shipwreck, leaving grieving kin behind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083309Z" creationid="rkmad" creationdate="20190404T083309Z">
+        <seg>何十人もの人々が船の難破により命を落とし、多くの親族は悲しんでいるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A game with the same name already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071037Z" creationid="hiru4" creationdate="20190403T071037Z">
@@ -1795,6 +1803,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025456Z" creationid="setom" creationdate="20190402T025456Z">
         <seg>習得済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, once you leave those tunnels, you can’t use them to return to Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083121Z" creationid="rkmad" creationdate="20190404T083121Z">
+        <seg>また、一度トンネルを抜ければ、同じ道からシエルゾに戻ってくることは出来ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because of her pride, dozens were slain by the beasts of the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085146Z" creationid="rkmad" creationdate="20190404T085146Z">
+        <seg>彼女のプライドがによるそれが招いたものは、スカージの獣による虐殺でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginner's short bow mostly used to hunt small game, due to its lack of power.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064756Z" creationid="setom" creationdate="20190402T064756Z">
@@ -2622,6 +2646,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
         <seg>Bergの鍛冶屋へCopalかPetrified Woodを持ち込むとpieces of Copal Armor and Petrified Wood Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bitterness still runs very deep in the tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085445Z" creationid="rkmad" creationdate="20190404T085445Z">
+        <seg>村の人々には、まだその痛みと苦しみが根強く残っているのですね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2862,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133857Z" creationid="totochan" creationdate="20190403T133857Z">
         <seg>炎上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But if you do not pay off those 4 months of missed payments on your own, the tribe will have my head.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080951Z" creationid="rkmad" creationdate="20190404T080951Z">
+        <seg>しかし、あなたが自分自身でこの4ヶ月の負債を支払わないというのであれば、村の皆は私の正気を疑うことでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6420,6 +6460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For 5 days, no one in the tribe can ask for what you owe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T081607Z" creationid="rkmad" creationdate="20190404T081607Z">
+        <seg>それにより、5日間だけ村の誰もあなたのものに手出しすることは出来なくなりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For all the safety that my tribe provides, our laws are harsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102907Z" creationid="setom" creationdate="20190402T102851Z">
@@ -7428,6 +7476,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you forgotten why your family bears this Blood Price?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T084300Z" creationid="rkmad" creationdate="20190404T084143Z">
+        <seg>あなたの家族が、なぜ血の代償を背負わされているのか忘れたのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -7783,6 +7839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can I earn a Tribal Favor so quickly?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082105Z" creationid="rkmad" creationdate="20190404T082105Z">
+        <seg>どうすれば彼らの信頼を、すぐに取り戻すことができるだろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How in Elatt’s name did you end up here?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042506Z" creationid="はぐくみ会" creationdate="20190403T110023Z">
@@ -7843,6 +7907,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080603Z" creationid="rkmad" creationdate="20190404T080603Z">
         <seg>私は彼らが私を家から追い出そうとしているとは信じたくない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can't possibly accomplish that!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083150Z" creationid="rkmad" creationdate="20190404T083150Z">
+        <seg>私がそれを達成することは不可能だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +7983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need more time!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083234Z" creationid="rkmad" creationdate="20190404T083234Z">
+        <seg>私にはもう少し時間が必要だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need out.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015305Z" creationid="rkmad" creationdate="20190404T015305Z">
@@ -7959,6 +8039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085340Z" creationid="rkmad" creationdate="20190404T085340Z">
+        <seg>分かっています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want out.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015255Z" creationid="rkmad" creationdate="20190404T015255Z">
@@ -7991,6 +8079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I could do more, I would.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080911Z" creationid="rkmad" creationdate="20190404T080911Z">
+        <seg>私に何か他の手があれば、それを行っていたでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it has both, they are quadrupled instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T135944Z" creationid="Horizon" creationdate="20190403T134546Z">
@@ -8015,6 +8111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you bring him alive…well, the Tribe would owe you a great favor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082340Z" creationid="rkmad" creationdate="20190404T082340Z">
+        <seg>もしも彼を救うことが出来れば――村人達は貴方への信頼を取り戻すことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
@@ -8035,6 +8139,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083322Z" creationid="setom" creationdate="20190402T082925Z">
         <seg>火打石と打ち金を持っているなら、キャンプファイアに火をつけることができます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you understand, then get to work making that payment, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085524Z" creationid="rkmad" creationdate="20190404T085524Z">
+        <seg>それを理解したなら、負債を支払うために働くのです。 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9604,6 +9716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure you're prepared for the outside world first if you do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082930Z" creationid="rkmad" creationdate="20190404T082930Z">
+        <seg>もしそのつもりなら、その前に外へ旅に出る為の十分な準備が出来ていることを確認してからの方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Male</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193234Z" creationid="totochan" creationdate="20190402T193234Z">
@@ -9710,8 +9830,8 @@
       <tuv lang="EN-US">
         <seg>Many of them have lost family and aren't thinking straight.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T080517Z" creationid="rkmad" creationdate="20190404T080428Z">
-        <seg>皆、家族を失いいまは冷静に物事を考えることができないのです。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080833Z" creationid="rkmad" creationdate="20190404T080428Z">
+        <seg>皆が家族を失い、いまは冷静に物事を考えることができないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11999,6 +12119,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you can make the payment, come see me up at the town hall on top of the hill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082449Z" creationid="rkmad" creationdate="20190404T082449Z">
+        <seg>支払いが出来るようであれば、丘の上の役場まで私に会いに来てください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you have a Campfire Kit, go to your Inventory and use it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
@@ -12019,6 +12147,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171317Z" creationid="setom" creationdate="20190402T171317Z">
         <seg>仲間の一人があのアーチ周りに生き残りを探しに行ったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One sailor is still missing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082129Z" creationid="rkmad" creationdate="20190404T082129Z">
+        <seg>まだ船員が一人、見つかっていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13387,6 +13523,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065024Z" creationid="hiru4" creationdate="20190403T065024Z">
         <seg>プレーヤーのコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, find a way to make it work, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082512Z" creationid="rkmad" creationdate="20190404T082512Z">
+        <seg>どうか [PlayerName]がその方法を見つけられることを願います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,6 +15496,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone saw Troglodytes in there last night.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083010Z" creationid="rkmad" creationdate="20190404T083010Z">
+        <seg>昨晩、Troglodytes を目撃したという者が居ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -16170,6 +16322,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That gives you &lt;color=#00CCFF&gt;&lt;b&gt;5 days to pay back all 150 silver coins&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T081655Z" creationid="rkmad" creationdate="20190404T081655Z">
+        <seg>つまり&lt;color=#00CCFF&gt;&lt;b&gt;150シルバーの負債を返済する為の5日間&lt;/b&gt;&lt;/color&gt;があなたに与えられたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That was a close call, no?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042529Z" creationid="はぐくみ会" creationdate="20190403T235326Z">
@@ -16263,6 +16423,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040306Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
         <seg>その怪物があなたを救ったのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current may have pushed him to the shore of the southern beach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082218Z" creationid="rkmad" creationdate="20190404T082218Z">
+        <seg>海流の流れは、彼をもしかしたら南の浜辺に流れ着かせているかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16374,6 +16542,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last thing I want to do is take your lighthouse away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082712Z" creationid="rkmad" creationdate="20190404T082712Z">
+        <seg>支払いが出来なければ、最終的に私はあなたの灯台を取り上げることになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lowest of the low when it comes to weaponry, though it can easily be crafted with Wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062656Z" creationid="setom" creationdate="20190402T062656Z">
@@ -16410,6 +16586,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T035632Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
         <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んで、シチューにするために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most I can do for you is declare a mourning period and buy you a little time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T081359Z" creationid="rkmad" creationdate="20190404T081359Z">
+        <seg>私があなたにしてあげられる事は、追悼期間を設け、僅かな時間を得ることでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16502,10 +16686,34 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their families need the assistance immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083338Z" creationid="rkmad" creationdate="20190404T083338Z">
+        <seg>そして、彼らへの援助はすぐに行わなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their need outweighs yours.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083519Z" creationid="rkmad" creationdate="20190404T083519Z">
+        <seg>あなたの事情よりも、それのほうが遥かに重要なのだと理解しなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then you're a thief.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011237Z" creationid="rkmad" creationdate="20190404T011237Z">
         <seg>なんだと？　この泥棒め！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, they won't be able to do a thing to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082031Z" creationid="rkmad" creationdate="20190404T082031Z">
+        <seg>そうすれば、誰もあなたに手出しすることは出来なくなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16618,6 +16826,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114303Z" creationid="setom" creationdate="20190401T114138Z">
         <seg>喉が渇いた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Blood Price is unfair!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T084245Z" creationid="rkmad" creationdate="20190404T083713Z">
+        <seg>血の代償を私に要求するのは不公平だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16975,6 +17191,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trust me, [PlayerName], I wouldn’t be doing this to you otherwise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083637Z" creationid="rkmad" creationdate="20190404T083637Z">
+        <seg>どうか私を信じて、[PlayerName]。あなたを助けようと思っていなければ、私は何もしなかったでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try the multiplayer, either in split screen or online.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112953Z" creationid="setom" creationdate="20190331T112953Z">
@@ -17155,6 +17379,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091812Z" creationid="setom" creationdate="20190402T091812Z">
         <seg>エレベーターを使ってマイナスのステータス効果の区画へ行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use your time to gather the money or earn a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T081807Z" creationid="rkmad" creationdate="20190404T081807Z">
+        <seg>[PlayerName]、その時間を使ってお金を集めるか&lt;color=#00CCFF&gt;&lt;b&gt;村人たちの信頼を取り戻すか&lt;/b&gt;&lt;/color&gt;を行うのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17686,6 +17918,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042246Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
         <seg>あなたは自分が Berg の宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When your grandmother was Chamberlady, she turned away the followers of Elatt in our time of greatest need, forcing the tribe to pray only to the Five Winds for protection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085103Z" creationid="rkmad" creationdate="20190404T085103Z">
+        <seg>あなたの祖母が Chamber に所属していた頃、彼女は私達が最も必要としていた時期に Elatt の信奉者達に背いたのです。そして、我々の守護の為に the Five Winds に祈るよう強制しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18295,6 +18535,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can't hold me responsible for things that are out of my control!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083913Z" creationid="rkmad" creationdate="20190404T083913Z">
+        <seg>私の手に負えなかった問題に対して、私に責任を負わせることが許されるのか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot boil water as the Waterskin is empty.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062530Z" creationid="hiru4" creationdate="20190403T062530Z">
@@ -18547,6 +18795,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must find a way to pay what is owed to the tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T083705Z" creationid="rkmad" creationdate="20190404T083705Z">
+        <seg>あなたは村人たちへ、負債を支払う方法を見つけなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must flee, if you value your life!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042721Z" creationid="はぐくみ会" creationdate="20190404T004705Z">
@@ -18782,10 +19038,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You're planning to use the &lt;color=#00CCFF&gt;&lt;b&gt;tunnel&lt;/b&gt;&lt;/color&gt; under the lighthouse storage area to save time, aren't you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T082855Z" creationid="rkmad" creationdate="20190404T082855Z">
+        <seg>あなたは時間の節約のために &lt;color=#00CCFF&gt;&lt;b&gt;灯台の下にある倉庫のトンネル&lt;/b&gt;&lt;/color&gt;を使うことを考えていますね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Resources</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071551Z" creationid="hiru4" creationdate="20190402T071551Z">
         <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your bloodline owes it to them to pay back that debt!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T085317Z" creationid="rkmad" creationdate="20190404T085317Z">
+        <seg>あなたの血統は、その対価を支払う義務があるのです！</seg>
       </tuv>
     </tu>
     <tu>
