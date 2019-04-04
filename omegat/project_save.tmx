@@ -1576,8 +1576,8 @@
       <tuv lang="EN-US">
         <seg>A corpse hanging from a gibbet passes your vision...As unconsciousness takes you, you know that you have been taken prisoner by the Montcalm Tribe...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065240Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
-        <seg>無意識があなたを連れて行くように、あなたは Montcalm 族によって捕虜にされたことを知っている...</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T021728Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
+        <seg>絞首台からぶら下がっている死体が見える。Montcalm 族によって捕虜にされたようだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17978,8 +17978,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You force your eyes open and find yourself in a cart with prisoners and corpses, bouncing along the road.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T021408Z" creationid="はぐくみ会" creationdate="20190403T064901Z">
-        <seg>気が付くと、荷車の中詰め込まれていた。囚人と死体と一緒に。
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T021521Z" creationid="はぐくみ会" creationdate="20190403T064901Z">
+        <seg>気が付くと、道を進む荷車の中に詰め込まれていた。囚人と死体と一緒に。
 </seg>
       </tuv>
     </tu>
