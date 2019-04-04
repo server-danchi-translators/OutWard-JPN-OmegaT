@@ -8413,6 +8413,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He makes a loud, rousing speech to his people in the giant’s tongue, then he walks right to the gates of his village and hurls you as far as he can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T114510Z" creationid="pugnus" creationdate="20190404T114510Z">
+        <seg>e makes a loud, rousing speech to his people in the giant’s tongue, then he walks right to the gates of his village and hurls you as far as he can.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He pats a large backpack.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042534Z" creationid="はぐくみ会" creationdate="20190403T235418Z">
@@ -21074,6 +21082,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042646Z" creationid="はぐくみ会" creationdate="20190404T002037Z">
         <seg>彼らがあなたを偶然見つけることは可能だろうか...誰かが、あなたの後に彼らを仕向けたに違いないと確信する。しかし、いったい誰が？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wonder what you were thinking, as Cyr lifts you up with one hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T114524Z" creationid="pugnus" creationdate="20190404T114455Z">
+        <seg>あなたは信じられるだろうか、Cyr があなたを持ち上げる。片手で。</seg>
       </tuv>
     </tu>
     <tu>
