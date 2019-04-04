@@ -2192,6 +2192,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you hit the ground, the doors slam shut for good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T115622Z" creationid="pugnus" creationdate="20190404T115603Z">
+        <seg>あなたが地面にぶつかると、扉はバタンと閉じられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you lift up your head, a shape moves in the corner of your eyes.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040218Z" creationid="はぐくみ会" creationdate="20190403T061426Z">
@@ -8631,8 +8639,8 @@
       <tuv lang="EN-US">
         <seg>He makes a loud, rousing speech to his people in the giant’s tongue, then he walks right to the gates of his village and hurls you as far as he can.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T114510Z" creationid="pugnus" creationdate="20190404T114510Z">
-        <seg>e makes a loud, rousing speech to his people in the giant’s tongue, then he walks right to the gates of his village and hurls you as far as he can.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T115638Z" creationid="pugnus" creationdate="20190404T114510Z">
+        <seg>彼は大声で朗らかなスピーチをし、それから彼の村の門まで歩く。そして、できる限りの力で、あなたを投げつける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21672,8 +21680,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wonder what you were thinking, as Cyr lifts you up with one hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T114839Z" creationid="pugnus" creationdate="20190404T114455Z">
-        <seg>あなたはなにを考えているのか、Cyr があなたを持ち上げる。片手で。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T114944Z" creationid="pugnus" creationdate="20190404T114455Z">
+        <seg>あなたはなにを考えているのだろうか、Cyr があなたを持ち上げる。片手だけで。</seg>
       </tuv>
     </tu>
     <tu>
