@@ -6196,6 +6196,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eto is the Kazite Trainer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T092122Z" creationid="rkmad" creationdate="20190404T092122Z">
+        <seg>Eto は Kazite 出身の使い手です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eto made it out alive too?</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T165433Z" creationid="setom" creationdate="20190402T165433Z">
@@ -7496,6 +7504,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
         <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He can teach you about combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T092000Z" creationid="rkmad" creationdate="20190404T092000Z">
+        <seg>彼は戦闘についてあなたに教えることができます。</seg>
       </tuv>
     </tu>
     <tu>
