@@ -16079,6 +16079,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Mob_NE_Call_To_Advent_b_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220016Z" creationid="seto" creationdate="20190404T220016Z">
+        <seg>Player_Mob_NE_Call_To_Advent_b_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_NE_Call_To_A_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214351Z" creationid="seto" creationdate="20190404T214351Z">
@@ -19318,6 +19326,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064158Z" creationid="hiru4" creationdate="20190403T064158Z">
         <seg>分割画面を停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop this right now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220033Z" creationid="seto" creationdate="20190404T220033Z">
+        <seg>こんなことはやめよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23283,6 +23299,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133131Z" creationid="setom" creationdate="20190402T133131Z">
         <seg>お前生きてたのか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're being unreasonable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220120Z" creationid="seto" creationdate="20190404T220120Z">
+        <seg>言ってることがメチャクチャだ。</seg>
       </tuv>
     </tu>
     <tu>
