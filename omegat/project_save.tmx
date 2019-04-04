@@ -8876,6 +8876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have a heart, will you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214923Z" creationid="seto" creationdate="20190404T214923Z">
+        <seg>勘弁してはくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you forgotten why your family bears this Blood Price?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T084300Z" creationid="rkmad" creationdate="20190404T084143Z">
@@ -9575,6 +9583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I just woke up from a shipwreck!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214852Z" creationid="seto" creationdate="20190404T214852Z">
+        <seg>いま難破船から戻ってきたばかりなんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I made the potion for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095841Z" creationid="rkmad" creationdate="20190403T095841Z">
@@ -9745,8 +9761,8 @@
       <tuv lang="EN-US">
         <seg>If I don't see the money from you by the time I count to ten, I will make sure you regret ever coming home!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T214650Z" creationid="seto" creationdate="20190404T214650Z">
-        <seg>十数える間にあんたが金を用意しな！でないとここに帰ってきたことを後悔させてやるよ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214701Z" creationid="seto" creationdate="20190404T214650Z">
+        <seg>十数える間に金を用意しな！ でないとここに帰ってきたことを後悔させてやるよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16003,6 +16019,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095932Z" creationid="setom" creationdate="20190402T095932Z">
         <seg>Player_Message_Tutorial_Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Mob_NE_Call_To_Advent_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214711Z" creationid="seto" creationdate="20190404T214711Z">
+        <seg>Player_Mob_NE_Call_To_Advent_a_03</seg>
       </tuv>
     </tu>
     <tu>
