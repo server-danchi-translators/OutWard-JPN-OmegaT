@@ -4613,8 +4613,8 @@
       <tuv lang="EN-US">
         <seg>Curse that lowers your Ethereal Resistance by 15.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T063017Z" creationid="rkmad" creationdate="20190404T063017Z">
-        <seg>エーテル耐性を15減少させる呪い。.</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T063033Z" creationid="rkmad" creationdate="20190404T063017Z">
+        <seg>エーテル耐性を15減少させる呪い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5123,6 +5123,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decreases your maximum Stamina by 15.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T063132Z" creationid="rkmad" creationdate="20190404T063132Z">
+        <seg>最大スタミナが15減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decreases your maximum Stamina by 7.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T064921Z" creationid="rkmad" creationdate="20190404T063043Z">
+        <seg>最大スタミナが7減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114817Z" creationid="setom" creationdate="20190401T114817Z">
@@ -5432,6 +5448,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
         <seg>ドッジロールにより如何なる攻撃もとりあえずは避けられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double all the Damage you deal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065506Z" creationid="rkmad" creationdate="20190404T065506Z">
+        <seg>あなたのすべての攻撃によるダメージが2倍になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8071,10 +8095,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase all Damage Resistances by 10.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065707Z" creationid="rkmad" creationdate="20190404T065707Z">
+        <seg>すべてのダメージ耐性を10増加させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases all Damage you deal by 15%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065446Z" creationid="rkmad" creationdate="20190404T065405Z">
+        <seg>あなたのすべての攻撃によるダメージが15%増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases the Etheral, Lightning and Decay damage you deal by 10%.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T063003Z" creationid="rkmad" creationdate="20190404T062935Z">
         <seg>あなたが与えるエーテル、稲妻、Decayのダメージが10％増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your Cold and Hot Weather Defense by 8.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065054Z" creationid="rkmad" creationdate="20190404T065054Z">
+        <seg>天候による低温と高温の耐性が8増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your Physical Protection by 2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065156Z" creationid="rkmad" creationdate="20190404T065156Z">
+        <seg>物理防御が2増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your Physical Protection by 4.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065140Z" creationid="rkmad" creationdate="20190404T065113Z">
+        <seg>物理防御が4増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your maximum Health by 40.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065321Z" creationid="rkmad" creationdate="20190404T065321Z">
+        <seg>体力の最大値が40増加する。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your maximum Health, Stamina and Mana by 20.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065308Z" creationid="rkmad" creationdate="20190404T065308Z">
+        <seg>体力、スタミナ、マナの最大値が20増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your maximum Mana by 25.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065334Z" creationid="rkmad" creationdate="20190404T065334Z">
+        <seg>マナの最大値が25増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13623,6 +13711,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduce the Stamina and Mana costs of your actions by 30%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065550Z" creationid="rkmad" creationdate="20190404T065550Z">
+        <seg>あなたの行動のスタミナとマナのコストを30%減少させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduced Food</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021005Z" creationid="hiru4" creationdate="20190402T021005Z">
@@ -13635,6 +13731,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021017Z" creationid="hiru4" creationdate="20190402T021017Z">
         <seg>喉の渇きが進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces the Stamina and Mana costs of your actions by 10%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065222Z" creationid="rkmad" creationdate="20190404T065222Z">
+        <seg>行動時、消費スタミナと消費マナが10%減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces the Stamina and Mana costs of your actions by 5%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065239Z" creationid="rkmad" creationdate="20190404T065239Z">
+        <seg>行動時、消費スタミナと消費マナが5%減少する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16075,6 +16187,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The divine benediction seems to have no effect in this foreign world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065836Z" creationid="rkmad" creationdate="20190404T065836Z">
+        <seg>この異国の世界では、神聖な恩恵は何の効果もないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The failures of my bloodline weigh heavy on me.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
@@ -17761,6 +17881,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042222Z" creationid="はぐくみ会" creationdate="20190403T090636Z">
         <seg>あなたは Ley Line の監視人の世話により、Conflux Mountain の麓の中央会議場にいる...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are inflicted with the incurable “Life Drain” sickness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T065804Z" creationid="rkmad" creationdate="20190404T065804Z">
+        <seg>あなたの患っている“Life Drain”は治療できない。</seg>
       </tuv>
     </tu>
     <tu>
