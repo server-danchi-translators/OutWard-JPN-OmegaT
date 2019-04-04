@@ -3573,8 +3573,8 @@
       <tuv lang="EN-US">
         <seg>Check your network connection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T065227Z" creationid="hiru4" creationdate="20190403T065227Z">
-        <seg>ネットワーク接続を確認してください。&lt;</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T080254Z" creationid="hiru4" creationdate="20190403T065227Z">
+        <seg>ネットワーク接続を確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6358,8 +6358,16 @@
       <tuv lang="EN-US">
         <seg>FoV Solo</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T075831Z" creationid="Horizon" creationdate="20190404T075831Z">
-        <seg>シングルプレイ視野角</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T080013Z" creationid="Horizon" creationdate="20190404T075831Z">
+        <seg>視野角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FoV Split</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T075919Z" creationid="Horizon" creationdate="20190404T075844Z">
+        <seg>分割画面時視野角</seg>
       </tuv>
     </tu>
     <tu>
@@ -18306,8 +18314,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You do not have the required training.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062140Z" creationid="hiru4" creationdate="20190403T062140Z">
-        <seg>必要な訓練を受けていません。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T080131Z" creationid="hiru4" creationdate="20190403T062140Z">
+        <seg>必要な訓練を受けていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19226,8 +19234,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been armed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194317Z" creationid="totochan" creationdate="20190402T194317Z">
-        <seg>{1}武装している。.</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T080234Z" creationid="totochan" creationdate="20190402T194317Z">
+        <seg>{1}武装している。</seg>
       </tuv>
     </tu>
     <tu>
