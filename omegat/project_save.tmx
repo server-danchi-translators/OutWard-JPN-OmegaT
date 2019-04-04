@@ -5412,6 +5412,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Divine heroes walk among us, and for a brief moment, you were one of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T080227Z" creationid="pugnus" creationdate="20190404T080227Z">
+        <seg>神の英雄は我々の間で歩く、そして、ほんのしばらくの間、あなたは彼らのうちの1人だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dizzy</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135559Z" creationid="totochan" creationdate="20190403T135559Z">
@@ -18341,6 +18349,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141107Z" creationid="setom" creationdate="20190402T141107Z">
         <seg>砂浜でぼろ服を見つけただろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You gave your mortal life so that another could live.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T080406Z" creationid="pugnus" creationdate="20190404T080406Z">
+        <seg>あなたは他人が生きることができるように、死を選んだ。</seg>
       </tuv>
     </tu>
     <tu>
