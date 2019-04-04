@@ -8828,6 +8828,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you found him yet?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T182436Z" creationid="magur0w" creationdate="20190404T182436Z">
+        <seg>もう彼を見つけたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180722Z" creationid="magur0w" creationdate="20190404T174552Z">
@@ -8856,6 +8864,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171340Z" creationid="setom" creationdate="20190402T171340Z">
         <seg>だけどあいつはまだ帰ってこねぇ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is incredibly valuable to the Collective, and his health is not what it used to be.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T183257Z" creationid="magur0w" creationdate="20190404T183257Z">
+        <seg>彼はCollectiveにとって非常に価値がある、そして彼の健康は過去のものだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13100,6 +13116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, not yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T182514Z" creationid="magur0w" creationdate="20190404T182514Z">
+        <seg>いや、まだだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Armed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
@@ -15795,6 +15819,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T165420Z" creationid="setom" creationdate="20190402T165420Z">
         <seg>Player_Yzan_beach_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please find him, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T182532Z" creationid="magur0w" creationdate="20190404T182532Z">
+        <seg>彼を見つけてくれ、 [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
