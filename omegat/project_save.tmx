@@ -2489,6 +2489,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Away with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222457Z" creationid="seto" creationdate="20190404T222457Z">
+        <seg>それでは。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T165836Z" creationid="Horizon" creationdate="20190403T165836Z">
@@ -3246,6 +3254,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090452Z" creationid="rkmad" creationdate="20190404T090358Z">
         <seg>しかし、これだけは覚えておきなさい。村人は、あなたの家族も同然です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But until then, your concern should be for those whose lives were lost in the wreck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222415Z" creationid="seto" creationdate="20190404T222415Z">
+        <seg>でもそれまでは、難破で亡くなった方たちに心を向けるべきだわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11396,6 +11412,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave [PlayerName] be, or I will personally see to it that you get double shifts of guard duty this month!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222554Z" creationid="seto" creationdate="20190404T222554Z">
+        <seg>[PlayerName]はまだ行かないで。 でないと今月の支払いが二倍になるわよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave the tutorial?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063905Z" creationid="hiru4" creationdate="20190403T063905Z">
@@ -14583,6 +14607,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele, see these people off, would you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222433Z" creationid="seto" creationdate="20190404T222433Z">
+        <seg>Oliele, 彼らを見送ってくれる？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OlieleMob_NE_Call_To_Advent_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222434Z" creationid="seto" creationdate="20190404T222434Z">
+        <seg>OlieleMob_NE_Call_To_Advent_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele’s Follower</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115319Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
@@ -17380,6 +17420,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222145Z" creationid="seto" creationdate="20190404T222145Z">
         <seg>RissaMob_NE_Call_To_Advent_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RissaMob_NE_Call_To_Advent_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222416Z" creationid="seto" creationdate="20190404T222416Z">
+        <seg>RissaMob_NE_Call_To_Advent_10</seg>
       </tuv>
     </tu>
     <tu>
@@ -23008,6 +23056,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042149Z" creationid="はぐくみ会" creationdate="20190403T084513Z">
         <seg>あなたの周りの至る所で、略奪が行われている音や声がする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You heard Mother.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222449Z" creationid="seto" creationdate="20190404T222449Z">
+        <seg>分かりました、母上。</seg>
       </tuv>
     </tu>
     <tu>
