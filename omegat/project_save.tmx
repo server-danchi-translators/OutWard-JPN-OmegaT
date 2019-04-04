@@ -18568,6 +18568,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’re first aware that an army medic is pouring water into your mouth, then that you’re back at your manor in Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T043904Z" creationid="pugnus" creationdate="20190404T043904Z">
+        <seg>軍の衛生兵があなたの口の中に水を注いでくれ、気が付いた。Levant のあなたの邸宅に戻っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’re not sure how long you’ve been unconscious...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042244Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
