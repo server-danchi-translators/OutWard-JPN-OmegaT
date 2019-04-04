@@ -8508,8 +8508,8 @@
       <tuv lang="EN-US">
         <seg>It seems someone found you on the edge of death and nursed you back to health.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062813Z" creationid="はぐくみ会" creationdate="20190403T062813Z">
-        <seg>誰かがあなたを死の瀬戸際に見つけ、あなたを健康状態に戻した。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T040749Z" creationid="はぐくみ会" creationdate="20190403T062813Z">
+        <seg>誰かがあなたを死の瀬戸際に見つけ、あなたを手当してくれたのだ。
 </seg>
       </tuv>
     </tu>
@@ -9006,8 +9006,8 @@
       <tuv lang="EN-US">
         <seg>Leaning on her, you manage to hobble back to Cierzo, more dead than alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020414Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
-        <seg>彼女に寄りかかって、あなたはなんとか生き残った。死にかけだが、Cierzo に戻ってきた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041037Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
+        <seg>彼女に肩を借り、足を引き摺りながら Cierzo に戻ってきた。あなたはなんとか死にかけだが、生き残った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12441,8 +12441,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pain wracks your body as your consciousness fades…</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T062413Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
-        <seg>あなたの意識が薄れるにつれて、痛みはあなたの体を包み込む…</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T040703Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
+        <seg>あなたの意識が薄れるにつれ、痛みはあなたの体を包み込む...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16160,8 +16160,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The warm smells of Cierzo's inn greet you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063027Z" creationid="はぐくみ会" creationdate="20190403T062501Z">
-        <seg>Cierzo's innの温かい香りがあなたを迎えた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T040719Z" creationid="はぐくみ会" creationdate="20190403T062501Z">
+        <seg>Cierzo's inn の温かい香りがあなたを迎えた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17736,8 +17736,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You awaken to the sight of a huntress from Cierzo pouring water into your mouth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020358Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
-        <seg>あなたは、Cierzo からの狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T040820Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
+        <seg>あなたは、Cierzo から来た狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
 </seg>
       </tuv>
     </tu>
@@ -18060,8 +18060,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You have been out cold for days, though at the least you're still alive...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063206Z" creationid="はぐくみ会" creationdate="20190403T063022Z">
-        <seg>少なくともあなたはまだ生きてるが、風邪をひいてしまったようだ...
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T040800Z" creationid="はぐくみ会" creationdate="20190403T063022Z">
+        <seg>少なくともあなたはまだ生きてる、が、風邪をひいてしまったようだ...
 </seg>
       </tuv>
     </tu>
