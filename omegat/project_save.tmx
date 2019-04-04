@@ -9141,8 +9141,8 @@
       <tuv lang="EN-US">
         <seg>It would seem that those Blue Chamber Scouts still uphold the tradition of not killing foes unless truly needed, or they mistook your for dead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T103534Z" creationid="pugnus" creationdate="20190404T103429Z">
-        <seg>Blue Chamber Scouts は敵を殺さない伝統を守り続けているようだ。または...あなたが死んだと勘違いしたのか。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103747Z" creationid="pugnus" creationdate="20190404T103429Z">
+        <seg>Blue Chamber Scouts は不殺の伝統を守り続けているようだ。または...あなたが死んだと勘違いしたのか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17011,6 +17011,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The chamber is caked in dust, and a large hole yawns wide in the wall above you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T104051Z" creationid="pugnus" creationdate="20190404T104051Z">
+        <seg>部屋は塵と埃で覆われている。そして大きな穴が天井に空いている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creature must have saved you!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040306Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
@@ -19252,6 +19260,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T103728Z" creationid="pugnus" creationdate="20190404T103728Z">
         <seg>意識が戻ると、あなたは砂を吐き出す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cough up soot and ash as you wake up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103910Z" creationid="pugnus" creationdate="20190404T103910Z">
+        <seg>目を覚ましたあなたは、煤と灰を吐き出す。</seg>
       </tuv>
     </tu>
     <tu>
