@@ -2035,8 +2035,8 @@
       <tuv lang="EN-US">
         <seg>As you see your life flash before your eyes, a brilliant light blinds you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T002337Z" creationid="はぐくみ会" creationdate="20190404T002337Z">
-        <seg>あなたの目の前で命が光り、輝く光はあなたの目を眩ませる。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T002954Z" creationid="はぐくみ会" creationdate="20190404T002337Z">
+        <seg>あなたの生命は強く光り、輝く光はあなたの目を眩ませる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2053,6 +2053,14 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060952Z" creationid="はぐくみ会" creationdate="20190403T060952Z">
         <seg>痛みにより意識が遠ざかる時に、誰かがあなたの上に立っているのを感じる。あなたを守っている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As your eyes adjust once more, you find yourself laid on the ground someplace safe outdoors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T003320Z" creationid="はぐくみ会" creationdate="20190404T003320Z">
+        <seg>目眩がやみ、景色がはっきりとしてきた。あなたは自分自身が、安全な屋外の地面に横たわっているのに気付く。</seg>
       </tuv>
     </tu>
     <tu>
