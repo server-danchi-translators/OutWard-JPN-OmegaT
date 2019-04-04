@@ -1791,6 +1791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alda</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115300Z" creationid="Gaiden Shinji" creationdate="20190404T115300Z">
+        <seg>アルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alemmon</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113316Z" creationid="Gaiden Shinji" creationdate="20190404T113316Z">
@@ -7204,6 +7212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang &amp; Claw’s Innkeeper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115224Z" creationid="Gaiden Shinji" creationdate="20190404T115224Z">
+        <seg>ダング＆クローの主</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Female</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193243Z" creationid="totochan" creationdate="20190402T193243Z">
@@ -12196,6 +12212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monsoon Novice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115244Z" creationid="Gaiden Shinji" creationdate="20190404T115244Z">
+        <seg>モンスーンノービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monsoon Streets</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112423Z" creationid="Gaiden Shinji" creationdate="20190404T112423Z">
@@ -13735,10 +13759,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115305Z" creationid="Gaiden Shinji" creationdate="20190404T115305Z">
+        <seg>オリエール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele drops to the floor, her veins turning a sick glowing green from the Corruption she absorbed.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T095254Z" creationid="pugnus" creationdate="20190404T095254Z">
         <seg>Oliele は床に落ち、彼女は腐敗の病気を吸収した。彼女の皮膚の下では血管が鮮やかな緑に輝きだす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele’s Follower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115319Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
+        <seg>オリエールのフォロワー</seg>
       </tuv>
     </tu>
     <tu>
@@ -14679,6 +14719,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pigeoneye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115328Z" creationid="Gaiden Shinji" creationdate="20190404T115328Z">
+        <seg>ピジョンアイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pirates’ Hideout</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114910Z" creationid="Gaiden Shinji" creationdate="20190403T114910Z">
@@ -15343,6 +15391,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prison Keeper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115343Z" creationid="Gaiden Shinji" creationdate="20190404T115343Z">
+        <seg>刑務所の番人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prisonkeeper_Vendavel_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114909Z" creationid="seto" creationdate="20190404T114909Z">
@@ -15459,6 +15515,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113618Z" creationid="Gaiden Shinji" creationdate="20190404T113618Z">
         <seg>カリクサ女王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quest Giver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115350Z" creationid="Gaiden Shinji" creationdate="20190404T115350Z">
+        <seg>クエストギバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -15639,6 +15703,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rastarte</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115355Z" creationid="Gaiden Shinji" creationdate="20190404T115355Z">
+        <seg>ラスタテ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091536Z" creationid="hiru4" creationdate="20190403T063204Z">
@@ -15651,6 +15723,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062919Z" creationid="hiru4" creationdate="20190403T062719Z">
         <seg>Read about the Tutorial_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rebel Priest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115406Z" creationid="Gaiden Shinji" creationdate="20190404T115406Z">
+        <seg>反乱軍司祭</seg>
       </tuv>
     </tu>
     <tu>
@@ -16328,6 +16408,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland Argenson</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115422Z" creationid="Gaiden Shinji" creationdate="20190404T115422Z">
+        <seg>ローランド・アルジャンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rospa the Conqueror</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115438Z" creationid="Gaiden Shinji" creationdate="20190404T115438Z">
+        <seg>征服者ロスパ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Royal Manticore’s Lair</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111849Z" creationid="Gaiden Shinji" creationdate="20190404T111849Z">
@@ -16340,6 +16436,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113614Z" creationid="Gaiden Shinji" creationdate="20190403T113614Z">
         <seg>ルビー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115442Z" creationid="Gaiden Shinji" creationdate="20190404T115442Z">
+        <seg>ルーファス</seg>
       </tuv>
     </tu>
     <tu>
@@ -16384,6 +16488,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sagard Battleborn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115452Z" creationid="Gaiden Shinji" creationdate="20190404T115452Z">
+        <seg>サガード・バトルボーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
@@ -16396,6 +16508,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095246Z" creationid="hiru4" creationdate="20190402T071654Z">
         <seg>海水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sand Corsair Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115512Z" creationid="Gaiden Shinji" creationdate="20190404T115512Z">
+        <seg>サンドコルセアガード</seg>
       </tuv>
     </tu>
     <tu>
@@ -19739,6 +19859,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110614Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
         <seg>ベンダベルウィッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel’s Nurse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115256Z" creationid="Gaiden Shinji" creationdate="20190404T115256Z">
+        <seg>ベンダバルの看護師</seg>
       </tuv>
     </tu>
     <tu>
