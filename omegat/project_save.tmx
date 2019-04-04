@@ -17502,6 +17502,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The smell of your own sizzling flesh wakes you, in agonizing pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T110606Z" creationid="pugnus" creationdate="20190404T110606Z">
+        <seg>酷い痛みと、焼けつく肉のにおいが目を覚ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The status menu shows details related to your equipment or what effects are currently affecting you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112738Z" creationid="setom" creationdate="20190331T112738Z">
