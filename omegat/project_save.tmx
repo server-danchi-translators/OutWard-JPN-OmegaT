@@ -2986,6 +2986,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood Price payment complete.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133610Z" creationid="Light" creationdate="20190404T133610Z">
+        <seg>血の代償の支払いが完了した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bloom</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
@@ -7568,6 +7576,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080422Z" creationid="rkmad" creationdate="20190403T080258Z">
         <seg>あなたこんな汚い水を口にすれば、間違いなく病気にかかるだろう。絶対に飲んではならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found a corpse of a sailor on the beach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133849Z" creationid="Light" creationdate="20190404T133849Z">
+        <seg>ビーチで船員の死体を発見した</seg>
       </tuv>
     </tu>
     <tu>
@@ -18578,6 +18594,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Rissa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133643Z" creationid="Light" creationdate="20190404T133643Z">
+        <seg>Rissaと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to {NPCName}</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112743Z" creationid="Gaiden Shinji" creationdate="20190404T112743Z">
@@ -21795,6 +21819,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have lost your lighthouse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133626Z" creationid="Light" creationdate="20190404T133626Z">
+        <seg>lighthouseを失った</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have no doubt they intend for your corpse to join the others dangling outside!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041455Z" creationid="はぐくみ会" creationdate="20190403T065537Z">
@@ -22644,6 +22676,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075639Z" creationid="setom" creationdate="20190402T075631Z">
         <seg>[Gamepad_Specific]ゲームパッドでクイックスロットを使うには、[InputAction_QuickSlotToggle1]または[InputAction_QuickSlotToggle2]を長押ししながら割り当てられているボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133820Z" creationid="Light" creationdate="20190404T133754Z">
+        <seg>[Optional] Michel AberdeenにBandagesかLife Potionを与える</seg>
       </tuv>
     </tu>
     <tu>
