@@ -8532,6 +8532,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Got it, I'll pay attention to the guests.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T171809Z" creationid="magur0w" creationdate="20190404T171809Z">
+        <seg>わかった。彼らに注意を払おう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gradually slows your movement speed, as the weight increases.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071444Z" creationid="hiru4" creationdate="20190403T071444Z">
@@ -21320,6 +21328,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114055Z" creationid="Gaiden Shinji" creationdate="20190403T114055Z">
         <seg>イエローコパール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I'll be there shortly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T171724Z" creationid="magur0w" creationdate="20190404T171724Z">
+        <seg>あぁ、すぐ会えるぞ。</seg>
       </tuv>
     </tu>
     <tu>
