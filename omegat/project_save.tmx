@@ -18006,6 +18006,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You awaken in one of the beds in Berg's inn, suffering from a broken rib.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T074843Z" creationid="Horizon" creationdate="20190404T074843Z">
+        <seg>あなたはBergにある宿屋のベッドで目を覚ました。折れた肋骨が痛む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You awaken to the sight of a huntress from Cierzo pouring water into your mouth.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040820Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
