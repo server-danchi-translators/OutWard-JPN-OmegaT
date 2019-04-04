@@ -17803,6 +17803,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must flee, if you value your life!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T004705Z" creationid="はぐくみ会" creationdate="20190404T004705Z">
+        <seg>もしも、あなたが、あなたの人生を大切にしたいのならば。今すぐ逃げた方がいい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need a cooking pot deployed on a lit campfire to cook recipes with more than one ingredient.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T124204Z" creationid="setom" creationdate="20190331T112158Z">
