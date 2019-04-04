@@ -2009,8 +2009,8 @@
       <tuv lang="EN-US">
         <seg>Another important dialogue is in progress.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091031Z" creationid="hiru4" creationdate="20190403T051428Z">
-        <seg>重要な会話が更新されました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131859Z" creationid="hiru4" creationdate="20190403T051428Z">
+        <seg>重要な会話が更新されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,8 +3293,8 @@
       <tuv lang="EN-US">
         <seg>Cannot complete transaction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052255Z" creationid="hiru4" creationdate="20190403T052143Z">
-        <seg>取引を完了できません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131954Z" creationid="hiru4" creationdate="20190403T052143Z">
+        <seg>取引を完了できません</seg>
       </tuv>
     </tu>
     <tu>
@@ -3333,16 +3333,16 @@
       <tuv lang="EN-US">
         <seg>Cannot rest: Not enough time assigned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051753Z" creationid="hiru4" creationdate="20190403T051753Z">
-        <seg>時間が短すぎて休息できません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131938Z" creationid="hiru4" creationdate="20190403T051753Z">
+        <seg>時間が短すぎて休息できません</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cannot rest: Too much time assigned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051807Z" creationid="hiru4" creationdate="20190403T051807Z">
-        <seg>時間が長すぎて休息できません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131941Z" creationid="hiru4" creationdate="20190403T051807Z">
+        <seg>時間が長すぎて休息できません</seg>
       </tuv>
     </tu>
     <tu>
@@ -3389,8 +3389,8 @@
       <tuv lang="EN-US">
         <seg>Can’t use Quickslots while deploying items.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051524Z" creationid="hiru4" creationdate="20190403T051524Z">
-        <seg>クイックスロットを使用することはできません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131915Z" creationid="hiru4" creationdate="20190403T051524Z">
+        <seg>クイックスロットを使用することはできません</seg>
       </tuv>
     </tu>
     <tu>
@@ -12822,8 +12822,8 @@
       <tuv lang="EN-US">
         <seg>No compatible item equipped.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052310Z" creationid="hiru4" creationdate="20190403T052158Z">
-        <seg>対応するアイテムを装備していません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131957Z" creationid="hiru4" creationdate="20190403T052158Z">
+        <seg>対応するアイテムを装備していません</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,8 +12838,8 @@
       <tuv lang="EN-US">
         <seg>No compatible weapon or ammunition equipped.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051539Z" creationid="hiru4" creationdate="20190403T051539Z">
-        <seg>対応する武器や弾薬を装備していません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131919Z" creationid="hiru4" creationdate="20190403T051539Z">
+        <seg>対応する武器や弾薬を装備していません</seg>
       </tuv>
     </tu>
     <tu>
@@ -12870,8 +12870,8 @@
       <tuv lang="EN-US">
         <seg>No {1} in inventory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051604Z" creationid="hiru4" creationdate="20190403T051604Z">
-        <seg> {1} はバッグの中にあります。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
+        <seg> {1} はバッグの中にあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,16 +12894,16 @@
       <tuv lang="EN-US">
         <seg>Not enough Mana.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052322Z" creationid="hiru4" creationdate="20190403T052212Z">
-        <seg>マナが不足しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131959Z" creationid="hiru4" creationdate="20190403T052212Z">
+        <seg>マナが不足しています</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Not enough Stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052343Z" creationid="hiru4" creationdate="20190403T052234Z">
-        <seg>スタミナが不足しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132004Z" creationid="hiru4" creationdate="20190403T052234Z">
+        <seg>スタミナが不足しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -16258,8 +16258,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142038Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要：Lantern 装備しているランタンを敵に投げつけ、5秒間火のゾーンをつくる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131831Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要：Lantern 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19109,8 +19109,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The alternative skill has already been learned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052451Z" creationid="hiru4" creationdate="20190403T052451Z">
-        <seg>別のスキルを既に習得しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132010Z" creationid="hiru4" creationdate="20190403T052451Z">
+        <seg>別のスキルを既に習得しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -19304,8 +19304,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The merchant does not have enough Silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091406Z" creationid="hiru4" creationdate="20190403T052104Z">
-        <seg>商人の銀貨が不足しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131948Z" creationid="hiru4" creationdate="20190403T052104Z">
+        <seg>商人の銀貨が不足しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -21609,8 +21609,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You cannot rest too far away from each other.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051818Z" creationid="hiru4" creationdate="20190403T051818Z">
-        <seg>お互いが離れすぎているため休息できません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131944Z" creationid="hiru4" creationdate="20190403T051818Z">
+        <seg>お互いが離れすぎているため休息できません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21682,8 +21682,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You do not have enough Silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091417Z" creationid="hiru4" creationdate="20190403T052110Z">
-        <seg>銀貨が不足しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131951Z" creationid="hiru4" creationdate="20190403T052110Z">
+        <seg>銀貨が不足しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -21877,24 +21877,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You must be part of the Blue Chamber to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052617Z" creationid="hiru4" creationdate="20190403T052506Z">
-        <seg>スキルを学ぶためにBlue Chamberのメンバーでなければなりません。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132022Z" creationid="hiru4" creationdate="20190403T052506Z">
+        <seg>スキルを学ぶためにBlue Chamberのメンバーでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You must be part of the Heroic Kingdom of Levant to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052605Z" creationid="hiru4" creationdate="20190403T052605Z">
-        <seg>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132026Z" creationid="hiru4" creationdate="20190403T052605Z">
+        <seg>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You must be part of the Holy Mission of Elatt to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052652Z" creationid="hiru4" creationdate="20190403T052652Z">
-        <seg>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132030Z" creationid="hiru4" creationdate="20190403T052652Z">
+        <seg>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21957,8 +21957,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You need to rest at least 1 hour.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051741Z" creationid="hiru4" creationdate="20190403T051741Z">
-        <seg>休息には最低1時間必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131934Z" creationid="hiru4" creationdate="20190403T051741Z">
+        <seg>休息には最低1時間必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -22778,8 +22778,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been added to the Journal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T051400Z" creationid="hiru4" creationdate="20190403T051400Z">
-        <seg>{1} がジャーナルに追加されました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131855Z" creationid="hiru4" creationdate="20190403T051400Z">
+        <seg>{1} がジャーナルに追加されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -22794,8 +22794,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been completed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091052Z" creationid="hiru4" creationdate="20190403T051446Z">
-        <seg>{1} が完了しました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131902Z" creationid="hiru4" creationdate="20190403T051446Z">
+        <seg>{1} が完了しました</seg>
       </tuv>
     </tu>
     <tu>
@@ -22890,8 +22890,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052408Z" creationid="hiru4" creationdate="20190403T052408Z">
-        <seg>{1}が必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132007Z" creationid="hiru4" creationdate="20190403T052408Z">
+        <seg>{1}が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -22922,16 +22922,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} must be learned prior to unlock this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052734Z" creationid="hiru4" creationdate="20190403T052734Z">
-        <seg>{1}は、スキルロックを解除する前提条件です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132034Z" creationid="hiru4" creationdate="20190403T052734Z">
+        <seg>{1}は、スキルロックを解除する前提条件です</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>{1} or {2} must be learned prior to unlock this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052751Z" creationid="hiru4" creationdate="20190403T052751Z">
-        <seg>{1}または{2}は、このスキルのロックを解除する前提条件です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132037Z" creationid="hiru4" creationdate="20190403T052751Z">
+        <seg>{1}または{2}は、このスキルのロックを解除する前提条件です</seg>
       </tuv>
     </tu>
     <tu>
@@ -22996,8 +22996,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1}’s log has been updated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091045Z" creationid="hiru4" creationdate="20190403T051325Z">
-        <seg>{1}のログが更新されました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131852Z" creationid="hiru4" creationdate="20190403T051325Z">
+        <seg>{1}のログが更新されました</seg>
       </tuv>
     </tu>
     <tu>
