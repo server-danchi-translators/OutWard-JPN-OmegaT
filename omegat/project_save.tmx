@@ -7437,6 +7437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I found some pearlbird eggs the other day, have one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T014724Z" creationid="rkmad" creationdate="20190404T014724Z">
+        <seg>そういえばこの間、卵をいくつか見つけたんだ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, the ingredients.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T010941Z" creationid="rkmad" creationdate="20190404T010931Z">
@@ -7485,6 +7493,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey thanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T014706Z" creationid="rkmad" creationdate="20190404T014706Z">
+        <seg>感謝するよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hey, do me a solid and bring me another pickaxe would you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T014520Z" creationid="rkmad" creationdate="20190404T014520Z">
+        <seg>やあ。手伝ってほしいことがあるんだが、新しいつるはしを持ってきてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T125545Z" creationid="setom" creationdate="20190402T165629Z">
@@ -7521,6 +7545,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114620Z" creationid="Gaiden Shinji" creationdate="20190403T114620Z">
         <seg>聖なる使命の合流路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hopefully I can find enough iron that I buy my way out of this damn pit...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015135Z" creationid="rkmad" creationdate="20190404T015037Z">
+        <seg>その間に、この忌々しい穴ぐらから抜け出せるだけの鉄が見つけられることを願うよ・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -7715,6 +7747,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011212Z" creationid="rkmad" creationdate="20190404T011212Z">
         <seg>材料が足りなくなりました・・・</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think this one’s going to last for a good day or two.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015043Z" creationid="rkmad" creationdate="20190404T014957Z">
+        <seg>これで、あと1日か2日は持つだろうさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16222,6 +16262,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This one’s about to break.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T014627Z" creationid="rkmad" creationdate="20190404T014627Z">
+        <seg>今つかっているのが、そろそろ壊れそうなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This pristine water was most likely boiled over a campfire or gathered at a fountain.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T075300Z" creationid="rkmad" creationdate="20190403T075300Z">
@@ -18067,6 +18115,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to eat healthy if you wanna survive in here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015146Z" creationid="rkmad" creationdate="20190404T014744Z">
+        <seg>こんな所で生き残りたいなら、少しでも良い食事をとる必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to rest at least 1 hour.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051741Z" creationid="hiru4" creationdate="20190403T051741Z">
@@ -18643,6 +18699,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095852Z" creationid="rkmad" creationdate="20190403T095852Z">
         <seg>報酬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thanks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015200Z" creationid="rkmad" creationdate="20190404T015200Z">
+        <seg>ありがとう。</seg>
       </tuv>
     </tu>
     <tu>
