@@ -20847,6 +20847,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We still have time, but please don't dally for too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T173400Z" creationid="magur0w" creationdate="20190404T173400Z">
+        <seg>まだ時間はあるが、あまりぐずぐずするなよ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We're not far from home.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164854Z" creationid="setom" creationdate="20190402T164723Z">
@@ -21198,6 +21206,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042738Z" creationid="はぐくみ会" creationdate="20190404T010441Z">
         <seg>あなたを救助した者達は身元が分かる痕跡やサインを残さず去っていた。支払いも求めることなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why are you still here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T173619Z" creationid="magur0w" creationdate="20190404T173619Z">
+        <seg>何でまだここにいるんだ？</seg>
       </tuv>
     </tu>
     <tu>
