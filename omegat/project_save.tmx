@@ -1600,8 +1600,8 @@
       <tuv lang="EN-US">
         <seg>A lash from a whip stings your back as you are ordered to run through the night.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063905Z" creationid="はぐくみ会" creationdate="20190403T063905Z">
-        <seg>鞭によりあなたの腕は叩きつけられ、夜通し走るように命じられる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041128Z" creationid="はぐくみ会" creationdate="20190403T063905Z">
+        <seg>鞭であなたの腕は叩きつけられ、夜通し走るように命じられる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,8 +1649,8 @@
       <tuv lang="EN-US">
         <seg>A wave of nausea from the death march you were forced to make rises from your stomach, and you vomit onto the cold hard ground, before falling into your own mess.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020811Z" creationid="はぐくみ会" creationdate="20190403T064106Z">
-        <seg>強制された死の行進。吐き気の波。そしてあなたは冷たい硬い地面に嘔吐した。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041209Z" creationid="はぐくみ会" creationdate="20190403T064106Z">
+        <seg>強制された死の行進。吐き気の波。あなたは冷たく硬い地面に嘔吐した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2820,8 +2820,8 @@
       <tuv lang="EN-US">
         <seg>By the time you get back up, you are alone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020959Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
-        <seg>あなたは囚人たちの列から離れている。1人だけで。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041232Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
+        <seg>あなたは囚人たちの列から離れている。あなた1人だけで。
 </seg>
       </tuv>
     </tu>
@@ -14626,8 +14626,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She refuses payment and leaves you with a firm pat on the shoulder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020459Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
-        <seg>彼女はお礼を受け取らず、去っていった。あなたの肩を軽く叩いて。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041051Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
+        <seg>彼女はお礼を受け取らず去っていった。あなたの肩を軽く叩いて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18351,8 +18351,9 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up to see a bandit tying your hands together, and chaining you to a line of other prisoners.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T063851Z" creationid="はぐくみ会" creationdate="20190403T063851Z">
-        <seg>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041116Z" creationid="はぐくみ会" creationdate="20190403T063851Z">
+        <seg>あなたは目覚め、そして気付いた。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -18448,8 +18449,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your captors run you ragged until their camp finally enters your vision...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020720Z" creationid="はぐくみ会" creationdate="20190403T063932Z">
-        <seg>捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、ついに、あなたの視界に盗賊たちのキャンプが…</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T041145Z" creationid="はぐくみ会" creationdate="20190403T063932Z">
+        <seg>捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、あなたの視界に盗賊たちの野営地が...</seg>
       </tuv>
     </tu>
     <tu>
