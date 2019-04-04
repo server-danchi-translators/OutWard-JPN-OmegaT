@@ -5003,6 +5003,70 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DS_306_BCQ4_DefeatByBattleborn-01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105048Z" creationid="seto" creationdate="20190404T105048Z">
+        <seg>DS_306_BCQ4_DefeatByBattleborn-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_3120_HMQ4_TrueDeath_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105104Z" creationid="seto" creationdate="20190404T105104Z">
+        <seg>DS_3120_HMQ4_TrueDeath_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_312_LQ1_DefeatByLevantAgents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105054Z" creationid="seto" creationdate="20190404T105054Z">
+        <seg>DS_312_LQ1_DefeatByLevantAgents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_313_LQ2_DefeatByBCScoots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105055Z" creationid="seto" creationdate="20190404T105055Z">
+        <seg>DS_313_LQ2_DefeatByBCScoots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_314_LQ4_DefeatBySoldiers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105057Z" creationid="seto" creationdate="20190404T105057Z">
+        <seg>DS_314_LQ4_DefeatBySoldiers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_315_LQ4_DefeatByCyrene</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105100Z" creationid="seto" creationdate="20190404T105100Z">
+        <seg>DS_315_LQ4_DefeatByCyrene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_316_LQ5_DefeatDuringPrinceFight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105101Z" creationid="seto" creationdate="20190404T105101Z">
+        <seg>DS_316_LQ5_DefeatDuringPrinceFight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_318_HMQ1_DefeatByCorruption</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105103Z" creationid="seto" creationdate="20190404T105103Z">
+        <seg>DS_318_HMQ1_DefeatByCorruption</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DS_31_BergInn</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T111405Z" creationid="setom" creationdate="20190403T111405Z">
@@ -5207,6 +5271,62 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T104654Z" creationid="seto" creationdate="20190404T104654Z">
         <seg>DS_67_LevantHome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_68_Slums</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105036Z" creationid="seto" creationdate="20190404T105036Z">
+        <seg>DS_68_Slums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_69_VendavelTrashed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105038Z" creationid="seto" creationdate="20190404T105038Z">
+        <seg>DS_69_VendavelTrashed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_69_VendavelTrashed_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105039Z" creationid="seto" creationdate="20190404T105039Z">
+        <seg>DS_69_VendavelTrashed_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_71_BergHome</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105040Z" creationid="seto" creationdate="20190404T105040Z">
+        <seg>DS_71_BergHome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_72_BurningMenDefeat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105042Z" creationid="seto" creationdate="20190404T105042Z">
+        <seg>DS_72_BurningMenDefeat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_73_HiveMenDefeat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105043Z" creationid="seto" creationdate="20190404T105043Z">
+        <seg>DS_73_HiveMenDefeat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_74_ThirstTuto</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105044Z" creationid="seto" creationdate="20190404T105044Z">
+        <seg>DS_74_ThirstTuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -18958,8 +19078,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034211Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
-        <seg>あなたは殴られ、出血をしているが、まだ生きている。
+      <tuv lang="JA" changeid="seto" changedate="20190404T105132Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg>あなたは殴られて出血をしているが、まだ生きている。
 </seg>
       </tuv>
     </tu>
