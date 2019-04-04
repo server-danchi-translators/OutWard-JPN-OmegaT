@@ -9972,6 +9972,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May your ancestors watch over you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T091905Z" creationid="rkmad" creationdate="20190404T091905Z">
+        <seg>あなたの先祖が、貴方をどうか見守っていてくださいますように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074305Z" creationid="setom" creationdate="20190331T113952Z">
@@ -14108,6 +14116,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
         <seg>ワールドを再読込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, [PlayerName], you only have &lt;color=#00CCFF&gt;&lt;b&gt;5 days&lt;/b&gt;&lt;/color&gt; to pay me the 150 silver, or show me proof you have earned a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T091846Z" creationid="rkmad" creationdate="20190404T091846Z">
+        <seg>[PlayerName]、忘れないで。&lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。対価を支払うための150シルバーを集めるか、&lt;color=#00CCFF&gt;&lt;b&gt;村人の信頼を得るか&lt;/b&gt;&lt;/color&gt; のどちらをするにしてもです。</seg>
       </tuv>
     </tu>
     <tu>
