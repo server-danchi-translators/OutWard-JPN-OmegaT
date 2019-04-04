@@ -7076,6 +7076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011751Z" creationid="rkmad" creationdate="20190404T011751Z">
+        <seg>ああ、思ったよりやるじゃないか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gradually slows your movement speed, as the weight increases.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071444Z" creationid="hiru4" creationdate="20190403T071444Z">
@@ -7409,6 +7417,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170720Z" creationid="setom" creationdate="20190402T170116Z">
         <seg>後ろのカゴに入ってるパンでも食えば腹も膨らむだろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are your stews.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011610Z" creationid="rkmad" creationdate="20190404T011610Z">
+        <seg>シチューを作って持ってきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18938,6 +18954,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T144536Z" creationid="setom" creationdate="20190402T144327Z">
         <seg>ああ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2445_0</prop>
+      <tuv lang="EN-US">
+        <seg>Guards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011542Z" creationid="rkmad" creationdate="20190404T011542Z">
+        <seg>おい、誰か居のか！こいつを捕まえろ！</seg>
       </tuv>
     </tu>
     <tu>
