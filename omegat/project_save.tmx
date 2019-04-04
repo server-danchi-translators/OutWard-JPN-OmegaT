@@ -2818,6 +2818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berg’s Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120011Z" creationid="Gaiden Shinji" creationdate="20190404T120011Z">
+        <seg>ベルク ガード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -2934,6 +2942,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112651Z" creationid="Gaiden Shinji" creationdate="20190404T112651Z">
         <seg>ブルーチャンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Chamber Scout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120032Z" creationid="Gaiden Shinji" creationdate="20190404T120026Z">
+        <seg>ブルーチャンバー スカウト</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,6 +5071,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114930Z" creationid="setom" creationdate="20190401T114930Z">
         <seg>クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cremeuh Ayere</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115929Z" creationid="Gaiden Shinji" creationdate="20190404T115929Z">
+        <seg>クレム・アイエール</seg>
       </tuv>
     </tu>
     <tu>
@@ -8284,6 +8308,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giant Book</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115946Z" creationid="Gaiden Shinji" creationdate="20190404T115946Z">
+        <seg>ジャイアントブック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giant Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115858Z" creationid="Gaiden Shinji" creationdate="20190404T115858Z">
+        <seg>ジャイアントコーパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giant_Guard</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103324Z" creationid="seto" creationdate="20190404T103324Z">
@@ -8921,6 +8961,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042633Z" creationid="はぐくみ会" creationdate="20190404T001222Z">
         <seg>彼はあなたの貴重品の多くを「救助」してくれたようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hidden Report</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120103Z" creationid="Gaiden Shinji" creationdate="20190404T120103Z">
+        <seg>隠されたレポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,6 +10948,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Levant Soldier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120041Z" creationid="Gaiden Shinji" creationdate="20190404T120041Z">
+        <seg>レヴァンテ ソルジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant Streets</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112611Z" creationid="Gaiden Shinji" creationdate="20190404T112611Z">
@@ -11216,6 +11272,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
         <seg>MISSING DESC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Machine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115844Z" creationid="Gaiden Shinji" creationdate="20190404T115844Z">
+        <seg>マシーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -12744,6 +12808,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071420Z" creationid="hiru4" creationdate="20190402T071420Z">
         <seg>ベッドがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115834Z" creationid="Gaiden Shinji" creationdate="20190404T115834Z">
+        <seg>ノート</seg>
       </tuv>
     </tu>
     <tu>
@@ -16056,6 +16128,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Researcher Boye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115920Z" creationid="Gaiden Shinji" creationdate="20190404T115920Z">
+        <seg>ボエ研究員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115830Z" creationid="setom" creationdate="20190401T115830Z">
@@ -17724,6 +17804,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114016Z" creationid="Gaiden Shinji" creationdate="20190403T114016Z">
         <seg>スモークルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smuggler's Message</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120052Z" creationid="Gaiden Shinji" creationdate="20190404T120052Z">
+        <seg>スマグラーのメッセージ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20183,6 +20271,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warning Notice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120114Z" creationid="Gaiden Shinji" creationdate="20190404T120114Z">
+        <seg>警告通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022458Z" creationid="hiru4" creationdate="20190402T022458Z">
@@ -20416,6 +20512,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wendigo Prison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115937Z" creationid="Gaiden Shinji" creationdate="20190404T115937Z">
+        <seg>ウェンディゴ刑務所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We’re grateful.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T101159Z" creationid="rkmad" creationdate="20190403T101127Z">
@@ -20582,6 +20686,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122446Z" creationid="setom" creationdate="20190331T113953Z">
         <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whispering Bones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115953Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
+        <seg>ささやく骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -22196,6 +22308,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115211Z" creationid="Gaiden Shinji" creationdate="20190403T115211Z">
         <seg>ジグラットパッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ziggurat Soldier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115820Z" creationid="Gaiden Shinji" creationdate="20190404T115820Z">
+        <seg>ジグラット ソルジャー</seg>
       </tuv>
     </tu>
     <tu>
