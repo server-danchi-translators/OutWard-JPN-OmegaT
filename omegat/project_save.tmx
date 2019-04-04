@@ -1560,8 +1560,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;A Blood Price&lt;/b&gt;&lt;/color&gt; is sacred, [PlayerName], you can't just shrug off that responsibility for as long as you did!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T124233Z" creationid="seto" creationdate="20190404T124233Z">
-        <seg>[PlayerName]、&lt;color=#00CCFF&gt;&lt;b&gt;Blood Price&lt;/b&gt;&lt;/color&gt;は神聖だ。 責任を果たすまで逃れることはできないぞ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214509Z" creationid="seto" creationdate="20190404T124233Z">
+        <seg>[PlayerName]、&lt;color=#00CCFF&gt;&lt;b&gt;Blood Price&lt;/b&gt;&lt;/color&gt;は神聖だ！ 責任を果たすまで逃れることはできないぞ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -9697,8 +9697,8 @@
       <tuv lang="EN-US">
         <seg>I want to talk about my Blood Price.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T092439Z" creationid="rkmad" creationdate="20190404T092439Z">
-        <seg>私の血の対価について話がしたい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214322Z" creationid="rkmad" creationdate="20190404T092439Z">
+        <seg>私の血の代償について話がしたい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9739,6 +9739,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080911Z" creationid="rkmad" creationdate="20190404T080911Z">
         <seg>私に何か他の手があれば、それを行っていたでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If I don't see the money from you by the time I count to ten, I will make sure you regret ever coming home!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214650Z" creationid="seto" creationdate="20190404T214650Z">
+        <seg>十数える間にあんたが金を用意しな！でないとここに帰ってきたことを後悔させてやるよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -11232,6 +11240,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114918Z" creationid="Gaiden Shinji" creationdate="20190404T114918Z">
         <seg>キロアック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kirouac_NEUT_Initial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214347Z" creationid="seto" creationdate="20190404T214347Z">
+        <seg>Kirouac_NEUT_Initial_06</seg>
       </tuv>
     </tu>
     <tu>
@@ -12800,6 +12816,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T122230Z" creationid="seto" creationdate="20190404T122230Z">
         <seg>Mob_NE_Call_To_Advent_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214510Z" creationid="seto" creationdate="20190404T214510Z">
+        <seg>Mob_NE_Call_To_Advent_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -15983,6 +16007,94 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214351Z" creationid="seto" creationdate="20190404T214351Z">
+        <seg>Player_Rissa_NE_Call_To_A_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_a_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214402Z" creationid="seto" creationdate="20190404T214402Z">
+        <seg>Player_Rissa_NE_Call_To_A_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_a_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214415Z" creationid="seto" creationdate="20190404T214415Z">
+        <seg>Player_Rissa_NE_Call_To_A_a_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_a_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214433Z" creationid="seto" creationdate="20190404T214433Z">
+        <seg>Player_Rissa_NE_Call_To_A_a_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_b_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214408Z" creationid="seto" creationdate="20190404T214408Z">
+        <seg>Player_Rissa_NE_Call_To_A_b_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_b_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214417Z" creationid="seto" creationdate="20190404T214417Z">
+        <seg>Player_Rissa_NE_Call_To_A_b_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_b_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214430Z" creationid="seto" creationdate="20190404T214430Z">
+        <seg>Player_Rissa_NE_Call_To_A_b_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_c_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214411Z" creationid="seto" creationdate="20190404T214411Z">
+        <seg>Player_Rissa_NE_Call_To_A_c_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_c_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214419Z" creationid="seto" creationdate="20190404T214419Z">
+        <seg>Player_Rissa_NE_Call_To_A_c_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_c_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214437Z" creationid="seto" creationdate="20190404T214437Z">
+        <seg>Player_Rissa_NE_Call_To_A_c_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_d_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214421Z" creationid="seto" creationdate="20190404T214421Z">
+        <seg>Player_Rissa_NE_Call_To_A_d_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_ShivSlave_Vendavel_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114900Z" creationid="seto" creationdate="20190404T114900Z">
@@ -17100,6 +17212,215 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113309Z" creationid="Gaiden Shinji" creationdate="20190404T113309Z">
         <seg>リッサ・アバディーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214343Z" creationid="seto" creationdate="20190404T214343Z">
+        <seg>Rissa_NE_Call_To_A_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214352Z" creationid="seto" creationdate="20190404T214352Z">
+        <seg>Rissa_NE_Call_To_A_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214353Z" creationid="seto" creationdate="20190404T214353Z">
+        <seg>Rissa_NE_Call_To_A_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214356Z" creationid="seto" creationdate="20190404T214356Z">
+        <seg>Rissa_NE_Call_To_A_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214403Z" creationid="seto" creationdate="20190404T214403Z">
+        <seg>Rissa_NE_Call_To_A_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214405Z" creationid="seto" creationdate="20190404T214405Z">
+        <seg>Rissa_NE_Call_To_A_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214406Z" creationid="seto" creationdate="20190404T214406Z">
+        <seg>Rissa_NE_Call_To_A_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214409Z" creationid="seto" creationdate="20190404T214409Z">
+        <seg>Rissa_NE_Call_To_A_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214410Z" creationid="seto" creationdate="20190404T214410Z">
+        <seg>Rissa_NE_Call_To_A_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214412Z" creationid="seto" creationdate="20190404T214412Z">
+        <seg>Rissa_NE_Call_To_A_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214414Z" creationid="seto" creationdate="20190404T214414Z">
+        <seg>Rissa_NE_Call_To_A_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214416Z" creationid="seto" creationdate="20190404T214416Z">
+        <seg>
+Rissa_NE_Call_To_A_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214418Z" creationid="seto" creationdate="20190404T214418Z">
+        <seg>Rissa_NE_Call_To_A_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214420Z" creationid="seto" creationdate="20190404T214420Z">
+        <seg>Rissa_NE_Call_To_A_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214422Z" creationid="seto" creationdate="20190404T214422Z">
+        <seg>Rissa_NE_Call_To_A_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214423Z" creationid="seto" creationdate="20190404T214423Z">
+        <seg>Rissa_NE_Call_To_A_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214427Z" creationid="seto" creationdate="20190404T214427Z">
+        <seg>Rissa_NE_Call_To_A_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214429Z" creationid="seto" creationdate="20190404T214429Z">
+        <seg>Rissa_NE_Call_To_A_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214431Z" creationid="seto" creationdate="20190404T214431Z">
+        <seg>Rissa_NE_Call_To_A_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214425Z" creationid="seto" creationdate="20190404T214425Z">
+        <seg>Rissa_NE_Call_To_A_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214433Z" creationid="seto" creationdate="20190404T214433Z">
+        <seg>Rissa_NE_Call_To_A_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214434Z" creationid="seto" creationdate="20190404T214434Z">
+        <seg>Rissa_NE_Call_To_A_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214436Z" creationid="seto" creationdate="20190404T214436Z">
+        <seg>Rissa_NE_Call_To_A_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214436Z" creationid="seto" creationdate="20190404T214436Z">
+        <seg>Rissa_NE_Call_To_A_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214437Z" creationid="seto" creationdate="20190404T214437Z">
+        <seg>Rissa_NE_Call_To_A_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214438Z" creationid="seto" creationdate="20190404T214438Z">
+        <seg>Rissa_NE_Call_To_A_27</seg>
       </tuv>
     </tu>
     <tu>
