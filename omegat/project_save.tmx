@@ -4947,6 +4947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DS_66_CorsairsHivePrison_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042801Z" creationid="pugnus" creationdate="20190404T042801Z">
+        <seg>S_66_CorsairsHivePrison_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Damage</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020741Z" creationid="hiru4" creationdate="20190402T020724Z">
@@ -5214,8 +5222,8 @@
       <tuv lang="EN-US">
         <seg>Desert bandits pounce on you and tie you up in a sack, before dragging you across the sand dunes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042032Z" creationid="はぐくみ会" creationdate="20190404T012205Z">
-        <seg>　Desert bandits 達はあなたに飛び掛かり、大きな袋にあなたを入れて縛り、砂丘を引きずっていく。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042747Z" creationid="はぐくみ会" creationdate="20190404T012205Z">
+        <seg>Desert bandits 達はあなたに飛び掛かり、大きな袋にあなたを入れて縛り、砂丘を引きずっていく。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7640,8 +7648,8 @@
       <tuv lang="EN-US">
         <seg>Hours later you wake up and break free of the bag, only to find yourself in a prison cell surrounded by deadly insects.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042041Z" creationid="はぐくみ会" creationdate="20190404T014214Z">
-        <seg>　数時間後に目を覚ます。袋を破き、身体を自由にする。ここは牢屋だ。危険な昆虫に囲まれた牢屋。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042805Z" creationid="はぐくみ会" creationdate="20190404T014214Z">
+        <seg>数時間後に目を覚ます。袋を破き、身体を自由にする。ここは牢屋だ。危険な昆虫に囲まれた牢屋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7873,8 +7881,8 @@
       <tuv lang="EN-US">
         <seg>If you do not intend to be dinner tonight, you should make yourself scarce from this place.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042030Z" creationid="はぐくみ会" creationdate="20190404T011717Z">
-        <seg>　もし、あなたが今夜の夕食の主役になるつもりがなければ、この場所から姿をくらませた方がよいだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042744Z" creationid="はぐくみ会" creationdate="20190404T011717Z">
+        <seg>もし、あなたが今夜の夕食の主役になるつもりがなければ、この場所から姿をくらませた方がよいだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8853,8 +8861,8 @@
       <tuv lang="EN-US">
         <seg>It’s time to beat a hasty retreat, before the insects grow hungry!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042042Z" creationid="はぐくみ会" creationdate="20190404T014739Z">
-        <seg>　昆虫達が空腹になる前に、急いで逃げろ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042808Z" creationid="はぐくみ会" creationdate="20190404T014739Z">
+        <seg>昆虫達が空腹になる前に、急いで逃げろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10638,8 +10646,8 @@
       <tuv lang="EN-US">
         <seg>No doubt they intend to use you as slave labor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042036Z" creationid="はぐくみ会" creationdate="20190404T013201Z">
-        <seg>　彼らはあなたを奴隷として利用しようとしていことは明らかだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042755Z" creationid="はぐくみ会" creationdate="20190404T013201Z">
+        <seg>彼らはあなたを奴隷として利用しようとしていことは明らかだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17445,16 +17453,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With great difficulty, you free yourself and fall to the hive floor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042029Z" creationid="はぐくみ会" creationdate="20190404T011338Z">
-        <seg>　多大な努力を払って、あなたは自分を解放し、虫の巣の床に転がり落ちる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042743Z" creationid="はぐくみ会" creationdate="20190404T011338Z">
+        <seg>多大な努力を払って、あなたは自分を解放し、虫の巣の床に転がり落ちる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>With great effort, you manage to force the bolts on the door off and stumble out of the cell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042041Z" creationid="はぐくみ会" creationdate="20190404T014610Z">
-        <seg>　多大な労力を費やすことで、扉のネジを無理に押し、牢屋から飛び出ることができた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042806Z" creationid="はぐくみ会" creationdate="20190404T014610Z">
+        <seg>多大な労力を費やすことで、扉のネジを無理に押し、牢屋から飛び出ることができた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18237,8 +18245,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You pass out from the heat and lack of air more than once.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042033Z" creationid="はぐくみ会" creationdate="20190404T012428Z">
-        <seg>　暑さと空気の不足が原因で、あなたは何度も意識を失う。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042748Z" creationid="はぐくみ会" creationdate="20190404T012428Z">
+        <seg>暑さと空気の不足が原因で、あなたは何度も意識を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18326,8 +18334,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up deep underground, at a bandit’s camp in an old crumbling mine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042034Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
-        <seg>　地下深くで目を覚ます。砕けた古い鉱山の、盗賊達の野営地で。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T042752Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
+        <seg>地下深くで目を覚ます。砕けた古い鉱山の、盗賊達の野営地で。</seg>
       </tuv>
     </tu>
     <tu>
