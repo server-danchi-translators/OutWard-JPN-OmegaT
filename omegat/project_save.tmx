@@ -1967,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And what's the problem between Sirroco and the Hallowed Marsh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T123820Z" creationid="magur0w" creationdate="20190404T123820Z">
+        <seg>そして、SirrocoとHallowed Marshの間にある問題は何でしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
@@ -2179,6 +2187,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064149Z" creationid="setom" creationdate="20190402T064149Z">
         <seg>Cabal of Windsの秘宝である槍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, the land is wracked by earthquakes and unpredictable land shifts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T124957Z" creationid="magur0w" creationdate="20190404T124710Z">
+        <seg>なので、その土地は地震と予測できない大陸移動に見舞われています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19007,6 +19023,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070847Z" creationid="hiru4" creationdate="20190403T070847Z">
         <seg>PhotonCloudは送信されたAppIdを拒否しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Sirroco region lies in the shadow of a volcano.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T124608Z" creationid="magur0w" creationdate="20190404T124608Z">
+        <seg>Sirroco地域は火山の影の中にあります。</seg>
       </tuv>
     </tu>
     <tu>
