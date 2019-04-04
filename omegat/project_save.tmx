@@ -2103,6 +2103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arlum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120350Z" creationid="Gaiden Shinji" creationdate="20190404T120350Z">
+        <seg>アラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor Penalties Reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071338Z" creationid="hiru4" creationdate="20190403T071338Z">
@@ -2123,6 +2131,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T111657Z" creationid="Gaiden Shinji" creationdate="20190403T111657Z">
         <seg>アーマード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armored Woman</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120331Z" creationid="Gaiden Shinji" creationdate="20190404T120331Z">
+        <seg>アーマードウーマン</seg>
       </tuv>
     </tu>
     <tu>
@@ -2501,6 +2517,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113441Z" creationid="Gaiden Shinji" creationdate="20190404T113441Z">
         <seg>バルタザール・ペルテロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balthazar’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120420Z" creationid="Gaiden Shinji" creationdate="20190404T120420Z">
+        <seg>バルタザールの死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -2910,6 +2934,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T100354Z" creationid="setom" creationdate="20190402T064937Z">
         <seg>武器よりも、盾を使ってのブロックがより有効だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blonde Man</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120337Z" creationid="Gaiden Shinji" creationdate="20190404T120337Z">
+        <seg>金髪の男</seg>
       </tuv>
     </tu>
     <tu>
@@ -10812,6 +10844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lady on the Left</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120347Z" creationid="Gaiden Shinji" creationdate="20190404T120347Z">
+        <seg>左側の女性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Laine Aberforth</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114938Z" creationid="Gaiden Shinji" creationdate="20190404T114923Z">
@@ -11176,6 +11216,14 @@
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T140031Z" creationid="Horizon" creationdate="20190403T135440Z">
         <seg>このスキルを使用するには、敵をロックオンする必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lockwell's Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120235Z" creationid="Gaiden Shinji" creationdate="20190404T120235Z">
+        <seg>ロックウェル ガード</seg>
       </tuv>
     </tu>
     <tu>
@@ -12208,6 +12256,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091454Z" creationid="setom" creationdate="20190402T091454Z">
         <seg>Message_Tutorial_WeaponSkillsReq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Messenger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120154Z" creationid="Gaiden Shinji" creationdate="20190404T120154Z">
+        <seg>メッセンジャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -13871,6 +13927,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old Levant Report</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120122Z" creationid="Gaiden Shinji" creationdate="20190404T120122Z">
+        <seg>オールドレヴァンテレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Levant's claims to the Abrassar region, and Sirroco's land negotiations with the Hallowed Marsh Region.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T114203Z" creationid="magur0w" creationdate="20190404T114203Z">
@@ -14631,6 +14695,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palace Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120258Z" creationid="Gaiden Shinji" creationdate="20190404T120258Z">
+        <seg>宮殿の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palladium vein</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130627Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
@@ -14843,6 +14915,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115328Z" creationid="Gaiden Shinji" creationdate="20190404T115328Z">
         <seg>ピジョンアイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pillar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120321Z" creationid="Gaiden Shinji" creationdate="20190404T120321Z">
+        <seg>柱</seg>
       </tuv>
     </tu>
     <tu>
@@ -15507,6 +15587,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065106Z" creationid="hiru4" creationdate="20190403T065106Z">
         <seg>プライマリユーザーがサインアウトし、メインメニューに戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prince Jaden</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120316Z" creationid="Gaiden Shinji" creationdate="20190404T120316Z">
+        <seg>ジェーデン王子</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,6 +16632,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rosetta Stone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120150Z" creationid="Gaiden Shinji" creationdate="20190404T120150Z">
+        <seg>ロゼッタ・ストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rospa the Conqueror</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115438Z" creationid="Gaiden Shinji" creationdate="20190404T115438Z">
@@ -17208,6 +17304,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scribbled Orders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120143Z" creationid="Gaiden Shinji" creationdate="20190404T120143Z">
+        <seg>注文の落書き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sea-Salt Inn</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112556Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
@@ -17792,6 +17896,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slum Criminal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120203Z" creationid="Gaiden Shinji" creationdate="20190404T120203Z">
+        <seg>スラム 犯罪者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slum People</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120212Z" creationid="Gaiden Shinji" creationdate="20190404T120212Z">
+        <seg>スラムの人々</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slums</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112617Z" creationid="Gaiden Shinji" creationdate="20190404T112617Z">
@@ -17820,6 +17940,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115530Z" creationid="Gaiden Shinji" creationdate="20190404T115530Z">
         <seg>ソラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soldier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120224Z" creationid="Gaiden Shinji" creationdate="20190404T120224Z">
+        <seg>ソルジャー</seg>
       </tuv>
     </tu>
     <tu>
@@ -17868,6 +17996,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T111509Z" creationid="pugnus" creationdate="20190404T111509Z">
         <seg>目を覚ますと、あなたの口から苦いものが滴り落ちる。あなたは有毒な昆虫によって繭に包まれていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorobor Banker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120220Z" creationid="Gaiden Shinji" creationdate="20190404T120220Z">
+        <seg>ソロボルバンカー</seg>
       </tuv>
     </tu>
     <tu>
@@ -18326,6 +18462,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112743Z" creationid="Gaiden Shinji" creationdate="20190404T112743Z">
         <seg>{NPCName}と会話する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talking Skull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120250Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
+        <seg>話す頭蓋骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -22300,6 +22444,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115808Z" creationid="Gaiden Shinji" creationdate="20190404T115808Z">
         <seg>ゼフィリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120304Z" creationid="Gaiden Shinji" creationdate="20190404T120304Z">
+        <seg>ゼフィリアンコーパス</seg>
       </tuv>
     </tu>
     <tu>
