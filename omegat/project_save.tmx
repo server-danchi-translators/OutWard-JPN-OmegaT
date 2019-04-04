@@ -4859,6 +4859,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could you &lt;color=#00CCFF&gt;&lt;b&gt;check the Inn&lt;/b&gt;&lt;/color&gt; to see if they’ve arrived in Berg, yet?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T180309Z" creationid="magur0w" creationdate="20190404T180309Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;Bergに着いているか確認してくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crabeye</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113715Z" creationid="Gaiden Shinji" creationdate="20190403T113715Z">
@@ -10872,6 +10880,14 @@
       <tuv lang="JA" changeid="pugnus" changedate="20190404T035728Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
         <seg>さあ、脱出する時が来た！
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m concerned...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T180052Z" creationid="magur0w" creationdate="20190404T180052Z">
+        <seg>心配だ...</seg>
       </tuv>
     </tu>
     <tu>
