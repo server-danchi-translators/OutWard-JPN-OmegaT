@@ -5204,6 +5204,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Desert bandits pounce on you and tie you up in a sack, before dragging you across the sand dunes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T012205Z" creationid="はぐくみ会" creationdate="20190404T012205Z">
+        <seg>Desert bandits 達はあなたに飛び掛かり、大きな袋にあなたを入れて縛り、砂丘を引きずっていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dialogue_DefaultEmpty</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095304Z" creationid="setom" creationdate="20190402T095304Z">
@@ -18043,6 +18051,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You pass out from the heat and lack of air more than once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T012428Z" creationid="はぐくみ会" creationdate="20190404T012428Z">
+        <seg>暑さと空気の不足が原因で、あなたは何度も意識を失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You pay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095349Z" creationid="totochan" creationdate="20190402T083632Z">
@@ -18120,6 +18136,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055749Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
         <seg>あなたは無意識から目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wake up deep underground, at a bandit’s camp in an old crumbling mine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T012709Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
+        <seg>目を覚ました場所は地下のようだ。砕けた古い鉱山の、盗賊達の野営地。</seg>
       </tuv>
     </tu>
     <tu>
