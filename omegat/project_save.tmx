@@ -20941,8 +20941,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034125Z" creationid="urakata" creationdate="20190331T071251Z">
-        <seg>力を振り絞り、死ぬ気で身体を動かし、何とか自分自身を引きずり戻した。あなたはまた意識を失う...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T121845Z" creationid="urakata" creationdate="20190331T071251Z">
+        <seg>力を振り絞り、死ぬ気で身体を動かし、何とか自分自身を引きずり戻した。あなたは再び意識を失う...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22185,8 +22185,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T033723Z" creationid="urakata" creationdate="20190331T071223Z">
-        <seg>敵はあなたが死んだと思って捨てて行ったようだ、それでもここでうかうかしてはいられない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T121824Z" creationid="urakata" creationdate="20190331T071223Z">
+        <seg>敵はあなたが死んだと思い、捨てて行ったようだ。それでもここでうかうかしてはいられない。</seg>
       </tuv>
     </tu>
     <tu>
