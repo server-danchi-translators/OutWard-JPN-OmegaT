@@ -9607,6 +9607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I lost my daughter on that voyage!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215238Z" creationid="seto" creationdate="20190404T215238Z">
+        <seg>この航海で私の娘は死んじまったんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I made the potion for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095841Z" creationid="rkmad" creationdate="20190403T095841Z">
@@ -16055,6 +16063,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Mob_NE_Call_To_Advent_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215436Z" creationid="seto" creationdate="20190404T215436Z">
+        <seg>Player_Mob_NE_Call_To_Advent_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Mob_NE_Call_To_Advent_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214925Z" creationid="seto" creationdate="20190404T214925Z">
@@ -20591,6 +20607,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This doesn't change the fact that I have no money right now and can't pay you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220015Z" creationid="seto" creationdate="20190404T220015Z">
+        <seg>それでも私には金がなくて、返済なんてできないことに変わりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This illness will eventually kill you.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135257Z" creationid="totochan" creationdate="20190403T135257Z">
@@ -22420,6 +22444,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T113630Z" creationid="pugnus" creationdate="20190404T113630Z">
         <seg>あなたは次に来るであろう、致命的な攻撃に身構える。が、それは来なかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You bring ruin to the tribe just like your grandmother!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215433Z" creationid="seto" creationdate="20190404T215344Z">
+        <seg>アンタの婆さんと一緒で不幸を呼ぶ人間なんだよ、アンタは！</seg>
       </tuv>
     </tu>
     <tu>
