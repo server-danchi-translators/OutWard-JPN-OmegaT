@@ -18595,6 +18595,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You vow to take better care of yourself in the future.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T074042Z" creationid="Horizon" creationdate="20190404T074042Z">
+        <seg>あなたは、もっと自分自身を大切にするように誓った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You wake from unconsciousness to see a bandit tying your hands together, and chaining you to a line of other prisoners.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T035507Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
