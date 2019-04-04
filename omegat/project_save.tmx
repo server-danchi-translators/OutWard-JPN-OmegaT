@@ -2730,6 +2730,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berg Streets</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112638Z" creationid="Gaiden Shinji" creationdate="20190404T112638Z">
+        <seg>バーグストリート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142501Z" creationid="urakata" creationdate="20190331T092853Z">
@@ -2838,6 +2846,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
         <seg>ブルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Chamber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112651Z" creationid="Gaiden Shinji" creationdate="20190404T112651Z">
+        <seg>ブルーチャンバー</seg>
       </tuv>
     </tu>
     <tu>
@@ -5812,6 +5828,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disassemble</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112910Z" creationid="Gaiden Shinji" creationdate="20190404T112910Z">
+        <seg>分解する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disassemble {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112919Z" creationid="Gaiden Shinji" creationdate="20190404T112919Z">
+        <seg> {1}を分解する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T060356Z" creationid="hiru4" creationdate="20190403T060356Z">
@@ -5992,6 +6024,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065506Z" creationid="rkmad" creationdate="20190404T065506Z">
         <seg>あなたのすべての攻撃によるダメージが2倍になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drag {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112733Z" creationid="Gaiden Shinji" creationdate="20190404T112733Z">
+        <seg>{1}をドラッグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,8 +6310,8 @@
       <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115057Z" creationid="setom" creationdate="20190401T115057Z">
-        <seg>決定</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112705Z" creationid="setom" creationdate="20190401T115057Z">
+        <seg>入る</seg>
       </tuv>
     </tu>
     <tu>
@@ -7916,6 +7956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grand Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112621Z" creationid="Gaiden Shinji" creationdate="20190404T112621Z">
+        <seg>グランドイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072147Z" creationid="rkmad" creationdate="20190403T072045Z">
@@ -8345,6 +8393,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114943Z" creationid="Gaiden Shinji" creationdate="20190403T114943Z">
         <seg>隠者の家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes’ Palace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112631Z" creationid="Gaiden Shinji" creationdate="20190404T112631Z">
+        <seg>英雄の宮殿</seg>
       </tuv>
     </tu>
     <tu>
@@ -9267,6 +9323,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091903Z" creationid="setom" creationdate="20190403T091903Z">
         <seg>InputAction_DialogueNext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112659Z" creationid="Gaiden Shinji" creationdate="20190404T112659Z">
+        <seg>インタラクト</seg>
       </tuv>
     </tu>
     <tu>
@@ -13039,6 +13103,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old Coin’s Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112647Z" creationid="Gaiden Shinji" creationdate="20190404T112647Z">
+        <seg>オールドコインズイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Hunter's Cabin</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112301Z" creationid="Gaiden Shinji" creationdate="20190404T112256Z">
@@ -15424,6 +15496,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revive {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112725Z" creationid="Gaiden Shinji" creationdate="20190404T112725Z">
+        <seg>復活{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rich Iron vein</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130610Z" creationid="Gaiden Shinji" creationdate="20190403T114231Z">
@@ -16608,6 +16688,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skin {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112715Z" creationid="Gaiden Shinji" creationdate="20190404T112715Z">
+        <seg>肌{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114153Z" creationid="setom" creationdate="20190401T114153Z">
@@ -16700,6 +16788,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164508Z" creationid="setom" creationdate="20190402T090405Z">
         <seg>宿屋やテントでの睡眠は疲れを取り、体力を回復します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slums</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112617Z" creationid="Gaiden Shinji" creationdate="20190404T112617Z">
+        <seg>スラム</seg>
       </tuv>
     </tu>
     <tu>
@@ -17174,6 +17270,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145728Z" creationid="Horizon" creationdate="20190403T145728Z">
         <seg>バッグを拾う/落とす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112748Z" creationid="Gaiden Shinji" creationdate="20190404T112748Z">
+        <seg>会話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to {NPCName}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112743Z" creationid="Gaiden Shinji" creationdate="20190404T112743Z">
+        <seg>{NPCName}と会話する</seg>
       </tuv>
     </tu>
     <tu>
@@ -18427,6 +18539,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111521Z" creationid="Gaiden Shinji" creationdate="20190404T111521Z">
         <seg>恐竜の巣と輝くアンデットが点在する花とホタルに照らされた。有毒な湿地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112822Z" creationid="Gaiden Shinji" creationdate="20190404T112822Z">
+        <seg>取引</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade with {NPCName}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112816Z" creationid="Gaiden Shinji" creationdate="20190404T112816Z">
+        <seg>{NPCName}と取引する</seg>
       </tuv>
     </tu>
     <tu>
