@@ -14839,6 +14839,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay 150 silver to Rissa within 5 days or you’ll lose your lighthouse in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133352Z" creationid="Light" creationdate="20190404T133352Z">
+        <seg>Cierzoのlighthouseを失いたくなければ、5日以内にRissaに150シルバーを支払う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay close attention to the alerts displayed on the bottom left.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112732Z" creationid="setom" creationdate="20190331T112732Z">
@@ -15587,6 +15595,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080411Z" creationid="rkmad" creationdate="20190404T080411Z">
         <seg>でも、どうか彼らを許してあげてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pocket</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133029Z" creationid="Light" creationdate="20190404T133029Z">
+        <seg>ポケット</seg>
       </tuv>
     </tu>
     <tu>
