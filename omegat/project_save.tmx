@@ -1791,6 +1791,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alemmon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113316Z" creationid="Gaiden Shinji" creationdate="20190404T113316Z">
+        <seg>アレモン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alienore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113321Z" creationid="Gaiden Shinji" creationdate="20190404T113321Z">
+        <seg>エイリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120055Z" creationid="setom" creationdate="20190401T120055Z">
@@ -2059,6 +2075,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064441Z" creationid="hiru4" creationdate="20190403T064441Z">
         <seg>再開しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Argenson’s Stash</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113424Z" creationid="Gaiden Shinji" creationdate="20190404T113424Z">
+        <seg>アルジャンソンの収納箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -2441,6 +2465,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balira</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113428Z" creationid="Gaiden Shinji" creationdate="20190404T113428Z">
+        <seg>バリラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balthazar Berthelot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113441Z" creationid="Gaiden Shinji" creationdate="20190404T113441Z">
+        <seg>バルタザール・ペルテロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bandages or Health Potions will do.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T101523Z" creationid="rkmad" creationdate="20190403T095339Z">
@@ -2669,6 +2709,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114905Z" creationid="Gaiden Shinji" creationdate="20190403T114905Z">
         <seg>盗賊刑務所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Barrel Man</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113448Z" creationid="Gaiden Shinji" creationdate="20190404T113448Z">
+        <seg>バレルマン</seg>
       </tuv>
     </tu>
     <tu>
@@ -4643,6 +4691,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113240Z" creationid="Gaiden Shinji" creationdate="20190404T113240Z">
+        <seg>クラフトアックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113254Z" creationid="Gaiden Shinji" creationdate="20190404T113254Z">
+        <seg>クラフトクレイモア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Great Hammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113237Z" creationid="Gaiden Shinji" creationdate="20190404T113237Z">
+        <seg>クラフトグレートハンマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Greataxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113245Z" creationid="Gaiden Shinji" creationdate="20190404T113245Z">
+        <seg>クラフトグレートアックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Mace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113230Z" creationid="Gaiden Shinji" creationdate="20190404T113230Z">
+        <seg>クラフトメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft Polearm</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113217Z" creationid="Gaiden Shinji" creationdate="20190404T113217Z">
@@ -4655,6 +4743,22 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113207Z" creationid="Gaiden Shinji" creationdate="20190404T113207Z">
         <seg>クラフトシールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113227Z" creationid="Gaiden Shinji" creationdate="20190404T113227Z">
+        <seg>クラフトスピア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113249Z" creationid="Gaiden Shinji" creationdate="20190404T113249Z">
+        <seg>クラフトソード</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,6 +8072,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113123Z" creationid="Gaiden Shinji" creationdate="20190404T113123Z">
         <seg>{1}へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold Belly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113455Z" creationid="Gaiden Shinji" creationdate="20190404T113455Z">
+        <seg>ゴールドベリー</seg>
       </tuv>
     </tu>
     <tu>
@@ -11940,6 +12052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Myriade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113359Z" creationid="Gaiden Shinji" creationdate="20190404T113359Z">
+        <seg>ミリアディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOT IN DB</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034800Z" creationid="setom" creationdate="20190401T034800Z">
@@ -13195,6 +13315,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112647Z" creationid="Gaiden Shinji" creationdate="20190404T112647Z">
         <seg>オールドコインズイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Coin’s Innkeeper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113556Z" creationid="Gaiden Shinji" creationdate="20190404T113556Z">
+        <seg>オールドコインズの主</seg>
       </tuv>
     </tu>
     <tu>
@@ -15612,6 +15740,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T155218Z" creationid="Horizon" creationdate="20190403T155218Z">
         <seg>RT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa Aberdeen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113309Z" creationid="Gaiden Shinji" creationdate="20190404T113309Z">
+        <seg>リッサ・アバディーン</seg>
       </tuv>
     </tu>
     <tu>
