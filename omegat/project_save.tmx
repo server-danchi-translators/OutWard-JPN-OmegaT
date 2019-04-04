@@ -15739,6 +15739,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The blood rushes to your head as you awaken upside down, cocooned by massive predatory bugs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T011111Z" creationid="はぐくみ会" creationdate="20190404T011111Z">
+        <seg>気が付くと身体が逆さまにされていた。血があなたの頭に流れて行く。大型の捕食性の虫により、あなたは繭に包まれていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creature must have saved you!</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061630Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
@@ -17175,6 +17183,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T070105Z" creationid="はぐくみ会" creationdate="20190403T065807Z">
         <seg>歯を食いしばり、あなたは安全のために自分を外に引きずり出すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With great difficulty, you free yourself and fall to the hive floor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T011338Z" creationid="はぐくみ会" creationdate="20190404T011338Z">
+        <seg>多大な努力を払って、あなたは自分を解放し、虫の巣の床に転がり落ちる。</seg>
       </tuv>
     </tu>
     <tu>
