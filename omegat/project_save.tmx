@@ -5486,8 +5486,8 @@
       <tuv lang="EN-US">
         <seg>Divine heroes walk among us, and for a brief moment, you were one of them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T080227Z" creationid="pugnus" creationdate="20190404T080227Z">
-        <seg>神の英雄は我々の間で歩く、そして、ほんのしばらくの間、あなたは彼らのうちの1人だった。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T095826Z" creationid="pugnus" creationdate="20190404T080227Z">
+        <seg>神の英雄は我々の間で歩く、そして、ほんのしばらくの間、あなたも彼ら神の英雄達の仲間だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,8 +18915,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You gave your mortal life so that another could live.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T080406Z" creationid="pugnus" creationdate="20190404T080406Z">
-        <seg>あなたは他人が生きることができるように、死を選んだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T100102Z" creationid="pugnus" creationdate="20190404T080406Z">
+        <seg>あなたは、他人が生きていけるように、あなたの生命を捧げた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19063,6 +19063,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052652Z" creationid="hiru4" creationdate="20190403T052652Z">
         <seg>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must defend yourself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T095723Z" creationid="pugnus" creationdate="20190404T095723Z">
+        <seg>あなたは自身を守らなければならない！</seg>
       </tuv>
     </tu>
     <tu>
