@@ -6524,6 +6524,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't make this violent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220313Z" creationid="seto" creationdate="20190404T220313Z">
+        <seg>乱暴しないでくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double all the Damage you deal.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065506Z" creationid="rkmad" creationdate="20190404T065506Z">
@@ -9847,6 +9855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can't make the payments you missed, we'll seize your home.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220342Z" creationid="seto" creationdate="20190404T220342Z">
+        <seg>払えないってんなら、アンタを家から追い出すしかないね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
@@ -12872,6 +12888,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T215025Z" creationid="seto" creationdate="20190404T215025Z">
         <seg>Mob_NE_Call_To_Advent_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220314Z" creationid="seto" creationdate="20190404T220314Z">
+        <seg>Mob_NE_Call_To_Advent_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -23198,8 +23222,8 @@ Rissa_NE_Call_To_A_13</seg>
       <tuv lang="EN-US">
         <seg>You think you can nip off for four months and not pay what you owe the tribe?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T122225Z" creationid="seto" creationdate="20190404T122225Z">
-        <seg>四か月間逃げれば部族への借りを返さずに済むとでも思ったか？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T220422Z" creationid="seto" creationdate="20190404T122225Z">
+        <seg>四か月も逃げれば部族への借りを返さずに済むとでも思ったか？</seg>
       </tuv>
     </tu>
     <tu>
