@@ -2764,8 +2764,8 @@
       <tuv lang="EN-US">
         <seg>Bring me one and I can show you how to use it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T015607Z" creationid="rkmad" creationdate="20190404T015607Z">
-        <seg>一つ持ってくるので、代わりに使い方を教えて貰えないか？</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T020926Z" creationid="rkmad" creationdate="20190404T015607Z">
+        <seg>お礼に使い方を教えてあげるから、短剣をひとつ持ってきてくれないか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7707,14 +7707,6 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015248Z" creationid="rkmad" creationdate="20190404T015248Z">
         <seg>もうこんな場所には居られない。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>I don’t care if you have to make one, I need one.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T015826Z" creationid="rkmad" creationdate="20190404T015826Z">
-        <seg>貴方がそれを必要としていようが、私には関係のないことだ。</seg>
       </tuv>
     </tu>
     <tu>
