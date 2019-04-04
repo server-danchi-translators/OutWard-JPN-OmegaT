@@ -9471,6 +9471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If Old Levant's claims are recognized, their dethroning could lead to war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T123548Z" creationid="magur0w" creationdate="20190404T123548Z">
+        <seg>Old Levantの要求が認められれば、彼らの悪党は戦争につながる恐れがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it has both, they are quadrupled instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T135944Z" creationid="Horizon" creationdate="20190403T134546Z">
@@ -10824,6 +10832,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115526Z" creationid="Gaiden Shinji" creationdate="20190404T115526Z">
         <seg>シメオン王</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>King Simeon and Queen Calixa are both beloved, not just in Abrassar, but also across the entirety of Aurai.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T122905Z" creationid="magur0w" creationdate="20190404T122905Z">
+        <seg>King SimeonとQueen Calixaはどちらも、AbrassarだけではなくAuraiの全体に愛されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13935,10 +13951,18 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old Levant are the remnants of the tribes that used to live in Abrassar before the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T115004Z" creationid="magur0w" creationdate="20190404T115004Z">
+        <seg>Old LevantはScourgeの前にAbrassarに住んでいた部族の名残です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Levant's claims to the Abrassar region, and Sirroco's land negotiations with the Hallowed Marsh Region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T114203Z" creationid="magur0w" creationdate="20190404T114203Z">
-        <seg>Old LevantのAbrassar地域に対する要求、SirrocoのHallowed Marsh地域との土地交渉</seg>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T114452Z" creationid="magur0w" creationdate="20190404T114203Z">
+        <seg>Old LevantのAbrassar地域に対する要求、SirrocoのHallowed Marsh地域との土地交渉だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14707,6 +14731,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130627Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
         <seg>パラジウム鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Particularly, one immense and vicious beast we called the Devourer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T122040Z" creationid="magur0w" creationdate="20190404T122040Z">
+        <seg>特に、1体の巨大で危険な獣を私たちはDevourerと呼びました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19414,6 +19446,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are contending with the current "Heroic Kingdom" of Levant, who were granted the region by Elatt's decree as reward for purging the region of the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T121255Z" creationid="magur0w" creationdate="20190404T121255Z">
+        <seg>彼らはLevantの現在、"Heroic Kingdom"と戦っています。彼らはElattの命令によりScourge地方一掃した報酬としてこの地域を賜りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are essential for explorers, and having multiple waterskins may be useful.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111816Z" creationid="setom" creationdate="20190331T111816Z">
@@ -19466,6 +19506,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112733Z" creationid="setom" creationdate="20190331T112733Z">
         <seg>武器の損耗や空腹などの場合に警告される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They wish to reclaim their land and to be considered the legitimate rulers of the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T115046Z" creationid="magur0w" creationdate="20190404T115019Z">
+        <seg>彼らは自分たちの土地を取り戻し、地域の正当な支配者と見なされることを望んでいる。</seg>
       </tuv>
     </tu>
     <tu>
