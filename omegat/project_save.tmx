@@ -1616,8 +1616,8 @@
       <tuv lang="EN-US">
         <seg>A quick check confirms the worst.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T001005Z" creationid="はぐくみ会" creationdate="20190404T001005Z">
-        <seg>素早く確認する。最悪の事態だ。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T001104Z" creationid="はぐくみ会" creationdate="20190404T001005Z">
+        <seg>素早く荷物の確認をする。最悪の事態だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7385,6 +7385,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T125545Z" creationid="setom" creationdate="20190402T165629Z">
         <seg>あいつはKaziteだぜ、 [PlayerName]。 しかも船で生まれたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s helped himself to a lot of your valuables.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T001222Z" creationid="はぐくみ会" creationdate="20190404T001222Z">
+        <seg>彼はあなたの貴重品の多くを”救助”してくれたようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15710,8 +15718,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The hooded man pilfering your belongings jumps to his feet and sprints away at an impressive pace with his two companions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T000853Z" creationid="はぐくみ会" creationdate="20190404T000853Z">
-        <seg>あなたの所有物をくすねているフードをかぶった男は、急に起き上がったあなたに驚き、彼の2人の仲間と逃げていく。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T001031Z" creationid="はぐくみ会" creationdate="20190404T000853Z">
+        <seg>あなたの所有物をくすねている、フードをかぶった男は、急に起き上がったあなたに驚き、彼の2人の仲間と逃げていく。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17929,6 +17937,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T110231Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
         <seg>傷跡は長く残りそうだ…。あなたは自身の無謀さを呪い、これからはもっと慎重になることを誓った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wonder how these criminals knew to find you out here...You sense that someone must have sent them after you, but who?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T002037Z" creationid="はぐくみ会" creationdate="20190404T002037Z">
+        <seg>彼らがあなたを偶然見つけることは可能だろうか…誰かが、あなたの後に彼らを仕向けたに違いないと確信する。しかし、いったい誰が？</seg>
       </tuv>
     </tu>
     <tu>
