@@ -7525,6 +7525,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He will judge whether or not you are prepared to face the outside world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T091550Z" creationid="rkmad" creationdate="20190404T091550Z">
+        <seg>あなたが外の世界に旅立つに相応しいかどうか、彼が判断してくれることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head armor which reduces the damage you receive.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083741Z" creationid="totochan" creationdate="20190402T083741Z">
@@ -12203,6 +12211,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
         <seg>Campfire Kitを持っていたら、所持品から使用してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you're ready to leave Cierzo, speak with Burac, the Gate Warden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T091520Z" creationid="rkmad" creationdate="20190404T091520Z">
+        <seg>シエルゾを離れる準備ができたら、Gate WardenのBuracと話してください。</seg>
       </tuv>
     </tu>
     <tu>
