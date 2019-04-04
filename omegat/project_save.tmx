@@ -1576,8 +1576,8 @@
       <tuv lang="EN-US">
         <seg>A corpse hanging from a gibbet passes your vision...As unconsciousness takes you, you know that you have been taken prisoner by the Montcalm Tribe...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T021728Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
-        <seg>絞首台からぶら下がっている死体が見える。Montcalm 族によって捕虜にされたようだ...</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T021826Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
+        <seg>絞首台からぶら下がっている死体が視界を横切り、また意識を失う。あなたは Montcalm 族によって捕虜にされたようだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12425,8 +12425,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T015032Z" creationid="urakata" creationdate="20190331T072041Z">
-        <seg>痛みによって目覚める。身体が痛みに震える。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T022636Z" creationid="urakata" creationdate="20190331T072041Z">
+        <seg>目を覚ますと、身体が痛みに震える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18061,8 +18061,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You have no doubt they intend for your corpse to join the others dangling outside!</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T065537Z" creationid="はぐくみ会" creationdate="20190403T065537Z">
-        <seg>彼らがあなたの死体を外にぶら下がっている他の人たちに加わえようと意図しているのは間違いありません！</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T022321Z" creationid="はぐくみ会" creationdate="20190403T065537Z">
+        <seg>彼らはあなたを、外にぶら下がっている死体に加わえようとしている！</seg>
       </tuv>
     </tu>
     <tu>
