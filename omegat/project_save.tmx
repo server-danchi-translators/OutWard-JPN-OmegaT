@@ -2762,6 +2762,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring me one and I can show you how to use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015607Z" creationid="rkmad" creationdate="20190404T015607Z">
+        <seg>一つ持ってくるので、代わりに使い方を教えて貰えないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bullets are required in your inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053719Z" creationid="hiru4" creationdate="20190403T053719Z">
@@ -7695,6 +7703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't take this place anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015248Z" creationid="rkmad" creationdate="20190404T015248Z">
+        <seg>もうこんな場所には居られない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have a bandage for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095825Z" creationid="rkmad" creationdate="20190403T095825Z">
@@ -7735,6 +7751,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need a new one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015506Z" creationid="rkmad" creationdate="20190404T015506Z">
+        <seg>それさえあれば・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015305Z" creationid="rkmad" creationdate="20190404T015305Z">
+        <seg>外に出たいのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need someone to cook meals for the warriors.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T010821Z" creationid="rkmad" creationdate="20190404T010821Z">
@@ -7763,6 +7795,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T100535Z" creationid="rkmad" creationdate="20190403T100535Z">
         <seg>あなたのおかげで、ここに居る囚人達の命が救われるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I want out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015255Z" creationid="rkmad" creationdate="20190404T015255Z">
+        <seg>出たい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10456,6 +10496,14 @@
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T000130Z" creationid="はぐくみ会" creationdate="20190404T000004Z">
         <seg>価値のある、よい物だよ。小さきヒトよ！” 巨人との同盟は、あなたの命を救ったようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My shiv’s broken...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T015539Z" creationid="rkmad" creationdate="20190404T015416Z">
+        <seg>でも、私の短剣は壊れてしまった・・・。</seg>
       </tuv>
     </tu>
     <tu>
