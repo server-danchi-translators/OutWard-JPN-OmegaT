@@ -9201,8 +9201,8 @@
       <tuv lang="EN-US">
         <seg>How could I possibly forget?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T085750Z" creationid="rkmad" creationdate="20190404T085750Z">
-        <seg>どうすれば、皆のその苦しみを忘れさせることができるのだろうか？</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125354Z" creationid="rkmad" creationdate="20190404T085750Z">
+        <seg>どうすれば、皆のその苦しみを忘れさせることができるのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9281,8 +9281,8 @@
       <tuv lang="EN-US">
         <seg>I can't possibly accomplish that!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T083150Z" creationid="rkmad" creationdate="20190404T083150Z">
-        <seg>私がそれを達成することは不可能だ！</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125231Z" creationid="rkmad" creationdate="20190404T083150Z">
+        <seg>それを達成することは難しい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,8 +9305,8 @@
       <tuv lang="EN-US">
         <seg>I doubt you'd be able to gather that much in such a short time just by staying in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190404T125002Z" creationid="rkmad" creationdate="20190404T090955Z">
-        <seg>ですが、たった5日をシエルゾの中で過ごして、150シルバーを集められるとは思えませんからね。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125433Z" creationid="rkmad" creationdate="20190404T090955Z">
+        <seg>ですが、たった5日をシエルゾの中で過ごして、150シルバーを集められるとは思えませんから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9561,16 +9561,16 @@
       <tuv lang="EN-US">
         <seg>If you think you can survive alone, out there in the wild, you have that right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T090341Z" creationid="rkmad" creationdate="20190404T090341Z">
-        <seg>もしあなたが村の外に出て一人で生きていけるというのであれば、あなたはその権利を持っています。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125406Z" creationid="rkmad" creationdate="20190404T090341Z">
+        <seg>もしあなたが村の外に出て一人で生きていけると言うのであれば、あなたはその権利を持っています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you understand, then get to work making that payment, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T085524Z" creationid="rkmad" creationdate="20190404T085524Z">
-        <seg>それを理解したなら、負債を支払うために働くのです。 [PlayerName]。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125323Z" creationid="rkmad" creationdate="20190404T085524Z">
+        <seg>それを理解したなら、負債を支払うために動き出しなさい。 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12854,8 +12854,8 @@
       <tuv lang="EN-US">
         <seg>Not a day goes by without someone reminding me!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T090215Z" creationid="rkmad" creationdate="20190404T090215Z">
-        <seg>村人が誰も私を思い出さない日などある訳がない！</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125337Z" creationid="rkmad" creationdate="20190404T090215Z">
+        <seg>村人が誰も私を思い出さない日など、ある訳がない！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18042,8 +18042,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Someone saw Troglodytes in there last night.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T083010Z" creationid="rkmad" creationdate="20190404T083010Z">
-        <seg>昨晩、Troglodytes を目撃したという者が居ました。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125211Z" creationid="rkmad" creationdate="20190404T083010Z">
+        <seg>昨晩、Troglodytesを目撃したという者が居ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20561,8 +20561,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We achieve more together than we do on our own.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T090510Z" creationid="rkmad" creationdate="20190404T090440Z">
-        <seg>そして何かを成し遂げるとき、一人よりも皆で行ったほうが良いということを。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125418Z" creationid="rkmad" creationdate="20190404T090440Z">
+        <seg>そして何かを成し遂げるとき、一人よりも皆で行ったほうが良いということもね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20868,8 +20868,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When your grandmother was Chamberlady, she turned away the followers of Elatt in our time of greatest need, forcing the tribe to pray only to the Five Winds for protection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T085103Z" creationid="rkmad" creationdate="20190404T085103Z">
-        <seg>あなたの祖母が Chamber に所属していた頃、彼女は私達が最も必要としていた時期に Elatt の信奉者達に背いたのです。そして、我々の守護の為に the Five Winds に祈るよう強制しました。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125310Z" creationid="rkmad" creationdate="20190404T085103Z">
+        <seg>あなたの祖母がChamberに所属していた頃、彼女は私達が最も必要としていた時期にElattの信奉者達に背いたのです。そして、我々の守護の為にthe Five Windsに祈るよう強制しました。</seg>
       </tuv>
     </tu>
     <tu>
