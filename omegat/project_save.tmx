@@ -2891,6 +2891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't you do something?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080625Z" creationid="rkmad" creationdate="20190404T080625Z">
+        <seg>私はこれからどうするべきだろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114847Z" creationid="setom" creationdate="20190401T114847Z">
@@ -7831,6 +7839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't believe they want to seize my home!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080603Z" creationid="rkmad" creationdate="20190404T080603Z">
+        <seg>私は彼らが私を家から追い出そうとしているとは信じたくない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't take this place anymore.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015248Z" creationid="rkmad" creationdate="20190404T015248Z">
@@ -7947,6 +7963,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015255Z" creationid="rkmad" creationdate="20190404T015255Z">
         <seg>出たい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm sorry you woke up to that, after what you’ve been through, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080818Z" creationid="rkmad" creationdate="20190404T080351Z">
+        <seg>すべてが終わった後に、あなたが目を覚ましたことを残念に思います。[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9680,6 +9704,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T012617Z" creationid="hiru4" creationdate="20190403T012617Z">
         <seg>マニュアルレシピにより、モンスターの部位を使って新しい武器の製造レシピの発見が可能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many of them have lost family and aren't thinking straight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080517Z" creationid="rkmad" creationdate="20190404T080428Z">
+        <seg>皆、家族を失いいまは冷静に物事を考えることができないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13355,6 +13387,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065024Z" creationid="hiru4" creationdate="20190403T065024Z">
         <seg>プレーヤーのコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, forgive them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T080411Z" creationid="rkmad" creationdate="20190404T080411Z">
+        <seg>でも、どうか彼らを許してあげてください。</seg>
       </tuv>
     </tu>
     <tu>
