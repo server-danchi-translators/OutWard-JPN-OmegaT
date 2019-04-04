@@ -19163,6 +19163,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You scramble to protect yourself from the ambush!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T094243Z" creationid="pugnus" creationdate="20190404T094243Z">
+        <seg>あなたは急いで移動する。自分の力で待ち伏せから身を守らなければ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You see it holding a book in its hands, as it lets out a quiet laugh.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040356Z" creationid="はぐくみ会" creationdate="20190403T061730Z">
@@ -19460,6 +19468,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063925Z" creationid="hiru4" creationdate="20190403T063925Z">
         <seg>名前は空白にできません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your rest is interrupted by the faintest of unnatural sounds!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T093824Z" creationid="pugnus" creationdate="20190404T093824Z">
+        <seg>あなたの休みは、不自然な、かすかな物音によって中断される！</seg>
       </tuv>
     </tu>
     <tu>
