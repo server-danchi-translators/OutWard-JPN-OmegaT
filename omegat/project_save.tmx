@@ -2063,6 +2063,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the Immaculates pounce on you without mercy, the ground beneath you crumbles, and you fall into darkness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T104719Z" creationid="pugnus" creationdate="20190404T104719Z">
+        <seg>Immaculates が容赦なくあなたに襲い掛かる。するとあなたの下の地面が崩壊し、そして、あなたは暗闇に落ちていった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042354Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
@@ -2927,6 +2935,14 @@
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041232Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
         <seg>あなたは囚人たちの列から離れている。あなた1人だけで。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By the time you pull yourself out, your foes seem to have regained their senses and fled the cave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T105137Z" creationid="pugnus" creationdate="20190404T105137Z">
+        <seg>あなたは自分自身を何とか引きずりだした頃には、Immaculates も彼らの感覚を取り戻し、洞穴から逃げていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17634,6 +17650,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042339Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
         <seg>それから彼らは陽気に旅館へと行く...彼らがあなたの命をどのように救い、支払いさえ要求しなかったと女の子たちに自慢するために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will no doubt be a danger to Monsoon in the future.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T105356Z" creationid="pugnus" creationdate="20190404T105356Z">
+        <seg>彼らは将来、Monsoon にとって危険な存在となるだろう。</seg>
       </tuv>
     </tu>
     <tu>
