@@ -1552,8 +1552,8 @@
       <tuv lang="EN-US">
         <seg>A Waterskin is required to gather water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062445Z" creationid="hiru4" creationdate="20190403T062445Z">
-        <seg>水を汲むには水袋が必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132357Z" creationid="hiru4" creationdate="20190403T062445Z">
+        <seg>水を汲むには水袋が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -1929,8 +1929,8 @@
       <tuv lang="EN-US">
         <seg>An infused weapon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T054309Z" creationid="hiru4" creationdate="20190403T054309Z">
-        <seg>装填済みの武器が必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132120Z" creationid="hiru4" creationdate="20190403T054309Z">
+        <seg>装填済みの武器が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -2916,8 +2916,8 @@
       <tuv lang="EN-US">
         <seg>Blessed Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T061333Z" creationid="hiru4" creationdate="20190403T060423Z">
-        <seg>Blessed Boonが必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132210Z" creationid="hiru4" creationdate="20190403T060423Z">
+        <seg>Blessed Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -3108,8 +3108,8 @@
       <tuv lang="EN-US">
         <seg>Bullets are required in your inventory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T053719Z" creationid="hiru4" creationdate="20190403T053719Z">
-        <seg>弾丸はあなたの所持品に必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132105Z" creationid="hiru4" creationdate="20190403T053719Z">
+        <seg>弾丸が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -4773,8 +4773,8 @@
       <tuv lang="EN-US">
         <seg>Cool Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T061318Z" creationid="hiru4" creationdate="20190403T060612Z">
-        <seg>Cool Boonが必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132213Z" creationid="hiru4" creationdate="20190403T060612Z">
+        <seg>Cool Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -4837,8 +4837,8 @@
       <tuv lang="EN-US">
         <seg>Could not open connection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091255Z" creationid="hiru4" creationdate="20190403T062214Z">
-        <seg>接続を開くことができませんでした。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132242Z" creationid="hiru4" creationdate="20190403T062214Z">
+        <seg>接続を開くことができませんでした</seg>
       </tuv>
     </tu>
     <tu>
@@ -6222,8 +6222,8 @@
       <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T060356Z" creationid="hiru4" creationdate="20190403T060356Z">
-        <seg>規律の恩恵が必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132125Z" creationid="hiru4" creationdate="20190403T060356Z">
+        <seg>規律の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -10282,8 +10282,8 @@
       <tuv lang="EN-US">
         <seg>It does not open from here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T053908Z" creationid="hiru4" creationdate="20190403T053908Z">
-        <seg>ここからでは開けません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132114Z" creationid="hiru4" creationdate="20190403T053908Z">
+        <seg>ここからでは開けません</seg>
       </tuv>
     </tu>
     <tu>
@@ -12390,8 +12390,8 @@
       <tuv lang="EN-US">
         <seg>Mist Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062056Z" creationid="hiru4" creationdate="20190403T062056Z">
-        <seg>Mist Boonが必要です。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132226Z" creationid="hiru4" creationdate="20190403T062056Z">
+        <seg>Mist Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -12830,8 +12830,8 @@
       <tuv lang="EN-US">
         <seg>No compatible melee weapon equipped.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062202Z" creationid="hiru4" creationdate="20190403T062202Z">
-        <seg>対応する近接武器を装備していません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132237Z" creationid="hiru4" creationdate="20190403T062202Z">
+        <seg>対応する近接武器を装備していません</seg>
       </tuv>
     </tu>
     <tu>
@@ -15025,8 +15025,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pistol is already infused.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062013Z" creationid="hiru4" creationdate="20190403T062013Z">
-        <seg>ピストルはすでに装填されています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132218Z" creationid="hiru4" creationdate="20190403T062013Z">
+        <seg>ピストルはすでに装填されています</seg>
       </tuv>
     </tu>
     <tu>
@@ -15625,8 +15625,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Possessed Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062034Z" creationid="hiru4" creationdate="20190403T062034Z">
-        <seg>Possessed Boonが必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132220Z" creationid="hiru4" creationdate="20190403T062034Z">
+        <seg>Possessed Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -15977,8 +15977,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rage Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T061347Z" creationid="hiru4" creationdate="20190403T054254Z">
-        <seg>Rage Boonが必要です。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132117Z" creationid="hiru4" creationdate="20190403T054254Z">
+        <seg>Rage Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -16290,8 +16290,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Requirements not met.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062358Z" creationid="hiru4" creationdate="20190403T062358Z">
-        <seg>要求が満たされていません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132252Z" creationid="hiru4" creationdate="20190403T062358Z">
+        <seg>要求が満たされていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -19256,8 +19256,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The item does not have enough durability.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091350Z" creationid="hiru4" creationdate="20190403T062345Z">
-        <seg>アイテムの耐久値が不足しています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132248Z" creationid="hiru4" creationdate="20190403T062345Z">
+        <seg>アイテムの耐久値が不足しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -20529,8 +20529,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Warm Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T061258Z" creationid="hiru4" creationdate="20190403T061258Z">
-        <seg>Warm Boonが必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132215Z" creationid="hiru4" creationdate="20190403T061258Z">
+        <seg>Warm Boonが必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -21004,8 +21004,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wind Altar is not activated in this region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T060413Z" creationid="hiru4" creationdate="20190403T060413Z">
-        <seg>風の祭壇は、この地域で活性化されていません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132207Z" creationid="hiru4" creationdate="20190403T060413Z">
+        <seg>風の祭壇は、この地域で活性化されていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21593,8 +21593,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You cannot do this now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091247Z" creationid="hiru4" creationdate="20190403T062151Z">
-        <seg>今その行動はできません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132233Z" creationid="hiru4" creationdate="20190403T062151Z">
+        <seg>今その行動はできません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21690,8 +21690,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You do not have the required training.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T080131Z" creationid="hiru4" creationdate="20190403T062140Z">
-        <seg>必要な訓練を受けていません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132231Z" creationid="hiru4" creationdate="20190403T062140Z">
+        <seg>必要な訓練を受けていません</seg>
       </tuv>
     </tu>
     <tu>
@@ -22674,8 +22674,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>has disconnected.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062248Z" creationid="hiru4" creationdate="20190403T062248Z">
-        <seg>切断されました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132246Z" creationid="hiru4" creationdate="20190403T062248Z">
+        <seg>切断されました</seg>
       </tuv>
     </tu>
     <tu>
@@ -22738,8 +22738,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{0}({1}) not active.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T053752Z" creationid="hiru4" creationdate="20190403T053752Z">
-        <seg>{0}({1})アクティブではありません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132107Z" creationid="hiru4" creationdate="20190403T053752Z">
+        <seg>{0}({1})アクティブではありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -22842,8 +22842,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} is already trying to go to a different area.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T053823Z" creationid="hiru4" creationdate="20190403T053823Z">
-        <seg>{1}は、別のエリアに移動しようとしています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132111Z" creationid="hiru4" creationdate="20190403T053823Z">
+        <seg>{1}は、別のエリアに移動しようとしています</seg>
       </tuv>
     </tu>
     <tu>
@@ -22914,8 +22914,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} must be empty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T052847Z" creationid="hiru4" creationdate="20190403T052847Z">
-        <seg>{1}空でなければなりません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132041Z" creationid="hiru4" creationdate="20190403T052847Z">
+        <seg>{1}空でなければなりません</seg>
       </tuv>
     </tu>
     <tu>
