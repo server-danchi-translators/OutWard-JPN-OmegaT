@@ -6716,6 +6716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either pay up, or get out of our way!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221223Z" creationid="seto" creationdate="20190404T221215Z">
+        <seg>金を払うか、潔く出ていくかだよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114134Z" creationid="Gaiden Shinji" creationdate="20190404T114134Z">
@@ -9857,8 +9865,8 @@
       <tuv lang="EN-US">
         <seg>If you can't make the payments you missed, we'll seize your home.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T220342Z" creationid="seto" creationdate="20190404T220342Z">
-        <seg>払えないってんなら、アンタを家から追い出すしかないね。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221032Z" creationid="seto" creationdate="20190404T220342Z">
+        <seg>払えないってんなら、アンタを家から追い出すしかない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17320,6 +17328,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>RissaMob_NE_Call_To_Advent_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221224Z" creationid="seto" creationdate="20190404T221224Z">
+        <seg>RissaMob_NE_Call_To_Advent_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_NE_Call_To_A_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214343Z" creationid="seto" creationdate="20190404T214343Z">
@@ -19997,8 +20013,8 @@ Rissa_NE_Call_To_A_13</seg>
       <tuv lang="EN-US">
         <seg>That ought to cover four months of ignoring your duty to the tribe!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T221022Z" creationid="seto" creationdate="20190404T221022Z">
-        <seg>四か月分、働くんだよ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221148Z" creationid="seto" creationdate="20190404T221022Z">
+        <seg>四か月分の埋め合わせをしな！</seg>
       </tuv>
     </tu>
     <tu>
@@ -20679,6 +20695,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a time for the tribe to come together and mourn our lost loved ones, not to demand payment from a survivor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221455Z" creationid="seto" creationdate="20190404T221455Z">
+        <seg>部族みんなで集まったのは、生き残った人に償いを求めるためじゃなくて、失った愛する人を追悼するため。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is dreadful news!</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183928Z" creationid="magur0w" creationdate="20190404T183928Z">
@@ -21140,6 +21164,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091552Z" creationid="setom" creationdate="20190403T091552Z">
         <seg>Tutorial_Leave_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Twelve people are dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221251Z" creationid="seto" creationdate="20190404T221251Z">
+        <seg>十二人が死んだのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24266,6 +24298,16 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1519_0</prop>
+      <tuv lang="EN-US">
+        <seg>Enough of this!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T221237Z" creationid="seto" creationdate="20190404T221237Z">
+        <seg>もう十分よ！</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
       <prop type="id">1598_0</prop>
