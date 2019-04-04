@@ -2756,8 +2756,8 @@
       <tuv lang="EN-US">
         <seg>Bring me nine meat stews as soon as humanly possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T010910Z" creationid="rkmad" creationdate="20190404T010910Z">
-        <seg>出来るだけ早く meat stew を9つ作れ。出来るだけ早くな </seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T010923Z" creationid="rkmad" creationdate="20190404T010910Z">
+        <seg>meat stew を9つ作れ。出来るだけ早くな。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,6 +7393,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170720Z" creationid="setom" creationdate="20190402T170116Z">
         <seg>後ろのカゴに入ってるパンでも食えば腹も膨らむだろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, the ingredients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T010941Z" creationid="rkmad" creationdate="20190404T010931Z">
+        <seg>材料はある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16567,6 +16575,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the stove to my left.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011048Z" creationid="rkmad" creationdate="20190404T010936Z">
+        <seg>すぐそばにある暖炉で作れ。手早くしろよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the survival crafting menu to combine the oil item and a lantern to refill it.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112801Z" creationid="setom" creationdate="20190331T112801Z">
@@ -17026,8 +17042,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What can I do to help you?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T010700Z" creationid="rkmad" creationdate="20190404T010700Z">
-        <seg>おい、囚人。お前、手は空いているのか？</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011139Z" creationid="rkmad" creationdate="20190404T010700Z">
+        <seg>おい、囚人。お前、手は空いているか？</seg>
       </tuv>
     </tu>
     <tu>
