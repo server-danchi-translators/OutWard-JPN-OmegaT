@@ -9141,8 +9141,8 @@
       <tuv lang="EN-US">
         <seg>It would seem that those Blue Chamber Scouts still uphold the tradition of not killing foes unless truly needed, or they mistook your for dead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T103429Z" creationid="pugnus" creationdate="20190404T103429Z">
-        <seg>Blue Chamber Scouts は敵を殺さない伝統を守り続けているようだ。または...彼らはあなたが死んだと勘違いしたのか。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103534Z" creationid="pugnus" creationdate="20190404T103429Z">
+        <seg>Blue Chamber Scouts は敵を殺さない伝統を守り続けているようだ。または...あなたが死んだと勘違いしたのか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19244,6 +19244,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040649Z" creationid="はぐくみ会" creationdate="20190403T062304Z">
         <seg>もう我慢できない、まさに、呼吸をする行為が困難になりつつある。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cough up sand as you stir from unconsciousness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T103728Z" creationid="pugnus" creationdate="20190404T103728Z">
+        <seg>意識が戻ると、あなたは砂を吐き出す。</seg>
       </tuv>
     </tu>
     <tu>
