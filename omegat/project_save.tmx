@@ -5316,6 +5316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know what we do to thieves in here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011313Z" creationid="rkmad" creationdate="20190404T011313Z">
+        <seg>お前のような奴をどう扱うか教えてやる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to continue?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064232Z" creationid="hiru4" creationdate="20190403T064118Z">
@@ -7196,6 +7204,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011459Z" creationid="rkmad" creationdate="20190404T011459Z">
+        <seg>おい、誰か居ないのか！こいつを捕まえろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hair Color</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113408Z" creationid="setom" creationdate="20190401T113408Z">
@@ -7651,6 +7667,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T010821Z" creationid="rkmad" creationdate="20190404T010821Z">
         <seg>仲間達の為の食事を作る手が足りないんだ。手を貸せ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think I lost the ingredients...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011212Z" creationid="rkmad" creationdate="20190404T011212Z">
+        <seg>材料が足りなくなりました・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -15970,6 +15994,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T234301Z" creationid="はぐくみ会" creationdate="20190403T234301Z">
         <seg>目を開くと、巨人の商人が大きな笑みであなたを迎える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then you're a thief.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011237Z" creationid="rkmad" creationdate="20190404T011237Z">
+        <seg>なんだと？　この泥棒め！</seg>
       </tuv>
     </tu>
     <tu>
