@@ -4389,8 +4389,8 @@
       <tuv lang="EN-US">
         <seg>Corrupted Ghosts surge from the Altar, their emergence blasting you away.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T094720Z" creationid="pugnus" creationdate="20190404T094720Z">
-        <seg>腐敗する幽霊が Altar より出現する。彼らの数は急増し、あなたを狙って攻撃してきた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T094759Z" creationid="pugnus" creationdate="20190404T094720Z">
+        <seg>腐敗する幽霊が Altar より出現する。彼らの数は急増し、あなたを狙い嵐のような攻撃を加えた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12283,6 +12283,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080825Z" creationid="rkmad" creationdate="20190403T080825Z">
         <seg>冒険者が愛用する、明るいオイルランタン。オイルが切れても、補充することで再利用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele drops to the floor, her veins turning a sick glowing green from the Corruption she absorbed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T095254Z" creationid="pugnus" creationdate="20190404T095254Z">
+        <seg>Oliele は床に落ち、彼女は腐敗の病気を吸収した。彼女の皮膚の下では血管が鮮やかな緑に輝きだす。</seg>
       </tuv>
     </tu>
     <tu>
