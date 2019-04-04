@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A promise is a promise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T054823Z" creationid="rkmad" creationdate="20190404T054823Z">
+        <seg>約束は約束だもの。使い方を教えてあげるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A quick check confirms that they’ve helped themselves to your pouch of money as repayment while they were at it!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T045705Z" creationid="pugnus" creationdate="20190404T045705Z">
@@ -2293,6 +2301,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095032Z" creationid="setom" creationdate="20190402T085706Z">
         <seg>バックパックは所持品の容量を増やしますが、ドッジロールが鈍重になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Backstabbing someone with one of these isn't too hard, here, let me show you...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T055359Z" creationid="rkmad" creationdate="20190404T055359Z">
+        <seg>相手の背後から短剣で一撃を食らわせればいいのよ。難しくないわ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,6 +7839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to escape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T055459Z" creationid="rkmad" creationdate="20190404T055459Z">
+        <seg>ここを脱出するわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think I lost the ingredients...</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011212Z" creationid="rkmad" creationdate="20190404T011212Z">
@@ -9152,6 +9176,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135650Z" creationid="totochan" creationdate="20190403T135650Z">
         <seg>ライトニングダメージと耐性[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listen, if you need something from someone here...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T054940Z" creationid="rkmad" creationdate="20190404T054940Z">
+        <seg>よく聞きなさい。もしあなたが、ここに居る誰かから何かを奪いたいなら・・・</seg>
       </tuv>
     </tu>
     <tu>
@@ -11723,6 +11755,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091306Z" creationid="setom" creationdate="20190403T091306Z">
         <seg>Notification_UnpluggedGamepad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now leave me alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T055423Z" creationid="rkmad" creationdate="20190404T055423Z">
+        <seg>もう私には構わないでちょうだい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16368,8 +16408,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This is what I need.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T022219Z" creationid="rkmad" creationdate="20190404T022219Z">
-        <seg>ああ、本当に短剣を持ってきてくれたのね</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T054730Z" creationid="rkmad" creationdate="20190404T022219Z">
+        <seg>ああ！本当に持ってきてくれたのね。</seg>
       </tuv>
     </tu>
     <tu>
