@@ -13623,6 +13623,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces the weapon's durability by 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T060110Z" creationid="rkmad" creationdate="20190404T060110Z">
+        <seg>使用時、武器の耐久度が5低下する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refreshed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
@@ -13724,6 +13732,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T074144Z" creationid="rkmad" creationdate="20190403T074144Z">
         <seg>Required: 1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: 2-Handed Axe High Damage and Impact strike that deals twice its Damage against knocked down foes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T060052Z" creationid="rkmad" creationdate="20190404T060052Z">
+        <seg>Required: 2-Handed Axe 高いダメージと衝撃を与える両手斧の一撃。相手がノックダウンしている場合、2倍のダメージを与えることができる。</seg>
       </tuv>
     </tu>
     <tu>
