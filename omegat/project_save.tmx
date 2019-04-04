@@ -9108,6 +9108,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loud screeches startle you awake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T003654Z" creationid="はぐくみ会" creationdate="20190404T003654Z">
+        <seg>騒々しい金切り声が響き、あなたは目覚める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MISSING DESC</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
@@ -18139,6 +18147,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T093207Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
         <seg>どれだけ長く気を失っていたのか...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve been dragged into a cave, surrounded by the lizards of the marsh, screeching and fighting one another for the right to feast on you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T004528Z" creationid="はぐくみ会" creationdate="20190404T004528Z">
+        <seg>あなたは洞窟に引きずり込まれた。そして、そこに住む沼地のトカゲ達は金切り声を上げ、あなたの周りで争っている。あなたを”満喫”する権利を得るために！</seg>
       </tuv>
     </tu>
     <tu>
