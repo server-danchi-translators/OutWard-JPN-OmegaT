@@ -6348,6 +6348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FoV Solo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T075831Z" creationid="Horizon" creationdate="20190404T075831Z">
+        <seg>シングルプレイ視野角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Follow the red line to learn about the game’s mechanics.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072352Z" creationid="setom" creationdate="20190401T072352Z">
@@ -13906,8 +13914,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T071818Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>Required: Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T075618Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>必要：Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
       </tuv>
     </tu>
     <tu>
