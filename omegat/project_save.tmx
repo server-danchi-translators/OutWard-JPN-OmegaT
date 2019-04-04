@@ -15700,6 +15700,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hooded man pilfering your belongings jumps to his feet and sprints away at an impressive pace with his two companions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T000853Z" creationid="はぐくみ会" creationdate="20190404T000853Z">
+        <seg>あなたの所有物をくすねているフードをかぶった男は、急に起き上がったあなたに驚き、彼の2人の仲間と逃げていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The innkeeper has helped himself to your Silver to pay for your stay, but you are otherwise alive and healthy.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T094502Z" creationid="はぐくみ会" creationdate="20190403T094502Z">
@@ -17839,6 +17847,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T105850Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
         <seg>あなたは上に Vigil クリスタルの1つを見つける...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You snap awake with a yelp, feeling someone reaching into your various pouches.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T000549Z" creationid="はぐくみ会" creationdate="20190404T000549Z">
+        <seg>あなたは小さく悲鳴を上げて目を覚ました。誰かがあなたのポケットや荷物をまさぐっている。</seg>
       </tuv>
     </tu>
     <tu>
