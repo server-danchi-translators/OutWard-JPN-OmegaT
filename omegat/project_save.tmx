@@ -2876,8 +2876,8 @@
       <tuv lang="EN-US">
         <seg>Bitterness still runs very deep in the tribe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T085445Z" creationid="rkmad" creationdate="20190404T085445Z">
-        <seg>村の人々には、まだその痛みと苦しみが根強く残っているのですね。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T124902Z" creationid="rkmad" creationdate="20190404T085445Z">
+        <seg>村の人々には、まだその痛みと苦しみが根強く残っているのですね</seg>
       </tuv>
     </tu>
     <tu>
@@ -3116,8 +3116,8 @@
       <tuv lang="EN-US">
         <seg>Burac, the gate warden, can teach you about surviving out in the wild.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T092259Z" creationid="rkmad" creationdate="20190404T092259Z">
-        <seg>門の守護者の Burac は、外で生き残るための様々なことを教えてくれるでしょう。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125048Z" creationid="rkmad" creationdate="20190404T092259Z">
+        <seg>門の守護者のBuracは、外で生き残るための様々なことを教えてくれるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,8 +7134,8 @@
       <tuv lang="EN-US">
         <seg>Eto is the Kazite Trainer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T092135Z" creationid="rkmad" creationdate="20190404T092122Z">
-        <seg>Eto は Kazite 出身の戦闘技術の使い手です。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125038Z" creationid="rkmad" creationdate="20190404T092122Z">
+        <seg>EtoはKazite 出身の戦闘技術の使い手です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9305,8 +9305,8 @@
       <tuv lang="EN-US">
         <seg>I doubt you'd be able to gather that much in such a short time just by staying in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T090955Z" creationid="rkmad" creationdate="20190404T090955Z">
-        <seg>たった5日をシエルゾの中で過ごして、150シルバーを集められるとは思えません。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125002Z" creationid="rkmad" creationdate="20190404T090955Z">
+        <seg>ですが、たった5日をシエルゾの中で過ごして、150シルバーを集められるとは思えませんからね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9425,8 +9425,8 @@
       <tuv lang="EN-US">
         <seg>I understand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T085340Z" creationid="rkmad" creationdate="20190404T085340Z">
-        <seg>分かっています。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T124833Z" creationid="rkmad" creationdate="20190404T085340Z">
+        <seg>・・・分かりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14033,8 +14033,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Once you're ready to leave Cierzo, speak with Burac, the Gate Warden.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T092218Z" creationid="rkmad" creationdate="20190404T091520Z">
-        <seg>シエルゾを離れる準備ができたら、門の守護者の Burac と話してください。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125011Z" creationid="rkmad" creationdate="20190404T091520Z">
+        <seg>シエルゾを離れる準備ができたら、門の守護者のBuracと話してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16098,8 +16098,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Remember, [PlayerName], you only have &lt;color=#00CCFF&gt;&lt;b&gt;5 days&lt;/b&gt;&lt;/color&gt; to pay me the 150 silver, or show me proof you have earned a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; .</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T091846Z" creationid="rkmad" creationdate="20190404T091846Z">
-        <seg>[PlayerName]、忘れないで。&lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。対価を支払うための150シルバーを集めるか、&lt;color=#00CCFF&gt;&lt;b&gt;村人の信頼を得るか&lt;/b&gt;&lt;/color&gt; のどちらをするにしてもです。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T125026Z" creationid="rkmad" creationdate="20190404T091846Z">
+        <seg>[PlayerName]、忘れないで。&lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。対価を支払うための150シルバーを集めるか、&lt;color=#00CCFF&gt;&lt;b&gt;村人の信頼を得るか&lt;/b&gt;&lt;/color&gt;のどちらをするにしてもです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19400,8 +19400,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then I will have to head outside the walls.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T090633Z" creationid="rkmad" creationdate="20190404T090633Z">
-        <seg>私は村の外へ出なくてはならない。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T124929Z" creationid="rkmad" creationdate="20190404T090633Z">
+        <seg>何にせよ、私は村の外へ出なくてはならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21521,8 +21521,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can't hold me responsible for things that are out of my control!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T083913Z" creationid="rkmad" creationdate="20190404T083913Z">
-        <seg>私の手に負えなかった問題に対して、私に責任を負わせることが許されるのか！</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190404T124820Z" creationid="rkmad" creationdate="20190404T083913Z">
+        <seg>私の手に負えなかった問題に対して、私に責任を負わせることが許されるのか！？</seg>
       </tuv>
     </tu>
     <tu>
