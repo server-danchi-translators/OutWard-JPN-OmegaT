@@ -1879,6 +1879,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All the money we made in Orochi is at the bottom of the bay!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215023Z" creationid="seto" creationdate="20190404T215023Z">
+        <seg>Orichiで稼いだ金は全部海の底にあるんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Already known</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025456Z" creationid="setom" creationdate="20190402T025456Z">
@@ -9399,6 +9407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I know you're not at fault?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215207Z" creationid="seto" creationdate="20190404T215207Z">
+        <seg>でもアンタがしくじったことなんて知ったこっちゃないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How in Elatt’s name did you end up here?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042506Z" creationid="はぐくみ会" creationdate="20190403T110023Z">
@@ -12844,6 +12860,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215025Z" creationid="seto" creationdate="20190404T215025Z">
+        <seg>Mob_NE_Call_To_Advent_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
@@ -16027,6 +16051,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214711Z" creationid="seto" creationdate="20190404T214711Z">
         <seg>Player_Mob_NE_Call_To_Advent_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Mob_NE_Call_To_Advent_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214925Z" creationid="seto" creationdate="20190404T214925Z">
+        <seg>Player_Mob_NE_Call_To_Advent_b_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -22101,6 +22133,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yeah, you were on that ship too, weren't you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T215114Z" creationid="seto" creationdate="20190404T215114Z">
+        <seg>ああ、そういえばアンタもその船に乗っていたねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yellow Copal</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114055Z" creationid="Gaiden Shinji" creationdate="20190403T114055Z">
@@ -22800,6 +22840,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042515Z" creationid="はぐくみ会" creationdate="20190403T112333Z">
         <seg>何時間も意識の外で彷徨い、やっとあなたは立ち直ることができた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You know I can't pay it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T214944Z" creationid="seto" creationdate="20190404T214944Z">
+        <seg>払えないことは分かってるだろ！</seg>
       </tuv>
     </tu>
     <tu>
