@@ -16078,6 +16078,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The medic declines payment, only saying “It’s been taken care of.” You’ve been out for days, but you’re still mostly in one piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T044748Z" creationid="pugnus" creationdate="20190404T044748Z">
+        <seg>衛生兵は支払いを受け取ることは無かった。”もう、支払いは済んでいます。”としか言わない。あなたはもう何日も外出していた。しかし、あなたの身体はどこも欠けていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The merchant does not have enough Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091406Z" creationid="hiru4" creationdate="20190403T052104Z">
