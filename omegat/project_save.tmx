@@ -7092,6 +7092,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella Sullivan gives you a little patronizing wave from nearby.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T112120Z" creationid="pugnus" creationdate="20190404T112120Z">
+        <seg>Gabriella Sullivan は、あなたに少し恩着せがましい態度を取る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game is closed and cannot be joined at the moment.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071059Z" creationid="hiru4" creationdate="20190403T071051Z">
@@ -20523,6 +20531,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T045941Z" creationid="pugnus" creationdate="20190404T045941Z">
         <seg>あなたの頭が痛み、流木に身体を預ける。あなたの身体は水に沈んでいく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your head throbs as you pull yourself up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T111915Z" creationid="pugnus" creationdate="20190404T111915Z">
+        <seg>あなたが起き上がると、頭がズキズキと痛む。</seg>
       </tuv>
     </tu>
     <tu>
