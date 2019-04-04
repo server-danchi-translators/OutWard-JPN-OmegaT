@@ -17515,6 +17515,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With great effort, you swim in the murky water until you see a ray of light...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T050809Z" creationid="pugnus" creationdate="20190404T050809Z">
+        <seg>あなたは一生懸命努力し泳ぐ。光を見るまで、暗い水の中を泳ぐ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T034125Z" creationid="urakata" creationdate="20190331T071251Z">
@@ -18644,6 +18652,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042709Z" creationid="はぐくみ会" creationdate="20190404T004528Z">
         <seg>あなたは洞窟に引きずり込まれた。そして、沼地のトカゲ達は金切り声を上げ、あなたの周りで争っている。あなたを「満喫」する権利を得るために！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve escaped the Fortress of Vendavel, but paid dearly for it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T050927Z" creationid="pugnus" creationdate="20190404T050927Z">
+        <seg>あなたは Vendavel の要塞を脱出したが、それに対してはかなりの支払いをした。</seg>
       </tuv>
     </tu>
     <tu>
