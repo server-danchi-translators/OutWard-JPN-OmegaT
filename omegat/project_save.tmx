@@ -1729,8 +1729,8 @@
       <tuv lang="EN-US">
         <seg>Abrassar Misc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111652Z" creationid="Gaiden Shinji" creationdate="20190404T111652Z">
-        <seg>アブラザール</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112125Z" creationid="Gaiden Shinji" creationdate="20190404T111652Z">
+        <seg>アブラザール周辺</seg>
       </tuv>
     </tu>
     <tu>
@@ -3789,8 +3789,8 @@
       <tuv lang="EN-US">
         <seg>Chersonese Misc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114810Z" creationid="Gaiden Shinji" creationdate="20190403T114810Z">
-        <seg>チェルソネシス</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112116Z" creationid="Gaiden Shinji" creationdate="20190403T114810Z">
+        <seg>チェルソネシス周辺</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,6 +5539,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damp Hunter's Cabin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112244Z" creationid="Gaiden Shinji" creationdate="20190404T112244Z">
+        <seg>Damp Hunter's のキャビン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Ziggurat</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115144Z" creationid="Gaiden Shinji" creationdate="20190403T115144Z">
@@ -6208,6 +6216,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114410Z" creationid="Gaiden Shinji" creationdate="20190403T114410Z">
         <seg>エンマーカルの森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enmerkar Misc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112108Z" creationid="Gaiden Shinji" creationdate="20190404T112108Z">
+        <seg>エンマーカル周辺</seg>
       </tuv>
     </tu>
     <tu>
@@ -10646,8 +10662,8 @@
       <tuv lang="EN-US">
         <seg>Marsh Misc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T103307Z" creationid="seto" creationdate="20190404T103307Z">
-        <seg>Marsh Misc.</seg>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112133Z" creationid="seto" creationdate="20190404T103307Z">
+        <seg>マーシュ周辺</seg>
       </tuv>
     </tu>
     <tu>
@@ -11680,6 +11696,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T063503Z" creationid="setom" creationdate="20190402T063503Z">
         <seg>Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Necropolis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112008Z" creationid="Gaiden Shinji" creationdate="20190404T112008Z">
+        <seg>ネクロポリス</seg>
       </tuv>
     </tu>
     <tu>
@@ -12907,6 +12931,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080825Z" creationid="rkmad" creationdate="20190403T080825Z">
         <seg>冒険者が愛用する、明るいオイルランタン。オイルが切れても、補充することで再利用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Hunter's Cabin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112301Z" creationid="Gaiden Shinji" creationdate="20190404T112256Z">
+        <seg>Old Hunter'sのキャビン</seg>
       </tuv>
     </tu>
     <tu>
@@ -19360,6 +19392,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042156Z" creationid="はぐくみ会" creationdate="20190403T084820Z">
         <seg>私たちの命令通りに働けば、おまえには食べ物と水をやろう。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worn Hunter's Cabin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112251Z" creationid="Gaiden Shinji" creationdate="20190404T112219Z">
+        <seg>Worn Hunter's のキャビン</seg>
       </tuv>
     </tu>
     <tu>
