@@ -19282,6 +19282,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
+        <seg>ありがとう、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That does seem like your most effective option, dangerous as it is.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090854Z" creationid="rkmad" creationdate="20190404T090854Z">
@@ -21270,6 +21278,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141453Z" creationid="setom" creationdate="20190402T141453Z">
         <seg>Yzan、ここはどこだ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where is Gabriella?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T181215Z" creationid="magur0w" creationdate="20190404T181215Z">
+        <seg>Gabriellaはどこだ?</seg>
       </tuv>
     </tu>
     <tu>
