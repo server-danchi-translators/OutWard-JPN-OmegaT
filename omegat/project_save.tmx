@@ -2764,8 +2764,8 @@
       <tuv lang="EN-US">
         <seg>Bring me one and I can show you how to use it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T020926Z" creationid="rkmad" creationdate="20190404T015607Z">
-        <seg>お礼に使い方を教えてあげるから、短剣をひとつ持ってきてくれないか。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T021622Z" creationid="rkmad" creationdate="20190404T015607Z">
+        <seg>そうだ。もし短剣を持ってきてくれれば、その使い方を教えてあげる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7485,6 +7485,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here’s your shiv.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T022113Z" creationid="rkmad" creationdate="20190404T022009Z">
+        <seg>望んでいた通り、短剣を持ってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hermit's House</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114943Z" creationid="Gaiden Shinji" creationdate="20190403T114943Z">
@@ -7707,6 +7715,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015248Z" creationid="rkmad" creationdate="20190404T015248Z">
         <seg>もうこんな場所には居られない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don’t care if you have to make one, I need one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T021954Z" creationid="rkmad" creationdate="20190404T021423Z">
+        <seg>どんなものでも気にしないから、作って持ってきて！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16302,6 +16318,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is what I need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T022219Z" creationid="rkmad" creationdate="20190404T022219Z">
+        <seg>ああ、本当に短剣を持ってきてくれたのね</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This location is safe.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
@@ -17276,6 +17300,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T065434Z" creationid="setom" creationdate="20190402T065434Z">
         <seg>この盾に掛けられた魔法は消えてしまっているが、素晴らしい細工は健在だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What’s your plan?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T022102Z" creationid="rkmad" creationdate="20190404T022102Z">
+        <seg>これだけで、脱出する方法があるのか？</seg>
       </tuv>
     </tu>
     <tu>
