@@ -20631,6 +20631,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very well, come back once you have something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T174748Z" creationid="magur0w" creationdate="20190404T174748Z">
+        <seg>よろしい、何か聞いたら戻ってきてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vigil</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112401Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
