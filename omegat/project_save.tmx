@@ -7590,6 +7590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hours later you wake up and break free of the bag, only to find yourself in a prison cell surrounded by deadly insects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T014214Z" creationid="はぐくみ会" creationdate="20190404T014214Z">
+        <seg>数時間後に目を覚ます。袋を破き、身体を自由にする。ここは牢屋だ。危険な昆虫に囲まれた牢屋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hours later, you awake to find yourself in a small hovel with an old man smoking a pipe, who smirks at you.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T061850Z" creationid="はぐくみ会" creationdate="20190403T061850Z">
@@ -17307,6 +17315,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With great effort, you manage to force the bolts on the door off and stumble out of the cell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T014610Z" creationid="はぐくみ会" creationdate="20190404T014610Z">
+        <seg>多大な労力を費やすことで、扉のネジを無理に押し、牢屋から飛び出ることができた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With great effort, you pull yourself free, and find yourself outside rough wooden walls.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T083941Z" creationid="はぐくみ会" creationdate="20190403T083941Z">
@@ -17820,6 +17836,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062649Z" creationid="hiru4" creationdate="20190403T062649Z">
         <seg>維持することができませんでした.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You cut the ropes that bind you on a nearby rock and prepare to make your escape!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T013422Z" creationid="はぐくみ会" creationdate="20190404T013422Z">
+        <seg>あなたと岩を結び付けている縄を切る。脱出だ！</seg>
       </tuv>
     </tu>
     <tu>
