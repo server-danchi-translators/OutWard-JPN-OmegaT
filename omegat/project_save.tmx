@@ -8444,6 +8444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to a city in the Enmerkar Forest, the Hallowed Marsh or the Abrassar desert to join a faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134303Z" creationid="Light" creationdate="20190404T134303Z">
+        <seg>Enmerkar Forest・Hallowed Marsh・Abrassar desertのいずれかの町で派閥に参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113123Z" creationid="Gaiden Shinji" creationdate="20190404T113123Z">
@@ -9543,6 +9551,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he’d been found sooner...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T133929Z" creationid="Light" creationdate="20190404T133929Z">
+        <seg>彼を早く見つけることができれば…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it has both, they are quadrupled instead.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T135944Z" creationid="Horizon" creationdate="20190403T134546Z">
@@ -9747,6 +9763,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
         <seg>良い装備の発見以外にも、各都市にいるトレーナーとの訓練でも強くなれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In cities, the location of important characters can be seen on the map.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134051Z" creationid="Light" creationdate="20190404T134051Z">
+        <seg>町では、重要な人物の位置を地図上で確認できる</seg>
       </tuv>
     </tu>
     <tu>
@@ -18590,6 +18614,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112748Z" creationid="Gaiden Shinji" creationdate="20190404T112748Z">
         <seg>会話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Oliele in the village of Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
+        <seg>Cierzoの村でOlieleと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Rissa in the village of Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T134005Z" creationid="Light" creationdate="20190404T134005Z">
+        <seg>Cierzoの村でRissaと話す</seg>
       </tuv>
     </tu>
     <tu>
