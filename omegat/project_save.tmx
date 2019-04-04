@@ -14159,6 +14159,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once I'm done I'll meet you at the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T172607Z" creationid="magur0w" creationdate="20190404T172607Z">
+        <seg>終わったらBlue Chamberで会おう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once applied, theses changes will be permanent.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064251Z" creationid="hiru4" creationdate="20190403T064251Z">
