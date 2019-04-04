@@ -16627,6 +16627,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bustle of the Levantine Palace rouses you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T100746Z" creationid="pugnus" creationdate="20190404T100746Z">
+        <seg>Levantine 宮殿のざわめきが、あなたを目覚めさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creature must have saved you!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040306Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
