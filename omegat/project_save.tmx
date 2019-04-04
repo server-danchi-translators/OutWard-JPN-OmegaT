@@ -7356,6 +7356,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find someone who can help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T125834Z" creationid="Light" creationdate="20190404T125834Z">
+        <seg>助けてくれる人を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114706Z" creationid="setom" creationdate="20190401T114706Z">
@@ -10710,8 +10718,8 @@
       <tuv lang="EN-US">
         <seg>I’m lucky to still be breathing after our ship hit rocks on the return voyage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T104112Z" creationid="setom" creationdate="20190402T104112Z">
-        <seg>帰航の際に船が座礁したのだ。私がまだ息をしているのが僅かながらの幸運だろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T125155Z" creationid="setom" creationdate="20190402T104112Z">
+        <seg>帰航の際に船が座礁したのだ。僅かながら幸運なのは、私がまだ息をしていることだった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12646,8 +12654,8 @@
       <tuv lang="EN-US">
         <seg>My grandmother brought ruin to our tribe long ago, bringing a heavy Blood Price upon my family.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T112054Z" creationid="setom" creationdate="20190402T103441Z">
-        <seg>祖母が過去に部族を没落させ、一族に重いBlood Priceをもたらしたのだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T125600Z" creationid="setom" creationdate="20190402T103441Z">
+        <seg>祖母が過去に部族を没落させ、一族に重い「血の代償」をもたらしたのだ。</seg>
       </tuv>
     </tu>
     <tu>
