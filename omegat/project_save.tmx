@@ -19710,6 +19710,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is enough frustration in this room that I can’t tell where trouble might come from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T175805Z" creationid="magur0w" creationdate="20190404T175805Z">
+        <seg>この部屋にはどこからやってくるか分からない程のフラストレーションが溜まっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is not enough room in {1} to store everything.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053734Z" creationid="hiru4" creationdate="20190403T053734Z">
