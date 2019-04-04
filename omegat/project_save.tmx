@@ -1592,8 +1592,8 @@
       <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T055856Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
-        <seg>鞭によりあなたの腕は叩きつけられ、夜通し走るように命じられる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035539Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
+        <seg>鞭であなたの腕は叩きつけられ、夜通し走るように命じられる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8853,8 +8853,8 @@
       <tuv lang="EN-US">
         <seg>It’s hard work, but eventually you succeed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T111205Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
-        <seg>それは大変な仕事だが、結局あなたは成功した。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035719Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
+        <seg>それは大変な仕事だが、結局のところ、あなたは成功した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8869,8 +8869,8 @@
       <tuv lang="EN-US">
         <seg>It’s time to make your escape!</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060619Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
-        <seg>脱出する時が来た！
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035728Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
+        <seg>さあ、脱出する時が来た！
 </seg>
       </tuv>
     </tu>
@@ -16088,8 +16088,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The miserable cries of your fellow prisoners fill the air as you are shoved into iron cages, and left to stew in total darkness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T060702Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
-        <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んでシチューにするために。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035632Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
+        <seg>仲間の囚人の悲惨な叫び声は、鉄の檻の中に押し込まれるにつれて空気を満たし、そしてあなたは完全な暗闇の中で残された。煮込んで、シチューにするために。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18035,8 +18035,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You get to work on forcing the bolts off the prison door.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020048Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
-        <seg>あなたは仕事を得る。鉄の檻の扉からネジを無理矢理にでも押し出す仕事を。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035707Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
+        <seg>あなたは、仕事を得る。鉄の檻の扉からネジを無理矢理にでも押し出す仕事を。
 </seg>
       </tuv>
     </tu>
@@ -18325,8 +18325,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake from unconsciousness to see a bandit tying your hands together, and chaining you to a line of other prisoners.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T015947Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
-        <seg>あなたは目覚め、そして気付く。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035507Z" creationid="はぐくみ会" creationdate="20190403T055749Z">
+        <seg>あなたは目覚め、そして気付いた。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
 </seg>
       </tuv>
     </tu>
@@ -18440,8 +18440,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your captors run you and the others ragged until their camp finally enters your vision...</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T020011Z" creationid="はぐくみ会" creationdate="20190403T060137Z">
-        <seg>捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、ついに、あなたの視界に盗賊たちの野営地が...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T035554Z" creationid="はぐくみ会" creationdate="20190403T060137Z">
+        <seg>捕獲者はあなたを走らせる。あなたと他の囚人たちはふらふらと走る。そして、あなたの視界に盗賊たちの野営地が...</seg>
       </tuv>
     </tu>
     <tu>
