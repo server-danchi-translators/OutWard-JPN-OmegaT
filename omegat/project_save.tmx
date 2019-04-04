@@ -1801,8 +1801,8 @@
       <tuv lang="EN-US">
         <seg>An Ash giant speaks in a rough, incomprehensible language as he tends to you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T005130Z" creationid="はぐくみ会" creationdate="20190404T005130Z">
-        <seg>Ash giant は、あなたに気を使っているのか荒々しい、あなたには理解できない言語で話している。</seg>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T005409Z" creationid="はぐくみ会" creationdate="20190404T005130Z">
+        <seg>Ash giant は、荒々しい、あなたには理解できない言語で話している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,6 +5408,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135801Z" creationid="totochan" creationdate="20190403T135801Z">
         <seg>酩酊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dull aches wake you from your days-long comatose state.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T005606Z" creationid="はぐくみ会" creationdate="20190404T005606Z">
+        <seg>鈍い痛みに目が覚める。長い間、昏睡していたようだ。</seg>
       </tuv>
     </tu>
     <tu>
