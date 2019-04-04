@@ -1855,6 +1855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An aide informs you that the Queen wishes to reward your service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T101406Z" creationid="pugnus" creationdate="20190404T101406Z">
+        <seg>補佐官は、女王があなたに褒章を与えることを望んでいるとあなたに知らせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An infused weapon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T054309Z" creationid="hiru4" creationdate="20190403T054309Z">
@@ -19239,6 +19247,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042454Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
         <seg>あなたは上に Vigil クリスタルの1つを見つける...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should speak with her once you’ve recovered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T101525Z" creationid="pugnus" creationdate="20190404T101525Z">
+        <seg>あなたは怪我から回復したら、女王と話すべきだ。</seg>
       </tuv>
     </tu>
     <tu>
