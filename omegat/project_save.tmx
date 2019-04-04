@@ -9455,6 +9455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found his body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T183429Z" creationid="magur0w" creationdate="20190404T183429Z">
+        <seg>彼の体を見つけた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have a bandage for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095825Z" creationid="rkmad" creationdate="20190403T095825Z">
@@ -19610,6 +19618,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132248Z" creationid="hiru4" creationdate="20190403T062345Z">
         <seg>アイテムの耐久値が不足しています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The kidnappers shot him and left him for the animals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T183552Z" creationid="magur0w" creationdate="20190404T183552Z">
+        <seg>誘拐犯は彼を撃ち、動物のために置いて行った。</seg>
       </tuv>
     </tu>
     <tu>
