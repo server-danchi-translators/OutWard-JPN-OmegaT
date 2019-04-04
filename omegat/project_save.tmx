@@ -7132,6 +7132,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fortunately, they ignore you as you free yourself from the stake and arm yourself for another round!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T113343Z" creationid="pugnus" creationdate="20190404T113343Z">
+        <seg>幸いにも、あなたがその身を杭から解放しても、彼らはあなたを無視している！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, your rest goes without incident and you feel better prepared for the day ahead.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T093658Z" creationid="pugnus" creationdate="20190404T093658Z">
@@ -20306,8 +20314,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You come to, tied to a stake not far from the outpost, left for the beasts and Burning Men to finish off.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T112806Z" creationid="pugnus" creationdate="20190404T112806Z">
-        <seg>あなたは、前哨基地からそれほど遠くない杭に縛られて、獣とバーニングマンが終わるために去った。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T113235Z" creationid="pugnus" creationdate="20190404T112806Z">
+        <seg>あなたは、前哨基地からそれほど遠くない杭に縛られている。獣と Burning Men はあなたが死んだとものとしているようだ。</seg>
       </tuv>
     </tu>
     <tu>
