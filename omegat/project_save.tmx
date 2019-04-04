@@ -14097,8 +14097,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Only your aching body tells you that the shipwreck you suffered was not a nightmare.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042446Z" creationid="はぐくみ会" creationdate="20190403T104233Z">
-        <seg>あなたの痛む肉体だけが、あの破滅は悪夢ではなかったとあなたに伝える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131410Z" creationid="はぐくみ会" creationdate="20190403T104233Z">
+        <seg>私の体の痛みだけが、あの事故が悪夢ではなかったことを教えてくる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16113,8 +16113,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Relief floods you as you recognize where you are.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042407Z" creationid="はぐくみ会" creationdate="20190403T103811Z">
-        <seg>自分がどこにいるかを認識し、あなたは救済されたのだと安堵した。
+      <tuv lang="JA" changeid="Light" changedate="20190404T130434Z" creationid="はぐくみ会" creationdate="20190403T103811Z">
+        <seg>自分がどこにいるかを認識し、私は助かったのだと安堵した。
 </seg>
       </tuv>
     </tu>
@@ -16332,6 +16332,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023052Z" creationid="hiru4" creationdate="20190402T023052Z">
         <seg>解像度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rest in one of the campsite’s bedrolls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190404T130247Z" creationid="Light" creationdate="20190404T130247Z">
+        <seg>キャンプ場の寝具で休む</seg>
       </tuv>
     </tu>
     <tu>
@@ -20121,8 +20129,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unconsciousness comes quickly, and you dream of being ensnared in something.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042430Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
-        <seg>瞬く間に意識は遠のく。そして、あなたは何かに襲われる夢を見る。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T130321Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
+        <seg>瞬く間に意識は遠のく。そして、私は何かに襲われる夢を見た。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20281,8 +20289,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Using this skill destroys the lantern.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135813Z" creationid="Horizon" creationdate="20190403T133428Z">
-        <seg>このスキルを使用するとランタンが壊れる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131433Z" creationid="Horizon" creationdate="20190403T133428Z">
+        <seg>このスキルを使用するとランタンを失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21020,8 +21028,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With a yelp, you jump out of your bed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042403Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
-        <seg>小さな悲鳴とともに、あなたはベッドから飛び出す。
+      <tuv lang="JA" changeid="Light" changedate="20190404T130405Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
+        <seg>小さな悲鳴とともに、ベッドから飛び出す。
 </seg>
       </tuv>
     </tu>
@@ -21190,8 +21198,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are back in your old bed at home, the Lighthouse in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042442Z" creationid="はぐくみ会" creationdate="20190403T104028Z">
-        <seg>あなたは家の古いベッド、Cierzo の Lighthouse に戻った。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T130854Z" creationid="はぐくみ会" creationdate="20190403T104028Z">
+        <seg>私は自宅であるCierzo の Lighthouse に戻っていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22458,8 +22466,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yzan must have brought you back to your family’s lighthouse.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042444Z" creationid="はぐくみ会" creationdate="20190403T104154Z">
-        <seg>Yzan は、あなたをあなたの家族のいる lighthouse に連れ戻したのだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T131100Z" creationid="はぐくみ会" creationdate="20190403T104154Z">
+        <seg>Yzan が、私の家族のもとへ連れ戻してくれたのだ。</seg>
       </tuv>
     </tu>
     <tu>
