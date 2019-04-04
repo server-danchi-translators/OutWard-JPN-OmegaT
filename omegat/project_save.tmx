@@ -18134,6 +18134,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your injuries and needs have been seen to, and you have been returned to your home in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T010001Z" creationid="はぐくみ会" creationdate="20190404T010001Z">
+        <seg>あなたは手当てをされており、Monsoon の家に戻されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your journey ends at a broken old cell whose door has long since fallen away.</seg>
       </tuv>
       <tuv lang="JA" changeid="はぐくみ会" changedate="20190403T091838Z" creationid="はぐくみ会" creationdate="20190403T091709Z">
