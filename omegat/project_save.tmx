@@ -17082,6 +17082,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whoever tended to you left no sign of their identity, nor have they taken payment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T010441Z" creationid="はぐくみ会" creationdate="20190404T010441Z">
+        <seg>あなたを救助した者達は身元が分かる痕跡やサインを残さず去っていた。支払いも求めることなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wild beasts drop body parts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
