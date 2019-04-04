@@ -20215,6 +20215,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You brace yourself for the killing blow, but it does not come.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T113630Z" creationid="pugnus" creationdate="20190404T113630Z">
+        <seg>あなたは次に来るであろう、致命的な攻撃に身構える。が、それは来なかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also move away from attacks by holding [InputAction_Sprint] to Sprint.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075409Z" creationid="setom" creationdate="20190401T075724Z">
