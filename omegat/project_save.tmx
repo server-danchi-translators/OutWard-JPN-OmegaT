@@ -2235,8 +2235,8 @@
       <tuv lang="EN-US">
         <seg>As your eyes open, you find yourself propped up against a wall at the gates of Monsoon, safe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042352Z" creationid="はぐくみ会" creationdate="20190403T102724Z">
-        <seg>あなたの目が開くと、あなたは自分自身が Monsoon の門の壁に支えられていることに気づくだろう。無事なようだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T105740Z" creationid="はぐくみ会" creationdate="20190403T102724Z">
+        <seg>目を開けると、体が Monsoon の門の壁にもたれかかっていることに気づく。無事に済んだようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3159,6 +3159,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025330Z" creationid="hiru4" creationdate="20190402T022122Z">
         <seg>カメラ感度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camping_Ambush</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T111936Z" creationid="seto" creationdate="20190404T111936Z">
+        <seg>Camping_Ambush</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Camping_NoEvent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T111935Z" creationid="seto" creationdate="20190404T111935Z">
+        <seg>Camping_NoEvent</seg>
       </tuv>
     </tu>
     <tu>
@@ -5383,6 +5399,30 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T105104Z" creationid="seto" creationdate="20190404T105104Z">
         <seg>DS_3120_HMQ4_TrueDeath_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_3120_HMQ4_TrueDeath_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T111931Z" creationid="seto" creationdate="20190404T111931Z">
+        <seg>DS_3120_HMQ4_TrueDeath_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_3120_HMQ4_TrueDeath_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T111933Z" creationid="seto" creationdate="20190404T111933Z">
+        <seg>DS_3120_HMQ4_TrueDeath_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_3120_HMQ4_TrueDeath_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T111934Z" creationid="seto" creationdate="20190404T111934Z">
+        <seg>DS_3120_HMQ4_TrueDeath_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -11924,6 +11964,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T112248Z" creationid="seto" creationdate="20190404T112248Z">
+        <seg>Mob_NE_Call_To_Advent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Model Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
@@ -12174,8 +12222,8 @@
       <tuv lang="EN-US">
         <seg>My grandmother brought ruin to our tribe long ago, bringing a heavy Blood Price upon my family.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T124831Z" creationid="setom" creationdate="20190402T103441Z">
-        <seg>祖母が過去に部族を没落させ、一族の血の価値も酷く落としたのだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T112054Z" creationid="setom" creationdate="20190402T103441Z">
+        <seg>祖母が過去に部族を没落させ、一族に重いBlood Priceをもたらしたのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19834,8 +19882,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We’ve paid the debt caused by her actions ever since.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T103622Z" creationid="setom" creationdate="20190402T103544Z">
-        <seg>それ以来、我々はその責任として借金を払わされ続けている。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190404T112113Z" creationid="setom" creationdate="20190402T103544Z">
+        <seg>それ以来、我々はその責任をとり借金を払わされ続けている。</seg>
       </tuv>
     </tu>
     <tu>
