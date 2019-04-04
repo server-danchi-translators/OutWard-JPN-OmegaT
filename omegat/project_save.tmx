@@ -19283,6 +19283,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should hurry if you intend to stop them!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T102923Z" creationid="pugnus" creationdate="20190404T102923Z">
+        <seg>もしあなたがそれらを止めるつもりならば、急ぐべきだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should speak with her once you’ve recovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T101525Z" creationid="pugnus" creationdate="20190404T101525Z">
