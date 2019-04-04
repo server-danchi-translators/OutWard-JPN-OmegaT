@@ -8151,6 +8151,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can do a great deed for someone in Cierzo, we will owe you a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;, which I will accept as a substitute for your payment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T091446Z" creationid="rkmad" creationdate="20190404T091446Z">
+        <seg>もしあなたがシエルゾの誰かの為に素晴らしい行いを出来たなら、150シルバーを支払うことなく、その見返りとして&lt;color=#00CCFF&gt;&lt;b&gt;村人達の信頼&lt;/b&gt;&lt;/color&gt;を得られるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
