@@ -21178,6 +21178,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will I see you there?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T171657Z" creationid="magur0w" creationdate="20190404T171657Z">
+        <seg>そこで会える?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wind Altar is not activated in this region.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132207Z" creationid="hiru4" creationdate="20190403T060413Z">
