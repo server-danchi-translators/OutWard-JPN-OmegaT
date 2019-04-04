@@ -2425,6 +2425,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandit_Acolyte</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103323Z" creationid="seto" creationdate="20190404T103323Z">
+        <seg>Bandit_Acolyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bandit_Desert_Archer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T122141Z" creationid="setom" creationdate="20190403T122141Z">
@@ -7324,6 +7332,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giant_Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103324Z" creationid="seto" creationdate="20190404T103324Z">
+        <seg>Giant_Guard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giant_Plate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103325Z" creationid="seto" creationdate="20190404T103325Z">
+        <seg>Giant_Plate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giant_Priest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103326Z" creationid="seto" creationdate="20190404T103326Z">
+        <seg>Giant_Priest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giants’ Village</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115129Z" creationid="Gaiden Shinji" creationdate="20190403T115129Z">
@@ -7336,6 +7368,38 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
         <seg>メニューに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golem_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103326Z" creationid="seto" creationdate="20190404T103326Z">
+        <seg>Golem_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golem_Beast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103327Z" creationid="seto" creationdate="20190404T103327Z">
+        <seg>Golem_Beast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golem_Forge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103327Z" creationid="seto" creationdate="20190404T103327Z">
+        <seg>Golem_Forge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golem_ForgeRedHot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103328Z" creationid="seto" creationdate="20190404T103328Z">
+        <seg>Golem_ForgeRedHot</seg>
       </tuv>
     </tu>
     <tu>
@@ -7841,6 +7905,30 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015135Z" creationid="rkmad" creationdate="20190404T015037Z">
         <seg>その間に、この忌々しい穴ぐらから抜け出せるだけの鉄が見つけられることを願うよ・・・</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horror_Illuminator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103329Z" creationid="seto" creationdate="20190404T103329Z">
+        <seg>Horror_Illuminator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horror_Immaculate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103329Z" creationid="seto" creationdate="20190404T103329Z">
+        <seg>Horror_Immaculate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horror_Shell</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103330Z" creationid="seto" creationdate="20190404T103330Z">
+        <seg>Horror_Shell</seg>
       </tuv>
     </tu>
     <tu>
@@ -10072,6 +10160,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112703Z" creationid="Gaiden Shinji" creationdate="20190403T110441Z">
         <seg>マーシュ隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Misc.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103307Z" creationid="seto" creationdate="20190404T103307Z">
+        <seg>Marsh Misc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,10 +15256,250 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103244Z" creationid="seto" creationdate="20190404T103244Z">
+        <seg>Scene_Chersonese_DungeonsSmall5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103245Z" creationid="seto" creationdate="20190404T103245Z">
+        <seg>Scene_Chersonese_DungeonsSmall6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103246Z" creationid="seto" creationdate="20190404T103246Z">
+        <seg>Scene_Chersonese_DungeonsSmall7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103246Z" creationid="seto" creationdate="20190404T103246Z">
+        <seg>Scene_Chersonese_DungeonsSmall8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Chersonese_DungeonsSmall9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103247Z" creationid="seto" creationdate="20190404T103247Z">
+        <seg>Scene_Chersonese_DungeonsSmall9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Chersonese_DungeonsSmallDesc</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130946Z" creationid="setom" creationdate="20190403T130946Z">
         <seg>Scene_Chersonese_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_CierzoDungeon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103251Z" creationid="seto" creationdate="20190404T103251Z">
+        <seg>Scene_CierzoDungeon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_CierzoDungeonDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103252Z" creationid="seto" creationdate="20190404T103252Z">
+        <seg>Scene_CierzoDungeonDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Cierzo_Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103248Z" creationid="seto" creationdate="20190404T103248Z">
+        <seg>Scene_Cierzo_Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Cierzo_OpenDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103249Z" creationid="seto" creationdate="20190404T103249Z">
+        <seg>Scene_Cierzo_OpenDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Cierzo_Town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103249Z" creationid="seto" creationdate="20190404T103249Z">
+        <seg>Scene_Cierzo_Town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Cierzo_TownDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103250Z" creationid="seto" creationdate="20190404T103250Z">
+        <seg>Scene_Cierzo_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103253Z" creationid="seto" creationdate="20190404T103253Z">
+        <seg>Scene_Hallowed_Dungeon1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon1Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103254Z" creationid="seto" creationdate="20190404T103254Z">
+        <seg>Scene_Hallowed_Dungeon1Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103255Z" creationid="seto" creationdate="20190404T103255Z">
+        <seg>Scene_Hallowed_Dungeon2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon2Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103256Z" creationid="seto" creationdate="20190404T103256Z">
+        <seg>Scene_Hallowed_Dungeon2Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103257Z" creationid="seto" creationdate="20190404T103257Z">
+        <seg>Scene_Hallowed_Dungeon3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon3Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103259Z" creationid="seto" creationdate="20190404T103259Z">
+        <seg>Scene_Hallowed_Dungeon3Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103300Z" creationid="seto" creationdate="20190404T103300Z">
+        <seg>Scene_Hallowed_Dungeon4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon4Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103302Z" creationid="seto" creationdate="20190404T103302Z">
+        <seg>Scene_Hallowed_Dungeon4Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon4_Interior</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103301Z" creationid="seto" creationdate="20190404T103301Z">
+        <seg>Scene_Hallowed_Dungeon4_Interior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon4_InteriorDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103301Z" creationid="seto" creationdate="20190404T103301Z">
+        <seg>Scene_Hallowed_Dungeon4_InteriorDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103303Z" creationid="seto" creationdate="20190404T103303Z">
+        <seg>Scene_Hallowed_Dungeon5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon5Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103303Z" creationid="seto" creationdate="20190404T103303Z">
+        <seg>Scene_Hallowed_Dungeon5Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103304Z" creationid="seto" creationdate="20190404T103304Z">
+        <seg>Scene_Hallowed_Dungeon6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon6Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103305Z" creationid="seto" creationdate="20190404T103305Z">
+        <seg>Scene_Hallowed_Dungeon6Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103305Z" creationid="seto" creationdate="20190404T103305Z">
+        <seg>Scene_Hallowed_Dungeon7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_Dungeon7Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103306Z" creationid="seto" creationdate="20190404T103306Z">
+        <seg>Scene_Hallowed_Dungeon7Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103307Z" creationid="seto" creationdate="20190404T103307Z">
+        <seg>Scene_Hallowed_DungeonsSmall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103309Z" creationid="seto" creationdate="20190404T103309Z">
+        <seg>Scene_Hallowed_DungeonsSmall1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmallDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103308Z" creationid="seto" creationdate="20190404T103308Z">
+        <seg>Scene_Hallowed_DungeonsSmallDesc</seg>
       </tuv>
     </tu>
     <tu>
@@ -17459,6 +17795,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114929Z" creationid="Gaiden Shinji" creationdate="20190403T114929Z">
         <seg>トロッグの侵入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte_Armored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T103331Z" creationid="seto" creationdate="20190404T103331Z">
+        <seg>Troglodyte_Armored</seg>
       </tuv>
     </tu>
     <tu>
