@@ -2756,8 +2756,8 @@
       <tuv lang="EN-US">
         <seg>Bring me nine meat stews as soon as humanly possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T010923Z" creationid="rkmad" creationdate="20190404T010910Z">
-        <seg>meat stew を9つ作れ。出来るだけ早くな。 </seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012119Z" creationid="rkmad" creationdate="20190404T010910Z">
+        <seg>ミートシチューを9つ作れ。出来るだけ早くな。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -7449,6 +7449,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T100702Z" creationid="rkmad" creationdate="20190403T100005Z">
         <seg>少ないけれど、お礼よ。とっておきなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, your dinner, prisoner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011825Z" creationid="rkmad" creationdate="20190404T011825Z">
+        <seg>ほら、これがお前の分だ、囚人。とっておけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,6 +14064,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Say, you must be hungry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011802Z" creationid="rkmad" creationdate="20190404T011802Z">
+        <seg>お前も腹が減っているはずだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Berg_Open</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130908Z" creationid="setom" creationdate="20190403T130908Z">
@@ -16943,6 +16959,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We don’t need any more food for today, shoo!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T011951Z" creationid="rkmad" creationdate="20190404T011951Z">
+        <seg>今日はもうこれ以上は必要ないな。ほら、お前も仕事に戻れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We need medical supplies to patch our men up.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095232Z" creationid="rkmad" creationdate="20190403T095232Z">
@@ -18964,6 +18988,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011542Z" creationid="rkmad" creationdate="20190404T011542Z">
         <seg>おい、誰か居のか！こいつを捕まえろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2454_0</prop>
+      <tuv lang="EN-US">
+        <seg>goodbye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T012012Z" creationid="rkmad" creationdate="20190404T012012Z">
+        <seg>わかりました。</seg>
       </tuv>
     </tu>
     <tu>
