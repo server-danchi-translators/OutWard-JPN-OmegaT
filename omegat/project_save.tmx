@@ -9929,8 +9929,8 @@
       <tuv lang="EN-US">
         <seg>Ingredients lost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194133Z" creationid="totochan" creationdate="20190402T194133Z">
-        <seg>材料が失われました。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132516Z" creationid="totochan" creationdate="20190402T194133Z">
+        <seg>材料が失われました</seg>
       </tuv>
     </tu>
     <tu>
@@ -10033,8 +10033,8 @@
       <tuv lang="EN-US">
         <seg>Invalid Combination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194152Z" creationid="totochan" creationdate="20190402T194044Z">
-        <seg>無効な組み合わせ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132513Z" creationid="totochan" creationdate="20190402T194044Z">
+        <seg>無効な組み合わせ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12382,8 +12382,8 @@
       <tuv lang="EN-US">
         <seg>Missing some ingredients.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T193847Z" creationid="totochan" creationdate="20190402T193847Z">
-        <seg>材料がたりません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132505Z" creationid="totochan" creationdate="20190402T193847Z">
+        <seg>材料がたりません</seg>
       </tuv>
     </tu>
     <tu>
@@ -12862,8 +12862,8 @@
       <tuv lang="EN-US">
         <seg>No need to boil clean water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194000Z" creationid="totochan" creationdate="20190402T194000Z">
-        <seg>清潔な水を煮沸する必要はありません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132509Z" creationid="totochan" creationdate="20190402T194000Z">
+        <seg>清潔な水を煮沸する必要はありません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21585,8 +21585,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You cannot boil water as the Waterskin is empty.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062530Z" creationid="hiru4" creationdate="20190403T062530Z">
-        <seg>Waterskinが空のため湯を沸かすことができません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132401Z" creationid="hiru4" creationdate="20190403T062530Z">
+        <seg>Waterskinが空のため湯を沸かすことができません</seg>
       </tuv>
     </tu>
     <tu>
@@ -21941,8 +21941,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You need an equipped Lexicon to cast Rune spells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062542Z" creationid="hiru4" creationdate="20190403T062542Z">
-        <seg>呪文を唱えるために呪文書が必要です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132502Z" creationid="hiru4" creationdate="20190403T062542Z">
+        <seg>呪文を唱えるために呪文書が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -22754,8 +22754,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} cannot be placed here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194100Z" creationid="totochan" creationdate="20190402T194100Z">
-        <seg>{1}ここには設置することができません。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132520Z" creationid="totochan" creationdate="20190402T194100Z">
+        <seg>{1}ここには設置することができません</seg>
       </tuv>
     </tu>
     <tu>
@@ -22906,8 +22906,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} must be empty before disassembling.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194216Z" creationid="totochan" creationdate="20190402T194216Z">
-        <seg>{1}を外す前に空にする必要がありますが、破棄することはできます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190404T132701Z" creationid="totochan" creationdate="20190402T194216Z">
+        <seg>{1}を分解する前に空にする必要があります</seg>
       </tuv>
     </tu>
     <tu>
