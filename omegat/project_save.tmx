@@ -1703,10 +1703,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abandoned Shed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111224Z" creationid="Gaiden Shinji" creationdate="20190404T111224Z">
+        <seg>放棄された小屋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abandoned Ziggurat</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111140Z" creationid="Gaiden Shinji" creationdate="20190404T111140Z">
         <seg>放棄されたジグラット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Abrassar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111344Z" creationid="Gaiden Shinji" creationdate="20190404T111344Z">
+        <seg>アブラザール</seg>
       </tuv>
     </tu>
     <tu>
@@ -1947,6 +1963,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022255Z" creationid="hiru4" creationdate="20190402T022255Z">
         <seg>アンチエイリアシング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Antique Field</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111327Z" creationid="Gaiden Shinji" creationdate="20190404T111327Z">
+        <seg>アンティークフィールド</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2710,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T085445Z" creationid="rkmad" creationdate="20190404T085445Z">
         <seg>村の人々には、まだその痛みと苦しみが根強く残っているのですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blazing desert with freezing nights, with giant insects lurking in hives and ruins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111413Z" creationid="Gaiden Shinji" creationdate="20190404T111413Z">
+        <seg>巨大な昆虫が巣箱や遺跡に潜んでいる。凍てつくような夜の砂漠</seg>
       </tuv>
     </tu>
     <tu>
@@ -5483,6 +5515,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dead Tree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111230Z" creationid="Gaiden Shinji" creationdate="20190404T111230Z">
+        <seg>デッドツリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
@@ -6064,6 +6104,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094846Z" creationid="setom" creationdate="20190401T115049Z">
         <seg>所持品なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111311Z" creationid="Gaiden Shinji" creationdate="20190404T111311Z">
+        <seg>空の-</seg>
       </tuv>
     </tu>
     <tu>
@@ -6744,6 +6792,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130516Z" creationid="setom" creationdate="20190403T130516Z">
         <seg>FishingSpot_Fish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flooded Cellar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111147Z" creationid="Gaiden Shinji" creationdate="20190404T111147Z">
+        <seg>浸水したセラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -7852,6 +7908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Harmattan</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111338Z" creationid="Gaiden Shinji" creationdate="20190404T111338Z">
+        <seg>ハルマタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Has a chance to make you vomit when eating, nullifying the food’s effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134858Z" creationid="totochan" creationdate="20190403T134858Z">
@@ -8161,6 +8225,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
         <seg>長押し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hollowed Lotus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111219Z" creationid="Gaiden Shinji" creationdate="20190404T111219Z">
+        <seg>中空ロータス</seg>
       </tuv>
     </tu>
     <tu>
@@ -8691,6 +8763,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110826Z" creationid="Gaiden Shinji" creationdate="20190403T110826Z">
         <seg>穢れなき者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immaculate's Camp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111321Z" creationid="Gaiden Shinji" creationdate="20190404T111321Z">
+        <seg>穢れなきキャンプImmaculate's Camp</seg>
       </tuv>
     </tu>
     <tu>
@@ -16617,6 +16697,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Steakosaur's burrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111208Z" creationid="Gaiden Shinji" creationdate="20190404T111208Z">
+        <seg>Steakosaur'sのバロウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stealth +[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
@@ -18187,6 +18275,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042430Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
         <seg>瞬く間に意識は遠のく。そして、あなたは何かに襲われる夢を見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Under Island</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111302Z" creationid="Gaiden Shinji" creationdate="20190404T111238Z">
+        <seg>島の下</seg>
       </tuv>
     </tu>
     <tu>
