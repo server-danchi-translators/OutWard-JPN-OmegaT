@@ -3931,6 +3931,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Climb the Rope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113157Z" creationid="Gaiden Shinji" creationdate="20190404T113157Z">
+        <seg>ロープを登る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Close</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114856Z" creationid="setom" creationdate="20190401T114851Z">
@@ -4631,6 +4639,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115033Z" creationid="setom" creationdate="20190401T115033Z">
         <seg>クラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Polearm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113217Z" creationid="Gaiden Shinji" creationdate="20190404T113217Z">
+        <seg>クラフトポールアーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113207Z" creationid="Gaiden Shinji" creationdate="20190404T113207Z">
+        <seg>クラフトシールド</seg>
       </tuv>
     </tu>
     <tu>
@@ -5724,6 +5748,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deploy {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113036Z" creationid="Gaiden Shinji" creationdate="20190404T113036Z">
+        <seg>展開 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DeployableTrapMenu_EmptyInventory</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114726Z" creationid="setom" creationdate="20190401T114726Z">
@@ -6316,6 +6348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113109Z" creationid="Gaiden Shinji" creationdate="20190404T113109Z">
+        <seg>{1}へ入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equip</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063128Z" creationid="hiru4" creationdate="20190403T063128Z">
@@ -6800,6 +6840,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064515Z" creationid="hiru4" creationdate="20190403T064515Z">
         <seg>店を出る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exit to {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113048Z" creationid="Gaiden Shinji" creationdate="20190404T113048Z">
+        <seg>{1}に</seg>
       </tuv>
     </tu>
     <tu>
@@ -7904,6 +7952,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
         <seg>メニューに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to {1}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113123Z" creationid="Gaiden Shinji" creationdate="20190404T113123Z">
+        <seg>{1}へ移動</seg>
       </tuv>
     </tu>
     <tu>
@@ -9335,6 +9391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interact with {NPCName}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113135Z" creationid="Gaiden Shinji" creationdate="20190404T113135Z">
+        <seg>{NPCName}とやり取りする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Area_Travel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104903Z" creationid="setom" creationdate="20190402T104903Z">
@@ -10572,6 +10636,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Loot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112938Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
+        <seg>ルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lose 10% of your health per minute.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135248Z" creationid="totochan" creationdate="20190403T135248Z">
@@ -11528,6 +11600,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091454Z" creationid="setom" creationdate="20190402T091454Z">
         <seg>Message_Tutorial_WeaponSkillsReq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mine {ItemName}</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113027Z" creationid="Gaiden Shinji" creationdate="20190404T113027Z">
+        <seg>{ItemName}を採掘</seg>
       </tuv>
     </tu>
     <tu>
@@ -17242,6 +17322,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take Root</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113144Z" creationid="Gaiden Shinji" creationdate="20190404T113144Z">
+        <seg>回収する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take [E1V1] Fire Damage per second.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133841Z" creationid="totochan" creationdate="20190403T133841Z">
@@ -17286,6 +17374,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112743Z" creationid="Gaiden Shinji" creationdate="20190404T112743Z">
         <seg>{NPCName}と会話する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teleport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113200Z" creationid="Gaiden Shinji" creationdate="20190404T113200Z">
+        <seg>テレポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,6 +18835,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114024Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
         <seg>ターミップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turn off</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112941Z" creationid="Gaiden Shinji" creationdate="20190404T112941Z">
+        <seg>消す</seg>
       </tuv>
     </tu>
     <tu>
