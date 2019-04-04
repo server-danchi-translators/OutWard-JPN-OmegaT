@@ -8339,6 +8339,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It would seem your alliance with them has saved your life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T005336Z" creationid="はぐくみ会" creationdate="20190404T005336Z">
+        <seg>彼らとの同盟が、あなたの生命を救ったようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115140Z" creationid="setom" creationdate="20190401T115140Z">
