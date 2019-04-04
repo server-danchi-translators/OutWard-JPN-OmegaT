@@ -8798,8 +8798,8 @@
       <tuv lang="EN-US">
         <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T174552Z" creationid="magur0w" creationdate="20190404T174552Z">
-        <seg>関連した噂は耳にしたか？ [PlayerName]?</seg>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T174833Z" creationid="magur0w" creationdate="20190404T174552Z">
+        <seg>何か関係のある噂は耳にしたか？ [PlayerName]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21408,6 +21408,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172512Z" creationid="magur0w" creationdate="20190404T171724Z">
         <seg>あぁ、すぐに会えるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T175042Z" creationid="magur0w" creationdate="20190404T175042Z">
+        <seg>あぁ。</seg>
       </tuv>
     </tu>
     <tu>
