@@ -8119,6 +8119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want to talk about my Blood Price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T092439Z" creationid="rkmad" creationdate="20190404T092439Z">
+        <seg>私の血の対価について話がしたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm sorry you woke up to that, after what you’ve been through, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080818Z" creationid="rkmad" creationdate="20190404T080351Z">
@@ -8235,6 +8243,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171620Z" creationid="setom" creationdate="20190402T171620Z">
         <seg>行けそうなら、あいつを探してきちゃくれねぇか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re looking for news the Inn is always a good place to try, and don't forget about Yzan down by the beach!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T092558Z" creationid="rkmad" creationdate="20190404T092558Z">
+        <seg>あなたが何か情報を探しているのなら、宿屋も良い場所です。また、浜辺にいるイザンの事も忘れないように！</seg>
       </tuv>
     </tu>
     <tu>
@@ -19604,6 +19620,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133142Z" creationid="setom" creationdate="20190402T133117Z">
         <seg>[PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName], how go your efforts?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T092419Z" creationid="rkmad" creationdate="20190404T092419Z">
+        <seg>[PlayerName]、順調に進められていますか？</seg>
       </tuv>
     </tu>
     <tu>
