@@ -8475,8 +8475,8 @@
       <tuv lang="EN-US">
         <seg>It is hours before you regain consciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T093540Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
-        <seg>数時間後に意識を取り戻した。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T034151Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
+        <seg>数時間後にあなたは意識を取り戻した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17590,8 +17590,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T015129Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
-        <seg>殴られ、出血をしているが、まだ生きている。
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T034211Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg>あなたは殴られ、出血をしているが、まだ生きている。
 </seg>
       </tuv>
     </tu>
