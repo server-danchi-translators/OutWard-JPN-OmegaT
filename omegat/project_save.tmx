@@ -1799,6 +1799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An Ash giant speaks in a rough, incomprehensible language as he tends to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T005130Z" creationid="はぐくみ会" creationdate="20190404T005130Z">
+        <seg>Ash giant は、あなたに気を使っているのか荒々しい、あなたには理解できない言語で話している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An infused weapon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T054309Z" creationid="hiru4" creationdate="20190403T054309Z">
@@ -15711,6 +15719,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
         <seg>血統の失敗が私に重くのしかかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first thing you notice, as you come to your senses, is that you are in a bed much too large for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="はぐくみ会" changedate="20190404T004859Z" creationid="はぐくみ会" creationdate="20190404T004859Z">
+        <seg>気を取り戻したあなたが最初に気づくのは、あなたが寝ているベッドの大きさだ。あまりにも巨大だ。</seg>
       </tuv>
     </tu>
     <tu>
