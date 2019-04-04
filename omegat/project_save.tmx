@@ -9327,6 +9327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In your state, you will never catch up to him...It would seem that the one who led the assault on Berg has gotten away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T114118Z" creationid="pugnus" creationdate="20190404T114118Z">
+        <seg>今のあなたの状態では、敵に追いつくことは不可能だ...Berg を襲撃した者たちは逃げ出したようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increase all Damage Resistances by 10.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065707Z" creationid="rkmad" creationdate="20190404T065707Z">
@@ -9965,8 +9973,8 @@
       <tuv lang="EN-US">
         <seg>It would seem she saved your life from the criminals who have attacked the Blue Chamber.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T112411Z" creationid="pugnus" creationdate="20190404T112233Z">
-        <seg>Blue Chamber を襲撃した犯罪者からあなたを救ったのだ。Gabriella Sullivan が、あなたを、救ったのだ。Gabriella Sullivan が！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T114157Z" creationid="pugnus" creationdate="20190404T112233Z">
+        <seg>Blue Chamber を襲撃した犯罪者からあなたを救ったのだ。Gabriella Sullivan が、あなたを、救ったのだ。偉大なる Gabriella Sullivan が！</seg>
       </tuv>
     </tu>
     <tu>
@@ -20540,6 +20548,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062649Z" creationid="hiru4" creationdate="20190403T062649Z">
         <seg>維持することができませんでした.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You crack an eye open to see your foe fleeing at full speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T113739Z" creationid="pugnus" creationdate="20190404T113739Z">
+        <seg>あなたは自分の目を疑う。敵が全速力で逃げているのだ。</seg>
       </tuv>
     </tu>
     <tu>
