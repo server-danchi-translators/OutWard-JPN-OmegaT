@@ -19195,6 +19195,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You open your eyes in the abandoned docks, inches from death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190404T102258Z" creationid="pugnus" creationdate="20190404T102122Z">
+        <seg>あなたは放棄された造船所で目を開く。死に片脚を踏み込んでいたが、戻ってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You open your eyes, and can tell by the stench that you’ve been thrown onto a pile of corpses.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T101923Z" creationid="pugnus" creationdate="20190404T101734Z">
