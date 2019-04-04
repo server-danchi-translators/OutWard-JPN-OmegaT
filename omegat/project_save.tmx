@@ -8796,6 +8796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T174552Z" creationid="magur0w" creationdate="20190404T174552Z">
+        <seg>関連した噂は耳にしたか？ [PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -13072,6 +13080,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071420Z" creationid="hiru4" creationdate="20190402T071420Z">
         <seg>ベッドがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not yet, I'm going mingle a bit more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T174331Z" creationid="magur0w" creationdate="20190404T174331Z">
+        <seg>まだだ、もう少し紛れ込む。</seg>
       </tuv>
     </tu>
     <tu>
