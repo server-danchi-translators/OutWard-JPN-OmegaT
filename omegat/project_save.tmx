@@ -18783,6 +18783,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your injured body can take no more, and you pass out from the continued trauma.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Horizon" changedate="20190404T073643Z" creationid="Horizon" creationdate="20190404T073643Z">
+        <seg>あなたの体はもう限界だ。そして意識が飛び、苦痛から逃げ出した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your injuries and needs have been seen to, and you have been returned to your home in Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042736Z" creationid="はぐくみ会" creationdate="20190404T010001Z">
