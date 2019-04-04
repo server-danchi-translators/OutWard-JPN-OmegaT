@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;A Blood Price&lt;/b&gt;&lt;/color&gt; is sacred, [PlayerName], you can't just shrug off that responsibility for as long as you did!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T124233Z" creationid="seto" creationdate="20190404T124233Z">
+        <seg>[PlayerName]、&lt;color=#00CCFF&gt;&lt;b&gt;Blood Price&lt;/b&gt;&lt;/color&gt;は神聖だ。 責任を果たすまで逃れることはできないぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Rissa might be in grave danger&lt;/b&gt;&lt;/color&gt;!)</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181121Z" creationid="magur0w" creationdate="20190404T181121Z">
@@ -4047,6 +4055,38 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115112Z" creationid="seto" creationdate="20190404T115112Z">
         <seg>Chef_Vendavel_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115115Z" creationid="seto" creationdate="20190404T115115Z">
+        <seg>Chef_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115118Z" creationid="seto" creationdate="20190404T115118Z">
+        <seg>Chef_Vendavel_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115119Z" creationid="seto" creationdate="20190404T115119Z">
+        <seg>Chef_Vendavel_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef_Vendavel_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115120Z" creationid="seto" creationdate="20190404T115120Z">
+        <seg>Chef_Vendavel_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -7816,6 +7856,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023340Z" creationid="hiru4" creationdate="20190402T023340Z">
         <seg>ゲームプレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GateKeeper_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115134Z" creationid="seto" creationdate="20190404T115134Z">
+        <seg>GateKeeper_Vendavel_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -11932,6 +11980,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Medic_Vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115123Z" creationid="seto" creationdate="20190404T115123Z">
+        <seg>Medic_Vendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115125Z" creationid="seto" creationdate="20190404T115125Z">
+        <seg>Medic_Vendavel_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115127Z" creationid="seto" creationdate="20190404T115127Z">
+        <seg>Medic_Vendavel_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115130Z" creationid="seto" creationdate="20190404T115130Z">
+        <seg>Medic_Vendavel_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115132Z" creationid="seto" creationdate="20190404T115132Z">
+        <seg>Medic_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115132Z" creationid="seto" creationdate="20190404T115132Z">
+        <seg>Medic_Vendavel_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medic_Vendavel_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115133Z" creationid="seto" creationdate="20190404T115133Z">
+        <seg>Medic_Vendavel_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074305Z" creationid="setom" creationdate="20190331T113952Z">
@@ -12688,6 +12792,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T112248Z" creationid="seto" creationdate="20190404T112248Z">
         <seg>Mob_NE_Call_To_Advent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T122230Z" creationid="seto" creationdate="20190404T122230Z">
+        <seg>Mob_NE_Call_To_Advent_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -15559,6 +15671,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Chef_Vendavel_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115115Z" creationid="seto" creationdate="20190404T115115Z">
+        <seg>Player_Chef_Vendavel_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Medic_Vendavel_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115126Z" creationid="seto" creationdate="20190404T115126Z">
+        <seg>Player_Medic_Vendavel_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Medic_Vendavel_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T115129Z" creationid="seto" creationdate="20190404T115129Z">
+        <seg>Player_Medic_Vendavel_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_Attacks</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094033Z" creationid="setom" creationdate="20190402T094033Z">
@@ -16948,6 +17084,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T155218Z" creationid="Horizon" creationdate="20190403T155218Z">
         <seg>RT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rise and shine, Trog spawn!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T121028Z" creationid="seto" creationdate="20190404T121028Z">
+        <seg>日はもう昇ってるぞ、この疫病神が！</seg>
       </tuv>
     </tu>
     <tu>
@@ -22607,6 +22751,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T122828Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
         <seg>あなたは幸運の星たちに感謝する。あの幽霊が古い思い出に閉じ込められており、推論も思考もできないことに...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You think you can nip off for four months and not pay what you owe the tribe?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T122225Z" creationid="seto" creationdate="20190404T122225Z">
+        <seg>四か月間逃げれば部族への借りを返さずに済むとでも思ったか？</seg>
       </tuv>
     </tu>
     <tu>
