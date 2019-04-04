@@ -2754,6 +2754,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring me nine meat stews as soon as humanly possible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T010910Z" creationid="rkmad" creationdate="20190404T010910Z">
+        <seg>出来るだけ早く meat stew を9つ作れ。出来るだけ早くな </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bullets are required in your inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053719Z" creationid="hiru4" creationdate="20190403T053719Z">
@@ -7627,6 +7635,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104614Z" creationid="setom" creationdate="20190402T104614Z">
         <seg>自分自身の未来を切り開くか、いっそ死ぬかだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need someone to cook meals for the warriors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T010821Z" creationid="rkmad" creationdate="20190404T010821Z">
+        <seg>仲間達の為の食事を作る手が足りないんだ。手を貸せ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17004,6 +17020,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103622Z" creationid="setom" creationdate="20190402T103544Z">
         <seg>それ以来、我々はその責任として借金を払わされ続けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can I do to help you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190404T010700Z" creationid="rkmad" creationdate="20190404T010700Z">
+        <seg>おい、囚人。お前、手は空いているのか？</seg>
       </tuv>
     </tu>
     <tu>
