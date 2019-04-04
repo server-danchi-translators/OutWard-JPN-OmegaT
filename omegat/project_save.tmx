@@ -2065,8 +2065,8 @@
       <tuv lang="EN-US">
         <seg>Anything suspicious, anyone acting out of place, especially anyone who has important business being discussed today.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T131641Z" creationid="magur0w" creationdate="20190404T130719Z">
-        <seg>疑わしいもの、場違いな行動をしている者、特に、重要な任務がある者が今日議論されています。</seg>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T164555Z" creationid="magur0w" creationdate="20190404T130719Z">
+        <seg>疑わしいもの、場違いな行動をしている者、特に、重要な任務がある者が今日議論されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9481,8 +9481,8 @@
       <tuv lang="EN-US">
         <seg>I need you to &lt;color=#00CCFF&gt;&lt;b&gt;make your way to the Blue Chamber itself&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T164327Z" creationid="magur0w" creationdate="20190404T164327Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;あなた一人でBlue Chamber itselfに足を運んでもらう必要があるんだ&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T164540Z" creationid="magur0w" creationdate="20190404T164327Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;キミ一人でBlue Chamber に足を運んでもらう必要があるんだ。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19213,8 +19213,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Chamberlords are gathering as we speak.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T131711Z" creationid="magur0w" creationdate="20190404T110122Z">
-        <seg>ちょうど今、Chamberlordsが集まるところです。</seg>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T164507Z" creationid="magur0w" creationdate="20190404T110122Z">
+        <seg>ちょうど今、Chamberlordsが集まるところだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22828,6 +22828,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092419Z" creationid="rkmad" creationdate="20190404T092419Z">
         <seg>[PlayerName]、順調に進められていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName], there you are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="magur0w" changedate="20190404T164449Z" creationid="magur0w" creationdate="20190404T164449Z">
+        <seg>[PlayerName] 、ここにいたか。</seg>
       </tuv>
     </tu>
     <tu>
