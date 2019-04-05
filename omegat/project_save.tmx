@@ -9959,6 +9959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I should also let you know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094143Z" creationid="rkmad" creationdate="20190405T094143Z">
+        <seg>あなたには伝えておくべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I still have things I need to do first.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172702Z" creationid="magur0w" creationdate="20190404T172702Z">
@@ -14899,6 +14907,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115305Z" creationid="Gaiden Shinji" creationdate="20190404T115305Z">
         <seg>オリエール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele and Yzan are leaving Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094236Z" creationid="rkmad" creationdate="20190405T094236Z">
+        <seg>オリエールとヤザンが、シエルゾを去るそうです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23769,6 +23785,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042454Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
         <seg>あなたは上に Vigil クリスタルの1つを見つける...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should &lt;color=#00CCFF&gt;&lt;b&gt;speak with them&lt;/b&gt;&lt;/color&gt; before they go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094311Z" creationid="rkmad" creationdate="20190405T094311Z">
+        <seg>あなたは&lt;color=#00CCFF&gt;&lt;b&gt;彼らと話しておくべきでしょう&lt;/b&gt;&lt;/color&gt;。二人がシエルゾを去る前にね。</seg>
       </tuv>
     </tu>
     <tu>
