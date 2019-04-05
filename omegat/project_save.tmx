@@ -11067,6 +11067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's about time you let her go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094552Z" creationid="rkmad" creationdate="20190405T094552Z">
+        <seg>オリエールにも、貴女から離れる時が来たのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Item</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115140Z" creationid="setom" creationdate="20190401T115140Z">
@@ -13876,6 +13884,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nothing I could say would convince her to stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094523Z" creationid="rkmad" creationdate="20190405T094523Z">
+        <seg>……私には、あの娘を思いとどまらせるような言葉をかけることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing seems to have harmed you while you were out cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042516Z" creationid="はぐくみ会" creationdate="20190403T112648Z">
@@ -14923,6 +14939,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T095254Z" creationid="pugnus" creationdate="20190404T095254Z">
         <seg>Oliele は床に落ち、彼女は腐敗の病気を吸収した。彼女の皮膚の下では血管が鮮やかな緑に輝きだす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele is leaving Cierzo permanently, to go join the Holy Mission of Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T094438Z" creationid="rkmad" creationdate="20190405T094438Z">
+        <seg>オリエールはシエルゾを去り、エラットの聖なる任務に加わるそうです。</seg>
       </tuv>
     </tu>
     <tu>
