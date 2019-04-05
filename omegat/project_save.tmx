@@ -2938,6 +2938,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>BeachGuy_NEUT_Call_To_A_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222557Z" creationid="seto" creationdate="20190404T222557Z">
+        <seg>BeachGuy_NEUT_Call_To_A_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beast Golem</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110725Z" creationid="Gaiden Shinji" creationdate="20190403T110725Z">
@@ -13112,6 +13120,22 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T221914Z" creationid="seto" creationdate="20190404T221914Z">
         <seg>Mob_NE_Call_To_Advent_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222555Z" creationid="seto" creationdate="20190404T222555Z">
+        <seg>Mob_NE_Call_To_Advent_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mob_NE_Call_To_Advent_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190404T222556Z" creationid="seto" creationdate="20190404T222556Z">
+        <seg>Mob_NE_Call_To_Advent_13</seg>
       </tuv>
     </tu>
     <tu>
