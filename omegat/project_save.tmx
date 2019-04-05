@@ -18929,6 +18929,15 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T083949Z" creationid="rkmad" creationdate="20190405T083949Z">
+        <seg>出来たのであれば、私にそれを証明してください。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show/Hide Map</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T161621Z" creationid="Horizon" creationdate="20190403T161621Z">
@@ -23223,6 +23232,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064503Z" creationid="hiru4" creationdate="20190403T064503Z">
         <seg>取引が済んでいませんが、立ち去りますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have a way to make that payment, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T083945Z" creationid="rkmad" creationdate="20190405T083945Z">
+        <seg> [PlayerName]、村人達へ支払わなければならない対価は用意できましたか？</seg>
       </tuv>
     </tu>
     <tu>
