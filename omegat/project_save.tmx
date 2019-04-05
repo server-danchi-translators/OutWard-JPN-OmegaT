@@ -9901,6 +9901,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, nice seeing you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T160712Z" creationid="Light" creationdate="20190405T160712Z">
+        <seg>やぁ、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T125545Z" creationid="setom" creationdate="20190402T165629Z">
@@ -22016,6 +22024,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164507Z" creationid="magur0w" creationdate="20190404T110122Z">
         <seg>ちょうど今、Chamberlordsが集まるところだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cierzo militia can answer any questions you have.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T160816Z" creationid="Light" creationdate="20190405T160816Z">
+        <seg>シエルゾ民兵はどんな質問でも答えるよ。</seg>
       </tuv>
     </tu>
     <tu>
