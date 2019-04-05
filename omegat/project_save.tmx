@@ -10095,6 +10095,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you cannot succeed at a task, then you must accept the price of failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T090558Z" creationid="rkmad" creationdate="20190405T090558Z">
+        <seg>約束を守ることができないのなら、守れなかったことによる代償も受け入れなくてはならないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you continue, these changes will be discarded.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
@@ -21084,6 +21092,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071055Z" creationid="hiru4" creationdate="20190403T071055Z">
         <seg>これは多くの場合、ホストが現在ロード中であることが原因です。&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is one of life's most important lessons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T090524Z" creationid="rkmad" creationdate="20190405T090524Z">
+        <seg>教訓として受け入れなさい、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
