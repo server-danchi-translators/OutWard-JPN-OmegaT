@@ -3202,6 +3202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood-red shield used by the leaders of northern tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T144237Z" creationid="weedssoul" creationdate="20190405T144237Z">
+        <seg>北方の部族のリーダーが使用している血染めの盾。Blood-red shield used by the leaders of northern tribes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bloom</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022331Z" creationid="hiru4" creationdate="20190402T022331Z">
@@ -11863,6 +11871,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
         <seg>だがアイテムはテントで休息中に修復できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Its bold color makes it stand out in the snowy landscape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T144459Z" creationid="weedssoul" creationdate="20190405T144320Z">
+        <seg>雪景色の中でその大胆な色使いはよく目立つ</seg>
       </tuv>
     </tu>
     <tu>
