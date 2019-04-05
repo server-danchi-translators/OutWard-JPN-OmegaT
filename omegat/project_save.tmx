@@ -20088,6 +20088,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shield of the highest quality, beset with a Tsar Stone that gently emits green light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T144949Z" creationid="weedssoul" creationdate="20190405T144949Z">
+        <seg>静かに緑色に光る Tsar Stone で飾りどられた最高品質の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T070022Z" creationid="setom" creationdate="20190402T070003Z">
