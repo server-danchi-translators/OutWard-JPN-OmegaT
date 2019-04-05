@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Give a Bandage.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134904Z" creationid="Light" creationdate="20190405T134904Z">
+        <seg>(Bandageを与えた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Give a health potion.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T134734Z" creationid="Light" creationdate="20190405T134734Z">
@@ -9741,6 +9749,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold still, I have a bandage!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134846Z" creationid="Light" creationdate="20190405T134846Z">
+        <seg>じっとしてください、bandageがあります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hollowed Lotus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111219Z" creationid="Gaiden Shinji" creationdate="20190404T111219Z">
@@ -15415,6 +15431,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open up, this drink will help you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134755Z" creationid="Light" creationdate="20190405T134755Z">
+        <seg>これを飲んでください、楽になるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open your mouth, I have a potion I can use!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T134454Z" creationid="Light" creationdate="20190405T134454Z">
@@ -17243,6 +17267,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T080411Z" creationid="rkmad" creationdate="20190404T080411Z">
         <seg>でも、どうか彼らを許してあげてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please... hurry...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134943Z" creationid="Light" creationdate="20190405T134943Z">
+        <seg>お願いだ...はやく...</seg>
       </tuv>
     </tu>
     <tu>
