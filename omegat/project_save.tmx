@@ -4267,6 +4267,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cierzo thanks you for your great deed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T040306Z" creationid="rkmad" creationdate="20190405T040306Z">
+        <seg>シエルゾの代表として、あなたの素晴らしい行いに感謝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo’s smith can craft pieces of Blue Sand Armor, if Blue Sand is brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142114Z" creationid="urakata" creationdate="20190331T083211Z">
@@ -4607,6 +4615,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095314Z" creationid="setom" creationdate="20190402T095314Z">
         <seg>Connection_Preparation_Saving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consider this payment dealt with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T040244Z" creationid="rkmad" creationdate="20190405T040244Z">
+        <seg>あなたが支払うべき代償は、これで完了したと考えて問題ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22146,8 +22162,8 @@ Rissa_NE_Call_To_A_13</seg>
       <tuv lang="EN-US">
         <seg>Well done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T035843Z" creationid="rkmad" creationdate="20190405T035843Z">
-        <seg>よくやりました。</seg>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T040145Z" creationid="rkmad" creationdate="20190405T035843Z">
+        <seg>よくやりましたね、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
