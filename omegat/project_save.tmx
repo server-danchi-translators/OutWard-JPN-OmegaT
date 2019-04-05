@@ -26205,6 +26205,16 @@ Rissa_NE_Call_To_A_13</seg>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1012_0</prop>
+      <tuv lang="EN-US">
+        <seg>I understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T140138Z" creationid="Mad" creationdate="20190405T140138Z">
+        <seg>……分かりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
       <prop type="id">1093_0</prop>
       <tuv lang="EN-US">
         <seg>goodbye</seg>
