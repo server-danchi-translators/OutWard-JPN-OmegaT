@@ -21099,6 +21099,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teaches how to craft a consumable item, requiring an Alchemy Kit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140225Z" creationid="weedssoul" creationdate="20190405T140225Z">
+        <seg>Alchemy Kit を必要とする消耗品の作成方法を学ぶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaches how to craft a consumable item, requiring no crafting station.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140050Z" creationid="weedssoul" creationdate="20190405T140050Z">
+        <seg>クラフト道具を必要としない消耗品の作成方法を学ぶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teaches how to craft equipment, requiring no crafting station.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T140016Z" creationid="weedssoul" creationdate="20190405T140016Z">
@@ -21109,8 +21125,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Teaches how to craft food, using a Cooking Pot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135930Z" creationid="weedssoul" creationdate="20190405T135930Z">
-        <seg>調理鍋を使った料理方法を学ぶ.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140139Z" creationid="weedssoul" creationdate="20190405T135930Z">
+        <seg>Cooking Pot を使った料理方法を学ぶ.</seg>
       </tuv>
     </tu>
     <tu>
