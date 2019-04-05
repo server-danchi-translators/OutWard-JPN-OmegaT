@@ -2375,6 +2375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As will we all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T151427Z" creationid="Mad" creationdate="20190405T151427Z">
+        <seg>みながそう思うことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you free yourself, you can feel their poison coursing through your veins.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T123734Z" creationid="pugnus" creationdate="20190404T111635Z">
@@ -9685,6 +9693,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her mind is made up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T151748Z" creationid="Mad" creationdate="20190405T151748Z">
+        <seg>あの娘の心は既に決まっているのですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here are your stews.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011610Z" creationid="rkmad" creationdate="20190404T011610Z">
@@ -10131,6 +10147,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135115Z" creationid="Light" creationdate="20190405T135115Z">
         <seg>あと、どれくらい保つかわからない...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't suppose you could convince her to stay?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T151638Z" creationid="Mad" creationdate="20190405T151638Z">
+        <seg>あなたなら、彼女がシエルゾに留まるよう説得することは出来るでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -14328,6 +14352,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
         <seg> {1} はバッグの中にあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, I don't suppose you'd be able to convince her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T151735Z" creationid="Mad" creationdate="20190405T151735Z">
+        <seg>……いえ、あなたにもオリエールを説得することはできないでしょうね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20124,6 +20156,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022421Z" creationid="hiru4" creationdate="20190402T022421Z">
         <seg>影の品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She is my only daughter, set to inherit the clan when I join the ancestors...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T151719Z" creationid="Mad" creationdate="20190405T151719Z">
+        <seg>オリエールは私の唯一の娘であり、いつかは私の後を継ぐはずだったというのに……。</seg>
       </tuv>
     </tu>
     <tu>
