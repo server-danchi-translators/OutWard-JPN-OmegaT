@@ -2127,6 +2127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And if you’re interested in magic, there’s a Ley Line under the Conflux Mountain, that large purple one in the middle of the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T163123Z" creationid="Light" creationdate="20190405T163123Z">
+        <seg>それから、魔法に興味があるならレイラインという場所がコンフラックス山の麓にある。この地域の中央にある大きな紫色の山さ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And on time, too!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035358Z" creationid="rkmad" creationdate="20190405T035358Z">
@@ -10783,6 +10791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm fine, thank you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T163204Z" creationid="Light" creationdate="20190405T163204Z">
+        <seg>大丈夫、ありがとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm impressed, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035415Z" creationid="rkmad" creationdate="20190405T035415Z">
@@ -14448,6 +14464,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112008Z" creationid="Gaiden Shinji" creationdate="20190404T112008Z">
         <seg>ネクロポリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need something else?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T163231Z" creationid="Light" creationdate="20190405T163231Z">
+        <seg>他には？</seg>
       </tuv>
     </tu>
     <tu>
