@@ -2071,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An official Council Meeting has been called.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163447Z" creationid="weedssoul" creationdate="20190405T163447Z">
+        <seg>公式の評議会が招集された。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An unusual possession of the ancient great hunter.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T065247Z" creationid="setom" creationdate="20190402T065247Z">
@@ -3114,10 +3122,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because I may need of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163550Z" creationid="weedssoul" creationdate="20190405T163550Z">
+        <seg>あなたが必要になるかもしれないから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of her pride, dozens were slain by the beasts of the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130224Z" creationid="rkmad" creationdate="20190404T085146Z">
         <seg>それを強制した彼女のプライドが招いたものは、スカージの獣による虐殺でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because your future is important to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163604Z" creationid="weedssoul" creationdate="20190405T163604Z">
+        <seg>あなたの未来は私にとって大事なものだから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10351,6 +10375,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't know when I'll be able to return.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163331Z" creationid="weedssoul" creationdate="20190405T163331Z">
+        <seg>いつ戻ってこれるかはわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't suppose you could convince her to stay?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190405T151638Z" creationid="Mad" creationdate="20190405T151638Z">
@@ -10529,8 +10561,8 @@
       <tuv lang="EN-US">
         <seg>I must be off.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163251Z" creationid="weedssoul" creationdate="20190405T163251Z">
-        <seg>私は行かなければならない。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163312Z" creationid="weedssoul" creationdate="20190405T163251Z">
+        <seg>私は行かなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11059,6 +11091,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114953Z" creationid="Gaiden Shinji" creationdate="20190403T114953Z">
         <seg>穢れなき洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163318Z" creationid="weedssoul" creationdate="20190405T163318Z">
+        <seg>今すぐ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22695,6 +22735,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then why are you still here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163516Z" creationid="weedssoul" creationdate="20190405T163516Z">
+        <seg>では、何故まだここにいるのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then you're a thief.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011237Z" creationid="rkmad" creationdate="20190404T011237Z">
@@ -22747,6 +22795,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170802Z" creationid="setom" creationdate="20190402T170525Z">
         <seg>それでもまだ食い足りねぇならそこらへんに生えてるGaberryも食っとけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's trouble in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163405Z" creationid="weedssoul" creationdate="20190405T163405Z">
+        <seg>Berg で問題があった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24277,6 +24333,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T130954Z" creationid="magur0w" creationdate="20190404T111851Z">
         <seg>Chamberlordsの会議とは、つまり何についてですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happened?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163346Z" creationid="weedssoul" creationdate="20190405T163346Z">
+        <seg>何が起きたのです？</seg>
       </tuv>
     </tu>
     <tu>
