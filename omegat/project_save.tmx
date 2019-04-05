@@ -9583,8 +9583,8 @@
       <tuv lang="EN-US">
         <seg>He was on duty at the Lighthouse the night of the shipwreck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T152029Z" creationid="weedssoul" creationdate="20190405T152029Z">
-        <seg>難破のあった夜、彼は灯台の当直だった。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153117Z" creationid="weedssoul" creationdate="20190405T152029Z">
+        <seg>難破のあった夜、Roland は灯台の当直だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15519,6 +15519,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh Roland...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153008Z" creationid="weedssoul" creationdate="20190405T153008Z">
+        <seg>Roland が....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh wow.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135635Z" creationid="Light" creationdate="20190405T135635Z">
@@ -19344,6 +19352,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland always did have his head in the clouds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153106Z" creationid="weedssoul" creationdate="20190405T153106Z">
+        <seg>Roland はいつも空想にふけっていた。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rosetta Stone</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120150Z" creationid="Gaiden Shinji" creationdate="20190404T120150Z">
@@ -22233,8 +22249,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The shipwreck that killed so many of our people, and nearly took your life was the fault of Yzan’s brother, Roland.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151441Z" creationid="weedssoul" creationdate="20190405T151441Z">
-        <seg>多くの人の命を奪い、あなたも殺しかけたあの難破は、 Yzan の兄弟 Roland の失敗によるものです。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T152951Z" creationid="weedssoul" creationdate="20190405T151441Z">
+        <seg>多くの人の命を奪い、あなたをも殺しかけたあの難破は、 Yzan の兄弟 Roland の失敗によるものです。</seg>
       </tuv>
     </tu>
     <tu>
