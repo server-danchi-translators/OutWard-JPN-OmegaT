@@ -17271,6 +17271,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potion which instantly heals some wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="VAKA" changedate="20190405T133833Z" creationid="VAKA" creationdate="20190405T133833Z">
+        <seg>瞬時にいくらか傷を癒やす薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pouch Bonus</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021258Z" creationid="hiru4" creationdate="20190402T021258Z">
