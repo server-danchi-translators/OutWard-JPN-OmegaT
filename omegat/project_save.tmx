@@ -10535,6 +10535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know how much you were counting on this expedition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T163923Z" creationid="Light" creationdate="20190405T163923Z">
+        <seg>あなたが探索中どんな事があったか私にはわかるもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know this can't be easy for you, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160214Z" creationid="weedssoul" creationdate="20190405T160214Z">
@@ -19752,6 +19760,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rufus commissioned it for me as a going away present.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T164128Z" creationid="Light" creationdate="20190405T164128Z">
+        <seg>Rufusが私にせん別としてこれをくれたの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ruined Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111746Z" creationid="Gaiden Shinji" creationdate="20190404T111746Z">
@@ -22235,6 +22251,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That glowing sword is new.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T164027Z" creationid="Light" creationdate="20190405T163944Z">
+        <seg>その光る剣はいいですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That man was more valuable to us than you know.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184313Z" creationid="magur0w" creationdate="20190404T184313Z">
@@ -24437,6 +24461,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T022102Z" creationid="rkmad" creationdate="20190404T022102Z">
         <seg>これだけで、脱出する方法があるのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When did you get it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T163956Z" creationid="Light" creationdate="20190405T163956Z">
+        <seg>どこで手に入れましたか？</seg>
       </tuv>
     </tu>
     <tu>
