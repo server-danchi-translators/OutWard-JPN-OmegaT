@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A small key that can unlock certain doors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135704Z" creationid="weedssoul" creationdate="20190405T135611Z">
+        <seg>とあるドアを解錠できる小さな鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T034657Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -2949,6 +2957,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064931Z" creationid="setom" creationdate="20190402T064931Z">
         <seg>木や鉄でできた基本的な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic survival tool used to light campfires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135550Z" creationid="weedssoul" creationdate="20190405T135450Z">
+        <seg>キャンプファイアの火をつけるための基本的なサバイバルツール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11366,6 +11382,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042218Z" creationid="はぐくみ会" creationdate="20190403T090508Z">
         <seg>鈍い痛みに目が覚める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It might have other uses, however.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135535Z" creationid="weedssoul" creationdate="20190405T135535Z">
+        <seg>他の用途でも使えそうだが。</seg>
       </tuv>
     </tu>
     <tu>
