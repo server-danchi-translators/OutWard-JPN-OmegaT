@@ -15537,8 +15537,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh Roland...</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153008Z" creationid="weedssoul" creationdate="20190405T153008Z">
-        <seg>Roland が....</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153510Z" creationid="weedssoul" creationdate="20190405T153008Z">
+        <seg>Roland が...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24119,6 +24119,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042738Z" creationid="はぐくみ会" creationdate="20190404T010441Z">
         <seg>あなたを救助した者達は身元が分かる痕跡やサインを残さず去っていた。支払いも求めることなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why am I not surprised?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153535Z" creationid="weedssoul" creationdate="20190405T153504Z">
+        <seg>別に驚くことではない。</seg>
       </tuv>
     </tu>
     <tu>
