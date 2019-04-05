@@ -2319,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a fruit, these berries restore stamina over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T141940Z" creationid="weedssoul" creationdate="20190405T141940Z">
+        <seg>果物と同様に、ベリーは徐々にスタミナを回復させる.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As children, your Father and I were close.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033614Z" creationid="rkmad" creationdate="20190405T033614Z">
@@ -4503,6 +4511,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133349Z" creationid="setom" creationdate="20190402T133349Z">
         <seg>来いよ、凍死しちまう前に火のそばで温まっとけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common berry that only offers a small amount of nutrition and will quickly rot unless cooked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T141838Z" creationid="weedssoul" creationdate="20190405T141838Z">
+        <seg>僅かな栄養を提供してくれる普通のベリー。調理しないとすぐに腐ってしまう。Common berry that only offers a small amount of nutrition and will quickly rot unless cooked.</seg>
       </tuv>
     </tu>
     <tu>
