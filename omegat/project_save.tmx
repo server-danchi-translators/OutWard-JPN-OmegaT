@@ -12444,6 +12444,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listen, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151151Z" creationid="weedssoul" creationdate="20190405T151151Z">
+        <seg>聞きなさい, [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listen, if you need something from someone here...</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T054940Z" creationid="rkmad" creationdate="20190404T054940Z">
@@ -22123,6 +22131,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065249Z" creationid="hiru4" creationdate="20190403T065249Z">
         <seg>クライアントまたはサーバーのセキュリティ設定で接続が許可されていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The shipwreck that killed so many of our people, and nearly took your life was the fault of Yzan’s brother, Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151441Z" creationid="weedssoul" creationdate="20190405T151441Z">
+        <seg>多くの人の命を奪い、あなたも殺しかけたあの難破は、 Yzan の兄弟 Roland の失敗によるものです。</seg>
       </tuv>
     </tu>
     <tu>
