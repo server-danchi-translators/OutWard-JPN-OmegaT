@@ -12420,6 +12420,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s... complicated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165030Z" creationid="weedssoul" creationdate="20190405T165030Z">
+        <seg>それは...わからない。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m certain he was a general in Levant’s army.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T185727Z" creationid="magur0w" creationdate="20190404T185727Z">
@@ -14598,8 +14606,8 @@
       <tuv lang="EN-US">
         <seg>My Blood Price is still worth thousands of silvers!</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164840Z" creationid="weedssoul" creationdate="20190405T164840Z">
-        <seg>私の「血の代償」は、数千の銀貨分残っている。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164932Z" creationid="weedssoul" creationdate="20190405T164840Z">
+        <seg>私の「血の代償」は、まだ銀貨数千枚分も残っている！</seg>
       </tuv>
     </tu>
     <tu>
@@ -21281,6 +21289,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone I think of as close to family.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165147Z" creationid="weedssoul" creationdate="20190405T165147Z">
+        <seg>家族と思えるような誰かを。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone from the slums of Levant must have found you and brought you to safety.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T045106Z" creationid="pugnus" creationdate="20190404T045106Z">
@@ -24699,6 +24715,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where is this coming from?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165023Z" creationid="weedssoul" creationdate="20190405T165023Z">
+        <seg>それだけの大金をどうやって集めるのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where you decide to rest also impacts how likely it is you will be attacked.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T090757Z" creationid="setom" creationdate="20190402T090757Z">
@@ -24815,6 +24839,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023046Z" creationid="hiru4" creationdate="20190402T023046Z">
         <seg>ウィンドウモード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With Oliele abandoning the family, I need someone that I can rely on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165244Z" creationid="weedssoul" creationdate="20190405T165113Z">
+        <seg>Oliele が家族を捨てた今、私は誰か信頼できる人を必要としている。</seg>
       </tuv>
     </tu>
     <tu>
