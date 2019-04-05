@@ -3450,6 +3450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But to show such negligence...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153232Z" creationid="weedssoul" creationdate="20190405T153232Z">
+        <seg>しかし、そのような怠慢を見せられると....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But until then, your concern should be for those whose lives were lost in the wreck.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222415Z" creationid="seto" creationdate="20190404T222415Z">
@@ -9526,8 +9534,8 @@
       <tuv lang="EN-US">
         <seg>He confessed as much to me himself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T152304Z" creationid="weedssoul" creationdate="20190405T152304Z">
-        <seg>そのようなことを彼は私に告白した。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153209Z" creationid="weedssoul" creationdate="20190405T152304Z">
+        <seg>彼はそう私に白状した。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9569,6 +9577,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T123840Z" creationid="pugnus" creationdate="20190404T114510Z">
         <seg>彼は大声で朗らかな演説をし、それから彼の村の門まで歩く。そして、できる限りの力で...あなたを投げつける！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He must be held accountable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153255Z" creationid="weedssoul" creationdate="20190405T153255Z">
+        <seg>責任を取らされるのは当然だろう。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,6 +23116,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091552Z" creationid="setom" creationdate="20190403T091552Z">
         <seg>Tutorial_Leave_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Twelve people are dead because of his actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153416Z" creationid="weedssoul" creationdate="20190405T153416Z">
+        <seg>彼の行動により、12人も死んだのだから。.</seg>
       </tuv>
     </tu>
     <tu>
