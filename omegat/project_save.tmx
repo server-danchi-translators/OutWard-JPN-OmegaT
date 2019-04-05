@@ -8980,6 +8980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Going forward will strand you in the wilderness until you make your way back to the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T152010Z" creationid="Mad" creationdate="20190405T152010Z">
+        <seg>ここから落ちた場合、村に戻るために危険な荒野を通り抜けなくてはなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gold Belly</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113455Z" creationid="Gaiden Shinji" creationdate="20190404T113455Z">
@@ -26498,6 +26506,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Merchants_Trainers_MessageBoards.xml</prop>
+      <prop type="id">756_0</prop>
+      <tuv lang="EN-US">
+        <seg>Danger!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190405T152020Z" creationid="Mad" creationdate="20190405T151849Z">
+        <seg>この先、危険につき注意！</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
       <prop type="id">1012_0</prop>
