@@ -6844,6 +6844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either move at Aurai's pace, or you will be left behind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092106Z" creationid="rkmad" creationdate="20190405T092106Z">
+        <seg>オーライのペースで生きることが出来なければ、あなたは世界から取り残されることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either pay up, or get out of our way!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T221223Z" creationid="seto" creationdate="20190404T221215Z">
@@ -7456,6 +7464,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T092152Z" creationid="pugnus" creationdate="20190404T092152Z">
         <seg>現在でも、あなたの視野は永遠に暗いままだ。そして、現在でもあなたの行為の影響は Aurai の歴史にとって重要な部分のままだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even though the payment was late, you've proven you can survive in Aurai.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T091232Z" creationid="rkmad" creationdate="20190405T091232Z">
+        <seg>支払いこそ遅れましたが、あなたはあなた自身がオーライで生き残ることが出来るということを証明したのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9847,6 +9863,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to be more efficient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T091942Z" creationid="rkmad" creationdate="20190405T091942Z">
+        <seg>もっと効率的に物事をこなす必要があると。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to escape.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T055509Z" creationid="rkmad" creationdate="20190404T055459Z">
@@ -10379,6 +10403,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065334Z" creationid="rkmad" creationdate="20190404T065334Z">
         <seg>マナの最大値が25増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indeed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092004Z" creationid="rkmad" creationdate="20190405T092004Z">
+        <seg>その通り。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11688,6 +11720,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021936Z" creationid="setom" creationdate="20190402T021936Z">
         <seg>LegacyChestMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lesson learned, then.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T091920Z" creationid="rkmad" creationdate="20190405T091857Z">
+        <seg>ついでに教訓も得ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20388,6 +20428,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That you did, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T091142Z" creationid="rkmad" creationdate="20190405T091142Z">
+        <seg>それは分かっています。[PlayerName]、あなたは失敗しましたが、得たものもありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042343Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
@@ -20804,6 +20852,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042526Z" creationid="はぐくみ会" creationdate="20190403T234301Z">
         <seg>目を開くと、巨人の商人が大きな笑みであなたを迎える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The world will not wait for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092027Z" creationid="rkmad" creationdate="20190405T092027Z">
+        <seg>世界は常に動いています。あなたを待ってくれはしません。</seg>
       </tuv>
     </tu>
     <tu>
