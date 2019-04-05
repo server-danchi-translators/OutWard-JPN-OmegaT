@@ -1783,6 +1783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all, your grandmother was Chamberlady once, before she was exiled for her actions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033251Z" creationid="rkmad" creationdate="20190405T033251Z">
+        <seg>更に言えば、あなたの祖母は彼女の無謀な行いにより追放されるまで、議会に代表者として参加していたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the Resting Time, your fatigue status will be {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024207Z" creationid="hiru4" creationdate="20190402T024207Z">
@@ -2243,6 +2251,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064149Z" creationid="setom" creationdate="20190402T064149Z">
         <seg>Cabal of Windsの秘宝である槍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As children, your Father and I were close.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033614Z" creationid="rkmad" creationdate="20190405T033614Z">
+        <seg>子供の頃、あなたの父親と私は親友……いえ、とても親密な仲でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As such, I wield much power within the town of Cierzo, but only so long as my decisions are accepted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033112Z" creationid="rkmad" creationdate="20190405T033037Z">
+        <seg>だからこそ、私はこのシエルゾで多少の発言力や決定権を持っているのです。しかし、それはあくまで村人達がそれを受け入れてくれる場合のみ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,6 +6700,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each of us bears one vote on the matters at hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T032643Z" creationid="rkmad" creationdate="20190405T032643Z">
+        <seg>シエルゾ全体に関わる決断を下す必要があるときは、いつでもね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each tree has an unlimited amount of wood that can be gathered.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112707Z" creationid="setom" creationdate="20190331T112707Z">
@@ -9567,6 +9599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t want to see you suffer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034754Z" creationid="rkmad" creationdate="20190405T034754Z">
+        <seg>だからこそ、私はあなたが苦しむ姿を見たくないのです……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I doubt you'd be able to gather that much in such a short time just by staying in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T125433Z" creationid="rkmad" creationdate="20190404T090955Z">
@@ -9663,6 +9703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I must admit, she was better suited for him... despite it all, we remained close friends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034656Z" creationid="rkmad" creationdate="20190405T034531Z">
+        <seg>私は彼女のほうが彼に相応しいのだと、認めざるを得なかった。しかし、それでも我々は親しい友人であることに代わりはなかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I must carve out my own future, or die trying.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104614Z" creationid="setom" creationdate="20190402T104614Z">
@@ -9727,10 +9775,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I never have paid much mind to politics.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T031859Z" creationid="rkmad" creationdate="20190405T031859Z">
+        <seg>私は政治にあまり注意を払ったことがなく、詳しく無いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I represent us within the Blue Chamber Collective, whenever the tribes need to make a decision that affects us all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T032134Z" creationid="rkmad" creationdate="20190405T032134Z">
+        <seg>私はシエルゾの代表として、青の議会に参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I said, that is enough!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222157Z" creationid="seto" creationdate="20190404T222157Z">
         <seg>もう十分だといったはずよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I saw a future for us... but he could not stand by as the woman who would be your mother bore the weight of your grandmother's sins alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034609Z" creationid="rkmad" creationdate="20190405T034315Z">
+        <seg>もしかしたら、今とは違う関係が私とあなたの間にもあったかもしれない。そんな未来の可能性が私達には見えていました。ですが、そうはならなかった。彼――あなたの父は、あなたの祖母の行いによる重圧に、長く耐えられなかったのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,6 +13496,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132509Z" creationid="totochan" creationdate="20190402T194000Z">
         <seg>清潔な水を煮沸する必要はありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No one in the Collective is above the law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033359Z" creationid="rkmad" creationdate="20190405T033359Z">
+        <seg>誰一人として、法や規律から逃れることは出来ないのですよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18737,6 +18817,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should a Chamberlord call a meeting, we gather in the city of Berg, the birthplace of our Collective, and hold a discussion, then a vote.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T032948Z" creationid="rkmad" creationdate="20190405T032933Z">
+        <seg>議会の主催者が招集をかけたとき、私を含めた代表者達は議会の発祥であるベルクの街に集まります。そして、様々な物事を議論し、投票を行うのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Enemy Health</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021640Z" creationid="hiru4" creationdate="20190402T021640Z">
@@ -20647,6 +20735,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There’s only so much a single huntress can manage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034557Z" creationid="rkmad" creationdate="20190405T034356Z">
+        <seg>それを癒やすことが出来たのは、一人の女狩人だけでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These twisted Ghosts crave your very life!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T095544Z" creationid="pugnus" creationdate="20190404T095544Z">
@@ -20691,6 +20787,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042339Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
         <seg>それから彼らは陽気に旅館へと行く...彼らがあなたの命をどのように救い、支払いさえ要求しなかったと女の子たちに自慢するために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They turned into a natural team, working to redeem your bloodline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034617Z" creationid="rkmad" creationdate="20190405T034506Z">
+        <seg>彼らはそれが自然なことのように意気投合し、血統の償いを行うために働いていました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22017,6 +22121,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are your duties as Chamberlady?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T030509Z" creationid="rkmad" creationdate="20190405T030509Z">
+        <seg>議会では、あなたはどういった仕事をしているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What can I do to help you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011139Z" creationid="rkmad" creationdate="20190404T010700Z">
@@ -22199,6 +22311,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173619Z" creationid="magur0w" creationdate="20190404T173619Z">
         <seg>何でまだここにいるんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033507Z" creationid="rkmad" creationdate="20190405T033411Z">
+        <seg>それが不思議で仕方がない。何故なのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -23124,6 +23244,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You may not be connected to me by blood or tradition, but I still consider you family, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034733Z" creationid="rkmad" creationdate="20190405T034733Z">
+        <seg>[PlayerName]。私とあなたは血の繋がりはありません。ですが、本当の家族のように想っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may not have much time left before the poison takes you...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T111752Z" creationid="pugnus" creationdate="20190404T111752Z">
@@ -23717,6 +23845,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T143104Z" creationid="setom" creationdate="20190402T143104Z">
         <seg>服も着ねぇで歩き回ってみろ、風邪引いちまうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re always trying to look after me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T033442Z" creationid="rkmad" creationdate="20190405T033442Z">
+        <seg>貴女は私に対して、いつも親切に接してくれる。</seg>
       </tuv>
     </tu>
     <tu>
