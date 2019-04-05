@@ -1648,8 +1648,8 @@
       <tuv lang="EN-US">
         <seg>A corpse hanging from a gibbet passes your vision...As unconsciousness takes you, you know that you have been taken prisoner by the Montcalm Tribe...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T041410Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
-        <seg>絞首台からぶら下がっている死体があなたの視界を横切り、また意識を失う。あなたは Montcalm 族によって捕虜にされたようだ...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190405T234757Z" creationid="はぐくみ会" creationdate="20190403T065141Z">
+        <seg>絞首台からぶら下がっている死体があなたの視界を横切り、また意識を失う。あなたはMontcalm 族によって捕虜にされたようだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12806,8 +12806,8 @@
       <tuv lang="EN-US">
         <seg>Leaning on her, you manage to hobble back to Cierzo, more dead than alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T122209Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
-        <seg>彼女に肩を借り、足を引き摺りながら Cierzo に戻ってきた。あなたは死にかけたが、生き残った。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190405T234704Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
+        <seg>彼女に肩を借り、足を引き摺りながらCierzo に戻ってきた。あなたは死にかけたが、生き残った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16881,8 +16881,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or refuse to work, and it's to 'The Hole' with ye!"</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042158Z" creationid="はぐくみ会" creationdate="20190403T084937Z">
-        <seg>または、仕事を拒否するのなら、「穴」へ！"</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190405T234903Z" creationid="はぐくみ会" creationdate="20190403T084937Z">
+        <seg>または、仕事を拒否するのなら、「The Hole」へ！"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26378,8 +26378,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your consciousness fades again for a few minutes, before you manage to get up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T040434Z" creationid="はぐくみ会" creationdate="20190403T061812Z">
-        <seg>あなたは立ち上がろうとするが、再びあなたの意識は数分間消える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190405T234631Z" creationid="はぐくみ会" creationdate="20190403T061812Z">
+        <seg>あなたは立ち上がろうとするが、再びあなたの意識は数分間消えた。</seg>
       </tuv>
     </tu>
     <tu>
