@@ -2073,8 +2073,8 @@
       <tuv lang="EN-US">
         <seg>An official Council Meeting has been called.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163447Z" creationid="weedssoul" creationdate="20190405T163447Z">
-        <seg>公式の評議会が招集された。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164009Z" creationid="weedssoul" creationdate="20190405T163447Z">
+        <seg>公式の議会が招集された。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10991,6 +10991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are able, &lt;color=#00CCFF&gt;&lt;b&gt;I’d like you to meet me there&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164035Z" creationid="weedssoul" creationdate="20190405T164035Z">
+        <seg>もし可能なら、&lt;color=#00CCFF&gt;&lt;b&gt;Berg で会いましょう。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you bring him alive…well, the Tribe would owe you a great favor.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082340Z" creationid="rkmad" creationdate="20190404T082340Z">
@@ -12342,8 +12350,8 @@
       <tuv lang="EN-US">
         <seg>I’m going to &lt;color=#00CCFF&gt;&lt;b&gt;Berg&lt;/b&gt;&lt;/color&gt;, the main settlement in the &lt;color=#00CCFF&gt;&lt;b&gt;Enmerkar region&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163910Z" creationid="weedssoul" creationdate="20190405T163851Z">
-        <seg>私は &lt;color=#00CCFF&gt;&lt;b&gt;Berg&lt;/b&gt;&lt;/color&gt; に向かう。 Berg は &lt;color=#00CCFF&gt;&lt;b&gt;Enmerkar 地方&lt;/b&gt;&lt;/color&gt; の主要な開拓地だ。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164309Z" creationid="weedssoul" creationdate="20190405T163851Z">
+        <seg>私はこれから、&lt;color=#00CCFF&gt;&lt;b&gt;Enmerkar 地方&lt;/b&gt;&lt;/color&gt; の主要な開拓地である &lt;color=#00CCFF&gt;&lt;b&gt;Berg&lt;/b&gt;&lt;/color&gt; に向かう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22529,6 +22537,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042233Z" creationid="はぐくみ会" creationdate="20190403T091808Z">
         <seg>幽霊はあなたの腕を離し、向きを変え、昔はそこにあったであろう扉を閉める動作をし、空中で「鍵」をひねるように動かす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The home city of all of the tribes, birthplace of our Blue Chamber Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164000Z" creationid="weedssoul" creationdate="20190405T164000Z">
+        <seg>すべての部族の故郷であり、我ら青の議会の誕生の地。.</seg>
       </tuv>
     </tu>
     <tu>
