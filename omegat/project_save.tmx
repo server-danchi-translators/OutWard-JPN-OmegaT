@@ -3554,6 +3554,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But my offer is open to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165556Z" creationid="weedssoul" creationdate="20190405T165556Z">
+        <seg>しかし、あなたはいつでも提案を受け入れられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But remember, your tribe is your family.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090452Z" creationid="rkmad" creationdate="20190404T090358Z">
@@ -10553,8 +10561,8 @@
       <tuv lang="EN-US">
         <seg>I have an offer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164343Z" creationid="weedssoul" creationdate="20190405T164343Z">
-        <seg>一つ提案がある。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165421Z" creationid="weedssoul" creationdate="20190405T164343Z">
+        <seg>一つ提案がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10891,6 +10899,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164640Z" creationid="Light" creationdate="20190405T164235Z">
         <seg>今朝、私はエラットの聖なる任務に参加するために町を出ようと思うわ、母が止める前にね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I won’t force you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165515Z" creationid="weedssoul" creationdate="20190405T165515Z">
+        <seg>強制はしません。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12460,10 +12476,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s your choice, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165459Z" creationid="weedssoul" creationdate="20190405T165459Z">
+        <seg>あなたが決めなさい, [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s... complicated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165030Z" creationid="weedssoul" creationdate="20190405T165030Z">
-        <seg>それは...わからない。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165356Z" creationid="weedssoul" creationdate="20190405T165030Z">
+        <seg>それは...わからない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22719,8 +22743,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The home city of all of the tribes, birthplace of our Blue Chamber Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164000Z" creationid="weedssoul" creationdate="20190405T164000Z">
-        <seg>すべての部族の故郷であり、我ら青の議会の誕生の地。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165416Z" creationid="weedssoul" creationdate="20190405T164000Z">
+        <seg>すべての部族の故郷であり、我ら青の議会の誕生の地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26403,8 +26427,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your name would be cleared, and your burden lifted forever.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T164741Z" creationid="weedssoul" creationdate="20190405T164617Z">
-        <seg>あなたの名はきれいになり, あなたの重荷は永遠に解かれる。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T165450Z" creationid="weedssoul" creationdate="20190405T164617Z">
+        <seg>あなたの名はきれいになり, あなたの重荷は永遠に解かれる。</seg>
       </tuv>
     </tu>
     <tu>
