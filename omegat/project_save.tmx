@@ -3428,8 +3428,8 @@
       <tuv lang="EN-US">
         <seg>Burac, the gate warden, is by the front gate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T161923Z" creationid="Light" creationdate="20190405T161923Z">
-        <seg>門番長Buracはゲートの前だよ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190405T162349Z" creationid="Light" creationdate="20190405T161923Z">
+        <seg>門兵長Buracはゲートの前だよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,6 +8944,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115845Z" creationid="setom" creationdate="20190401T115845Z">
         <seg>General_Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally speaking, winter can get unbearably cold, so wear thick clothing and keep torches and campfires on hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T162635Z" creationid="Light" creationdate="20190405T162635Z">
+        <seg>一般的に言えば、冬はすごく寒い、だから厚い服を着て松明を灯し、キャンプファイヤセットを持っていたほうがいい。</seg>
       </tuv>
     </tu>
     <tu>
