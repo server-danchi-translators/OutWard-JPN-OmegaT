@@ -9390,8 +9390,8 @@
       <tuv lang="EN-US">
         <seg>Good decision on his part, then.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T155050Z" creationid="weedssoul" creationdate="20190405T155050Z">
-        <seg>彼にとって良い選択だと思う。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170553Z" creationid="weedssoul" creationdate="20190405T155050Z">
+        <seg>彼にとっては良い選択だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11113,8 +11113,8 @@
       <tuv lang="EN-US">
         <seg>If all of us acted so selfishly, there would be no tribe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T155430Z" creationid="weedssoul" creationdate="20190405T155430Z">
-        <seg>我々がみなそのように利己的に振る舞っていたら、部族などありえない。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170612Z" creationid="weedssoul" creationdate="20190405T155430Z">
+        <seg>我々がみなそのように身勝手に振る舞っていたら、部族などありえない。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22491,6 +22491,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That is a far worse fate than a few individuals repaying the harm they've caused.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170731Z" creationid="weedssoul" creationdate="20190405T170731Z">
+        <seg>それは、数人が自分で引き起こした害の返済を行うよりもはるかに悪い結末だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That man was more valuable to us than you know.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184313Z" creationid="magur0w" creationdate="20190404T184313Z">
@@ -23033,8 +23041,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then why are you still here?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163516Z" creationid="weedssoul" creationdate="20190405T163516Z">
-        <seg>では、何故まだここにいるのですか？</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170835Z" creationid="weedssoul" creationdate="20190405T163516Z">
+        <seg>では、何故まだここにいる？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24635,8 +24643,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What happened?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163346Z" creationid="weedssoul" creationdate="20190405T163346Z">
-        <seg>何が起きたのです？</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170813Z" creationid="weedssoul" creationdate="20190405T163346Z">
+        <seg>何が起きた？</seg>
       </tuv>
     </tu>
     <tu>
@@ -24893,8 +24901,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Why?</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T033507Z" creationid="rkmad" creationdate="20190405T033411Z">
-        <seg>それが不思議で仕方がない。何故なのですか？</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170818Z" creationid="rkmad" creationdate="20190405T033411Z">
+        <seg>それが不思議で仕方がない。何故？</seg>
       </tuv>
     </tu>
     <tu>
