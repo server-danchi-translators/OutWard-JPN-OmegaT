@@ -8140,6 +8140,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forget staying for the mourning period.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T165112Z" creationid="Light" creationdate="20190405T165112Z">
+        <seg>喪の期間など気にせずに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, they ignore you as you free yourself from the stake and arm yourself for another round!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T113343Z" creationid="pugnus" creationdate="20190404T113343Z">
@@ -10559,6 +10567,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope she convinces you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T164822Z" creationid="Light" creationdate="20190405T164822Z">
+        <seg>説得できるといいですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
@@ -10883,6 +10899,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190405T150312Z" creationid="Mad" creationdate="20190405T150312Z">
         <seg>彼女が居なくなるなんて、私は寂しく思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll miss you if you leave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T164954Z" creationid="Light" creationdate="20190405T164954Z">
+        <seg>あなたがいなくなるのは寂しいです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25940,6 +25964,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should just go now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T165005Z" creationid="Light" creationdate="20190405T165005Z">
+        <seg>今すぐ行くべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should speak with her once you’ve recovered.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T101525Z" creationid="pugnus" creationdate="20190404T101525Z">
@@ -26075,6 +26107,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T114944Z" creationid="pugnus" creationdate="20190404T114455Z">
         <seg>あなたはなにを考えているのだろうか、Cyr があなたを持ち上げる。片手だけで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're abandoning your name and home anyway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T165025Z" creationid="Light" creationdate="20190405T165025Z">
+        <seg>名前も故郷も捨てて、</seg>
       </tuv>
     </tu>
     <tu>
