@@ -2071,6 +2071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And Yzan?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151053Z" creationid="weedssoul" creationdate="20190405T151023Z">
+        <seg>Yzan も？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And on time, too!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035358Z" creationid="rkmad" creationdate="20190405T035358Z">
@@ -9464,6 +9472,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130101Z" creationid="rkmad" creationdate="20190404T092000Z">
         <seg>彼は戦いについて、いくつものことをあなたに教えてくれるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He can't be ready for another expedition already!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151142Z" creationid="weedssoul" creationdate="20190405T151142Z">
+        <seg>彼はまだ遠征の支度ができていないはずだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -23911,6 +23927,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173619Z" creationid="magur0w" creationdate="20190404T173619Z">
         <seg>何でまだここにいるんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why is he leaving?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T151047Z" creationid="weedssoul" creationdate="20190405T151047Z">
+        <seg>なぜ彼が？</seg>
       </tuv>
     </tu>
     <tu>
