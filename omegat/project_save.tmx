@@ -10071,6 +10071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't think I'm fit to run back home just yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140328Z" creationid="Light" creationdate="20190405T140328Z">
+        <seg>僕はまだ家に帰れるとは思わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t care if you have to make one, I need one.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T021954Z" creationid="rkmad" creationdate="20190404T021423Z">
@@ -10335,6 +10343,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I seriously owe you one!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140239Z" creationid="Light" creationdate="20190405T135945Z">
+        <seg>本当に君のおかげだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I should also let you know.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094143Z" creationid="rkmad" creationdate="20190405T094143Z">
@@ -10423,6 +10439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll go find a safe place to let that medicine do its thing, then go home the second I'm able.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140627Z" creationid="Light" creationdate="20190405T140627Z">
+        <seg>僕は休める場所を見つけて薬が効くのを待つよ、それから家に帰ろうと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll look for something, hang on!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T134540Z" creationid="Light" creationdate="20190405T134359Z">
@@ -10443,6 +10467,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035732Z" creationid="rkmad" creationdate="20190405T035732Z">
         <seg>これで、お金を必要とする村人達に、あなたが集めてくれたものが送られるのを、見届けることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll talk to Aunt Rissa, and make sure you get a full &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; for this!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140219Z" creationid="Light" creationdate="20190405T140219Z">
+        <seg>僕はこのことをRissaに伝えるよ、これで君は&lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;を得られるはずだよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -16155,6 +16187,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141805Z" creationid="totochan" creationdate="20190403T132724Z">
         <seg>Outward を閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ow...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140301Z" creationid="Light" creationdate="20190405T140301Z">
+        <seg>おう...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25771,8 +25811,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>thanks</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190405T102034Z" creationid="rkmad" creationdate="20190404T015200Z">
-        <seg>thanks</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190405T140255Z" creationid="rkmad" creationdate="20190404T015200Z">
+        <seg>ありがとう！</seg>
       </tuv>
     </tu>
     <tu>
