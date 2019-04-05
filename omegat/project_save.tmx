@@ -2023,6 +2023,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And on time, too!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035358Z" creationid="rkmad" creationdate="20190405T035358Z">
+        <seg>ああ、期日に間に合わせられるだなんて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T175927Z" creationid="magur0w" creationdate="20190404T175927Z">
@@ -9891,6 +9899,22 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214322Z" creationid="rkmad" creationdate="20190404T092439Z">
         <seg>私の血の代償について話がしたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll see that this money gets to the families that need it most.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035732Z" creationid="rkmad" creationdate="20190405T035732Z">
+        <seg>これで、お金を必要とする村人達に、あなたが集めてくれたものが送られるのを、見届けることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm impressed, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035415Z" creationid="rkmad" creationdate="20190405T035415Z">
+        <seg>[PlayerName]、あなたの行いに私は感動しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20211,6 +20235,14 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for your efforts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035825Z" creationid="rkmad" creationdate="20190405T035744Z">
+        <seg>あなたの素晴らしい行いに、まずは感謝を。そして、おめでとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
@@ -23675,6 +23707,14 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082855Z" creationid="rkmad" creationdate="20190404T082855Z">
         <seg>あなたは時間の節約のために &lt;color=#00CCFF&gt;&lt;b&gt;灯台の下にある倉庫のトンネル&lt;/b&gt;&lt;/color&gt;を使うことを考えていますね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You've proven you can be an excellent asset to the tribe when you put your mind to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035454Z" creationid="rkmad" creationdate="20190405T035454Z">
+        <seg>あなたは村人達にとって、あなた自身が必要な存在であることを証明できたのです。</seg>
       </tuv>
     </tu>
     <tu>
