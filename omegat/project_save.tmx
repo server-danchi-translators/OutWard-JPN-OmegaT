@@ -26251,10 +26251,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“On the festival’s last day, we shun the spirit of hunger.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T150228Z" creationid="weedssoul" creationdate="20190405T150228Z">
+        <seg>“祭礼の最終日、我々は飢餓の精霊を避けた”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“On the festival’s second day, we bow to the spirit of perseverance.”</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T150007Z" creationid="weedssoul" creationdate="20190405T150007Z">
         <seg>“祭礼の二日目、我々は忍耐の精霊にお辞儀した”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“On the festival’s third day, we cower before the spirit of death.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T150123Z" creationid="weedssoul" creationdate="20190405T150123Z">
+        <seg>“祭礼の三日目、我々は死の精霊の前に怖気づいた”</seg>
       </tuv>
     </tu>
     <tu>
