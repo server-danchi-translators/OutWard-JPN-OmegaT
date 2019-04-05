@@ -3426,6 +3426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burac, the gate warden, is by the front gate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T161923Z" creationid="Light" creationdate="20190405T161923Z">
+        <seg>門番長Buracはゲートの前だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burn</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133848Z" creationid="totochan" creationdate="20190403T133848Z">
@@ -10935,6 +10943,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want specifics, ask Burac, our gate warden.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T162341Z" creationid="Light" creationdate="20190405T162341Z">
+        <seg>詳しいことを聞きたいなら門兵長Buracに聞くべきだね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to take this back up with [PlayerName] after the mourning period, feel free.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222328Z" creationid="seto" creationdate="20190404T222328Z">
@@ -15695,6 +15711,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, and Helen Turnbull is looking for curious objects, see her up on the raised deck near the inn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T162130Z" creationid="Light" creationdate="20190405T162130Z">
+        <seg>あ、そうだ。Helen Turnbullはいつも変わったものを探しているよ。彼女は宿の近くのデッキを上った先だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oil</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114240Z" creationid="Gaiden Shinji" creationdate="20190403T114240Z">
@@ -16537,8 +16561,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Our training area is on top of the raised docks, I’m sure you’ll find someone there with the time to mentor you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T161506Z" creationid="Light" creationdate="20190405T161506Z">
-        <seg>トレーニングする場所はデッキをあがった上だね。誰か君のためになる人に会えると思うよ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190405T161532Z" creationid="Light" creationdate="20190405T161506Z">
+        <seg>トレーニングする場所はデッキをあがった上だね。誰か君のためになる人を見つける事ができると思うよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21571,6 +21595,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tell me about the surrounding region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T162211Z" creationid="Light" creationdate="20190405T162211Z">
+        <seg>このあたりの地域の事を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114324Z" creationid="setom" creationdate="20190401T114324Z">
@@ -22104,6 +22136,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160428Z" creationid="weedssoul" creationdate="20190405T160428Z">
         <seg>「血の代償」は血族全員から徴収されなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Chamberlady, Rissa Aberdeen is usually in her manor on top of the hill when she’s staying in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T161831Z" creationid="Light" creationdate="20190405T161831Z">
+        <seg>Rissa Aberdeen議長はいつも彼女の屋敷にいるよ。Cierzoにいる間はね。屋敷は丘の上だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24351,6 +24391,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042738Z" creationid="はぐくみ会" creationdate="20190404T010441Z">
         <seg>あなたを救助した者達は身元が分かる痕跡やサインを残さず去っていた。支払いも求めることなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who’s important in this city?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T161633Z" creationid="Light" creationdate="20190405T161633Z">
+        <seg>この町で重要な人物はいますか？</seg>
       </tuv>
     </tu>
     <tu>
