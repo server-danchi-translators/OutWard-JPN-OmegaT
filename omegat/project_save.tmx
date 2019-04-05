@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Give a health potion.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134734Z" creationid="Light" creationdate="20190405T134734Z">
+        <seg>(health potionを与えた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The sound of an explosion rocks the air and makes the ground tremble beneath your feet.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180757Z" creationid="magur0w" creationdate="20190404T180757Z">
@@ -10353,8 +10361,8 @@
       <tuv lang="EN-US">
         <seg>I'll look for something, hang on!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T134359Z" creationid="Light" creationdate="20190405T134359Z">
-        <seg>いいものがないか探してくる、ちょっと待ってて！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134540Z" creationid="Light" creationdate="20190405T134359Z">
+        <seg>なにか使えるものがないか探してきます、待っていてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15403,6 +15411,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164049Z" creationid="setom" creationdate="20190402T090156Z">
         <seg>[InputAction_ToggleLights]でランタンを点けたり消したりできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open your mouth, I have a potion I can use!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190405T134454Z" creationid="Light" creationdate="20190405T134454Z">
+        <seg>薬を持ってきました、口を開けてください！</seg>
       </tuv>
     </tu>
     <tu>
