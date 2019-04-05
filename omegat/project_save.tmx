@@ -2353,8 +2353,8 @@
       <tuv lang="EN-US">
         <seg>As captain, he should have known better than to approach the bay when the lighthouse was not lit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T154021Z" creationid="weedssoul" creationdate="20190405T154021Z">
-        <seg>船長として、灯台に光がついていないのなら、湾に近づいてはいけないと知っておくべきだった。。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T154047Z" creationid="weedssoul" creationdate="20190405T154021Z">
+        <seg>船長として、灯台に光がついていないのなら、湾に近づいてはいけないと知っておくべきだった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22751,6 +22751,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This tragedy would have been avoided if either of them had used their heads.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T154134Z" creationid="weedssoul" creationdate="20190405T154134Z">
+        <seg>かの悲劇は、彼らのうち一人でも正常な判断ができれば、避けることができた。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This was a mistake.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
@@ -25771,8 +25779,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yzan bears responsibility as well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T153627Z" creationid="weedssoul" creationdate="20190405T153627Z">
-        <seg>同様に Yzan も責任を負う。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T154043Z" creationid="weedssoul" creationdate="20190405T153627Z">
+        <seg>同様の責任を Yzan も負わなければならない。</seg>
       </tuv>
     </tu>
     <tu>
