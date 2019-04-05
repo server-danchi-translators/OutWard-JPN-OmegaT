@@ -3010,10 +3010,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides, you learned how to survive on your own, like a bird pushed from its nest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092724Z" creationid="rkmad" creationdate="20190405T092724Z">
+        <seg>例えるなら鳥の巣から押し出されるようで、あなたが望んだことではないでしょうけれども。それでも、あなたは自分自身の力で生き残る術を学べたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitterness still runs very deep in the tribe.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130234Z" creationid="rkmad" creationdate="20190404T085445Z">
         <seg>村の人々には、まだその痛みと苦しみが根強く残っているのですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bitterness won't do you any good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092549Z" creationid="rkmad" creationdate="20190405T092549Z">
+        <seg>そのような嫌味は、あなたに何ももたらしませんよ……。どうか私を悲しませないで。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,6 +8944,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113651Z" creationid="Gaiden Shinji" creationdate="20190403T113651Z">
         <seg>グリーンマッシュルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greetings, [PlayerName], how are you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T092752Z" creationid="rkmad" creationdate="20190405T092732Z">
+        <seg>こんにちは、[PlayerName]。 調子はどうですか？</seg>
       </tuv>
     </tu>
     <tu>
