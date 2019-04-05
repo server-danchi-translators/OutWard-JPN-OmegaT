@@ -6283,6 +6283,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decrafting using the “Manual Recipe” of the Survival Crafting menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135325Z" creationid="weedssoul" creationdate="20190405T135325Z">
+        <seg>分解はクラフトメニューのマニュアルレシピから実行できる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decreases your maximum Stamina by 15.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T063132Z" creationid="rkmad" creationdate="20190404T063132Z">
@@ -16315,6 +16323,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114857Z" creationid="seto" creationdate="20190404T114857Z">
         <seg>PickAxeGuy_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pieces of iron, obtained by mining or decrafting metal objects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T134945Z" creationid="weedssoul" creationdate="20190405T134945Z">
+        <seg>採掘や金属オブジェクトを分解することで得られる鉄の欠片</seg>
       </tuv>
     </tu>
     <tu>
