@@ -21068,6 +21068,22 @@ Rissa_NE_Call_To_A_13</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teaches how to craft equipment, requiring no crafting station.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140016Z" creationid="weedssoul" creationdate="20190405T140016Z">
+        <seg>クラフト道具を必要としない装備の作成方法を学ぶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaches how to craft food, using a Cooking Pot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T135930Z" creationid="weedssoul" creationdate="20190405T135930Z">
+        <seg>調理鍋を使った料理方法を学ぶ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teleport</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113200Z" creationid="Gaiden Shinji" creationdate="20190404T113200Z">
