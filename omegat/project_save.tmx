@@ -1983,6 +1983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancestors guide you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035048Z" creationid="rkmad" creationdate="20190405T035048Z">
+        <seg>ええ。祖先が[PlayerName]を導いてくれることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ancestors take him.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184406Z" creationid="magur0w" creationdate="20190404T183842Z">
@@ -2893,6 +2901,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064931Z" creationid="setom" creationdate="20190402T064931Z">
         <seg>木や鉄でできた基本的な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035104Z" creationid="rkmad" creationdate="20190405T035104Z">
+        <seg>安全で健やかであるように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be smart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035118Z" creationid="rkmad" creationdate="20190405T035118Z">
+        <seg>そして、賢明であるように。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6896,6 +6920,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112108Z" creationid="Gaiden Shinji" creationdate="20190404T112108Z">
         <seg>エンマーカル周辺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enough talk about the past.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T034952Z" creationid="rkmad" creationdate="20190405T034952Z">
+        <seg>過去について、十分に聞くことができた。ありがとう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,6 +11256,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T125155Z" creationid="setom" creationdate="20190402T104112Z">
         <seg>帰航の際に船が座礁したのだ。僅かながら幸運なのは、私がまだ息をしていることだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m on my way, farewell, Lady Aberdeen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035017Z" creationid="rkmad" creationdate="20190405T035017Z">
+        <seg>私は私の道を歩まなければならない。さようなら、リッサ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24578,6 +24618,16 @@ Rissa_NE_Call_To_A_13</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1093_0</prop>
+      <tuv lang="EN-US">
+        <seg>goodbye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190405T035144Z" creationid="rkmad" creationdate="20190405T035144Z">
+        <seg>また会いましょう、[PlayerName]。</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
       <prop type="id">1519_0</prop>
