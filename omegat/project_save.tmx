@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T162833Z" creationid="weedssoul" creationdate="20190405T162833Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;戻ってきたら、今後 Cierzo でどうしていくかを考えましょう。&lt;/b&gt;&lt;/color&gt;, 今やあなたは外の世界に出ていけるのだから。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Rissa might be in grave danger&lt;/b&gt;&lt;/color&gt;!)</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181121Z" creationid="magur0w" creationdate="20190404T181121Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090323Z" creationid="rkmad" creationdate="20190405T090137Z">
         <seg>灯台は接収され、&lt;color=#00CCFF&gt;&lt;b&gt;もはやあなたの家ではなくなったのです&lt;/b&gt;&lt;/color&gt;。いまは、兵舎として使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;You should say your goodbyes to Oliele and Yzan&lt;/b&gt;&lt;/color&gt; before they leave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163010Z" creationid="weedssoul" creationdate="20190405T163010Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Oliele と Yzan に別れを告げてきなさい。&lt;/b&gt;&lt;/color&gt; 彼らが去る前に。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1865,8 +1881,8 @@
       <tuv lang="EN-US">
         <seg>Against a line, it can be held for at long as it needs to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T161604Z" creationid="weedssoul" creationdate="20190405T161604Z">
-        <seg>血統に課せば、必要な限りそれは保たれる。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T162930Z" creationid="weedssoul" creationdate="20190405T161604Z">
+        <seg>血統に課せば、それは必要な限り保たれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4599,6 +4615,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071730Z" creationid="hiru4" creationdate="20190402T071730Z">
         <seg>とても寒い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come back once you've said your goodbyes to them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T162138Z" creationid="weedssoul" creationdate="20190405T162138Z">
+        <seg>彼らに別れを告げたら、一度戻ってきて。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16561,8 +16585,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Otherwise, the one who bears it would be pushed to act selfishly rather than repay what is owed to the tribe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T160837Z" creationid="weedssoul" creationdate="20190405T160837Z">
-        <seg>さもなくば、血族に課せられた代償を返済するよりも、利己的に振る舞うことを促進することになってしまう。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T162905Z" creationid="weedssoul" creationdate="20190405T160837Z">
+        <seg>さもなくば、血族に課せられた代償を返済するよりも、身勝手に振る舞うことを促進することになってしまう。</seg>
       </tuv>
     </tu>
     <tu>
