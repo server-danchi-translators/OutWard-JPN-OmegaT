@@ -17287,6 +17287,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potion which instantly restores some mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190405T134451Z" creationid="weedssoul" creationdate="20190405T134451Z">
+        <seg>瞬時にいくからマナを得る薬.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pouch Bonus</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021258Z" creationid="hiru4" creationdate="20190402T021258Z">
