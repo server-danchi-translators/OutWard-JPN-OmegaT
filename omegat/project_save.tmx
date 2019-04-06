@@ -27498,6 +27498,70 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_FoodAttackUp_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044403Z" creationid="seto" creationdate="20190406T044403Z">
+        <seg>StatusEffect_FoodAttackUp_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodAttackUp_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044404Z" creationid="seto" creationdate="20190406T044404Z">
+        <seg>StatusEffect_FoodAttackUp_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodBless_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044405Z" creationid="seto" creationdate="20190406T044405Z">
+        <seg>StatusEffect_FoodBless_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodBless_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044405Z" creationid="seto" creationdate="20190406T044405Z">
+        <seg>StatusEffect_FoodBless_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodCool_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044406Z" creationid="seto" creationdate="20190406T044406Z">
+        <seg>StatusEffect_FoodCool_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodCool_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044407Z" creationid="seto" creationdate="20190406T044407Z">
+        <seg>StatusEffect_FoodCool_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodDiscipline_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044408Z" creationid="seto" creationdate="20190406T044408Z">
+        <seg>StatusEffect_FoodDiscipline_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodDiscipline_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044409Z" creationid="seto" creationdate="20190406T044409Z">
+        <seg>StatusEffect_FoodDiscipline_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_FoodDizzy_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044133Z" creationid="seto" creationdate="20190406T044133Z">
@@ -27542,6 +27606,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044138Z" creationid="seto" creationdate="20190406T044138Z">
         <seg>StatusEffect_FoodEnvHeatResistance_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodImpactUp_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044409Z" creationid="seto" creationdate="20190406T044409Z">
+        <seg>StatusEffect_FoodImpactUp_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -28450,6 +28522,222 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_StaminaRecovery4_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044329Z" creationid="seto" creationdate="20190406T044329Z">
+        <seg>StatusEffect_StaminaRecovery4_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_StaminaRecovery4_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044330Z" creationid="seto" creationdate="20190406T044330Z">
+        <seg>StatusEffect_StaminaRecovery4_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_StaminaRecovery5_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044330Z" creationid="seto" creationdate="20190406T044330Z">
+        <seg>StatusEffect_StaminaRecovery5_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_StaminaRecovery5_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044331Z" creationid="seto" creationdate="20190406T044331Z">
+        <seg>StatusEffect_StaminaRecovery5_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_StealthUp_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044332Z" creationid="seto" creationdate="20190406T044332Z">
+        <seg>StatusEffect_StealthUp_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_StealthUp_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044333Z" creationid="seto" creationdate="20190406T044333Z">
+        <seg>StatusEffect_StealthUp_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Stun_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044334Z" creationid="seto" creationdate="20190406T044334Z">
+        <seg>StatusEffect_Stun_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Stun_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044335Z" creationid="seto" creationdate="20190406T044335Z">
+        <seg>StatusEffect_Stun_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature2_Cold_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044335Z" creationid="seto" creationdate="20190406T044335Z">
+        <seg>StatusEffect_Temperature2_Cold_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature2_Cold_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044337Z" creationid="seto" creationdate="20190406T044337Z">
+        <seg>StatusEffect_Temperature2_Cold_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature3_VeryCold_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044338Z" creationid="seto" creationdate="20190406T044338Z">
+        <seg>StatusEffect_Temperature3_VeryCold_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature3_VeryCold_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044340Z" creationid="seto" creationdate="20190406T044340Z">
+        <seg>StatusEffect_Temperature3_VeryCold_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature4_Hot_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044341Z" creationid="seto" creationdate="20190406T044341Z">
+        <seg>StatusEffect_Temperature4_Hot_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature4_Hot_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044342Z" creationid="seto" creationdate="20190406T044342Z">
+        <seg>StatusEffect_Temperature4_Hot_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature5_VeryHot_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044343Z" creationid="seto" creationdate="20190406T044343Z">
+        <seg>StatusEffect_Temperature5_VeryHot_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Temperature5_VeryHot_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044344Z" creationid="seto" creationdate="20190406T044344Z">
+        <seg>StatusEffect_Temperature5_VeryHot_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_TentSleepBuff_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044345Z" creationid="seto" creationdate="20190406T044345Z">
+        <seg>StatusEffect_TentSleepBuff_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_TentSleepBuff_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044346Z" creationid="seto" creationdate="20190406T044346Z">
+        <seg>StatusEffect_TentSleepBuff_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst2_Parched_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044347Z" creationid="seto" creationdate="20190406T044347Z">
+        <seg>StatusEffect_Thirst2_Parched_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst2_Parched_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044350Z" creationid="seto" creationdate="20190406T044350Z">
+        <seg>StatusEffect_Thirst2_Parched_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst3_Thirsty_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044350Z" creationid="seto" creationdate="20190406T044350Z">
+        <seg>StatusEffect_Thirst3_Thirsty_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst3_Thirsty_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044349Z" creationid="seto" creationdate="20190406T044349Z">
+        <seg>StatusEffect_Thirst3_Thirsty_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst4_Refreshed_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044352Z" creationid="seto" creationdate="20190406T044352Z">
+        <seg>StatusEffect_Thirst4_Refreshed_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Thirst4_Refreshed_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044351Z" creationid="seto" creationdate="20190406T044351Z">
+        <seg>StatusEffect_Thirst4_Refreshed_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WarmBoonAmplified_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044355Z" creationid="seto" creationdate="20190406T044355Z">
+        <seg>StatusEffect_WarmBoonAmplified_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WarmBoonAmplified_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044356Z" creationid="seto" creationdate="20190406T044356Z">
+        <seg>StatusEffect_WarmBoonAmplified_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WarmBoon_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044353Z" creationid="seto" creationdate="20190406T044353Z">
+        <seg>StatusEffect_WarmBoon_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_WarmBoon_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091846Z" creationid="setom" creationdate="20190403T091846Z">
@@ -28458,10 +28746,50 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_WaterStaminaRcovery_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044357Z" creationid="seto" creationdate="20190406T044357Z">
+        <seg>StatusEffect_WaterStaminaRcovery_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WaterStaminaRcovery_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044358Z" creationid="seto" creationdate="20190406T044358Z">
+        <seg>StatusEffect_WaterStaminaRcovery_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_Wet_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043432Z" creationid="seto" creationdate="20190406T043432Z">
         <seg>StatusEffect_Wet_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Wet_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044401Z" creationid="seto" creationdate="20190406T044401Z">
+        <seg>StatusEffect_Wet_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WindImbueStats_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044401Z" creationid="seto" creationdate="20190406T044401Z">
+        <seg>StatusEffect_WindImbueStats_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_WindImbueStats_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044403Z" creationid="seto" creationdate="20190406T044403Z">
+        <seg>StatusEffect_WindImbueStats_Name</seg>
       </tuv>
     </tu>
     <tu>
