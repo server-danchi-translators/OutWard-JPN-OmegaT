@@ -8542,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#ff5043&gt;Equipping this backpack slows your dodge.&lt;/color&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134652Z" creationid="weedssoul" creationdate="20190406T134652Z">
+        <seg>&lt;color=#ff5043&gt;このバックパックを装備していると、ドッジロールが遅くなる。&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>???</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034057Z" creationid="seto" creationdate="20190406T034057Z">
@@ -11181,6 +11189,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114333Z" creationid="setom" creationdate="20190401T114333Z">
         <seg>基本ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic craftable bag used to store items, though it lacks a spot to hang a lantern from.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134635Z" creationid="weedssoul" creationdate="20190406T134635Z">
+        <seg>アイテムをしまうために使われる基本的な鞄。しかし、ランタンを吊るすことはできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34091,6 +34107,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065106Z" creationid="hiru4" creationdate="20190403T065106Z">
         <seg>プライマリユーザーがサインアウトし、メインメニューに戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primitive Satchel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134548Z" creationid="weedssoul" creationdate="20190406T134548Z">
+        <seg>素朴な鞄</seg>
       </tuv>
     </tu>
     <tu>
