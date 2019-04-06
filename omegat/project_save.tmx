@@ -24590,32 +24590,32 @@
       <tuv lang="EN-US">
         <seg>Lose 10% of your health per minute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T062226Z" creationid="totochan" creationdate="20190403T135248Z">
-        <seg>毎分体力の10%を失う。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063404Z" creationid="totochan" creationdate="20190403T135248Z">
+        <seg>体力を毎分10%失う。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lose 3% of your health per minute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T044000Z" creationid="totochan" creationdate="20190403T134957Z">
-        <seg>1分あたり体力の3%を失います。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063417Z" creationid="totochan" creationdate="20190403T134957Z">
+        <seg>体力を毎分3%失う。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lose 7% of your health per minute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T062016Z" creationid="totochan" creationdate="20190403T135106Z">
-        <seg>毎分体力の7%を失う。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063353Z" creationid="totochan" creationdate="20190403T135106Z">
+        <seg>体力を毎分7%失う。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lose [E1V1]% of your health per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T061953Z" creationid="totochan" creationdate="20190403T133408Z">
-        <seg>毎秒体力を[E1V1]%失う。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063343Z" creationid="totochan" creationdate="20190403T133408Z">
+        <seg>体力を毎秒[E1V1]%失う。</seg>
       </tuv>
     </tu>
     <tu>
