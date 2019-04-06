@@ -10924,6 +10924,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Half the ship came apart before I was able to run aground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T025723Z" creationid="weedssoul" creationdate="20190406T025723Z">
+        <seg>座礁する前に、船の半分がばらばらになった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hallowed Marsh</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111452Z" creationid="Gaiden Shinji" creationdate="20190404T111452Z">
@@ -11649,8 +11657,8 @@
       <tuv lang="EN-US">
         <seg>How did our ship sink so close to home?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T025016Z" creationid="weedssoul" creationdate="20190406T025016Z">
-        <seg>なぜ故郷のあんな近くに船が沈んでいる？</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T025137Z" creationid="weedssoul" creationdate="20190406T025016Z">
+        <seg>なぜ船が沈んだ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25359,6 +25367,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lighthouse wasn’t lit at the time we made impact with the rocks, I’m certain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T025207Z" creationid="weedssoul" creationdate="20190406T025207Z">
+        <seg>あの時、灯台の光は消えていた。恐らく岩に衝突したのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lowest of the low when it comes to weaponry, though it can easily be crafted with Wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062656Z" creationid="setom" creationdate="20190402T062656Z">
@@ -26980,6 +26996,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
         <seg>今日はもう調理の必要はないな。ほら、お前も仕事に戻れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We lost everyone below deck...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T025610Z" creationid="weedssoul" creationdate="20190406T025610Z">
+        <seg>全員デッキの下だ...</seg>
       </tuv>
     </tu>
     <tu>
