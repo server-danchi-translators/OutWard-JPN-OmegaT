@@ -12677,8 +12677,8 @@
       <tuv lang="EN-US">
         <seg>Come on in!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T053320Z" creationid="Light" creationdate="20190406T053320Z">
-        <seg>ようこそ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053553Z" creationid="Light" creationdate="20190406T053320Z">
+        <seg>さあ、おいで！</seg>
       </tuv>
     </tu>
     <tu>
@@ -41304,6 +41304,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to my inn!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053514Z" creationid="Light" creationdate="20190406T053514Z">
+        <seg>ようこそ私の宿へ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well done.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040145Z" creationid="rkmad" creationdate="20190405T035843Z">
@@ -41405,6 +41413,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T030509Z" creationid="rkmad" creationdate="20190405T030509Z">
         <seg>議会では、あなたはどういった仕事をしているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can I do for you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053719Z" creationid="Light" creationdate="20190406T053719Z">
+        <seg>なにがお望みかな？</seg>
       </tuv>
     </tu>
     <tu>
