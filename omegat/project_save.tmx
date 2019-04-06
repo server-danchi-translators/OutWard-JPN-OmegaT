@@ -9543,6 +9543,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Against magical explosions, you will need to dodge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060909Z" creationid="weedssoul" creationdate="20190406T060909Z">
+        <seg>魔法攻撃は、回避する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144817Z" creationid="Horizon" creationdate="20190403T144817Z">
@@ -11190,6 +11198,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T100436Z" creationid="setom" creationdate="20190331T110921Z">
         <seg>ブロックは近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocking will protect you from enemy physical attacks, but every hit you block will consume stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060848Z" creationid="weedssoul" creationdate="20190406T060809Z">
+        <seg>防御は敵の物理攻撃を防ぐことができる。しかし、敵の攻撃を受ける度にスタミナを消費する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40867,6 +40883,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145959Z" creationid="setom" creationdate="20190402T075330Z">
         <seg>スキルやアイテムのクイックスロットへの割当ては[InputAction_ToggleInventory]でメニューを開き、クイックスロットタブを選んで行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To block projectiles, you must use a shield.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060845Z" creationid="weedssoul" creationdate="20190406T060845Z">
+        <seg>飛び道具を防ぐには、盾を使わなければならない。</seg>
       </tuv>
     </tu>
     <tu>
