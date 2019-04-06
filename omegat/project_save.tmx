@@ -24083,6 +24083,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for saving me, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T023754Z" creationid="weedssoul" creationdate="20190406T023754Z">
+        <seg>助けてくれてありがとう、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for your efforts.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035825Z" creationid="rkmad" creationdate="20190405T035744Z">
@@ -24376,6 +24384,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065836Z" creationid="rkmad" creationdate="20190404T065836Z">
         <seg>この異国の世界では、神聖な恩恵は何の効果もないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The entirety of the Blue Chamber Collective is in your debt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T023854Z" creationid="weedssoul" creationdate="20190406T023854Z">
+        <seg>青の議会全体が、あなたの世話になった。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24747,6 +24763,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082031Z" creationid="rkmad" creationdate="20190404T082031Z">
         <seg>そうすれば、誰もあなたに手出しすることは出来なくなるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are still enemies here, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T023738Z" creationid="weedssoul" creationdate="20190406T023738Z">
+        <seg>まだ敵が残っている、[PlayerName]!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26381,6 +26405,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011139Z" creationid="rkmad" creationdate="20190404T010700Z">
         <seg>おい、囚人。お前、手は空いているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can you tell me about the Blue Chamber Collective?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T023725Z" creationid="weedssoul" creationdate="20190406T023725Z">
+        <seg>青の議会について教えてくれないか。</seg>
       </tuv>
     </tu>
     <tu>
