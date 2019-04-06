@@ -20799,6 +20799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t know how I’m going to gather the money Rissa is demanding from me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T112820Z" creationid="weedssoul" creationdate="20190406T112820Z">
+        <seg>Rissaが私に要求したお金をどうやって集めればいいのかわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t like losing customers!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T111901Z" creationid="weedssoul" creationdate="20190406T111901Z">
@@ -20899,6 +20907,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T165429Z" creationid="Light" creationdate="20190405T165429Z">
         <seg>この任務に挑むには、すでにモタモタし過ぎなのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have faith in you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T112910Z" creationid="weedssoul" creationdate="20190406T112910Z">
+        <seg>あなたを信じてるわ、 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45816,6 +45832,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013355Z" creationid="pugnus" creationdate="20190404T102808Z">
         <seg>どのくらいの時間が経っているのかは分からないが、多分、今頃はLevantに対する反乱が本格化しているだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have no idea...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T112726Z" creationid="weedssoul" creationdate="20190406T112726Z">
+        <seg>わからないかもしれないが...</seg>
       </tuv>
     </tu>
     <tu>
