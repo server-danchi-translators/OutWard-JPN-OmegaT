@@ -20823,6 +20823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I guess you weren’t as much of an asset as we hoped, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T104444Z" creationid="pugnus" creationdate="20190406T104341Z">
+        <seg> [PlayerName]、私たちはあなたはもっと多く財産を持っているんじゃないかと望んでいたのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have 150 silver right here.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090233Z" creationid="rkmad" creationdate="20190405T090233Z">
@@ -44044,6 +44052,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T053311Z" creationid="Light" creationdate="20190406T053311Z">
         <seg>やぁ！[PlayerName]じゃないか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, it can't be helped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T104600Z" creationid="pugnus" creationdate="20190406T104600Z">
+        <seg>...まぁ、仕方がないですね...</seg>
       </tuv>
     </tu>
     <tu>
