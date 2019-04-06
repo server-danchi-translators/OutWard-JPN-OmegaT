@@ -15620,6 +15620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't forget that Trogs have poor eyesight, but fantastic hearing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052218Z" creationid="Light" creationdate="20190406T052218Z">
+        <seg>Trogたちは目は良くないけど、とんでもなく耳が良いから覚えておいて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't make this violent.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023419Z" creationid="seto" creationdate="20190404T220313Z">
@@ -22435,6 +22443,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s a dangerous cave, and you will be putting your life on the line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052028Z" creationid="Light" creationdate="20190406T052028Z">
+        <seg>とても危険な洞窟だから本当に命がけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s charged with lightning, so use potions and armor that resist this type of attack if you fight one.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T041748Z" creationid="weedssoul" creationdate="20190406T041652Z">
@@ -23456,6 +23472,14 @@
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184544Z" creationid="magur0w" creationdate="20190404T184544Z">
         <seg>それじゃ、急いで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make sure you have a good weapon, a lantern, and plenty of supplies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052009Z" creationid="Light" creationdate="20190406T052009Z">
+        <seg>必ずいい武器とランタンと、それなりの物資は用意していくべきね。</seg>
       </tuv>
     </tu>
     <tu>
