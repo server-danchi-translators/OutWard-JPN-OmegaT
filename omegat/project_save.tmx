@@ -24556,6 +24556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep your eyes peeled, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T085613Z" creationid="pugnus" creationdate="20190406T085613Z">
+        <seg>[PlayerName]、目を凝らして見なさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep your temperature neutral with appropriate clothes, certain types of food or campfires.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
