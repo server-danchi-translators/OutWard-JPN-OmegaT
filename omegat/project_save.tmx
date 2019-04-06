@@ -18404,6 +18404,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, if you are bleeding and losing health, a bandage will stop the bleeding and heal you for a short while.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130607Z" creationid="weedssoul" creationdate="20190406T130607Z">
+        <seg>例えば、出血して体力を失ってしまったら、包帯を使うことで出血をとめ、少しの間体力を回復してくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, some wood and linen cloth can be made into a torch if you need light.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123324Z" creationid="weedssoul" creationdate="20190406T123324Z">
@@ -26542,8 +26550,8 @@
       <tuv lang="EN-US">
         <seg>Many foes will infect you with temporary effects.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130459Z" creationid="weedssoul" creationdate="20190406T130459Z">
-        <seg>多くの敵は状態異常の攻撃を使ってくるだろう。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130505Z" creationid="weedssoul" creationdate="20190406T130459Z">
+        <seg>多くの敵が状態異常の攻撃を使ってくるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43647,6 +43655,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These effects go away over time, although many can be cured with the right items.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130532Z" creationid="weedssoul" creationdate="20190406T130532Z">
+        <seg>これらの異常は時間と共に回復していくが、大半は適切なアイテムを使用することで回復することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These raw melons gain anti-poison properties when boiled.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T143812Z" creationid="weedssoul" creationdate="20190405T143812Z">
@@ -44203,6 +44219,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073133Z" creationid="weedssoul" creationdate="20190406T073133Z">
         <seg>風の一党の呪文を学ぶのに、彼より優れた先生はいない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make your own in the wild, you’ll need the ingredients and a cooking pot, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130828Z" creationid="weedssoul" creationdate="20190406T130828Z">
+        <seg>しかし、野生の中で自分で作るには、原料と調理鍋が必要だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46001,6 +46025,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do I do if I catch a disease?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130648Z" creationid="weedssoul" creationdate="20190406T130648Z">
+        <seg>もし病気になってしまったらどうすればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do I need to learn to survive in the wild?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055330Z" creationid="Light" creationdate="20190406T055330Z">
@@ -47148,6 +47180,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112033Z" creationid="setom" creationdate="20190331T112033Z">
         <seg>テントで休んでいても攻撃を受けることがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can brew or buy various types of tea to begin the recovery process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130750Z" creationid="weedssoul" creationdate="20190406T130750Z">
+        <seg>治療を始めるために、様々な種類のお茶を作るか、買うべきだ。</seg>
       </tuv>
     </tu>
     <tu>
