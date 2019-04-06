@@ -20588,6 +20588,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having a god that was once mortal is comforting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132402Z" creationid="weedssoul" creationdate="20190406T132402Z">
+        <seg>かつて人間だった神がいることは、励みとなる。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
@@ -20668,6 +20676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He is very real.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132311Z" creationid="weedssoul" creationdate="20190406T132311Z">
+        <seg>彼は実在する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He lets you down gently at the city gates with a gruff “Watch yourself out there, you were nearly a manticore’s dinner!”</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042322Z" creationid="はぐくみ会" creationdate="20190403T095014Z">
@@ -20697,6 +20713,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012234Z" creationid="はぐくみ会" creationdate="20190403T235418Z">
         <seg>Silvernoseは彼の巨大な背負い袋を軽く叩く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He remembers what it was like to wear flesh like we do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132638Z" creationid="weedssoul" creationdate="20190406T132638Z">
+        <seg>彼は我々のように肉体を持っていたことを覚えている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25662,8 +25686,8 @@
       <tuv lang="EN-US">
         <seg>I’ve had the honor of speaking with him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132259Z" creationid="weedssoul" creationdate="20190406T132259Z">
-        <seg>私はかつで、彼と話をするという栄誉を得たことがある。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132532Z" creationid="weedssoul" creationdate="20190406T132259Z">
+        <seg>私はかつて、彼と話をするという栄誉を得たことがある。</seg>
       </tuv>
     </tu>
     <tu>
