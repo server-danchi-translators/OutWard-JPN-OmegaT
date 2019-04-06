@@ -43360,6 +43360,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>War is upon us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T084003Z" creationid="pugnus" creationdate="20190406T084003Z">
+        <seg>戦争はもう始まっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warm</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T082032Z" creationid="totochan" creationdate="20190402T082032Z">
@@ -44447,6 +44455,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122446Z" creationid="setom" creationdate="20190331T113953Z">
         <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the possibility that Levant's leadership didn’t order the attack is something I am willing to consider, the other Chamberlords disagree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T083435Z" creationid="pugnus" creationdate="20190406T083435Z">
+        <seg>何故、Levantの上層部は攻撃を命じなかったのか。私は疑問に思うが、他のChamberlord達は同意しない。</seg>
       </tuv>
     </tu>
     <tu>
