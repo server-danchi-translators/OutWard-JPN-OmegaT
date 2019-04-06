@@ -2415,6 +2415,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As Roland’s possessed body approaches for the killing blow, you see him for a moment regain control and hold himself back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T001100Z" creationid="pugnus" creationdate="20190406T001100Z">
+        <seg>Roland はあなたの息の根をとめようと接近してくる。あなたは隙を見て反撃し、なんとか自分自身を取り戻す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a fruit, these berries restore stamina over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T141940Z" creationid="weedssoul" creationdate="20190405T141940Z">
@@ -25370,8 +25378,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You brace yourself for the killing blow, but it does not come.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T113630Z" creationid="pugnus" creationdate="20190404T113630Z">
-        <seg>あなたは次に来るであろう、致命的な攻撃に身構える。が、それは来なかった。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T000450Z" creationid="pugnus" creationdate="20190404T113630Z">
+        <seg>あなたは次に来るであろう、致命的な攻撃に身構える。が、それが来ることは無かった。</seg>
       </tuv>
     </tu>
     <tu>
