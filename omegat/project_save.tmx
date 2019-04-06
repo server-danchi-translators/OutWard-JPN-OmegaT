@@ -17612,6 +17612,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_MageBackpack_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123941Z" creationid="urakata" creationdate="20190406T123941Z">
+        <seg>Errand_MageBackpack_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_MageBackpack_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124148Z" creationid="urakata" creationdate="20190406T124148Z">
+        <seg>Errand_MageBackpack_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_MageBackpack_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124158Z" creationid="urakata" creationdate="20190406T124158Z">
+        <seg>Errand_MageBackpack_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_MageBackpack_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124219Z" creationid="urakata" creationdate="20190406T124219Z">
+        <seg>Errand_MageBackpack_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Monsoon_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141901Z" creationid="urakata" creationdate="20190331T141901Z">
@@ -18068,10 +18100,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find another ghost manifesting in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124114Z" creationid="urakata" creationdate="20190406T124114Z">
+        <seg>Hallowed Marshに現れる霊をもう一体見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find more ghosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124156Z" creationid="urakata" creationdate="20190406T124156Z">
+        <seg>霊を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find someone who can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T125834Z" creationid="Light" creationdate="20190404T125834Z">
         <seg>助けてくれる人を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find yet more ghosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124216Z" creationid="urakata" creationdate="20190406T124216Z">
+        <seg>まだまだ霊を探すFind yet more ghosts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43171,6 +43227,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T110606Z" creationid="pugnus" creationdate="20190404T110606Z">
         <seg>酷い痛みと、焼けつく肉のにおいが目を覚ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spectre looked like it wanted to offer something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124147Z" creationid="urakata" creationdate="20190406T124147Z">
+        <seg>亡霊は何かくれるようだ</seg>
       </tuv>
     </tu>
     <tu>
