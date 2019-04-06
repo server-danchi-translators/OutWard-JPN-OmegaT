@@ -9583,6 +9583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T120051Z" creationid="weedssoul" creationdate="20190406T120051Z">
+        <seg>おお！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144817Z" creationid="Horizon" creationdate="20190403T144817Z">
@@ -10091,6 +10099,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040932Z" creationid="weedssoul" creationdate="20190406T040932Z">
         <seg>Cierzoの外で避けるべきことはありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything else?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T120041Z" creationid="weedssoul" creationdate="20190406T120041Z">
+        <seg>他になにか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41923,6 +41939,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T120113Z" creationid="weedssoul" creationdate="20190406T120113Z">
+        <seg>ありがとう、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
@@ -42039,6 +42063,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T111848Z" creationid="weedssoul" creationdate="20190406T111848Z">
         <seg>これは命令だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s what I’m looking for!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T120106Z" creationid="weedssoul" creationdate="20190406T120106Z">
+        <seg>私が探していたのはこれよ！</seg>
       </tuv>
     </tu>
     <tu>
