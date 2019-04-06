@@ -10291,8 +10291,8 @@
       <tuv lang="EN-US">
         <seg>As you push yourself, your maximum reserves of Health and Stamina will be diminished, and you'll only have a fraction of your maximum.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T061740Z" creationid="Light" creationdate="20190406T061740Z">
-        <seg>無理をすると、HPやスタミナの最大値が減っていくぞ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062505Z" creationid="Light" creationdate="20190406T061740Z">
+        <seg>無理をすると、体力やスタミナの最大値が減っていくぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11005,6 +11005,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T135550Z" creationid="weedssoul" creationdate="20190405T135450Z">
         <seg>キャンプファイアの火をつけるための基本的なサバイバルツール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be mindful of the weather and climate you travel in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062820Z" creationid="Light" creationdate="20190406T062727Z">
+        <seg>気候や天気には気を配ったほうが良い、旅をするときはね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20135,6 +20143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I deal with dangerous temperatures?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062707Z" creationid="Light" creationdate="20190406T062707Z">
+        <seg>極端な気温にはどう対処すればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do I know you're not at fault?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023221Z" creationid="seto" creationdate="20190404T215207Z">
@@ -21319,6 +21335,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you stay cold for too long you may get sick, and eventually freeze to death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062927Z" creationid="Light" creationdate="20190406T062927Z">
+        <seg>あまり寒いままでいると、凍死することもあるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you take too many hits in a short time, you may be knocked off your feet.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T061552Z" creationid="weedssoul" creationdate="20190406T061552Z">
@@ -21383,6 +21407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're near civilization, a night at the inn will take care of your needs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062528Z" creationid="Light" creationdate="20190406T062528Z">
+        <seg>近くに町があるときは、宿に泊まると良い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you're well enough, can you look for him?</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171620Z" creationid="setom" creationdate="20190402T171620Z">
@@ -21395,6 +21427,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T060647Z" creationid="weedssoul" creationdate="20190406T060647Z">
         <seg>もし敵が素早いなら、バックパックをおろしたほうがいい。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your reserves of Health and Stamina are diminished or you are gravely injured, it’s a good idea to rest in a bedroll or a tent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062425Z" creationid="Light" creationdate="20190406T062425Z">
+        <seg>もしスタミナや体力が減った場合はベッドロールやテントを使って休むのが賢明だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23051,6 +23091,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will cost a handful of silver, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062620Z" creationid="Light" creationdate="20190406T062620Z">
+        <seg>いくらか金がかかってしまうがね。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It would do you good to introduce yourself to them.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T015630Z" creationid="weedssoul" creationdate="20190406T015630Z">
@@ -23750,8 +23798,8 @@
       <tuv lang="EN-US">
         <seg>I’ve noticed that the longer I stay out, the less maximum health and stamina I have.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T061650Z" creationid="Light" creationdate="20190406T061650Z">
-        <seg>外に居たら、いつの間にかHPとスタミナの最大値が減っているのですが。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062431Z" creationid="Light" creationdate="20190406T061650Z">
+        <seg>外に居たら、いつの間にか体力とスタミナの最大値が減っているのですが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32244,6 +32292,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T130247Z" creationid="Light" creationdate="20190404T130247Z">
         <seg>キャンプ場の寝具で休む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rest is the best remedy for a wounded body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062321Z" creationid="Light" creationdate="20190406T062321Z">
+        <seg>寝ることは、傷ついた体には一番効果的だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42917,6 +42973,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
         <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the cold rolls in, you should dress warmly and use campfires or torches for warmth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062846Z" creationid="Light" creationdate="20190406T062816Z">
+        <seg>特に寒いときは、暖かい服を着てキャンプファイヤやトーチで暖を取ると良い。</seg>
       </tuv>
     </tu>
     <tu>
