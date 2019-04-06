@@ -22913,8 +22913,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The news you hear as you recover is grim indeed, Sagard Battleborn has gone rogue with a large battalion of the army.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T001922Z" creationid="pugnus" creationdate="20190406T001922Z">
-        <seg>回復したときに聞こえた近況は厳しいものだった。Sagard Battleborn は、大規模な軍隊を使い、不正を行っており、ならず者である。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T002204Z" creationid="pugnus" creationdate="20190406T001922Z">
+        <seg>回復したときに聞こえた近況は厳しいものだった。Sagard Battleborn は、大規模な軍隊を使い不正を行っており、ならず者の集団だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23211,6 +23211,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034617Z" creationid="rkmad" creationdate="20190405T034506Z">
         <seg>彼らはそれが自然なことのように意気投合し、血統の償いを行うために働いていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will likely be a thorn in everyone’s side for a very long time to come.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T002219Z" creationid="pugnus" creationdate="20190406T002148Z">
+        <seg>彼らは今後、非常に長い間、誰にとっても悩みの種となるだろう。</seg>
       </tuv>
     </tu>
     <tu>
