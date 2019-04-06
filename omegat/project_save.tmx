@@ -35953,6 +35953,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some foes will do more than just strike at you with swords or claws.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061200Z" creationid="weedssoul" creationdate="20190406T061200Z">
+        <seg>剣や爪以外の攻撃をしてくる敵もいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone I think of as close to family.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T165147Z" creationid="weedssoul" creationdate="20190405T165147Z">
@@ -40583,6 +40591,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They might harm you with ice, fire, lightning or more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061225Z" creationid="weedssoul" creationdate="20190406T061225Z">
+        <seg>奴らは、氷、火、稲妻といった攻撃をしてくるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They seem to have no use for sick prisoners...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041249Z" creationid="はぐくみ会" creationdate="20190403T064726Z">
@@ -42252,6 +42268,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T145555Z" creationid="totochan" creationdate="20190402T145555Z">
         <seg>武器を手に持っています。Weapons are held in this hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear equipment that resists the type of damage they inflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061322Z" creationid="weedssoul" creationdate="20190406T061322Z">
+        <seg>奴らの攻撃に耐性を持った装備をつけるんだ。</seg>
       </tuv>
     </tu>
     <tu>
