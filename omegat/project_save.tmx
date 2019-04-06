@@ -12411,6 +12411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Celestial toadstool which restores mana and is an ingredient in magic-restoring elixirs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T144032Z" creationid="weedssoul" creationdate="20190406T144032Z">
+        <seg>マナの回復効果のある錬金薬の主な材料となるこうごうしいキノコ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T143002Z" creationid="setom" creationdate="20190331T111914Z">
@@ -17984,6 +17992,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072456Z" creationid="seto" creationdate="20190406T072456Z">
         <seg>直ぐに腐ってしまい、生のままでは病気をもたらすため、真っ先に調理しておくべき食用肉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edible nut that is a main ingredient in stamina-restoring elixirs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143833Z" creationid="weedssoul" creationdate="20190406T143833Z">
+        <seg>スタミナの回復効果のある錬金薬の主な材料となる食用のナッツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -32807,6 +32823,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peculiar toadstool that gives headaches when eaten raw, but is an ingredient in health-restoring elixirs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T144142Z" creationid="weedssoul" creationdate="20190406T144121Z">
+        <seg>生で食べると頭痛を引き起こす変なキノコ。しかし、体力の回復効果のある錬金薬の材料となる。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perfect!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051844Z" creationid="Light" creationdate="20190406T051844Z">
@@ -38340,6 +38364,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011802Z" creationid="rkmad" creationdate="20190404T011802Z">
         <seg>お前も腹が減っているはずだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scarab, found in mineral ores, whose resin hardens one’s body from Impacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143706Z" creationid="weedssoul" creationdate="20190406T143706Z">
+        <seg>鉱石から見つかるコガネムシ。樹脂には打撃耐性を高める効果がある。</seg>
       </tuv>
     </tu>
     <tu>
