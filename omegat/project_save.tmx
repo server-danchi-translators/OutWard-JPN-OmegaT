@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044758Z" creationid="seto" creationdate="20190406T044758Z">
+        <seg>22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>22 – Temperatures</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094704Z" creationid="setom" creationdate="20190402T094704Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094032Z" creationid="setom" creationdate="20190402T094032Z">
         <seg>3 – 敵のロックオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044800Z" creationid="seto" creationdate="20190406T044800Z">
+        <seg>30</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044805Z" creationid="seto" creationdate="20190406T044805Z">
+        <seg>32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>32 – Sleeping</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095854Z" creationid="setom" creationdate="20190402T095854Z">
@@ -2630,6 +2654,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>45</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044824Z" creationid="seto" creationdate="20190406T044824Z">
+        <seg>45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044823Z" creationid="seto" creationdate="20190406T044823Z">
+        <seg>46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044835Z" creationid="seto" creationdate="20190406T044835Z">
+        <seg>47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044827Z" creationid="seto" creationdate="20190406T044827Z">
+        <seg>48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>5 – Blocking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094151Z" creationid="setom" creationdate="20190402T094042Z">
@@ -2650,6 +2706,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094422Z" creationid="setom" creationdate="20190402T094422Z">
         <seg>7 – スタビリティーバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044821Z" creationid="seto" creationdate="20190406T044821Z">
+        <seg>75</seg>
       </tuv>
     </tu>
     <tu>
@@ -3935,6 +3999,126 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ACandleSnuffedout_6_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044822Z" creationid="seto" creationdate="20190406T044822Z">
+        <seg>Achievement_ACandleSnuffedout_6_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_AFortressToppled_14_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044833Z" creationid="seto" creationdate="20190406T044833Z">
+        <seg>Achievement_AFortressToppled_14_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_AceDetective_9_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044826Z" creationid="seto" creationdate="20190406T044826Z">
+        <seg>Achievement_AceDetective_9_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_AncestorsPride_13_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044831Z" creationid="seto" creationdate="20190406T044831Z">
+        <seg>Achievement_AncestorsPride_13_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Damagecontrol_10_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044828Z" creationid="seto" creationdate="20190406T044828Z">
+        <seg>Achievement_Damagecontrol_10_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ForAllAurai_8_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044825Z" creationid="seto" creationdate="20190406T044825Z">
+        <seg>Achievement_ForAllAurai_8_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_FreshOfftheBoat_1_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044756Z" creationid="seto" creationdate="20190406T044756Z">
+        <seg>Achievement_FreshOfftheBoat_1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_InsideJob_15_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044834Z" creationid="seto" creationdate="20190406T044834Z">
+        <seg>Achievement_InsideJob_15_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_LaidtoRest_12_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044831Z" creationid="seto" creationdate="20190406T044831Z">
+        <seg>Achievement_LaidtoRest_12_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_OriginStory_7_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044823Z" creationid="seto" creationdate="20190406T044823Z">
+        <seg>Achievement_OriginStory_7_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_SayHellotomyBigFriend_11_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044829Z" creationid="seto" creationdate="20190406T044829Z">
+        <seg>Achievement_SayHellotomyBigFriend_11_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Tearsoflight_5_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044820Z" creationid="seto" creationdate="20190406T044820Z">
+        <seg>Achievement_Tearsoflight_5_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFaith_4_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044819Z" creationid="seto" creationdate="20190406T044819Z">
+        <seg>Achievement_ThePowerofFaith_4_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFamily_2_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044759Z" creationid="seto" creationdate="20190406T044759Z">
+        <seg>Achievement_ThePowerofFamily_2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFreedom_3_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044801Z" creationid="seto" creationdate="20190406T044801Z">
+        <seg>Achievement_ThePowerofFreedom_3_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ActionCategory_Actions</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044510Z" creationid="seto" creationdate="20190406T044510Z">
@@ -3947,6 +4131,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044511Z" creationid="seto" creationdate="20190406T044511Z">
         <seg>ActionCategory_Camera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ActionCategory_Menu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044634Z" creationid="seto" creationdate="20190406T044634Z">
+        <seg>ActionCategory_Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7547,10 +7739,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controller_Input_Alt+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044707Z" creationid="seto" creationdate="20190406T044707Z">
+        <seg>Controller_Input_Alt+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_AltCapsLock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044710Z" creationid="seto" creationdate="20190406T044710Z">
+        <seg>Controller_Input_AltCapsLock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controller_Input_Back</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091921Z" creationid="setom" creationdate="20190403T091921Z">
         <seg>Controller_Input_Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_BackQuote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044704Z" creationid="seto" creationdate="20190406T044704Z">
+        <seg>Controller_Input_BackQuote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Backspace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044704Z" creationid="seto" creationdate="20190406T044704Z">
+        <seg>Controller_Input_Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Button</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044711Z" creationid="seto" creationdate="20190406T044711Z">
+        <seg>Controller_Input_Button</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Circle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044715Z" creationid="seto" creationdate="20190406T044715Z">
+        <seg>Controller_Input_Circle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Cross</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044713Z" creationid="seto" creationdate="20190406T044713Z">
+        <seg>Controller_Input_Cross</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Ctrl+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044708Z" creationid="seto" creationdate="20190406T044708Z">
+        <seg>Controller_Input_Ctrl+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_D-PadDown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044717Z" creationid="seto" creationdate="20190406T044717Z">
+        <seg>Controller_Input_D-PadDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_D-PadLeft</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044718Z" creationid="seto" creationdate="20190406T044718Z">
+        <seg>Controller_Input_D-PadLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_D-PadRight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044718Z" creationid="seto" creationdate="20190406T044718Z">
+        <seg>Controller_Input_D-PadRight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_D-PadUp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044716Z" creationid="seto" creationdate="20190406T044716Z">
+        <seg>Controller_Input_D-PadUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,10 +7851,466 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Controller_Input_DownArrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044702Z" creationid="seto" creationdate="20190406T044702Z">
+        <seg>Controller_Input_DownArrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_End</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044644Z" creationid="seto" creationdate="20190406T044644Z">
+        <seg>Controller_Input_End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Home</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044641Z" creationid="seto" creationdate="20190406T044641Z">
+        <seg>Controller_Input_Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Insert</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044641Z" creationid="seto" creationdate="20190406T044641Z">
+        <seg>Controller_Input_Insert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad*</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044646Z" creationid="seto" creationdate="20190406T044646Z">
+        <seg>Controller_Input_Keypad*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044648Z" creationid="seto" creationdate="20190406T044648Z">
+        <seg>Controller_Input_Keypad+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044647Z" creationid="seto" creationdate="20190406T044647Z">
+        <seg>Controller_Input_Keypad-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044656Z" creationid="seto" creationdate="20190406T044656Z">
+        <seg>Controller_Input_Keypad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044646Z" creationid="seto" creationdate="20190406T044646Z">
+        <seg>Controller_Input_Keypad/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044649Z" creationid="seto" creationdate="20190406T044649Z">
+        <seg>Controller_Input_Keypad0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044650Z" creationid="seto" creationdate="20190406T044650Z">
+        <seg>Controller_Input_Keypad1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044650Z" creationid="seto" creationdate="20190406T044650Z">
+        <seg>Controller_Input_Keypad2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044651Z" creationid="seto" creationdate="20190406T044651Z">
+        <seg>Controller_Input_Keypad3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044652Z" creationid="seto" creationdate="20190406T044652Z">
+        <seg>Controller_Input_Keypad4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044652Z" creationid="seto" creationdate="20190406T044652Z">
+        <seg>Controller_Input_Keypad5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044653Z" creationid="seto" creationdate="20190406T044653Z">
+        <seg>Controller_Input_Keypad6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044654Z" creationid="seto" creationdate="20190406T044654Z">
+        <seg>Controller_Input_Keypad7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044654Z" creationid="seto" creationdate="20190406T044654Z">
+        <seg>Controller_Input_Keypad8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Keypad9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044655Z" creationid="seto" creationdate="20190406T044655Z">
+        <seg>Controller_Input_Keypad9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_KeypadEnter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044648Z" creationid="seto" creationdate="20190406T044648Z">
+        <seg>Controller_Input_KeypadEnter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_L3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044716Z" creationid="seto" creationdate="20190406T044716Z">
+        <seg>Controller_Input_L3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftAlt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044706Z" creationid="seto" creationdate="20190406T044706Z">
+        <seg>Controller_Input_LeftAlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftArrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044700Z" creationid="seto" creationdate="20190406T044700Z">
+        <seg>Controller_Input_LeftArrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftCommand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044708Z" creationid="seto" creationdate="20190406T044708Z">
+        <seg>Controller_Input_LeftCommand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftControl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044638Z" creationid="seto" creationdate="20190406T044638Z">
+        <seg>Controller_Input_LeftControl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftMouseButton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044657Z" creationid="seto" creationdate="20190406T044657Z">
+        <seg>Controller_Input_LeftMouseButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftShift</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044637Z" creationid="seto" creationdate="20190406T044637Z">
+        <seg>Controller_Input_LeftShift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftShoulder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044724Z" creationid="seto" creationdate="20190406T044724Z">
+        <seg>Controller_Input_LeftShoulder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftStickX</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044711Z" creationid="seto" creationdate="20190406T044711Z">
+        <seg>Controller_Input_LeftStickX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftStickY</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044712Z" creationid="seto" creationdate="20190406T044712Z">
+        <seg>Controller_Input_LeftStickY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_LeftTrigger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044722Z" creationid="seto" creationdate="20190406T044722Z">
+        <seg>Controller_Input_LeftTrigger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Controller_Input_Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091918Z" creationid="setom" creationdate="20190403T091918Z">
         <seg>Controller_Input_Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_MouseButton3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044658Z" creationid="seto" creationdate="20190406T044658Z">
+        <seg>Controller_Input_MouseButton3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Numlock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044645Z" creationid="seto" creationdate="20190406T044645Z">
+        <seg>Controller_Input_Numlock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Options</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044719Z" creationid="seto" creationdate="20190406T044719Z">
+        <seg>Controller_Input_Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_PageDown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044643Z" creationid="seto" creationdate="20190406T044643Z">
+        <seg>Controller_Input_PageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_PageUp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044642Z" creationid="seto" creationdate="20190406T044642Z">
+        <seg>Controller_Input_PageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Pause</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044640Z" creationid="seto" creationdate="20190406T044640Z">
+        <seg>Controller_Input_Pause</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_R3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044715Z" creationid="seto" creationdate="20190406T044715Z">
+        <seg>Controller_Input_R3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Return</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044702Z" creationid="seto" creationdate="20190406T044702Z">
+        <seg>Controller_Input_Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightArrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044701Z" creationid="seto" creationdate="20190406T044701Z">
+        <seg>Controller_Input_RightArrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightCommand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044709Z" creationid="seto" creationdate="20190406T044709Z">
+        <seg>Controller_Input_RightCommand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightControl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044659Z" creationid="seto" creationdate="20190406T044659Z">
+        <seg>Controller_Input_RightControl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightMouseButton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044657Z" creationid="seto" creationdate="20190406T044657Z">
+        <seg>Controller_Input_RightMouseButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightShift</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044703Z" creationid="seto" creationdate="20190406T044703Z">
+        <seg>Controller_Input_RightShift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightShoulder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044724Z" creationid="seto" creationdate="20190406T044724Z">
+        <seg>Controller_Input_RightShoulder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_RightTrigger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044723Z" creationid="seto" creationdate="20190406T044723Z">
+        <seg>Controller_Input_RightTrigger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_ScrollLock</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044639Z" creationid="seto" creationdate="20190406T044639Z">
+        <seg>Controller_Input_ScrollLock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Share</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044720Z" creationid="seto" creationdate="20190406T044720Z">
+        <seg>Controller_Input_Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Shift+</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044705Z" creationid="seto" creationdate="20190406T044705Z">
+        <seg>Controller_Input_Shift+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Space</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044637Z" creationid="seto" creationdate="20190406T044637Z">
+        <seg>Controller_Input_Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Square</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044713Z" creationid="seto" creationdate="20190406T044713Z">
+        <seg>Controller_Input_Square</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Start</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044721Z" creationid="seto" creationdate="20190406T044721Z">
+        <seg>Controller_Input_Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_SysReq</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044639Z" creationid="seto" creationdate="20190406T044639Z">
+        <seg>Controller_Input_SysReq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Tab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044706Z" creationid="seto" creationdate="20190406T044706Z">
+        <seg>Controller_Input_Tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_TouchpadButton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044720Z" creationid="seto" creationdate="20190406T044720Z">
+        <seg>Controller_Input_TouchpadButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_Triangle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044714Z" creationid="seto" creationdate="20190406T044714Z">
+        <seg>Controller_Input_Triangle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Controller_Input_UpArrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044659Z" creationid="seto" creationdate="20190406T044659Z">
+        <seg>Controller_Input_UpArrow</seg>
       </tuv>
     </tu>
     <tu>
@@ -7951,6 +8695,102 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114930Z" creationid="setom" creationdate="20190401T114930Z">
         <seg>クレジット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_All</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044742Z" creationid="seto" creationdate="20190406T044742Z">
+        <seg>Credits_All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_3DArtist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044736Z" creationid="seto" creationdate="20190406T044736Z">
+        <seg>Credits_NineDots_3DArtist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_Animator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044737Z" creationid="seto" creationdate="20190406T044737Z">
+        <seg>Credits_NineDots_Animator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_Designer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044736Z" creationid="seto" creationdate="20190406T044736Z">
+        <seg>Credits_NineDots_Designer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_FRTranslation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044741Z" creationid="seto" creationdate="20190406T044741Z">
+        <seg>Credits_NineDots_FRTranslation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_Programmer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044734Z" creationid="seto" creationdate="20190406T044734Z">
+        <seg>Credits_NineDots_Programmer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_QA</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044739Z" creationid="seto" creationdate="20190406T044739Z">
+        <seg>Credits_NineDots_QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_NineDots_Writer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044740Z" creationid="seto" creationdate="20190406T044740Z">
+        <seg>Credits_NineDots_Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_Title_DeepSilver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044732Z" creationid="seto" creationdate="20190406T044732Z">
+        <seg>Credits_Title_DeepSilver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_Title_Global</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044733Z" creationid="seto" creationdate="20190406T044733Z">
+        <seg>Credits_Title_Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_Title_Grip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044731Z" creationid="seto" creationdate="20190406T044731Z">
+        <seg>Credits_Title_Grip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Credits_Title_NineDots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044729Z" creationid="seto" creationdate="20190406T044729Z">
+        <seg>Credits_Title_NineDots</seg>
       </tuv>
     </tu>
     <tu>
@@ -14699,6 +15539,238 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044538Z" creationid="seto" creationdate="20190406T044538Z">
         <seg>InputAction_QS_Instant2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QS_Instant6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044606Z" creationid="seto" creationdate="20190406T044606Z">
+        <seg>InputAction_QS_Instant6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QS_Instant7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044609Z" creationid="seto" creationdate="20190406T044609Z">
+        <seg>InputAction_QS_Instant7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QS_Instant8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044609Z" creationid="seto" creationdate="20190406T044609Z">
+        <seg>InputAction_QS_Instant8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlot1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044610Z" creationid="seto" creationdate="20190406T044610Z">
+        <seg>InputAction_QuickSlot1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlot2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044611Z" creationid="seto" creationdate="20190406T044611Z">
+        <seg>InputAction_QuickSlot2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlot3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044612Z" creationid="seto" creationdate="20190406T044612Z">
+        <seg>InputAction_QuickSlot3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlot4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044613Z" creationid="seto" creationdate="20190406T044613Z">
+        <seg>InputAction_QuickSlot4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlotToggle1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044615Z" creationid="seto" creationdate="20190406T044615Z">
+        <seg>InputAction_QuickSlotToggle1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QuickSlotToggle2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044616Z" creationid="seto" creationdate="20190406T044616Z">
+        <seg>InputAction_QuickSlotToggle2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Sheathe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044617Z" creationid="seto" creationdate="20190406T044617Z">
+        <seg>InputAction_Sheathe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Sprint</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044618Z" creationid="seto" creationdate="20190406T044618Z">
+        <seg>InputAction_Sprint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Stealth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044619Z" creationid="seto" creationdate="20190406T044619Z">
+        <seg>InputAction_Stealth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetHorizontal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044619Z" creationid="seto" creationdate="20190406T044619Z">
+        <seg>InputAction_SwitchTargetHorizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetHorizontalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044620Z" creationid="seto" creationdate="20190406T044620Z">
+        <seg>InputAction_SwitchTargetHorizontalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetHorizontalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044621Z" creationid="seto" creationdate="20190406T044621Z">
+        <seg>InputAction_SwitchTargetHorizontalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetVertical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044622Z" creationid="seto" creationdate="20190406T044622Z">
+        <seg>InputAction_SwitchTargetVertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetVerticalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044623Z" creationid="seto" creationdate="20190406T044623Z">
+        <seg>InputAction_SwitchTargetVerticalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_SwitchTargetVerticalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044624Z" creationid="seto" creationdate="20190406T044624Z">
+        <seg>InputAction_SwitchTargetVerticalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleChat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044634Z" creationid="seto" creationdate="20190406T044634Z">
+        <seg>InputAction_ToggleChat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleCrafting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044630Z" creationid="seto" creationdate="20190406T044630Z">
+        <seg>InputAction_ToggleCrafting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleEffects</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044635Z" creationid="seto" creationdate="20190406T044635Z">
+        <seg>InputAction_ToggleEffects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleEquipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044632Z" creationid="seto" creationdate="20190406T044632Z">
+        <seg>InputAction_ToggleEquipment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleInventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044627Z" creationid="seto" creationdate="20190406T044627Z">
+        <seg>InputAction_ToggleInventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleLights</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044625Z" creationid="seto" creationdate="20190406T044625Z">
+        <seg>InputAction_ToggleLights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleMap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044627Z" creationid="seto" creationdate="20190406T044627Z">
+        <seg>InputAction_ToggleMap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleQuestLog</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044629Z" creationid="seto" creationdate="20190406T044629Z">
+        <seg>InputAction_ToggleQuestLog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleQuickSlot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044633Z" creationid="seto" creationdate="20190406T044633Z">
+        <seg>InputAction_ToggleQuickSlot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleSkillMenu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044628Z" creationid="seto" creationdate="20190406T044628Z">
+        <seg>InputAction_ToggleSkillMenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ToggleStatus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044629Z" creationid="seto" creationdate="20190406T044629Z">
+        <seg>InputAction_ToggleStatus</seg>
       </tuv>
     </tu>
     <tu>
