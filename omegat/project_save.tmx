@@ -4615,6 +4615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a matter of fact, I could use a brash explorer for something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T043353Z" creationid="Light" creationdate="20190406T043353Z">
+        <seg>そうね、ちょっとしたものを探してきてほしいのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As captain, he should have known better than to approach the bay when the lighthouse was not lit.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T154047Z" creationid="weedssoul" creationdate="20190405T154021Z">
@@ -15744,6 +15752,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024206Z" creationid="weedssoul" creationdate="20190406T024206Z">
         <seg>私は、&lt;color=#00CCFF&gt;&lt;b&gt;Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;に加わるためにCierzoを出る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m looking for something I can do nearby.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T043118Z" creationid="Light" creationdate="20190406T043118Z">
+        <seg>この辺で、なにかできることはありませんか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -26983,6 +26999,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T162211Z" creationid="Light" creationdate="20190405T162211Z">
         <seg>このあたりの地域の事を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell me, what will you risk for some silver?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T043237Z" creationid="Light" creationdate="20190406T043237Z">
+        <seg>ねえ、ちょっとしたお金のために冒険する気はないかしら？</seg>
       </tuv>
     </tu>
     <tu>
