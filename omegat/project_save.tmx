@@ -19773,6 +19773,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I'll teach you a &lt;color=#00CCFF&gt;&lt;b&gt;skill&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063046Z" creationid="Light" creationdate="20190406T063046Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;スキル&lt;/b&gt;&lt;/color&gt;を教えてやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, as the newest member of the Aberdeen Family, you should have this.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022711Z" creationid="weedssoul" creationdate="20190406T022711Z">
@@ -25192,6 +25200,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021653Z" creationid="hiru4" creationdate="20190402T021653Z">
         <seg>全体音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mastering these is the key to survival out in the wild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063153Z" creationid="Light" creationdate="20190406T063153Z">
+        <seg>外の世界で生きていくには、スキルを習得することが重要になってくる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42701,6 +42717,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042329Z" creationid="はぐくみ会" creationdate="20190403T095440Z">
         <seg>さて、あなたは生きる、また戦うために！
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, you’ve got the essentials at least.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063030Z" creationid="Light" creationdate="20190406T063030Z">
+        <seg>うーん、どうやら君は最低限のものは持っているようだな。</seg>
       </tuv>
     </tu>
     <tu>
