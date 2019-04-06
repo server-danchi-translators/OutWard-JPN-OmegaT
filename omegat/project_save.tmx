@@ -11778,6 +11778,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring the skulls back to Cremeuh, in the depths of the Necropolis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T140234Z" creationid="urakata" creationdate="20190406T140234Z">
+        <seg>Necropolisの奥地のCremeuhへ頭蓋骨を持っていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse shop.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063751Z" creationid="weedssoul" creationdate="20190406T063751Z">
@@ -17660,6 +17668,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_BlueSkull_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T135457Z" creationid="urakata" creationdate="20190406T135457Z">
+        <seg>Errand_BlueSkull_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_BlueSkull_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T140143Z" creationid="urakata" creationdate="20190406T140143Z">
+        <seg>Errand_BlueSkull_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Cierzo_Alch_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T113630Z" creationid="urakata" creationdate="20190406T113630Z">
@@ -17784,6 +17808,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T134312Z" creationid="urakata" creationdate="20190406T134312Z">
         <seg>Errand_JadeLich_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_JadeLich_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134640Z" creationid="urakata" creationdate="20190406T134640Z">
+        <seg>Errand_JadeLich_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -18080,6 +18112,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T122249Z" creationid="urakata" creationdate="20190406T122249Z">
         <seg>Errand_Treasure_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Water_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T140236Z" creationid="urakata" creationdate="20190406T140236Z">
+        <seg>Errand_Water_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -35512,6 +35552,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to the Dark Ziggurat with Tsar Stones, Hackmanites and Palladium to get him to craft a Tsar weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T135456Z" creationid="urakata" creationdate="20190406T135456Z">
+        <seg>Dark ZigguratにTsar StonesとHackmanitesとPalladiumを持って行ってツァーリの武具を作ってもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return to the machine inside the Electric Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124613Z" creationid="urakata" creationdate="20190406T124613Z">
@@ -42519,6 +42567,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073604Z" creationid="weedssoul" creationdate="20190406T073604Z">
         <seg>見ていってくれ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take all 4 Blue Skulls in the Necropolis under Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T140141Z" creationid="urakata" creationdate="20190406T140141Z">
+        <seg>Bergの地下にあるNecropolisからBlue Skulls4つすべてを取ってくる</seg>
       </tuv>
     </tu>
     <tu>
