@@ -40355,6 +40355,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the time to get used to the Enmerkar region and buy the equipment you need here in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T085503Z" creationid="pugnus" creationdate="20190406T085503Z">
+        <seg>Enmerkarになれるように過ごし、Bergで必要なものを揃えなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the time you need to get used to life in Enmerkar.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022554Z" creationid="weedssoul" creationdate="20190406T022554Z">
@@ -42964,6 +42972,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023454Z" creationid="hiru4" creationdate="20190402T023454Z">
         <seg>停止解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until then, you’re free to do as you please.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T085242Z" creationid="pugnus" creationdate="20190406T085242Z">
+        <seg>それまでは、あなたは自由にして良いですよ。</seg>
       </tuv>
     </tu>
     <tu>
