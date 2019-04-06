@@ -25580,6 +25580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep only what you can't live without in your pockets, and store your camp gear and loot in your backpack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124944Z" creationid="weedssoul" creationdate="20190406T124944Z">
+        <seg>ポケットには生きていく上で必要なものだけを入れておくんだ。キャンプ道具や戦利品なんかはバックパックに入れておけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep your eyes peeled, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T085613Z" creationid="pugnus" creationdate="20190406T085613Z">
@@ -44031,6 +44039,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will keep you light on your feet and more effective in a fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T125059Z" creationid="weedssoul" creationdate="20190406T125059Z">
+        <seg>そうすれば、身軽になり、戦闘時の効果が増すだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those thugs from the Blue Chamber Collective beat you to within an inch of your life, then slaughtered the prisoners...Elatt will no doubt be upset.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013312Z" creationid="pugnus" creationdate="20190406T010320Z">
@@ -46101,6 +46117,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135731Z" creationid="Light" creationdate="20190405T135731Z">
         <seg>よくわからないけど、よかった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What’s a good way to handle my inventory?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124802Z" creationid="weedssoul" creationdate="20190406T124802Z">
+        <seg>どうやってインベントリを管理すればいいかな？</seg>
       </tuv>
     </tu>
     <tu>
@@ -50005,14 +50029,6 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133113Z" creationid="setom" creationdate="20190402T133113Z">
         <seg>value_fem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>x</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T134738Z" creationid="setom" creationdate="20190402T134738Z">
-        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
