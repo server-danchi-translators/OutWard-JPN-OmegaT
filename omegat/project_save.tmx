@@ -11255,6 +11255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to make the journey to another settled region of Aurai, you will need to prepare &lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T002604Z" creationid="weedssoul" creationdate="20190406T002604Z">
+        <seg>もしAuraiの他の地方に旅をしたいなら、&lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;を準備しなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to take this back up with [PlayerName] after the mourning period, feel free.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222328Z" creationid="seto" creationdate="20190404T222328Z">
