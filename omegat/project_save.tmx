@@ -10348,6 +10348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fine!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035555Z" creationid="weedssoul" creationdate="20190406T035555Z">
+        <seg>いいだろう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114706Z" creationid="setom" creationdate="20190401T114706Z">
@@ -13555,6 +13563,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035415Z" creationid="rkmad" creationdate="20190405T035415Z">
         <seg>[PlayerName]、あなたの行いに私は感動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm mugging you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035430Z" creationid="weedssoul" creationdate="20190406T035430Z">
+        <seg>お前を襲う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19091,6 +19107,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024825Z" creationid="weedssoul" creationdate="20190406T024825Z">
         <seg>今、残っているのは残骸と喪中の部族だけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now give me what you owe me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035526Z" creationid="weedssoul" creationdate="20190406T035526Z">
+        <seg>貸しをすべて返してくれ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -28127,6 +28151,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is all I have, unless you're interested in a little fishing boat that you don't know how to steer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035743Z" creationid="weedssoul" creationdate="20190406T035743Z">
+        <seg>これで全部だ。お前がどうやって漕ぐのかも知らない小さな漁船を除けばな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is dreadful news!</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183928Z" creationid="magur0w" creationdate="20190404T183928Z">
@@ -30201,6 +30233,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023226Z" creationid="seto" creationdate="20190404T215114Z">
         <seg>ええ、あんたもその船に乗っていたわよね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yeah.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035422Z" creationid="weedssoul" creationdate="20190406T035422Z">
+        <seg>ああ、そうだ。</seg>
       </tuv>
     </tu>
     <tu>
