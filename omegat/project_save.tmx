@@ -9836,6 +9836,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you given my offer any thought?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014603Z" creationid="weedssoul" creationdate="20190406T014603Z">
+        <seg>提案について考えてくれた?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180722Z" creationid="magur0w" creationdate="20190404T174552Z">
@@ -12119,6 +12127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there anything I need to do to make it happen?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014754Z" creationid="weedssoul" creationdate="20190406T014727Z">
+        <seg>Aberdeen家に加わるのになにかしなければいけないことはある？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It ain't your time to die today.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T095029Z" creationid="はぐくみ会" creationdate="20190403T054138Z">
@@ -12784,6 +12800,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130120Z" creationid="rkmad" creationdate="20190404T092328Z">
         <seg>また、各店の店主達も、その専門知識をあなたに分けてくれると思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m thinking about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014702Z" creationid="weedssoul" creationdate="20190406T014702Z">
+        <seg>それについて考えていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22787,6 +22811,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Aberdeen family is one of the oldest and strongest families in the Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014931Z" creationid="weedssoul" creationdate="20190406T014931Z">
+        <seg>Aberdeen家は、Collectiveの中でも最も古く強大な一族の一つです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T011953Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
@@ -25211,6 +25243,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will you work with me, and be adopted into the Aberdeen family?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014747Z" creationid="weedssoul" creationdate="20190406T014653Z">
+        <seg>私と一緒に働き、Aberdeen家に加わる？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wind Altar is not activated in this region.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132207Z" creationid="hiru4" creationdate="20190403T060413Z">
@@ -27109,6 +27149,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090128Z" creationid="rkmad" creationdate="20190405T090128Z">
         <seg>[PlayerName]、非常に残念ですが&lt;color=#00CCFF&gt;&lt;b&gt;あなたは期日を守ることができませんでした&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName], I’m glad to see you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014545Z" creationid="weedssoul" creationdate="20190406T014545Z">
+        <seg>[PlayerName], 会えて嬉しいわ。</seg>
       </tuv>
     </tu>
     <tu>
