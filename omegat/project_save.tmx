@@ -5746,6 +5746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But it was good talking to my last friend in this damn town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040503Z" creationid="weedssoul" creationdate="20190406T040445Z">
+        <seg>しかし、この最低な街の最後の友人と話をするのも悪くない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But life in Aurai is never that easy.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102507Z" creationid="setom" creationdate="20190402T102507Z">
@@ -11484,6 +11492,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get lost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040535Z" creationid="weedssoul" creationdate="20190406T040535Z">
+        <seg>失せろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost Pass</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114517Z" creationid="Gaiden Shinji" creationdate="20190403T114517Z">
@@ -13641,8 +13657,8 @@
       <tuv lang="EN-US">
         <seg>I'm sorry, that wasn’t a funny joke.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040010Z" creationid="weedssoul" creationdate="20190406T040010Z">
-        <seg>すまない。面白くない冗談だ。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040334Z" creationid="weedssoul" creationdate="20190406T040010Z">
+        <seg>すまない。面白くない冗談だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,6 +15624,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014702Z" creationid="weedssoul" creationdate="20190406T014702Z">
         <seg>それについて考えていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve got work to do, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040421Z" creationid="weedssoul" creationdate="20190406T040421Z">
+        <seg>やらなきゃいけないことがあるんだ、 [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
