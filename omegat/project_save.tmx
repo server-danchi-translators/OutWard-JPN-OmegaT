@@ -9703,6 +9703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always be mindful of your limits and don't push them more than you need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061831Z" creationid="Light" creationdate="20190406T061831Z">
+        <seg>常に気を配って必要以上に無理をしないことだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amba, my friend!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055403Z" creationid="weedssoul" creationdate="20190406T055403Z">
@@ -10277,6 +10285,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042523Z" creationid="はぐくみ会" creationdate="20190403T233838Z">
         <seg>あなたが起き上がると、三人の霊があなたを守っていることに気付く...彼らはすぐに消えた。まるでそこには誰もいなかったように...先祖の霊があなたを保護したようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you push yourself, your maximum reserves of Health and Stamina will be diminished, and you'll only have a fraction of your maximum.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061740Z" creationid="Light" creationdate="20190406T061740Z">
+        <seg>無理をすると、HPやスタミナの最大値が減っていくぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11014,6 +11030,14 @@
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040527Z" creationid="はぐくみ会" creationdate="20190403T062035Z">
         <seg>優しさの風に感謝しなさい。それはあなたが必要としている時に私に吹いたのだから。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be wary of the Montcalm tribe in the north and the Kazite pirates near the coast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061152Z" creationid="Light" creationdate="20190406T061152Z">
+        <seg>Montcalm族は北の方でKazite族は浜辺の近くだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20103,6 +20127,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How important is it to eat, drink and sleep?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061952Z" creationid="Light" creationdate="20190406T061952Z">
+        <seg>食べたり飲んだりすることは、なぜ大事なの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How in Elatt’s name did you end up here?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012151Z" creationid="はぐくみ会" creationdate="20190403T110023Z">
@@ -23680,6 +23712,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040421Z" creationid="weedssoul" creationdate="20190406T040421Z">
         <seg>やらなきゃいけないことがあるんだ、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve noticed that the longer I stay out, the less maximum health and stamina I have.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061650Z" creationid="Light" creationdate="20190406T061650Z">
+        <seg>外に居たら、いつの間にかHPとスタミナの最大値が減っているのですが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29083,6 +29123,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T093341Z" creationid="Light" creationdate="20190404T133352Z">
         <seg>5日以内にリッサに150シルバーを支払わなければシエルゾの自宅である灯台を失う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pay attention to what your body tells you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061700Z" creationid="Light" creationdate="20190406T061700Z">
+        <seg>体の訴えには気をつけるんだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35913,6 +35961,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleeping in a tent or a bed will restore your reserves of Stamina and Health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061808Z" creationid="Light" creationdate="20190406T061808Z">
+        <seg>ベッドやテントで寝ることでスタミナの最大値を回復できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleeping, either in an inn or in a tent, removes tiredness and restores health.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164508Z" creationid="setom" creationdate="20190402T090405Z">
@@ -38906,6 +38962,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stay well away from it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061400Z" creationid="Light" creationdate="20190406T061400Z">
+        <seg>そこには近づかないほうが良いだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stay with me, I'll look after you."</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T100214Z" creationid="はぐくみ会" creationdate="20190403T054212Z">
@@ -40463,6 +40527,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then there's the matter of several bandit crews deciding to join forces in the Vendavel fortress along the southern coast.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061337Z" creationid="Light" creationdate="20190406T061337Z">
+        <seg>噂によると南の浜辺にあるベンダベル砦にいる盗賊たちが、どうやら軍隊を結成しようとしているらしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then why are you still here?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170835Z" creationid="weedssoul" creationdate="20190405T163516Z">
@@ -40515,6 +40587,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T175805Z" creationid="magur0w" creationdate="20190404T175805Z">
         <seg>この部屋にはどこからやってくるか分からない程のフラストレーションが溜まっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no shame in taking time to set up camp when you are exhausted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061919Z" creationid="Light" creationdate="20190406T061919Z">
+        <seg>疲れたらキャンプで休むことは恥ずかしいことではないさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40675,6 +40755,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034617Z" creationid="rkmad" creationdate="20190405T034506Z">
         <seg>彼らはそれが自然なことのように意気投合し、血統の償いを行うために働いていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will enslave you if they capture you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T061511Z" creationid="Light" creationdate="20190406T061511Z">
+        <seg>もし見つかったらお前は捕まっちまうぞ。</seg>
       </tuv>
     </tu>
     <tu>
