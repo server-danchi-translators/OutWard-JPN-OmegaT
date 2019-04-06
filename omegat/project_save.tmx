@@ -12693,8 +12693,8 @@
       <tuv lang="EN-US">
         <seg>Cold Weather Def.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T043800Z" creationid="setom" creationdate="20190401T113642Z">
-        <seg>低温耐性</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T055356Z" creationid="setom" creationdate="20190401T113642Z">
+        <seg>冷気耐性</seg>
       </tuv>
     </tu>
     <tu>
@@ -17622,8 +17622,8 @@
       <tuv lang="EN-US">
         <seg>Frost Damage and Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134353Z" creationid="totochan" creationdate="20190403T134303Z">
-        <seg>フロストダメージ耐性+[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T055441Z" creationid="totochan" creationdate="20190403T134303Z">
+        <seg>氷ダメージ&amp;耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -19975,8 +19975,8 @@
       <tuv lang="EN-US">
         <seg>Hot Weather Def +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134424Z" creationid="totochan" creationdate="20190403T134424Z">
-        <seg>耐熱補正 +[E2V1].</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T055408Z" creationid="totochan" creationdate="20190403T134424Z">
+        <seg>高温耐性 +[E2V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -31721,8 +31721,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Recover [E1V1] Health per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T132811Z" creationid="hiru4" creationdate="20190403T132811Z">
-        <seg>1秒あたりの[E1V1]ヘルスを回復する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T061723Z" creationid="hiru4" creationdate="20190403T132811Z">
+        <seg>体力を毎秒[E1V1]回復。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recover [E1V1] Stamina per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T061653Z" creationid="seto" creationdate="20190406T061606Z">
+        <seg>Staminaを毎秒[E1V1]回復。</seg>
       </tuv>
     </tu>
     <tu>
