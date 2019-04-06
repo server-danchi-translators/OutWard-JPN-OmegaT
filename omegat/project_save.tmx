@@ -21079,6 +21079,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I will make my way &lt;color=#00CCFF&gt;&lt;b&gt;back to Berg&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T070820Z" creationid="pugnus" creationdate="20190406T070739Z">
+        <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;Bergに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I won’t force you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T070358Z" creationid="weedssoul" creationdate="20190405T165515Z">
@@ -23709,8 +23717,8 @@
       <tuv lang="EN-US">
         <seg>It’s a pity, but we’ll have to let that lead go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T070047Z" creationid="pugnus" creationdate="20190406T070047Z">
-        <seg>残念だ。しかし、私たちは</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T070331Z" creationid="pugnus" creationdate="20190406T070047Z">
+        <seg>残念だ。しかし、私たちは先導できるようにする必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42844,6 +42852,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
         <seg>今日はもう調理の必要はないな。ほら、お前も仕事に戻れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have much to prepare for the coming conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T070915Z" creationid="pugnus" creationdate="20190406T070906Z">
+        <seg>私たちは、来たるべき紛争に備えなければならない。</seg>
       </tuv>
     </tu>
     <tu>
