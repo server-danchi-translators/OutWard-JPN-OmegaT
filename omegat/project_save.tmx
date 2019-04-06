@@ -23575,6 +23575,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Those thugs from the Blue Chamber Collective beat you to within an inch of your life, then slaughtered the prisoners...Elatt will no doubt be upset.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T010320Z" creationid="pugnus" creationdate="20190406T010320Z">
+        <seg>Blue Chamber からの刺客は、あなたを瀕死の重傷にまで打ち負かし、そして囚人たちを虐殺した...Elatt ha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Though you owe us a Blood Price, we will still help you however we can.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T091059Z" creationid="rkmad" creationdate="20190404T091059Z">
@@ -25887,6 +25895,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042517Z" creationid="はぐくみ会" creationdate="20190403T112735Z">
         <seg>幸運だ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You haul yourself to your feet, beaten and bloody.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T010027Z" creationid="pugnus" creationdate="20190406T010027Z">
+        <seg>あなたは立ち上がる。その身体は殴られ、血まみれだ。</seg>
       </tuv>
     </tu>
     <tu>
