@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*Surely*, there is a point to all this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123706Z" creationid="urakata" creationdate="20190406T123706Z">
+        <seg>(ドブに金を捨てるようなことはないはずだ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T022328Z" creationid="seto" creationdate="20190406T022328Z">
@@ -17636,6 +17644,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Slum_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122411Z" creationid="urakata" creationdate="20190406T122411Z">
+        <seg>Errand_Slum_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Slum_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123536Z" creationid="urakata" creationdate="20190406T123536Z">
+        <seg>Errand_Slum_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Treasure_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121446Z" creationid="urakata" creationdate="20190406T121446Z">
@@ -19440,6 +19464,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115129Z" creationid="Gaiden Shinji" creationdate="20190403T115129Z">
         <seg>ジャイアントの村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give a second donation to Pidgeoneye It *is* for a good cause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123535Z" creationid="urakata" creationdate="20190406T123535Z">
+        <seg>Pidgeoneyeにもう一度出資する(ちゃんと使われるはずだ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31203,6 +31235,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114857Z" creationid="seto" creationdate="20190404T114857Z">
         <seg>PickAxeGuy_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pidgeoneye ask for yet more silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123603Z" creationid="urakata" creationdate="20190406T123603Z">
+        <seg>Pidgeoneyeはまだ銀を要求している</seg>
       </tuv>
     </tu>
     <tu>
