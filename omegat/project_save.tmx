@@ -13287,6 +13287,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I may have something for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T041748Z" creationid="Light" creationdate="20190406T041748Z">
+        <seg>少し用事があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I may never see her again.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094647Z" creationid="rkmad" creationdate="20190405T094647Z">
@@ -29937,6 +29945,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do you want?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T041653Z" creationid="Light" creationdate="20190406T041653Z">
+        <seg>なにか用かしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you wish to know?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T093259Z" creationid="rkmad" creationdate="20190404T093259Z">
@@ -32285,6 +32301,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014545Z" creationid="weedssoul" creationdate="20190406T014545Z">
         <seg>[PlayerName], 会えて嬉しいわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName], always a pleasure!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T041552Z" creationid="Light" creationdate="20190406T041552Z">
+        <seg>[PlayerName]、ごきげんよう！</seg>
       </tuv>
     </tu>
     <tu>
