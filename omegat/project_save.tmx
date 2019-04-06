@@ -480,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>19 – Craft a Campfire</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190402T094645Z">
-        <seg>19 – の作成</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140511Z" creationid="setom" creationdate="20190402T094645Z">
+        <seg>19 – キャンプファイヤーの作成</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +520,8 @@
       <tuv lang="EN-US">
         <seg>20 – Deploy a Campfire</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190402T094657Z">
-        <seg>20 – の設置</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140539Z" creationid="setom" creationdate="20190402T094657Z">
+        <seg>20 – キャンプファイヤーの設置</seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,8 +11227,8 @@
       <tuv lang="EN-US">
         <seg>Basic survival tool used to light campfires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="weedssoul" creationdate="20190405T135450Z">
-        <seg>の火をつけるための基本的なサバイバルツール。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140239Z" creationid="weedssoul" creationdate="20190405T135450Z">
+        <seg>キャンプファイヤーの火をつけるための基本的なサバイバルツール。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11708,8 +11708,8 @@
       <tuv lang="EN-US">
         <seg>Branches with a variety of uses, from making campfires to crafting weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="weedssoul" creationdate="20190406T134907Z">
-        <seg>の作成から武器の生成まで様々な用途で使える枝</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140322Z" creationid="weedssoul" creationdate="20190406T134907Z">
+        <seg>キャンプファイヤーの作成から武器の生成まで様々な用途で使える枝</seg>
       </tuv>
     </tu>
     <tu>
@@ -21071,8 +21071,8 @@
       <tuv lang="EN-US">
         <seg>Heavy pot that enables the preparation of recipes with more than one ingredient, to be used on a lit campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135925Z" creationid="rkmad" creationdate="20190403T081213Z">
-        <seg>調理用の大鍋。少し重たいが、キッチンを持ち歩くよりはよほど軽い。これをに設置することで、満足の行く料理を作ることができるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140147Z" creationid="rkmad" creationdate="20190403T081213Z">
+        <seg>調理用の大鍋。少し重たいが、キッチンを持ち歩くよりはよほど軽い。これをキャンプファイヤーに設置することで、満足の行く料理を作ることができるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23441,8 +23441,8 @@
       <tuv lang="EN-US">
         <seg>In cold climates, campfires and torches can warm you up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190402T084838Z">
-        <seg>寒気の中ではや松明で温まってください。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140132Z" creationid="setom" creationdate="20190402T084838Z">
+        <seg>寒気の中ではキャンプファイヤーやトーチで温まってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25021,8 +25021,8 @@
       <tuv lang="EN-US">
         <seg>It should be boiled over a campfire to produce Clean Water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135925Z" creationid="rkmad" creationdate="20190403T075548Z">
-        <seg>可能であればで沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140219Z" creationid="rkmad" creationdate="20190403T075548Z">
+        <seg>可能であればキャンプファイヤーで沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44777,8 +44777,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This pristine water was most likely boiled over a campfire or gathered at a fountain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135925Z" creationid="rkmad" creationdate="20190403T075300Z">
-        <seg>水をで沸騰させたり、浄水器や噴水などから得ることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140209Z" creationid="rkmad" creationdate="20190403T075300Z">
+        <seg>水をキャンプファイヤーで沸騰させたり、浄水器や噴水などから得ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44945,8 +44945,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To create dishes with multiple ingredients, deploy a Cooking Pot on the campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135515Z" creationid="hiru4" creationdate="20190403T013733Z">
-        <seg>で調理鍋を使えば複数の食材を使った料理を作ることができます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140433Z" creationid="hiru4" creationdate="20190403T013733Z">
+        <seg>キャンプファイヤーで調理鍋を使えば複数の食材を使った料理を作ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45050,8 +45050,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Tools used to distill ingredients into potions, to be used on a lit campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135925Z" creationid="rkmad" creationdate="20190403T081039Z">
-        <seg>ポーションの作成などで使われる、錬金術の道具。これをに設置することで、様々なアイテムを作ることができるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140158Z" creationid="rkmad" creationdate="20190403T081039Z">
+        <seg>ポーションの作成などで使われる、錬金術の道具。これをキャンプファイヤーに設置することで、様々なアイテムを作ることができるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48114,16 +48114,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can retake the Alchemy Kit from the fire, to use on your next campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190401T123610Z">
-        <seg>火の中からでも、Alchemy Kitを取り出して次ので使うことができます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140416Z" creationid="setom" creationdate="20190401T123610Z">
+        <seg>Alchemy Kitを取り外して他のキャンプファイヤーで再利用することができます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You can retake the Cooking Pot from the fire, to use on your next campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135515Z" creationid="hiru4" creationdate="20190403T013532Z">
-        <seg>で使ったお鍋何度も使うために回収することができます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140456Z" creationid="hiru4" creationdate="20190403T013532Z">
+        <seg>キャンプファイヤーで使った料理鍋は回収することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48162,8 +48162,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can use a Cooking Pot in your inventory and place it on a Campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190402T083713Z">
-        <seg>料理鍋が所持品にあればで使うことができます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140110Z" creationid="setom" creationdate="20190402T083713Z">
+        <seg>料理鍋が所持品にあればキャンプファイヤーで使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51510,8 +51510,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>It should be boiled over a campfire to produce Clean Water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135925Z" creationid="rkmad" creationdate="20190403T080314Z">
-        <seg>どうしても飲みたいというのであれば、で沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T140229Z" creationid="rkmad" creationdate="20190403T080314Z">
+        <seg>どうしても飲みたいというのであれば、キャンプファイヤーで沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
       </tuv>
     </tu>
     <tu>
