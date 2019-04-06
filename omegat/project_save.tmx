@@ -11554,6 +11554,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring Crystal Powder, which can be crafted using an Alchemy Kit, to Helmi the Alchemist in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114052Z" creationid="urakata" creationdate="20190406T114052Z">
+        <seg>Cierzoの錬金術師Helmiに、錬金術キットで作ったCrystal Powderを持っていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring a Cold Stone, which can be crafted using an Alchemy Kit, to Vay the Alchemist in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114201Z" creationid="urakata" creationdate="20190406T114201Z">
+        <seg>Bergの錬金術師Vayに、錬金術キットで作ったCold Stoneを持っていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring me nine meat stews as soon as humanly possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012119Z" creationid="rkmad" creationdate="20190404T010910Z">
@@ -17204,6 +17220,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Berg_Alch_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114055Z" creationid="urakata" creationdate="20190406T114055Z">
+        <seg>Errand_Berg_Alch_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Berg_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141904Z" creationid="urakata" creationdate="20190331T141904Z">
@@ -17224,6 +17248,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142118Z" creationid="urakata" creationdate="20190331T142118Z">
         <seg>Errand_Berg_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Cierzo_Alch_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T113630Z" creationid="urakata" creationdate="20190406T113630Z">
+        <seg>Errand_Cierzo_Alch_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -33588,6 +33620,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115324Z" creationid="setom" creationdate="20190401T115324Z">
         <seg>続ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Berg’s blacksmith to collect your armor piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T113627Z" creationid="urakata" creationdate="20190406T113627Z">
+        <seg>完成したarmor pieceを受取りにBergの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
