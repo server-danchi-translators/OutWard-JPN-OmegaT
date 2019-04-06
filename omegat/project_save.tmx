@@ -14067,6 +14067,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooked food rots slower and fills you up more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074755Z" creationid="weedssoul" creationdate="20190406T074755Z">
+        <seg>調理された食料は、腐りにくくなり、生に比べて腹持ちもいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooking with a single ingredient only requires a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T083035Z" creationid="setom" creationdate="20190402T083035Z">
@@ -21247,6 +21255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want to try my hand at more advanced dishes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074858Z" creationid="weedssoul" creationdate="20190406T074858Z">
+        <seg>より発展的な調理を試してみたい。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I was going to leave this morning to go join the Holy Mission of Elatt before Mother could stop me.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164640Z" creationid="Light" creationdate="20190405T164235Z">
@@ -21627,6 +21643,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055109Z" creationid="Light" creationdate="20190406T055109Z">
         <seg>もし助けられたら報奨があるかもね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you deploy a cooking pot over a campfire, or if you have a home with a proper kitchen, you’ll be able to cook recipes with more than one ingredient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T075001Z" creationid="weedssoul" creationdate="20190406T075001Z">
+        <seg>キャンプファイアに料理鍋を設置したり、キッチン付きの家を持っていれば、1つ以上の材料を必要とするレシピを調理することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36641,6 +36665,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple food can be cooked on a lit campfire.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074733Z" creationid="weedssoul" creationdate="20190406T074733Z">
+        <seg>簡単な食料は、キャンプファイアで調理できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simply place a lantern in your backpack inventory, lighting the lantern if it is not lit already.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T111721Z" creationid="setom" creationdate="20190331T111721Z">
@@ -44073,6 +44105,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What’s a quick and easy way to cook?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074711Z" creationid="weedssoul" creationdate="20190406T074711Z">
+        <seg>素早くかつ簡単に調理するには？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What’s more effective?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064444Z" creationid="weedssoul" creationdate="20190406T064444Z">
@@ -45004,6 +45044,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T085919Z" creationid="setom" creationdate="20190402T085919Z">
         <seg>戦闘の前には[InputAction_HandleBag]でバックパックを降ろし、決着を付けてから拾いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can even boil River Water to turn it into Clean Water that is free of disease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074823Z" creationid="weedssoul" creationdate="20190406T074823Z">
+        <seg>川の水を沸かすことで、病気にかからない綺麗な水にすることができる。</seg>
       </tuv>
     </tu>
     <tu>
