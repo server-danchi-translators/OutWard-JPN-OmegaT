@@ -4700,8 +4700,8 @@
       <tuv lang="EN-US">
         <seg>But if you do not pay off those 4 months of missed payments on your own, the tribe will have my head.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190404T131349Z" creationid="rkmad" creationdate="20190404T080951Z">
-        <seg>しかし、あなたが自分自身でこの4ヶ月の負債を支払わないというのであれば、私は村の皆に正気を疑われてしまう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T024848Z" creationid="rkmad" creationdate="20190404T080951Z">
+        <seg>でも、あなたが自分でこの4ヶ月の負債を支払わないというのであれば、私は村の皆に正気を疑われてしまうわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9414,8 +9414,8 @@
       <tuv lang="EN-US">
         <seg>For 5 days, no one in the tribe can ask for what you owe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190404T131402Z" creationid="rkmad" creationdate="20190404T081607Z">
-        <seg>それにより、5日間だけは村の誰もあなたのものに手出しすることは出来ないでしょう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T024932Z" creationid="rkmad" creationdate="20190404T081607Z">
+        <seg>これで、5日間だけは村の誰もあなたのものに手出しすることは出来ないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24617,8 +24617,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The most I can do for you is declare a mourning period and buy you a little time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T081359Z" creationid="rkmad" creationdate="20190404T081359Z">
-        <seg>私があなたにしてあげられる事は、追悼期間を設け、僅かな時間を得ることでした。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T024909Z" creationid="rkmad" creationdate="20190404T081359Z">
+        <seg>私があなたにしてあげられる事は、追悼期間を設け、時間を稼ぐことだけよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24713,8 +24713,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The teaching fee is {1} silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091508Z" creationid="hiru4" creationdate="20190403T064651Z">
-        <seg>授業料は銀貨{1}枚です。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025026Z" creationid="hiru4" creationdate="20190403T064651Z">
+        <seg>授業料は{1}シルバーです。</seg>
       </tuv>
     </tu>
     <tu>
