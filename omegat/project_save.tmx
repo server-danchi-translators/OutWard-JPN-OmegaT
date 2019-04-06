@@ -17436,6 +17436,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you need a trigger device like a tripwire, then you need to arm it with a compatible item like iron spikes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T062542Z" creationid="weedssoul" creationdate="20190406T062542Z">
+        <seg>まず、トリップワイヤのような装置が必要だ。そして、それらに装着する鉄製スパイクのような道具が必要だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you’ll have better chance of avoiding attention if you’re in the dark.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T062116Z" creationid="weedssoul" creationdate="20190406T062116Z">
@@ -41356,6 +41364,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115841Z" creationid="setom" creationdate="20190401T115841Z">
         <seg>転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Traps are powerful when you bait enemies into them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T062459Z" creationid="weedssoul" creationdate="20190406T062459Z">
+        <seg>罠の中に敵をおびき寄せれば、強力だ。.</seg>
       </tuv>
     </tu>
     <tu>
