@@ -34079,6 +34079,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Primitive bedding made from leather, which offers poor sleep quality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134248Z" creationid="Light" creationdate="20190406T134248Z">
+        <seg>原始的な寝具は革製で、睡眠の質が悪い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prince Jaden</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120316Z" creationid="Gaiden Shinji" creationdate="20190404T120316Z">
@@ -39003,8 +39011,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleeping in this tent gives a large bonus to stamina use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T134142Z" creationid="Light" creationdate="20190406T134142Z">
-        <seg>このテントで眠るとスタミナ回復に大きなボーナスがある。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134508Z" creationid="Light" creationdate="20190406T134142Z">
+        <seg>このテントで眠るとスタミナに大きなボーナスがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleeping in this tent gives a small bonus to stamina use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134432Z" creationid="Light" creationdate="20190406T134432Z">
+        <seg>このテントで眠ることはスタミナに小さなボーナスを与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46381,6 +46397,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063030Z" creationid="Light" creationdate="20190406T063030Z">
         <seg>うーん、どうやら君は最低限のものは持っているようだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well-made tent that helps protect against the weather, compared to a bedroll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134355Z" creationid="Light" creationdate="20190406T134355Z">
+        <seg>寝具よりも天候から身体を保護する事ができる、よくできたテント。</seg>
       </tuv>
     </tu>
     <tu>
