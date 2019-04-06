@@ -52515,8 +52515,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} has been learned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132813Z" creationid="totochan" creationdate="20190402T194731Z">
-        <seg>{1}が覚えた</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T170154Z" creationid="totochan" creationdate="20190402T194731Z">
+        <seg>{1}を覚えた</seg>
       </tuv>
     </tu>
     <tu>
