@@ -21247,6 +21247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your foe is quick, you may want to drop your backpack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060647Z" creationid="weedssoul" creationdate="20190406T060647Z">
+        <seg>もし敵が素早いなら、バックパックをおろしたほうがいい。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’re looking for news the Inn is always a good place to try, and don't forget about Yzan down by the beach!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
@@ -26048,6 +26056,14 @@
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141257Z" creationid="totochan" creationdate="20190402T150546Z">
         <seg>バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most backpacks slow down your roll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060713Z" creationid="weedssoul" creationdate="20190406T060713Z">
+        <seg>大半のバックパックは、背負ったままだとドッジロールが遅くなってしまう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42561,6 +42577,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What’s the best way to prevent taking hits from enemies?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060442Z" creationid="weedssoul" creationdate="20190406T060442Z">
+        <seg>敵の攻撃を喰らわないようにする最も良い方法は何？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What’s your plan?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T022102Z" creationid="rkmad" creationdate="20190404T022102Z">
@@ -42581,6 +42605,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
         <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the enemy bears down on you, dodge to get out of harm's way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060629Z" creationid="weedssoul" creationdate="20190406T060629Z">
+        <seg>敵が攻撃してきたら、回避するんだ。</seg>
       </tuv>
     </tu>
     <tu>
