@@ -15732,6 +15732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m here about work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042823Z" creationid="Light" creationdate="20190406T042823Z">
+        <seg>仕事について聞きに来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m leaving Cierzo to go join the &lt;color=#00CCFF&gt;&lt;b&gt;Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024206Z" creationid="weedssoul" creationdate="20190406T024206Z">
@@ -30067,8 +30075,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What do you need?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021636Z" creationid="weedssoul" creationdate="20190406T021636Z">
-        <seg>何が必要ですか？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T043016Z" creationid="weedssoul" creationdate="20190406T021636Z">
+        <seg>何が必要なの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30569,6 +30577,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170918Z" creationid="weedssoul" creationdate="20190405T165644Z">
         <seg>私と一緒にくれば、私はあなたを Aberdeen の血統に迎え入れ、あなたの「血の代償」を永遠に精算する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Work, eh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042925Z" creationid="Light" creationdate="20190406T042925Z">
+        <seg>仕事？</seg>
       </tuv>
     </tu>
     <tu>
