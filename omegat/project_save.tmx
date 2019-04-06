@@ -9927,6 +9927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And yours, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T071249Z" creationid="pugnus" creationdate="20190406T071249Z">
+        <seg>[PlayerName]、あなたの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
@@ -10059,6 +10067,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051404Z" creationid="Light" creationdate="20190406T051404Z">
         <seg>興味があるの？ないの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you can get back on your own?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T072642Z" creationid="pugnus" creationdate="20190406T071531Z">
+        <seg>もしかして、あなたは自分で戻ってこれるとでも？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20495,6 +20511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can make it back if I keep my wits about me and avoid getting into trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T073132Z" creationid="pugnus" creationdate="20190406T073132Z">
+        <seg>私の知恵をトラブルに巻き込まれないように使えば、戻ることは簡単。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't bear this stupid Blood Price any longer.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090237Z" creationid="rkmad" creationdate="20190404T090237Z">
@@ -23996,6 +24020,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m glad you made it back, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T073251Z" creationid="pugnus" creationdate="20190406T073251Z">
+        <seg>[PlayerName]、私はあなたが戻ってきたことが嬉しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m going outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055359Z" creationid="Light" creationdate="20190406T055359Z">
@@ -24056,6 +24088,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T125155Z" creationid="setom" creationdate="20190402T104112Z">
         <seg>帰航の際に船が座礁したのだ。僅かながら幸運なのは、私がまだ息をしていることだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m not a fragile flower, you know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T072920Z" creationid="pugnus" creationdate="20190406T072837Z">
+        <seg>私はもろい花じゃない。あなたも知っているでしょ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25592,6 +25632,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T071142Z" creationid="weedssoul" creationdate="20190406T040641Z">
         <seg>Elattは、お前を見ているぞ [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May Elatt watch your back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T071100Z" creationid="pugnus" creationdate="20190406T071100Z">
+        <seg>Elattはあなたの背中を見ている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45057,6 +45105,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You did fantastic work, bringing down the attackers’ leader and tracking down the hostages they took.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T073520Z" creationid="pugnus" creationdate="20190406T073520Z">
+        <seg>あなたは攻撃者たちの頭領を倒し、彼らに奪われた人質を探し出した。あなたは素晴らしい仕事をしたのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You do not have enough Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131951Z" creationid="hiru4" creationdate="20190403T052110Z">
@@ -46451,8 +46507,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>goodbye</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190405T101318Z" creationid="seto" creationdate="20190405T101318Z">
-        <seg>goodbye</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T071258Z" creationid="seto" creationdate="20190405T101318Z">
+        <seg>さようなら。</seg>
       </tuv>
     </tu>
     <tu>
