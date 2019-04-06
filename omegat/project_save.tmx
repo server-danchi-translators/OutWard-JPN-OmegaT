@@ -40345,6 +40345,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soiled cloth that confers the Fire element when rubbed on a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143319Z" creationid="weedssoul" creationdate="20190406T143319Z">
+        <seg>武器をこすると、炎属性を付与する汚れた布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soiled cloth that confers the Frost element when rubbed on a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143339Z" creationid="weedssoul" creationdate="20190406T143339Z">
+        <seg>武器をこすると、氷属性を付与する汚れた布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soldier</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120224Z" creationid="Gaiden Shinji" creationdate="20190404T120224Z">
@@ -45571,6 +45587,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T142451Z" creationid="setom" creationdate="20190402T141218Z">
         <seg>何もねぇよりかは温まるはずだぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thick fluid that confers the Frost element when applied to a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143434Z" creationid="weedssoul" creationdate="20190406T143434Z">
+        <seg>武器に使うと、氷属性</seg>
       </tuv>
     </tu>
     <tu>
