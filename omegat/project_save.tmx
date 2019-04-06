@@ -11468,6 +11468,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get lost, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035833Z" creationid="weedssoul" creationdate="20190406T035833Z">
+        <seg>失せろ、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost Pass</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114517Z" creationid="Gaiden Shinji" creationdate="20190403T114517Z">
@@ -19113,8 +19121,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Now give me what you owe me!</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035526Z" creationid="weedssoul" creationdate="20190406T035526Z">
-        <seg>貸しをすべて返してくれ！</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035900Z" creationid="weedssoul" creationdate="20190406T035526Z">
+        <seg>貸しを返すときだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -26551,6 +26559,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133841Z" creationid="totochan" creationdate="20190403T133841Z">
         <seg>毎秒炎か[E1V1]ダメージを受ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take my 25 silver and buy yourself some decency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035828Z" creationid="weedssoul" creationdate="20190406T035828Z">
+        <seg>25銀貨持っていけ。それで、体裁を整えるんだな。</seg>
       </tuv>
     </tu>
     <tu>
