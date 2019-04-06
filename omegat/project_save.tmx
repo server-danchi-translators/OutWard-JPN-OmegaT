@@ -43681,6 +43681,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do you want me to teach you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071809Z" creationid="weedssoul" creationdate="20190406T071809Z">
+        <seg>何を教えて欲しい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you want to know?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055439Z" creationid="Light" creationdate="20190406T055439Z">
