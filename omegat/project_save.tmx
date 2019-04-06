@@ -12971,6 +12971,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose three rewards from the Gold-Mask Lich.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134103Z" creationid="urakata" creationdate="20190406T134103Z">
+        <seg>Gold-Mask Lichからの褒章3つを選ぶ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chosen by destiny, given sacred protection, unrivaled ability...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T010645Z" creationid="pugnus" creationdate="20190404T075840Z">
@@ -17648,6 +17656,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T133319Z" creationid="urakata" creationdate="20190406T133319Z">
         <seg>Errand_GoldLich_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_GoldLich_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T133909Z" creationid="urakata" creationdate="20190406T133909Z">
+        <seg>Errand_GoldLich_02</seg>
       </tuv>
     </tu>
     <tu>
