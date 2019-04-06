@@ -25809,6 +25809,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You feel Soeran patching up your injuries as you slowly regain consciousness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T004942Z" creationid="pugnus" creationdate="20190406T004942Z">
+        <seg>緩やかに意識を取り戻す。Soeran があなたの傷を手当してくれている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You force your eyes open and find yourself in a cart with prisoners and corpses, bouncing along the road.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041318Z" creationid="はぐくみ会" creationdate="20190403T064901Z">
