@@ -7316,6 +7316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either the Sutherlands, the Battleborns or the Sullivans would do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T015105Z" creationid="weedssoul" creationdate="20190406T015105Z">
+        <seg>Sutherlands, Battleborns, Sullivans のいずれかの承認をもらってきてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114134Z" creationid="Gaiden Shinji" creationdate="20190404T114134Z">
@@ -8456,6 +8464,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114543Z" creationid="Gaiden Shinji" creationdate="20190404T114543Z">
         <seg>ガブリエラ・サリバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella Sullivan and Julius Sutherland are close allies of mine, and Sagard Battleborn wields an especially large degree of power as the Chamberlord of Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T015522Z" creationid="weedssoul" creationdate="20190406T015522Z">
+        <seg>Gabriella SullivanとJulius Sutherlandは私もよく知っている人で、Sagard Battleborn はBergのChamberloadで特に強大な権力を持っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23827,6 +23843,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T013733Z" creationid="hiru4" creationdate="20190403T013733Z">
         <seg>キャンプファイヤーで調理鍋を使えば複数の食材を使った料理を作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To help the process go smoothly, &lt;color=#00CCFF&gt;&lt;b&gt;you should get the approval of another old family&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T015028Z" creationid="weedssoul" creationdate="20190406T015028Z">
+        <seg>円滑にことを進めるために &lt;color=#00CCFF&gt;&lt;b&gt;あなたは、他の古い一族の承認を得るべきでしょう。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
