@@ -23295,6 +23295,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improvised Bedroll</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T135214Z" creationid="weedssoul" creationdate="20190406T135214Z">
+        <seg>Improvised Bedrol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improvised blade made from scrap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T135121Z" creationid="weedssoul" creationdate="20190406T135121Z">
+        <seg>スクラップから作られた即席の刃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Between</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112409Z" creationid="Gaiden Shinji" creationdate="20190404T112409Z">
@@ -44595,6 +44611,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This off-hand weapon requires Dagger Skills to be used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T135140Z" creationid="weedssoul" creationdate="20190406T135140Z">
+        <seg>この左手武器は、使用するのにダガースキルが必要である。</seg>
       </tuv>
     </tu>
     <tu>
