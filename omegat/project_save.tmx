@@ -10793,6 +10793,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balanced backpack commonly used by travelers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132250Z" creationid="Light" creationdate="20190406T132250Z">
+        <seg>旅行者によく使われるバランスのとれたバックパック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Balira</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113428Z" creationid="Gaiden Shinji" creationdate="20190404T113428Z">
@@ -13279,6 +13287,22 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090921Z" creationid="setom" creationdate="20190403T090921Z">
         <seg>Compass_West</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that cures the common cold and restores burnt Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132542Z" creationid="Light" creationdate="20190406T132542Z">
+        <seg>風邪を治しマナの最大値を回復させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that increases Impact Resistance and cures indigestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132341Z" creationid="Light" creationdate="20190406T132341Z">
+        <seg>耐打撃性を高め、消化不良を治癒させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24707,6 +24731,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It takes hours, after drinking this, to fully recover from an indigestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132447Z" creationid="Light" creationdate="20190406T132447Z">
+        <seg>これを飲んでから、消化不良を完全に回復するには数時間かかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It takes hours, after drinking this, to fully recover from the cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132620Z" creationid="Light" creationdate="20190406T132620Z">
+        <seg>これを飲んでから、風邪を完全に回復するのには数時間かかる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was forged to slay horrors, who are weak to lightning.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064155Z" creationid="setom" creationdate="20190402T064155Z">
@@ -30569,8 +30609,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>One must manually refill their quiver between fights so as not to run out of arrows during battle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T100516Z" creationid="totochan" creationdate="20190402T150918Z">
-        <seg>戦いの最中に矢を使い果たさないように、戦いの合間に矢筒に矢を補充しなければなりません</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T131854Z" creationid="totochan" creationdate="20190402T150918Z">
+        <seg>戦いの最中に矢を使い果たさないように、戦いの合間に矢筒に矢を補充しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33817,16 +33857,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Potion which instantly heals some wounds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="VAKA" changedate="20190405T133833Z" creationid="VAKA" creationdate="20190405T133833Z">
-        <seg>瞬時にいくらか傷を癒やす薬</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132453Z" creationid="VAKA" creationdate="20190405T133833Z">
+        <seg>瞬時にいくらか傷を癒やす薬。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Potion which instantly restores some mana.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T134451Z" creationid="weedssoul" creationdate="20190405T134451Z">
-        <seg>瞬時にいくからマナを得る薬.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T132508Z" creationid="weedssoul" creationdate="20190405T134451Z">
+        <seg>瞬時にいくからマナを得る薬。</seg>
       </tuv>
     </tu>
     <tu>
