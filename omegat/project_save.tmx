@@ -17316,6 +17316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Berg_General_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114615Z" creationid="urakata" creationdate="20190406T114615Z">
+        <seg>Errand_Berg_General_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Cierzo_Alch_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T113630Z" creationid="urakata" creationdate="20190406T113630Z">
@@ -17344,6 +17352,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141856Z" creationid="urakata" creationdate="20190331T141856Z">
         <seg>Errand_Cierzo_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Cierzo_Cook_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114628Z" creationid="urakata" creationdate="20190406T114628Z">
+        <seg>Errand_Cierzo_Cook_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17396,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Levant_General_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114540Z" creationid="urakata" creationdate="20190406T114540Z">
+        <seg>Errand_Levant_General_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Monsoon_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141901Z" creationid="urakata" creationdate="20190331T141901Z">
@@ -17400,6 +17424,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141903Z" creationid="urakata" creationdate="20190331T141903Z">
         <seg>Errand_Monsoon_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Monsoon_General_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114559Z" creationid="urakata" creationdate="20190406T114559Z">
+        <seg>Errand_Monsoon_General_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -41159,6 +41191,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T114538Z" creationid="urakata" creationdate="20190406T114538Z">
         <seg>Bergの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the owner of the General Store in Cierzo to deliver a business ledger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114557Z" creationid="urakata" creationdate="20190406T114557Z">
+        <seg>Cierzoの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the owner of the General Store in Levant to deliver a business ledger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114613Z" creationid="urakata" creationdate="20190406T114613Z">
+        <seg>Levantの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the owner of the General Store in Monsoon to deliver a business ledger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114627Z" creationid="urakata" creationdate="20190406T114627Z">
+        <seg>Monsoonの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
