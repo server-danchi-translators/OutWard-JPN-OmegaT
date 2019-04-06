@@ -20825,8 +20825,8 @@
       <tuv lang="EN-US">
         <seg>I guess you weren’t as much of an asset as we hoped, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T104444Z" creationid="pugnus" creationdate="20190406T104341Z">
-        <seg> [PlayerName]、私たちはあなたはもっと多く財産を持っているんじゃないかと望んでいたのよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T105328Z" creationid="pugnus" creationdate="20190406T104341Z">
+        <seg> [PlayerName]、私たちは、あなたを大いなる遺産だと思っていたのよ。期待外れもいいところね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44599,6 +44599,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T065622Z" creationid="pugnus" creationdate="20190406T065554Z">
         <seg>組織した者は、この道の専門家であったことを。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whoever planned this attack was a professional.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T105440Z" creationid="pugnus" creationdate="20190406T105440Z">
+        <seg>この攻撃を計画した者は、この道の専門家だったようね。</seg>
       </tuv>
     </tu>
     <tu>
