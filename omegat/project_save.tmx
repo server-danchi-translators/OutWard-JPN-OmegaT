@@ -27650,6 +27650,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_FoodSlowDown_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044418Z" creationid="seto" creationdate="20190406T044418Z">
+        <seg>StatusEffect_FoodSlowDown_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodSlowDown_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044419Z" creationid="seto" creationdate="20190406T044419Z">
+        <seg>StatusEffect_FoodSlowDown_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_FoodSpeedUp_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044145Z" creationid="seto" creationdate="20190406T044145Z">
@@ -27906,6 +27922,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_Hunger4_Full_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044420Z" creationid="seto" creationdate="20190406T044420Z">
+        <seg>StatusEffect_Hunger4_Full_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_Hunger4_Full_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091852Z" creationid="setom" creationdate="20190403T091852Z">
@@ -27926,6 +27950,150 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044224Z" creationid="seto" creationdate="20190406T044224Z">
         <seg>StatusEffect_Hunger6_Bloated_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue1_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044440Z" creationid="seto" creationdate="20190406T044440Z">
+        <seg>StatusEffect_Imbue_BoltImbue1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue1_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044439Z" creationid="seto" creationdate="20190406T044439Z">
+        <seg>StatusEffect_Imbue_BoltImbue1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue1_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044430Z" creationid="seto" creationdate="20190406T044430Z">
+        <seg>StatusEffect_Imbue_FireImbue1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue1_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044429Z" creationid="seto" creationdate="20190406T044429Z">
+        <seg>StatusEffect_Imbue_FireImbue1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue2_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044432Z" creationid="seto" creationdate="20190406T044432Z">
+        <seg>StatusEffect_Imbue_FireImbue2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue2_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044431Z" creationid="seto" creationdate="20190406T044431Z">
+        <seg>StatusEffect_Imbue_FireImbue2_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue3_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044433Z" creationid="seto" creationdate="20190406T044433Z">
+        <seg>StatusEffect_Imbue_FireImbue3_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FireImbue3_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044433Z" creationid="seto" creationdate="20190406T044433Z">
+        <seg>StatusEffect_Imbue_FireImbue3_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue1_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044435Z" creationid="seto" creationdate="20190406T044435Z">
+        <seg>StatusEffect_Imbue_IceImbue1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue1_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044434Z" creationid="seto" creationdate="20190406T044434Z">
+        <seg>StatusEffect_Imbue_IceImbue1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue2_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044437Z" creationid="seto" creationdate="20190406T044437Z">
+        <seg>StatusEffect_Imbue_IceImbue2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue2_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044436Z" creationid="seto" creationdate="20190406T044436Z">
+        <seg>StatusEffect_Imbue_IceImbue2_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue3_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044438Z" creationid="seto" creationdate="20190406T044438Z">
+        <seg>StatusEffect_Imbue_IceImbue3_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_IceImbue3_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044438Z" creationid="seto" creationdate="20190406T044438Z">
+        <seg>StatusEffect_Imbue_IceImbue3_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_PoisonImbue1_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044426Z" creationid="seto" creationdate="20190406T044426Z">
+        <seg>StatusEffect_Imbue_PoisonImbue1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_PoisonImbue1_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044426Z" creationid="seto" creationdate="20190406T044426Z">
+        <seg>StatusEffect_Imbue_PoisonImbue1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_PoisonImbue2_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044428Z" creationid="seto" creationdate="20190406T044428Z">
+        <seg>StatusEffect_Imbue_PoisonImbue2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_PoisonImbue2_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044427Z" creationid="seto" creationdate="20190406T044427Z">
+        <seg>StatusEffect_Imbue_PoisonImbue2_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -27990,6 +28158,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044231Z" creationid="seto" creationdate="20190406T044231Z">
         <seg>StatusEffect_LuxuryTentSleepBuff_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_MageTentSleepBuff_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044421Z" creationid="seto" creationdate="20190406T044421Z">
+        <seg>StatusEffect_MageTentSleepBuff_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_MageTentSleepBuff_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044422Z" creationid="seto" creationdate="20190406T044422Z">
+        <seg>StatusEffect_MageTentSleepBuff_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -28166,6 +28350,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044250Z" creationid="seto" creationdate="20190406T044250Z">
         <seg>StatusEffect_PainHex_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_PlantTentSleepBuff_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044423Z" creationid="seto" creationdate="20190406T044423Z">
+        <seg>StatusEffect_PlantTentSleepBuff_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_PlantTentSleepBuff_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044424Z" creationid="seto" creationdate="20190406T044424Z">
+        <seg>StatusEffect_PlantTentSleepBuff_Name</seg>
       </tuv>
     </tu>
     <tu>
