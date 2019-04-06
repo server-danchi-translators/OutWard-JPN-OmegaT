@@ -9559,6 +9559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After deployment, traps can be disassembled to retake the trigger and the item inside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142013Z" creationid="weedssoul" creationdate="20190406T142013Z">
+        <seg>設置後、解除することで罠とアイテムを回収することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After drinking, you’ll need some time before the illness is actually cured.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130853Z" creationid="weedssoul" creationdate="20190406T130853Z">
@@ -9835,6 +9843,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114039Z" creationid="Gaiden Shinji" creationdate="20190403T114039Z">
         <seg>アンモナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammunition used by all bows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T141731Z" creationid="weedssoul" creationdate="20190406T141731Z">
+        <seg>すべての弓で使われる弾薬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10299,6 +10315,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T150721Z" creationid="totochan" creationdate="20190402T150721Z">
         <seg>矢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrows must be equipped in order to be shot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T141805Z" creationid="weedssoul" creationdate="20190406T141805Z">
+        <seg>放つには装備する必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17336,6 +17360,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124701Z" creationid="urakata" creationdate="20190406T124701Z">
         <seg>この付近のゴーレムを破壊する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Device that must be armed with a compatible item, then triggered by an enemy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T141937Z" creationid="weedssoul" creationdate="20190406T141937Z">
+        <seg>互換性のあるアイテムを装着する必要のあるデバイス。敵によって作動する。</seg>
       </tuv>
     </tu>
     <tu>
