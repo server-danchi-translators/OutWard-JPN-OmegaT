@@ -11434,6 +11434,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Browse shop.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063751Z" creationid="weedssoul" creationdate="20190406T063751Z">
+        <seg>商品を眺める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bullets are required in your inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132105Z" creationid="hiru4" creationdate="20190403T053719Z">
@@ -11895,6 +11903,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072447Z" creationid="rkmad" creationdate="20190403T072244Z">
         <seg>特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certainly, lets do business!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063844Z" creationid="weedssoul" creationdate="20190406T063844Z">
+        <seg>いいですよ、取引を始めよう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -19701,6 +19717,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hello there [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063653Z" creationid="weedssoul" creationdate="20190406T063653Z">
+        <seg>やぁ、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helmet</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T090849Z" creationid="setom" creationdate="20190403T090849Z">
@@ -20771,6 +20795,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T031859Z" creationid="rkmad" creationdate="20190405T031859Z">
         <seg>私は政治にあまり注意を払ったことがなく、詳しく無いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I recommend our iron weapons and a bow, or a shield if you’re using a one-handed weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063725Z" creationid="weedssoul" creationdate="20190406T063725Z">
+        <seg>鉄製の武器や弓、片手用の武器を使っているなら盾がおすすめだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26656,6 +26688,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112008Z" creationid="Gaiden Shinji" creationdate="20190404T112008Z">
         <seg>ネクロポリス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need some gear?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063703Z" creationid="weedssoul" creationdate="20190406T063703Z">
+        <seg>装備が必要かい？</seg>
       </tuv>
     </tu>
     <tu>
