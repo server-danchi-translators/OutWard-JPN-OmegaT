@@ -7028,6 +7028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not cast us aside so easily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020418Z" creationid="weedssoul" creationdate="20190406T020418Z">
+        <seg>我々をそんな簡単に見捨てないで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to thieves in here?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011313Z" creationid="rkmad" creationdate="20190404T011313Z">
@@ -12808,6 +12816,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T125155Z" creationid="setom" creationdate="20190402T104112Z">
         <seg>帰航の際に船が座礁したのだ。僅かながら幸運なのは、私がまだ息をしていることだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m not interested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020302Z" creationid="weedssoul" creationdate="20190406T020221Z">
+        <seg>興味ないね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18967,6 +18983,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reconsider, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020228Z" creationid="weedssoul" creationdate="20190406T020228Z">
+        <seg>考え直して、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recover [E1V1] Health per second.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T132811Z" creationid="hiru4" creationdate="20190403T132811Z">
@@ -19060,6 +19084,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130147Z" creationid="rkmad" creationdate="20190404T091846Z">
         <seg>[PlayerName]、忘れないで。&lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。対価を支払うための150シルバーを集めるか、村人の信頼を得るかのどちらをするにしてもです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, the Blue Chamber Collective is a family.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020348Z" creationid="weedssoul" creationdate="20190406T020348Z">
+        <seg>思い出して。青の議会は、家族です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26997,6 +27029,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012501Z" creationid="pugnus" creationdate="20190404T050927Z">
         <seg>あなたはVendavelの要塞を脱出したが、多大な犠牲を払った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve spoken to my associates, then?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020517Z" creationid="weedssoul" creationdate="20190406T020517Z">
+        <seg>それで、私の同僚に話してきた？</seg>
       </tuv>
     </tu>
     <tu>
