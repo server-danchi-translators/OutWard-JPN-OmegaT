@@ -13499,10 +13499,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your Decay Damage and Resistances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142737Z" creationid="weedssoul" creationdate="20190406T142737Z">
+        <seg>腐敗のダメージと耐性を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concoction that temporarily increases your Ethereal Damage and Resistances.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142529Z" creationid="weedssoul" creationdate="20190406T142529Z">
         <seg>エテールのダメージと耐性を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your Fire Damage and Resistances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142555Z" creationid="weedssoul" creationdate="20190406T142555Z">
+        <seg>炎のダメージと耐性を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your Frost Damage and Resistances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142616Z" creationid="weedssoul" creationdate="20190406T142616Z">
+        <seg>氷のダメージと耐性を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your Lightning Damage and Resistances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142849Z" creationid="weedssoul" creationdate="20190406T142849Z">
+        <seg>稲妻のダメージと耐性を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your Physical Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142821Z" creationid="weedssoul" creationdate="20190406T142821Z">
+        <seg>物理ダメージを一時的に高める調合薬</seg>
       </tuv>
     </tu>
     <tu>
