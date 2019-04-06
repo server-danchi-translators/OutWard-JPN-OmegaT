@@ -9695,6 +9695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amba, my friend!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055403Z" creationid="weedssoul" creationdate="20190406T055403Z">
+        <seg>Amba, 私の友よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023539Z" creationid="hiru4" creationdate="20190402T023539Z">
@@ -31495,6 +31503,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ready to continue your training?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055417Z" creationid="weedssoul" creationdate="20190406T055417Z">
+        <seg>訓練を続ける準備はできてるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebel Priest</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115406Z" creationid="Gaiden Shinji" creationdate="20190404T115406Z">
@@ -44835,8 +44851,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>greeting</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190405T101834Z" creationid="seto" creationdate="20190405T101834Z">
-        <seg>greeting</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055455Z" creationid="seto" creationdate="20190405T101834Z">
+        <seg> greeting</seg>
       </tuv>
     </tu>
     <tu>
@@ -44915,8 +44931,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>loc_key</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T013633Z" creationid="setom" creationdate="20190401T034003Z">
-        <seg>loc_key</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055247Z" creationid="setom" creationdate="20190401T034003Z">
+        <seg>loc_keyA</seg>
       </tuv>
     </tu>
     <tu>
