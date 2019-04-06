@@ -8052,6 +8052,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discipline is required to cast this spell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T025647Z" creationid="pugnus" creationdate="20190406T025624Z">
+        <seg>この呪文を唱えるには鍛錬を必要とする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disease: Acute Cold</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134844Z" creationid="totochan" creationdate="20190403T134844Z">
@@ -20760,6 +20768,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Any Melee Weapon Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T030533Z" creationid="pugnus" creationdate="20190406T030533Z">
+        <seg>必要：近接武器 Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T015338Z" creationid="pugnus" creationdate="20190406T015338Z">
@@ -20780,6 +20796,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T142133Z" creationid="Horizon" creationdate="20190403T135727Z">
         <seg>必要：Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Chakram, Discipline Boon Launch the disc forward, possibly hitting the enemy twice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T025052Z" creationid="pugnus" creationdate="20190406T024414Z">
+        <seg>必要：Chakram, Discipline Boon 前方の敵に最大２回攻撃をする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Chakram, Discipline Boon The disc sways left and right as it advances, hitting multiple times and dealing high damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T030414Z" creationid="pugnus" creationdate="20190406T030414Z">
+        <seg>Required: Chakram, Discipline Boon ディスクは前方の空間を横切り、その空間にいる敵に高いダメージと衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
