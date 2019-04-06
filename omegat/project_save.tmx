@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045617Z" creationid="seto" creationdate="20190406T045617Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>21 – Cooking</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094701Z" creationid="setom" creationdate="20190402T094701Z">
@@ -2678,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>34</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045618Z" creationid="seto" creationdate="20190406T045618Z">
+        <seg>34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>34 – Guarding</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095924Z" creationid="setom" creationdate="20190402T095924Z">
@@ -4255,10 +4271,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_DesertJustice_16_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045608Z" creationid="seto" creationdate="20190406T045608Z">
+        <seg>Achievement_DesertJustice_16_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_DesertJustice_16_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044946Z" creationid="seto" creationdate="20190406T044946Z">
         <seg>Achievement_DesertJustice_16_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Encyclopedic_30_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045615Z" creationid="seto" creationdate="20190406T045615Z">
+        <seg>Achievement_Encyclopedic_30_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4299,6 +4331,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044952Z" creationid="seto" creationdate="20190406T044952Z">
         <seg>Achievement_ExceptionalSkill_24_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_FoodfortheHungry_17_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045609Z" creationid="seto" creationdate="20190406T045609Z">
+        <seg>Achievement_FoodfortheHungry_17_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4391,6 +4431,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_HouseofCards_19_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045611Z" creationid="seto" creationdate="20190406T045611Z">
+        <seg>Achievement_HouseofCards_19_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_HouseofCards_19_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044948Z" creationid="seto" creationdate="20190406T044948Z">
@@ -4431,10 +4479,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_LightofLevant_18_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045610Z" creationid="seto" creationdate="20190406T045610Z">
+        <seg>Achievement_LightofLevant_18_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_LightofLevant_18_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044947Z" creationid="seto" creationdate="20190406T044947Z">
         <seg>Achievement_LightofLevant_18_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_MasterofAurai_20_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045612Z" creationid="seto" creationdate="20190406T045612Z">
+        <seg>Achievement_MasterofAurai_20_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,6 +4527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_NeverSawitComing_32_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045619Z" creationid="seto" creationdate="20190406T045619Z">
+        <seg>Achievement_NeverSawitComing_32_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_NeverSawitComing_32_Name</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044957Z" creationid="seto" creationdate="20190406T044957Z">
@@ -4483,6 +4555,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044924Z" creationid="seto" creationdate="20190406T044924Z">
         <seg>Achievement_OriginStory_7_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_PerfectDefense_31_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045617Z" creationid="seto" creationdate="20190406T045617Z">
+        <seg>Achievement_PerfectDefense_31_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -30186,6 +30266,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_FoodImpactUp_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045531Z" creationid="seto" creationdate="20190406T045531Z">
+        <seg>StatusEffect_FoodImpactUp_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodMist_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045532Z" creationid="seto" creationdate="20190406T045532Z">
+        <seg>StatusEffect_FoodMist_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodMist_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045533Z" creationid="seto" creationdate="20190406T045533Z">
+        <seg>StatusEffect_FoodMist_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_FoodPoisonedHex2_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044142Z" creationid="seto" creationdate="20190406T044142Z">
@@ -30214,6 +30318,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044140Z" creationid="seto" creationdate="20190406T044140Z">
         <seg>StatusEffect_FoodPoisonedHex_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodPossessed_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045534Z" creationid="seto" creationdate="20190406T045534Z">
+        <seg>StatusEffect_FoodPossessed_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_FoodPossessed_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045535Z" creationid="seto" creationdate="20190406T045535Z">
+        <seg>StatusEffect_FoodPossessed_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -30570,6 +30690,38 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue2_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045541Z" creationid="seto" creationdate="20190406T045541Z">
+        <seg>StatusEffect_Imbue_BoltImbue2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue2_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045540Z" creationid="seto" creationdate="20190406T045540Z">
+        <seg>StatusEffect_Imbue_BoltImbue2_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue3_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045543Z" creationid="seto" creationdate="20190406T045543Z">
+        <seg>StatusEffect_Imbue_BoltImbue3_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BoltImbue3_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045542Z" creationid="seto" creationdate="20190406T045542Z">
+        <seg>StatusEffect_Imbue_BoltImbue3_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_Imbue_DarkImbue_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044451Z" creationid="seto" creationdate="20190406T044451Z">
@@ -30822,6 +30974,38 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044458Z" creationid="seto" creationdate="20190406T044458Z">
         <seg>StatusEffect_Imbue_ShieldAbsorbLightning_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_SpiritualImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045545Z" creationid="seto" creationdate="20190406T045545Z">
+        <seg>StatusEffect_Imbue_SpiritualImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_SpiritualImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045544Z" creationid="seto" creationdate="20190406T045544Z">
+        <seg>StatusEffect_Imbue_SpiritualImbue_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_WindlImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045548Z" creationid="seto" creationdate="20190406T045548Z">
+        <seg>StatusEffect_Imbue_WindlImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_WindlImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045547Z" creationid="seto" creationdate="20190406T045547Z">
+        <seg>StatusEffect_Imbue_WindlImbue_Name</seg>
       </tuv>
     </tu>
     <tu>
