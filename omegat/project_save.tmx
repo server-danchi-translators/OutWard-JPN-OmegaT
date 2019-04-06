@@ -21207,6 +21207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you need to get into a better position or to flee, sprint away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060957Z" creationid="weedssoul" creationdate="20190406T060950Z">
+        <seg>有利な場所で戦ったり、逃げる必要があるなら、走るんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you pledge to work with me, I will begin the steps needed to adopt you into the Aberdeen bloodline and free you from your family’s Blood Price.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020658Z" creationid="weedssoul" creationdate="20190406T020658Z">
@@ -39039,6 +39047,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133841Z" creationid="totochan" creationdate="20190403T133841Z">
         <seg>毎秒炎か[E1V1]ダメージを受ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take care not to run for too long, or you will be too exhausted to fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061042Z" creationid="weedssoul" creationdate="20190406T061042Z">
+        <seg>あまり長くは走れないから注意するんだ。さもなくば、疲れきった状態で戦うことになる。</seg>
       </tuv>
     </tu>
     <tu>
