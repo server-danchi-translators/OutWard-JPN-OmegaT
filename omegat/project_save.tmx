@@ -11468,8 +11468,8 @@
       <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
-        <seg>水を煮たり生肉を炙ったりするだけならば、火を点けたキャンプファイアだけで構わない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T101122Z" creationid="setom" creationdate="20190331T112200Z">
+        <seg>水を煮たり生肉を炙ったりするだけならば、火を点けたキャンプファイアだけで構わない</seg>
       </tuv>
     </tu>
     <tu>
@@ -12061,8 +12061,8 @@
       <tuv lang="EN-US">
         <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111914Z" creationid="setom" creationdate="20190331T111914Z">
-        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。特定のポーションや茶で病気を治療できるが、それでも回復には時間がかかってしまう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100900Z" creationid="setom" creationdate="20190331T111914Z">
+        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。特定のポーションや茶で病気を治療できるが、それでも回復には時間がかかってしまう</seg>
       </tuv>
     </tu>
     <tu>
@@ -16566,8 +16566,8 @@
       <tuv lang="EN-US">
         <seg>Drop less useful items and don’t pick up everything you find, as too much weight will slow you down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111958Z" creationid="setom" creationdate="20190331T111958Z">
-        <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100906Z" creationid="setom" creationdate="20190331T111958Z">
+        <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ</seg>
       </tuv>
     </tu>
     <tu>
@@ -16710,8 +16710,8 @@
       <tuv lang="EN-US">
         <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112035Z" creationid="setom" creationdate="20190331T112035Z">
-        <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100911Z" creationid="setom" creationdate="20190331T112035Z">
+        <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24590,8 +24590,8 @@
       <tuv lang="EN-US">
         <seg>Keep your temperature neutral with appropriate clothes, certain types of food or campfires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112446Z" creationid="setom" creationdate="20190331T112446Z">
-        <seg>適切な衣服や特定の食べ物やキャンプファイアを用いて体温を丁度良い温度に保て。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T101133Z" creationid="setom" creationdate="20190331T112446Z">
+        <seg>適切な衣服や特定の食べ物やキャンプファイアを用いて体温を丁度良い温度に保て</seg>
       </tuv>
     </tu>
     <tu>
@@ -27718,16 +27718,16 @@
       <tuv lang="EN-US">
         <seg>Note that arrows must be equipped before they can be shot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112535Z" creationid="setom" creationdate="20190331T112500Z">
-        <seg>射撃の前に矢を装備しなければならないことに注意しろ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T101136Z" creationid="setom" creationdate="20190331T112500Z">
+        <seg>射撃の前に矢を装備しなければならないことに注意しろ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Note that campfires don’t run out of fuel, so they don’t go out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111944Z" creationid="setom" creationdate="20190331T111927Z">
-        <seg>だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100903Z" creationid="setom" creationdate="20190331T111927Z">
+        <seg>だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない</seg>
       </tuv>
     </tu>
     <tu>
@@ -29857,8 +29857,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or you could experiment in Manual Recipe mode, where you can use any ingredients together.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112149Z" creationid="setom" creationdate="20190331T112149Z">
-        <seg>もしくはマニュアルレシピモードでなにか材料を使って実験をしてもいいだろう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100926Z" creationid="setom" creationdate="20190331T112149Z">
+        <seg>もしくはマニュアルレシピモードでなにか材料を使って実験をしてもいいだろう</seg>
       </tuv>
     </tu>
     <tu>
@@ -32577,8 +32577,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Put out your light when sneaking!</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112137Z" creationid="setom" creationdate="20190331T112137Z">
-        <seg>隠れるときは光を避けろ!</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100921Z" creationid="setom" creationdate="20190331T112137Z">
+        <seg>隠れるときは光を避けろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -36987,8 +36987,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleep in a tent or an inn to recover your maximum health and stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112114Z" creationid="setom" creationdate="20190331T112114Z">
-        <seg>テントや宿屋で眠ることで最大値は回復する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100916Z" creationid="setom" creationdate="20190331T112114Z">
+        <seg>テントや宿屋で眠ることで最大値は回復する</seg>
       </tuv>
     </tu>
     <tu>
@@ -41961,8 +41961,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There, you can buy active skills and passive buffs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112544Z" creationid="setom" creationdate="20190331T112544Z">
-        <seg>アクティブスキルやパッシブバフの購入が可能だ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T101141Z" creationid="setom" creationdate="20190331T112544Z">
+        <seg>アクティブスキルやパッシブバフの購入が可能だ</seg>
       </tuv>
     </tu>
     <tu>
@@ -42017,8 +42017,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They can be bought from merchants or crafted, with a cooking pot, from salt and various food types.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112433Z" creationid="setom" creationdate="20190331T112310Z">
-        <seg>これは商人から買うことが可能で、料理鍋を使って塩や様々な種類の食料から作ることもできる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T101130Z" creationid="setom" creationdate="20190331T112310Z">
+        <seg>これは商人から買うことが可能で、料理鍋を使って塩や様々な種類の食料から作ることもできる</seg>
       </tuv>
     </tu>
     <tu>
@@ -42369,8 +42369,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112050Z" creationid="setom" creationdate="20190331T112050Z">
-        <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100913Z" creationid="setom" creationdate="20190331T112050Z">
+        <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ</seg>
       </tuv>
     </tu>
     <tu>
@@ -45918,8 +45918,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You only have 8 quickslots, so choose wisely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111857Z" creationid="setom" creationdate="20190331T111834Z">
-        <seg>しかし、クイックスロットは8個しかない、賢い選択をしろ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100856Z" creationid="setom" creationdate="20190331T111834Z">
+        <seg>しかし、クイックスロットは8個しかない、賢い選択をしろ</seg>
       </tuv>
     </tu>
     <tu>
@@ -46338,8 +46338,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your compass will point to your last-used backpack, making it easier to find back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111701Z" creationid="setom" creationdate="20190331T111701Z">
-        <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T100850Z" creationid="setom" creationdate="20190331T111701Z">
+        <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ</seg>
       </tuv>
     </tu>
     <tu>
