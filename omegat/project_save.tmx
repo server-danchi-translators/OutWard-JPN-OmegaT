@@ -20839,6 +20839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think I want to learn one for a different weapon, give me a minute Burac.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063516Z" creationid="Light" creationdate="20190406T063516Z">
+        <seg>違う武器について教えてほしいので、待ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think it tore a hole in my gut...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133530Z" creationid="Light" creationdate="20190405T133530Z">
@@ -42136,6 +42144,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Want me to teach you one for the weapon you’re currently holding?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063240Z" creationid="Light" creationdate="20190406T063240Z">
+        <seg>君の持っている武器のスキルを一つ教えてやろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warm</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T082032Z" creationid="totochan" creationdate="20190402T082032Z">
@@ -43471,8 +43487,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T175042Z" creationid="magur0w" creationdate="20190404T175042Z">
-        <seg>あぁ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063355Z" creationid="magur0w" creationdate="20190404T175042Z">
+        <seg>はい。</seg>
       </tuv>
     </tu>
     <tu>
