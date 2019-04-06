@@ -23024,6 +23024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It depends on your situation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064511Z" creationid="weedssoul" creationdate="20190406T064511Z">
+        <seg>状況による。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not move.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053846Z" creationid="hiru4" creationdate="20190403T053846Z">
@@ -28519,6 +28527,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One-handed weapons, or two-handed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064457Z" creationid="weedssoul" creationdate="20190406T064457Z">
+        <seg>片手武器か両手武器か。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only by sharing our burdens as family can we hope to survive in Aurai.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T023010Z" creationid="weedssoul" creationdate="20190406T023010Z">
@@ -31891,6 +31907,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115303Z" creationid="setom" creationdate="20190401T115303Z">
         <seg>ゲームをやめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quite a lot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064414Z" creationid="weedssoul" creationdate="20190406T064414Z">
+        <seg>たくさんある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39435,6 +39459,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take good care of your equipment, friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064203Z" creationid="weedssoul" creationdate="20190406T064203Z">
+        <seg>友よ、装備はいつも気にかけろよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take my 25 silver and buy yourself some decency.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T035828Z" creationid="weedssoul" creationdate="20190406T035828Z">
@@ -39591,6 +39623,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T162211Z" creationid="Light" creationdate="20190405T162211Z">
         <seg>このあたりの地域の事を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell me what you want to know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064432Z" creationid="weedssoul" creationdate="20190406T064432Z">
+        <seg>知りたいものについて教えてやろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42720,6 +42760,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weapons that need two hands are often stronger and have superior reach, but one handed weapons allow you to carry trinkets like shields or lanterns in your off-hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064617Z" creationid="weedssoul" creationdate="20190406T064617Z">
+        <seg>両手武器は、一般的に協力でリーチも長い。一方で片手武器は、オフハンドとして、盾やランタンを装備することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wear equipment that resists the type of damage they inflict.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T061322Z" creationid="weedssoul" creationdate="20190406T061322Z">
@@ -42969,6 +43017,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What can you tell me about handling equipment?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064350Z" creationid="weedssoul" creationdate="20190406T064350Z">
+        <seg>装備について教えてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What can you tell me about him?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T042408Z" creationid="weedssoul" creationdate="20190406T042408Z">
@@ -43145,6 +43201,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What’s more effective?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064444Z" creationid="weedssoul" creationdate="20190406T064444Z">
+        <seg>どれが強い？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What’s the best way to prevent taking hits from enemies?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T060442Z" creationid="weedssoul" creationdate="20190406T060442Z">
@@ -43189,6 +43253,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T060629Z" creationid="weedssoul" creationdate="20190406T060629Z">
         <seg>敵が攻撃してきたら、回避するんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When wits fail you, your gear is all you can rely on out there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064312Z" creationid="weedssoul" creationdate="20190406T064231Z">
+        <seg>知恵に見捨てられた時、装備だけが頼りだ。</seg>
       </tuv>
     </tu>
     <tu>
