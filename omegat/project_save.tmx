@@ -11690,6 +11690,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Branches with a variety of uses, from making campfires to crafting weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134907Z" creationid="weedssoul" creationdate="20190406T134907Z">
+        <seg>キャンプファイアの作成から武器の生成まで様々な用途で使える枝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bread</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045205Z" creationid="seto" creationdate="20190406T045205Z">
@@ -44850,8 +44858,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Torch that shines weakly, held in the off hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134821Z" creationid="weedssoul" creationdate="20190406T134821Z">
-        <seg>僅かに光るトーチ。左手に持つ。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134843Z" creationid="weedssoul" creationdate="20190406T134821Z">
+        <seg>弱々しく光るトーチ。左手に持つ。</seg>
       </tuv>
     </tu>
     <tu>
