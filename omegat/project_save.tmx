@@ -11876,6 +11876,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grants the Discipline boon, which increases the Physical Damage of your attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T040846Z" creationid="pugnus" creationdate="20190406T040755Z">
+        <seg>Discipline boonを付与する。あなたの物理的な攻撃のダメージを増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grants the Mist boon, which increases your Ethereal Damage and Ethereal Resistance.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T040247Z" creationid="pugnus" creationdate="20190406T032911Z">
@@ -29020,6 +29028,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this skill burns a bit of your maximum stamina until the next time you sleep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T041001Z" creationid="pugnus" creationdate="20190406T041001Z">
+        <seg>このスキルを使うと、次に眠るまでの間、スタミナの最大値が、やや減少する。</seg>
       </tuv>
     </tu>
     <tu>
