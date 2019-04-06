@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Blue Chamber Collective&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021709Z" creationid="weedssoul" creationdate="20190406T021709Z">
+        <seg>(これは私の人生の分岐点だ... &lt;color=#00CCFF&gt;&lt;b&gt;本当に青の議会に加わることを誓いますか？&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Active -</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083614Z" creationid="totochan" creationdate="20190402T083614Z">
@@ -11007,6 +11015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to think about this more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021519Z" creationid="weedssoul" creationdate="20190406T021519Z">
+        <seg>もう少し考えさせてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need you to &lt;color=#00CCFF&gt;&lt;b&gt;make your way to the Blue Chamber itself&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164540Z" creationid="magur0w" creationdate="20190404T164327Z">
@@ -12250,8 +12266,8 @@
       <tuv lang="EN-US">
         <seg>It comes with great responsibility, but also many advantages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021125Z" creationid="weedssoul" creationdate="20190406T020831Z">
-        <seg>大きな責任が伴うが、同時に多くの利益を与えるでしょう。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021304Z" creationid="weedssoul" creationdate="20190406T020831Z">
+        <seg>大きな責任が伴うが、同時に多くの利益をもたらすでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,6 +15368,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071420Z" creationid="hiru4" creationdate="20190402T071420Z">
         <seg>ベッドがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not just yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021508Z" creationid="weedssoul" creationdate="20190406T021508Z">
+        <seg>いや、まだだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25137,6 +25161,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do you need?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021636Z" creationid="weedssoul" creationdate="20190406T021636Z">
+        <seg>何が必要ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you wish to know?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T093259Z" creationid="rkmad" creationdate="20190404T093259Z">
@@ -25451,6 +25483,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will you pledge yourself to the continued survival of the Blue Chamber Collective, and join clan Aberdeen, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021455Z" creationid="weedssoul" creationdate="20190406T021455Z">
+        <seg>あなたは青の議会のために生き続けることを誓い、Aberdeen家に加わりますか、[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Will you work with me, and be adopted into the Aberdeen family?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014747Z" creationid="weedssoul" creationdate="20190406T014653Z">
@@ -25625,6 +25665,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114055Z" creationid="Gaiden Shinji" creationdate="20190403T114055Z">
         <seg>イエローコパール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I commit myself to the well being of the Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T021604Z" creationid="weedssoul" creationdate="20190406T021604Z">
+        <seg>はい。議会の良き一員となることを約束します。</seg>
       </tuv>
     </tu>
     <tu>
