@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044845Z" creationid="seto" creationdate="20190406T044845Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>14 – Negative Effects</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094604Z" creationid="setom" creationdate="20190402T094604Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094626Z" creationid="setom" creationdate="20190402T094626Z">
         <seg>16 – キャラクターの欲求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044854Z" creationid="seto" creationdate="20190406T044854Z">
+        <seg>17</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094023Z" creationid="setom" creationdate="20190402T094023Z">
         <seg>2 – 戦闘の基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044853Z" creationid="seto" creationdate="20190406T044853Z">
+        <seg>20</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,10 +2670,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>36</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044847Z" creationid="seto" creationdate="20190406T044847Z">
+        <seg>36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>38</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044852Z" creationid="seto" creationdate="20190406T044852Z">
+        <seg>38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>4 – Basic Attacks</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094038Z" creationid="setom" creationdate="20190402T094038Z">
         <seg>4 – 攻撃の基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>42</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044855Z" creationid="seto" creationdate="20190406T044855Z">
+        <seg>42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>43</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044857Z" creationid="seto" creationdate="20190406T044857Z">
+        <seg>43</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,6 +2754,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094155Z" creationid="setom" creationdate="20190402T094155Z">
         <seg>6 – 防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>62</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044850Z" creationid="seto" creationdate="20190406T044850Z">
+        <seg>62</seg>
       </tuv>
     </tu>
     <tu>
@@ -4031,10 +4095,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ApexPredator_27_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044854Z" creationid="seto" creationdate="20190406T044854Z">
+        <seg>Achievement_ApexPredator_27_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_CordonBleu_28_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044855Z" creationid="seto" creationdate="20190406T044855Z">
+        <seg>Achievement_CordonBleu_28_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_Damagecontrol_10_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044828Z" creationid="seto" creationdate="20190406T044828Z">
         <seg>Achievement_Damagecontrol_10_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Eureka_23_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044848Z" creationid="seto" creationdate="20190406T044848Z">
+        <seg>Achievement_Eureka_23_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ExceptionalSkill_24_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044849Z" creationid="seto" creationdate="20190406T044849Z">
+        <seg>Achievement_ExceptionalSkill_24_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4051,6 +4147,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044756Z" creationid="seto" creationdate="20190406T044756Z">
         <seg>Achievement_FreshOfftheBoat_1_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HomeSweetHome_25_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044851Z" creationid="seto" creationdate="20190406T044851Z">
+        <seg>Achievement_HomeSweetHome_25_Desc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,6 +4191,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ScienceTroglodyte_29_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044856Z" creationid="seto" creationdate="20190406T044856Z">
+        <seg>Achievement_ScienceTroglodyte_29_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ScourgeSlayer_26_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044852Z" creationid="seto" creationdate="20190406T044852Z">
+        <seg>Achievement_ScourgeSlayer_26_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Tapped_22_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044846Z" creationid="seto" creationdate="20190406T044846Z">
+        <seg>Achievement_Tapped_22_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_Tearsoflight_5_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044820Z" creationid="seto" creationdate="20190406T044820Z">
@@ -4115,6 +4243,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044801Z" creationid="seto" creationdate="20190406T044801Z">
         <seg>Achievement_ThePowerofFreedom_3_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_VentureOutward_21_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044845Z" creationid="seto" creationdate="20190406T044845Z">
+        <seg>Achievement_VentureOutward_21_Desc</seg>
       </tuv>
     </tu>
     <tu>
