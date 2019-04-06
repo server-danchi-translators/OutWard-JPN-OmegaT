@@ -18348,6 +18348,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food, weapons and armor pieces in your pack can be damaged this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124727Z" creationid="weedssoul" creationdate="20190406T124727Z">
+        <seg>食料、武器、防具は傷んでしまうだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For 5 days, no one in the tribe can ask for what you owe.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025643Z" creationid="rkmad" creationdate="20190404T081607Z">
@@ -29951,6 +29959,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, and a word of caution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124550Z" creationid="weedssoul" creationdate="20190406T124550Z">
+        <seg>ああ、あと気をつけてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, great.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024010Z" creationid="weedssoul" creationdate="20190406T024010Z">
@@ -38172,6 +38188,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T032948Z" creationid="rkmad" creationdate="20190405T032933Z">
         <seg>議会の主催者が招集をかけたとき、私を含めた代表者達は議会の発祥であるベルクの街に集まります。そして、様々な物事を議論し、投票を行うのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should your backpack be hit, it’ll damage the items inside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124622Z" creationid="weedssoul" creationdate="20190406T124622Z">
+        <seg>バックパックに攻撃を受けると、中に入っているアイテムが傷つく。</seg>
       </tuv>
     </tu>
     <tu>
