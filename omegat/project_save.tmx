@@ -13547,6 +13547,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concoction that temporarily increases your weapon’s Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143031Z" creationid="weedssoul" creationdate="20190406T143031Z">
+        <seg>武器の打撃を一時的に高める調合薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114934Z" creationid="setom" creationdate="20190401T114934Z">
@@ -25898,6 +25906,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It restores a bit of max stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142953Z" creationid="weedssoul" creationdate="20190406T142953Z">
+        <seg>スタミナの最大値が少し回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It seems Cyrene mistook you for dead.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013409Z" creationid="pugnus" creationdate="20190404T101901Z">
@@ -35131,6 +35147,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T132453Z" creationid="VAKA" creationdate="20190405T133833Z">
         <seg>瞬時にいくらか傷を癒やす薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Potion which instantly reinvigorates a tired body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142937Z" creationid="weedssoul" creationdate="20190406T142937Z">
+        <seg>瞬時に疲れた体に活力を与えるポーション。.</seg>
       </tuv>
     </tu>
     <tu>
