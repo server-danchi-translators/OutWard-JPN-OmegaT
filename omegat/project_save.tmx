@@ -9847,6 +9847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ammunition for pistols, crafted from iron and oil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142202Z" creationid="weedssoul" creationdate="20190406T142202Z">
+        <seg>ピストルの弾薬。鉄と油から作れる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ammunition used by all bows.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T141731Z" creationid="weedssoul" creationdate="20190406T141731Z">
@@ -32907,6 +32915,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132218Z" creationid="hiru4" creationdate="20190403T062013Z">
         <seg>ピストルはすでに装填されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pistol skills often still require bullets.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142223Z" creationid="weedssoul" creationdate="20190406T142223Z">
+        <seg>ピストルスキルはしばしば弾を必要とする。</seg>
       </tuv>
     </tu>
     <tu>
