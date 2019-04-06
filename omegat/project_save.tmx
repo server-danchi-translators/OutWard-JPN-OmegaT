@@ -20802,8 +20802,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T030533Z" creationid="pugnus" creationdate="20190406T030533Z">
-        <seg>必要：近接武器 Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T030647Z" creationid="pugnus" creationdate="20190406T030533Z">
+        <seg>必要：近接武器 物理的な攻撃を完全に防御し、反撃する。敵に高いダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20852,6 +20852,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190404T075618Z" creationid="rkmad" creationdate="20190403T071555Z">
         <seg>必要：Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Dagger Counter a physical attack with a strong dagger strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T030722Z" creationid="pugnus" creationdate="20190406T030722Z">
+        <seg>必要：Dagger</seg>
       </tuv>
     </tu>
     <tu>
