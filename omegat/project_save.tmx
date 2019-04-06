@@ -10327,6 +10327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a reward for my generosity, a shop with rare goods will be opened in the slums, but Pigeoneye yet asks for more silver...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123836Z" creationid="urakata" creationdate="20190406T123836Z">
+        <seg>出資への見返りとしてスラムに希少品を扱う店が出るが、Pigeoneyeはまだ出資を要求している...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a type of meat, this food restores health over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072622Z" creationid="seto" creationdate="20190406T072622Z">
@@ -17656,6 +17664,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123536Z" creationid="urakata" creationdate="20190406T123536Z">
         <seg>Errand_Slum_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Slum_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123707Z" creationid="urakata" creationdate="20190406T123707Z">
+        <seg>Errand_Slum_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Slum_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123837Z" creationid="urakata" creationdate="20190406T123837Z">
+        <seg>Errand_Slum_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -25252,6 +25276,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m sure this final donation will give me access to something in the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123939Z" creationid="urakata" creationdate="20190406T123939Z">
+        <seg>これが最後の出資だし、スラムで何かできるようになるはずだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m thinking about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014702Z" creationid="weedssoul" creationdate="20190406T014702Z">
@@ -31259,6 +31291,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115328Z" creationid="Gaiden Shinji" creationdate="20190404T115328Z">
         <seg>ピジョンアイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pigeoneye requires additional silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T123907Z" creationid="urakata" creationdate="20190406T123907Z">
+        <seg>Pigeoneyeはまだ出資を要求している</seg>
       </tuv>
     </tu>
     <tu>
