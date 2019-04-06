@@ -11193,6 +11193,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic clothes can be decrafted, using the Survival Crafting menu, into linen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T135200Z" creationid="Light" creationdate="20190406T135200Z">
+        <seg>クラフトメニューを使って、基本的な服をリネンにすることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic craftable bag used to store items, though it lacks a spot to hang a lantern from.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T134635Z" creationid="weedssoul" creationdate="20190406T134635Z">
@@ -36976,6 +36984,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roll of fabric commonly used in basic crafting recipes, such as bandages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T135051Z" creationid="Light" creationdate="20190406T135037Z">
+        <seg>包帯などの基本的な生産レシピで、一般的に使用される布のロール。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rosetta Stone</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120150Z" creationid="Gaiden Shinji" creationdate="20190404T120150Z">
@@ -42645,24 +42661,32 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Teaches how to craft a consumable item, requiring an Alchemy Kit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140225Z" creationid="weedssoul" creationdate="20190405T140225Z">
-        <seg>Alchemy Kit を必要とする消耗品の作成方法を学ぶ.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134640Z" creationid="weedssoul" creationdate="20190405T140225Z">
+        <seg>Alchemy Kit を必要とする消耗品の作成方法を学ぶ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Teaches how to craft a consumable item, requiring no crafting station.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140050Z" creationid="weedssoul" creationdate="20190405T140050Z">
-        <seg>クラフト道具を必要としない消耗品の作成方法を学ぶ.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134550Z" creationid="weedssoul" creationdate="20190405T140050Z">
+        <seg>クラフト道具を必要としない消耗品の作成方法を学ぶ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Teaches how to craft equipment, requiring no crafting station.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T140016Z" creationid="weedssoul" creationdate="20190405T140016Z">
-        <seg>クラフト道具を必要としない装備の作成方法を学ぶ.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134514Z" creationid="weedssoul" creationdate="20190405T140016Z">
+        <seg>クラフト道具を必要としない装備の作成方法を学ぶ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaches how to craft food, using a Cooking Pot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134942Z" creationid="Light" creationdate="20190406T134942Z">
+        <seg>料理鍋を使う食事の調理法を学ぶ。</seg>
       </tuv>
     </tu>
     <tu>
