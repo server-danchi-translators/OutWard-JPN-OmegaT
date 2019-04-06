@@ -16628,6 +16628,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have any specific questions?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130120Z" creationid="weedssoul" creationdate="20190406T130120Z">
+        <seg>特に気になることはあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to thieves in here?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011313Z" creationid="rkmad" creationdate="20190404T011313Z">
@@ -46089,6 +46097,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What should I be worried about in the wild?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130100Z" creationid="weedssoul" creationdate="20190406T130100Z">
+        <seg>野生では、何に気をつけるべきですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What should I look out for while I'm there?</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T110301Z" creationid="magur0w" creationdate="20190404T110301Z">
@@ -48477,6 +48493,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T045622Z" creationid="Light" creationdate="20190406T045622Z">
         <seg>もし見つけたら覚えておいて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re a healer, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130043Z" creationid="weedssoul" creationdate="20190406T130043Z">
+        <seg>あなたはヒーラーですね？</seg>
       </tuv>
     </tu>
     <tu>
