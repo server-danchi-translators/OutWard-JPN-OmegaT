@@ -15643,6 +15643,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal, here’s your money.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054036Z" creationid="Light" creationdate="20190406T054036Z">
+        <seg>払う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
@@ -19955,6 +19963,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012151Z" creationid="はぐくみ会" creationdate="20190403T110023Z">
         <seg>Elattの名前でどうやってここに来たのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How is your attempt to pay off your Blood Price going?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054318Z" creationid="Light" creationdate="20190406T054318Z">
+        <seg>借金の支払いはどう？</seg>
       </tuv>
     </tu>
     <tu>
@@ -26472,6 +26488,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021508Z" creationid="weedssoul" creationdate="20190406T021508Z">
         <seg>いや、まだだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054102Z" creationid="Light" creationdate="20190406T054102Z">
+        <seg>今はいい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34932,6 +34956,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025251Z" creationid="hiru4" creationdate="20190402T023216Z">
         <seg>セクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See you soon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054232Z" creationid="Light" creationdate="20190406T054232Z">
+        <seg>じゃあ、またね！</seg>
       </tuv>
     </tu>
     <tu>
