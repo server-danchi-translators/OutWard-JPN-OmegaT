@@ -20519,6 +20519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want a room, please.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053901Z" creationid="Light" creationdate="20190406T053814Z">
+        <seg>部屋を貸してほしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want my money back.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T035038Z" creationid="weedssoul" creationdate="20190406T035038Z">
@@ -23140,6 +23148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’d like to talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053845Z" creationid="Light" creationdate="20190406T053845Z">
+        <seg>話がしたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m always interested in curiosities.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042354Z" creationid="Light" creationdate="20190406T042354Z">
@@ -23200,6 +23216,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024206Z" creationid="weedssoul" creationdate="20190406T024206Z">
         <seg>私は、&lt;color=#00CCFF&gt;&lt;b&gt;Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;に加わるためにCierzoを出る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m leaving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053926Z" creationid="Light" creationdate="20190406T053926Z">
+        <seg>去る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27407,6 +27431,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053935Z" creationid="Light" creationdate="20190406T053935Z">
+        <seg>もちろん！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030522Z" creationid="weedssoul" creationdate="20190406T030522Z">
@@ -31292,6 +31324,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025310Z" creationid="hiru4" creationdate="20190402T023150Z">
         <seg>レンダリングスケール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Renting a bed costs 25 silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054005Z" creationid="Light" creationdate="20190406T054005Z">
+        <seg>25シルバーよ。</seg>
       </tuv>
     </tu>
     <tu>
