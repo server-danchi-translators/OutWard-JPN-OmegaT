@@ -12173,8 +12173,8 @@
       <tuv lang="EN-US">
         <seg>It would seem the battle is over, and you’ve been dragged to the side with the other injured.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T003533Z" creationid="pugnus" creationdate="20190406T003533Z">
-        <seg>戦いは既に終わっているようだ。そして、あなたは他の負傷者と共にいた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T003604Z" creationid="pugnus" creationdate="20190406T003533Z">
+        <seg>戦いは既に終わっているようだ。そして、あなたの周りには他の負傷者も横たわっている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24911,6 +24911,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T122446Z" creationid="setom" creationdate="20190331T113953Z">
         <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While you’re disappointed you missed the end of the fight, as least you’re still alive to tell the tale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T003832Z" creationid="pugnus" creationdate="20190406T003832Z">
+        <seg>あなたは戦いの終わりの瞬間に立ち会うことができず、少しがっかりした。しかし、この物語を伝えることはできる。まだ、生きているのだ。</seg>
       </tuv>
     </tu>
     <tu>
