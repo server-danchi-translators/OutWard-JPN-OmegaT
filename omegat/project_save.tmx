@@ -8742,6 +8742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A specific passive skill must be learned in order to deploy a pressure plate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142319Z" creationid="Light" creationdate="20190406T142319Z">
+        <seg>配置するには、特定のパッシブスキルを習得する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T034657Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -17872,6 +17880,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135019Z" creationid="totochan" creationdate="20190403T135019Z">
         <seg>食べると回復する[E2V1]%少ない食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eating this insect protect from the cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142157Z" creationid="Light" creationdate="20190406T142123Z">
+        <seg>この虫を食べることは風邪の予防になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46228,6 +46244,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045120Z" creationid="seto" creationdate="20190406T045120Z">
         <seg>Ultra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Uncommon reinvigorating insect that lives in plants and is used in advanced recipes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142119Z" creationid="Light" creationdate="20190406T142119Z">
+        <seg>植物に生息し、高度なレシピで使用されている珍しい昆虫。</seg>
       </tuv>
     </tu>
     <tu>
