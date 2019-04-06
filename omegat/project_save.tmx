@@ -21767,6 +21767,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can survive such a lethal shipwreck, I'm certain you can make your next Blood Price Payment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T113015Z" creationid="weedssoul" creationdate="20190406T113015Z">
+        <seg>あの死の難破を生き抜いたあなたなら、きっと次の「血の代償」の支払いもできるはずよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can't make the payments you missed, we'll seize your home.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T022849Z" creationid="seto" creationdate="20190404T220342Z">
@@ -46355,6 +46363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T052558Z" creationid="Light" creationdate="20190406T052558Z">
         <seg>Trogたちの造ったボロボロの像が見えてきたら正しい道よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll pull through.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T112924Z" creationid="weedssoul" creationdate="20190406T112924Z">
+        <seg>あなたは困難を切り抜ける。</seg>
       </tuv>
     </tu>
     <tu>
