@@ -11862,8 +11862,8 @@
       <tuv lang="EN-US">
         <seg>Hand it over or I'll beat it out of you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035146Z" creationid="weedssoul" creationdate="20190406T035146Z">
-        <seg>返してくれ。さもなくば、お前から奪い取る。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035234Z" creationid="weedssoul" creationdate="20190406T035146Z">
+        <seg>返してくれ。さもなくば、お前から奪い取る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28916,6 +28916,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190405T093013Z" creationid="urakata" creationdate="20190331T092802Z">
         <seg>Monsoonでarmor pieceが完成するまで24時間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait, you're mugging me, [PlayerName]?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035223Z" creationid="weedssoul" creationdate="20190406T035223Z">
+        <seg>待て、私を襲う気か、 [PlayerName]？！</seg>
       </tuv>
     </tu>
     <tu>
