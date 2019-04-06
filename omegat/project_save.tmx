@@ -8598,6 +8598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A good meal before a fight will tilt the odds in your favor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T075418Z" creationid="weedssoul" creationdate="20190406T075418Z">
+        <seg>戦いの前の良い食事は、あなたに有利な状況をもたらすだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T035539Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
@@ -14069,8 +14077,8 @@
       <tuv lang="EN-US">
         <seg>Cooked food rots slower and fills you up more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074755Z" creationid="weedssoul" creationdate="20190406T074755Z">
-        <seg>調理された食料は、腐りにくくなり、生に比べて腹持ちもいい。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T075055Z" creationid="weedssoul" creationdate="20190406T074755Z">
+        <seg>調理された食料は、腐りにくくなり、より満腹感をもたらす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41987,6 +41995,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112717Z" creationid="setom" creationdate="20190331T112717Z">
         <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’ll be even more filling and often have special properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T075124Z" creationid="weedssoul" creationdate="20190406T075124Z">
+        <seg>それらは更に満腹感をもたらし、特別な効果をもっているものも多い。</seg>
       </tuv>
     </tu>
     <tu>
