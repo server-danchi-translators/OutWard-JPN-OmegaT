@@ -42703,6 +42703,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The nearest one is the one under the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121706Z" creationid="Light" creationdate="20190406T121706Z">
+        <seg>一番近いのは、コンフラックス山の下にあるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The news you hear as you recover is grim indeed, Sagard Battleborn has gone rogue with a large battalion of the army.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013054Z" creationid="pugnus" creationdate="20190406T001922Z">
@@ -43635,6 +43643,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
         <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To unlock the secret of Mana, you must travel to a Ley Line, a place where Aurai's life flows strong.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121439Z" creationid="Light" creationdate="20190406T121439Z">
+        <seg>マナの秘密を解き明かすには、オーライの生命が強く流れるレイラインに行くべきね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45289,6 +45305,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What actually is Mana, and how do you control it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121316Z" creationid="Light" creationdate="20190406T121316Z">
+        <seg>マナって何？どうコントロールする？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are you doing out of the pen, prisoner?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T013645Z" creationid="rkmad" creationdate="20190404T013645Z">
@@ -45711,6 +45735,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T160917Z" creationid="Light" creationdate="20190405T160917Z">
         <seg>私が休める場所はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I learn magic?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121411Z" creationid="Light" creationdate="20190406T121411Z">
+        <seg>どこで魔法を学べる？</seg>
       </tuv>
     </tu>
     <tu>
@@ -47008,6 +47040,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095548Z" creationid="rkmad" creationdate="20190403T095457Z">
         <seg>あなた、ポーションの作り方は知っているわよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You know it, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121749Z" creationid="Light" creationdate="20190406T121749Z">
+        <seg>知ってるでしょ？</seg>
       </tuv>
     </tu>
     <tu>
