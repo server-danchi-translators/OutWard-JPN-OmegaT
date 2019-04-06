@@ -3951,6 +3951,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actually, I don’t think I have anything that’ll interest you, sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042544Z" creationid="Light" creationdate="20190406T042544Z">
+        <seg>すみません、あなたが興味の有りそうなものは何も持っていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -9344,6 +9352,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023419Z" creationid="seto" creationdate="20190404T220313Z">
         <seg>乱暴はしないでくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t get a lady’s hopes like that!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042727Z" creationid="Light" creationdate="20190406T042617Z">
+        <seg>レディをそんな風にがっかりさせちゃだめ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15583,6 +15599,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T035719Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
         <seg>それは大変な仕事だが、結局のところ、あなたは成功した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s not nice!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042625Z" creationid="Light" creationdate="20190406T042625Z">
+        <seg>悪い癖よ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -30061,6 +30085,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170813Z" creationid="weedssoul" creationdate="20190405T163346Z">
         <seg>何が起きた？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What have you got?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T042446Z" creationid="Light" creationdate="20190406T042446Z">
+        <seg>何を持ってきたのかしら？</seg>
       </tuv>
     </tu>
     <tu>
