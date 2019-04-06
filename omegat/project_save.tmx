@@ -26540,6 +26540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many foes will infect you with temporary effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130459Z" creationid="weedssoul" creationdate="20190406T130459Z">
+        <seg>多くの敵は状態異常の攻撃を使ってくるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many of them have lost family and aren't thinking straight.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T024447Z" creationid="rkmad" creationdate="20190404T080428Z">
@@ -46093,6 +46101,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030122Z" creationid="weedssoul" creationdate="20190406T030122Z">
         <seg>我々が残骸から引き上げられたのは、溺死した死体だけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What short term situations could make me lose the edge in a fight?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T130333Z" creationid="weedssoul" creationdate="20190406T130317Z">
+        <seg>どういった状態異常だと、戦闘で不利になりますか？</seg>
       </tuv>
     </tu>
     <tu>
