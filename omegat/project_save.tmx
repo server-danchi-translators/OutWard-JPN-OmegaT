@@ -26292,6 +26292,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My warriors and I are the last line of defense for Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T055931Z" creationid="Light" creationdate="20190406T055931Z">
+        <seg>私たち衛兵というのはシエルゾの最終防衛ラインだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Myriade</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113359Z" creationid="Gaiden Shinji" creationdate="20190404T113359Z">
@@ -41980,6 +41988,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102952Z" creationid="setom" creationdate="20190402T102952Z">
         <seg>我々は個人ではなく、血統で審判を下されるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We bear the heaviest responsibility in this tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T060143Z" creationid="Light" creationdate="20190406T060143Z">
+        <seg>だからこの部族に対して重要な責任があるのさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We decide what enters and what is driven from our walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T060040Z" creationid="Light" creationdate="20190406T060040Z">
+        <seg>入ってくるものや塀を乗り越えてこようとするものを分別する役割がある。</seg>
       </tuv>
     </tu>
     <tu>
