@@ -25292,6 +25292,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The armor and weapons?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030007Z" creationid="weedssoul" creationdate="20190406T030007Z">
+        <seg>武具も？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The attackers seem to have detonated an explosive and left you to take the blame...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T104448Z" creationid="pugnus" creationdate="20190404T104326Z">
@@ -26648,6 +26656,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, yes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030015Z" creationid="weedssoul" creationdate="20190406T030015Z">
+        <seg>残念だが、そうだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unit Weight</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021151Z" creationid="hiru4" creationdate="20190402T021151Z">
@@ -27461,6 +27477,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090753Z" creationid="rkmad" creationdate="20190404T090312Z">
         <seg>私がシエルゾを立ち去って二度と戻ってこない場合は？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What little we could salvage from the wreck has gone to the families of my drowned men.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030122Z" creationid="weedssoul" creationdate="20190406T030122Z">
+        <seg>我々が残骸から引き上げられたのは、溺死した死体だけだ。</seg>
       </tuv>
     </tu>
     <tu>
