@@ -17116,6 +17116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every blow you take will destabilize you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061531Z" creationid="weedssoul" creationdate="20190406T061531Z">
+        <seg>攻撃を受けると、スタビリティーが下がる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every objects are synced</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051703Z" creationid="seto" creationdate="20190406T051703Z">
@@ -21127,6 +21135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you are being harried too hard, try to get some distance from your foe and regain your footing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061642Z" creationid="weedssoul" creationdate="20190406T061642Z">
+        <seg>苦戦する場合は、敵から距離を取り、スタビリティーを回復させるんだ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you bring him alive…well, the Tribe would owe you a great favor.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082340Z" creationid="rkmad" creationdate="20190404T082340Z">
@@ -21227,6 +21243,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T164526Z" creationid="weedssoul" creationdate="20190405T164526Z">
         <seg>もしあなたが私と共にくると誓うのであれば、 私があなたの残りの「血の代償」を精算し、Aberdeen の血統にあなたを迎え入れよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you take too many hits in a short time, you may be knocked off your feet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061552Z" creationid="weedssoul" creationdate="20190406T061552Z">
+        <seg>短い間に大量の攻撃を受けると、ダウンしてしまうだろう。</seg>
       </tuv>
     </tu>
     <tu>
