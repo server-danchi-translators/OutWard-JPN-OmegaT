@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A quick glance around confirms that it was a massacre.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T005342Z" creationid="pugnus" creationdate="20190406T005342Z">
+        <seg>周りを見回すと、それが大虐殺だったことを一目で確認できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A shield made long ago to be ornamental, due to its weight, but that is still useful in combat.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T122649Z" creationid="setom" creationdate="20190403T122634Z">
@@ -25811,8 +25819,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You feel Soeran patching up your injuries as you slowly regain consciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T004942Z" creationid="pugnus" creationdate="20190406T004942Z">
-        <seg>緩やかに意識を取り戻す。Soeran があなたの傷を手当してくれている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T004954Z" creationid="pugnus" creationdate="20190406T004942Z">
+        <seg>緩やかに意識を取り戻す。Soeran があなたの傷を手当てしてくれている。</seg>
       </tuv>
     </tu>
     <tu>
