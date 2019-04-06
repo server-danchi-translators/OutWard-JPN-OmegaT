@@ -20391,6 +20391,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How should I protect myself?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071837Z" creationid="weedssoul" creationdate="20190406T071837Z">
+        <seg>どうやって身を守ればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, given the hostility of the region and the fact that it is home to the Holy Mission of Elatt...</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T125851Z" creationid="magur0w" creationdate="20190404T125851Z">
@@ -21657,8 +21665,8 @@
       <tuv lang="EN-US">
         <seg>If your foe is quick, you may want to drop your backpack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060647Z" creationid="weedssoul" creationdate="20190406T060647Z">
-        <seg>もし敵が素早いなら、バックパックをおろしたほうがいい。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071901Z" creationid="weedssoul" creationdate="20190406T060647Z">
+        <seg>もし敵が素早いなら、バックパックをおろしたほうがいい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44698,8 +44706,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can combo attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060016Z" creationid="weedssoul" creationdate="20190406T060016Z">
-        <seg>連続攻撃ができる。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071951Z" creationid="weedssoul" creationdate="20190406T060016Z">
+        <seg>連続攻撃ができる。</seg>
       </tuv>
     </tu>
     <tu>
