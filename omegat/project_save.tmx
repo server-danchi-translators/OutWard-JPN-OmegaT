@@ -12003,6 +12003,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caught just moments ago!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073559Z" creationid="weedssoul" creationdate="20190406T073559Z">
+        <seg>捕れたてだよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Causes the Cripple status effect on the target.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T135403Z" creationid="Horizon" creationdate="20190403T135403Z">
@@ -14127,6 +14135,14 @@
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180309Z" creationid="magur0w" creationdate="20190404T180309Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;Bergに着いているか確認してくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could you prepare me a Cierzo Ceviche like your parents used to?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073820Z" creationid="weedssoul" creationdate="20190406T073820Z">
+        <seg>かつてあなたの両親が作っていたように、Cierzoセビチェを作ってくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -20495,6 +20511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I always loved the ceviche your parents made.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073659Z" creationid="weedssoul" creationdate="20190406T073659Z">
+        <seg>私は、あなたの両親が作るセビチェが大好きだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I believe you’d do us proud.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021054Z" creationid="weedssoul" creationdate="20190406T021054Z">
@@ -20515,6 +20539,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T073132Z" creationid="pugnus" creationdate="20190406T073132Z">
         <seg>私の知恵をトラブルに巻き込まれないように使えば、戻ることは簡単。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can teach you a way to use a one-handed axe to cripple and slow your enemies!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073426Z" creationid="weedssoul" creationdate="20190406T073426Z">
+        <seg>片手斧を使い、敵の動きを遅くする技だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20889,8 +20921,8 @@
       <tuv lang="EN-US">
         <seg>I made a trip to visit the old Hermit in the valley beyond the Ghost Pass.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073029Z" creationid="weedssoul" creationdate="20190406T072941Z">
-        <seg>Ghost Pass を超え、谷にいる年老いた隠者を訪ねた。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073146Z" creationid="weedssoul" creationdate="20190406T072941Z">
+        <seg>私は、Ghost Pass を超え、谷にいる年老いた隠者を訪ねた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21203,6 +21235,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164640Z" creationid="Light" creationdate="20190405T164235Z">
         <seg>今朝、私はエラットの聖なる任務に参加するために町を出ようと思うわ、母が止める前にね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was never able to achieve the same taste!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073750Z" creationid="weedssoul" creationdate="20190406T073750Z">
+        <seg>私は一度もあの味を再現できたことがない！!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23139,6 +23179,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130616Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
         <seg>鉄鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is 50 silvers a fair price?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073435Z" creationid="weedssoul" creationdate="20190406T073435Z">
+        <seg>50銀貨でどうだ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40051,6 +40099,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take a look!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073604Z" creationid="weedssoul" creationdate="20190406T073604Z">
+        <seg>見ていってくれ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take care not to run for too long, or you will be too exhausted to fight.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T072154Z" creationid="weedssoul" creationdate="20190406T061042Z">
@@ -41129,6 +41185,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042203Z" creationid="はぐくみ会" creationdate="20190403T085259Z">
         <seg>大きく明るく照らされた部屋にあなたを投げ入れる。腐った肉の嫌なにおいが鼻孔を満たす。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The freshest fish here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073539Z" creationid="weedssoul" creationdate="20190406T073539Z">
+        <seg>新鮮な魚だよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -44477,6 +44541,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, I can teach you a little Kazite trick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073308Z" creationid="weedssoul" creationdate="20190406T073308Z">
+        <seg>いいぜ。Kazite の小さな技を教えてやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, I commit myself to the well being of the Collective.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021604Z" creationid="weedssoul" creationdate="20190406T021604Z">
@@ -46469,6 +46541,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133114Z" creationid="setom" creationdate="20190402T133114Z">
         <seg>audio_file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>buy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073631Z" creationid="weedssoul" creationdate="20190406T073631Z">
+        <seg>ｆbuy</seg>
       </tuv>
     </tu>
     <tu>
