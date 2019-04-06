@@ -10537,6 +10537,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assemble all of Myriad’s bones in the Corrupted Tombs, in the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131131Z" creationid="urakata" creationdate="20190406T131131Z">
+        <seg>ChersoneseのCorrputed TombsでMyriadの骨を全部集める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assign</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114838Z" creationid="setom" creationdate="20190401T114838Z">
@@ -16460,6 +16468,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destroy any other nearby golems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124701Z" creationid="urakata" creationdate="20190406T124701Z">
+        <seg>この付近のゴーレムを破壊する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dialogue_DefaultEmpty</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095304Z" creationid="setom" creationdate="20190402T095304Z">
@@ -17652,6 +17668,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Machine_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124550Z" creationid="urakata" creationdate="20190406T124550Z">
+        <seg>Errand_Machine_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Machine_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124615Z" creationid="urakata" creationdate="20190406T124615Z">
+        <seg>Errand_Machine_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_MageBackpack_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123941Z" creationid="urakata" creationdate="20190406T123941Z">
@@ -17684,6 +17716,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Mana_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124702Z" creationid="urakata" creationdate="20190406T124702Z">
+        <seg>Errand_Mana_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Monsoon_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141901Z" creationid="urakata" creationdate="20190331T141901Z">
@@ -17712,6 +17752,62 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T114559Z" creationid="urakata" creationdate="20190406T114559Z">
         <seg>Errand_Monsoon_General_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T130616Z" creationid="urakata" creationdate="20190406T130616Z">
+        <seg>Errand_Myriade_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131138Z" creationid="urakata" creationdate="20190406T131138Z">
+        <seg>Errand_Myriade_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131222Z" creationid="urakata" creationdate="20190406T131222Z">
+        <seg>Errand_Myriade_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131331Z" creationid="urakata" creationdate="20190406T131331Z">
+        <seg>Errand_Myriade_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131411Z" creationid="urakata" creationdate="20190406T131411Z">
+        <seg>Errand_Myriade_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131428Z" creationid="urakata" creationdate="20190406T131428Z">
+        <seg>Errand_Myriade_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Myriade_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131533Z" creationid="urakata" creationdate="20190406T131533Z">
+        <seg>Errand_Myriade_07</seg>
       </tuv>
     </tu>
     <tu>
@@ -18132,10 +18228,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find a leg, which is close to water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131427Z" creationid="urakata" creationdate="20190406T131427Z">
+        <seg>脚を探す。水の近くだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find a merchant lost in the desert before he dies, and save him by giving him a Travel Ration.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121346Z" creationid="urakata" creationdate="20190406T121346Z">
         <seg>砂漠で行方不明になった商人を見つけ出し、TravelRationを与えて命を救う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find an arm, which is close to a mana crystal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131330Z" creationid="urakata" creationdate="20190406T131330Z">
+        <seg>腕を探す。マナ結晶の近くだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find an arm, which is high up and close to many-legged creatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131410Z" creationid="urakata" creationdate="20190406T131410Z">
+        <seg>腕を探す。脚だらけの生き物の近く、高いところだ</seg>
       </tuv>
     </tu>
     <tu>
@@ -18176,6 +18296,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T125834Z" creationid="Light" creationdate="20190404T125834Z">
         <seg>助けてくれる人を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the torso, which is close to a lit minecart track.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131221Z" creationid="urakata" creationdate="20190406T131221Z">
+        <seg>胴体を探す。灯りの点いたトロッコの近くだ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19656,6 +19784,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134422Z" creationid="Light" creationdate="20190404T134303Z">
         <seg>Enmerkar Forest、Hallowed Marsh、Abrassar desertのいずれかの町で派閥に参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the center of the Conflux Mountain, in the Chersonese, to obtain Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T130322Z" creationid="urakata" creationdate="20190406T130322Z">
+        <seg>マナを体得するためにChersoneseのConflux Mountain中央に行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -34936,6 +35072,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return all the bones to Myriad’s body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131545Z" creationid="urakata" creationdate="20190406T131545Z">
+        <seg>Myriadno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return the Mushroom Shield to Helen Turnbull, in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T115748Z" creationid="urakata" creationdate="20190406T115748Z">
@@ -34988,6 +35132,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121446Z" creationid="urakata" creationdate="20190406T121446Z">
         <seg>LevantスラムのTamaraに成功を報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to the machine inside the Electric Lab.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124613Z" creationid="urakata" creationdate="20190406T124613Z">
+        <seg>Electric Lab内の機械のところへ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -39046,6 +39198,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113529Z" creationid="setom" creationdate="20190401T113529Z">
         <seg>チュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start by taking the skull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131148Z" creationid="urakata" creationdate="20190406T131134Z">
+        <seg>頭蓋骨から始めよう</seg>
       </tuv>
     </tu>
     <tu>
@@ -44071,6 +44231,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requires a permanent sacrifice of health and stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T130614Z" creationid="urakata" creationdate="20190406T130614Z">
+        <seg>体力とスタミナを代償にする必要がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This shield is unlikely to last long in a fight.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074930Z" creationid="setom" creationdate="20190402T074919Z">
@@ -46829,6 +46997,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wrecking this golem seems to reduce the interference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124639Z" creationid="urakata" creationdate="20190406T124639Z">
+        <seg>ゴーレムを破壊すると妨害が収まるようだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Y-yeah, shame about the shipwreck.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113945Z" creationid="weedssoul" creationdate="20190406T113945Z">
@@ -48893,6 +49069,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075639Z" creationid="setom" creationdate="20190402T075631Z">
         <seg>[Gamepad_Specific]ゲームパッドでクイックスロットを使うには、[InputAction_QuickSlotToggle1]または[InputAction_QuickSlotToggle2]を長押ししながら割り当てられているボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Destroy Myriade to open the magic seal by force.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T131531Z" creationid="urakata" creationdate="20190406T131531Z">
+        <seg>[Optional]魔法の封印を無理やり開くためにMyriadeを倒す</seg>
       </tuv>
     </tu>
     <tu>
