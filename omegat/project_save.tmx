@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8205280</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T031833Z" creationid="pugnus" creationdate="20190406T031833Z">
+        <seg>205280</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>9 – Quickslots</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094434Z" creationid="setom" creationdate="20190402T094434Z">
@@ -12985,7 +12993,7 @@
       <tuv lang="EN-US">
         <seg>Increases your Decay Resistance by 20.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T031733Z" creationid="pugnus" creationdate="20190406T031733Z">
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T031838Z" creationid="pugnus" creationdate="20190406T031733Z">
         <seg>減衰抵抗が20増加する。</seg>
       </tuv>
     </tu>
