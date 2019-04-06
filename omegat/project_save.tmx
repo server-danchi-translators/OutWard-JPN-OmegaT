@@ -11890,6 +11890,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By combining spells in the right sequence, you will achieve better results than using a spell on its own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122640Z" creationid="Light" creationdate="20190406T122640Z">
+        <seg>正しい順番で呪文を組み合わせることで、ひとつの呪文よりも大きな力が得られるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the time you get back up, you are alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041232Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
@@ -26068,6 +26076,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mages are those who’ve learned how to capture that energy and unleash it in the form of magic spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122517Z" creationid="Light" creationdate="20190406T122517Z">
+        <seg>魔術師は、そのエネルギーを捉え、それを魔法の呪文の形で解き放つ方法を学んだ人たちなのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magic is something that requires patience to master.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122536Z" creationid="Light" creationdate="20190406T122536Z">
+        <seg>魔法はマスターするのに忍耐を必要とするものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Hand</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095434Z" creationid="setom" creationdate="20190401T120248Z">
@@ -26160,6 +26184,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083522Z" creationid="totochan" creationdate="20190402T083522Z">
         <seg>マナ消費</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana is energy that flows through everything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122410Z" creationid="Light" creationdate="20190406T122410Z">
+        <seg>マナはあらゆるものに流れるエネルギーよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,6 +31259,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130533Z" creationid="setom" creationdate="20190403T130533Z">
         <seg>Plant_Woolshroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plants, animals, people, even rocks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122449Z" creationid="Light" creationdate="20190406T122449Z">
+        <seg>植物、動物、人々、さらには岩にまでも。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42412,6 +42452,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Holy Mission and the Kingdom of Levant have their own paths into the Conflux Mountain as well, and each one will test you differently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122236Z" creationid="Light" creationdate="20190406T122236Z">
+        <seg>聖なる任務とレヴァンテの王国も同様にコンフラックス山へ繋がる独自の道を持ってるわ、それぞれがあなたに違った試練を与えるでしょうね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Holy Mission is about more than working for a god or fighting the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T115828Z" creationid="Mad" creationdate="20190406T115828Z">
@@ -42715,6 +42763,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183552Z" creationid="magur0w" creationdate="20190404T183552Z">
         <seg>誘拐犯は彼を撃ち、動物のために置いて行った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The large purple mountain in the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T121831Z" creationid="Light" creationdate="20190406T121831Z">
+        <seg>チェルソネシスの大きな紫色の山よ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43363,6 +43419,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T101203Z" creationid="setom" creationdate="20190331T112717Z">
         <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’ll all lead to the main chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T122328Z" creationid="Light" creationdate="20190406T122328Z">
+        <seg>それらはすべてmain chamberに導くでしょうね。</seg>
       </tuv>
     </tu>
     <tu>
