@@ -11979,6 +11979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you teach me about crafting and managing my inventory?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T122116Z" creationid="weedssoul" creationdate="20190406T122116Z">
+        <seg>クラフトとインベントリ管理について教えてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you teach me about how to eat well, while I’m in the wild?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074041Z" creationid="weedssoul" creationdate="20190406T074041Z">
@@ -48245,14 +48253,6 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133114Z" creationid="setom" creationdate="20190402T133114Z">
         <seg>audio_file</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>buy</seg>
-      </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073631Z" creationid="weedssoul" creationdate="20190406T073631Z">
-        <seg>ｆbuy</seg>
       </tuv>
     </tu>
     <tu>
