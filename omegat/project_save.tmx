@@ -20239,6 +20239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I use a bow?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064700Z" creationid="weedssoul" creationdate="20190406T064700Z">
+        <seg>弓はどう使えばいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How important is it to eat, drink and sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061952Z" creationid="Light" creationdate="20190406T061952Z">
@@ -24072,6 +24080,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
         <seg>カザイト小隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep a good supply of arrows equipped, and craft more arrows if you run low.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064836Z" creationid="weedssoul" creationdate="20190406T064836Z">
+        <seg>常に矢を補充し、足りなくなったら作成するんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40711,6 +40727,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The simplest way to ensure damage at range is a good bow and some arrows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064742Z" creationid="weedssoul" creationdate="20190406T064742Z">
+        <seg>遠距離からダメージを与えるのに最も簡単なのは弓矢だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The smell of ash and cinder wakes you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T123128Z" creationid="はぐくみ会" creationdate="20190403T234100Z">
@@ -41475,6 +41499,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
         <seg>燃料を節約するために、ランタンや松明を点けたり消したりできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To shoot arrows, hold, then release the bowstring.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064942Z" creationid="weedssoul" creationdate="20190406T064942Z">
+        <seg>矢を放つには、弓のつるを引き、そして放す。</seg>
       </tuv>
     </tu>
     <tu>
