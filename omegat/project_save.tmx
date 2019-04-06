@@ -19676,6 +19676,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have they claimed responsibility?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T081609Z" creationid="pugnus" creationdate="20190406T081609Z">
+        <seg>彼らは、責任を主張しましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you forgotten why your family bears this Blood Price?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T021436Z" creationid="rkmad" creationdate="20190404T084143Z">
@@ -29763,6 +29771,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014311Z" creationid="weedssoul" creationdate="20190406T014311Z">
         <seg>あるいは、 &lt;color=#00CCFF&gt;&lt;b&gt;塩と大半の食料&lt;/b&gt;&lt;/color&gt; から作ることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or made some defense?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T081712Z" creationid="pugnus" creationdate="20190406T081712Z">
+        <seg>または、いくつかの防衛をしましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41729,8 +41745,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Their primary objective appears to have been to render Old Levant's claims to the region null and void by any means possible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T081413Z" creationid="pugnus" creationdate="20190406T081413Z">
-        <seg>彼らの主な目的は、Old Levantの宣言したこの地域に対する主張を無効にすることだろう。いかなる手段を使用しても</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T081442Z" creationid="pugnus" creationdate="20190406T081413Z">
+        <seg>彼らの主な目的は、Old Levantの宣言したこの地域に対する主張を無効にすることだろう。いかなる手段を使用しても。</seg>
       </tuv>
     </tu>
     <tu>
