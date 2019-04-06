@@ -23015,6 +23015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am sorry, [PlayerName], but this isn’t your home anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
+        <seg>すまない、 [PlayerName], ここはもう君の家ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I believe you’d do us proud.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021054Z" creationid="weedssoul" creationdate="20190406T021054Z">
@@ -45515,6 +45523,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025026Z" creationid="hiru4" creationdate="20190403T064651Z">
         <seg>授業料は{1}シルバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The town guards are using it as a barracks at the moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T152637Z" creationid="weedssoul" creationdate="20190406T152637Z">
+        <seg>街の衛兵が兵舎として一時的に利用している。</seg>
       </tuv>
     </tu>
     <tu>
