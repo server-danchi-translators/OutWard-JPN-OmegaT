@@ -9671,6 +9671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, I’ll let you go outside the town’s walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064036Z" creationid="Light" creationdate="20190406T064036Z">
+        <seg>オーケー、町の外に出してやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, if you want clean water, go to the Water Purifier to the north-east of the beach.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T161210Z" creationid="Light" creationdate="20190405T161210Z">
@@ -20993,8 +21001,8 @@
       <tuv lang="EN-US">
         <seg>I want to train with you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055528Z" creationid="weedssoul" creationdate="20190406T055528Z">
-        <seg>あなたと訓練がしたい。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064157Z" creationid="weedssoul" creationdate="20190406T055528Z">
+        <seg>あなたと訓練がしたい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21523,6 +21531,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T062425Z" creationid="Light" creationdate="20190406T062425Z">
         <seg>もしスタミナや体力が減った場合はベッドロールやテントを使って休むのが賢明だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’d like a defensive technique with a 2-handed sword, I’d teach you the Pommel Counter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064328Z" creationid="Light" creationdate="20190406T064328Z">
+        <seg>両手剣のテクニックが知りたかったらPommel Counterを教えてやろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23591,6 +23607,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T042301Z" creationid="weedssoul" creationdate="20190406T042301Z">
         <seg>しかし、水はまず沸かす必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’ll leave your foes confused.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064351Z" creationid="Light" creationdate="20190406T064351Z">
+        <seg>これは敵を混乱させることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29155,6 +29179,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091909Z" creationid="setom" creationdate="20190402T091909Z">
         <seg>ポーション、テントや食料など他のアイテムも体温の調節の手助けになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Others need to be sought out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064003Z" creationid="Light" creationdate="20190406T064003Z">
+        <seg>見つからない場合は、探す必要があるな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39178,6 +39210,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stay safe out there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064123Z" creationid="Light" creationdate="20190406T064123Z">
+        <seg>気をつけてな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stay well away from it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061400Z" creationid="Light" creationdate="20190406T061400Z">
@@ -40063,6 +40103,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170731Z" creationid="weedssoul" creationdate="20190405T170731Z">
         <seg>それは、数人が自分で引き起こした害の返済を行うよりもはるかに悪い結末だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That lesson costs 50 Silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064431Z" creationid="Light" creationdate="20190406T064431Z">
+        <seg>50シルバーかかるが、どうする？</seg>
       </tuv>
     </tu>
     <tu>
@@ -40991,6 +41039,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They usually group near training equipment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063858Z" creationid="Light" creationdate="20190406T063858Z">
+        <seg>大体、訓練用の装備のそばに立っているよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They will enslave you if they capture you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061511Z" creationid="Light" creationdate="20190406T061511Z">
@@ -41892,6 +41948,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164611Z" creationid="setom" creationdate="20190402T091450Z">
         <seg>扉を開けてチュートリアルを終了しメインメニューに戻りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the gate whenever you want to head out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T064053Z" creationid="Light" creationdate="20190406T064053Z">
+        <seg>外に向かいたくなったらゲートを使うんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44670,8 +44734,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You should look for Trainers whenever you visit a new town.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T063750Z" creationid="Light" creationdate="20190406T063750Z">
-        <seg>新しい町についたら、いつでも訓練してくれる人を探すんだぞ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063808Z" creationid="Light" creationdate="20190406T063750Z">
+        <seg>新しい町についたら、まず訓練してくれる人を探すんだ。</seg>
       </tuv>
     </tu>
     <tu>
