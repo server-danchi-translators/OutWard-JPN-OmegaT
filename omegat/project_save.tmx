@@ -16005,8 +16005,8 @@
       <tuv lang="EN-US">
         <seg>Create a game</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T071156Z" creationid="hiru4" creationdate="20190403T071136Z">
-        <seg>ホストするる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T152641Z" creationid="hiru4" creationdate="20190403T071136Z">
+        <seg>ホストする</seg>
       </tuv>
     </tu>
     <tu>
@@ -32313,8 +32313,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Open Game to Friends</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115251Z" creationid="setom" creationdate="20190401T115251Z">
-        <seg>フレンドのゲーム</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T151600Z" creationid="setom" creationdate="20190401T115251Z">
+        <seg>フレンドとゲーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -43788,8 +43788,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop Online Play</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115111Z" creationid="setom" creationdate="20190401T115111Z">
-        <seg>オンラインプレイを中断</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T153959Z" creationid="setom" creationdate="20190401T115111Z">
+        <seg>オフラインプレイ</seg>
       </tuv>
     </tu>
     <tu>
