@@ -11852,6 +11852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grants the Warm boon, which increases your Fire Damage and Fire Resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T035945Z" creationid="pugnus" creationdate="20190406T035945Z">
+        <seg>Warm boonを付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphic Quality</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022339Z" creationid="hiru4" creationdate="20190402T022339Z">
