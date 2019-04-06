@@ -17612,6 +17612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For precision shots, you can even zoom in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065017Z" creationid="weedssoul" creationdate="20190406T065017Z">
+        <seg>より正確に狙いたいときは、ズームインを使うこともできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forest Hives</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111855Z" creationid="Gaiden Shinji" creationdate="20190404T111855Z">
@@ -24648,6 +24656,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055939Z" creationid="weedssoul" creationdate="20190406T055939Z">
         <seg>近接戦闘で敵の周りを回ったり、弓や魔法で攻撃するために、敵をロックするんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Locking on enemies is useful with bows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064959Z" creationid="weedssoul" creationdate="20190406T064959Z">
+        <seg>弓を使うときは、敵をロックするといい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35832,6 +35848,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shields block projectiles, but not explosions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065201Z" creationid="weedssoul" creationdate="20190406T065201Z">
+        <seg>盾は、遠距離攻撃も防げるが、爆発は防ぐことができない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shields can block arrows and the like, but you cannot block magical blasts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T100415Z" creationid="setom" creationdate="20190331T111608Z">
@@ -42016,6 +42040,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use a shield to consume less of your stamina and stability when blocking enemy physical attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065145Z" creationid="weedssoul" creationdate="20190406T065145Z">
+        <seg>盾を使うと、敵の物理攻撃を受けた時に消費するスタミナとスタビリティーが少なくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the door to exit the Tutorial and return to the Main Menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164611Z" creationid="setom" creationdate="20190402T091450Z">
@@ -43463,6 +43495,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T153535Z" creationid="weedssoul" creationdate="20190405T153504Z">
         <seg>別に驚くことではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why are shields useful?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065043Z" creationid="weedssoul" creationdate="20190406T065043Z">
+        <seg>盾って使えるの？</seg>
       </tuv>
     </tu>
     <tu>
