@@ -23659,6 +23659,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’ll only repair what’s equipped on you, so it’ll take several rest periods to repair other weapons or armor you keep for special situations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065725Z" creationid="weedssoul" creationdate="20190406T065725Z">
+        <seg>装備中のものを修理する唯一の方法だ。だから、いざという時のために、定期的に武器や防具を修理したほうがいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s a dangerous cave, and you will be putting your life on the line.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T052028Z" creationid="Light" creationdate="20190406T052028Z">
@@ -41555,6 +41563,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T015028Z" creationid="weedssoul" creationdate="20190406T015028Z">
         <seg>円滑にことを進めるために &lt;color=#00CCFF&gt;&lt;b&gt;あなたは、他の古い一族の承認を得るべきでしょう。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To repair your gear, dedicate time to it when you set up camp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065601Z" creationid="weedssoul" creationdate="20190406T065601Z">
+        <seg>装備を修理するには、キャンプするときに、修理に時間をさけばいい。</seg>
       </tuv>
     </tu>
     <tu>
