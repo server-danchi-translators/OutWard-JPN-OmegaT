@@ -3731,6 +3731,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can be combined with other spells for powerful effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T020821Z" creationid="pugnus" creationdate="20190406T020821Z">
+        <seg>他の呪文と組み合わせることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can hit the target twice and inflict the Confusion status effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T070938Z" creationid="rkmad" creationdate="20190403T070838Z">
@@ -21857,6 +21865,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spell which inflicts no damage but has high Impact in a wide area in front of the caster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T020708Z" creationid="pugnus" creationdate="20190406T020708Z">
+        <seg>ダメージは与えられないが、前方の広い範囲に衝撃を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spire of Light</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115202Z" creationid="Gaiden Shinji" creationdate="20190403T115202Z">
@@ -24872,6 +24888,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weak attack with a wide arc of effect and high Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T020029Z" creationid="pugnus" creationdate="20190406T015921Z">
+        <seg>幅広い弧と高い効果を持つ弱い攻撃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapon Physical Damage +[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
@@ -25375,6 +25399,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T171657Z" creationid="magur0w" creationdate="20190404T171657Z">
         <seg>そこで会える?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will knock down a target afflicted by the Confusion status effect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T020542Z" creationid="pugnus" creationdate="20190406T020244Z">
+        <seg>混乱中の敵をノックダウンさせる。</seg>
       </tuv>
     </tu>
     <tu>
