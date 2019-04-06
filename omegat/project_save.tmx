@@ -11259,8 +11259,8 @@
       <tuv lang="EN-US">
         <seg>Basic gun that needs the Fire/Reload skill to shoot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T141801Z" creationid="Light" creationdate="20190406T141801Z">
-        <seg>射撃にはFire/Reloadスキルが必要だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T141855Z" creationid="Light" creationdate="20190406T141801Z">
+        <seg>射撃にはFireとReloadスキルが必要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11774,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071440Z" creationid="hiru4" creationdate="20190402T071440Z">
         <seg>ブレークスルーポイント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brew that neutralizes most poisons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T141956Z" creationid="Light" creationdate="20190406T141956Z">
+        <seg>ほとんどの毒を中和する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27572,6 +27580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locking on enemies is vital to hit with pistols.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T141919Z" creationid="Light" creationdate="20190406T141832Z">
+        <seg>銃を撃つには敵をロックオンすることが不可欠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locking on foes is essential with this skill.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T140031Z" creationid="Horizon" creationdate="20190403T135440Z">
@@ -30240,6 +30256,14 @@
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T174331Z" creationid="magur0w" creationdate="20190404T174331Z">
         <seg>まだだ、もう少し紛れ込む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notably, the toxic effect of the Hallowed Marsh’s waters cannot be cured by this potion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142038Z" creationid="Light" creationdate="20190406T142038Z">
+        <seg>だが、Hallowed Marshの毒性は、このポーションでは解決できない。</seg>
       </tuv>
     </tu>
     <tu>
