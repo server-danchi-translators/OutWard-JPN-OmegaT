@@ -26156,6 +26156,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You take this as your cue to flee for your life to a safe part of the Necropolis to tend to your wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T001526Z" creationid="pugnus" creationdate="20190406T001526Z">
+        <seg>Necropolis の安全な場所へ、あなたは逃げる。あなたの人生のために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You thank your lucky stars that the ghost was trapped in its old memories, unable to reason and think...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T122828Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
