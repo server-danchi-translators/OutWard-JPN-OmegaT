@@ -22911,6 +22911,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The news you hear as you recover is grim indeed, Sagard Battleborn has gone rogue with a large battalion of the army.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T001922Z" creationid="pugnus" creationdate="20190406T001922Z">
+        <seg>回復したときに聞こえた近況は厳しいものだった。Sagard Battleborn は、大規模な軍隊を使い、不正を行っており、ならず者である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of attacks you make before making a special attack will change which strike you will make.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145433Z" creationid="setom" creationdate="20190401T074405Z">
