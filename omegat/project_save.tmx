@@ -24768,6 +24768,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also increases your resistance to all elemental damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T140248Z" creationid="weedssoul" creationdate="20190406T140248Z">
+        <seg>また全属性の耐性を増加させる効果もある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also restores burnt Health.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T132701Z" creationid="Light" creationdate="20190406T132701Z">
@@ -38708,6 +38716,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074854Z" creationid="setom" creationdate="20190401T074854Z">
         <seg>盾はスタミナの減少も少なくし、矢も防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shimmering fish that restores mana but that can make one ill when eaten raw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T140231Z" creationid="weedssoul" creationdate="20190406T140231Z">
+        <seg>マナの回復効果のあるきらめく魚。しかし生で食べると病気になる。</seg>
       </tuv>
     </tu>
     <tu>
