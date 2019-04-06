@@ -9454,8 +9454,8 @@
       <tuv lang="EN-US">
         <seg>For 5 days, no one in the tribe can ask for what you owe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T024932Z" creationid="rkmad" creationdate="20190404T081607Z">
-        <seg>これで、5日間だけは村の誰もあなたのものに手出しすることは出来ないでしょう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025643Z" creationid="rkmad" creationdate="20190404T081607Z">
+        <seg>でもこれで、5日間だけは村の誰もあなたに手出しすることは出来ないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11817,8 +11817,8 @@
       <tuv lang="EN-US">
         <seg>I can't possibly accomplish that!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190404T125231Z" creationid="rkmad" creationdate="20190404T083150Z">
-        <seg>それを達成することは難しい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025952Z" creationid="rkmad" creationdate="20190404T083150Z">
+        <seg>そんなの無理ですよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -12169,8 +12169,8 @@
       <tuv lang="EN-US">
         <seg>I need more time!</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T083234Z" creationid="rkmad" creationdate="20190404T083234Z">
-        <seg>私にはもう少し時間が必要だ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T030002Z" creationid="rkmad" creationdate="20190404T083234Z">
+        <seg>時間が足りません！</seg>
       </tuv>
     </tu>
     <tu>
@@ -19919,6 +19919,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_a_46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025407Z" creationid="seto" creationdate="20190406T025407Z">
+        <seg>Player_Rissa_NE_Call_To_A_a_46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_NE_Call_To_A_b_05</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214408Z" creationid="seto" creationdate="20190404T214408Z">
@@ -19947,6 +19955,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025333Z" creationid="seto" creationdate="20190406T025333Z">
         <seg>Player_Rissa_NE_Call_To_A_b_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_b_45</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025403Z" creationid="seto" creationdate="20190406T025403Z">
+        <seg>Player_Rissa_NE_Call_To_A_b_45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rissa_NE_Call_To_A_b_46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025411Z" creationid="seto" creationdate="20190406T025411Z">
+        <seg>Player_Rissa_NE_Call_To_A_b_46</seg>
       </tuv>
     </tu>
     <tu>
@@ -22276,6 +22300,70 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025349Z" creationid="seto" creationdate="20190406T025349Z">
         <seg>Rissa_NE_Call_To_A_45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025404Z" creationid="seto" creationdate="20190406T025404Z">
+        <seg>Rissa_NE_Call_To_A_47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025409Z" creationid="seto" creationdate="20190406T025409Z">
+        <seg>Rissa_NE_Call_To_A_48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_49</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025412Z" creationid="seto" creationdate="20190406T025412Z">
+        <seg>Rissa_NE_Call_To_A_49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_50</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025414Z" creationid="seto" creationdate="20190406T025414Z">
+        <seg>Rissa_NE_Call_To_A_50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_51</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025415Z" creationid="seto" creationdate="20190406T025415Z">
+        <seg>Rissa_NE_Call_To_A_51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_52</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025416Z" creationid="seto" creationdate="20190406T025416Z">
+        <seg>Rissa_NE_Call_To_A_52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_53</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025419Z" creationid="seto" creationdate="20190406T025419Z">
+        <seg>Rissa_NE_Call_To_A_53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_54</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025420Z" creationid="seto" creationdate="20190406T025420Z">
+        <seg>Rissa_NE_Call_To_A_54</seg>
       </tuv>
     </tu>
     <tu>
@@ -26666,8 +26754,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Use your time to gather the money or earn a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T081807Z" creationid="rkmad" creationdate="20190404T081807Z">
-        <seg>[PlayerName]、その時間を使ってお金を集めるか&lt;color=#00CCFF&gt;&lt;b&gt;村人たちの信頼を取り戻すか&lt;/b&gt;&lt;/color&gt;を行うのです。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025858Z" creationid="rkmad" creationdate="20190404T081807Z">
+        <seg>[PlayerName]、その時間を使ってお金を集めるか&lt;color=#00CCFF&gt;&lt;b&gt;村人たちの信頼を取り戻すか&lt;/b&gt;&lt;/color&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29413,6 +29501,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T163116Z" creationid="weedssoul" creationdate="20190405T163116Z">
         <seg>Yzan は浄水機の近く、砂浜にまだいるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T025421Z" creationid="seto" creationdate="20190406T025421Z">
+        <seg>Yzan_NE_Call_To_Advent_01</seg>
       </tuv>
     </tu>
     <tu>
