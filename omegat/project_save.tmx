@@ -18956,6 +18956,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give me a few days to plan our next move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T084200Z" creationid="pugnus" creationdate="20190406T084200Z">
+        <seg>私たちの次の動きを計画するために、私に数日の猶予を下さい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glad to hear that.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T041758Z" creationid="Light" creationdate="20190406T041758Z">
@@ -44469,8 +44477,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>While the possibility that Levant's leadership didn’t order the attack is something I am willing to consider, the other Chamberlords disagree.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T083435Z" creationid="pugnus" creationdate="20190406T083435Z">
-        <seg>何故、Levantの上層部は攻撃を命じなかったのか。私は疑問に思うが、他のChamberlord達は同意しない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T084221Z" creationid="pugnus" creationdate="20190406T083435Z">
+        <seg>何故、Levantの上層部は攻撃を命じなかったのか？私は疑問に思うが、他のChamberlord達は同意しない。</seg>
       </tuv>
     </tu>
     <tu>
