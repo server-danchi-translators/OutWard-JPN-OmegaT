@@ -7484,6 +7484,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Envelops you in Mana and, for an instant, you become immune to Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T021059Z" creationid="pugnus" creationdate="20190406T021059Z">
+        <seg>マナによってあなたを包み込み、一瞬、あなたはダメージを受けなくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equip</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063128Z" creationid="hiru4" creationdate="20190403T063128Z">
@@ -19264,6 +19272,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Infused Weapon, Shield Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T021446Z" creationid="pugnus" creationdate="20190406T021446Z">
+        <seg>必要： Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131831Z" creationid="Horizon" creationdate="20190403T133329Z">
@@ -21881,10 +21897,18 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spell which does nothing on its own, but can be combined with other abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T021243Z" creationid="pugnus" creationdate="20190406T021243Z">
+        <seg>この呪文自体は何もできないが、他の能力と組み合わせることができる呪文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spell which inflicts no damage but has high Impact in a wide area in front of the caster.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T020708Z" creationid="pugnus" creationdate="20190406T020708Z">
-        <seg>ダメージは与えられないが、前方の広い範囲に衝撃を与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T020933Z" creationid="pugnus" creationdate="20190406T020708Z">
+        <seg>ダメージは与えられないが、前方の広い範囲に衝撃を与えることができる。</seg>
       </tuv>
     </tu>
     <tu>
