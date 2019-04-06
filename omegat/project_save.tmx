@@ -12715,6 +12715,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chef Iasu, in Berg, is looking for a Manticore Tail.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115226Z" creationid="urakata" creationdate="20190406T115226Z">
+        <seg>BergのシェフIasuはManticore Tailを探している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chef Tenno, in Levant, is looking for Shark Cartilage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115441Z" creationid="urakata" creationdate="20190406T115441Z">
+        <seg>LevantのシェフTennoはShark Cartilageを探している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chef_Vendavel_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115106Z" creationid="seto" creationdate="20190404T115106Z">
@@ -17292,6 +17308,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Berg_Assassin_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114731Z" creationid="urakata" creationdate="20190406T114731Z">
+        <seg>Errand_Berg_Assassin_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Berg_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141904Z" creationid="urakata" creationdate="20190331T141904Z">
@@ -17312,6 +17336,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142118Z" creationid="urakata" creationdate="20190331T142118Z">
         <seg>Errand_Berg_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Berg_Food_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115057Z" creationid="urakata" creationdate="20190406T115057Z">
+        <seg>Errand_Berg_Food_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -17372,6 +17404,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Helen_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115441Z" creationid="urakata" creationdate="20190406T115441Z">
+        <seg>Errand_Helen_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Levant_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141857Z" creationid="urakata" creationdate="20190331T141857Z">
@@ -17392,6 +17432,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141900Z" creationid="urakata" creationdate="20190331T141900Z">
         <seg>Errand_Levant_BK_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Levant_Food_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115228Z" creationid="urakata" creationdate="20190406T115228Z">
+        <seg>Errand_Levant_Food_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -19072,6 +19120,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040535Z" creationid="weedssoul" creationdate="20190406T040535Z">
         <seg>失せろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get the Mushroom Shield from the depths of the Blister Burrows, north east of Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115601Z" creationid="urakata" creationdate="20190406T115601Z">
+        <seg>Cierzo北東のBlister Burrowsの奥底からMushroom Shieldを取ってくる</seg>
       </tuv>
     </tu>
     <tu>
@@ -26332,6 +26388,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master-Chef Arago, in Cierzo, is looking for a Cierzo Ceviche.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T114730Z" creationid="urakata" creationdate="20190406T114730Z">
+        <seg>CierzoのMaster-Chef AragoはCierzo Cevhicheを探している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mastering skills like this one is the key to survival out in the wild.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063655Z" creationid="Light" creationdate="20190406T063655Z">
@@ -29323,6 +29387,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095441Z" creationid="setom" creationdate="20190401T122743Z">
         <seg>左手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ogoi the Kazite Assassin, in Berg, is looking for 2 Beast Golem scraps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115055Z" creationid="urakata" creationdate="20190406T115055Z">
+        <seg>BergにいるKaziteのアサシン、OgoiはBeast Golem scraps2つを探している</seg>
       </tuv>
     </tu>
     <tu>
