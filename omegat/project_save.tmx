@@ -20031,6 +20031,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I actually fight?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055649Z" creationid="weedssoul" creationdate="20190406T055649Z">
+        <seg>実際、どうやって戦えばいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do I know you're not at fault?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023221Z" creationid="seto" creationdate="20190404T215207Z">
@@ -24248,6 +24256,14 @@
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145507Z" creationid="Horizon" creationdate="20190403T145507Z">
         <seg>ロックオン(切り替え)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock on enemies to circle around them in melee or to attack foes with bows or spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T055939Z" creationid="weedssoul" creationdate="20190406T055939Z">
+        <seg>近接戦闘で敵の周りを回ったり、弓や魔法で攻撃するために、敵をロックするんだ。</seg>
       </tuv>
     </tu>
     <tu>
