@@ -37178,8 +37178,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sea-Salt Inn</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T053134Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
-        <seg>宿屋"シーソルト"</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T120034Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
+        <seg>宿屋「シーソルト」</seg>
       </tuv>
     </tu>
     <tu>
@@ -37997,6 +37997,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120052Z" creationid="Gaiden Shinji" creationdate="20190404T120052Z">
         <seg>スマグラーのメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So long as you can pay for my medicine, I’ll see to it that you get what you need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T120221Z" creationid="Light" creationdate="20190406T120221Z">
+        <seg>お金はあるかい？なんでも揃ってるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43930,8 +43938,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unlocked</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190402T071530Z" creationid="hiru4" creationdate="20190402T071530Z">
-        <seg>解除</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T115503Z" creationid="hiru4" creationdate="20190402T071530Z">
+        <seg>アンロック</seg>
       </tuv>
     </tu>
     <tu>
