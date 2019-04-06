@@ -24518,8 +24518,8 @@
       <tuv lang="EN-US">
         <seg>Lose 10% of your health per minute.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135248Z" creationid="totochan" creationdate="20190403T135248Z">
-        <seg>1分あたりあなたのヘルスの10%を失います。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062226Z" creationid="totochan" creationdate="20190403T135248Z">
+        <seg>毎分体力の10%を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31843,6 +31843,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021017Z" creationid="hiru4" creationdate="20190402T021017Z">
         <seg>喉の渇きが進行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces Max Health by [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062208Z" creationid="seto" creationdate="20190406T062208Z">
+        <seg>最大体力を[E1V1]%回復.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40913,8 +40921,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This illness will eventually kill you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135257Z" creationid="totochan" creationdate="20190403T135257Z">
-        <seg>病気は結局あなたを殺すでしょう。[E1V1]最大ヘルス%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062332Z" creationid="totochan" creationdate="20190403T135257Z">
+        <seg>この病気はあなたをいずれ死に至らしめます</seg>
       </tuv>
     </tu>
     <tu>
