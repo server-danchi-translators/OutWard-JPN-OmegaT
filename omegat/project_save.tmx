@@ -52677,8 +52677,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>{1} {2} added.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T124959Z" creationid="totochan" creationdate="20190402T194551Z">
-        <seg>{2}を{1}つ追加</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T172147Z" creationid="totochan" creationdate="20190402T194551Z">
+        <seg>{2}を{1}入手した</seg>
       </tuv>
     </tu>
     <tu>
