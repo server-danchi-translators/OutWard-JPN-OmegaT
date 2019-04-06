@@ -4466,14 +4466,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Blessed</seg>
-      </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T133647Z" creationid="totochan" creationdate="20190403T133647Z">
-        <seg>恩恵</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Blessed Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132210Z" creationid="hiru4" creationdate="20190403T060423Z">
@@ -10848,6 +10840,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072147Z" creationid="rkmad" creationdate="20190403T072045Z">
         <seg>このスペルを使用した際、氷属性のダメージと耐性を増加させる Cool Boon をあなたに付与します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grants the Mist boon, which increases your Ethereal Damage and Ethereal Resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T033118Z" creationid="pugnus" creationdate="20190406T032911Z">
+        <seg>Mist boonを付与する。エーテルによるダメージと抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
