@@ -14051,6 +14051,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cook any raw meat and boil any water that isn't "clean" before eating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074606Z" creationid="weedssoul" creationdate="20190406T074606Z">
+        <seg>食べる前に生の肉は調理をし、綺麗でない水は沸かそう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cook your meat and boil your water so as not to become ill.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082314Z" creationid="setom" creationdate="20190402T082314Z">
@@ -28935,6 +28943,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On top of hunting, you can forage for food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074358Z" creationid="weedssoul" creationdate="20190406T074358Z">
+        <seg>狩りに加えて、食料を探し出すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once I'm done I'll meet you at the Blue Chamber.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172607Z" creationid="magur0w" creationdate="20190404T172607Z">
@@ -29995,6 +30011,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091701Z" creationid="setom" creationdate="20190402T091701Z">
         <seg>物理スキルは度々特定の種類の武器の使用、もしくはRage Boonのようなステータス効果が有効になっている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pick Gaberries from bushes or use a Fishing Harpoon at a fishing spot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074610Z" creationid="weedssoul" creationdate="20190406T074455Z">
+        <seg>茂みからギャベリーを集めたり、銛を使って魚を取ったり。</seg>
       </tuv>
     </tu>
     <tu>
