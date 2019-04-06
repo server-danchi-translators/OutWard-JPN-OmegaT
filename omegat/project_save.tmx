@@ -9753,8 +9753,8 @@
       <tuv lang="EN-US">
         <seg>Amba, friend [PlayerName]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T072339Z" creationid="weedssoul" creationdate="20190406T072339Z">
-        <seg>やあ、友よ、 [PlayerName]!</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T113427Z" creationid="weedssoul" creationdate="20190406T072339Z">
+        <seg>やあ、友よ[PlayerName]！</seg>
       </tuv>
     </tu>
     <tu>
@@ -22383,6 +22383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increases Impact Resistance by 15 while your are blocking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T113802Z" creationid="Light" creationdate="20190406T113802Z">
+        <seg>ブロックしている間、打撃耐性が15増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases all Damage you deal by 15%.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065446Z" creationid="rkmad" creationdate="20190404T065405Z">
@@ -22431,10 +22439,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increases your maximum Health by 25 and the amount of Health you restore while sleeping by 20%</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T113625Z" creationid="Light" creationdate="20190406T113625Z">
+        <seg>最大体力を25、睡眠中に回復する体力を20％アップする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases your maximum Health by 40.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065321Z" creationid="rkmad" creationdate="20190404T065321Z">
         <seg>体力の最大値が40増加する。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increases your maximum Health, Stamina and Mana by 15 each.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T113928Z" creationid="Light" creationdate="20190406T113928Z">
+        <seg>体力、スタミナ、マナの最大値をそれぞれ15ずつ増やす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33472,162 +33496,298 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: 1-Handed Axe Low blow that reduces the target's mobility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Axe Low blow that reduces the target's mobility.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: 1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: 1-Handed Sword Close combat attack which deals high Damage and Impact, and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T074144Z" creationid="rkmad" creationdate="20190403T074144Z">
-        <seg>Required: 1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="rkmad" creationdate="20190403T074144Z">
+        <seg>必要:1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Axe High Damage and Impact strike that deals twice its Damage against knocked down foes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T060052Z" creationid="rkmad" creationdate="20190404T060052Z">
-        <seg>Required: 2-Handed Axe 高いダメージと衝撃を与える両手斧の一撃。相手がノックダウンしている場合、2倍のダメージを与えることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="rkmad" creationdate="20190404T060052Z">
+        <seg>必要:2-Handed Axe 高いダメージと衝撃を与える両手斧の一撃。相手がノックダウンしている場合、2倍のダメージを与えることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: 2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: 2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Activated Wind Altar Create a magic circle on the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Activated Wind Altar Create a magic circle on the ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Activated Wind Altar Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Activated Wind Altar Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T030647Z" creationid="pugnus" creationdate="20190406T030533Z">
-        <seg>必要：近接武器 物理的な攻撃を完全に防御し、反撃する。敵に高いダメージを与える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T030533Z">
+        <seg>必要:近接武器 物理的な攻撃を完全に防御し、反撃する。敵に高いダメージを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Any Melee Weapon, Discipline Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Any Melee Weapon, Discipline Boon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Blessed Boon Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Blessed Boon Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T015338Z" creationid="pugnus" creationdate="20190406T015338Z">
-        <seg>必要： Bow 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T015338Z">
+        <seg>必要: Bow 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142119Z" creationid="Horizon" creationdate="20190403T135301Z">
-        <seg>必要：Bow 後方にジャンプしながら矢を撃つ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="Horizon" creationdate="20190403T135301Z">
+        <seg>必要:Bow 後方にジャンプしながら矢を撃つ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Strong shot that goes through enemies and hits other foes behind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142133Z" creationid="Horizon" creationdate="20190403T135727Z">
-        <seg>必要：Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="Horizon" creationdate="20190403T135727Z">
+        <seg>必要:Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon Launch the disc forward, possibly hitting the enemy twice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T033845Z" creationid="pugnus" creationdate="20190406T024414Z">
-        <seg>必要：Chakram, Discipline Boon 円盤は前に進み、前方の敵に最大２回攻撃をする。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T024414Z">
+        <seg>必要:Chakram, Discipline Boon 円盤は前に進み、前方の敵に最大２回攻撃をする。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon The disc sways left and right as it advances, hitting multiple times and dealing high damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T033921Z" creationid="pugnus" creationdate="20190406T030414Z">
-        <seg>Required: Chakram, Discipline Boon 円盤は前方の空間を左右に踊りながら一掃する。その空間にいる敵に高いダメージと衝撃を与える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="pugnus" creationdate="20190406T030414Z">
+        <seg>必要:Chakram, Discipline Boon 円盤は前方の空間を左右に踊りながら一掃する。その空間にいる敵に高いダメージと衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon The disc sweeps the area in front of the caster, dealing high Damage and Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T034029Z" creationid="pugnus" creationdate="20190406T033631Z">
-        <seg>必要：Chakram, Discipline Boon 円盤は前方の空間を一掃し、高いダメージと衝撃を与える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T033631Z">
+        <seg>必要:Chakram, Discipline Boon 円盤は前方の空間を一掃し、高いダメージと衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T075618Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>必要：Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>必要:Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Dagger Counter a physical attack with a strong dagger strike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T031034Z" creationid="pugnus" creationdate="20190406T030722Z">
-        <seg>必要：Dagger 短剣による強い攻撃により、物理的な攻撃にカウンターを試みる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T030722Z">
+        <seg>必要:Dagger 短剣による強い攻撃により、物理的な攻撃にカウンターを試みる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Dagger Dagger attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142044Z" creationid="rkmad" creationdate="20190403T072743Z">
-        <seg>必要：Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>必要:Dagger 手に持った短剣による一撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Dagger Simple attack with the dagger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142058Z" creationid="rkmad" creationdate="20190403T070405Z">
-        <seg>必要：Dagger 手に持った短剣による一撃。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="rkmad" creationdate="20190403T070405Z">
+        <seg>必要:Dagger 手に持った短剣による一撃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Infused Weapon Shoot a projectile of the element that is infused on your weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114533Z" creationid="Light" creationdate="20190406T114533Z">
+        <seg>必要:属性付与された武器 武器に付与されている属性を撃ち出す。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Infused Weapon, Shield Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T023518Z" creationid="pugnus" creationdate="20190406T021446Z">
-        <seg>必要：付与された武器と、盾 盾に武器を打ち付けることで、武器に付与されたエレメントを爆発させる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T021446Z">
+        <seg>必要:付与された武器と、盾 盾に武器を打ち付けることで、武器に付与されたエレメントを爆発させる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T131831Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要：Lantern 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要:Lantern 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Blue rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T024133Z" creationid="pugnus" creationdate="20190406T024002Z">
-        <seg>必要：Lexicon Blue rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T024002Z">
+        <seg>必要:Lexicon Blue rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Green rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T024346Z" creationid="pugnus" creationdate="20190406T024346Z">
-        <seg>必要：Lexicon Green rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T024346Z">
+        <seg>必要:Lexicon Green rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Purple rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T024310Z" creationid="pugnus" creationdate="20190406T024238Z">
-        <seg>必要：Lexicon Purple rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T024238Z">
+        <seg>必要:Lexicon Purple rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Red rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T024243Z" creationid="pugnus" creationdate="20190406T024200Z">
-        <seg>必要：Lexicon Red rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="pugnus" creationdate="20190406T024200Z">
+        <seg>必要:Lexicon Red rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Melee Weapon, Rage Boon Attack twice, consuming your Rage boon in the process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Melee Weapon, Rage Boon Attack twice, consuming your Rage boon in the process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Pistol, Bullet Load the equipped pistol with a bullet, or fires if it is already loaded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Pistol, Bullet Load the equipped pistol with a bullet, or fires if it is already loaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Pistol, Cool Boon Load the pistol with a bullet that makes a short-distance blast which slows enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Pistol, Cool Boon Load the pistol with a bullet that makes a short-distance blast which slows enemies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Pistol, Iron Scraps Load a bullet with high Impact which also inflicts Pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Pistol, Iron Scraps Load a bullet with high Impact which also inflicts Pain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Pistol, Possessed Boon Absorb the enemy’s life into your pistol as a blood bullet, healing yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Pistol, Possessed Boon Absorb the enemy’s life into your pistol as a blood bullet, healing yourself.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142719Z" creationid="Horizon" creationdate="20190403T133647Z">
-        <seg>必要：Rage Boonの発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要:Rage Boonの発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Shield Block an elemental attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Shield Block an elemental attack.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33640,10 +33800,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Spear Deflect a melee attack and counter with a powerful strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Spear Deflect a melee attack and counter with a powerful strike.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T142110Z" creationid="Horizon" creationdate="20190403T134941Z">
-        <seg>必要：TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114611Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要:TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Warm Boon Temporarily adds Fire damage to your melee weapon and inflicts Burning on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T114232Z" creationid="Light" creationdate="20190406T114232Z">
+        <seg>必要:Warm Boon 構えている近接武器へ一時的な火炎の力を付与する。</seg>
       </tuv>
     </tu>
     <tu>
