@@ -8510,6 +8510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;The road you need to take to reach the marsh is in the east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114036Z" creationid="Mad" creationdate="20190406T114036Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;湿地はチェルソネシスから東&lt;/b&gt;&lt;/color&gt;にあるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;You should say your goodbyes to Oliele and Yzan&lt;/b&gt;&lt;/color&gt; before they leave.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T163010Z" creationid="weedssoul" creationdate="20190405T163010Z">
@@ -9927,6 +9935,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And spend my life serving Elatt?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113143Z" creationid="Mad" creationdate="20190406T113143Z">
+        <seg>私の人生をエラットに捧げるということか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T175927Z" creationid="magur0w" creationdate="20190404T175927Z">
@@ -9939,6 +9955,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025904Z" creationid="weedssoul" creationdate="20190406T025904Z">
         <seg>そして、このまま挫けるか、再びのし上がるかだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And what she told me...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T112819Z" creationid="Mad" creationdate="20190406T111454Z">
+        <seg>そして、母が私に後を継ぐようにと告げてきたこと……</seg>
       </tuv>
     </tu>
     <tu>
@@ -10485,6 +10509,14 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193927Z" creationid="totochan" creationdate="20190402T193927Z">
         <seg>最低でも一つの材料が作成を開始するために必要とされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least with the Holy Mission, you’d be working for the good of all Aurai.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113343Z" creationid="Mad" creationdate="20190406T113343Z">
+        <seg>聖なる使命を帯びて、すべてのオーライの人々の為に働くということよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11690,6 +11722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But I can’t come back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110602Z" creationid="Mad" creationdate="20190406T105831Z">
+        <seg>でも、もう決めたことを曲げるつもりはないの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But I don't have a choice.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T032322Z" creationid="weedssoul" creationdate="20190406T032322Z">
@@ -12823,6 +12863,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040306Z" creationid="rkmad" creationdate="20190405T040306Z">
         <seg>シエルゾの代表として、あなたの素晴らしい行いに感謝します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cierzo will miss you, Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T105713Z" creationid="Mad" creationdate="20190406T105713Z">
+        <seg>オリエール。貴女がシエルゾから居なくなる事は寂しい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16256,6 +16304,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095304Z" creationid="setom" creationdate="20190402T095304Z">
         <seg>Dialogue_DefaultEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did something happen?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110621Z" creationid="Mad" creationdate="20190406T110621Z">
+        <seg>いったい何があったんだ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -19812,6 +19868,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having someone I trust by my side would make me a lot less nervous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T112959Z" creationid="Mad" creationdate="20190406T112959Z">
+        <seg>私はあなたを信頼しているし、一緒に行けるなら気持ちが楽になるもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Having the usual?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T053447Z" creationid="Light" creationdate="20190406T053447Z">
@@ -20663,6 +20727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I already have no desire to be Chamberlady.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T111138Z" creationid="Mad" creationdate="20190406T111138Z">
+        <seg>私には既に、議員……シエルゾの代表になりたいという願望は無いの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I always loved the ceviche your parents made.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073659Z" creationid="weedssoul" creationdate="20190406T073659Z">
@@ -20775,6 +20847,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can’t talk about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110955Z" creationid="Mad" creationdate="20190406T110955Z">
+        <seg>それについて、詳しく語ることはできないけれど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can’t very well drag you along, now, can I?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T165836Z" creationid="weedssoul" creationdate="20190405T165836Z">
@@ -20795,6 +20875,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T164335Z" creationid="weedssoul" creationdate="20190405T164335Z">
         <seg>こんな話をあなたにしたくなかった。 けれど...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I didn’t like any of what I heard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110909Z" creationid="Mad" creationdate="20190406T110909Z">
+        <seg>でも母は私のことをちっとも分かってくれていないのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20907,6 +20995,14 @@
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T190123Z" creationid="magur0w" creationdate="20190404T190123Z">
         <seg>攻撃を主導する者を見つけた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I guess this is goodbye, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T105428Z" creationid="Mad" creationdate="20190406T105428Z">
+        <seg>[PlayerName]、あなたとはこれでお別れになるかもしれないわね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21051,6 +21147,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
         <seg>私は旧友のYzanと共に、借金を帳消しにするだけの金銭を求め、海を渡って遠征に参加した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I just can’t.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T111108Z" creationid="Mad" creationdate="20190406T111108Z">
+        <seg>それは、私にとってはっきり言うと苦痛だったのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21267,6 +21371,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063725Z" creationid="weedssoul" creationdate="20190406T063725Z">
         <seg>鉄製の武器や弓、片手用の武器を使っているなら盾がおすすめだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I refuse to consider being part of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T112750Z" creationid="Mad" creationdate="20190406T112750Z">
+        <seg>私は母と同じ道を歩むつもりはないと拒否したわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,6 +21999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do want to join us, meet me in &lt;color=#00CCFF&gt;&lt;b&gt;Monsoon, in the Hallowed Marsh&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113827Z" creationid="Mad" creationdate="20190406T113827Z">
+        <seg>もしあなたが私と同行するというのなら&lt;color=#00CCFF&gt;&lt;b&gt;モンスーンにある聖なる沼地&lt;/b&gt;&lt;/color&gt;で合流しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you find rare items, my coin purse is always open!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T044040Z" creationid="Light" creationdate="20190406T044040Z">
@@ -22203,6 +22323,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084838Z" creationid="setom" creationdate="20190402T084838Z">
         <seg>寒気の中ではキャンプファイアや松明で温まってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact... if you join the Holy Mission and give up your bloodline, you’d be free from ever making payments on your Blood Price as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113703Z" creationid="Mad" creationdate="20190406T113703Z">
+        <seg>事実を付け加えると……あなたが聖なる任務に参加して血筋を捨てるというのであれば、その対価の支払いからももちろん自由になれるのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23487,6 +23615,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is spending your life under Rissa’s thumb any better?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113308Z" creationid="Mad" creationdate="20190406T113308Z">
+        <seg>じゃあ聞くけれど、リッサの下で――シエルゾの中で過ごす人生のほうが素晴らしいの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is there anything I need to do to make it happen?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014754Z" creationid="weedssoul" creationdate="20190406T014727Z">
@@ -24163,6 +24299,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’d be an adventure!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113608Z" creationid="Mad" creationdate="20190406T113608Z">
+        <seg>これこそ、心躍る冒険というものでしょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’ll leave your foes confused.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T064351Z" creationid="Light" creationdate="20190406T064351Z">
@@ -24251,6 +24395,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s the ideal clean slate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113737Z" creationid="Mad" creationdate="20190406T113737Z">
+        <seg>それはあなたにとっても理想的な状態じゃない？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s the key to Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022722Z" creationid="weedssoul" creationdate="20190406T022722Z">
@@ -24284,6 +24436,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s unlikely we’ll meet again, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T112845Z" creationid="Mad" creationdate="20190406T112845Z">
+        <seg> [PlayerName]、これで本当にさよならね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s your choice, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T070327Z" creationid="weedssoul" creationdate="20190405T165459Z">
@@ -24300,6 +24460,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’d be happy to have you with me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113122Z" creationid="Mad" creationdate="20190406T113122Z">
+        <seg>あなたと二人で行けるなら、きっと楽しい道のりになりそう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’d like to talk.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T053845Z" creationid="Light" creationdate="20190406T053845Z">
@@ -24308,10 +24476,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll miss it too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T105842Z" creationid="Mad" creationdate="20190406T105731Z">
+        <seg>私もきっと、あなたと同じように寂しく感じるでしょうね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll return the favor!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T075647Z" creationid="weedssoul" creationdate="20190406T073923Z">
         <seg>恩は必ず返す！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll think about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113042Z" creationid="Mad" creationdate="20190406T113021Z">
+        <seg>そうだね、前向きに考えてみるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24372,6 +24556,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m glad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113035Z" creationid="Mad" creationdate="20190406T113035Z">
+        <seg>ああ、嬉しいわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m going outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055359Z" creationid="Light" creationdate="20190406T055359Z">
@@ -24400,6 +24592,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024206Z" creationid="weedssoul" creationdate="20190406T024206Z">
         <seg>私は、&lt;color=#00CCFF&gt;&lt;b&gt;Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;に加わるためにCierzoを出る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m leaving this place to join the &lt;color=#00CCFF&gt;&lt;b&gt;Holy Mission&lt;/b&gt;&lt;/color&gt; and I’m not looking back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T105621Z" creationid="Mad" creationdate="20190406T105621Z">
+        <seg>私はシエルゾを去って&lt;color=#00CCFF&gt;&lt;b&gt;Holy Mission&lt;/b&gt;&lt;/color&gt;に参加することにしたわ。二度とこの村に戻ってくることはないと思うの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27100,6 +27300,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mother and I had a talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110828Z" creationid="Mad" creationdate="20190406T110828Z">
+        <seg>私は母と話し合ったわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Motion Blur</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022519Z" creationid="hiru4" creationdate="20190402T022519Z">
@@ -27692,6 +27900,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No thank you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113201Z" creationid="Mad" creationdate="20190406T113201Z">
+        <seg>あまり、想像したくはないな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No thanks.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T052925Z" creationid="Light" creationdate="20190406T052925Z">
@@ -27768,6 +27984,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013251Z" creationid="pugnus" creationdate="20190406T005528Z">
         <seg>反逆者は、ただの一人も、生き残ってはいない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not after what Mother and I discussed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110542Z" creationid="Mad" creationdate="20190406T110542Z">
+        <seg>母とそれについて論じて、私の決心は固まったわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29299,6 +29523,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020208Z" creationid="weedssoul" creationdate="20190406T020208Z">
         <seg>彼らの承認が得られたら、私に知らせてください。手続きを始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you reach the marsh, follow the Pilgrim Road, &lt;color=#00CCFF&gt;&lt;b&gt;the trail of Sun-Pillars&lt;/b&gt;&lt;/color&gt; towards the ray of light that flies over Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114341Z" creationid="Mad" creationdate="20190406T114341Z">
+        <seg>沼地に到着したら、巡礼者の道を進み、&lt;color=#00CCFF&gt;&lt;b&gt;the trail of Sun-Pillars&lt;/b&gt;&lt;/color&gt; towards the ray of light that flies over Monsoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33744,6 +33976,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa has... done some things I can’t agree with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110944Z" creationid="Mad" creationdate="20190406T110944Z">
+        <seg>母……リッサは、私にとって同意できないことをいくつも行った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>RissaMob_NE_Call_To_Advent_06</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T221224Z" creationid="seto" creationdate="20190404T221224Z">
@@ -36732,6 +36972,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013125Z" creationid="pugnus" creationdate="20190406T003026Z">
         <seg>彼女は決して嬉しいようには見えない。しかし、Bergでの生活は続くだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She wants me to follow in her footsteps and I...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T111028Z" creationid="Mad" creationdate="20190406T111028Z">
+        <seg>とにかく。母は、私にその跡継ぎになるよう望んでいて……</seg>
       </tuv>
     </tu>
     <tu>
@@ -43168,6 +43416,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless, of course, you want to join me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T112912Z" creationid="Mad" creationdate="20190406T112912Z">
+        <seg>ああ、でも私と一緒に来るという選択肢もあるわよ？　ふふ、私は大歓迎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlimited</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021157Z" creationid="hiru4" creationdate="20190402T021157Z">
@@ -44325,6 +44581,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115937Z" creationid="Gaiden Shinji" creationdate="20190404T115937Z">
         <seg>ウェンディゴ刑務所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’d get to go to far off places, face the Scourge, help people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T113525Z" creationid="Mad" creationdate="20190406T113525Z">
+        <seg>遠く離れた土地へ向かい、スカージ達と直面し、人々を救う……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46861,6 +47125,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042244Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
         <seg>どれだけ長く気を失っていたのか...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re scowling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T110809Z" creationid="Mad" creationdate="20190406T110809Z">
+        <seg>明らかに貴女は不機嫌だ。</seg>
       </tuv>
     </tu>
     <tu>
