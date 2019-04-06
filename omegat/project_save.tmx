@@ -40399,6 +40399,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's several packs of hyenas to the north that are muscling into our hunting grounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T060430Z" creationid="Light" creationdate="20190406T060430Z">
+        <seg>北の方を自分たちの狩場としているハイエナがウロウロしているよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's trouble in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T163405Z" creationid="weedssoul" creationdate="20190405T163405Z">
@@ -42389,6 +42397,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T023725Z" creationid="weedssoul" creationdate="20190406T023725Z">
         <seg>青の議会について教えてくれないか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can you tell me about the Chersonese Region?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T060249Z" creationid="Light" creationdate="20190406T060249Z">
+        <seg>Chersonese地方について知りたい。</seg>
       </tuv>
     </tu>
     <tu>
