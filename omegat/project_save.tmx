@@ -40347,16 +40347,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Fire element when rubbed on a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143319Z" creationid="weedssoul" creationdate="20190406T143319Z">
-        <seg>武器をこすると、炎属性を付与する汚れた布</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143447Z" creationid="weedssoul" creationdate="20190406T143319Z">
+        <seg>武器に使うと、炎属性を付与する汚れた布</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Frost element when rubbed on a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143339Z" creationid="weedssoul" creationdate="20190406T143339Z">
-        <seg>武器をこすると、氷属性を付与する汚れた布</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143442Z" creationid="weedssoul" creationdate="20190406T143339Z">
+        <seg>武器に使うと、氷属性を付与する汚れた布</seg>
       </tuv>
     </tu>
     <tu>
@@ -45135,6 +45135,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The weapon will also inflict Slow Down to enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143521Z" creationid="weedssoul" creationdate="20190406T143521Z">
+        <seg>合わせて敵の動きも遅くする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The weather often gets dangerously cold or hot.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112444Z" creationid="setom" creationdate="20190331T112444Z">
@@ -45593,8 +45601,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thick fluid that confers the Frost element when applied to a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143434Z" creationid="weedssoul" creationdate="20190406T143434Z">
-        <seg>武器に使うと、氷属性</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143502Z" creationid="weedssoul" creationdate="20190406T143434Z">
+        <seg>武器に使うと、氷属性を付与する濃度の高い液体。</seg>
       </tuv>
     </tu>
     <tu>
