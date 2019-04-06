@@ -25212,6 +25212,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mastering skills like this one is the key to survival out in the wild.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063655Z" creationid="Light" creationdate="20190406T063655Z">
+        <seg>スキルを習得するってことは外で生き残っていくには大事だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mastering these is the key to survival out in the wild.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063153Z" creationid="Light" creationdate="20190406T063153Z">
@@ -40743,6 +40751,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There you go!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063701Z" creationid="Light" creationdate="20190406T063616Z">
+        <seg>じゃあ、いくぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's a lot of unhappy people here who might spark a firestorm.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T185039Z" creationid="magur0w" creationdate="20190404T175234Z">
@@ -44568,6 +44584,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T165005Z" creationid="Light" creationdate="20190405T165005Z">
         <seg>今すぐ行くべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should look for Trainers whenever you visit a new town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T063750Z" creationid="Light" creationdate="20190406T063750Z">
+        <seg>新しい町についたら、いつでも訓練してくれる人を探すんだぞ。</seg>
       </tuv>
     </tu>
     <tu>
