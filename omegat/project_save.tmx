@@ -10820,6 +10820,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grants the Blessed boon, which increases your Lightning Damage and Lightning Resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T032508Z" creationid="pugnus" creationdate="20190406T032508Z">
+        <seg>Blessed boonを与える。稲妻による損傷や、稲妻に対する抵抗を増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072147Z" creationid="rkmad" creationdate="20190403T072045Z">
