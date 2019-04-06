@@ -11835,6 +11835,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you teach me about how to eat well, while I’m in the wild?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074041Z" creationid="weedssoul" creationdate="20190406T074041Z">
+        <seg>外にいる時、食事をどうすればいいか教えてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you teach me how to fight?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055609Z" creationid="weedssoul" creationdate="20190406T055609Z">
@@ -24172,6 +24180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m not sure how to find food out there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074204Z" creationid="weedssoul" creationdate="20190406T074204Z">
+        <seg>外で、どうやって食料を見つければいいのかわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m not sure what, or how bad it will be, but I’m convinced beyond all doubt that something huge will happen.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022408Z" creationid="weedssoul" creationdate="20190406T022408Z">
@@ -24224,6 +24240,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040421Z" creationid="weedssoul" creationdate="20190406T040421Z">
         <seg>やらなきゃいけないことがあるんだ、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve got you covered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074140Z" creationid="weedssoul" creationdate="20190406T074140Z">
+        <seg>助けてやろう。</seg>
       </tuv>
     </tu>
     <tu>
