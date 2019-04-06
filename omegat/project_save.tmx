@@ -13419,6 +13419,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider setting items you use often, like bandages, to quickslots to have them ready during combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T125535Z" creationid="weedssoul" creationdate="20190406T125535Z">
+        <seg>包帯のようによく使うアイテムは、戦闘中にも使えるようにクイックスロットに入れることを検討するといい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consider this payment dealt with.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040244Z" creationid="rkmad" creationdate="20190405T040244Z">
@@ -46375,6 +46383,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084221Z" creationid="pugnus" creationdate="20190406T083435Z">
         <seg>何故、Levantの上層部は攻撃を命じなかったのか？私は疑問に思うが、他のChamberlord達は同意しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While wearing a backpack, what you pick up goes in the backpack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T125436Z" creationid="weedssoul" creationdate="20190406T125436Z">
+        <seg>バックパックを身に着けている間は、拾ったものはバックパックに入る。</seg>
       </tuv>
     </tu>
     <tu>
