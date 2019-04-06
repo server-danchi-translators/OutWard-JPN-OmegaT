@@ -17452,6 +17452,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Helen_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115706Z" creationid="urakata" creationdate="20190406T115706Z">
+        <seg>Errand_Helen_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Levant_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141857Z" creationid="urakata" creationdate="20190331T141857Z">
@@ -17488,6 +17496,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T114540Z" creationid="urakata" creationdate="20190406T114540Z">
         <seg>Errand_Levant_General_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Lost_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115749Z" creationid="urakata" creationdate="20190406T115749Z">
+        <seg>Errand_Lost_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Lost_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121348Z" creationid="urakata" creationdate="20190406T121348Z">
+        <seg>Errand_Lost_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -17848,6 +17872,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115103Z" creationid="setom" creationdate="20190401T115103Z">
         <seg>ゲームを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find a merchant lost in the desert before he dies, and save him by giving him a Travel Ration.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121346Z" creationid="urakata" creationdate="20190406T121346Z">
+        <seg>砂漠で行方不明になった商人を見つけ出し、TravelRationを与えて命を救う</seg>
       </tuv>
     </tu>
     <tu>
@@ -34360,6 +34392,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return the Mushroom Shield to Helen Turnbull, in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T115748Z" creationid="urakata" creationdate="20190406T115748Z">
+        <seg>Cierzoのヘレン・ターンブルにMushroom Shieldを届ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return to Berg’s blacksmith to collect your armor piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T113627Z" creationid="urakata" creationdate="20190406T113627Z">
@@ -34388,6 +34428,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142441Z" creationid="urakata" creationdate="20190331T092826Z">
         <seg>完成したarmor pieceを受取りにMonsoonの鍛冶屋へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Tamara in Levant’s slums to announce your failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121433Z" creationid="urakata" creationdate="20190406T121433Z">
+        <seg>LevantスラムのTamaraに失敗を報告する</seg>
       </tuv>
     </tu>
     <tu>
