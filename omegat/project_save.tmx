@@ -10433,6 +10433,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attacks take stamina to perform.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060133Z" creationid="weedssoul" creationdate="20190406T060133Z">
+        <seg>攻撃すると、スタミナを消費する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Audio</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023321Z" creationid="hiru4" creationdate="20190402T023321Z">
@@ -19561,6 +19569,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084515Z" creationid="setom" creationdate="20190402T084217Z">
         <seg>重鎧では殆ど暑さを凌げません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy attacks are slower but stronger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060035Z" creationid="weedssoul" creationdate="20190406T060035Z">
+        <seg>強攻撃は、動作が遅いが、強力だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28987,6 +29003,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
         <seg>[InputAction_Attack1]で通常攻撃が、[InputAction_Attack2]で特殊攻撃ができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Performing a heavy attack at different points in a combo performs different attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060205Z" creationid="weedssoul" creationdate="20190406T060122Z">
+        <seg>連続攻撃の途中に強攻撃を挟むと、別の強攻撃になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43308,6 +43332,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T072442Z" creationid="setom" creationdate="20190401T072442Z">
         <seg>赤い線から外れれば、チュートリアルから抜け出すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can combo attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060016Z" creationid="weedssoul" creationdate="20190406T060016Z">
+        <seg>連続攻撃ができる。.</seg>
       </tuv>
     </tu>
     <tu>
