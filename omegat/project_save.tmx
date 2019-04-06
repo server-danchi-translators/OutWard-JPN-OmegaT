@@ -11239,6 +11239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you try to travel between regions without enough Rations, you will starve before you arrive at your destination.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T002646Z" creationid="weedssoul" creationdate="20190406T002646Z">
+        <seg>もし、十分な量の旅糧を持たずに旅をすれば、目的地に付く前に飢えてしまうだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you understand, then get to work making that payment, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T125323Z" creationid="rkmad" creationdate="20190404T085524Z">
