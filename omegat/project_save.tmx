@@ -4394,6 +4394,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Besides, it's an excuse to get out there and find adventure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031540Z" creationid="weedssoul" creationdate="20190406T031540Z">
+        <seg>更に、ここから出て旅する言い訳にもなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Besides, you learned how to survive on your own, like a bird pushed from its nest.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T093124Z" creationid="rkmad" creationdate="20190405T092724Z">
@@ -7757,8 +7765,8 @@
       <tuv lang="EN-US">
         <seg>Damn, that’s right, you haven't been able to make payments on your Blood Price while we were gone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030956Z" creationid="weedssoul" creationdate="20190406T030956Z">
-        <seg>畜生、ああそうさ、 you haven't been able to make payments on your Blood Price while we were gone.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031416Z" creationid="weedssoul" creationdate="20190406T030956Z">
+        <seg>畜生、ああそうさ、我々が旅している間、君に課せられた「血の代償」を君は支払うことができなかった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12395,6 +12403,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164640Z" creationid="Light" creationdate="20190405T164235Z">
         <seg>今朝、私はエラットの聖なる任務に参加するために町を出ようと思うわ、母が止める前にね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I welcome the challenge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031631Z" creationid="weedssoul" creationdate="20190406T031506Z">
+        <seg>苦難なら歓迎だ。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29307,6 +29323,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T105526Z" creationid="pugnus" creationdate="20190404T050543Z">
         <seg>あなたはとても幸運だった。このような危険を乗り切るために。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You weren't even born when that tragedy happened!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031251Z" creationid="weedssoul" creationdate="20190406T031251Z">
+        <seg>その悲劇が起きた時、君は生まれてすらいなかったのに！!</seg>
       </tuv>
     </tu>
     <tu>
