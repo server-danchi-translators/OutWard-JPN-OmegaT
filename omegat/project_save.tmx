@@ -44642,16 +44642,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115844Z" creationid="setom" creationdate="20190401T115844Z">
-        <seg>解除</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T124851Z" creationid="setom" creationdate="20190401T115844Z">
+        <seg>アンロック</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Unlocked</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T115503Z" creationid="hiru4" creationdate="20190402T071530Z">
-        <seg>アンロック</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T125032Z" creationid="hiru4" creationdate="20190402T071530Z">
+        <seg>習得済み</seg>
       </tuv>
     </tu>
     <tu>
