@@ -3202,6 +3202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Berg falls into a brief period of chaos without it’s Chamberlord, but by the time you can walk again, Gabriella Sullivan has been chosen to be Chamberlady.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T002810Z" creationid="pugnus" creationdate="20190406T002810Z">
+        <seg>Berg はChamberlord を失ったことにより混沌とした。しかし、Gabriella Sullivan がChamberlady に選ばれたことにより、時間がたてば自分たちでまた歩くことができるようになるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg’s Guard</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120011Z" creationid="Gaiden Shinji" creationdate="20190404T120011Z">
@@ -20860,6 +20868,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T041051Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
         <seg>彼女はお礼を受け取らず去っていった。あなたの肩を軽く叩いて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She seems none too pleased, but life in Berg will go on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T003026Z" creationid="pugnus" creationdate="20190406T003026Z">
+        <seg>彼女は決して嬉しいようには見えない。しかし、Berg での生活は続くだろう。</seg>
       </tuv>
     </tu>
     <tu>
