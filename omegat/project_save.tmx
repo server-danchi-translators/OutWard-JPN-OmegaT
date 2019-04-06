@@ -23243,6 +23243,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s also possible that some survivors of the wreck washed up on a beach further out in the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054940Z" creationid="Light" creationdate="20190406T054940Z">
+        <seg>もしかしたら難破船から流されてChersoneseに打ち上げられてる生存者がいるかも知れない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s charged with lightning, so use potions and armor that resist this type of attack if you fight one.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T041748Z" creationid="weedssoul" creationdate="20190406T041652Z">
@@ -27665,8 +27673,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T135737Z" creationid="Light" creationdate="20190405T135737Z">
-        <seg>やあ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054441Z" creationid="Light" creationdate="20190405T135737Z">
+        <seg>あ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39523,6 +39531,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That reminds me, Helen Turnbull was around here, she said she was looking to hire someone for a job!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054816Z" creationid="Light" creationdate="20190406T054816Z">
+        <seg>思い出した、ヘレンターンベルがそのへんに居たんだけど。彼女が仕事をできる人を探してるって言っていたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That sounds like a terrible idea.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T045839Z" creationid="Light" creationdate="20190406T045839Z">
@@ -44317,6 +44333,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024253Z" creationid="hiru4" creationdate="20190402T024253Z">
         <seg>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’d better find that silver if you don’t want to lose your home!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T054431Z" creationid="Light" creationdate="20190406T054431Z">
+        <seg>家を失いたくなかったら頑張ってお金を稼いだほうが良いね。</seg>
       </tuv>
     </tu>
     <tu>
