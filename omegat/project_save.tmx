@@ -10087,6 +10087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor (5 Blue Sand, 400 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064031Z" creationid="weedssoul" creationdate="20190406T064031Z">
+        <seg>Armor (5 青い砂, 400 銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor Penalties Reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071338Z" creationid="hiru4" creationdate="20190403T071338Z">
@@ -11350,6 +11358,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120154Z" creationid="setom" creationdate="20190401T120154Z">
         <seg>ブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots (2 Blue Sand, 200 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064043Z" creationid="weedssoul" creationdate="20190406T064043Z">
+        <seg>Boots (2 青い砂, 200 銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14087,6 +14103,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033648Z" creationid="Gaiden Shinji" creationdate="20190404T113249Z">
         <seg>剣を作る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft me something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T063909Z" creationid="weedssoul" creationdate="20190406T063909Z">
+        <seg>なにか作ってくれないか。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19733,6 +19757,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helmet (3 Blue Sand, 250 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064020Z" creationid="weedssoul" creationdate="20190406T064020Z">
+        <seg>Helmet (3 青い砂, 250銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helmets</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120227Z" creationid="setom" creationdate="20190401T120216Z">
@@ -20307,6 +20339,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021054Z" creationid="weedssoul" creationdate="20190406T021054Z">
         <seg>誇り高く振る舞うことを信じてる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can craft special armor from the Blue Sand you bring me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064053Z" creationid="weedssoul" creationdate="20190406T063949Z">
+        <seg>青い砂を持ってきたら、特別な防具を作ってやろう。</seg>
       </tuv>
     </tu>
     <tu>
