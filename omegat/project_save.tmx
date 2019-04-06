@@ -20898,8 +20898,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Counter a physical attack with a strong dagger strike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T030722Z" creationid="pugnus" creationdate="20190406T030722Z">
-        <seg>必要：Dagger</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T031034Z" creationid="pugnus" creationdate="20190406T030722Z">
+        <seg>必要：Dagger 短剣による強い攻撃により、物理的な攻撃にカウンターを試みる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24687,6 +24687,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120250Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
         <seg>話す頭蓋骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Targets afflicted by Confusion are briefly stunned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T031245Z" creationid="pugnus" creationdate="20190406T031245Z">
+        <seg>混乱状態の敵をスタンさせることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Targets afflicted by Pain will be inflicted Extreme Bleeding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T031409Z" creationid="pugnus" creationdate="20190406T031409Z">
+        <seg>痛みに悩まされる標的は、極度の出血を引き起こす。</seg>
       </tuv>
     </tu>
     <tu>
