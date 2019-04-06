@@ -6091,10 +6091,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>DS_305_BCQ3_DefeatByRoland</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013540Z" creationid="seto" creationdate="20190406T013540Z">
+        <seg>DS_305_BCQ3_DefeatByRoland</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DS_306_BCQ4_DefeatByBattleborn-01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T105048Z" creationid="seto" creationdate="20190404T105048Z">
         <seg>DS_306_BCQ4_DefeatByBattleborn-01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_306_BCQ4_DefeatByBattleborn-02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013543Z" creationid="seto" creationdate="20190406T013543Z">
+        <seg>DS_306_BCQ4_DefeatByBattleborn-02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_307_BCQ4_DefeatByMonsoonHorrors</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013545Z" creationid="seto" creationdate="20190406T013545Z">
+        <seg>DS_307_BCQ4_DefeatByMonsoonHorrors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_308_HMQ1_DefeatByGhosts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013547Z" creationid="seto" creationdate="20190406T013547Z">
+        <seg>DS_308_HMQ1_DefeatByGhosts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_309_HMQ3_DefeatByRebelPriests</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013549Z" creationid="seto" creationdate="20190406T013549Z">
+        <seg>DS_309_HMQ3_DefeatByRebelPriests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_310_HMQ4_DefeatByBattlebornThugs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013551Z" creationid="seto" creationdate="20190406T013551Z">
+        <seg>DS_310_HMQ4_DefeatByBattlebornThugs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>DS_311_HMQ5_DefeatByImmaculate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013553Z" creationid="seto" creationdate="20190406T013553Z">
+        <seg>DS_311_HMQ5_DefeatByImmaculate</seg>
       </tuv>
     </tu>
     <tu>
@@ -27139,8 +27195,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>loc_key</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013528Z" creationid="setom" creationdate="20190401T034003Z">
-        <seg>　loc_key </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T013633Z" creationid="setom" creationdate="20190401T034003Z">
+        <seg>loc_key</seg>
       </tuv>
     </tu>
     <tu>
