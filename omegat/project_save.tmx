@@ -20505,8 +20505,8 @@
       <tuv lang="EN-US">
         <seg>I don’t doubt that.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T065335Z" creationid="pugnus" creationdate="20190406T065335Z">
-        <seg>私はそれを疑わない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T065748Z" creationid="pugnus" creationdate="20190406T065335Z">
+        <seg>私は疑うことはない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23671,6 +23671,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T052028Z" creationid="Light" creationdate="20190406T052028Z">
         <seg>とても危険な洞窟だから本当に命がけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a pity, but we’ll have to let that lead go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T070047Z" creationid="pugnus" creationdate="20190406T070047Z">
+        <seg>残念だ。しかし、私たちは</seg>
       </tuv>
     </tu>
     <tu>
@@ -41227,6 +41235,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T115046Z" creationid="magur0w" creationdate="20190404T115019Z">
         <seg>彼らは自分たちの土地を取り戻し、地域の正当な支配者と見なされることを望んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They wouldn’t stay longer than they needed to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T065717Z" creationid="pugnus" creationdate="20190406T065717Z">
+        <seg>彼らは必要以上に長く滞在することはないだろう。</seg>
       </tuv>
     </tu>
     <tu>
