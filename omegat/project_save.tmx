@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Take the road to the south east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014531Z" creationid="weedssoul" creationdate="20190406T014531Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Chersoneseの南東の道を進みなさい。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;The lighthouse has been sold&lt;/b&gt;&lt;/color&gt; and is used by the guards as a barrack.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090323Z" creationid="rkmad" creationdate="20190405T090137Z">
@@ -10783,6 +10791,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope to see you in Berg, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014423Z" creationid="weedssoul" creationdate="20190406T014423Z">
+        <seg>Bergで会えることを願っている、[PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
@@ -11419,6 +11435,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222328Z" creationid="seto" creationdate="20190404T222328Z">
         <seg> [PlayerName] にまた同じことがしたいのなら、それは追悼の期が終わってからよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to commit to the protection of the Blue Chamber Collective, meet me there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014500Z" creationid="weedssoul" creationdate="20190406T014500Z">
+        <seg>青の議会の恩恵を得たいなら、Bergで私のところまで来なさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17075,6 +17099,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061527Z" creationid="setom" creationdate="20190402T061527Z">
         <seg>OptionMenu_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or can craft your own &lt;color=#00CCFF&gt;&lt;b&gt;with some Salt and most types of food&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014311Z" creationid="weedssoul" creationdate="20190406T014311Z">
+        <seg>あるいは、 &lt;color=#00CCFF&gt;&lt;b&gt;塩と大半の食料&lt;/b&gt;&lt;/color&gt; から作ることもできます。</seg>
       </tuv>
     </tu>
     <tu>
