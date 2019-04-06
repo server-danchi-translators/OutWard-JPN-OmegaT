@@ -10247,6 +10247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a type of meat, this food restores health over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T072622Z" creationid="seto" creationdate="20190406T072622Z">
+        <seg>肉類は体力を徐々に回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As captain, he should have known better than to approach the bay when the lighthouse was not lit.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T154047Z" creationid="weedssoul" creationdate="20190405T154021Z">
@@ -11566,6 +11574,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063751Z" creationid="weedssoul" creationdate="20190406T063751Z">
         <seg>商品を眺める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bulbous root vegetable with mana-restoring properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T072707Z" creationid="seto" creationdate="20190406T072707Z">
+        <seg>マナの回復効果を持つ球根植物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32795,14 +32811,6 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091536Z" creationid="hiru4" creationdate="20190403T063204Z">
         <seg>読む</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Read about the Tutorial</seg>
-      </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T062919Z" creationid="hiru4" creationdate="20190403T062719Z">
-        <seg>Read about the Tutorial_</seg>
       </tuv>
     </tu>
     <tu>
