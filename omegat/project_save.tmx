@@ -21534,8 +21534,8 @@
       <tuv lang="EN-US">
         <seg>Guards can also provide advice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101318Z" creationid="setom" creationdate="20190331T114230Z">
-        <seg>衛兵もまた助けとなるだろう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143207Z" creationid="setom" creationdate="20190331T114230Z">
+        <seg>衛兵もまた助けとなるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21935,8 +21935,8 @@
       <tuv lang="EN-US">
         <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101310Z" creationid="setom" creationdate="20190331T114137Z">
-        <seg>重い鎧は物理的ダメージに対する防御力を大きく高めてくれるが、代わりに動きは鈍くなり、スタミナの消費も増加する</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143158Z" creationid="setom" creationdate="20190331T114137Z">
+        <seg>重い鎧は物理的ダメージに対する防御力を大きく高めてくれるが、代わりに動きは鈍くなり、スタミナの消費も増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22601,16 +22601,16 @@
       <tuv lang="EN-US">
         <seg>However, they can knock you down too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113107Z" creationid="setom" creationdate="20190331T113107Z">
-        <seg>だが、それは自分だけの特権ではない…</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143130Z" creationid="setom" creationdate="20190331T113107Z">
+        <seg>だが、それは自分だけの特権ではない…。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>However, you won’t be able to wield a shield, a lantern or a special trinket in your off-hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101259Z" creationid="setom" creationdate="20190331T114013Z">
-        <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来なくなるだろう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143146Z" creationid="setom" creationdate="20190331T114013Z">
+        <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来なくなるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24281,8 +24281,8 @@
       <tuv lang="EN-US">
         <seg>Important landmarks have icons, and hovering your cursor on them will show their names.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101250Z" creationid="setom" creationdate="20190331T113406Z">
-        <seg>重要なランドマークにはアイコンが付いていて、カーソルを合わせるとその名前が表示されるぞ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143136Z" creationid="setom" creationdate="20190331T113406Z">
+        <seg>重要なランドマークにはアイコンが付いていて、カーソルを合わせるとその名前が表示されるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27990,8 +27990,8 @@
       <tuv lang="EN-US">
         <seg>Mana must first be unlocked at a Ley Line.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101152Z" creationid="setom" creationdate="20190331T112626Z">
-        <seg>まずはレイラインでマナが解放される</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143057Z" creationid="setom" creationdate="20190331T112626Z">
+        <seg>まずはレイラインでマナが解放される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29350,8 +29350,8 @@
       <tuv lang="EN-US">
         <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101256Z" creationid="setom" creationdate="20190331T114002Z">
-        <seg>鉱石にはツルハシが、釣り場では銛が必要になる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143144Z" creationid="setom" creationdate="20190331T114002Z">
+        <seg>鉱石にはツルハシが、釣り場では銛が必要になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,8 +30422,8 @@
       <tuv lang="EN-US">
         <seg>Note that light sources make you more visible to enemies while they are lit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101248Z" creationid="setom" creationdate="20190331T113208Z">
-        <seg>火がついている間は光源が自分を敵から発見されやすくすることには注意をしておけ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143133Z" creationid="setom" creationdate="20190331T113208Z">
+        <seg>火がついている間は光源が自分を敵から発見されやすくすることには注意をしておけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33041,8 +33041,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101304Z" creationid="setom" creationdate="20190331T114108Z">
-        <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143153Z" creationid="setom" creationdate="20190331T114108Z">
+        <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35185,8 +35185,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101158Z" creationid="setom" creationdate="20190331T112659Z">
-        <seg>強力な武器やポーションが作成でき、他に強力な罠にも使える</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143105Z" creationid="setom" creationdate="20190331T112659Z">
+        <seg>強力な武器やポーションが作成でき、他に強力な罠にも使える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44566,8 +44566,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Journal is a menu tab used to track your next tasks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101206Z" creationid="setom" creationdate="20190331T112721Z">
-        <seg>メニュータブのジャーナルは次の仕事の追跡に使用される</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143113Z" creationid="setom" creationdate="20190331T112721Z">
+        <seg>メニュータブのジャーナルは次の仕事の追跡に使用される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45089,8 +45089,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The status menu shows details related to your equipment or what effects are currently affecting you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101229Z" creationid="setom" creationdate="20190331T112738Z">
-        <seg>ステータスメニューは装備に関連するものや現在影響を受けているものについての詳細を表示する</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143119Z" creationid="setom" creationdate="20190331T112738Z">
+        <seg>ステータスメニューは装備に関連するものや現在影響を受けているものについての詳細を表示する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45513,16 +45513,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They will sell food, equipment and crafting recipes, in addition to selling goods related to their city’s specialties.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101313Z" creationid="setom" creationdate="20190331T114210Z">
-        <seg>彼らは食料、装備、クラフトレシピを売ってくれ、他にも各都市の特産品も販売している</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143201Z" creationid="setom" creationdate="20190331T114210Z">
+        <seg>彼らは食料、装備、クラフトレシピを売ってくれ、他にも各都市の特産品も販売している。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>They will warn you when you’re hungry, your weapon is damaged, etc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101223Z" creationid="setom" creationdate="20190331T112733Z">
-        <seg>武器の損耗や空腹などの場合に警告される</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143116Z" creationid="setom" creationdate="20190331T112733Z">
+        <seg>武器の損耗や空腹などの場合に警告される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45545,8 +45545,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They, like all uncooked food, provide more benefits and rot more slowly when cooked.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101203Z" creationid="setom" creationdate="20190331T112717Z">
-        <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143111Z" creationid="setom" creationdate="20190331T112717Z">
+        <seg>そのような未調理の食料はより多くの利益をもたらし、調理すれば腐敗がより遅くなるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45577,8 +45577,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Things like cooking pots and traps help greatly too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101317Z" creationid="setom" creationdate="20190331T114221Z">
-        <seg>料理鍋や罠なども大いに助けとなるだろう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143203Z" creationid="setom" creationdate="20190331T114221Z">
+        <seg>料理鍋や罠なども大いに助けとなるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46258,8 +46258,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Try the multiplayer, either in split screen or online.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101234Z" creationid="setom" creationdate="20190331T112953Z">
-        <seg>画面を分割するかオンラインでマルチプレイを試すんだ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143124Z" creationid="setom" creationdate="20190331T112953Z">
+        <seg>画面を分割するかオンラインでマルチプレイを試すんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46586,8 +46586,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Use the survival crafting menu to combine the oil item and a lantern to refill it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101232Z" creationid="setom" creationdate="20190331T112801Z">
-        <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143122Z" creationid="setom" creationdate="20190331T112801Z">
+        <seg>サバイバルクラフトメニューで油をアイテムに混ぜるかランタンに補充せよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48229,8 +48229,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Which special attack will be made depends on the number of normal attacks you just performed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101254Z" creationid="setom" creationdate="20190331T113953Z">
-        <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143142Z" creationid="setom" creationdate="20190331T113953Z">
+        <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48357,8 +48357,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wild beasts drop body parts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112657Z" creationid="setom" creationdate="20190331T112657Z">
-        <seg>野生の獣は体の一部をドロップする。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143102Z" creationid="setom" creationdate="20190331T112657Z">
+        <seg>野生の獣は体の一部をドロップする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48534,8 +48534,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wood is commonly used in survival crafting, notably to make campfires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T140638Z" creationid="setom" creationdate="20190331T112708Z">
-        <seg>木材は通常のサバイバルクラフトに用いられ、特にキャンプファイヤー作りに使われる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143108Z" creationid="setom" creationdate="20190331T112708Z">
+        <seg>木材は通常のサバイバルクラフトに用いられ、特にキャンプファイヤー作りに使われる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48671,8 +48671,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You also know several useful survival crafting recipes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101301Z" creationid="setom" creationdate="20190331T114022Z">
-        <seg>幾つかの役に立つサバイバルクラフトレシピも知っている</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143149Z" creationid="setom" creationdate="20190331T114022Z">
+        <seg>幾つかの役に立つサバイバルクラフトレシピも知っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49638,8 +49638,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You must deploy a trap trigger (like a Tripwire Trap) on the ground, then place a compatible object in it (like spikes or weapons).</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101307Z" creationid="setom" creationdate="20190331T114127Z">
-        <seg>(トラップワイヤーのような)罠の起動装置を地面に配置して、それに適した(スパイクや武器などの)オブジェクトを設置しよう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143155Z" creationid="setom" creationdate="20190331T114127Z">
+        <seg>(トラップワイヤーのような)罠の起動装置を地面に配置して、それに適した(スパイクや武器などの)オブジェクトを設置しよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49710,8 +49710,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You only have one save slot, meaning you can’t load an old save to dodge the consequences of getting knocked out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101252Z" creationid="setom" creationdate="20190331T113425Z">
-        <seg>だがセーブスロットは1つしかない、つまり古いセーブデータをロードして結果から逃げるなんてことは出来ないということだ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143139Z" creationid="setom" creationdate="20190331T113425Z">
+        <seg>だがセーブスロットは1つしかない、つまり古いセーブデータをロードして結果から逃げるなんてことは出来ないということだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49977,8 +49977,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You will then be able to better target that enemy, especially with ranged weapons or skills.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101243Z" creationid="setom" creationdate="20190331T113011Z">
-        <seg>その時はより厄介な敵にしたほうがいい、特に遠距離武器やスキルを持った敵だ</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T143127Z" creationid="setom" creationdate="20190331T113011Z">
+        <seg>その時はより厄介な敵にしたほうがいい、特に遠距離武器やスキルを持った敵だ。</seg>
       </tuv>
     </tu>
     <tu>
