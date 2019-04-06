@@ -43840,6 +43840,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can use this stealthy approach to set up traps for your enemies, or to get the first strike with a melee weapon, or to backstab them if you’ve learned the right dagger skill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T062351Z" creationid="weedssoul" creationdate="20190406T062351Z">
+        <seg>隠れながら接近することで、罠を仕掛けたり、近接武器で先に攻撃したり、ダガーのスキルを覚えていてばバックスタブをすることができる。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can zoom in and shoot at distant foes.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112532Z" creationid="setom" creationdate="20190331T112454Z">
