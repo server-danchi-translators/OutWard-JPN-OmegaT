@@ -4199,6 +4199,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An encounter with a pistol shrimp may prove deadly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T041046Z" creationid="weedssoul" creationdate="20190406T041046Z">
+        <seg>Pistol Shrimp に出会うと、確実に死ぬだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An infused weapon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132120Z" creationid="hiru4" creationdate="20190403T054309Z">
@@ -4427,6 +4435,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114437Z" creationid="setom" creationdate="20190401T114437Z">
         <seg>いくつかの {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything I should avoid outside of Cierzo?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040932Z" creationid="weedssoul" creationdate="20190406T040932Z">
+        <seg>Cierzoの外で避けるべきことはありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28031,6 +28047,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's a reason they're so colorful, it’s to warn other predators away!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T041202Z" creationid="weedssoul" creationdate="20190406T041202Z">
+        <seg>奴らはsono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's also plenty of Gaberries growing around here if you’re still hungry afterwards.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170802Z" creationid="setom" creationdate="20190402T170525Z">
@@ -29780,6 +29804,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091100Z" creationid="rkmad" creationdate="20190405T091100Z">
         <seg>それでも、私は挑戦したのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, for one thing, be wary on the beaches outside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T041111Z" creationid="weedssoul" creationdate="20190406T041006Z">
+        <seg>あー、一つ、砂浜には用心しろ。</seg>
       </tuv>
     </tu>
     <tu>
