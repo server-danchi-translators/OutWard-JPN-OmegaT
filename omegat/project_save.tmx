@@ -20509,6 +20509,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hmm, I’m running a little low on Crystal Powder to brew advanced potions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T120332Z" creationid="Light" creationdate="20190406T120332Z">
+        <seg>うーん、いい薬を醸造するためのクリスタルパウダーを切らしてるわね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
@@ -22355,6 +22363,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
         <seg>あなたが何か情報を探しているのなら、宿屋も良い場所ですよ。また、浜辺にいるイザンの事も忘れないように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’ve got an alchemy set of your own, make some for me, would you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T120527Z" creationid="Light" creationdate="20190406T120527Z">
+        <seg>Alchemy setを持っているならば、いくつかを作ってくれないかしら？</seg>
       </tuv>
     </tu>
     <tu>
