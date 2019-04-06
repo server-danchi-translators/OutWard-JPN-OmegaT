@@ -11298,6 +11298,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blunt weapons are an excellent choice to use this strategy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061848Z" creationid="weedssoul" creationdate="20190406T061848Z">
+        <seg>鈍器はそういった戦い方にもってこいだ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112257Z" creationid="setom" creationdate="20190331T112200Z">
@@ -21137,8 +21145,8 @@
       <tuv lang="EN-US">
         <seg>If you are being harried too hard, try to get some distance from your foe and regain your footing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061642Z" creationid="weedssoul" creationdate="20190406T061642Z">
-        <seg>苦戦する場合は、敵から距離を取り、スタビリティーを回復させるんだ。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061727Z" creationid="weedssoul" creationdate="20190406T061642Z">
+        <seg>攻め立てられたら、敵から距離を取り、スタビリティーを回復させるんだ。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24216,6 +24224,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T150733Z" creationid="weedssoul" creationdate="20190405T150733Z">
         <seg>他の服装と同様に, 追加のポケットのついた即興の服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Likewise, if you manage to make your opponent stumble, press your advantage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T061824Z" creationid="weedssoul" creationdate="20190406T061824Z">
+        <seg>同様に、もし相手をダウンさせたら、攻め込むんだ。</seg>
       </tuv>
     </tu>
     <tu>
