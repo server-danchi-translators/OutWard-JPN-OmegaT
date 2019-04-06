@@ -8470,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I doubt they will be hiding here in Enmerkar for much longer&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T074412Z" creationid="pugnus" creationdate="20190406T074412Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私は、彼らがここ、Enmerkarに長いこと身を隠しているのじゃないかと疑っているの。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171544Z" creationid="weedssoul" creationdate="20190405T162833Z">
@@ -21303,6 +21311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wish you haste and luck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T074152Z" creationid="pugnus" creationdate="20190406T074152Z">
+        <seg>私はあなたが急ぐことを、そして幸運を祈っているわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I won’t force you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T070358Z" creationid="weedssoul" creationdate="20190405T165515Z">
@@ -21483,6 +21499,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040334Z" creationid="weedssoul" creationdate="20190406T040010Z">
         <seg>すまない。面白くない冗談だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm still looking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T073822Z" creationid="pugnus" creationdate="20190406T073822Z">
+        <seg>私はまだ探しているの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41126,8 +41150,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Sirroco region lies in the shadow of a volcano.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T154258Z" creationid="magur0w" creationdate="20190404T124608Z">
-        <seg>Sirroco 地域は火山の影の中にある。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T074516Z" creationid="magur0w" creationdate="20190404T124608Z">
+        <seg>Sirroco地域は火山の影の中にある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42123,6 +42147,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T054730Z" creationid="rkmad" creationdate="20190404T022219Z">
         <seg>ああ！本当に持ってきてくれたのね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is without mentioning that the Chamberlord of Monsoon is not affiliated with the Holy Mission that lives within his city, and he’s said not to hold any real power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T075407Z" creationid="pugnus" creationdate="20190406T075407Z">
+        <seg>MonsoonのChamberlordは、聖なる使命と連携していないことは、言うまでもない、彼は本当の力を持っていないと述べた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46745,14 +46777,6 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>goodbye</seg>
-      </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T071258Z" creationid="seto" creationdate="20190405T101318Z">
-        <seg>さようなら。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>greeting</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055455Z" creationid="seto" creationdate="20190405T101834Z">
@@ -47889,14 +47913,6 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>thinking</seg>
-      </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190405T101351Z" creationid="seto" creationdate="20190405T101351Z">
-        <seg>thinking</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>value</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
@@ -47909,14 +47925,6 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133113Z" creationid="setom" creationdate="20190402T133113Z">
         <seg>value_fem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>worried</seg>
-      </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T064551Z" creationid="seto" creationdate="20190405T101311Z">
-        <seg>心配だ。</seg>
       </tuv>
     </tu>
     <tu>
