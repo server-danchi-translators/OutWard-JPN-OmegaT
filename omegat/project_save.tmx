@@ -26112,6 +26112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can fetch a decent price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T150618Z" creationid="Light" creationdate="20190406T150618Z">
+        <seg>いい値段で取得することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It comes with great responsibility, but also many advantages.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021304Z" creationid="weedssoul" creationdate="20190406T020831Z">
@@ -39936,6 +39944,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Semiprecious stone found near water, unlike other gems.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T145448Z" creationid="Light" creationdate="20190406T145448Z">
+        <seg>他の宝石とは異なり、半貴石は水の近くにある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sensual clothes that enable one to dance, or fight, without end.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045727Z" creationid="weedssoul" creationdate="20190405T150447Z">
@@ -45223,8 +45239,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The inn is the first building South of the gate.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T161021Z" creationid="Light" creationdate="20190405T161021Z">
-        <seg>南のゲートの直ぐ側の建物が宿だね。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T150701Z" creationid="Light" creationdate="20190405T161021Z">
+        <seg>北のゲートの直ぐ側の建物が宿だね。</seg>
       </tuv>
     </tu>
     <tu>
