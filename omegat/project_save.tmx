@@ -17676,6 +17676,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_GoldLich_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134104Z" creationid="urakata" creationdate="20190406T134104Z">
+        <seg>Errand_GoldLich_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_GoldLich_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134233Z" creationid="urakata" creationdate="20190406T134233Z">
+        <seg>Errand_GoldLich_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Helen_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T115441Z" creationid="urakata" creationdate="20190406T115441Z">
@@ -35360,6 +35376,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to the top of the Light Spire for gifts of useful minerals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134311Z" creationid="urakata" creationdate="20190406T134311Z">
+        <seg>Light Spireの頂上に貴重な鉱物を受取りに行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Revive {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112725Z" creationid="Gaiden Shinji" creationdate="20190404T112725Z">
@@ -45580,6 +45604,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190405T093013Z" creationid="urakata" creationdate="20190331T092802Z">
         <seg>Monsoonでarmor pieceが完成するまで24時間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait one week for the mechanisms of the Spire to collect more resources.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134232Z" creationid="urakata" creationdate="20190406T134232Z">
+        <seg>塔の機構によって材料がたまるまで1週間待つ</seg>
       </tuv>
     </tu>
     <tu>
