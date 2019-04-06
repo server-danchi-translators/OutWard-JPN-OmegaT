@@ -19172,6 +19172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greetings, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T055210Z" creationid="Light" creationdate="20190406T055210Z">
+        <seg>やあ、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guard</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061652Z" creationid="hiru4" creationdate="20190402T024300Z">
@@ -21067,6 +21075,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065009Z" creationid="hiru4" creationdate="20190403T065009Z">
         <seg>よろしいですか？&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you could save one of them, I’m sure they’d return the favor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T055109Z" creationid="Light" creationdate="20190406T055109Z">
+        <seg>もし助けられたら報奨があるかもね。</seg>
       </tuv>
     </tu>
     <tu>
