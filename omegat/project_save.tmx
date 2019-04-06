@@ -1680,8 +1680,8 @@
       <tuv lang="EN-US">
         <seg>A glance upwards shows only a small speck of light from the top of “The Hole”.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T050212Z" creationid="pugnus" creationdate="20190404T050212Z">
-        <seg>上に視線を動かすと、「穴」の上からわずかな光がみえる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T000023Z" creationid="pugnus" creationdate="20190404T050212Z">
+        <seg>上に視線を動かすと、「The Hole」の上からわずかな光がみえる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6509,8 +6509,8 @@
       <tuv lang="EN-US">
         <seg>Days later, you return to your senses, neatly tucked into your bed at your home in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T072842Z" creationid="Horizon" creationdate="20190404T072453Z">
-        <seg>数日後、意識を取り戻すとあなたは Berg の自宅にあるベッドの上にいた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T000042Z" creationid="Horizon" creationdate="20190404T072453Z">
+        <seg>数日後、意識を取り戻すとあなたはBerg の自宅にあるベッドの上にいた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12069,8 +12069,8 @@
       <tuv lang="EN-US">
         <seg>It seems that someone brought you home, and Rissa or one of her attendants nursed you back to health from the brink of death.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190404T072826Z" creationid="Horizon" creationdate="20190404T072527Z">
-        <seg>誰かが瀕死のあなたを見つけ、家に連れ帰ってくれた。そして、 Rissa かその仲間があなたの手当をしてくれたようだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T000052Z" creationid="Horizon" creationdate="20190404T072527Z">
+        <seg>誰かが瀕死のあなたを見つけ、家に連れ帰ってくれた。そして、Rissa かその仲間があなたの手当をしてくれたようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26563,8 +26563,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’ve escaped the Fortress of Vendavel, but paid dearly for it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T105657Z" creationid="pugnus" creationdate="20190404T050927Z">
-        <seg>あなたは Vendavel の要塞を脱出したが、多大な犠牲を払った。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T000037Z" creationid="pugnus" creationdate="20190404T050927Z">
+        <seg>あなたはVendavel の要塞を脱出したが、多大な犠牲を払った。</seg>
       </tuv>
     </tu>
     <tu>
