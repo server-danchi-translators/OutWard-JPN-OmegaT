@@ -20631,6 +20631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can defend myself, that’s all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T110320Z" creationid="pugnus" creationdate="20190406T110320Z">
+        <seg>私は自分自身を守ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can make it back if I keep my wits about me and avoid getting into trouble.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T073132Z" creationid="pugnus" creationdate="20190406T073132Z">
@@ -37189,6 +37197,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025930Z" creationid="weedssoul" creationdate="20190406T025930Z">
         <seg>それで、我々はすべてを失った？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So what?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T105809Z" creationid="pugnus" creationdate="20190406T105809Z">
+        <seg>だから何？</seg>
       </tuv>
     </tu>
     <tu>
