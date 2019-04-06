@@ -11878,8 +11878,8 @@
       <tuv lang="EN-US">
         <seg>Grants the Warm boon, which increases your Fire Damage and Fire Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T035945Z" creationid="pugnus" creationdate="20190406T035945Z">
-        <seg>Warm boonを付与する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T040430Z" creationid="pugnus" creationdate="20190406T035945Z">
+        <seg>Warm boonを付与する。あなたによる炎属性のダメージと、あなたの炎に対する抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14868,6 +14868,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171529Z" creationid="weedssoul" creationdate="20190405T161817Z">
         <seg>それにより、苦しんでいる人たちは、暴力ではなく公平な補償を得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also increases your protection to cold weather.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T040645Z" creationid="pugnus" creationdate="20190406T040645Z">
+        <seg>また、この呪文は寒さからあなたを守ってくれる。</seg>
       </tuv>
     </tu>
     <tu>
