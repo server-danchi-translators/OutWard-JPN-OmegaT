@@ -16534,24 +16534,24 @@
       <tuv lang="EN-US">
         <seg>Elemental Immunity</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140001Z" creationid="totochan" creationdate="20190403T140001Z">
-        <seg>エレメンタルへの耐性</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063257Z" creationid="totochan" creationdate="20190403T140001Z">
+        <seg>元素免疫</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Elemental Resistance</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140017Z" creationid="totochan" creationdate="20190403T140017Z">
-        <seg>エレメンタルへの耐性</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063201Z" creationid="totochan" creationdate="20190403T140017Z">
+        <seg>元素耐性</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Elemental Resistance 2</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140041Z" creationid="totochan" creationdate="20190403T140041Z">
-        <seg>エレメンタルへの耐性２</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063132Z" creationid="totochan" creationdate="20190403T140041Z">
+        <seg>元素耐性 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -17406,16 +17406,16 @@
       <tuv lang="EN-US">
         <seg>Fire, Frost, Lightning, Decay and Ethereal Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140025Z" creationid="totochan" creationdate="20190403T140025Z">
-        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063146Z" creationid="totochan" creationdate="20190403T140025Z">
+        <seg>氷、炎、稲妻、腐敗、エーテルのダメージに対する耐性 +[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Fire, Frost, Lightning, Decay and Ethereal Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140131Z" creationid="totochan" creationdate="20190403T140131Z">
-        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063155Z" creationid="totochan" creationdate="20190403T140131Z">
+        <seg>氷、炎、稲妻、腐敗、エーテルのダメージに対する耐性 +[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -17702,8 +17702,8 @@
       <tuv lang="EN-US">
         <seg>Frost, Fire, Lightning, Decay and Ethereal Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135923Z" creationid="totochan" creationdate="20190403T135923Z">
-        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性 +[E1V1]%.</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063238Z" creationid="totochan" creationdate="20190403T135923Z">
+        <seg>氷、炎、稲妻、腐敗、エーテルのダメージに対する耐性 +[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21521,8 +21521,8 @@
       <tuv lang="EN-US">
         <seg>Immune to Frost, Fire, Lightning, Decay and Ethereal Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135834Z" creationid="totochan" creationdate="20190403T135834Z">
-        <seg>霜、炎、稲妻、腐敗、そしてエーテルのダメージに対する耐性</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063210Z" creationid="totochan" creationdate="20190403T135834Z">
+        <seg>氷、炎、稲妻、腐敗、エーテルのダメージに対する耐性</seg>
       </tuv>
     </tu>
     <tu>
