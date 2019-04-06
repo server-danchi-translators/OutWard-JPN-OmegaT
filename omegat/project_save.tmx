@@ -40377,6 +40377,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spikes that must be placed in a Tripwire Trap, inflicting damage to enemies that step on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T142104Z" creationid="weedssoul" creationdate="20190406T142104Z">
+        <seg>トリップワイヤに仕掛けるスパイク。踏んだ敵にダメージを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spikes that must be placed in a Tripwire Trap, inflicting low damage to enemies that step on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T135400Z" creationid="weedssoul" creationdate="20190406T135400Z">
