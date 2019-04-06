@@ -17612,6 +17612,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Machine_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124343Z" creationid="urakata" creationdate="20190406T124343Z">
+        <seg>Errand_Machine_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_MageBackpack_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123941Z" creationid="urakata" creationdate="20190406T123941Z">
@@ -18100,6 +18108,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find and destroy the interferences just outside the Electric Lab, in the Abrassar region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124549Z" creationid="urakata" creationdate="20190406T124549Z">
+        <seg>Abrassar地方のElectric Labのすぐそばで障害となっているものを探して壊す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find another ghost manifesting in the Hallowed Marsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124114Z" creationid="urakata" creationdate="20190406T124114Z">
@@ -18108,10 +18124,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find another ghost.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124311Z" creationid="urakata" creationdate="20190406T124250Z">
+        <seg>まだ霊を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find more ghosts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124156Z" creationid="urakata" creationdate="20190406T124156Z">
-        <seg>霊を探す</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124224Z" creationid="urakata" creationdate="20190406T124156Z">
+        <seg>もっと霊を探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -18126,8 +18150,8 @@
       <tuv lang="EN-US">
         <seg>Find yet more ghosts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124216Z" creationid="urakata" creationdate="20190406T124216Z">
-        <seg>まだまだ霊を探すFind yet more ghosts.</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124317Z" creationid="urakata" creationdate="20190406T124216Z">
+        <seg>まだまだ霊を探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,6 +31251,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T040558Z" creationid="はぐくみ会" creationdate="20190403T062137Z">
         <seg>今後はもっと注意を払うことで、あなたはうまくいくでしょう。hmmm？"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps this spectre will have something for me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T124342Z" creationid="urakata" creationdate="20190406T124342Z">
+        <seg>亡霊は何かくれるのかもしれない</seg>
       </tuv>
     </tu>
     <tu>
