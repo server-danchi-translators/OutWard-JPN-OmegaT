@@ -12675,6 +12675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come on in!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053320Z" creationid="Light" creationdate="20190406T053320Z">
+        <seg>ようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come on!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090343Z" creationid="rkmad" creationdate="20190405T090343Z">
@@ -18936,6 +18944,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
         <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having the usual?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053447Z" creationid="Light" creationdate="20190406T053447Z">
+        <seg>いつものでいいかな？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25976,6 +25992,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033359Z" creationid="rkmad" creationdate="20190405T033359Z">
         <seg>誰一人として、法や規律から逃れることは出来ないのですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No thanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052925Z" creationid="Light" creationdate="20190406T052925Z">
+        <seg>いいえ、結構です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34202,16 +34226,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sea-Salt Inn</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112556Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
-        <seg>シーソルトイン</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053134Z" creationid="Gaiden Shinji" creationdate="20190404T112556Z">
+        <seg>宿屋"シーソルト"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sea-Salt Innkeeper</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113740Z" creationid="Gaiden Shinji" creationdate="20190404T113740Z">
-        <seg>シーソルトの主</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052950Z" creationid="Gaiden Shinji" creationdate="20190404T113740Z">
+        <seg>シーソルトの主人</seg>
       </tuv>
     </tu>
     <tu>
@@ -39004,6 +39028,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entrance should be just ahead of you, along the hillside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052709Z" creationid="Light" creationdate="20190406T052709Z">
+        <seg>入り口はあなたの直ぐ側よ。丘の上にあるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The failures of my bloodline weigh heavy on me.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103116Z" creationid="setom" creationdate="20190402T103116Z">
@@ -41304,6 +41336,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, if it isn’t [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T053311Z" creationid="Light" creationdate="20190406T053311Z">
+        <seg>やぁ！[PlayerName]じゃないか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, negotiations will be very delicate.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164748Z" creationid="magur0w" creationdate="20190404T130030Z">
@@ -43219,6 +43259,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013012Z" creationid="pugnus" creationdate="20190404T114455Z">
         <seg>あなたはいったい何を考えているのだろうか、Cyrがあなたを持ち上げる。片手だけで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll know you're going the right way if you see crude statues made by the troglodytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T052558Z" creationid="Light" creationdate="20190406T052558Z">
+        <seg>Trogたちの造ったボロボロの像が見えてきたら正しい道よ。</seg>
       </tuv>
     </tu>
     <tu>
