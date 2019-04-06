@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>19 items are not synced with the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051702Z" creationid="seto" creationdate="20190406T051702Z">
+        <seg>19 items are not synced with the list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>19 – Craft a Campfire</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094645Z" creationid="setom" creationdate="20190402T094645Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064546Z" creationid="setom" creationdate="20190402T064546Z">
         <seg>2140120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>215 items are not synced with the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051700Z" creationid="seto" creationdate="20190406T051700Z">
+        <seg>215 items are not synced with the list</seg>
       </tuv>
     </tu>
     <tu>
@@ -7438,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>8 items are not synced with the list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051704Z" creationid="seto" creationdate="20190406T051704Z">
+        <seg>8 items are not synced with the list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>8 – Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094427Z" creationid="setom" creationdate="20190402T094427Z">
@@ -12795,6 +12819,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumable filter status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051702Z" creationid="seto" creationdate="20190406T051702Z">
+        <seg>Consumable filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumed Items</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020518Z" creationid="hiru4" creationdate="20190402T020518Z">
@@ -16140,6 +16172,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Equipment filter status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051701Z" creationid="seto" creationdate="20190406T051701Z">
+        <seg>Equipment filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Equipment is quite heavy and even coins have weight.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T085158Z" creationid="setom" creationdate="20190402T085158Z">
@@ -16480,6 +16520,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T085110Z" creationid="setom" creationdate="20190402T085110Z">
         <seg>バックパックがあっても見つけたアイテムをすべて回収することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every objects are synced</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051703Z" creationid="seto" creationdate="20190406T051703Z">
+        <seg>Every objects are synced</seg>
       </tuv>
     </tu>
     <tu>
@@ -22363,6 +22411,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Items in DB count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051617Z" creationid="seto" creationdate="20190406T051617Z">
+        <seg>Items in DB count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Its bold color makes it stand out in the snowy landscape.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T144459Z" creationid="weedssoul" creationdate="20190405T144320Z">
@@ -22864,6 +22920,22 @@
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T145756Z" creationid="totochan" creationdate="20190402T145756Z">
         <seg>ランタン、戦闘用装具、盾をこの手に持ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last item added</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051620Z" creationid="seto" creationdate="20190406T051620Z">
+        <seg>Last item added</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last tag added</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051656Z" creationid="seto" creationdate="20190406T051656Z">
+        <seg>Last tag added</seg>
       </tuv>
     </tu>
     <tu>
@@ -24772,6 +24844,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Misc filter status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051704Z" creationid="seto" creationdate="20190406T051704Z">
+        <seg>Misc filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Misc.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083438Z" creationid="totochan" creationdate="20190402T083438Z">
@@ -24928,6 +25008,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
         <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MonsterWeapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051658Z" creationid="seto" creationdate="20190406T051658Z">
+        <seg>MonsterWeapon</seg>
       </tuv>
     </tu>
     <tu>
@@ -36787,6 +36875,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tags count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051655Z" creationid="seto" creationdate="20190406T051655Z">
+        <seg>Tags count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115754Z" creationid="setom" creationdate="20190401T115754Z">
@@ -39924,6 +40020,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
         <seg>武器の物理的ダメージ+%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon filter status</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051659Z" creationid="seto" creationdate="20190406T051659Z">
+        <seg>Weapon filter status</seg>
       </tuv>
     </tu>
     <tu>
@@ -44400,6 +44504,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080314Z" creationid="rkmad" creationdate="20190403T080314Z">
         <seg>どうしても飲みたいというのであれば、焚き火で沸騰させ、清潔な水にしてから飲むべきだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/item_all.xml</prop>
+      <prop type="id">3713_0</prop>
+      <tuv lang="EN-US">
+        <seg>Coil Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T051640Z" creationid="seto" creationdate="20190406T051640Z">
+        <seg>Coil Lantern</seg>
       </tuv>
     </tu>
     <tu>
