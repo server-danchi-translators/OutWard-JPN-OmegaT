@@ -11916,6 +11916,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grants the Rage boon, which increases the Impact of your attacks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T041210Z" creationid="pugnus" creationdate="20190406T041210Z">
+        <seg>Rage boonを付与する。あなたの攻撃の衝撃力を増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grants the Warm boon, which increases your Fire Damage and Fire Resistance.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T040430Z" creationid="pugnus" creationdate="20190406T035945Z">
@@ -29052,6 +29060,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this skill burns a bit of your maximum health until the next time you sleep.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T041318Z" creationid="pugnus" creationdate="20190406T041318Z">
+        <seg>このスキルを使うと、次に眠るまでの間、ヘルスの最大値が、やや減少する。</seg>
       </tuv>
     </tu>
     <tu>
