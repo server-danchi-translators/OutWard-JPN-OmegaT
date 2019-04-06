@@ -19136,6 +19136,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T015338Z" creationid="pugnus" creationdate="20190406T015338Z">
+        <seg>必要： Bow 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T142119Z" creationid="Horizon" creationdate="20190403T135301Z">
