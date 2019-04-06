@@ -16527,6 +16527,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you have their approval, let me know, and I can begin the adoption process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020208Z" creationid="weedssoul" creationdate="20190406T020208Z">
+        <seg>彼らの承認が得られたら、私に知らせてください。手続きを始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you're ready to leave Cierzo, speak with Burac, the Gate Warden.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T021006Z" creationid="rkmad" creationdate="20190404T091520Z">
@@ -23515,6 +23523,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112433Z" creationid="setom" creationdate="20190331T112310Z">
         <seg>これは商人から買うことが可能で、料理鍋を使って塩や様々な種類の食料から作ることもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They may ask for a small favor, to prove that you can bring value to the Collective, and I’m certain they will all reward you in their own way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T020136Z" creationid="weedssoul" creationdate="20190406T020125Z">
+        <seg>彼らはおそらく、あなたがCollectiveにとって価値のある人だと証明するために、簡単なお願いをしてくるでしょう。そしてそれぞれのやり方であなたに報奨を与えるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
