@@ -46433,6 +46433,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[PlayerName], how goes the search for the leader of those thugs?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T073707Z" creationid="pugnus" creationdate="20190406T073707Z">
+        <seg>[PlayerName]、どうやって、ならず者の頭領を探索したらいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[PlayerName], there you are.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164449Z" creationid="magur0w" creationdate="20190404T164449Z">
