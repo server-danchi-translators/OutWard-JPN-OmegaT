@@ -17900,6 +17900,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dry remnants of necrotic beings, used in alchemy and to craft weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T144624Z" creationid="weedssoul" creationdate="20190406T144624Z">
+        <seg>壊死した存在の乾いた残り滓。錬金術や武器の作成に使われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dull aches wake you from your days-long comatose state.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042734Z" creationid="はぐくみ会" creationdate="20190404T005606Z">
@@ -46580,6 +46588,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023454Z" creationid="hiru4" creationdate="20190402T023454Z">
         <seg>停止解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unrefined mineral that radiates raw magic, used in many alchemical recipes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T144750Z" creationid="weedssoul" creationdate="20190406T144750Z">
+        <seg>生の魔法を放つ精錬されていない鉱物。多くの錬金術のレシピで使われる。</seg>
       </tuv>
     </tu>
     <tu>
