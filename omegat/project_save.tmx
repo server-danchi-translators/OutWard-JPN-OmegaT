@@ -20207,6 +20207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hunger, thirst and exhaustion are persistent foes, so eat and drink when you need to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062216Z" creationid="Light" creationdate="20190406T062216Z">
+        <seg>飢え、渇き、それから疲労というのが、わかりやすい例だな。だから必要に応じて飲んだり食べたりするんだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hungry</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113928Z" creationid="setom" creationdate="20190401T113928Z">
@@ -43163,6 +43171,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With a little preparation, you will find it easy enough to take care of yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062249Z" creationid="Light" creationdate="20190406T062249Z">
+        <seg>少しばかり準備していけば、それくらいは面倒にならないはずさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With a yelp, you jump out of your bed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T130405Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
@@ -44657,8 +44673,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your body has needs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T110732Z" creationid="setom" creationdate="20190331T110732Z">
-        <seg>身体には欲求が存在する。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T062004Z" creationid="setom" creationdate="20190331T110732Z">
+        <seg>君の身体には欲求というものがある。</seg>
       </tuv>
     </tu>
     <tu>
