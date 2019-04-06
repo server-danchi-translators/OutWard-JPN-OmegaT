@@ -14053,8 +14053,8 @@
       <tuv lang="EN-US">
         <seg>Cook any raw meat and boil any water that isn't "clean" before eating.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074606Z" creationid="weedssoul" creationdate="20190406T074606Z">
-        <seg>食べる前に生の肉は調理をし、綺麗でない水は沸かそう。</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074616Z" creationid="weedssoul" creationdate="20190406T074606Z">
+        <seg>食べる前に生の肉は調理をし、綺麗でない水は沸かすんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45277,6 +45277,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132231Z" creationid="hiru4" creationdate="20190403T062140Z">
         <seg>必要な訓練を受けていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't want to get sick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T074623Z" creationid="weedssoul" creationdate="20190406T074623Z">
+        <seg>病気にかかりたくなかったらな。</seg>
       </tuv>
     </tu>
     <tu>
