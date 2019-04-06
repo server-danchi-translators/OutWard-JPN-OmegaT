@@ -12947,6 +12947,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cierzo Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T123554Z" creationid="Light" creationdate="20190406T123554Z">
+        <seg>シエルゾ衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo Storage</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114745Z" creationid="Gaiden Shinji" creationdate="20190403T114745Z">
@@ -18136,6 +18144,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130516Z" creationid="setom" creationdate="20190403T130516Z">
         <seg>FishingSpot_Fish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fishmonger Karl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T123451Z" creationid="Light" creationdate="20190406T123451Z">
+        <seg>魚屋カール</seg>
       </tuv>
     </tu>
     <tu>
@@ -26712,6 +26728,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021653Z" creationid="hiru4" creationdate="20190402T021653Z">
         <seg>全体音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master-Chef Arago</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T123350Z" creationid="Light" creationdate="20190406T123350Z">
+        <seg>料理長アラゴ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37940,6 +37964,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091641Z" creationid="setom" creationdate="20190403T091641Z">
         <seg>Shop_Exit_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shopkeeper Doran</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T123522Z" creationid="Light" creationdate="20190406T123522Z">
+        <seg>店主ドラン</seg>
       </tuv>
     </tu>
     <tu>
