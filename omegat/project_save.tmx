@@ -4426,6 +4426,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Best of luck with squaring things with Rissa in the short term.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033920Z" creationid="weedssoul" creationdate="20190406T033920Z">
+        <seg>Rissaと共に短期間で物事を整理できるといいな。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitterness solves nothing, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171507Z" creationid="weedssoul" creationdate="20190405T155125Z">
@@ -12449,8 +12457,8 @@
       <tuv lang="EN-US">
         <seg>I welcome the challenge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031631Z" creationid="weedssoul" creationdate="20190406T031506Z">
-        <seg>苦難なら歓迎だ。.</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033611Z" creationid="weedssoul" creationdate="20190406T031506Z">
+        <seg>苦難なら歓迎だs</seg>
       </tuv>
     </tu>
     <tu>
@@ -12579,6 +12587,14 @@
       </tuv>
       <tuv lang="JA" changeid="kei" changedate="20190404T101304Z" creationid="kei" creationdate="20190404T101233Z">
         <seg>今向かっているところだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm sorry I don't have better news, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033634Z" creationid="weedssoul" creationdate="20190406T033634Z">
+        <seg>いい知らせがなくてすまない、 [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
@@ -15320,6 +15336,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082930Z" creationid="rkmad" creationdate="20190404T082930Z">
         <seg>もしそのつもりなら、その前に外へ旅に出る為の十分な準備が出来ていることを確認してからの方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make your own path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T034131Z" creationid="weedssoul" creationdate="20190406T034131Z">
+        <seg>自分で道を切り拓け。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21116,6 +21140,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130147Z" creationid="rkmad" creationdate="20190404T091846Z">
         <seg>[PlayerName]、忘れないで。&lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。対価を支払うための150シルバーを集めるか、村人の信頼を得るかのどちらをするにしてもです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, take care of yourself and don’t be a tool for others, or you’ll end with missing limbs like me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T034149Z" creationid="weedssoul" creationdate="20190406T034040Z">
+        <seg>覚えておけ。自分を大切にしろ。他人の道具になるな。さもなくば、私のように手足を失うだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28568,6 +28600,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, I guess it's up to us to pick up the pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033943Z" creationid="weedssoul" creationdate="20190406T033726Z">
+        <seg>あー、事態が収拾するかどうかは我々次第だと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, I tried.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091100Z" creationid="rkmad" creationdate="20190405T091100Z">
@@ -30385,8 +30425,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You weren't even born when that tragedy happened!</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T031251Z" creationid="weedssoul" creationdate="20190406T031251Z">
-        <seg>その悲劇が起きた時、君は生まれてすらいなかったのに！!</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033524Z" creationid="weedssoul" creationdate="20190406T031251Z">
+        <seg>その悲劇が起きた時、君は生まれてすらいなかったのに！</seg>
       </tuv>
     </tu>
     <tu>
