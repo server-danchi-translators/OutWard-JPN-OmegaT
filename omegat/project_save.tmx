@@ -12005,8 +12005,8 @@
       <tuv lang="EN-US">
         <seg>Can you teach me about crafting and managing my inventory?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T122116Z" creationid="weedssoul" creationdate="20190406T122116Z">
-        <seg>クラフトとインベントリ管理について教えてくれないか？</seg>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T123103Z" creationid="weedssoul" creationdate="20190406T122116Z">
+        <seg>クラフトとインベントリの管理について教えてくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,6 +12023,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T120942Z" creationid="Light" creationdate="20190406T120942Z">
         <seg>魔法について教えてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can you teach me about survival crafting?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T123133Z" creationid="weedssoul" creationdate="20190406T123133Z">
+        <seg>クラフトについて教えてくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -18224,6 +18232,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T081621Z" creationid="setom" creationdate="20190402T081621Z">
         <seg>例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, some wood and linen cloth can be made into a torch if you need light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T123324Z" creationid="weedssoul" creationdate="20190406T123324Z">
+        <seg>例えば、光が必要な時、いくつかの木と亜麻布でトーチを作ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41483,6 +41499,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sure, what do you want to know?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T123112Z" creationid="weedssoul" creationdate="20190406T123112Z">
+        <seg>もちろんさ。何が知りたい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Switch Equipment</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063043Z" creationid="hiru4" creationdate="20190403T063043Z">
@@ -45959,6 +45983,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
         <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever you need to, you can craft a great variety of items to aid in your survival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T123231Z" creationid="weedssoul" creationdate="20190406T123231Z">
+        <seg>必要なときはいつでも、あなたの生存の助けとなる多種多様なアイテムを作成することができる。</seg>
       </tuv>
     </tu>
     <tu>
