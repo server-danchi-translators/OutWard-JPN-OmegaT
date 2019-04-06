@@ -16580,6 +16580,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edible meat that should be cooked first, as it rots quickly and carries diseases while raw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T072456Z" creationid="seto" creationdate="20190406T072456Z">
+        <seg>直ぐに腐ってしまい、生のままでは病気をもたらすため、真っ先に調理しておくべき食用肉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063353Z" creationid="hiru4" creationdate="20190403T063353Z">
@@ -23194,8 +23202,8 @@
       <tuv lang="EN-US">
         <seg>It depends on your situation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064511Z" creationid="weedssoul" creationdate="20190406T064511Z">
-        <seg>状況による。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071827Z" creationid="weedssoul" creationdate="20190406T064511Z">
+        <seg>状況によるな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32427,6 +32435,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045230Z" creationid="seto" creationdate="20190406T045230Z">
         <seg>糧食材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T072224Z" creationid="seto" creationdate="20190406T072224Z">
+        <seg>生肉</seg>
       </tuv>
     </tu>
     <tu>
@@ -42346,8 +42362,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Turmmip</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114024Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
-        <seg>ターミップ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T072235Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
+        <seg>カブ</seg>
       </tuv>
     </tu>
     <tu>
@@ -43394,8 +43410,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapons that need two hands are often stronger and have superior reach, but one handed weapons allow you to carry trinkets like shields or lanterns in your off-hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T071438Z" creationid="weedssoul" creationdate="20190406T064617Z">
-        <seg>両手武器は、一般的に威力が高くでリーチも長い。一方で片手武器は、左手に盾やランタンを装備することができる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071823Z" creationid="weedssoul" creationdate="20190406T064617Z">
+        <seg>両手武器は、一般的に威力が高くリーチも長い。一方で片手武器は、左手に盾やランタンを装備することができるぞ。</seg>
       </tuv>
     </tu>
     <tu>
