@@ -17732,6 +17732,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_JadeLich_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134312Z" creationid="urakata" creationdate="20190406T134312Z">
+        <seg>Errand_JadeLich_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Levant_BK_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T141857Z" creationid="urakata" creationdate="20190331T141857Z">
@@ -24043,6 +24051,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T133908Z" creationid="urakata" creationdate="20190406T133908Z">
         <seg>Hallowed MarshのLight Spireで玉座を調べ、Gold Mask Lichと戦う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interact with the throne to fight Jade-Mask Lich in the Dark Ziggurat, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T134638Z" creationid="urakata" creationdate="20190406T134638Z">
+        <seg>Hallowed MarshのDark Zigguratで玉座を調べ、Jade-Mask Lichと戦う</seg>
       </tuv>
     </tu>
     <tu>
