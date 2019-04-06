@@ -21250,8 +21250,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon The disc sways left and right as it advances, hitting multiple times and dealing high damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T030414Z" creationid="pugnus" creationdate="20190406T030414Z">
-        <seg>Required: Chakram, Discipline Boon ディスクは前方の空間を横切り、その空間にいる敵に高いダメージと衝撃を与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T033726Z" creationid="pugnus" creationdate="20190406T030414Z">
+        <seg>Required: Chakram, Discipline Boon ディスクは前方の空間を左右に踊る、その空間にいる敵に高いダメージと衝撃を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Required: Chakram, Discipline Boon The disc sweeps the area in front of the caster, dealing high Damage and Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T033631Z" creationid="pugnus" creationdate="20190406T033631Z">
+        <seg>必要：Chakram, Discipline Boon The disc sweeps the area in front of the caster, dealing high Damage and Impact.</seg>
       </tuv>
     </tu>
     <tu>
