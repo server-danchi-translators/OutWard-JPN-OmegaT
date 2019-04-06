@@ -22367,6 +22367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In case we don’t see each other again...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114840Z" creationid="Mad" creationdate="20190406T114840Z">
+        <seg>これがあなたとの最後の別れになった場合……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In cities, the location of important characters can be seen on the map.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134051Z" creationid="Light" creationdate="20190404T134051Z">
@@ -23947,6 +23955,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was nice knowing you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114923Z" creationid="Mad" creationdate="20190406T114923Z">
+        <seg>そうね、あなたに会えてよかったと思う。また会えたら、どこかで。じゃあね、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will be a few days before they all arrive, however.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022537Z" creationid="weedssoul" creationdate="20190406T022537Z">
@@ -25400,6 +25416,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T061824Z" creationid="weedssoul" creationdate="20190406T061824Z">
         <seg>同様に、もし相手をダウンさせたら、攻め込むんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Listen, I have to head off before Mother tries to convince me again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114819Z" creationid="Mad" creationdate="20190406T114819Z">
+        <seg>私は小うるさい母がもう1回説得しようとしにくる前に、出発しようと思うの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29625,8 +29649,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Once you reach the marsh, follow the Pilgrim Road, &lt;color=#00CCFF&gt;&lt;b&gt;the trail of Sun-Pillars&lt;/b&gt;&lt;/color&gt; towards the ray of light that flies over Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190406T114341Z" creationid="Mad" creationdate="20190406T114341Z">
-        <seg>沼地に到着したら、巡礼者の道を進み、&lt;color=#00CCFF&gt;&lt;b&gt;the trail of Sun-Pillars&lt;/b&gt;&lt;/color&gt; towards the ray of light that flies over Monsoon.</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190406T114729Z" creationid="Mad" creationdate="20190406T114341Z">
+        <seg>沼地に到着したら巡礼者の道を進んで、&lt;color=#00CCFF&gt;&lt;b&gt;太陽の柱の小道&lt;/b&gt;&lt;/color&gt;を、モンスーンの上を走る光に向かうのよ。まあ、行けば分かると思うわ。</seg>
       </tuv>
     </tu>
     <tu>
