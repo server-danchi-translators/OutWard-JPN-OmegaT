@@ -21527,6 +21527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I've got no good leads.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T080000Z" creationid="pugnus" creationdate="20190406T075950Z">
+        <seg>私は良い手がかりを持っていない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I've heard rumors of a Scourge Beast, a shell horror specifically, near the Ghost Pass.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T060754Z" creationid="Light" creationdate="20190406T060754Z">
@@ -43620,6 +43628,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095232Z" creationid="rkmad" creationdate="20190403T095232Z">
         <seg>彼らを治療するための医薬品が不足していてね・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We should focus on more important things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T080214Z" creationid="pugnus" creationdate="20190406T080214Z">
+        <seg>私たちはもっと重要なことに集中するべきじゃないかしら？</seg>
       </tuv>
     </tu>
     <tu>
