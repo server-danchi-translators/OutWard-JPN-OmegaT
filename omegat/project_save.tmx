@@ -7067,6 +7067,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CharacterCreation_Asian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045254Z" creationid="seto" creationdate="20190406T045254Z">
+        <seg>CharacterCreation_Asian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_Black</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045253Z" creationid="seto" creationdate="20190406T045253Z">
+        <seg>CharacterCreation_Black</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CharacterCreation_CreateButton</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113310Z" creationid="setom" creationdate="20190401T113310Z">
@@ -7199,6 +7215,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113447Z" creationid="setom" creationdate="20190401T113447Z">
         <seg>CharacterCreation_RandomButton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CharacterCreation_White</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045250Z" creationid="seto" creationdate="20190406T045250Z">
+        <seg>CharacterCreation_White</seg>
       </tuv>
     </tu>
     <tu>
@@ -18748,6 +18772,302 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Map_BanditCamp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045314Z" creationid="seto" creationdate="20190406T045314Z">
+        <seg>Map_BanditCamp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_BlueChamber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045306Z" creationid="seto" creationdate="20190406T045306Z">
+        <seg>Map_BlueChamber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_COW</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045312Z" creationid="seto" creationdate="20190406T045312Z">
+        <seg>Map_COW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_CityBerg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045332Z" creationid="seto" creationdate="20190406T045332Z">
+        <seg>Map_CityBerg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_CityCierzo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045331Z" creationid="seto" creationdate="20190406T045331Z">
+        <seg>Map_CityCierzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_CityGiant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045335Z" creationid="seto" creationdate="20190406T045335Z">
+        <seg>Map_CityGiant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_CityLevant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045333Z" creationid="seto" creationdate="20190406T045333Z">
+        <seg>Map_CityLevant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_CityMonsoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045334Z" creationid="seto" creationdate="20190406T045334Z">
+        <seg>Map_CityMonsoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_ConfluxMountain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045318Z" creationid="seto" creationdate="20190406T045318Z">
+        <seg>Map_ConfluxMountain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Docks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045325Z" creationid="seto" creationdate="20190406T045325Z">
+        <seg>Map_Docks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Fort</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045317Z" creationid="seto" creationdate="20190406T045317Z">
+        <seg>Map_Fort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Garden</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045322Z" creationid="seto" creationdate="20190406T045322Z">
+        <seg>Map_Garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_GiantBurningTree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045314Z" creationid="seto" creationdate="20190406T045314Z">
+        <seg>Map_GiantBurningTree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_GiantRuins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045319Z" creationid="seto" creationdate="20190406T045319Z">
+        <seg>Map_GiantRuins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_GiantTree</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045313Z" creationid="seto" creationdate="20190406T045313Z">
+        <seg>Map_GiantTree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Hive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045327Z" creationid="seto" creationdate="20190406T045327Z">
+        <seg>Map_Hive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_KaziteTrainers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045336Z" creationid="seto" creationdate="20190406T045336Z">
+        <seg>Map_KaziteTrainers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Oasis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045323Z" creationid="seto" creationdate="20190406T045323Z">
+        <seg>Map_Oasis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_OldLevant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045320Z" creationid="seto" creationdate="20190406T045320Z">
+        <seg>Map_OldLevant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Palace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045304Z" creationid="seto" creationdate="20190406T045304Z">
+        <seg>Map_Palace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_RegionAbrassar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045329Z" creationid="seto" creationdate="20190406T045329Z">
+        <seg>Map_RegionAbrassar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_RegionChersonese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045328Z" creationid="seto" creationdate="20190406T045328Z">
+        <seg>Map_RegionChersonese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_RegionEnmerkar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045328Z" creationid="seto" creationdate="20190406T045328Z">
+        <seg>Map_RegionEnmerkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_RegionHallowedMarsh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045330Z" creationid="seto" creationdate="20190406T045330Z">
+        <seg>Map_RegionHallowedMarsh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_RuinedSettlement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045321Z" creationid="seto" creationdate="20190406T045321Z">
+        <seg>Map_RuinedSettlement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Ruins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045315Z" creationid="seto" creationdate="20190406T045315Z">
+        <seg>Map_Ruins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Shipwreck</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045326Z" creationid="seto" creationdate="20190406T045326Z">
+        <seg>Map_Shipwreck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Slums</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045305Z" creationid="seto" creationdate="20190406T045305Z">
+        <seg>Map_Slums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Sunpath</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045310Z" creationid="seto" creationdate="20190406T045310Z">
+        <seg>Map_Sunpath</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045308Z" creationid="seto" creationdate="20190406T045308Z">
+        <seg>Map_Temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Temple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045303Z" creationid="seto" creationdate="20190406T045303Z">
+        <seg>Map_Temple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Time</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045307Z" creationid="seto" creationdate="20190406T045307Z">
+        <seg>Map_Time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Tower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045324Z" creationid="seto" creationdate="20190406T045324Z">
+        <seg>Map_Tower</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_TownHall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045300Z" creationid="seto" creationdate="20190406T045300Z">
+        <seg>Map_TownHall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Vigil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045309Z" creationid="seto" creationdate="20190406T045309Z">
+        <seg>Map_Vigil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_WaterPurifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045301Z" creationid="seto" creationdate="20190406T045301Z">
+        <seg>Map_WaterPurifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map_Windmill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045311Z" creationid="seto" creationdate="20190406T045311Z">
+        <seg>Map_Windmill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Markus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115126Z" creationid="Gaiden Shinji" creationdate="20190404T115126Z">
@@ -20000,6 +20320,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071250Z" creationid="hiru4" creationdate="20190403T071250Z">
         <seg>重装備によるペナルティは移動、スタミナ、体温</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045248Z" creationid="seto" creationdate="20190406T045248Z">
+        <seg>キノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23207,6 +23535,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_TutorialTitle_NegStatus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045446Z" creationid="seto" creationdate="20190406T045446Z">
+        <seg>Player_Message_TutorialTitle_NegStatus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_TutorialTitle_NegativeEffects</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094557Z" creationid="setom" creationdate="20190402T094557Z">
@@ -23343,10 +23679,250 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Attacks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045453Z" creationid="seto" creationdate="20190406T045453Z">
+        <seg>Player_Message_Tutorial_Attacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045447Z" creationid="seto" creationdate="20190406T045447Z">
+        <seg>Player_Message_Tutorial_Backpack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Blocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045434Z" creationid="seto" creationdate="20190406T045434Z">
+        <seg>Player_Message_Tutorial_Blocking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045454Z" creationid="seto" creationdate="20190406T045454Z">
+        <seg>Player_Message_Tutorial_Campfire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Campfire2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045454Z" creationid="seto" creationdate="20190406T045454Z">
+        <seg>Player_Message_Tutorial_Campfire2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045432Z" creationid="seto" creationdate="20190406T045432Z">
+        <seg>Player_Message_Tutorial_Combat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_ComplexSkills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045436Z" creationid="seto" creationdate="20190406T045436Z">
+        <seg>Player_Message_Tutorial_ComplexSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Cooking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045445Z" creationid="seto" creationdate="20190406T045445Z">
+        <seg>Player_Message_Tutorial_Cooking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Defences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045458Z" creationid="seto" creationdate="20190406T045458Z">
+        <seg>Player_Message_Tutorial_Defences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Durability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045448Z" creationid="seto" creationdate="20190406T045448Z">
+        <seg>Player_Message_Tutorial_Durability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Guarding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045444Z" creationid="seto" creationdate="20190406T045444Z">
+        <seg>Player_Message_Tutorial_Guarding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Hunger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045455Z" creationid="seto" creationdate="20190406T045455Z">
+        <seg>Player_Message_Tutorial_Hunger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Illness</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045452Z" creationid="seto" creationdate="20190406T045452Z">
+        <seg>Player_Message_Tutorial_Illness</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Message_Tutorial_Introduction</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095932Z" creationid="setom" creationdate="20190402T095932Z">
         <seg>Player_Message_Tutorial_Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Inventory</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045447Z" creationid="seto" creationdate="20190406T045447Z">
+        <seg>Player_Message_Tutorial_Inventory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Lanterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045441Z" creationid="seto" creationdate="20190406T045441Z">
+        <seg>Player_Message_Tutorial_Lanterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Locking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045452Z" creationid="seto" creationdate="20190406T045452Z">
+        <seg>Player_Message_Tutorial_Locking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045451Z" creationid="seto" creationdate="20190406T045451Z">
+        <seg>Player_Message_Tutorial_Needs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Repairing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045445Z" creationid="seto" creationdate="20190406T045445Z">
+        <seg>Player_Message_Tutorial_Repairing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Resting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045441Z" creationid="seto" creationdate="20190406T045441Z">
+        <seg>Player_Message_Tutorial_Resting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Sleeping</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045442Z" creationid="seto" creationdate="20190406T045442Z">
+        <seg>Player_Message_Tutorial_Sleeping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Spells</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045438Z" creationid="seto" creationdate="20190406T045438Z">
+        <seg>Player_Message_Tutorial_Spells</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Spells2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045439Z" creationid="seto" creationdate="20190406T045439Z">
+        <seg>Player_Message_Tutorial_Spells2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Spells3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045440Z" creationid="seto" creationdate="20190406T045440Z">
+        <seg>Player_Message_Tutorial_Spells3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Stability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045435Z" creationid="seto" creationdate="20190406T045435Z">
+        <seg>Player_Message_Tutorial_Stability</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Temperature</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045449Z" creationid="seto" creationdate="20190406T045449Z">
+        <seg>Player_Message_Tutorial_Temperature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_TemperatureCold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045450Z" creationid="seto" creationdate="20190406T045450Z">
+        <seg>Player_Message_Tutorial_TemperatureCold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_TemperatureHot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045450Z" creationid="seto" creationdate="20190406T045450Z">
+        <seg>Player_Message_Tutorial_TemperatureHot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_WeaponSkills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045438Z" creationid="seto" creationdate="20190406T045438Z">
+        <seg>Player_Message_Tutorial_WeaponSkills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_WeaponSkills2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045456Z" creationid="seto" creationdate="20190406T045456Z">
+        <seg>Player_Message_Tutorial_WeaponSkills2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Message_Tutorial_Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045457Z" creationid="seto" creationdate="20190406T045457Z">
+        <seg>Player_Message_Tutorial_Weight</seg>
       </tuv>
     </tu>
     <tu>
