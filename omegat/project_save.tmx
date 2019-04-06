@@ -9119,6 +9119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And now you see why I don't want to go either.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T051546Z" creationid="Light" creationdate="20190406T051546Z">
+        <seg>私がどうしてそこに行かないかわかった？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And on time, too!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035358Z" creationid="rkmad" creationdate="20190405T035358Z">
@@ -9283,6 +9291,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114822Z" creationid="setom" creationdate="20190401T114822Z">
         <seg>適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you interested, or not?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T051404Z" creationid="Light" creationdate="20190406T051404Z">
+        <seg>興味があるの？ないの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10510,6 +10526,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T021622Z" creationid="rkmad" creationdate="20190404T015607Z">
         <seg>そうだ。もし短剣を持ってきてくれれば、その使い方を教えてあげる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bring me that mushroom and I’ll pay 70 silver for it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T045725Z" creationid="Light" creationdate="20190406T045725Z">
+        <seg>そのキノコを持ってきてくれたら70シルバー払うわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19191,6 +19215,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll do it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T050758Z" creationid="Light" creationdate="20190406T050758Z">
+        <seg>やりましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll find someplace to recover, then I'll come running home singing your praises!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133123Z" creationid="Light" creationdate="20190405T133123Z">
@@ -23176,6 +23208,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130210Z" creationid="rkmad" creationdate="20190404T091905Z">
         <seg>あなたの先祖が、その行いをどうか見守っていてくださいますように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe I'll tell you later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T050838Z" creationid="Light" creationdate="20190406T050838Z">
+        <seg>後で教えてあげるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33049,6 +33089,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sounds like an adventure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T045920Z" creationid="Light" creationdate="20190406T045920Z">
+        <seg>冒険の匂いがします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Speak to Rissa Aberdeen, in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T093354Z" creationid="Light" creationdate="20190404T133533Z">
@@ -36747,6 +36795,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That sounds like a terrible idea.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T045839Z" creationid="Light" creationdate="20190406T045839Z">
+        <seg>それは最悪です。私はやりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That was a close call, no?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042529Z" creationid="はぐくみ会" creationdate="20190403T235326Z">
@@ -36759,6 +36815,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091142Z" creationid="rkmad" creationdate="20190405T091142Z">
         <seg>それは分かっています。[PlayerName]、あなたは失敗しましたが、得たものもありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's a trade secret, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T050823Z" creationid="Light" creationdate="20190406T050823Z">
+        <seg>秘密よ 、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38152,6 +38216,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Troglodytes and deep dark caves?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T045805Z" creationid="Light" creationdate="20190406T045805Z">
+        <seg>暗い洞窟？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Troglodytes gather around a large stone pot over a fire, sometimes staring at you hungrily.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T011321Z" creationid="はぐくみ会" creationdate="20190403T085428Z">
@@ -39421,6 +39493,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090753Z" creationid="rkmad" creationdate="20190404T090312Z">
         <seg>私がシエルゾを立ち去って二度と戻ってこない場合は？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What kind of properties does this mushroom have?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T045909Z" creationid="Light" creationdate="20190406T045909Z">
+        <seg>そのキノコはどういう特徴がありますか？</seg>
       </tuv>
     </tu>
     <tu>
