@@ -21831,6 +21831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're certain, then I suppose we will have to let him go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T080352Z" creationid="pugnus" creationdate="20190406T080352Z">
+        <seg>もしあなたが確信しているならば、私は、私達が、あなたを行かせる必要があると思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you're near civilization, a night at the inn will take care of your needs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T062528Z" creationid="Light" creationdate="20190406T062528Z">
@@ -43604,6 +43612,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
         <seg>今日はもう調理の必要はないな。ほら、お前も仕事に戻れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have much to do as it stands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T080457Z" creationid="pugnus" creationdate="20190406T080457Z">
+        <seg>私たちは手が離せない。</seg>
       </tuv>
     </tu>
     <tu>
