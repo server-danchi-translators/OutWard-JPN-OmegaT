@@ -8504,8 +8504,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Take the road to the south east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014531Z" creationid="weedssoul" creationdate="20190406T014531Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Chersoneseの南東の道を進みなさい。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130700Z" creationid="weedssoul" creationdate="20190406T014531Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;チェルソネスの南東の道を進みなさい。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8520,8 +8520,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;The road you need to take to reach the marsh is in the east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190406T114036Z" creationid="Mad" creationdate="20190406T114036Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;湿地はチェルソネシスから東&lt;/b&gt;&lt;/color&gt;にあるわ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130426Z" creationid="Mad" creationdate="20190406T114036Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;湿地はから東&lt;/b&gt;&lt;/color&gt;にあるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11780,8 +11780,8 @@
       <tuv lang="EN-US">
         <seg>Business is slow for me whenever that Soroborean caravan comes in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T122029Z" creationid="weedssoul" creationdate="20190406T121917Z">
-        <seg>あのSoroboreanの隊商が来ると、いつも売上が下がる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130120Z" creationid="weedssoul" creationdate="20190406T121917Z">
+        <seg>あのソロボレアンの商人が来ると、いつも売上が下がる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12893,16 +12893,16 @@
       <tuv lang="EN-US">
         <seg>Chersonese</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115005Z" creationid="Gaiden Shinji" creationdate="20190403T115005Z">
-        <seg>チェルソネシス</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130426Z" creationid="Gaiden Shinji" creationdate="20190403T115005Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Chersonese Misc.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112116Z" creationid="Gaiden Shinji" creationdate="20190403T114810Z">
-        <seg>チェルソネシス周辺</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130426Z" creationid="Gaiden Shinji" creationdate="20190403T114810Z">
+        <seg>周辺</seg>
       </tuv>
     </tu>
     <tu>
@@ -20623,8 +20623,8 @@
       <tuv lang="EN-US">
         <seg>Hello there [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T071212Z" creationid="weedssoul" creationdate="20190406T063653Z">
-        <seg>やぁ、 [PlayerName]。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T125502Z" creationid="weedssoul" creationdate="20190406T063653Z">
+        <seg>やぁ、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20831,8 +20831,8 @@
       <tuv lang="EN-US">
         <seg>Hey, nice seeing you, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T160712Z" creationid="Light" creationdate="20190405T160712Z">
-        <seg>やぁ、 [PlayerName]。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T125506Z" creationid="Light" creationdate="20190405T160712Z">
+        <seg>やぁ、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25029,8 +25029,8 @@
       <tuv lang="EN-US">
         <seg>It’s also possible that some survivors of the wreck washed up on a beach further out in the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T054940Z" creationid="Light" creationdate="20190406T054940Z">
-        <seg>もしかしたら難破船から流されてChersoneseに打ち上げられてる生存者がいるかも知れない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130632Z" creationid="Light" creationdate="20190406T054940Z">
+        <seg>もしかしたら難破船から流されてチェルソネスに打ち上げられてる生存者がいるかも知れない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29915,6 +29915,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061957Z" creationid="setom" creationdate="20190402T061957Z">
         <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oda, Kazite Trainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T125438Z" creationid="Light" creationdate="20190406T125438Z">
+        <seg>カザイトトレーナー織田</seg>
       </tuv>
     </tu>
     <tu>
@@ -42814,8 +42822,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Chersonese has game animals and plenty of trees for wood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T042230Z" creationid="weedssoul" creationdate="20190406T042230Z">
-        <seg>Chersoneseには、狩猟動物や木材のとれる豊富な木がある。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130708Z" creationid="weedssoul" creationdate="20190406T042230Z">
+        <seg>チェルソネスには、狩猟動物や木材のとれる豊富な木がある。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43153,8 +43161,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The large purple mountain in the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T121831Z" creationid="Light" creationdate="20190406T121831Z">
-        <seg>チェルソネシスの大きな紫色の山よ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130426Z" creationid="Light" creationdate="20190406T121831Z">
+        <seg>の大きな紫色の山よ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45979,8 +45987,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What can you tell me about the Chersonese Region?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T060249Z" creationid="Light" creationdate="20190406T060249Z">
-        <seg>Chersonese地方について知りたい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130723Z" creationid="Light" creationdate="20190406T060249Z">
+        <seg>チェルソネス地方について知りたい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47196,6 +47204,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074823Z" creationid="weedssoul" creationdate="20190406T074823Z">
         <seg>川の水を沸かすことで、病気にかからない綺麗な水にすることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can gather all the ingredients on the beach in the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T130426Z" creationid="Light" creationdate="20190406T130234Z">
+        <seg>のビーチですべての食材を集めることができるよ。</seg>
       </tuv>
     </tu>
     <tu>
