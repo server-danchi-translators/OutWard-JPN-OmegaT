@@ -11027,8 +11027,8 @@
       <tuv lang="EN-US">
         <seg>Be mindful of the weather and climate you travel in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T062820Z" creationid="Light" creationdate="20190406T062727Z">
-        <seg>気候や天気には気を配ったほうが良い、旅をするときはね。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071358Z" creationid="Light" creationdate="20190406T062727Z">
+        <seg>旅をするときは気候や天気に気を配ったほうが良いね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20417,8 +20417,8 @@
       <tuv lang="EN-US">
         <seg>Hunger, thirst and exhaustion are persistent foes, so eat and drink when you need to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T062216Z" creationid="Light" creationdate="20190406T062216Z">
-        <seg>飢え、渇き、それから疲労というのが、わかりやすい例だな。だから必要に応じて飲んだり食べたりするんだな。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071315Z" creationid="Light" creationdate="20190406T062216Z">
+        <seg>飢え、渇き、それから疲労というのが、わかりやすい例だな。だから必要に応じて飲んだり食べたりするんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24246,8 +24246,8 @@
       <tuv lang="EN-US">
         <seg>Keep a good supply of arrows equipped, and craft more arrows if you run low.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064836Z" creationid="weedssoul" creationdate="20190406T064836Z">
-        <seg>常に矢を補充し、足りなくなったら作成するんだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071452Z" creationid="weedssoul" creationdate="20190406T064836Z">
+        <seg>常に矢を補充し、足りなくなったら作成するんだぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26976,6 +26976,78 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T123217Z" creationid="setom" creationdate="20190401T123217Z">
         <seg>欲求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071253Z" creationid="seto" creationdate="20190406T071253Z">
+        <seg>Needs_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071255Z" creationid="seto" creationdate="20190406T071255Z">
+        <seg>Needs_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071258Z" creationid="seto" creationdate="20190406T071258Z">
+        <seg>Needs_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071301Z" creationid="seto" creationdate="20190406T071301Z">
+        <seg>Needs_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071320Z" creationid="seto" creationdate="20190406T071320Z">
+        <seg>Needs_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071321Z" creationid="seto" creationdate="20190406T071321Z">
+        <seg>Needs_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071325Z" creationid="seto" creationdate="20190406T071325Z">
+        <seg>Needs_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071412Z" creationid="seto" creationdate="20190406T071412Z">
+        <seg>Needs_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071415Z" creationid="seto" creationdate="20190406T071415Z">
+        <seg>Needs_tutorial_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -31711,6 +31783,86 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_needs_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071252Z" creationid="seto" creationdate="20190406T071252Z">
+        <seg>Player_needs_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_needs_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071254Z" creationid="seto" creationdate="20190406T071254Z">
+        <seg>Player_needs_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_needs_tutorial_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071300Z" creationid="seto" creationdate="20190406T071300Z">
+        <seg>Player_needs_tutorial_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_needs_tutorial_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071323Z" creationid="seto" creationdate="20190406T071323Z">
+        <seg>Player_needs_tutorial_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_smith_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071415Z" creationid="seto" creationdate="20190406T071415Z">
+        <seg>Player_smith_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_smith_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071424Z" creationid="seto" creationdate="20190406T071424Z">
+        <seg>Player_smith_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_smith_tutorial_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071441Z" creationid="seto" creationdate="20190406T071441Z">
+        <seg>Player_smith_tutorial_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_smith_tutorial_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071454Z" creationid="seto" creationdate="20190406T071454Z">
+        <seg>Player_smith_tutorial_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_smith_tutorial_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071457Z" creationid="seto" creationdate="20190406T071457Z">
+        <seg>Player_smith_tutorial_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_wizard_tutorial_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071250Z" creationid="seto" creationdate="20190406T071250Z">
+        <seg>Player_wizard_tutorial_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please find him, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T182532Z" creationid="magur0w" creationdate="20190404T182532Z">
@@ -32177,8 +32329,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Quite a lot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064414Z" creationid="weedssoul" creationdate="20190406T064414Z">
-        <seg>たくさんある。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071423Z" creationid="weedssoul" creationdate="20190406T064414Z">
+        <seg>たくさんあるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36533,6 +36685,62 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112617Z" creationid="Gaiden Shinji" creationdate="20190404T112617Z">
         <seg>スラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071416Z" creationid="seto" creationdate="20190406T071416Z">
+        <seg>Smith_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071426Z" creationid="seto" creationdate="20190406T071426Z">
+        <seg>Smith_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071442Z" creationid="seto" creationdate="20190406T071442Z">
+        <seg>Smith_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071444Z" creationid="seto" creationdate="20190406T071444Z">
+        <seg>Smith_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071455Z" creationid="seto" creationdate="20190406T071455Z">
+        <seg>Smith_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071458Z" creationid="seto" creationdate="20190406T071458Z">
+        <seg>Smith_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071507Z" creationid="seto" creationdate="20190406T071507Z">
+        <seg>Smith_tutorial_07</seg>
       </tuv>
     </tu>
     <tu>
@@ -43154,8 +43362,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapons that need two hands are often stronger and have superior reach, but one handed weapons allow you to carry trinkets like shields or lanterns in your off-hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071415Z" creationid="weedssoul" creationdate="20190406T064617Z">
-        <seg>両手武器は、一般的に威力高くでリーチも長い。一方で片手武器は、オフハンドとして、盾やランタンを装備することができる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071438Z" creationid="weedssoul" creationdate="20190406T064617Z">
+        <seg>両手武器は、一般的に威力が高くでリーチも長い。一方で片手武器は、左手に盾やランタンを装備することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43643,8 +43851,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When the cold rolls in, you should dress warmly and use campfires or torches for warmth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T062846Z" creationid="Light" creationdate="20190406T062816Z">
-        <seg>特に寒いときは、暖かい服を着てキャンプファイヤやトーチで暖を取ると良い。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071410Z" creationid="Light" creationdate="20190406T062816Z">
+        <seg>特に、寒いときは暖かい服を着てキャンプファイヤやトーチで暖を取ると良い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44024,6 +44232,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T011311Z" creationid="はぐくみ会" creationdate="20190403T085210Z">
         <seg>戦う力がなければ、Troglodytesがあなたを取り囲み、彼らの野蛮な言葉をさえずり、彼らの洞窟にあなたを運ぶ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071251Z" creationid="seto" creationdate="20190406T071251Z">
+        <seg>Wizard_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T071252Z" creationid="seto" creationdate="20190406T071252Z">
+        <seg>Wizard_tutorial_07</seg>
       </tuv>
     </tu>
     <tu>
