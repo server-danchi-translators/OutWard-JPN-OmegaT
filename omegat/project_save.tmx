@@ -21537,8 +21537,8 @@
       <tuv lang="EN-US">
         <seg>Impact Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134207Z" creationid="totochan" creationdate="20190403T134207Z">
-        <seg>耐打撃性[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062836Z" creationid="totochan" creationdate="20190403T134207Z">
+        <seg>打撃耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -24326,16 +24326,16 @@
       <tuv lang="EN-US">
         <seg>Lightning Damage and Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141831Z" creationid="totochan" creationdate="20190403T133625Z">
-        <seg>ライトニングへの耐性+[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T063004Z" creationid="totochan" creationdate="20190403T133625Z">
+        <seg>雷ダメージ&amp;耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Lightning Damage and Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135650Z" creationid="totochan" creationdate="20190403T135650Z">
-        <seg>ライトニングダメージと耐性[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062857Z" creationid="totochan" creationdate="20190403T135650Z">
+        <seg>雷ダメージ&amp;耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -29305,8 +29305,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical Defenses Up</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134617Z" creationid="totochan" creationdate="20190403T134617Z">
-        <seg>物理的防御上昇</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062924Z" creationid="totochan" creationdate="20190403T134617Z">
+        <seg>物理防御上昇</seg>
       </tuv>
     </tu>
     <tu>
@@ -29329,8 +29329,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical and Impact Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141955Z" creationid="totochan" creationdate="20190403T134558Z">
-        <seg>物理と打撃抵抗+[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062914Z" creationid="totochan" creationdate="20190403T134558Z">
+        <seg>物理&amp;打撃耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -40993,8 +40993,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This illness will kill you soon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135514Z" creationid="totochan" creationdate="20190403T135514Z">
-        <seg>病気は結局あなたを殺すでしょう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062808Z" creationid="totochan" creationdate="20190403T135514Z">
+        <seg>この病気はもうすぐあなたを死に至らしめます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45267,8 +45267,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[E1V1]% maximum health.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T135420Z" creationid="totochan" creationdate="20190403T135420Z">
-        <seg>E1V1]最大ヘルス%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T062353Z" creationid="totochan" creationdate="20190403T135420Z">
+        <seg>最大体力[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
