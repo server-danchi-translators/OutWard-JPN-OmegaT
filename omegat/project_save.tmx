@@ -3935,6 +3935,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ActionCategory_Actions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044510Z" creationid="seto" creationdate="20190406T044510Z">
+        <seg>ActionCategory_Actions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ActionCategory_Camera</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044511Z" creationid="seto" creationdate="20190406T044511Z">
+        <seg>ActionCategory_Camera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ActionCategory_QuickSlot</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091857Z" creationid="setom" creationdate="20190403T091857Z">
@@ -14447,6 +14463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InputAction_Aim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044512Z" creationid="seto" creationdate="20190406T044512Z">
+        <seg>InputAction_Aim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InputAction_Attack1</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091858Z" creationid="setom" creationdate="20190403T091858Z">
@@ -14455,10 +14479,226 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InputAction_Attack2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044514Z" creationid="seto" creationdate="20190406T044514Z">
+        <seg>InputAction_Attack2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_AutoRun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044514Z" creationid="seto" creationdate="20190406T044514Z">
+        <seg>InputAction_AutoRun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Block</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044516Z" creationid="seto" creationdate="20190406T044516Z">
+        <seg>InputAction_Block</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraHorizontal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044517Z" creationid="seto" creationdate="20190406T044517Z">
+        <seg>InputAction_CameraHorizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraHorizontalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044518Z" creationid="seto" creationdate="20190406T044518Z">
+        <seg>InputAction_CameraHorizontalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraHorizontalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044520Z" creationid="seto" creationdate="20190406T044520Z">
+        <seg>InputAction_CameraHorizontalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraVertical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044521Z" creationid="seto" creationdate="20190406T044521Z">
+        <seg>InputAction_CameraVertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraVerticalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044522Z" creationid="seto" creationdate="20190406T044522Z">
+        <seg>InputAction_CameraVerticalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CameraVerticalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044522Z" creationid="seto" creationdate="20190406T044522Z">
+        <seg>InputAction_CameraVerticalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CancelCharge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044523Z" creationid="seto" creationdate="20190406T044523Z">
+        <seg>InputAction_CancelCharge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_CancelDeploy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044524Z" creationid="seto" creationdate="20190406T044524Z">
+        <seg>InputAction_CancelDeploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ChargeWeapon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044525Z" creationid="seto" creationdate="20190406T044525Z">
+        <seg>InputAction_ChargeWeapon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_ConfirmDeploy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044527Z" creationid="seto" creationdate="20190406T044527Z">
+        <seg>InputAction_ConfirmDeploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InputAction_DialogueNext</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091903Z" creationid="setom" creationdate="20190403T091903Z">
         <seg>InputAction_DialogueNext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Dodge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044528Z" creationid="seto" creationdate="20190406T044528Z">
+        <seg>InputAction_Dodge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_DragCorpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044529Z" creationid="seto" creationdate="20190406T044529Z">
+        <seg>InputAction_DragCorpse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_HandleBag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044530Z" creationid="seto" creationdate="20190406T044530Z">
+        <seg>InputAction_HandleBag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_Interact</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044531Z" creationid="seto" creationdate="20190406T044531Z">
+        <seg>InputAction_Interact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_LockHold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044532Z" creationid="seto" creationdate="20190406T044532Z">
+        <seg>InputAction_LockHold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_LockToggle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044533Z" creationid="seto" creationdate="20190406T044533Z">
+        <seg>InputAction_LockToggle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveHorizontal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044533Z" creationid="seto" creationdate="20190406T044533Z">
+        <seg>InputAction_MoveHorizontal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveHorizontalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044534Z" creationid="seto" creationdate="20190406T044534Z">
+        <seg>InputAction_MoveHorizontalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveHorizontalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044534Z" creationid="seto" creationdate="20190406T044534Z">
+        <seg>InputAction_MoveHorizontalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveVertical</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044535Z" creationid="seto" creationdate="20190406T044535Z">
+        <seg>InputAction_MoveVertical</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveVerticalFull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044536Z" creationid="seto" creationdate="20190406T044536Z">
+        <seg>InputAction_MoveVerticalFull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_MoveVerticalNeg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044536Z" creationid="seto" creationdate="20190406T044536Z">
+        <seg>InputAction_MoveVerticalNeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QS_Instant1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044537Z" creationid="seto" creationdate="20190406T044537Z">
+        <seg>InputAction_QS_Instant1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InputAction_QS_Instant2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044538Z" creationid="seto" creationdate="20190406T044538Z">
+        <seg>InputAction_QS_Instant2</seg>
       </tuv>
     </tu>
     <tu>
@@ -27762,6 +28002,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_Ghost_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044506Z" creationid="seto" creationdate="20190406T044506Z">
+        <seg>StatusEffect_Ghost_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Ghost_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044505Z" creationid="seto" creationdate="20190406T044505Z">
+        <seg>StatusEffect_Ghost_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_HallowedMarshPoisonLvl1_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044204Z" creationid="seto" creationdate="20190406T044204Z">
@@ -27954,6 +28210,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BloodBulletImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044502Z" creationid="seto" creationdate="20190406T044502Z">
+        <seg>StatusEffect_Imbue_BloodBulletImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_BloodBulletImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044501Z" creationid="seto" creationdate="20190406T044501Z">
+        <seg>StatusEffect_Imbue_BloodBulletImbue_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>StatusEffect_Imbue_BoltImbue1_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044440Z" creationid="seto" creationdate="20190406T044440Z">
@@ -27966,6 +28238,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044439Z" creationid="seto" creationdate="20190406T044439Z">
         <seg>StatusEffect_Imbue_BoltImbue1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_DarkImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044451Z" creationid="seto" creationdate="20190406T044451Z">
+        <seg>StatusEffect_Imbue_DarkImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_DarkImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044450Z" creationid="seto" creationdate="20190406T044450Z">
+        <seg>StatusEffect_Imbue_DarkImbue_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -28014,6 +28302,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044433Z" creationid="seto" creationdate="20190406T044433Z">
         <seg>StatusEffect_Imbue_FireImbue3_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FrostBulletImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044500Z" creationid="seto" creationdate="20190406T044500Z">
+        <seg>StatusEffect_Imbue_FrostBulletImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_FrostBulletImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044500Z" creationid="seto" creationdate="20190406T044500Z">
+        <seg>StatusEffect_Imbue_FrostBulletImbue_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -28094,6 +28398,102 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044427Z" creationid="seto" creationdate="20190406T044427Z">
         <seg>StatusEffect_Imbue_PoisonImbue2_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShattertBulletImbue_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044503Z" creationid="seto" creationdate="20190406T044503Z">
+        <seg>StatusEffect_Imbue_ShattertBulletImbue_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShattertBulletImbue_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044503Z" creationid="seto" creationdate="20190406T044503Z">
+        <seg>StatusEffect_Imbue_ShattertBulletImbue_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbDecay_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044453Z" creationid="seto" creationdate="20190406T044453Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbDecay_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbDecay_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044452Z" creationid="seto" creationdate="20190406T044452Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbDecay_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbEthereal_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044454Z" creationid="seto" creationdate="20190406T044454Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbEthereal_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbEthereal_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044454Z" creationid="seto" creationdate="20190406T044454Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbEthereal_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbFire_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044456Z" creationid="seto" creationdate="20190406T044456Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbFire_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbFire_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044455Z" creationid="seto" creationdate="20190406T044455Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbFire_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbIce_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044457Z" creationid="seto" creationdate="20190406T044457Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbIce_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbIce_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044457Z" creationid="seto" creationdate="20190406T044457Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbIce_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbLightning_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044459Z" creationid="seto" creationdate="20190406T044459Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbLightning_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_Imbue_ShieldAbsorbLightning_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044458Z" creationid="seto" creationdate="20190406T044458Z">
+        <seg>StatusEffect_Imbue_ShieldAbsorbLightning_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -28574,6 +28974,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044311Z" creationid="seto" creationdate="20190406T044311Z">
         <seg>StatusEffect_RunicProtection_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_RunicTrap_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044507Z" creationid="seto" creationdate="20190406T044507Z">
+        <seg>StatusEffect_RunicTrap_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>StatusEffect_RunicTrap_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044506Z" creationid="seto" creationdate="20190406T044506Z">
+        <seg>StatusEffect_RunicTrap_Name</seg>
       </tuv>
     </tu>
     <tu>
