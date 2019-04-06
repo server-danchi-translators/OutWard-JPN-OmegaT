@@ -21850,6 +21850,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suddenly, a blast of light fills the room, and you see Oliele’s blade cut through your attackers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T004248Z" creationid="pugnus" creationdate="20190406T004248Z">
+        <seg>突然、光の爆風が部屋を充填する。そして、あなたはOliele の刃が、腐敗する幽霊達を突っ切って進むのを見る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suddenly, a noise echoes in the cave and the monsters freeze.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042207Z" creationid="はぐくみ会" creationdate="20190403T085527Z">
