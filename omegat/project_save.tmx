@@ -1806,10 +1806,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044911Z" creationid="seto" creationdate="20190406T044911Z">
+        <seg>25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>25 – Final Advice on Temperatures</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094754Z" creationid="setom" creationdate="20190402T094754Z">
         <seg>25 – 温度に関する最後の助言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044915Z" creationid="seto" creationdate="20190406T044915Z">
+        <seg>26</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1842,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095759Z" creationid="setom" creationdate="20190402T095759Z">
         <seg>27 – ランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044908Z" creationid="seto" creationdate="20190406T044908Z">
+        <seg>28</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2786,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044850Z" creationid="seto" creationdate="20190406T044850Z">
         <seg>62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>68</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044919Z" creationid="seto" creationdate="20190406T044919Z">
+        <seg>68</seg>
       </tuv>
     </tu>
     <tu>
@@ -3822,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045126Z" creationid="seto" creationdate="20190406T045126Z">
+        <seg>&lt;color=#EA9B31&gt;{1}%&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>???</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034057Z" creationid="seto" creationdate="20190406T034057Z">
@@ -4071,10 +4111,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ACandleSnuffedout_6_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044923Z" creationid="seto" creationdate="20190406T044923Z">
+        <seg>Achievement_ACandleSnuffedout_6_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_AFortressToppled_14_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044833Z" creationid="seto" creationdate="20190406T044833Z">
         <seg>Achievement_AFortressToppled_14_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_AFortressToppled_14_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044945Z" creationid="seto" creationdate="20190406T044945Z">
+        <seg>Achievement_AFortressToppled_14_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,10 +4143,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_AceDetective_9_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044941Z" creationid="seto" creationdate="20190406T044941Z">
+        <seg>Achievement_AceDetective_9_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_AncestorsPride_13_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044831Z" creationid="seto" creationdate="20190406T044831Z">
         <seg>Achievement_AncestorsPride_13_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_AncestorsPride_13_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044944Z" creationid="seto" creationdate="20190406T044944Z">
+        <seg>Achievement_AncestorsPride_13_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,10 +4175,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ApexPredator_27_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044954Z" creationid="seto" creationdate="20190406T044954Z">
+        <seg>Achievement_ApexPredator_27_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_BonesOfMyEnemy_44_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044917Z" creationid="seto" creationdate="20190406T044917Z">
+        <seg>Achievement_BonesOfMyEnemy_44_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_BonesOfMyEnemy_44_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045005Z" creationid="seto" creationdate="20190406T045005Z">
+        <seg>Achievement_BonesOfMyEnemy_44_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_CanadianHotel_33_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044958Z" creationid="seto" creationdate="20190406T044958Z">
+        <seg>Achievement_CanadianHotel_33_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_CircleofLife_40_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044912Z" creationid="seto" creationdate="20190406T044912Z">
+        <seg>Achievement_CircleofLife_40_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_CircleofLife_40_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045002Z" creationid="seto" creationdate="20190406T045002Z">
+        <seg>Achievement_CircleofLife_40_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_CordonBleu_28_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044855Z" creationid="seto" creationdate="20190406T044855Z">
         <seg>Achievement_CordonBleu_28_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_CordonBleu_28_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044954Z" creationid="seto" creationdate="20190406T044954Z">
+        <seg>Achievement_CordonBleu_28_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4119,10 +4247,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_Damagecontrol_10_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044942Z" creationid="seto" creationdate="20190406T044942Z">
+        <seg>Achievement_Damagecontrol_10_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_DesertJustice_16_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044946Z" creationid="seto" creationdate="20190406T044946Z">
+        <seg>Achievement_DesertJustice_16_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Encyclopedic_30_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044956Z" creationid="seto" creationdate="20190406T044956Z">
+        <seg>Achievement_Encyclopedic_30_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_Eureka_23_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044848Z" creationid="seto" creationdate="20190406T044848Z">
         <seg>Achievement_Eureka_23_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Eureka_23_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044951Z" creationid="seto" creationdate="20190406T044951Z">
+        <seg>Achievement_Eureka_23_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4135,10 +4295,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ExceptionalSkill_24_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044952Z" creationid="seto" creationdate="20190406T044952Z">
+        <seg>Achievement_ExceptionalSkill_24_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_FoodfortheHungry_17_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044947Z" creationid="seto" creationdate="20190406T044947Z">
+        <seg>Achievement_FoodfortheHungry_17_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_ForAllAurai_8_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044825Z" creationid="seto" creationdate="20190406T044825Z">
         <seg>Achievement_ForAllAurai_8_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ForAllAurai_8_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044940Z" creationid="seto" creationdate="20190406T044940Z">
+        <seg>Achievement_ForAllAurai_8_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4151,10 +4335,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_FreshOfftheBoat_1_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044919Z" creationid="seto" creationdate="20190406T044919Z">
+        <seg>Achievement_FreshOfftheBoat_1_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_GiftfromtheAncestors_34_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044958Z" creationid="seto" creationdate="20190406T044958Z">
+        <seg>Achievement_GiftfromtheAncestors_34_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HoldmyMeadandWatchThis_43_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044916Z" creationid="seto" creationdate="20190406T044916Z">
+        <seg>Achievement_HoldmyMeadandWatchThis_43_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HoldmyMeadandWatchThis_43_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045004Z" creationid="seto" creationdate="20190406T045004Z">
+        <seg>Achievement_HoldmyMeadandWatchThis_43_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_HomeSweetHome_25_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044851Z" creationid="seto" creationdate="20190406T044851Z">
         <seg>Achievement_HomeSweetHome_25_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HomeSweetHome_25_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044952Z" creationid="seto" creationdate="20190406T044952Z">
+        <seg>Achievement_HomeSweetHome_25_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HookLineandHarpoon_36_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045000Z" creationid="seto" creationdate="20190406T045000Z">
+        <seg>Achievement_HookLineandHarpoon_36_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_HouseofCards_19_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044948Z" creationid="seto" creationdate="20190406T044948Z">
+        <seg>Achievement_HouseofCards_19_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4167,10 +4407,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_InsideJob_15_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044945Z" creationid="seto" creationdate="20190406T044945Z">
+        <seg>Achievement_InsideJob_15_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_LaidtoRest_12_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044831Z" creationid="seto" creationdate="20190406T044831Z">
         <seg>Achievement_LaidtoRest_12_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_LaidtoRest_12_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044943Z" creationid="seto" creationdate="20190406T044943Z">
+        <seg>Achievement_LaidtoRest_12_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_LightofLevant_18_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044947Z" creationid="seto" creationdate="20190406T044947Z">
+        <seg>Achievement_LightofLevant_18_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_MasterofAurai_20_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044949Z" creationid="seto" creationdate="20190406T044949Z">
+        <seg>Achievement_MasterofAurai_20_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Motherlode_37_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044907Z" creationid="seto" creationdate="20190406T044907Z">
+        <seg>Achievement_Motherlode_37_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Motherlode_37_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045000Z" creationid="seto" creationdate="20190406T045000Z">
+        <seg>Achievement_Motherlode_37_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_NeverSawitComing_32_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044957Z" creationid="seto" creationdate="20190406T044957Z">
+        <seg>Achievement_NeverSawitComing_32_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4183,10 +4479,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_OriginStory_7_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044924Z" creationid="seto" creationdate="20190406T044924Z">
+        <seg>Achievement_OriginStory_7_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_PerfectDefense_31_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044956Z" creationid="seto" creationdate="20190406T044956Z">
+        <seg>Achievement_PerfectDefense_31_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_PutitOut_38_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044909Z" creationid="seto" creationdate="20190406T044909Z">
+        <seg>Achievement_PutitOut_38_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_PutitOut_38_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045001Z" creationid="seto" creationdate="20190406T045001Z">
+        <seg>Achievement_PutitOut_38_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ReadyforSummer_41_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044913Z" creationid="seto" creationdate="20190406T044913Z">
+        <seg>Achievement_ReadyforSummer_41_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ReadyforSummer_41_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045003Z" creationid="seto" creationdate="20190406T045003Z">
+        <seg>Achievement_ReadyforSummer_41_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ReadyforWinter_42_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044914Z" creationid="seto" creationdate="20190406T044914Z">
+        <seg>Achievement_ReadyforWinter_42_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ReadyforWinter_42_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045004Z" creationid="seto" creationdate="20190406T045004Z">
+        <seg>Achievement_ReadyforWinter_42_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_SayHellotomyBigFriend_11_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044829Z" creationid="seto" creationdate="20190406T044829Z">
         <seg>Achievement_SayHellotomyBigFriend_11_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_SayHellotomyBigFriend_11_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044942Z" creationid="seto" creationdate="20190406T044942Z">
+        <seg>Achievement_SayHellotomyBigFriend_11_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,10 +4567,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ScienceTroglodyte_29_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044955Z" creationid="seto" creationdate="20190406T044955Z">
+        <seg>Achievement_ScienceTroglodyte_29_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_ScourgeSlayer_26_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044852Z" creationid="seto" creationdate="20190406T044852Z">
         <seg>Achievement_ScourgeSlayer_26_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ScourgeSlayer_26_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044953Z" creationid="seto" creationdate="20190406T044953Z">
+        <seg>Achievement_ScourgeSlayer_26_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_TakemyHand_39_Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044910Z" creationid="seto" creationdate="20190406T044910Z">
+        <seg>Achievement_TakemyHand_39_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_TakemyHand_39_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045002Z" creationid="seto" creationdate="20190406T045002Z">
+        <seg>Achievement_TakemyHand_39_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4215,10 +4615,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_Tapped_22_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044950Z" creationid="seto" creationdate="20190406T044950Z">
+        <seg>Achievement_Tapped_22_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_Tearsoflight_5_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044820Z" creationid="seto" creationdate="20190406T044820Z">
         <seg>Achievement_Tearsoflight_5_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_Tearsoflight_5_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044922Z" creationid="seto" creationdate="20190406T044922Z">
+        <seg>Achievement_Tearsoflight_5_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4231,10 +4647,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFaith_4_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044921Z" creationid="seto" creationdate="20190406T044921Z">
+        <seg>Achievement_ThePowerofFaith_4_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_ThePowerofFamily_2_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044759Z" creationid="seto" creationdate="20190406T044759Z">
         <seg>Achievement_ThePowerofFamily_2_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFamily_2_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044920Z" creationid="seto" creationdate="20190406T044920Z">
+        <seg>Achievement_ThePowerofFamily_2_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -4247,10 +4679,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Achievement_ThePowerofFreedom_3_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044921Z" creationid="seto" creationdate="20190406T044921Z">
+        <seg>Achievement_ThePowerofFreedom_3_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_TheyllTellStoriesAboutThis_35_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044959Z" creationid="seto" creationdate="20190406T044959Z">
+        <seg>Achievement_TheyllTellStoriesAboutThis_35_Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_VentureOutward_21_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044845Z" creationid="seto" creationdate="20190406T044845Z">
         <seg>Achievement_VentureOutward_21_Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Achievement_VentureOutward_21_Name</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T044949Z" creationid="seto" creationdate="20190406T044949Z">
+        <seg>Achievement_VentureOutward_21_Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -6006,6 +6462,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112521Z" creationid="setom" creationdate="20190331T112453Z">
         <seg>遠距離攻撃に弓は最も基本的な手段だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bread</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045205Z" creationid="seto" creationdate="20190406T045205Z">
+        <seg>パン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10564,6 +11028,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Egg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045202Z" creationid="seto" creationdate="20190406T045202Z">
+        <seg>卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190331T112035Z" creationid="setom" creationdate="20190331T112035Z">
@@ -13705,6 +14177,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120103Z" creationid="Gaiden Shinji" creationdate="20190404T120103Z">
         <seg>隠されたレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045057Z" creationid="seto" creationdate="20190406T045057Z">
+        <seg>High</seg>
       </tuv>
     </tu>
     <tu>
@@ -18060,6 +18540,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045059Z" creationid="seto" creationdate="20190406T045059Z">
+        <seg>Low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lowers the weapon’s durability by 6%.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T023136Z" creationid="pugnus" creationdate="20190406T023136Z">
@@ -18364,6 +18852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045154Z" creationid="seto" creationdate="20190406T045154Z">
+        <seg>肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Medic_Vendavel_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115123Z" creationid="seto" creationdate="20190404T115123Z">
@@ -18416,6 +18912,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115133Z" creationid="seto" creationdate="20190404T115133Z">
         <seg>Medic_Vendavel_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045100Z" creationid="seto" creationdate="20190406T045100Z">
+        <seg>Medium</seg>
       </tuv>
     </tu>
     <tu>
@@ -20975,6 +21479,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045117Z" creationid="seto" creationdate="20190406T045117Z">
+        <seg>Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off Hand</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095441Z" creationid="setom" creationdate="20190401T122743Z">
@@ -21155,6 +21667,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115319Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
         <seg>オリエールのフォロワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045118Z" creationid="seto" creationdate="20190406T045118Z">
+        <seg>On</seg>
       </tuv>
     </tu>
     <tu>
@@ -23447,6 +23967,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potato</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045101Z" creationid="seto" creationdate="20190406T045101Z">
+        <seg>Potato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potion which instantly heals some wounds.</seg>
       </tuv>
       <tuv lang="JA" changeid="VAKA" changedate="20190405T133833Z" creationid="VAKA" creationdate="20190405T133833Z">
@@ -23835,6 +24363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115355Z" creationid="Gaiden Shinji" creationdate="20190404T115355Z">
         <seg>ラスタテ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ration Ingredient</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045230Z" creationid="seto" creationdate="20190406T045230Z">
+        <seg>糧食材</seg>
       </tuv>
     </tu>
     <tu>
@@ -25916,6 +26452,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
         <seg>SS シャドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SSAO</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045112Z" creationid="seto" creationdate="20190406T045112Z">
+        <seg>SSAO</seg>
       </tuv>
     </tu>
     <tu>
@@ -33008,6 +33552,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ultra</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045120Z" creationid="seto" creationdate="20190406T045120Z">
+        <seg>Ultra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unconsciousness comes quickly, and you dream of being ensnared in something.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012111Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
@@ -33084,6 +33636,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021151Z" creationid="hiru4" creationdate="20190402T021151Z">
         <seg>重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045138Z" creationid="seto" creationdate="20190406T045138Z">
+        <seg>Unknown</seg>
       </tuv>
     </tu>
     <tu>
@@ -33240,6 +33800,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vegetable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045156Z" creationid="seto" creationdate="20190406T045156Z">
+        <seg>野菜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vendavel Fortress</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114500Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
@@ -33296,6 +33864,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very High</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045102Z" creationid="seto" creationdate="20190406T045102Z">
+        <seg>Very High</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Very Hot</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114101Z" creationid="setom" creationdate="20190401T114101Z">
@@ -33308,6 +33884,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114022Z" creationid="setom" creationdate="20190401T114022Z">
         <seg>とても空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very Low</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045059Z" creationid="seto" creationdate="20190406T045059Z">
+        <seg>Very Low</seg>
       </tuv>
     </tu>
     <tu>
@@ -33652,6 +34236,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033511Z" creationid="seto" creationdate="20190406T033511Z">
         <seg>Warp_Monsoon_Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045159Z" creationid="seto" creationdate="20190406T045159Z">
+        <seg>水</seg>
       </tuv>
     </tu>
     <tu>
@@ -34617,6 +35209,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114055Z" creationid="Gaiden Shinji" creationdate="20190403T114055Z">
         <seg>イエローコパール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T045038Z" creationid="seto" creationdate="20190406T045038Z">
+        <seg>Yes</seg>
       </tuv>
     </tu>
     <tu>
