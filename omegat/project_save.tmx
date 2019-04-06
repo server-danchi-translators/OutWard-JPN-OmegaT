@@ -31249,10 +31249,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_bergguard_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034027Z" creationid="seto" creationdate="20190406T034027Z">
+        <seg>name_unpc_bergguard_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_berginnkeeper_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033907Z" creationid="seto" creationdate="20190406T033907Z">
         <seg>name_unpc_berginnkeeper_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_bluechamberscout_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034028Z" creationid="seto" creationdate="20190406T034028Z">
+        <seg>name_unpc_bluechamberscout_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -31321,6 +31337,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_cluenote_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034017Z" creationid="seto" creationdate="20190406T034017Z">
+        <seg>name_unpc_cluenote_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_cookvendavel_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033912Z" creationid="seto" creationdate="20190406T033912Z">
@@ -31333,6 +31357,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033913Z" creationid="seto" creationdate="20190406T033913Z">
         <seg>name_unpc_corruptedbaron_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_cremeuhayere_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034021Z" creationid="seto" creationdate="20190406T034021Z">
+        <seg>name_unpc_cremeuhayere_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -31425,6 +31457,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_giantbook_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034023Z" creationid="seto" creationdate="20190406T034023Z">
+        <seg>name_unpc_giantbook_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_giantcorpse_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034019Z" creationid="seto" creationdate="20190406T034019Z">
+        <seg>name_unpc_giantcorpse_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_helenturnbull_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033922Z" creationid="seto" creationdate="20190406T033922Z">
@@ -31445,6 +31493,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033923Z" creationid="seto" creationdate="20190406T033923Z">
         <seg>name_unpc_highlordcyr_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_immaculate_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034018Z" creationid="seto" creationdate="20190406T034018Z">
+        <seg>name_unpc_immaculate_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -31475,8 +31531,248 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>name_unpc_kingsman_01</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T033926Z" creationid="seto" creationdate="20190406T033926Z">
-        <seg>Sname_unpc_kingsman_01</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033930Z" creationid="seto" creationdate="20190406T033926Z">
+        <seg>name_unpc_kingsman_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_kirouac_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033931Z" creationid="seto" creationdate="20190406T033931Z">
+        <seg>name_unpc_kirouac_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_laineaberforth_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033932Z" creationid="seto" creationdate="20190406T033932Z">
+        <seg>name_unpc_laineaberforth_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_levantguard_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033933Z" creationid="seto" creationdate="20190406T033933Z">
+        <seg>name_unpc_levantguard_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_levantinagenta_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033934Z" creationid="seto" creationdate="20190406T033934Z">
+        <seg>name_unpc_levantinagenta_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_levantinagentb_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033934Z" creationid="seto" creationdate="20190406T033934Z">
+        <seg>name_unpc_levantinagentb_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_levantinnkeeper_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033935Z" creationid="seto" creationdate="20190406T033935Z">
+        <seg>name_unpc_levantinnkeeper_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_levantprincess_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033936Z" creationid="seto" creationdate="20190406T033936Z">
+        <seg>name_unpc_levantprincess_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_lostmerchant_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033936Z" creationid="seto" creationdate="20190406T033936Z">
+        <seg>name_unpc_lostmerchant_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_machine_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034019Z" creationid="seto" creationdate="20190406T034019Z">
+        <seg>name_unpc_machine_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_markus_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033938Z" creationid="seto" creationdate="20190406T033938Z">
+        <seg>name_unpc_markus_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_mathias_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033945Z" creationid="seto" creationdate="20190406T033945Z">
+        <seg>name_unpc_mathias_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_michelaberdeen_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033946Z" creationid="seto" creationdate="20190406T033946Z">
+        <seg>name_unpc_michelaberdeen_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_mofat_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033947Z" creationid="seto" creationdate="20190406T033947Z">
+        <seg>name_unpc_mofat_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_monsoonagent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033948Z" creationid="seto" creationdate="20190406T033948Z">
+        <seg>name_unpc_monsoonagent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_monsooninnkeeper_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033948Z" creationid="seto" creationdate="20190406T033948Z">
+        <seg>name_unpc_monsooninnkeeper_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_monsoonnovice_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033949Z" creationid="seto" creationdate="20190406T033949Z">
+        <seg>name_unpc_monsoonnovice_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_nursevendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033950Z" creationid="seto" creationdate="20190406T033950Z">
+        <seg>name_unpc_nursevendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_oldlevantpetitioner_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033950Z" creationid="seto" creationdate="20190406T033950Z">
+        <seg>name_unpc_oldlevantpetitioner_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_oliele_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033951Z" creationid="seto" creationdate="20190406T033951Z">
+        <seg>name_unpc_oliele_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_oliele_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033952Z" creationid="seto" creationdate="20190406T033952Z">
+        <seg>name_unpc_oliele_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_olielefollower_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033952Z" creationid="seto" creationdate="20190406T033952Z">
+        <seg>name_unpc_olielefollower_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_olielefollower_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033953Z" creationid="seto" creationdate="20190406T033953Z">
+        <seg>name_unpc_olielefollower_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_poorrepresent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033954Z" creationid="seto" creationdate="20190406T033954Z">
+        <seg>name_unpc_poorrepresent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_prisonkeeper_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033954Z" creationid="seto" creationdate="20190406T033954Z">
+        <seg>name_unpc_prisonkeeper_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_questgiver_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033955Z" creationid="seto" creationdate="20190406T033955Z">
+        <seg>name_unpc_questgiver_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_ramza_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033956Z" creationid="seto" creationdate="20190406T033956Z">
+        <seg>name_unpc_ramza_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rebelpriest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033956Z" creationid="seto" creationdate="20190406T033956Z">
+        <seg>name_unpc_rebelpriest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rebelpriest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033957Z" creationid="seto" creationdate="20190406T033957Z">
+        <seg>name_unpc_rebelpriest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rebelpriest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033958Z" creationid="seto" creationdate="20190406T033958Z">
+        <seg>name_unpc_rebelpriest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_researcher_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034020Z" creationid="seto" creationdate="20190406T034020Z">
+        <seg>name_unpc_researcher_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -31485,6 +31781,262 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033900Z" creationid="seto" creationdate="20190406T033900Z">
         <seg>name_unpc_rissaaberdeen_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rolandargenson_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033959Z" creationid="seto" creationdate="20190406T033959Z">
+        <seg>name_unpc_rolandargenson_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rospaconqueror_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033959Z" creationid="seto" creationdate="20190406T033959Z">
+        <seg>name_unpc_rospaconqueror_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_rufus_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034000Z" creationid="seto" creationdate="20190406T034000Z">
+        <seg>name_unpc_rufus_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_sagardbattleborn_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034001Z" creationid="seto" creationdate="20190406T034001Z">
+        <seg>name_unpc_sagardbattleborn_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_sandcorsairguard_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034001Z" creationid="seto" creationdate="20190406T034001Z">
+        <seg>name_unpc_sandcorsairguard_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_sandcorsairscout_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034002Z" creationid="seto" creationdate="20190406T034002Z">
+        <seg>name_unpc_sandcorsairscout_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_simeon_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034002Z" creationid="seto" creationdate="20190406T034002Z">
+        <seg>name_unpc_simeon_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_soeran_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034003Z" creationid="seto" creationdate="20190406T034003Z">
+        <seg>name_unpc_soeran_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_taleron_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034004Z" creationid="seto" creationdate="20190406T034004Z">
+        <seg>name_unpc_taleron_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vanassetomb_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034004Z" creationid="seto" creationdate="20190406T034004Z">
+        <seg>name_unpc_vanassetomb_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_varaon_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034005Z" creationid="seto" creationdate="20190406T034005Z">
+        <seg>name_unpc_varaon_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelprisoner_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034006Z" creationid="seto" creationdate="20190406T034006Z">
+        <seg>name_unpc_vendavelprisoner_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelprisoner_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034007Z" creationid="seto" creationdate="20190406T034007Z">
+        <seg>name_unpc_vendavelprisoner_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelprisoner_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034007Z" creationid="seto" creationdate="20190406T034007Z">
+        <seg>name_unpc_vendavelprisoner_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelprisoner_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034008Z" creationid="seto" creationdate="20190406T034008Z">
+        <seg>name_unpc_vendavelprisoner_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelslave_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034008Z" creationid="seto" creationdate="20190406T034008Z">
+        <seg>name_unpc_vendavelslave_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vendavelwitch_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034020Z" creationid="seto" creationdate="20190406T034020Z">
+        <seg>name_unpc_vendavelwitch_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_vigildolmen_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034009Z" creationid="seto" creationdate="20190406T034009Z">
+        <seg>name_unpc_vigildolmen_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_watcher_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034010Z" creationid="seto" creationdate="20190406T034010Z">
+        <seg>name_unpc_watcher_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_watcher_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034010Z" creationid="seto" creationdate="20190406T034010Z">
+        <seg>name_unpc_watcher_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_watcher_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034011Z" creationid="seto" creationdate="20190406T034011Z">
+        <seg>name_unpc_watcher_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_watcher_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034012Z" creationid="seto" creationdate="20190406T034012Z">
+        <seg>name_unpc_watcher_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_watcher_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034012Z" creationid="seto" creationdate="20190406T034012Z">
+        <seg>name_unpc_watcher_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_wendigoprison_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034022Z" creationid="seto" creationdate="20190406T034022Z">
+        <seg>name_unpc_wendigoprison_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_whisperingbones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034027Z" creationid="seto" creationdate="20190406T034027Z">
+        <seg>name_unpc_whisperingbones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_wolfbrother_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034013Z" creationid="seto" creationdate="20190406T034013Z">
+        <seg>name_unpc_wolfbrother_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_yzanargenson_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034014Z" creationid="seto" creationdate="20190406T034014Z">
+        <seg>name_unpc_yzanargenson_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_zagis_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034014Z" creationid="seto" creationdate="20190406T034014Z">
+        <seg>name_unpc_zagis_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_zephyrien_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034015Z" creationid="seto" creationdate="20190406T034015Z">
+        <seg>name_unpc_zephyrien_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_zigguratpassagesoldier_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034015Z" creationid="seto" creationdate="20190406T034015Z">
+        <seg>name_unpc_zigguratpassagesoldier_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_zigguratpassagesoldier_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034016Z" creationid="seto" creationdate="20190406T034016Z">
+        <seg>name_unpc_zigguratpassagesoldier_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_zigguratpassagesoldier_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T034017Z" creationid="seto" creationdate="20190406T034017Z">
+        <seg>name_unpc_zigguratpassagesoldier_03</seg>
       </tuv>
     </tu>
     <tu>
