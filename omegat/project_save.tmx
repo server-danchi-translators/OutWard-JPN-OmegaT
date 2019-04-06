@@ -20239,6 +20239,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I maintain my equipment durability?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065339Z" creationid="weedssoul" creationdate="20190406T065339Z">
+        <seg>装備の耐久度はどうやって管理すればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do I sneak around unseen?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T062048Z" creationid="weedssoul" creationdate="20190406T062048Z">
@@ -44280,6 +44288,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can still use a broken piece of equipment if you need to, but it will be far less effective than if it was well-maintained.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065509Z" creationid="weedssoul" creationdate="20190406T065509Z">
+        <seg>壊れた装備でも必要であれば使うことはできるが、メンテナンスされている状態よりも遥かに性能はさがる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can store any item you don’t want in the Stash chests found in homes.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115712Z" creationid="setom" creationdate="20190331T112556Z">
@@ -45212,6 +45228,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190405T234631Z" creationid="はぐくみ会" creationdate="20190403T061812Z">
         <seg>あなたは立ち上がろうとするが、再びあなたの意識は数分間消えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your equipment will be worn down with time and use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T065431Z" creationid="weedssoul" creationdate="20190406T065431Z">
+        <seg>装備は、時間や使用と共に摩耗していく。</seg>
       </tuv>
     </tu>
     <tu>
