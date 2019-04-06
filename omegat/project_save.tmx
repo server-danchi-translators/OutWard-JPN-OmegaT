@@ -6613,8 +6613,8 @@
       <tuv lang="EN-US">
         <seg>Craft Claymore</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113254Z" creationid="Gaiden Shinji" creationdate="20190404T113254Z">
-        <seg>クラフトクレイモア</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033629Z" creationid="Gaiden Shinji" creationdate="20190404T113254Z">
+        <seg>クレイモアを作る</seg>
       </tuv>
     </tu>
     <tu>
@@ -8326,8 +8326,8 @@
       <tuv lang="EN-US">
         <seg>Drag {1}</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112733Z" creationid="Gaiden Shinji" creationdate="20190404T112733Z">
-        <seg>{1}をドラッグ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033551Z" creationid="Gaiden Shinji" creationdate="20190404T112733Z">
+        <seg>{1}を引っ張る</seg>
       </tuv>
     </tu>
     <tu>
@@ -13223,6 +13223,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interaction_Area_Enter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033606Z" creationid="seto" creationdate="20190406T033606Z">
+        <seg>Interaction_Area_Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Area_Exit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033605Z" creationid="seto" creationdate="20190406T033605Z">
+        <seg>Interaction_Area_Exit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Area_GoTo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033607Z" creationid="seto" creationdate="20190406T033607Z">
+        <seg>Interaction_Area_GoTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Area_Rope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033609Z" creationid="seto" creationdate="20190406T033609Z">
+        <seg>Interaction_Area_Rope</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Area_Teleport</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033611Z" creationid="seto" creationdate="20190406T033611Z">
+        <seg>Interaction_Area_Teleport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Area_Travel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104903Z" creationid="setom" creationdate="20190402T104903Z">
@@ -13247,10 +13287,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interaction_Default</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033535Z" creationid="seto" creationdate="20190406T033535Z">
+        <seg>Interaction_Default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Enter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033535Z" creationid="seto" creationdate="20190406T033535Z">
+        <seg>Interaction_Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_ConfirmDeploy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033604Z" creationid="seto" creationdate="20190406T033604Z">
+        <seg>Interaction_Item_ConfirmDeploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Disassemble</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033556Z" creationid="seto" creationdate="20190406T033556Z">
+        <seg>Interaction_Item_Disassemble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_DisassembleTrap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033556Z" creationid="seto" creationdate="20190406T033556Z">
+        <seg>Interaction_Item_DisassembleTrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Equip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033601Z" creationid="seto" creationdate="20190406T033601Z">
+        <seg>Interaction_Item_Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Item_Gather</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104849Z" creationid="setom" creationdate="20190402T104849Z">
         <seg>Interaction_Item_Gather</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_GatherMining</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033603Z" creationid="seto" creationdate="20190406T033603Z">
+        <seg>Interaction_Item_GatherMining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Loot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033558Z" creationid="seto" creationdate="20190406T033558Z">
+        <seg>Interaction_Item_Loot</seg>
       </tuv>
     </tu>
     <tu>
@@ -13263,10 +13367,178 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interaction_Item_Read</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033600Z" creationid="seto" creationdate="20190406T033600Z">
+        <seg>Interaction_Item_Read</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interaction_Item_Take</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104844Z" creationid="setom" creationdate="20190402T104844Z">
         <seg>Interaction_Item_Take</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_TakeRoot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033609Z" creationid="seto" creationdate="20190406T033609Z">
+        <seg>Interaction_Item_TakeRoot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_TurnOff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033559Z" creationid="seto" creationdate="20190406T033559Z">
+        <seg>Interaction_Item_TurnOff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Item_Use</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033558Z" creationid="seto" creationdate="20190406T033558Z">
+        <seg>Interaction_Item_Use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftAxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033616Z" creationid="seto" creationdate="20190406T033616Z">
+        <seg>Interaction_LichReward_CraftAxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftAxe2H</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033617Z" creationid="seto" creationdate="20190406T033617Z">
+        <seg>Interaction_LichReward_CraftAxe2H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftHalberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033613Z" creationid="seto" creationdate="20190406T033613Z">
+        <seg>Interaction_LichReward_CraftHalberd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftMace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033614Z" creationid="seto" creationdate="20190406T033614Z">
+        <seg>Interaction_LichReward_CraftMace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftMace2H</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033615Z" creationid="seto" creationdate="20190406T033615Z">
+        <seg>Interaction_LichReward_CraftMace2H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftShield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033612Z" creationid="seto" creationdate="20190406T033612Z">
+        <seg>Interaction_LichReward_CraftShield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftSpear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033614Z" creationid="seto" creationdate="20190406T033614Z">
+        <seg>Interaction_LichReward_CraftSpear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftSword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033618Z" creationid="seto" creationdate="20190406T033618Z">
+        <seg>Interaction_LichReward_CraftSword</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_LichReward_CraftSword2H</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033619Z" creationid="seto" creationdate="20190406T033619Z">
+        <seg>Interaction_LichReward_CraftSword2H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_MoveCorpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033538Z" creationid="seto" creationdate="20190406T033538Z">
+        <seg>Interaction_MoveCorpse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_NPC_Base_NPCInteract</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033608Z" creationid="seto" creationdate="20190406T033608Z">
+        <seg>Interaction_NPC_Base_NPCInteract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_NPC_Base_Talk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033539Z" creationid="seto" creationdate="20190406T033539Z">
+        <seg>Interaction_NPC_Base_Talk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_NPC_Base_Trade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033553Z" creationid="seto" creationdate="20190406T033553Z">
+        <seg>Interaction_NPC_Base_Trade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_NPC_Short_Talk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033540Z" creationid="seto" creationdate="20190406T033540Z">
+        <seg>Interaction_NPC_Short_Talk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_NPC_Short_Trade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033554Z" creationid="seto" creationdate="20190406T033554Z">
+        <seg>Interaction_NPC_Short_Trade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Revive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033537Z" creationid="seto" creationdate="20190406T033537Z">
+        <seg>Interaction_Revive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Interaction_Skin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033537Z" creationid="seto" creationdate="20190406T033537Z">
+        <seg>Interaction_Skin</seg>
       </tuv>
     </tu>
     <tu>
@@ -15374,8 +15646,8 @@
       <tuv lang="EN-US">
         <seg>Merchant’s Promenade</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112506Z" creationid="Gaiden Shinji" creationdate="20190404T112506Z">
-        <seg>承認の遊歩道</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033522Z" creationid="Gaiden Shinji" creationdate="20190404T112506Z">
+        <seg>商人の遊歩道</seg>
       </tuv>
     </tu>
     <tu>
@@ -22872,6 +23144,182 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033432Z" creationid="seto" creationdate="20190406T033432Z">
+        <seg>Scene_Abrassar_Dungeon1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon1Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033433Z" creationid="seto" creationdate="20190406T033433Z">
+        <seg>Scene_Abrassar_Dungeon1Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033433Z" creationid="seto" creationdate="20190406T033433Z">
+        <seg>Scene_Abrassar_Dungeon2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon2Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033434Z" creationid="seto" creationdate="20190406T033434Z">
+        <seg>Scene_Abrassar_Dungeon2Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033435Z" creationid="seto" creationdate="20190406T033435Z">
+        <seg>Scene_Abrassar_Dungeon3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon3Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033436Z" creationid="seto" creationdate="20190406T033436Z">
+        <seg>Scene_Abrassar_Dungeon3Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033436Z" creationid="seto" creationdate="20190406T033436Z">
+        <seg>Scene_Abrassar_Dungeon4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon4Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033437Z" creationid="seto" creationdate="20190406T033437Z">
+        <seg>Scene_Abrassar_Dungeon4Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033438Z" creationid="seto" creationdate="20190406T033438Z">
+        <seg>Scene_Abrassar_Dungeon5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon5Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033438Z" creationid="seto" creationdate="20190406T033438Z">
+        <seg>Scene_Abrassar_Dungeon5Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033439Z" creationid="seto" creationdate="20190406T033439Z">
+        <seg>Scene_Abrassar_Dungeon6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_Dungeon6Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033440Z" creationid="seto" creationdate="20190406T033440Z">
+        <seg>Scene_Abrassar_Dungeon6Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033440Z" creationid="seto" creationdate="20190406T033440Z">
+        <seg>Scene_Abrassar_DungeonsSmall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033442Z" creationid="seto" creationdate="20190406T033442Z">
+        <seg>Scene_Abrassar_DungeonsSmall1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033443Z" creationid="seto" creationdate="20190406T033443Z">
+        <seg>Scene_Abrassar_DungeonsSmall2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033443Z" creationid="seto" creationdate="20190406T033443Z">
+        <seg>Scene_Abrassar_DungeonsSmall3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033444Z" creationid="seto" creationdate="20190406T033444Z">
+        <seg>Scene_Abrassar_DungeonsSmall4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033445Z" creationid="seto" creationdate="20190406T033445Z">
+        <seg>Scene_Abrassar_DungeonsSmall5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033446Z" creationid="seto" creationdate="20190406T033446Z">
+        <seg>Scene_Abrassar_DungeonsSmall6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033447Z" creationid="seto" creationdate="20190406T033447Z">
+        <seg>Scene_Abrassar_DungeonsSmall7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmall8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033448Z" creationid="seto" creationdate="20190406T033448Z">
+        <seg>Scene_Abrassar_DungeonsSmall8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Abrassar_DungeonsSmallDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033441Z" creationid="seto" creationdate="20190406T033441Z">
+        <seg>Scene_Abrassar_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Berg_Open</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130908Z" creationid="setom" creationdate="20190403T130908Z">
@@ -23232,6 +23680,206 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene_DeamWorldDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033507Z" creationid="seto" creationdate="20190406T033507Z">
+        <seg>Scene_DeamWorldDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_DreamWorld</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033507Z" creationid="seto" creationdate="20190406T033507Z">
+        <seg>Scene_DreamWorld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033449Z" creationid="seto" creationdate="20190406T033449Z">
+        <seg>Scene_Emercar_Dungeon1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon1Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033450Z" creationid="seto" creationdate="20190406T033450Z">
+        <seg>Scene_Emercar_Dungeon1Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033451Z" creationid="seto" creationdate="20190406T033451Z">
+        <seg>Scene_Emercar_Dungeon2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon2Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033451Z" creationid="seto" creationdate="20190406T033451Z">
+        <seg>Scene_Emercar_Dungeon2Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033452Z" creationid="seto" creationdate="20190406T033452Z">
+        <seg>Scene_Emercar_Dungeon3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon3Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033453Z" creationid="seto" creationdate="20190406T033453Z">
+        <seg>Scene_Emercar_Dungeon3Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033453Z" creationid="seto" creationdate="20190406T033453Z">
+        <seg>Scene_Emercar_Dungeon4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon4Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033454Z" creationid="seto" creationdate="20190406T033454Z">
+        <seg>Scene_Emercar_Dungeon4Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033455Z" creationid="seto" creationdate="20190406T033455Z">
+        <seg>Scene_Emercar_Dungeon5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon5Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033456Z" creationid="seto" creationdate="20190406T033456Z">
+        <seg>Scene_Emercar_Dungeon5Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033456Z" creationid="seto" creationdate="20190406T033456Z">
+        <seg>Scene_Emercar_Dungeon6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_Dungeon6Desc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033457Z" creationid="seto" creationdate="20190406T033457Z">
+        <seg>Scene_Emercar_Dungeon6Desc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033458Z" creationid="seto" creationdate="20190406T033458Z">
+        <seg>Scene_Emercar_DungeonsSmall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033459Z" creationid="seto" creationdate="20190406T033459Z">
+        <seg>Scene_Emercar_DungeonsSmall1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033500Z" creationid="seto" creationdate="20190406T033500Z">
+        <seg>Scene_Emercar_DungeonsSmall2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033501Z" creationid="seto" creationdate="20190406T033501Z">
+        <seg>Scene_Emercar_DungeonsSmall3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033502Z" creationid="seto" creationdate="20190406T033502Z">
+        <seg>Scene_Emercar_DungeonsSmall4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033502Z" creationid="seto" creationdate="20190406T033502Z">
+        <seg>Scene_Emercar_DungeonsSmall5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033503Z" creationid="seto" creationdate="20190406T033503Z">
+        <seg>Scene_Emercar_DungeonsSmall6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033504Z" creationid="seto" creationdate="20190406T033504Z">
+        <seg>Scene_Emercar_DungeonsSmall7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033505Z" creationid="seto" creationdate="20190406T033505Z">
+        <seg>Scene_Emercar_DungeonsSmall8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmall9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033506Z" creationid="seto" creationdate="20190406T033506Z">
+        <seg>Scene_Emercar_DungeonsSmall9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Emercar_DungeonsSmallDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033459Z" creationid="seto" creationdate="20190406T033459Z">
+        <seg>Scene_Emercar_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Hallowed_Dungeon1</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103253Z" creationid="seto" creationdate="20190404T103253Z">
@@ -23376,10 +24024,170 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033410Z" creationid="seto" creationdate="20190406T033410Z">
+        <seg>Scene_Hallowed_DungeonsSmall2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033412Z" creationid="seto" creationdate="20190406T033412Z">
+        <seg>Scene_Hallowed_DungeonsSmall3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033413Z" creationid="seto" creationdate="20190406T033413Z">
+        <seg>Scene_Hallowed_DungeonsSmall4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033413Z" creationid="seto" creationdate="20190406T033413Z">
+        <seg>Scene_Hallowed_DungeonsSmall5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall6</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033414Z" creationid="seto" creationdate="20190406T033414Z">
+        <seg>Scene_Hallowed_DungeonsSmall6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033415Z" creationid="seto" creationdate="20190406T033415Z">
+        <seg>Scene_Hallowed_DungeonsSmall7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall8</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033416Z" creationid="seto" creationdate="20190406T033416Z">
+        <seg>Scene_Hallowed_DungeonsSmall8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Hallowed_DungeonsSmall9</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033420Z" creationid="seto" creationdate="20190406T033420Z">
+        <seg>Scene_Hallowed_DungeonsSmall9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Hallowed_DungeonsSmallDesc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103308Z" creationid="seto" creationdate="20190404T103308Z">
         <seg>Scene_Hallowed_DungeonsSmallDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Harmattan_Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033421Z" creationid="seto" creationdate="20190406T033421Z">
+        <seg>Scene_Harmattan_Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Harmattan_OpenDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033422Z" creationid="seto" creationdate="20190406T033422Z">
+        <seg>Scene_Harmattan_OpenDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Harmattan_Town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033422Z" creationid="seto" creationdate="20190406T033422Z">
+        <seg>Scene_Harmattan_Town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Harmattan_TownDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033423Z" creationid="seto" creationdate="20190406T033423Z">
+        <seg>Scene_Harmattan_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Levant_Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033424Z" creationid="seto" creationdate="20190406T033424Z">
+        <seg>Scene_Levant_Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Levant_OpenDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033425Z" creationid="seto" creationdate="20190406T033425Z">
+        <seg>Scene_Levant_OpenDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Levant_Town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033426Z" creationid="seto" creationdate="20190406T033426Z">
+        <seg>Scene_Levant_Town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Levant_TownDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033427Z" creationid="seto" creationdate="20190406T033427Z">
+        <seg>Scene_Levant_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Monsoon_Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033428Z" creationid="seto" creationdate="20190406T033428Z">
+        <seg>Scene_Monsoon_Open</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Monsoon_OpenDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033429Z" creationid="seto" creationdate="20190406T033429Z">
+        <seg>Scene_Monsoon_OpenDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Monsoon_Town</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033430Z" creationid="seto" creationdate="20190406T033430Z">
+        <seg>Scene_Monsoon_Town</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scene_Monsoon_TownDesc</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033431Z" creationid="seto" creationdate="20190406T033431Z">
+        <seg>Scene_Monsoon_TownDesc</seg>
       </tuv>
     </tu>
     <tu>
@@ -27316,6 +28124,158 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120114Z" creationid="Gaiden Shinji" creationdate="20190404T120114Z">
         <seg>警告通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Berg_BlueChamber</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033533Z" creationid="seto" creationdate="20190406T033533Z">
+        <seg>Warp_Berg_BlueChamber</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Berg_City</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033531Z" creationid="seto" creationdate="20190406T033531Z">
+        <seg>Warp_Berg_City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Berg_Home</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033532Z" creationid="seto" creationdate="20190406T033532Z">
+        <seg>Warp_Berg_Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Berg_Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033532Z" creationid="seto" creationdate="20190406T033532Z">
+        <seg>Warp_Berg_Inn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Cierzo_City</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033524Z" creationid="seto" creationdate="20190406T033524Z">
+        <seg>Warp_Cierzo_City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Cierzo_Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033526Z" creationid="seto" creationdate="20190406T033526Z">
+        <seg>Warp_Cierzo_Inn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Cierzo_Lighthouse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033525Z" creationid="seto" creationdate="20190406T033525Z">
+        <seg>Warp_Cierzo_Lighthouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Cierzo_Townhall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033526Z" creationid="seto" creationdate="20190406T033526Z">
+        <seg>Warp_Cierzo_Townhall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Levant_City</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033527Z" creationid="seto" creationdate="20190406T033527Z">
+        <seg>Warp_Levant_City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Levant_Home</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033529Z" creationid="seto" creationdate="20190406T033529Z">
+        <seg>Warp_Levant_Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Levant_Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033529Z" creationid="seto" creationdate="20190406T033529Z">
+        <seg>Warp_Levant_Inn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Levant_Palace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033530Z" creationid="seto" creationdate="20190406T033530Z">
+        <seg>Warp_Levant_Palace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Levant_Slums</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033528Z" creationid="seto" creationdate="20190406T033528Z">
+        <seg>Warp_Levant_Slums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_City</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033508Z" creationid="seto" creationdate="20190406T033508Z">
+        <seg>Warp_Monsoon_City</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_Home</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033523Z" creationid="seto" creationdate="20190406T033523Z">
+        <seg>Warp_Monsoon_Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_Inn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033509Z" creationid="seto" creationdate="20190406T033509Z">
+        <seg>Warp_Monsoon_Inn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_Temple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033511Z" creationid="seto" creationdate="20190406T033511Z">
+        <seg>Warp_Monsoon_Temple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_Townhall</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033510Z" creationid="seto" creationdate="20190406T033510Z">
+        <seg>Warp_Monsoon_Townhall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warp_Monsoon_Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190406T033511Z" creationid="seto" creationdate="20190406T033511Z">
+        <seg>Warp_Monsoon_Up</seg>
       </tuv>
     </tu>
     <tu>
