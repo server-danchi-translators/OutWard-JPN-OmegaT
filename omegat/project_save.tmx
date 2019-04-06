@@ -12147,6 +12147,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Campfires are used to cook, disinfect water, brew potions and to keep warm.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142701Z" creationid="Light" creationdate="20190406T142701Z">
+        <seg>キャンプファイヤーは、調理、水の消毒、ポーションの醸造、および暖を取ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camping_Ambush</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T111936Z" creationid="seto" creationdate="20190404T111936Z">
@@ -17304,6 +17312,14 @@
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113036Z" creationid="Gaiden Shinji" creationdate="20190404T113036Z">
         <seg>展開 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deployable fire kit that must then be lit, usually with a flint and steel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142552Z" creationid="Light" creationdate="20190406T142535Z">
+        <seg>地面に設置して、火打ち石と打ち金で火を灯す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43687,6 +43703,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120250Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
         <seg>話す頭蓋骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tanned animal skin, used in many basic crafting recipes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T142430Z" creationid="Light" creationdate="20190406T142430Z">
+        <seg>天日干しした動物の皮、多くの基本的な生産レシピで使用される。</seg>
       </tuv>
     </tu>
     <tu>
