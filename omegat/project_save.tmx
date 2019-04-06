@@ -20495,6 +20495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t doubt that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T065335Z" creationid="pugnus" creationdate="20190406T065335Z">
+        <seg>私はそれを疑わない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t have anything that can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133743Z" creationid="Light" creationdate="20190405T133743Z">
@@ -23904,6 +23912,14 @@
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T185549Z" creationid="magur0w" creationdate="20190404T185549Z">
         <seg>私はまだ攻撃を導いた人を探している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sure the one who led the attack is long gone…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T065238Z" creationid="pugnus" creationdate="20190406T065238Z">
+        <seg>私は攻撃を主導した者は、もういないと確信した...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28611,6 +28627,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T134755Z" creationid="Light" creationdate="20190405T134755Z">
         <seg>これを飲んでください、楽になるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open war with them is unavoidable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T064125Z" creationid="pugnus" creationdate="20190406T064125Z">
+        <seg>彼らとの戦争は避けることはできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40879,6 +40903,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then our worst fears are realized.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T064059Z" creationid="pugnus" creationdate="20190406T063941Z">
+        <seg>そして、最悪の恐怖が実現される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then there's the matter of several bandit crews deciding to join forces in the Vendavel fortress along the southern coast.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061337Z" creationid="Light" creationdate="20190406T061337Z">
@@ -42748,6 +42780,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173400Z" creationid="magur0w" creationdate="20190404T173400Z">
         <seg>まだ時間はあるが、あまりぐずぐずするなよ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will need all the allies we can muster in the coming months.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T064315Z" creationid="pugnus" creationdate="20190406T064315Z">
+        <seg>これから数か月の間に集めることができる、すべての同盟国が必要になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46955,8 +46995,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>worried</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190405T101311Z" creationid="seto" creationdate="20190405T101311Z">
-        <seg>worried</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T064551Z" creationid="seto" creationdate="20190405T101311Z">
+        <seg>心配だ。</seg>
       </tuv>
     </tu>
     <tu>
