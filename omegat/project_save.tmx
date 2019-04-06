@@ -27620,6 +27620,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No nonsense, good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T113347Z" creationid="pugnus" creationdate="20190406T113347Z">
+        <seg>実用的ね。いいわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No one in the Collective is above the law.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033359Z" creationid="rkmad" creationdate="20190405T033359Z">
@@ -37313,6 +37321,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone attacked the Blue Chamber itself, mid-session!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T112711Z" creationid="pugnus" creationdate="20190406T112711Z">
+        <seg>誰かが青の議会に攻撃を仕掛けてきた。会議中だというのに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone from the slums of Levant must have found you and brought you to safety.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012438Z" creationid="pugnus" creationdate="20190404T045106Z">
@@ -43836,6 +43852,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113206Z" creationid="weedssoul" creationdate="20190406T113206Z">
         <seg>私達2人は、Cierzoのためにやるべきことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can’t let this go quietly!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190406T113127Z" creationid="pugnus" creationdate="20190406T113111Z">
+        <seg>私たちは、おとなしくしてられない！</seg>
       </tuv>
     </tu>
     <tu>
