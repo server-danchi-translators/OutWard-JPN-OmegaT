@@ -3959,6 +3959,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all the crap we just went through?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040848Z" creationid="weedssoul" creationdate="20190406T040848Z">
+        <seg>こんな形で終わりなのか？！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all, your grandmother was Chamberlady once, before she was exiled for her actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033251Z" creationid="rkmad" creationdate="20190405T033251Z">
@@ -5887,6 +5895,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T111935Z" creationid="seto" creationdate="20190404T111935Z">
         <seg>Camping_NoEvent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can I help you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040653Z" creationid="weedssoul" creationdate="20190406T040653Z">
+        <seg>なにか御用で？</seg>
       </tuv>
     </tu>
     <tu>
@@ -16632,6 +16648,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115149Z" creationid="setom" creationdate="20190401T115149Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May Elatt watch over you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040641Z" creationid="weedssoul" creationdate="20190406T040641Z">
+        <seg>Elattは、お前を見ているぞ [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
@@ -27679,6 +27703,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The last person in this place that really gives a damn about you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040801Z" creationid="weedssoul" creationdate="20190406T040801Z">
+        <seg>この場でお前を気にかける最後の人間を？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The last thing I remember was our ship hitting a rock...</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T142428Z" creationid="setom" creationdate="20190402T141553Z">
@@ -29564,6 +29596,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101922Z" creationid="setom" creationdate="20190402T164723Z">
         <seg>村からそこまで遠くじゃないぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're through, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190406T040548Z" creationid="weedssoul" creationdate="20190406T040548Z">
+        <seg>私達の関係は終わりだ、 [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
