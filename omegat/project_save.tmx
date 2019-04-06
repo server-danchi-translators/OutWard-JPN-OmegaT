@@ -11450,6 +11450,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bland biscuit used when traveling from one region to the next, though it can be eaten as normal food as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T133916Z" creationid="Light" creationdate="20190406T133916Z">
+        <seg>ビスケットは地域を移動するときに使用されますが、食べることもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blazing desert with freezing nights, with giant insects lurking in hives and ruins.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111413Z" creationid="Gaiden Shinji" creationdate="20190404T111413Z">
@@ -26148,6 +26156,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Layered tent of thick furs that grant high resistance to the cold weather.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134038Z" creationid="Light" creationdate="20190406T134038Z">
+        <seg>寒さに強い厚い毛皮のテント。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LeaderNote_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052545Z" creationid="seto" creationdate="20190406T052545Z">
@@ -38961,6 +38977,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleeping in this tent gives a large bonus to stamina use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T134142Z" creationid="Light" creationdate="20190406T134142Z">
+        <seg>このテントで眠るとスタミナ回復に大きなボーナスがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleeping, either in an inn or in a tent, removes tiredness and restores health.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164508Z" creationid="setom" creationdate="20190402T090405Z">
@@ -44339,6 +44363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T220015Z" creationid="seto" creationdate="20190404T220015Z">
         <seg>それでも私には金がなくて、返済なんてできないことに変わりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This food with no properties apart from being filling, and can even be made using Survival Crafting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190406T133957Z" creationid="Light" creationdate="20190406T133957Z">
+        <seg>味気ない食品。クラフトで作ることもできる。</seg>
       </tuv>
     </tu>
     <tu>
