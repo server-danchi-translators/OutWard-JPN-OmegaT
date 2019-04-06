@@ -12979,6 +12979,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Claim the treasure inside the old docks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122309Z" creationid="urakata" creationdate="20190406T122309Z">
+        <seg>ドックにある財宝を手に入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clayton</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113745Z" creationid="Gaiden Shinji" creationdate="20190404T113745Z">
@@ -16652,6 +16660,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Donate silver to Pigeoneye, the self-proclaimed leader of Levant’s slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122410Z" creationid="urakata" creationdate="20190406T122410Z">
+        <seg>自称LevantスラムのリーダーPigeoneyeに銀を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t forget, Cierzo is still your home.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084605Z" creationid="pugnus" creationdate="20190406T084605Z">
@@ -17572,10 +17588,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errand_Slum_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122310Z" creationid="urakata" creationdate="20190406T122310Z">
+        <seg>Errand_Slum_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errand_Treasure_01</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121446Z" creationid="urakata" creationdate="20190406T121446Z">
         <seg>Errand_Treasure_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Treasure_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121601Z" creationid="urakata" creationdate="20190406T121601Z">
+        <seg>Errand_Treasure_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Treasure_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121655Z" creationid="urakata" creationdate="20190406T121655Z">
+        <seg>Errand_Treasure_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Treasure_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121933Z" creationid="urakata" creationdate="20190406T121933Z">
+        <seg>Errand_Treasure_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Errand_Treasure_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122249Z" creationid="urakata" creationdate="20190406T122249Z">
+        <seg>Errand_Treasure_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -17980,6 +18036,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First Clue: Find a boat’s cabin, buried in the sand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121558Z" creationid="urakata" creationdate="20190406T121558Z">
+        <seg>第1の手がかり:砂に埋もれたボートの船室を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First Watcher</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115658Z" creationid="Gaiden Shinji" creationdate="20190404T115658Z">
@@ -18192,6 +18256,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T133849Z" creationid="Light" creationdate="20190404T133849Z">
         <seg>ビーチで船員の死体を発見した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fourth Clue: Go inside the old docks, in the Abrassar desert, to flip a lever.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T122248Z" creationid="urakata" creationdate="20190406T122248Z">
+        <seg>第4の手がかり:Abrassar砂漠の古いドックに入り、レバーを動かす</seg>
       </tuv>
     </tu>
     <tu>
@@ -37368,6 +37440,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Second Clue: Delve into a hornet’s nest, inside a giant forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121718Z" creationid="urakata" creationdate="20190406T121653Z">
+        <seg>第2の手がかり:大森林の蜂の巣を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Second Watcher</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115704Z" creationid="Gaiden Shinji" creationdate="20190404T115704Z">
@@ -43311,6 +43391,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Third Clue: Find a place of claws and fangs, in a swamp’s poison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121930Z" creationid="urakata" creationdate="20190406T121710Z">
+        <seg>第3の手がかり: 沼の毒に侵された爪と牙のすみかを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Third Watcher</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115710Z" creationid="Gaiden Shinji" creationdate="20190404T115710Z">
@@ -43611,6 +43699,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T013733Z" creationid="hiru4" creationdate="20190403T013733Z">
         <seg>キャンプファイヤーで調理鍋を使えば複数の食材を使った料理を作ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To find a treasure, follow a trail of clues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190406T121522Z" creationid="urakata" creationdate="20190406T121522Z">
+        <seg>財宝を見つけるために、手がかりを追う</seg>
       </tuv>
     </tu>
     <tu>
