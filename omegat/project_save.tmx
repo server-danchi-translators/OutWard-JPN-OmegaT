@@ -18270,8 +18270,8 @@
       <tuv lang="EN-US">
         <seg>Each tree has an unlimited amount of wood that can be gathered.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112707Z" creationid="setom" creationdate="20190331T112707Z">
-        <seg>それぞれの木からは無限に木材を集められる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022840Z" creationid="setom" creationdate="20190331T112707Z">
+        <seg>木からは木材を集めることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28366,8 +28366,8 @@
       <tuv lang="EN-US">
         <seg>Mana must first be unlocked at a Ley Line.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143057Z" creationid="setom" creationdate="20190331T112626Z">
-        <seg>まずはレイラインでマナが解放される。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022728Z" creationid="setom" creationdate="20190331T112626Z">
+        <seg>まずはレイラインでマナが解放できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30830,8 +30830,8 @@
       <tuv lang="EN-US">
         <seg>Note that the currency, silver coins, have weight!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T101147Z" creationid="setom" creationdate="20190331T112557Z">
-        <seg>貨幣や銀貨にも重量があることを心に留めておけ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022715Z" creationid="setom" creationdate="20190331T112557Z">
+        <seg>貨幣や銀貨にも重量があることを心に留めておきましょう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -35809,8 +35809,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143105Z" creationid="setom" creationdate="20190331T112659Z">
-        <seg>強力な武器やポーションが作成でき、他に強力な罠にも使える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022750Z" creationid="setom" creationdate="20190331T112659Z">
+        <seg>強力な武器やポーションが作成でき、他に強力な罠にも使えるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41428,8 +41428,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Starting characters can’t use magic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112606Z" creationid="setom" creationdate="20190331T112606Z">
-        <seg>始めたばかりのキャラクターは魔法が使えない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022720Z" creationid="setom" creationdate="20190331T112606Z">
+        <seg>始めたばかりのキャラクターは魔法が使えません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49173,8 +49173,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wild beasts drop body parts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143102Z" creationid="setom" creationdate="20190331T112657Z">
-        <seg>野生の獣は体の一部をドロップする。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022739Z" creationid="setom" creationdate="20190331T112657Z">
+        <seg>野生の獣は体の一部をドロップします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49350,8 +49350,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wood is commonly used in survival crafting, notably to make campfires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143108Z" creationid="setom" creationdate="20190331T112708Z">
-        <seg>木材は通常のサバイバルクラフトに用いられ、特にキャンプファイヤー作りに使われる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022926Z" creationid="setom" creationdate="20190331T112708Z">
+        <seg>木材は通常のクラフトに用いられ、特にキャンプファイヤーキットに使われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49954,8 +49954,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can store any item you don’t want in the Stash chests found in homes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115712Z" creationid="setom" creationdate="20190331T112556Z">
-        <seg>家の中の収納チェストには見つかりたくないアイテムを貯蔵できる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022653Z" creationid="setom" creationdate="20190331T112556Z">
+        <seg>家の中の収納チェストにはアイテムを貯蔵できます。</seg>
       </tuv>
     </tu>
     <tu>
