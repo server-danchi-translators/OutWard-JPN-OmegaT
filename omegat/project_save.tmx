@@ -25299,8 +25299,8 @@
       <tuv lang="EN-US">
         <seg>If you manage to get to the Kingdom of Levant on your own somehow, though, I'll do my best to look out for you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T124633Z" creationid="Light" creationdate="20190407T124633Z">
-        <seg>だが君が自分でレバントの王国に向かうというなら、君を見張るのに最善を尽くす。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T124656Z" creationid="Light" creationdate="20190407T124633Z">
+        <seg>だが君が自分でレバントの王国に向かうというなら、君を見守る事に最善を尽くす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25317,6 +25317,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T060957Z" creationid="weedssoul" creationdate="20190406T060950Z">
         <seg>有利な場所で戦ったり、逃げる必要があるなら、走るんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you plan to make the journey to &lt;color=#00CCFF&gt;&lt;b&gt;Levant&lt;/b&gt;&lt;/color&gt; completely on foot, be prepared for a &lt;color=#00CCFF&gt;&lt;b&gt;long, long journey&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T124819Z" creationid="Light" creationdate="20190407T124819Z">
+        <seg>完全に徒歩で&lt;color=#00CCFF&gt;&lt;b&gt;レバント&lt;/b&gt;&lt;/color&gt;に向かうなら、それは&lt;color=#00CCFF&gt;&lt;b&gt;長い長い旅&lt;/b&gt;&lt;/color&gt;になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53358,6 +53366,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T122929Z" creationid="weedssoul" creationdate="20190406T122929Z">
         <seg>帳簿を届けたら、報酬を払うよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll have to &lt;color=#00CCFF&gt;&lt;b&gt;leave the Chersonese by going south east&lt;/b&gt;&lt;/color&gt;, then travel &lt;color=#00CCFF&gt;&lt;b&gt;east through the entire Enmerkar Forest&lt;/b&gt;&lt;/color&gt;, and then finally &lt;color=#00CCFF&gt;&lt;b&gt;south through the Abrassar Desert&lt;/b&gt;&lt;/color&gt; itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T125052Z" creationid="Light" creationdate="20190407T125052Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;チェルソネスから南東&lt;/b&gt;&lt;/color&gt;に移動して、&lt;color=#00CCFF&gt;&lt;b&gt;Enmerkarの森を東に抜ける&lt;/b&gt;&lt;/color&gt;必要がある、そして最後に&lt;color=#00CCFF&gt;&lt;b&gt;アブラサール砂漠を南&lt;/b&gt;&lt;/color&gt;だ。</seg>
       </tuv>
     </tu>
     <tu>
