@@ -11169,6 +11169,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balira, the mage of winds, will see if you are trustworthy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044730Z" creationid="Mad" creationdate="20190407T044730Z">
+        <seg>風の魔術師であるバリラが、お前を信用できるかどうかを確認する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BalthaCorpse_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052539Z" creationid="seto" creationdate="20190406T052539Z">
@@ -18140,6 +18148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know what we do to spies here in Vendavel?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044545Z" creationid="Mad" creationdate="20190407T044545Z">
+        <seg>このベンダベルでスパイをしようとする奴が、どうなるか教えてやる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to thieves in here?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011313Z" creationid="rkmad" creationdate="20190404T011313Z">
@@ -21428,6 +21444,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go make your report to Captain Rospa right away!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044143Z" creationid="Mad" creationdate="20190407T044143Z">
+        <seg>急いで、ロスパ船長に報告してくれ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go right, then up the stairs and elevator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044756Z" creationid="Mad" creationdate="20190407T044756Z">
+        <seg>右に進み、その後で階段とエレベーターを上れ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to Elatt’s altar at the back of Monsoon’s temple, then commit to the faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T043338Z" creationid="urakata" creationdate="20190407T043338Z">
@@ -22084,6 +22116,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Halt, state your business!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T043434Z" creationid="Mad" creationdate="20190407T043434Z">
+        <seg>止まれ！お前の持ってきた取引の内容を伝えろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hand Held</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114344Z" creationid="setom" creationdate="20190401T114344Z">
@@ -22280,6 +22320,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T013450Z" creationid="weedssoul" creationdate="20190405T154804Z">
         <seg>イザンは、血統の義務を果たし、血の代償を支払うよりむしろ、シエルゾから永遠に亡命することを選びました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He has moved to the &lt;color=#00CCFF&gt;&lt;b&gt;training room&lt;/b&gt;&lt;/color&gt;, go left, then right, then up the stairs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044325Z" creationid="Mad" creationdate="20190407T044325Z">
+        <seg>船長なら、今は&lt;color=#00CCFF&gt;&lt;b&gt;トレーニングルームから左、右、階段&lt;/b&gt;&lt;/color&gt;の順に向かえば居るだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22721,6 +22769,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T123348Z" creationid="はぐくみ会" creationdate="20190404T001222Z">
         <seg>彼はあなたの貴重品の多くを奪っていった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hi, Nindiria.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T043914Z" creationid="Mad" creationdate="20190407T043914Z">
+        <seg>"ニンディリア"だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23199,6 +23255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am back from scouting Cierzo, let me in, yes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T043950Z" creationid="Mad" creationdate="20190407T043950Z">
+        <seg>シエルゾの偵察から戻ってきた。中に入れてもらうことは出来るか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am sorry, [PlayerName], but this isn’t your home anymore.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
@@ -23631,6 +23695,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope you brought good news.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044031Z" creationid="Mad" creationdate="20190407T044031Z">
+        <seg>おお、そうか。お前が良い知らせを持ってきてくれていることを願うよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
@@ -23823,6 +23895,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to speak with your leaders immediately.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044609Z" creationid="Mad" creationdate="20190407T044609Z">
+        <seg>私は、あなたがたの船長とすぐに話をしたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to think about this more.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T020327Z" creationid="weedssoul" creationdate="20190406T021519Z">
@@ -23867,6 +23947,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T112750Z" creationid="Mad" creationdate="20190406T112750Z">
         <seg>私は母と同じ道を歩むつもりはないと拒否したわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I remember you from just a minute ago!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044401Z" creationid="Mad" creationdate="20190407T044401Z">
+        <seg>たった少し前に起こったことを忘れている訳が無いだろうが！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24099,6 +24187,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090709Z" creationid="rkmad" creationdate="20190405T090428Z">
         <seg>どうにか稼ぐために、私はまるで犬のようにあちこち駆け回ったというのに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I would like to join your crew.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044632Z" creationid="Mad" creationdate="20190407T044632Z">
+        <seg>私も船員として加えてほしいのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24507,6 +24603,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T135714Z" creationid="weedssoul" creationdate="20190406T075001Z">
         <seg>キャンプファイヤーに料理鍋を設置したり、キッチン付きの家を持っていれば、1つ以上の材料を必要とするレシピを調理することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not impress her, we will find suitable work for you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044911Z" creationid="Mad" creationdate="20190407T044911Z">
+        <seg>ああ。何の手土産もなく仲間に加われると思っているなら、相応の覚悟はしておけよ。我々にそんな能無しは必要はないからな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50342,6 +50446,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are clearly a spy!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044410Z" creationid="Mad" creationdate="20190407T044410Z">
+        <seg>お前は明らかにスパイだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T051134Z" creationid="hiru4" creationdate="20190403T051134Z">
@@ -51472,6 +51584,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T122828Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
         <seg>あなたは幸運の星たちに感謝する。あの幽霊が古い思い出に閉じ込められており、推論も思考もできないことに...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You think I’m stupid, prijpi-brain?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T044337Z" creationid="Mad" creationdate="20190407T044337Z">
+        <seg>お前は馬鹿か？</seg>
       </tuv>
     </tu>
     <tu>
