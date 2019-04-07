@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>*sniff* *sniff* Oh this smells like the good stuff.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055542Z" creationid="Mad" creationdate="20190407T055542Z">
+        <seg>少し嗅がせてもらってもいいかな……クンクン。ああ、これはいい香りだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T022328Z" creationid="seto" creationdate="20190406T022328Z">
@@ -23715,6 +23723,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095825Z" creationid="rkmad" creationdate="20190403T095825Z">
         <seg>包帯を持ってきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have a bottle of Gaberry Wine, actually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055428Z" creationid="Mad" creationdate="20190407T055428Z">
+        <seg>実はギャベリー製のワインを一本持っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49408,6 +49424,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have plenty of things to drink here, come with me and I'll show you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055340Z" creationid="Mad" creationdate="20190407T055237Z">
+        <seg>ここにはたくさんの飲み物がある。さあ中に入ろう。そして、ともに飲み明かそうじゃないか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We just don’t know what form it will take yet.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T090522Z" creationid="pugnus" creationdate="20190406T090454Z">
@@ -49732,6 +49756,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164748Z" creationid="magur0w" creationdate="20190404T130030Z">
         <seg>まあ、交渉は非常にデリケートになるだろうな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, sure!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055213Z" creationid="Mad" creationdate="20190407T055206Z">
+        <seg>確かにそうだな！</seg>
       </tuv>
     </tu>
     <tu>
