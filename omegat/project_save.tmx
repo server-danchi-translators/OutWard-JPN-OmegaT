@@ -12012,8 +12012,8 @@
       <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143039Z" creationid="setom" creationdate="20190331T112200Z">
-        <seg>水を煮たり生肉を炙ったりするだけならば、火を点けただけで構わない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022252Z" creationid="setom" creationdate="20190331T112200Z">
+        <seg>水を煮たり生肉を炙ったりするだけならば、必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22078,8 +22078,8 @@
       <tuv lang="EN-US">
         <seg>Having a lit torch or lantern will make you very visible nonetheless.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112133Z" creationid="setom" creationdate="20190331T112133Z">
-        <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022116Z" creationid="setom" creationdate="20190331T112133Z">
+        <seg>それでも火のついた松明やランタンを持っていればとても見つかりやすくなります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33129,8 +33129,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or you could experiment in Manual Recipe mode, where you can use any ingredients together.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143036Z" creationid="setom" creationdate="20190331T112149Z">
-        <seg>もしくはマニュアルレシピモードでなにか材料を使って実験をしてもいいだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022153Z" creationid="setom" creationdate="20190331T112149Z">
+        <seg>もしくはマニュアルレシピでなにか材料を使って実験をしてもいいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35993,8 +35993,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Put out your light when sneaking!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T100921Z" creationid="setom" creationdate="20190331T112137Z">
-        <seg>隠れるときは光を避けろ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022126Z" creationid="setom" creationdate="20190331T112137Z">
+        <seg>隠れるときは光を消しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40843,8 +40843,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleep in a tent or an inn to recover your maximum health and stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143030Z" creationid="setom" creationdate="20190331T112114Z">
-        <seg>テントや宿屋で眠ることで最大値は回復する。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022059Z" creationid="setom" creationdate="20190331T112114Z">
+        <seg>テントや宿屋で眠ることで最大値は回復します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46601,8 +46601,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143026Z" creationid="setom" creationdate="20190331T112050Z">
-        <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022021Z" creationid="setom" creationdate="20190331T112050Z">
+        <seg>このサバイバルクラフトメニューはプレイヤーメニューから何時でも利用可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46801,8 +46801,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To travel from one exterior region to another, you must use Travel Rations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112416Z" creationid="setom" creationdate="20190331T112308Z">
-        <seg>ある外部領域からさらに他領域に旅をするとき、旅糧を間違いなく使う。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022329Z" creationid="setom" creationdate="20190331T112308Z">
+        <seg>ある地域から他の地域に旅をするとき、旅糧が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48965,8 +48965,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When your health or stamina decreases (e.g. during combat), your max health or stamina decreases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112111Z" creationid="setom" creationdate="20190331T112111Z">
-        <seg>体力やスタミナが減った時、(例:戦闘など)その上限も減少している。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022047Z" creationid="setom" creationdate="20190331T112111Z">
+        <seg>戦闘などで体力やスタミナが減った時、その上限も減少します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49818,8 +49818,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can craft many useful items with just your hands.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112046Z" creationid="setom" creationdate="20190331T112046Z">
-        <seg>多くの有用なアイテムを自分の手で作ることができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022016Z" creationid="setom" creationdate="20190331T112046Z">
+        <seg>多くの有用なアイテムを自分の手で作ることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49874,8 +49874,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can learn new crafting recipes by finding a recipe scroll.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112147Z" creationid="setom" creationdate="20190331T112147Z">
-        <seg>レシピスクロールを見つけると新たにクラフトレシピを習得できる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022138Z" creationid="setom" creationdate="20190331T112147Z">
+        <seg>レシピを見つけると新たにクラフトレシピを習得できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49898,8 +49898,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can move stealthily by crouching.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112126Z" creationid="setom" creationdate="20190331T112126Z">
-        <seg>しゃがむとコソコソと移動できる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022109Z" creationid="setom" creationdate="20190331T112126Z">
+        <seg>しゃがむとコソコソと移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50478,8 +50478,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You need a cooking pot deployed on a lit campfire to cook recipes with more than one ingredient.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190331T112158Z">
-        <seg>火を灯したで二つ以上の材料を使うレシピを料理する際はCooking Potの配備が必要になる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022228Z" creationid="setom" creationdate="20190331T112158Z">
+        <seg>キャンプファイヤーで二つ以上の材料を使うレシピを料理する際は料理鍋が必要です。</seg>
       </tuv>
     </tu>
     <tu>
