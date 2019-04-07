@@ -8654,6 +8654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lost traveller?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051438Z" creationid="Mad" creationdate="20190407T051438Z">
+        <seg>それとも、道に迷った旅人か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A million times thank you!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135905Z" creationid="Light" creationdate="20190405T135905Z">
@@ -13751,6 +13759,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133349Z" creationid="setom" creationdate="20190402T133349Z">
         <seg>来いよ、凍死しちまう前に火のそばで温まっとけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come, warm yourself up inside!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051507Z" creationid="Mad" creationdate="20190407T051507Z">
+        <seg>とりあえず、ここに留まって温まっていくといい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24411,6 +24427,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035415Z" creationid="rkmad" creationdate="20190405T035415Z">
         <seg>[PlayerName]、あなたの行いに私は感動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm just passing by.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051539Z" creationid="Mad" creationdate="20190407T051539Z">
+        <seg>私はただの通りすがりの旅人だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49216,6 +49240,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We'll take good care of you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051529Z" creationid="Mad" creationdate="20190407T051529Z">
+        <seg>我々は君を歓迎するとも！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We're not far from home.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101922Z" creationid="setom" creationdate="20190402T164723Z">
@@ -49404,6 +49436,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040145Z" creationid="rkmad" creationdate="20190405T035843Z">
         <seg>よくやりましたね、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well now, what do we have here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051426Z" creationid="Mad" creationdate="20190407T051426Z">
+        <seg>ん？ ここに何か用事があってやってきたのか？</seg>
       </tuv>
     </tu>
     <tu>
