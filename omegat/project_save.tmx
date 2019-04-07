@@ -30796,6 +30796,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_prequests_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031759Z" creationid="urakata" creationdate="20190407T031759Z">
+        <seg>Neut_prequests_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
@@ -47323,6 +47331,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T031758Z" creationid="urakata" creationdate="20190407T031758Z">
         <seg>Blue Chamberに参加するためにBergの東区画にいるRissaと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To join the Heroic Kingdom, talk to Yzan, in Levant’s north-west quarter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032120Z" creationid="urakata" creationdate="20190407T032120Z">
+        <seg>Heroic Kingdomni, talk to Yzan, in Levant’s north-west quarter.</seg>
       </tuv>
     </tu>
     <tu>
