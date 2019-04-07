@@ -10351,6 +10351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And he couldn’t even manage that!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122145Z" creationid="Light" creationdate="20190407T122145Z">
+        <seg>あいつは、それすらも出来なかったんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And honestly, the farther away I am from my dolt of a brother and that tyrant Rissa, the better I'll sleep at night!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121243Z" creationid="Light" creationdate="20190407T120153Z">
@@ -24473,6 +24481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I take it you're not going to forgive your brother, are you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121956Z" creationid="Light" creationdate="20190407T121956Z">
+        <seg>あなたがローランドを許すつもりはないと思いますが、どうですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I take it you've heard the news, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T115203Z" creationid="Light" creationdate="20190407T115203Z">
@@ -32114,6 +32130,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T114033Z" creationid="weedssoul" creationdate="20190406T114033Z">
         <seg>灯台に光がついていたら起きなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not in a thousand years.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122034Z" creationid="Light" creationdate="20190407T122034Z">
+        <seg>絶対にないな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40285,6 +40309,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T153106Z">
         <seg>ローランドはいつも空想にふけっていました。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland had one job, keep the lighthouse lit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122112Z" creationid="Light" creationdate="20190407T122112Z">
+        <seg>ローランドには灯台を照らし続ける仕事がある。</seg>
       </tuv>
     </tu>
     <tu>
