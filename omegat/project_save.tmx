@@ -45748,6 +45748,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strange brew that neutralizes the Hallowed Marsh’s poison, but not other toxins.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T085944Z" creationid="Light" creationdate="20190407T085944Z">
+        <seg>Hallowed Marshの毒を中和する奇妙な醸造物だが、他の毒は中和しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sturdy hide obtained by skinning scaled beasts, used in advanced crafting recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T150051Z" creationid="weedssoul" creationdate="20190406T150051Z">
