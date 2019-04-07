@@ -11241,6 +11241,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bag with a small carrying capacity, specially made to not interfere with the dodge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T083734Z" creationid="Light" creationdate="20190407T083734Z">
+        <seg>ドッジロールを邪魔しないように作られた、小さなバッグ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bah, we have plenty swill inside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T055005Z" creationid="Mad" creationdate="20190407T055005Z">
@@ -20227,6 +20235,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063155Z" creationid="totochan" creationdate="20190403T140131Z">
         <seg>氷、炎、稲妻、腐敗、エーテルのダメージに対する耐性 +[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire-infused plant that grows in burnt lands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T084012Z" creationid="Light" creationdate="20190407T084012Z">
+        <seg>暑い土地で育つ、火が注入された植物。</seg>
       </tuv>
     </tu>
     <tu>
