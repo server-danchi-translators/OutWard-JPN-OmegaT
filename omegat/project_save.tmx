@@ -8528,8 +8528,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;You should say your goodbyes to Oliele and Yzan&lt;/b&gt;&lt;/color&gt; before they leave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T014336Z" creationid="weedssoul" creationdate="20190405T163010Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;オリエールとイザンに別れを告げてきなさい。&lt;/b&gt;&lt;/color&gt;彼らが去ってしまう前に。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="weedssoul" creationdate="20190405T163010Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;オリエルとイザンに別れを告げてきなさい。&lt;/b&gt;&lt;/color&gt;彼らが去ってしまう前に。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12018,6 +12018,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bony spurs harvested from lesser horrors, used to craft weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044046Z" creationid="Light" creationdate="20190407T044046Z">
+        <seg>武器を作るために使用される骨のトゲ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Book used to cast runic spells.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142429Z" creationid="weedssoul" creationdate="20190406T142429Z">
@@ -12364,8 +12372,8 @@
       <tuv lang="EN-US">
         <seg>But until then, your concern should be for those whose lives were lost in the wreck.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T222415Z" creationid="seto" creationdate="20190404T222415Z">
-        <seg>でもそれまでは、難破で亡くなった方たちに心を向けるべきだわ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044150Z" creationid="seto" creationdate="20190404T222415Z">
+        <seg> でもそれまでは、難破で亡くなった方たちに心を向けるべきだわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13517,8 +13525,8 @@
       <tuv lang="EN-US">
         <seg>Cierzo will miss you, Oliele.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190406T105713Z" creationid="Mad" creationdate="20190406T105713Z">
-        <seg>オリエール。貴女がシエルゾから居なくなる事は寂しい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Mad" creationdate="20190406T105713Z">
+        <seg>オリエル。貴女がシエルゾから居なくなる事は寂しい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22583,8 +22591,8 @@
       <tuv lang="EN-US">
         <seg>Here, as the newest member of the Aberdeen Family, you should have this.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T020553Z" creationid="weedssoul" creationdate="20190406T022711Z">
-        <seg>これを。アベルディーン家の新しい一員として、持っておきなさい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T022711Z">
+        <seg>これを。アバディーン家の新しい一員として、持っておきなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24553,16 +24561,16 @@
       <tuv lang="EN-US">
         <seg>If you pledge to work with me, I will begin the steps needed to adopt you into the Aberdeen bloodline and free you from your family’s Blood Price.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T020240Z" creationid="weedssoul" creationdate="20190406T020658Z">
-        <seg>私と一緒にくることを誓えば、あなたをアベルディーン家に迎え入れ、あなたの一族に課せられた「血の代償」からあなたを解き放ちましょう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T020658Z">
+        <seg>私と一緒にくることを誓えば、あなたをアバディーン家に迎え入れ、あなたの一族に課せられた「血の代償」からあなたを解き放ちましょう。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If you pledge yourself to work with me, I will pay off the rest of your Blood Price and adopt you into the Aberdeen bloodline.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015149Z" creationid="weedssoul" creationdate="20190405T164526Z">
-        <seg>もし、あなたが私と共にくると誓うのであれば、 私があなたの残りの「血の代償」を精算し、アベルディーンの血統にあなたを迎え入れましょう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190405T164526Z">
+        <seg>もし、あなたが私と共にくると誓うのであれば、 私があなたの残りの「血の代償」を精算し、アバディーンの血統にあなたを迎え入れましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24625,8 +24633,8 @@
       <tuv lang="EN-US">
         <seg>If you want to take this back up with [PlayerName] after the mourning period, feel free.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T023752Z" creationid="seto" creationdate="20190404T222328Z">
-        <seg> [PlayerName] にまた同じことがしたいのなら、それは追悼の期が明けてからよ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044135Z" creationid="seto" creationdate="20190404T222328Z">
+        <seg>[PlayerName]にまた同じことがしたいのなら、それは追悼の期が明けてからよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26209,8 +26217,8 @@
       <tuv lang="EN-US">
         <seg>Is there anything I need to do to make it happen?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015829Z" creationid="weedssoul" creationdate="20190406T014727Z">
-        <seg>アベルディーン家に加わるのになにかしなければいけないことはある？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014727Z">
+        <seg>アバディーン家に加わるのになにかしなければいけないことはある？</seg>
       </tuv>
     </tu>
     <tu>
@@ -26605,8 +26613,8 @@
       <tuv lang="EN-US">
         <seg>It's about time you let her go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T094552Z" creationid="rkmad" creationdate="20190405T094552Z">
-        <seg>オリエールにも、貴女から離れる時が来たのだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="rkmad" creationdate="20190405T094552Z">
+        <seg>オリエルにも、貴女から離れる時が来たのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31046,8 +31054,8 @@
       <tuv lang="EN-US">
         <seg>No, I don't suppose you'd be able to convince her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190405T151735Z" creationid="Mad" creationdate="20190405T151735Z">
-        <seg>……いえ、あなたにもオリエールを説得することはできないでしょうね。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Mad" creationdate="20190405T151735Z">
+        <seg>……いえ、あなたにもオリエルを説得することはできないでしょうね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32521,16 +32529,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115305Z" creationid="Gaiden Shinji" creationdate="20190404T115305Z">
-        <seg>オリエール</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Gaiden Shinji" creationdate="20190404T115305Z">
+        <seg>オリエル</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Oliele and Yzan are leaving Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T094236Z" creationid="rkmad" creationdate="20190405T094236Z">
-        <seg>オリエールとヤザンが、シエルゾを去るそうです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="rkmad" creationdate="20190405T094236Z">
+        <seg>オリエルとヤザンが、シエルゾを去るそうです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32553,8 +32561,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele is leaving Cierzo permanently, to go join the Holy Mission of Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T094438Z" creationid="rkmad" creationdate="20190405T094438Z">
-        <seg>オリエールはシエルゾを去り、エラットの聖なる任務に加わるそうです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="rkmad" creationdate="20190405T094438Z">
+        <seg>オリエルはシエルゾを去り、エラットの聖なる任務に加わるそうです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32569,8 +32577,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele, see these people off, would you?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T222433Z" creationid="seto" creationdate="20190404T222433Z">
-        <seg>Oliele, 彼らを見送ってくれる？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044230Z" creationid="seto" creationdate="20190404T222433Z">
+        <seg>オリエル、 彼らを見送ってくれる？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32793,8 +32801,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele’s Follower</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115319Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
-        <seg>オリエールのフォロワー</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
+        <seg>オリエルのフォロワー</seg>
       </tuv>
     </tu>
     <tu>
@@ -40986,8 +40994,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She is my only daughter, set to inherit the clan when I join the ancestors...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190405T151719Z" creationid="Mad" creationdate="20190405T151719Z">
-        <seg>オリエールは私の唯一の娘であり、いつかは私の後を継ぐはずだったというのに……。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Mad" creationdate="20190405T151719Z">
+        <seg>オリエルは私の唯一の娘であり、いつかは私の後を継ぐはずだったというのに……。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41018,8 +41026,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She was born into such an advantageous family...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190405T151211Z" creationid="Mad" creationdate="20190405T151211Z">
-        <seg>オリエールはそんな事をする必要のない一族に生を受けたのです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Mad" creationdate="20190405T151211Z">
+        <seg>オリエルはそんな事をする必要のない一族に生を受けたのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41555,8 +41563,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleeping in this tent gives a small bonus to stamina use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T134432Z" creationid="Light" creationdate="20190406T134432Z">
-        <seg>このテントで眠ることはスタミナに小さなボーナスを与えます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T035558Z" creationid="Light" creationdate="20190406T134432Z">
+        <seg>このテントで眠るとスタミナに小さなボーナスを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45901,16 +45909,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Aberdeen family is one of the oldest and strongest families in the Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015854Z" creationid="weedssoul" creationdate="20190406T014931Z">
-        <seg>アベルディーン家は、議会の中でも最も古く強大な一族の一つです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014931Z">
+        <seg>アバディーン家は、議会の中でも最も古く強大な一族の一つです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Aberdeens are one of the oldest families in the Blue Chamber Collective, and our name carries a great deal of weight.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T020256Z" creationid="weedssoul" creationdate="20190406T020803Z">
-        <seg>アベルディーンは、青の議会のなかでも最も古い一族の一つで、その名前には大きな意味があります。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T020803Z">
+        <seg>アバディーンは、青の議会のなかでも最も古い一族の一つで、その名前には大きな意味があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49885,16 +49893,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Will you pledge yourself to the continued survival of the Blue Chamber Collective, and join clan Aberdeen, [PlayerName]?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T020321Z" creationid="weedssoul" creationdate="20190406T021455Z">
-        <seg>あなたは青の議会のために生き続けることを誓い、アベルディーン家に加わりますか、[PlayerName]?</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T021455Z">
+        <seg>あなたは青の議会のために生き続けることを誓い、アバディーン家に加わりますか、[PlayerName]?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Will you work with me, and be adopted into the Aberdeen family?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015815Z" creationid="weedssoul" creationdate="20190406T014653Z">
-        <seg>私と一緒に働き、アベルディーン家に加わりますか？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014653Z">
+        <seg>私と一緒に働き、アバディーン家に加わりますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49925,8 +49933,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With Oliele abandoning the family, I need someone that I can rely on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015401Z" creationid="weedssoul" creationdate="20190405T165113Z">
-        <seg>オリエールが家族を捨てた今、私は誰か信頼できる人を必要としています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="weedssoul" creationdate="20190405T165113Z">
+        <seg>オリエルが家族を捨てた今、私は誰か信頼できる人を必要としています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50103,8 +50111,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Work with me, and I will adopt you into the Aberdeen family and clear your Blood Price permanently.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T015432Z" creationid="weedssoul" creationdate="20190405T165644Z">
-        <seg>私と一緒にくれば、私はあなたをアベルディーンの血統に迎え入れ、あなたの「血の代償」を永遠に精算します。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190405T165644Z">
+        <seg>私と一緒にくれば、私はあなたをアバディーンの血統に迎え入れ、あなたの「血の代償」を永遠に精算します。</seg>
       </tuv>
     </tu>
     <tu>
