@@ -22976,6 +22976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, wait a minute...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T062603Z" creationid="Mad" creationdate="20190407T062603Z">
+        <seg>やあ……ん？ちょっと待ってほしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T125545Z" creationid="setom" creationdate="20190402T165629Z">
@@ -24262,6 +24270,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045227Z" creationid="Mad" creationdate="20190407T045227Z">
         <seg>お前のことはよく覚えているぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I remember you, what are you doing back here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T062621Z" creationid="Mad" creationdate="20190407T062621Z">
+        <seg>私は君に覚えがある。何をしに、ここへ戻ってきたんだ？</seg>
       </tuv>
     </tu>
     <tu>
