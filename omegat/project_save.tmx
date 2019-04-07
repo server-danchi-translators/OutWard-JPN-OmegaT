@@ -11866,6 +11866,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because I was a careless idiot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130540Z" creationid="Light" creationdate="20190407T130540Z">
+        <seg>俺は不注意なバカだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because of her pride, dozens were slain by the beasts of the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130224Z" creationid="rkmad" creationdate="20190404T085146Z">
@@ -27487,16 +27495,16 @@
       <tuv lang="EN-US">
         <seg>It's my fault Yzan's got a Blood Price to pay.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130422Z" creationid="Light" creationdate="20190407T130422Z">
-        <seg>それは俺のせいだ、俺が支払うべき血の代償を得る。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130500Z" creationid="Light" creationdate="20190407T130422Z">
+        <seg>それは俺のせいだ、俺が支払うべき血の代償だ。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It's my fault your investment went belly up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130437Z" creationid="Light" creationdate="20190407T130437Z">
-        <seg>あなたの投資がおろそかになったのは私のせいです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130553Z" creationid="Light" creationdate="20190407T130437Z">
+        <seg>君の投資が失敗したのは俺のせいだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42956,8 +42964,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>So, you know.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130256Z" creationid="Light" creationdate="20190407T130256Z">
-        <seg>わかった。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130451Z" creationid="Light" creationdate="20190407T130256Z">
+        <seg>そうだな。</seg>
       </tuv>
     </tu>
     <tu>
