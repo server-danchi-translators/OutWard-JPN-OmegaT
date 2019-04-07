@@ -10899,8 +10899,8 @@
       <tuv lang="EN-US">
         <seg>As you start to black out from the pain, you sense someone standing above you, defending you!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034420Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
-        <seg>痛みで意識が遠のく、その時、誰かがあなたの上に立っていることに気づいた。あなたを守っているのだ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T090258Z" creationid="はぐくみ会" creationdate="20190403T053919Z">
+        <seg>痛みで意識が遠のく中、誰かが私の上に立っていることに気づいた。私を守っているのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -26998,8 +26998,8 @@
       <tuv lang="EN-US">
         <seg>It is hours before you regain consciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034151Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
-        <seg>数時間後にあなたは意識を取り戻した。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T090029Z" creationid="はぐくみ会" creationdate="20190403T053414Z">
+        <seg>数時間後、意識を取り戻した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51409,8 +51409,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are beaten and bloody, but alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190404T105132Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
-        <seg>あなたは殴られて出血をしているが、まだ生きている。
+      <tuv lang="JA" changeid="Light" changedate="20190407T090042Z" creationid="はぐくみ会" creationdate="20190403T053444Z">
+        <seg> 殴られて出血をしているが、まだ生きている。
 </seg>
       </tuv>
     </tu>
@@ -52021,8 +52021,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You fall to the ground, broken and defeated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034354Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
-        <seg>あなたは地面に落ち、壊れ、そして負けた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T090230Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
+        <seg>私は地面に倒れ、負けた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52675,8 +52675,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You will wear these scars for quite some time...You curse your recklessness and vow to be more prepared for danger in the future.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190405T234337Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
-        <seg>傷跡は長く残りそうだ…あなたは自身の無謀さを呪い、これからはもっと慎重に行動すると誓った。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T090150Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
+        <seg>傷跡は長く残りそうだ...。私は自身の無謀さを呪い、これからはもっと慎重に行動すると誓った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52892,7 +52892,7 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T082201Z" creationid="urakata" creationdate="20190331T071223Z">
+      <tuv lang="JA" changeid="Light" changedate="20190407T090105Z" creationid="urakata" creationdate="20190331T071223Z">
         <seg>敵は私が死んだと思い、捨てて行ったようだ。だが、安心していられない。</seg>
       </tuv>
     </tu>
