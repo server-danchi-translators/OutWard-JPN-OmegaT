@@ -17675,6 +17675,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal with Crock, the drunkard Warlord.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044545Z" creationid="urakata" creationdate="20190407T044545Z">
+        <seg>酔いどれ将軍Crockを始末する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal, here’s your money.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T054036Z" creationid="Light" creationdate="20190406T054036Z">
@@ -30872,6 +30880,22 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T042943Z" creationid="urakata" creationdate="20190407T042943Z">
         <seg>Neut_prequests_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T043339Z" creationid="urakata" creationdate="20190407T043339Z">
+        <seg>Neut_vendavel_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044443Z" creationid="urakata" creationdate="20190407T044443Z">
+        <seg>Neut_vendavel_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -44790,6 +44814,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064158Z" creationid="hiru4" creationdate="20190403T064158Z">
         <seg>分割画面を停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop the 3 warlords in the Fortress of Vendavel, located in the south-west of the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044442Z" creationid="urakata" creationdate="20190407T044442Z">
+        <seg>Chersonese南西のFortress of Vendavelにいる3人の将軍を止める</seg>
       </tuv>
     </tu>
     <tu>
