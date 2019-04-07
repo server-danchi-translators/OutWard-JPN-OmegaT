@@ -41563,6 +41563,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Seed that becomes more toxic after being cooked and can be crafted, using linen, into a poisonous weapon coating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064155Z" creationid="weedssoul" creationdate="20190407T064155Z">
+        <seg>調理することでより毒性が高くなった種。リネンと合わせると武器に毒属性を付与するアイテムになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115344Z" creationid="setom" creationdate="20190401T115344Z">
