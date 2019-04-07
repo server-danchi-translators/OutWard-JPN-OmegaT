@@ -21743,6 +21743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go chase your own dreams!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121443Z" creationid="Light" creationdate="20190407T121443Z">
+        <seg>夢を追いかけて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go make your report to Captain Rospa right away!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044143Z" creationid="Mad" creationdate="20190407T044143Z">
@@ -22115,6 +22123,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103328Z" creationid="seto" creationdate="20190404T103328Z">
         <seg>Golem_ForgeRedHot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121413Z" creationid="Light" creationdate="20190407T121413Z">
+        <seg>いい選択だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24355,8 +24371,8 @@
       <tuv lang="EN-US">
         <seg>I refuse to be chained that way!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T120831Z" creationid="Light" creationdate="20190407T120743Z">
-        <seg>そんな連鎖はクソくらえだ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121406Z" creationid="Light" creationdate="20190407T120743Z">
+        <seg>そんな連鎖から抜け出すのさ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24613,6 +24629,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T115817Z" creationid="weedssoul" creationdate="20190406T031506Z">
         <seg>苦難なら歓迎だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will chase the Levantine dream and make it my own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121603Z" creationid="Light" creationdate="20190407T121603Z">
+        <seg>俺はLevantineの夢を追いかけ、それを俺自身のものにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31176,8 +31200,8 @@
       <tuv lang="EN-US">
         <seg>My individual life is important, asking me to willingly sacrifice my wants and needs for the "collective good" is impossible.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T120758Z" creationid="Light" creationdate="20190407T120719Z">
-        <seg>俺は自分の生活が大事だ。「集団的な善」のために、自分の欲求やニーズを喜んで犠牲にするようなことは俺にはできない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121338Z" creationid="Light" creationdate="20190407T120719Z">
+        <seg>俺は自分の生活が大事だ。「集団的な善」のために、喜んで自分の欲求を犠牲にするようなことは、俺にはできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46824,6 +46848,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T092427Z" creationid="rkmad" creationdate="20190405T092427Z">
         <seg>あなたの正しい行いに感謝しますよ、リッサ。ええ、心の底からね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That I will.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T121504Z" creationid="Light" creationdate="20190407T121504Z">
+        <seg>俺はそうする。</seg>
       </tuv>
     </tu>
     <tu>
