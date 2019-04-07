@@ -18751,6 +18751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elaborate stew using alpha meat and a gravel beetle, which gives Impact Resistance as well as adding Impact to one’s attacks with the Rage status.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T085834Z" creationid="Light" creationdate="20190407T085834Z">
+        <seg>アルファミートとグラベルビートルを使ったシチュー。打撃耐性を与え、レイジ状態の攻撃に打撃を追加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114134Z" creationid="Gaiden Shinji" creationdate="20190404T114134Z">
@@ -20249,8 +20257,8 @@
       <tuv lang="EN-US">
         <seg>Fire-infused plant, seared again in fire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T085353Z" creationid="Light" creationdate="20190407T085353Z">
-        <seg>火を注入された植物を、さらに火で焼いた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T085529Z" creationid="Light" creationdate="20190407T085353Z">
+        <seg>火を注入された植物を、さらに火で焼いたもの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27178,6 +27186,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062620Z">
         <seg>いくらか金がかかってしまうがね。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will slowly remove the common cold with its heat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T085555Z" creationid="Light" creationdate="20190407T085429Z">
+        <seg>その熱でゆっくりと風邪を治すだろう。</seg>
       </tuv>
     </tu>
     <tu>
