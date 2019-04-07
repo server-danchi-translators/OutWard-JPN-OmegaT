@@ -27485,6 +27485,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's my fault Yzan's got a Blood Price to pay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130422Z" creationid="Light" creationdate="20190407T130422Z">
+        <seg>それは俺のせいだ、俺が支払うべき血の代償を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's my fault your investment went belly up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130437Z" creationid="Light" creationdate="20190407T130437Z">
+        <seg>あなたの投資がおろそかになったのは私のせいです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's the rational place for a fresh start.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T120014Z" creationid="Light" creationdate="20190407T120014Z">
@@ -42938,6 +42954,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, you know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130256Z" creationid="Light" creationdate="20190407T130256Z">
+        <seg>わかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soeran</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115530Z" creationid="Gaiden Shinji" creationdate="20190404T115530Z">
@@ -47287,8 +47311,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Heroic Kingdom doesn’t buy into the idea that we should only focus on survival.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130030Z" creationid="Light" creationdate="20190407T130030Z">
-        <seg>The Heroic Kingdomはただ生きることだけを考えているわけではない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130229Z" creationid="Light" creationdate="20190407T130030Z">
+        <seg>Heroic Kingdomはただ生きることだけを考えているわけではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50729,6 +50753,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What can you tell me about The Heroic Kingdom?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130222Z" creationid="Light" creationdate="20190407T130222Z">
+        <seg>Heroic Kingdomについて教えて？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What can you tell me about handling equipment?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064350Z" creationid="weedssoul" creationdate="20190406T064350Z">
@@ -51649,6 +51681,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113945Z" creationid="weedssoul" creationdate="20190406T113945Z">
         <seg>あ、あぁ、難破は残念だったね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yeah, it was my fault the boat got wrecked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130330Z" creationid="Light" creationdate="20190407T130330Z">
+        <seg>ああ、船が難破したのは俺のせいだった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52976,6 +53016,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114021Z">
         <seg>キックのような僅かなスキルを備えてゲームが始まります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You succeed or fail on your own merits, no one else’s.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130208Z" creationid="Light" creationdate="20190407T130208Z">
+        <seg>他の誰でもなく、自分自身が成功するか失敗するか、だ。</seg>
       </tuv>
     </tu>
     <tu>
