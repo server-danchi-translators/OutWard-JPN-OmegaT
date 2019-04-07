@@ -10407,6 +10407,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And never forget, the Scourge knows us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T141954Z" creationid="Mad" creationdate="20190407T141954Z">
+        <seg>そして、忘れないでください。スカージの獣達は、私達のことをよく知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And now you see why I don't want to go either.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051546Z" creationid="Light" creationdate="20190406T051546Z">
@@ -18519,6 +18527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't commit to what you don't understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142502Z" creationid="Mad" creationdate="20190407T142502Z">
+        <seg>ですが、あなたが理解できていないことに対し、それを行うべきではありませんよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't forget that Trogs have poor eyesight, but fantastic hearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T052218Z">
@@ -22887,6 +22903,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He will judge whether or not he will accept you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142641Z" creationid="Mad" creationdate="20190407T142641Z">
+        <seg>エラットが判断を下すこととなります。あなたを受け入れるかどうかのね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He will judge whether or not you are prepared to face the outside world.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T091550Z">
@@ -25089,6 +25113,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm not afraid of any of that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142532Z" creationid="Mad" creationdate="20190407T142532Z">
+        <seg>私はその教義に従い、聖なる任務に加わる事を恐れはしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm not going to die here!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T140854Z" creationid="Light" creationdate="20190405T135442Z">
@@ -25821,6 +25853,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084554Z" creationid="setom" creationdate="20190402T084051Z">
         <seg>猛暑の中では水を飲んで、日光対策のされた衣服を着ましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the meantime, I would like you to prove that you understand the First Pillar of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142724Z" creationid="Mad" creationdate="20190407T142724Z">
+        <seg>それまでの間に……そうですね。私は、あなたが聖なる使命の１つ目の教義を理解していることを証明してほしいと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28410,6 +28450,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T043912Z">
         <seg>あなたが何を頼もうとしてるかわかりませんが、お金のために命がけの仕事はしたくありません。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m not so sure anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142312Z" creationid="Mad" creationdate="20190407T142312Z">
+        <seg>ただ、いまひとつ理解できていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47412,6 +47460,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That’s asking a lot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142242Z" creationid="Mad" creationdate="20190407T142242Z">
+        <seg>それは、何度も耳にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s what I’m looking for!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T120106Z" creationid="weedssoul" creationdate="20190406T120106Z">
@@ -48152,6 +48208,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their hate of you will be boundless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142048Z" creationid="Mad" creationdate="20190407T142048Z">
+        <seg>あなたに対する彼らの怒りや憎しみは、計り知れないものになるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their need outweighs yours.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T083519Z">
@@ -48164,6 +48228,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T081442Z" creationid="pugnus" creationdate="20190406T081413Z">
         <seg>彼らの主な目的は、Old Levantの宣言したこの地域に対する主張を無効にすることだろう。いかなる手段を使用しても。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then I shall intercede on your behalf with Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142610Z" creationid="Mad" creationdate="20190407T142610Z">
+        <seg>そうですか。そうであるならば、私はあなたとエラットの間を取り持つといたしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49060,6 +49132,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T130828Z">
         <seg>しかし、野生の中で自分で作るには、原料と料理鍋が必要だ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To pledge to Elatt is to be &lt;color=#00CCFF&gt;&lt;b&gt;forever marked as an enemy of the Scourge&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142030Z" creationid="Mad" creationdate="20190407T142030Z">
+        <seg>エラットに仕えるということは&lt;color=#00CCFF&gt;&lt;b&gt;永遠にスカージと敵対し&lt;/b&gt;&lt;/color&gt;彼らに狙われるということです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50496,6 +50576,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We must all come to our own decisions in life, pilgrim.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142343Z" creationid="Mad" creationdate="20190407T142343Z">
+        <seg>旅人の方よ。私達はみな、人生の中で決断を下す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We must prepare as best we can.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084046Z" creationid="pugnus" creationdate="20190406T084046Z">
@@ -50836,6 +50924,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T104600Z" creationid="pugnus" creationdate="20190406T104600Z">
         <seg>...まぁ、仕方がないですね...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, more than usual at least.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T142233Z" creationid="Mad" creationdate="20190407T142233Z">
+        <seg>少なくとも、これまで以上にね。</seg>
       </tuv>
     </tu>
     <tu>
