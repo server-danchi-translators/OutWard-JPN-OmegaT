@@ -10185,8 +10185,8 @@
       <tuv lang="EN-US">
         <seg>Always work to improve yourself, in mind and body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190407T141628Z" creationid="Mad" creationdate="20190407T141628Z">
-        <seg>それを心がけ、常に己の心と体の鍛錬を繰り返す向上心を胸に刻みつけるのです。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T141831Z" creationid="Mad" creationdate="20190407T141628Z">
+        <seg>それを心がけ、常に己の心と体の鍛錬を繰り返す向上心を胸に刻みつけるのです。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -21809,8 +21809,8 @@
       <tuv lang="EN-US">
         <seg>Give of yourself, seek to ease the pains of others.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190407T141533Z" creationid="Mad" creationdate="20190407T141533Z">
-        <seg>あなた自身を鍛え、そしてその鍛えた力で他者を苦痛から守るのです。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T141824Z" creationid="Mad" creationdate="20190407T141533Z">
+        <seg>あなた自身を鍛え、そしてその鍛えた力で他者を苦痛から守るのです。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -48624,6 +48624,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Third, no one is safe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T141821Z" creationid="Mad" creationdate="20190407T141821Z">
+        <seg>第三に、誰もが心優しく安全であるという訳ではないことを理解しなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thirsty</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114303Z" creationid="setom" creationdate="20190401T114138Z">
@@ -49052,6 +49060,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T130828Z">
         <seg>しかし、野生の中で自分で作るには、原料と料理鍋が必要だ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To protect Aurai, one must have iron discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T141903Z" creationid="Mad" creationdate="20190407T141903Z">
+        <seg>オーライを守るためには、時には鉄の掟や刑罰が必要となります。</seg>
       </tuv>
     </tu>
     <tu>
