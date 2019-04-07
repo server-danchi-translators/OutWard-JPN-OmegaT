@@ -22743,6 +22743,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He hasn’t forgotten what it’s like to be human.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134725Z" creationid="Mad" creationdate="20190407T134725Z">
+        <seg>彼は人間であるというのがどういう事なのか、忘れていないようだったもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He is incredibly valuable to the Collective, and his health is not what it used to be.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T185350Z" creationid="magur0w" creationdate="20190404T183257Z">
@@ -22755,6 +22763,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132311Z" creationid="weedssoul" creationdate="20190406T132311Z">
         <seg>彼は実在する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He is... a lot less formal than I expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134700Z" creationid="Mad" creationdate="20190407T134637Z">
+        <seg>彼は……私が予想していたよりも遥かに、儀礼的な存在ではなかった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23427,8 +23443,8 @@
       <tuv lang="EN-US">
         <seg>How are you holding up?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T033413Z" creationid="weedssoul" creationdate="20190406T024530Z">
-        <seg>大丈夫か？</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T133902Z" creationid="weedssoul" creationdate="20190406T024530Z">
+        <seg>大丈夫？怪我はない？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28142,6 +28158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m doing alright.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T133943Z" creationid="Mad" creationdate="20190407T133943Z">
+        <seg>たいしたことはなかったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m done with him.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123218Z" creationid="Light" creationdate="20190407T122858Z">
@@ -28374,6 +28398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ve become a Missionary in his service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134535Z" creationid="Mad" creationdate="20190407T134535Z">
+        <seg>私は彼に仕える宣教師になれたの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ve got work to do, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T040421Z">
@@ -28394,6 +28426,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132532Z" creationid="weedssoul" creationdate="20190406T132259Z">
         <seg>私はかつて、彼と話をするという栄誉を得たことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve joined the Holy Mission and spoken with Elatt himself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134253Z" creationid="Mad" creationdate="20190407T134253Z">
+        <seg>私は無事に聖なる任務に加わることができて、エラットと対話をしたわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47656,6 +47696,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The journey was a lot harder than I thought it would be.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134053Z" creationid="Mad" creationdate="20190407T134053Z">
+        <seg>思っていたよりも、大変な道のりだったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The kidnappers shot him and left him for the animals.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183552Z" creationid="magur0w" creationdate="20190404T183552Z">
@@ -50721,6 +50769,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What about you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134221Z" creationid="Mad" creationdate="20190407T134019Z">
+        <seg>そっちは？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What actually is Mana, and how do you control it?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T121316Z" creationid="Light" creationdate="20190406T121316Z">
@@ -52092,6 +52148,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044350Z" creationid="seto" creationdate="20190404T215344Z">
         <seg> あんたも婆さんと一緒で不幸を呼ぶ人間なんだよ、このクズ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You came!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T133910Z" creationid="Mad" creationdate="20190407T133910Z">
+        <seg>来てくれたのね！</seg>
       </tuv>
     </tu>
     <tu>
@@ -56070,6 +56134,26 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045217Z" creationid="Mad" creationdate="20190407T045217Z">
         <seg>お前か！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">717_0</prop>
+      <tuv lang="EN-US">
+        <seg>Oh!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T133921Z" creationid="Mad" creationdate="20190407T133921Z">
+        <seg>ああ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">720_0</prop>
+      <tuv lang="EN-US">
+        <seg>How are things for you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T134154Z" creationid="Mad" creationdate="20190407T134009Z">
+        <seg>オリエルはどうだった？</seg>
       </tuv>
     </tu>
     <tu>
