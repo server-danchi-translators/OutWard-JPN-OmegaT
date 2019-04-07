@@ -13899,6 +13899,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conflux_MageA_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025136Z" creationid="seto" creationdate="20190407T025136Z">
+        <seg>Conflux_MageA_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confusion</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134248Z" creationid="totochan" creationdate="20190403T134248Z">
@@ -18100,6 +18108,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have questions about the art of magic, visitor?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025159Z" creationid="seto" creationdate="20190407T025134Z">
+        <seg>魔法についての質問でもあるのかね、お客さん？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to thieves in here?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011313Z" creationid="rkmad" creationdate="20190404T011313Z">
@@ -18830,8 +18846,8 @@
       <tuv lang="EN-US">
         <seg>Equipment loses durability with use, becoming weaker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T021540Z" creationid="setom" creationdate="20190331T111732Z">
-        <seg>装備を使うと耐久力を失い、壊れていきますが、</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025304Z" creationid="setom" creationdate="20190331T111732Z">
+        <seg>装備を使うと耐久値が減って、壊れていきますが、</seg>
       </tuv>
     </tu>
     <tu>
@@ -25081,8 +25097,8 @@
       <tuv lang="EN-US">
         <seg>Inns will take care of all your needs for you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T021027Z" creationid="setom" creationdate="20190331T110845Z">
-        <seg>だが宿屋なら全ての欲求に応えてくれるでしょう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025231Z" creationid="setom" creationdate="20190331T110845Z">
+        <seg>ですが宿屋なら全ての欲求に応えてくれるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
