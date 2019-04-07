@@ -23481,6 +23481,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do you plan on making it to Levant?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123237Z" creationid="Light" creationdate="20190407T123237Z">
+        <seg>どうやってレバントに行く？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How important is it to eat, drink and sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061952Z" creationid="Light" creationdate="20190406T061952Z">
@@ -24245,6 +24253,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094647Z" creationid="rkmad" creationdate="20190405T094647Z">
         <seg>それに、私は二度と娘に会えないかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I mean, it's in the middle of a desert!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123434Z" creationid="Light" creationdate="20190407T123434Z">
+        <seg>砂漠のど真ん中ですよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -27976,8 +27992,8 @@
       <tuv lang="EN-US">
         <seg>I’m done with him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T123102Z" creationid="Light" creationdate="20190407T122858Z">
-        <seg>俺の中での気がかりだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123218Z" creationid="Light" creationdate="20190407T122858Z">
+        <seg>俺はいつもあいつのことが心配だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33234,8 +33250,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Now and forever.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T122947Z" creationid="Light" creationdate="20190407T122947Z">
-        <seg>これからもずっと。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123131Z" creationid="Light" creationdate="20190407T122947Z">
+        <seg>これから先もずっとな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47596,6 +47612,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045708Z">
         <seg>主な特徴は&lt;color=#00CCFF&gt;&lt;b&gt;信じられない大きさと赤い色&lt;/b&gt;&lt;/color&gt;よ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sea can only take you so close.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123309Z" creationid="Light" creationdate="20190407T123309Z">
+        <seg>海では、近くまでしか行けない。</seg>
       </tuv>
     </tu>
     <tu>
