@@ -30548,6 +30548,102 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025643Z" creationid="seto" creationdate="20190407T025643Z">
+        <seg>Neut_Call-to_Adv_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025644Z" creationid="seto" creationdate="20190407T025644Z">
+        <seg>Neut_Call-to_Adv_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025647Z" creationid="seto" creationdate="20190407T025647Z">
+        <seg>Neut_Call-to_Adv_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025648Z" creationid="seto" creationdate="20190407T025648Z">
+        <seg>Neut_Call-to_Adv_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025651Z" creationid="seto" creationdate="20190407T025651Z">
+        <seg>Neut_Call-to_Adv_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025652Z" creationid="seto" creationdate="20190407T025652Z">
+        <seg>Neut_Call-to_Adv_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025653Z" creationid="seto" creationdate="20190407T025653Z">
+        <seg>Neut_Call-to_Adv_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Intro_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025638Z" creationid="seto" creationdate="20190407T025638Z">
+        <seg>Neut_Intro_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Intro_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025640Z" creationid="seto" creationdate="20190407T025640Z">
+        <seg>Neut_Intro_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Intro_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025641Z" creationid="seto" creationdate="20190407T025641Z">
+        <seg>Neut_Intro_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Intro_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025642Z" creationid="seto" creationdate="20190407T025642Z">
+        <seg>Neut_Intro_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Intro_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025643Z" creationid="seto" creationdate="20190407T025643Z">
+        <seg>Neut_Intro_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
@@ -36275,6 +36371,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T022126Z" creationid="setom" creationdate="20190331T112137Z">
         <seg>隠れるときは光を消しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_CallToA</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025604Z" creationid="seto" creationdate="20190407T025604Z">
+        <seg>QName_Neut_CallToA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025601Z" creationid="seto" creationdate="20190407T025601Z">
+        <seg>QName_Neut_Tutorial</seg>
       </tuv>
     </tu>
     <tu>
