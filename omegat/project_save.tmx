@@ -24817,6 +24817,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm leaving for the &lt;color=#00CCFF&gt;&lt;b&gt;Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;, never to darken this stain of a city ever again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T115605Z" creationid="Light" creationdate="20190407T115605Z">
+        <seg>二度とこの町を汚さないように、&lt;color=#00CCFF&gt;&lt;b&gt;レバントのHeroic Kingdom&lt;/b&gt;&lt;/color&gt;に行く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm mugging you.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T035430Z" creationid="weedssoul" creationdate="20190406T035430Z">
@@ -50968,6 +50976,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T151047Z" creationid="weedssoul" creationdate="20190405T151047Z">
         <seg>なぜ彼が？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why so far away?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T115737Z" creationid="Light" creationdate="20190407T115737Z">
+        <seg>なぜそんな遠くへ？</seg>
       </tuv>
     </tu>
     <tu>
