@@ -12418,6 +12418,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But we have everything you need inside!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051700Z" creationid="Mad" creationdate="20190407T051700Z">
+        <seg>しかし、疲れているんだろう？ ここなら何だって用意できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But with the shipwreck...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164247Z" creationid="Light" creationdate="20190405T164247Z">
@@ -21900,6 +21908,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good, follow me and behave yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051908Z" creationid="Mad" creationdate="20190407T051908Z">
+        <seg>ああ、大歓迎さ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T020205Z" creationid="rkmad" creationdate="20190404T011751Z">
@@ -23815,6 +23831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I insist!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052338Z" creationid="Mad" creationdate="20190407T052338Z">
+        <seg>自分の顔色は自分じゃ分からないだろう？ 少し休んでいったほうがいい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I joined an expedition across the sea with my old friend Yzan, hoping the money made there would be enough to clear my debts.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103855Z" creationid="setom" creationdate="20190402T103855Z">
@@ -24411,6 +24435,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133146Z" creationid="Light" creationdate="20190405T133146Z">
         <seg>この恩は忘れないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll pass, thanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052029Z" creationid="Mad" creationdate="20190407T052029Z">
+        <seg>いえ、その気持ちだけで十分です。私はすぐに旅立つつもりなので。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27576,6 +27608,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T044236Z" creationid="Light" creationdate="20190406T044236Z">
         <seg>ちょっと&lt;color=#00CCFF&gt;&lt;b&gt;変わったキノコ&lt;/b&gt;&lt;/color&gt;を探しているの、盾の形をしているわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m looking for a place to rest for a while.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052555Z" creationid="Mad" creationdate="20190407T052413Z">
+        <seg>少し休める場所を探していました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31416,6 +31456,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Mad" creationdate="20190405T151735Z">
         <seg>……いえ、あなたにもオリエルを説得することはできないでしょうね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, no, I think you’re sick!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052112Z" creationid="Mad" creationdate="20190407T052112Z">
+        <seg>まあまあ、待て待て！ 私が見るに、君は病気にかかっているように見える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45243,6 +45291,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sure, sounds good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051853Z" creationid="Mad" creationdate="20190407T051842Z">
+        <seg>では、お言葉に甘えて少し滞在させて貰うことにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sure, what do you want to know?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123112Z" creationid="weedssoul" creationdate="20190406T123112Z">
@@ -47059,6 +47115,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011237Z" creationid="rkmad" creationdate="20190404T011237Z">
         <seg>なんだと？　この泥棒め！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then you’ve come to the right place!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052613Z" creationid="Mad" creationdate="20190407T052548Z">
+        <seg>それなら、君は最高の場所にたどり着いたと言っても過言ではないよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49168,6 +49232,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We could always use more people to handle our work...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051959Z" creationid="Mad" creationdate="20190407T051959Z">
+        <seg>まあ、ちょっとばかり我々の仕事を手伝ってもらう事にはなるだろうけども、ね……。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We decide what enters and what is driven from our walls.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T060040Z" creationid="Light" creationdate="20190406T060040Z">
@@ -49192,6 +49264,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have food, water and treasure!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051745Z" creationid="Mad" creationdate="20190407T051745Z">
+        <seg>水に食料、あとは十分な金銭も我々は保有しているからね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have much to do as it stands.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T080457Z" creationid="pugnus" creationdate="20190406T080457Z">
@@ -49204,6 +49284,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T070915Z" creationid="pugnus" creationdate="20190406T070906Z">
         <seg>私たちは、来たるべき紛争に備えなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have plenty of free rooms for weary travellers!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052936Z" creationid="Mad" creationdate="20190407T052936Z">
+        <seg>ここには疲れた旅人達のための、たくさんの部屋が用意されているからね！</seg>
       </tuv>
     </tu>
     <tu>
@@ -51656,6 +51744,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131934Z" creationid="hiru4" creationdate="20190403T051741Z">
         <seg>休息には最低1時間必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to see our medic right away!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T052134Z" creationid="Mad" creationdate="20190407T052134Z">
+        <seg>すぐに我々の医者に診て貰う必要があるんじゃないか！？</seg>
       </tuv>
     </tu>
     <tu>
@@ -54784,6 +54880,26 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025023Z" creationid="seto" creationdate="20190407T025023Z">
         <seg>ようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2239_0</prop>
+      <tuv lang="EN-US">
+        <seg>Come on in!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051821Z" creationid="Mad" creationdate="20190407T051821Z">
+        <seg>さ、少し休んでいくといい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2239_0</prop>
+      <tuv lang="EN-US">
+        <seg>What?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T051601Z" creationid="Mad" creationdate="20190407T051601Z">
+        <seg>そうなのか？</seg>
       </tuv>
     </tu>
     <tu>
