@@ -34435,8 +34435,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T033652Z" creationid="urakata" creationdate="20190331T072041Z">
-        <seg>目を覚ますと、あなたの身体が痛みに震える。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T082007Z" creationid="urakata" creationdate="20190331T072041Z">
+        <seg>痛みに震え、目を覚ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52796,8 +52796,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T121824Z" creationid="urakata" creationdate="20190331T071223Z">
-        <seg>敵はあなたが死んだと思い、捨てて行ったようだ。それでもここでうかうかしてはいられない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T082045Z" creationid="urakata" creationdate="20190331T071223Z">
+        <seg>敵は私が死んだと思い、捨てて行ったようだ。だが、うかうかしていられない。</seg>
       </tuv>
     </tu>
     <tu>
