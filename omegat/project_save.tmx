@@ -12725,8 +12725,8 @@
       <tuv lang="EN-US">
         <seg>Certain potions and teas can cure diseases, though recovering from a disease takes times.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143002Z" creationid="setom" creationdate="20190331T111914Z">
-        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。特定のポーションや茶で病気を治療できるが、それでも回復には時間がかかってしまう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021720Z" creationid="setom" creationdate="20190331T111914Z">
+        <seg>特定のポーションやお茶で病気を治療できますが、回復には時間がかかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,8 +18294,8 @@
       <tuv lang="EN-US">
         <seg>Eating raw food and drinking unboiled water can give you diseases.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111912Z" creationid="setom" creationdate="20190331T111912Z">
-        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気にかかる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021654Z" creationid="setom" creationdate="20190331T111912Z">
+        <seg>生の食料を食べたり煮沸せずに水を飲んだりすると病気になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,8 +18734,8 @@
       <tuv lang="EN-US">
         <seg>Equipment loses durability with use, becoming weaker.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111732Z" creationid="setom" creationdate="20190331T111732Z">
-        <seg>装備は使うと耐久力を失い、壊れていく。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021540Z" creationid="setom" creationdate="20190331T111732Z">
+        <seg>装備を使うと耐久力を失い、壊れていきますが、</seg>
       </tuv>
     </tu>
     <tu>
@@ -26781,8 +26781,8 @@
       <tuv lang="EN-US">
         <seg>Items can be repaired while you rest in a tent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111738Z" creationid="setom" creationdate="20190331T111738Z">
-        <seg>だがアイテムはテントで休息中に修復できる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021531Z" creationid="setom" creationdate="20190331T111738Z">
+        <seg>アイテムはテントで休息中に修復できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36129,8 +36129,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Quickslotting your items, weapons and skills is the best way to use them quickly in combat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111825Z" creationid="setom" creationdate="20190331T111825Z">
-        <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021625Z" creationid="setom" creationdate="20190331T111825Z">
+        <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40667,8 +40667,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Simply place a lantern in your backpack inventory, lighting the lantern if it is not lit already.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142949Z" creationid="setom" creationdate="20190331T111721Z">
-        <seg>ただランタンをバックパック内に入れるだけで、火を点けずとも光を灯すだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021512Z" creationid="setom" creationdate="20190331T111721Z">
+        <seg>ランタンをバックパック内に入れるだけで、火を点けずとも光を灯すでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46193,8 +46193,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They are essential for explorers, and having multiple waterskins may be useful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111816Z" creationid="setom" creationdate="20190331T111816Z">
-        <seg>だがそれこそが探検家たちに重要であり、水筒が複数あればきっと役に立つだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021617Z" creationid="setom" creationdate="20190331T111816Z">
+        <seg>それこそが探検家たちに重要であり、水筒が複数あればきっと役に立つでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48026,8 +48026,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Waterskins are the only way to store water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111812Z" creationid="setom" creationdate="20190331T111812Z">
-        <seg>革の水筒の用途は水を貯めることだけだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021602Z" creationid="setom" creationdate="20190331T111812Z">
+        <seg>革の水筒の用途は水を貯めることだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49866,8 +49866,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can hang a lantern from most backpacks, providing light while freeing your hands.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111718Z" creationid="setom" creationdate="20190331T111718Z">
-        <seg>殆どのバックパックはランタンを吊り下げられるため、両手を空けつつ光を提供できる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021449Z" creationid="setom" creationdate="20190331T111718Z">
+        <seg>殆どのバックパックはランタンを吊り下げられるため、両手を空けつつ周囲を照らすことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50518,8 +50518,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You only have 8 quickslots, so choose wisely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142958Z" creationid="setom" creationdate="20190331T111834Z">
-        <seg>しかし、クイックスロットは8個しかない、賢い選択をしろ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021642Z" creationid="setom" creationdate="20190331T111834Z">
+        <seg>しかし、クイックスロットは8個しかありません、賢い選択をしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50962,8 +50962,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your compass will point to your last-used backpack, making it easier to find back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142946Z" creationid="setom" creationdate="20190331T111701Z">
-        <seg>コンパスが最後に使ったバックパックの位置を示すことで、簡単に取りに戻ってこれるはずだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021430Z" creationid="setom" creationdate="20190331T111701Z">
+        <seg>コンパスが最後に使ったバックパックの位置を示します。簡単に取りに戻ってこれるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53093,8 +53093,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“Broken” items can still be used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142955Z" creationid="setom" creationdate="20190331T111758Z">
-        <seg>「壊れた」アイテムでもまだ使えるぞ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021558Z" creationid="setom" creationdate="20190331T111758Z">
+        <seg>壊れたアイテムでも、まだ使うことができます。</seg>
       </tuv>
     </tu>
     <tu>
