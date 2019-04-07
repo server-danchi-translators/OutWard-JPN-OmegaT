@@ -42411,10 +42411,18 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleeping in this tent gives a medium bonus to stamina use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T084226Z" creationid="Light" creationdate="20190407T084226Z">
+        <seg>このテントで眠るとスタミナに中程度のボーナスがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleeping in this tent gives a small bonus to stamina use.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T134432Z">
-        <seg>このテントで眠るとスタミナに小さなボーナスを与える。 </seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T085116Z" creationid="Light" creationdate="20190406T134432Z">
+        <seg>このテントで眠るとスタミナに小さなボーナスがある。 </seg>
       </tuv>
     </tu>
     <tu>
