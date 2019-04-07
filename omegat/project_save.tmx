@@ -18190,8 +18190,8 @@
       <tuv lang="EN-US">
         <seg>Drop less useful items and don’t pick up everything you find, as too much weight will slow you down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143010Z" creationid="setom" creationdate="20190331T111958Z">
-        <seg>役に立たないアイテムは捨てて、何でも拾ったりはするな。荷重が増えるほど鈍重になるぞ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021925Z" creationid="setom" creationdate="20190331T111958Z">
+        <seg>何でも拾ってはなりません、役に立たないアイテムは捨てましょう。荷重が増えるほど動きが鈍くなってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18286,8 +18286,8 @@
       <tuv lang="EN-US">
         <seg>Eat or cook your food before it goes to waste!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143019Z" creationid="setom" creationdate="20190331T112009Z">
-        <seg>無駄になる前に食べるか調理せよ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021935Z" creationid="setom" creationdate="20190331T112009Z">
+        <seg>無駄になる前に食べるか調理しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18358,8 +18358,8 @@
       <tuv lang="EN-US">
         <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143022Z" creationid="setom" creationdate="20190331T112035Z">
-        <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やせ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T022011Z" creationid="setom" creationdate="20190331T112035Z">
+        <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やすことで回避できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20014,8 +20014,8 @@
       <tuv lang="EN-US">
         <seg>Food rots with time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112008Z" creationid="setom" creationdate="20190331T112008Z">
-        <seg>食料は腐る。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021929Z" creationid="setom" creationdate="20190331T112008Z">
+        <seg>食料は腐ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30798,8 +30798,8 @@
       <tuv lang="EN-US">
         <seg>Note that campfires don’t run out of fuel, so they don’t go out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143005Z" creationid="setom" creationdate="20190331T111927Z">
-        <seg>だが燃料なしには火が点かないことに注意しろ。そうすれば火が消えることはない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021822Z" creationid="setom" creationdate="20190331T111927Z">
+        <seg>しかし、燃料なしには火が点かないことには注意しましょう。そうすれば火が消えることはありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49786,8 +49786,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can be attacked while you rest in a tent.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T112033Z" creationid="setom" creationdate="20190331T112033Z">
-        <seg>テントで休んでいても攻撃を受けることがある。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021942Z" creationid="setom" creationdate="20190331T112033Z">
+        <seg>テントで休んでいても攻撃を受けることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49882,8 +49882,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can light a campfire with a Flint and Steel or certain fire spells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135423Z" creationid="setom" creationdate="20190331T111923Z">
-        <seg>火打ち石と打ち金、もしくは特定の火の呪文によりを灯せる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021748Z" creationid="setom" creationdate="20190331T111923Z">
+        <seg>火打ち石と打ち金、もしくは特定の火の呪文によりキャンプファイヤーに火を灯せます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50294,8 +50294,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You have very limited inventory space, even with a backpack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T094954Z" creationid="setom" creationdate="20190331T111954Z">
-        <seg>所持品、ひいてはバックパックもスペースには限りがある。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021832Z" creationid="setom" creationdate="20190331T111954Z">
+        <seg>所持品、ひいてはバックパックもスペースには限りがあります。</seg>
       </tuv>
     </tu>
     <tu>
