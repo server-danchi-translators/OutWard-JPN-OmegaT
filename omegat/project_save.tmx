@@ -22615,8 +22615,8 @@
       <tuv lang="EN-US">
         <seg>Hitting enemies, especially with heavier weapons, will knock them back and cancel their attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113105Z" creationid="setom" creationdate="20190331T113105Z">
-        <seg>敵を攻撃時、特に重武器の時は敵をノックバックさせ、更に敵の攻撃がキャンセルされるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023552Z" creationid="setom" creationdate="20190331T113105Z">
+        <seg>敵を攻撃時、特に重武器の時は敵をノックバックさせ、更に敵の攻撃がキャンセルされるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22961,8 +22961,8 @@
       <tuv lang="EN-US">
         <seg>However, they can knock you down too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143130Z" creationid="setom" creationdate="20190331T113107Z">
-        <seg>だが、それは自分だけの特権ではない…。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023633Z" creationid="setom" creationdate="20190331T113107Z">
+        <seg>しかし、それはプレイヤーだけの特権ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30806,8 +30806,8 @@
       <tuv lang="EN-US">
         <seg>Note that light sources make you more visible to enemies while they are lit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143133Z" creationid="setom" creationdate="20190331T113208Z">
-        <seg>火がついている間は光源が自分を敵から発見されやすくすることには注意をしておけ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023833Z" creationid="setom" creationdate="20190331T113208Z">
+        <seg>火がついている間は敵から発見されやすくなることに注意しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46785,8 +46785,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113206Z" creationid="setom" creationdate="20190331T113206Z">
-        <seg>燃料を節約するために、ランタンや松明を点けたり消したりできる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023809Z" creationid="setom" creationdate="20190331T113206Z">
+        <seg>燃料を節約するために、必要に応じてランタンやたいまつを消すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50793,8 +50793,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You will then be able to better target that enemy, especially with ranged weapons or skills.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T023509Z" creationid="setom" creationdate="20190331T113011Z">
-        <seg>より厄介な敵をロックオンしたほうがいい、特に遠距離武器やスキルを持った敵だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023540Z" creationid="setom" creationdate="20190331T113011Z">
+        <seg>より厄介な敵をロックオンしたほうがいいでしょう。 特に遠距離武器やスキルを持った敵には要注意です。</seg>
       </tuv>
     </tu>
     <tu>
