@@ -24153,6 +24153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have a great deal of things to administrate, please do not bother me unless it’s important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T143119Z" creationid="Mad" creationdate="20190407T143119Z">
+        <seg>私は枢機卿として、管理せねばならぬことが無数にあるのです。申し訳ないが、重要なことでなければあまり声をかけないで頂ければと思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have an offer.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T164343Z">
@@ -24621,6 +24629,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034609Z" creationid="rkmad" creationdate="20190405T034315Z">
         <seg>もしかしたら、今とは違う関係が私とあなたの間にもあったかもしれない。そんな未来の可能性が私達には見えていました。ですが、そうはならなかった。彼――あなたの父は、あなたの祖母の行いによる重圧に、長く耐えられなかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I see.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T143030Z" creationid="Mad" creationdate="20190407T143030Z">
+        <seg>わかりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28362,6 +28378,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045006Z" creationid="Mad" creationdate="20190407T045006Z">
         <seg>すまない、ただの通りすがりの旅人なんだ。すぐに立ち去るよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m just stopping by.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T143023Z" creationid="Mad" creationdate="20190407T143023Z">
+        <seg>少し立ち寄っただけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49114,8 +49138,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join us is to cut all ties, abandon your bloodline, and live the rest of your life for the good of all Aurai.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190407T141413Z" creationid="Mad" creationdate="20190407T141413Z">
-        <seg>聖なる任務に加わるということは、血統も何もかも全ての絆を断ち切り、あなたの人生全てをオーラの為に捧げるということなのですから。</seg>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T143000Z" creationid="Mad" creationdate="20190407T141413Z">
+        <seg>聖なる任務に加わるということは、血統も何もかも全ての絆を断ち切り、あなたの人生全てをオーライの為に捧げるということなのですから。</seg>
       </tuv>
     </tu>
     <tu>
