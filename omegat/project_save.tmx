@@ -10825,8 +10825,8 @@
       <tuv lang="EN-US">
         <seg>As the Immaculates pounce on you without mercy, the ground beneath you crumbles, and you fall into darkness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013319Z" creationid="pugnus" creationdate="20190404T104719Z">
-        <seg>Immaculatesが容赦なくあなたに襲い掛かる。するとあなたの下の地面が崩壊し、そして、あなたは暗闇に落ちていった。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103147Z" creationid="pugnus" creationdate="20190404T104719Z">
+        <seg>Immaculatesが容赦なく私に襲い掛かる。すると私の下の地面が崩壊し、私は暗闇に落ちていった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12589,8 +12589,8 @@
       <tuv lang="EN-US">
         <seg>By the time you pull yourself out, your foes seem to have regained their senses and fled the cave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013324Z" creationid="pugnus" creationdate="20190404T105137Z">
-        <seg>あなたが何とか身体を引きずりだした頃には、Immaculatesも彼らの感覚を取り戻し、洞穴から逃げていた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103211Z" creationid="pugnus" creationdate="20190404T105137Z">
+        <seg>私が何とか身体を引きずりだした頃には、Immaculatesも意識を取り戻し、洞穴から逃げていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27215,8 +27215,8 @@
       <tuv lang="EN-US">
         <seg>It would seem that those Blue Chamber Scouts still uphold the tradition of not killing foes unless truly needed, or they mistook your for dead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013342Z" creationid="pugnus" creationdate="20190404T103429Z">
-        <seg>Blue Chamber Scoutsは不殺の伝統を守り続けているようだ。または...あなたが死んだと勘違いしたのか。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103338Z" creationid="pugnus" creationdate="20190404T103429Z">
+        <seg>青の議会のScoutsは不殺の伝統を守り続けているようだ。 または...私が死んだと勘違いしたのか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47063,8 +47063,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The attackers seem to have detonated an explosive and left you to take the blame...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T104448Z" creationid="pugnus" creationdate="20190404T104326Z">
-        <seg>爆破した攻撃者は、犯人に仕立てるためにあなたを残したようだ...</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103249Z" creationid="pugnus" creationdate="20190404T104326Z">
+        <seg>爆破した者は、犯人に仕立てるために私を残したようだ...。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47954,8 +47954,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They will no doubt be a danger to Monsoon in the future.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013330Z" creationid="pugnus" creationdate="20190404T105356Z">
-        <seg>彼らは将来、Monsoonにとって危険な存在となるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103218Z" creationid="pugnus" creationdate="20190404T105356Z">
+        <seg>彼らは将来、モンスーンにとって危険な存在となるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51932,16 +51932,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You cough up sand as you stir from unconsciousness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T103728Z" creationid="pugnus" creationdate="20190404T103728Z">
-        <seg>意識が戻ると、あなたは砂を吐き出す。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103256Z" creationid="pugnus" creationdate="20190404T103728Z">
+        <seg>意識が戻ると、私は砂を吐き出す。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>You cough up soot and ash as you wake up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T103910Z" creationid="pugnus" creationdate="20190404T103910Z">
-        <seg>目を覚ましたあなたは、煤と灰を吐き出す。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103233Z" creationid="pugnus" creationdate="20190404T103910Z">
+        <seg>目を覚ました私は、煤と灰を吐き出した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52135,8 +52135,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You have no idea how long you’ve been out, but by now the coup against Levant is likely in full swing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013355Z" creationid="pugnus" creationdate="20190404T102808Z">
-        <seg>どのくらいの時間が経っているのかは分からないが、多分、今頃はLevantに対する反乱が本格化しているだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103354Z" creationid="pugnus" creationdate="20190404T102808Z">
+        <seg>どのくらいの時間が経っているのかは分からないが、多分、今頃はレバントに対する反乱が本格化しているだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52399,8 +52399,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You open your eyes in the abandoned docks, inches from death.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T103143Z" creationid="pugnus" creationdate="20190404T102122Z">
-        <seg>あなたは放棄された造船所で目を開く。あと少しで死ぬところだったが、戻ってきた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103346Z" creationid="pugnus" creationdate="20190404T102122Z">
+        <seg>私は放棄された造船所で目を開く。あと少しで死ぬところだったが、戻ってきた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52511,8 +52511,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You should hurry if you intend to stop them!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T102923Z" creationid="pugnus" creationdate="20190404T102923Z">
-        <seg>もしあなたがそれらを止めるつもりならば、急ぐべきだ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T103456Z" creationid="pugnus" creationdate="20190404T102923Z">
+        <seg>私がそれを止められるのならば、急ぐべきだ！</seg>
       </tuv>
     </tu>
     <tu>
