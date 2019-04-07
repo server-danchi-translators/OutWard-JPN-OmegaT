@@ -29206,6 +29206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T120330Z" creationid="Light" creationdate="20190407T120330Z">
+        <seg>そうだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make sure you have a good weapon, a lantern, and plenty of supplies.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T052009Z">
@@ -51913,6 +51921,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can't abandon it like this!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T120323Z" creationid="Light" creationdate="20190407T120323Z">
+        <seg>そんな風に放棄することはいけない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can't hold me responsible for things that are out of my control!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T124820Z" creationid="rkmad" creationdate="20190404T083913Z">
@@ -52152,6 +52168,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103056Z" creationid="pugnus" creationdate="20190406T010027Z">
         <seg>私は立ち上がる。その身体は殴られ、血まみれだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have a duty to your tribe!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T120220Z" creationid="Light" creationdate="20190407T120220Z">
+        <seg>あなたは自分の部族に対する責任がある！</seg>
       </tuv>
     </tu>
     <tu>
