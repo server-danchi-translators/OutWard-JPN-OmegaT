@@ -10891,8 +10891,8 @@
       <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114229Z" creationid="setom" creationdate="20190331T114229Z">
-        <seg>情報や道案内は各都市で見つかる宿屋の亭主に尋ねよ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033532Z" creationid="setom" creationdate="20190331T114229Z">
+        <seg>情報や道案内は各都市で見つかる宿屋の亭主に尋てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18366,8 +18366,8 @@
       <tuv lang="EN-US">
         <seg>Each city has several merchants, either directly outside or inside buildings.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114208Z" creationid="setom" creationdate="20190331T114208Z">
-        <seg>各都市には数人の商人が内外にいる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033412Z" creationid="setom" creationdate="20190331T114208Z">
+        <seg>各都市には数人の商人がいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21998,8 +21998,8 @@
       <tuv lang="EN-US">
         <seg>Guards can also provide advice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143207Z" creationid="setom" creationdate="20190331T114230Z">
-        <seg>衛兵もまた助けとなるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033549Z" creationid="setom" creationdate="20190331T114230Z">
+        <seg>衛兵もまた助けとなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22399,8 +22399,8 @@
       <tuv lang="EN-US">
         <seg>Heavier armor offers greater protection from physical damage, but slows down your movement and makes every action consume more stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143158Z" creationid="setom" creationdate="20190331T114137Z">
-        <seg>重い鎧は物理的ダメージに対する防御力を大きく高めてくれるが、代わりに動きは鈍くなり、スタミナの消費も増加する。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033403Z" creationid="setom" creationdate="20190331T114137Z">
+        <seg>重い鎧は物理的ダメージに対する防御力を大きく高めてくれますが、代わりに動きは鈍くなり、スタミナの消費が増加します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45950,8 +45950,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The absolute basic gear for an explorer is a backpack containing a waterskin, food, bandages, antidotes, a tent, and firewood.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114220Z" creationid="setom" creationdate="20190331T114220Z">
-        <seg>探検家の絶対に基本となる道具は、革の水筒や食料、包帯、解毒剤、テント、そして薪を収容したバックパックである。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033505Z" creationid="setom" creationdate="20190331T114220Z">
+        <seg>探検家の絶対に基本となる道具は、革の水筒や食料、包帯、解毒剤、テント、そして薪を収容したバックパックです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46873,8 +46873,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They will sell food, equipment and crafting recipes, in addition to selling goods related to their city’s specialties.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143201Z" creationid="setom" creationdate="20190331T114210Z">
-        <seg>彼らは食料、装備、クラフトレシピを売ってくれ、他にも各都市の特産品も販売している。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033448Z" creationid="setom" creationdate="20190331T114210Z">
+        <seg>彼らは食料、装備、クラフトレシピ、そして各都市の特産品も販売しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46945,8 +46945,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Things like cooking pots and traps help greatly too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143203Z" creationid="setom" creationdate="20190331T114221Z">
-        <seg>料理鍋や罠なども大いに助けとなるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033515Z" creationid="setom" creationdate="20190331T114221Z">
+        <seg>料理鍋や罠なども大いに助けとなるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47570,8 +47570,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Traps are very useful.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114124Z" creationid="setom" creationdate="20190331T114124Z">
-        <seg>罠はとても便利だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033246Z" creationid="setom" creationdate="20190331T114124Z">
+        <seg>罠はとても便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51078,8 +51078,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You must deploy a trap trigger (like a Tripwire Trap) on the ground, then place a compatible object in it (like spikes or weapons).</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143155Z" creationid="setom" creationdate="20190331T114127Z">
-        <seg>(トラップワイヤーのような)罠の起動装置を地面に配置して、それに適した(スパイクや武器などの)オブジェクトを設置しよう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033345Z" creationid="setom" creationdate="20190331T114127Z">
+        <seg>トラップワイヤーのような起動装置を地面に配置して、スパイクや武器などのオブジェクトを設置しましょう。</seg>
       </tuv>
     </tu>
     <tu>
