@@ -10977,6 +10977,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack the intruder, men!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T050848Z" creationid="Mad" creationdate="20190407T050725Z">
+        <seg>ほうら、野郎共、こいつは敵だ！やっちまえ！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>AttackerNote_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102336Z" creationid="seto" creationdate="20190405T102336Z">
@@ -24271,6 +24279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'd like to see you try.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T050839Z" creationid="Mad" creationdate="20190407T050658Z">
+        <seg>ははっ！面白い冗談を言う奴だねぇ。試してもあたしゃ構わないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'd probably just get in the way.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T115207Z" creationid="weedssoul" creationdate="20190406T115207Z">
@@ -24371,6 +24387,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T163736Z" creationid="Light" creationdate="20190405T163736Z">
         <seg>あなたが、あの難破の事故から生き残ってくれて嬉しいわ、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm here to kill you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T050630Z" creationid="Mad" creationdate="20190407T050630Z">
+        <seg>お前達を討伐しに来た。</seg>
       </tuv>
     </tu>
     <tu>
