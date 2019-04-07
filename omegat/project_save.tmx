@@ -13891,6 +13891,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conflux_MageA_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024935Z" creationid="seto" creationdate="20190407T024935Z">
+        <seg>Conflux_MageA_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confusion</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134248Z" creationid="totochan" creationdate="20190403T134248Z">
@@ -15159,6 +15167,94 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T141310Z" creationid="Light" creationdate="20190406T141310Z">
         <seg>料理:Turmmip Potage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024833Z" creationid="seto" creationdate="20190407T024833Z">
+        <seg>Cooking_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024835Z" creationid="seto" creationdate="20190407T024835Z">
+        <seg>Cooking_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024838Z" creationid="seto" creationdate="20190407T024838Z">
+        <seg>Cooking_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024841Z" creationid="seto" creationdate="20190407T024841Z">
+        <seg>Cooking_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024843Z" creationid="seto" creationdate="20190407T024843Z">
+        <seg>Cooking_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024843Z" creationid="seto" creationdate="20190407T024843Z">
+        <seg>Cooking_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024844Z" creationid="seto" creationdate="20190407T024844Z">
+        <seg>Cooking_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024845Z" creationid="seto" creationdate="20190407T024845Z">
+        <seg>Cooking_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024845Z" creationid="seto" creationdate="20190407T024845Z">
+        <seg>Cooking_tutorial_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024846Z" creationid="seto" creationdate="20190407T024846Z">
+        <seg>Cooking_tutorial_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooking_tutorial_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024846Z" creationid="seto" creationdate="20190407T024846Z">
+        <seg>Cooking_tutorial_11</seg>
       </tuv>
     </tu>
     <tu>
@@ -23035,6 +23131,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073659Z" creationid="weedssoul" creationdate="20190406T073659Z">
         <seg>私は、あなたの両親が作るセビチェが大好きだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am a Watcher of the Ley Line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025109Z" creationid="seto" creationdate="20190407T025109Z">
+        <seg>私はLey Lineの監視人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33855,6 +33959,38 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Cooking_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024832Z" creationid="seto" creationdate="20190407T024832Z">
+        <seg>Player_Cooking_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cooking_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024834Z" creationid="seto" creationdate="20190407T024834Z">
+        <seg>Player_Cooking_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cooking_tutorial_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024837Z" creationid="seto" creationdate="20190407T024837Z">
+        <seg>Player_Cooking_tutorial_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cooking_tutorial_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024840Z" creationid="seto" creationdate="20190407T024840Z">
+        <seg>Player_Cooking_tutorial_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Cyr_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T053143Z" creationid="seto" creationdate="20190406T053143Z">
@@ -35607,6 +35743,78 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_combat_tutorial_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024758Z" creationid="seto" creationdate="20190407T024758Z">
+        <seg>Player_combat_tutorial_c_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_combat_tutorial_d_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024805Z" creationid="seto" creationdate="20190407T024805Z">
+        <seg>Player_combat_tutorial_d_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_craft_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024908Z" creationid="seto" creationdate="20190407T024908Z">
+        <seg>Player_craft_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_craft_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024911Z" creationid="seto" creationdate="20190407T024911Z">
+        <seg>Player_craft_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_craft_tutorial_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024916Z" creationid="seto" creationdate="20190407T024916Z">
+        <seg>Player_craft_tutorial_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_craft_tutorial_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024923Z" creationid="seto" creationdate="20190407T024923Z">
+        <seg>Player_craft_tutorial_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_disease_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024820Z" creationid="seto" creationdate="20190407T024820Z">
+        <seg>Player_disease_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_disease_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024822Z" creationid="seto" creationdate="20190407T024822Z">
+        <seg>Player_disease_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_disease_tutorial_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024826Z" creationid="seto" creationdate="20190407T024826Z">
+        <seg>Player_disease_tutorial_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_needs_tutorial_a_00</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T071252Z" creationid="seto" creationdate="20190406T071252Z">
@@ -35675,6 +35883,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T071457Z" creationid="seto" creationdate="20190406T071457Z">
         <seg>Player_smith_tutorial_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_wizard_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024847Z" creationid="seto" creationdate="20190407T024847Z">
+        <seg>Player_wizard_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_wizard_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024849Z" creationid="seto" creationdate="20190407T024849Z">
+        <seg>Player_wizard_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_wizard_tutorial_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024854Z" creationid="seto" creationdate="20190407T024854Z">
+        <seg>Player_wizard_tutorial_a_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -41053,6 +41285,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T071507Z" creationid="seto" creationdate="20190406T071507Z">
         <seg>Smith_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024907Z" creationid="seto" creationdate="20190407T024907Z">
+        <seg>Smith_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smith_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024907Z" creationid="seto" creationdate="20190407T024907Z">
+        <seg>Smith_tutorial_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -49356,6 +49604,46 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wizard_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024848Z" creationid="seto" creationdate="20190407T024848Z">
+        <seg>Wizard_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024850Z" creationid="seto" creationdate="20190407T024850Z">
+        <seg>Wizard_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024852Z" creationid="seto" creationdate="20190407T024852Z">
+        <seg>Wizard_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024855Z" creationid="seto" creationdate="20190407T024855Z">
+        <seg>Wizard_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wizard_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024858Z" creationid="seto" creationdate="20190407T024858Z">
+        <seg>Wizard_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wizard_tutorial_06</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T071251Z" creationid="seto" creationdate="20190406T071251Z">
@@ -51657,10 +51945,266 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>combat_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024800Z" creationid="seto" creationdate="20190407T024800Z">
+        <seg>combat_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024801Z" creationid="seto" creationdate="20190407T024801Z">
+        <seg>combat_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024803Z" creationid="seto" creationdate="20190407T024803Z">
+        <seg>combat_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024806Z" creationid="seto" creationdate="20190407T024806Z">
+        <seg>combat_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024808Z" creationid="seto" creationdate="20190407T024808Z">
+        <seg>combat_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024809Z" creationid="seto" creationdate="20190407T024809Z">
+        <seg>combat_tutorial_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024811Z" creationid="seto" creationdate="20190407T024811Z">
+        <seg>combat_tutorial_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024812Z" creationid="seto" creationdate="20190407T024812Z">
+        <seg>combat_tutorial_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024814Z" creationid="seto" creationdate="20190407T024814Z">
+        <seg>combat_tutorial_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024815Z" creationid="seto" creationdate="20190407T024815Z">
+        <seg>combat_tutorial_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024817Z" creationid="seto" creationdate="20190407T024817Z">
+        <seg>combat_tutorial_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024817Z" creationid="seto" creationdate="20190407T024817Z">
+        <seg>combat_tutorial_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024818Z" creationid="seto" creationdate="20190407T024818Z">
+        <seg>combat_tutorial_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>congratulations</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102329Z" creationid="seto" creationdate="20190405T102329Z">
         <seg>congratulations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024909Z" creationid="seto" creationdate="20190407T024909Z">
+        <seg>crafting_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024912Z" creationid="seto" creationdate="20190407T024912Z">
+        <seg>crafting_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024914Z" creationid="seto" creationdate="20190407T024914Z">
+        <seg>crafting_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024915Z" creationid="seto" creationdate="20190407T024915Z">
+        <seg>crafting_tutorial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024918Z" creationid="seto" creationdate="20190407T024918Z">
+        <seg>crafting_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024919Z" creationid="seto" creationdate="20190407T024919Z">
+        <seg>crafting_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024921Z" creationid="seto" creationdate="20190407T024921Z">
+        <seg>crafting_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024926Z" creationid="seto" creationdate="20190407T024926Z">
+        <seg>crafting_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024928Z" creationid="seto" creationdate="20190407T024928Z">
+        <seg>crafting_tutorial_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024930Z" creationid="seto" creationdate="20190407T024930Z">
+        <seg>crafting_tutorial_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>crafting_tutorial_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024934Z" creationid="seto" creationdate="20190407T024934Z">
+        <seg>crafting_tutorial_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024821Z" creationid="seto" creationdate="20190407T024821Z">
+        <seg>disease_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024824Z" creationid="seto" creationdate="20190407T024824Z">
+        <seg>disease_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024825Z" creationid="seto" creationdate="20190407T024825Z">
+        <seg>disease_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024827Z" creationid="seto" creationdate="20190407T024827Z">
+        <seg>disease_tutorial_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024829Z" creationid="seto" creationdate="20190407T024829Z">
+        <seg>disease_tutorial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024830Z" creationid="seto" creationdate="20190407T024830Z">
+        <seg>disease_tutorial_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024831Z" creationid="seto" creationdate="20190407T024831Z">
+        <seg>disease_tutorial_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>disease_tutorial_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024832Z" creationid="seto" creationdate="20190407T024832Z">
+        <seg>disease_tutorial_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -53366,6 +53910,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T093742Z" creationid="rkmad" creationdate="20190404T093742Z">
         <seg>悪くない選択だと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">1868_0</prop>
+      <tuv lang="EN-US">
+        <seg>Welcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T025023Z" creationid="seto" creationdate="20190407T025023Z">
+        <seg>ようこそ。</seg>
       </tuv>
     </tu>
     <tu>
