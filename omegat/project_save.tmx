@@ -22855,6 +22855,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do I focus on my targets?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024749Z" creationid="seto" creationdate="20190407T024749Z">
+        <seg>どうやって敵を狙えばいいんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do I know you're not at fault?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023221Z" creationid="seto" creationdate="20190404T215207Z">
@@ -35571,6 +35579,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T165420Z" creationid="setom" creationdate="20190402T165420Z">
         <seg>Player_Yzan_beach_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_combat_tutorial_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024723Z" creationid="seto" creationdate="20190407T024723Z">
+        <seg>Player_combat_tutorial_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_combat_tutorial_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024733Z" creationid="seto" creationdate="20190407T024733Z">
+        <seg>Player_combat_tutorial_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_combat_tutorial_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024729Z" creationid="seto" creationdate="20190407T024729Z">
+        <seg>Player_combat_tutorial_b_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -51601,6 +51633,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>combat_tutorial_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024724Z" creationid="seto" creationdate="20190407T024724Z">
+        <seg>combat_tutorial_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024727Z" creationid="seto" creationdate="20190407T024727Z">
+        <seg>combat_tutorial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combat_tutorial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024730Z" creationid="seto" creationdate="20190407T024730Z">
+        <seg>combat_tutorial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>congratulations</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102329Z" creationid="seto" creationdate="20190405T102329Z">
@@ -51733,6 +51789,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101410Z" creationid="seto" creationdate="20190405T101410Z">
         <seg>listen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>loc_key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024717Z" creationid="seto" creationdate="20190407T024717Z">
+        <seg>loc_key</seg>
       </tuv>
     </tu>
     <tu>
@@ -52773,6 +52837,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101722Z" creationid="seto" creationdate="20190405T101722Z">
         <seg>surprised</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>thanks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190407T024712Z" creationid="seto" creationdate="20190407T024712Z">
+        <seg>thanks</seg>
       </tuv>
     </tu>
     <tu>
