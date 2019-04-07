@@ -17683,10 +17683,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal with Balira, the Witch Warlord.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044614Z" creationid="urakata" creationdate="20190407T044614Z">
+        <seg>魔術将軍Baliraを始末する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal with Crock, the drunkard Warlord.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T044545Z" creationid="urakata" creationdate="20190407T044545Z">
         <seg>酔いどれ将軍Crockを始末する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deal with Rospa, the Kazite Warlord.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044634Z" creationid="urakata" creationdate="20190407T044634Z">
+        <seg>Kaziteの将軍Rospaを始末する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27756,6 +27772,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill Rospa in Vendavel or convince Eto, the trainer in Cierzo, to sacrifice himself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044815Z" creationid="urakata" creationdate="20190407T044815Z">
+        <seg>VendavelのRopsaを殺すか、Cierzoの指南者Etoに犠牲になってもらうよう説得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind as ever, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030618Z" creationid="weedssoul" creationdate="20190406T030618Z">
@@ -31000,6 +31024,54 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T044443Z" creationid="urakata" creationdate="20190407T044443Z">
         <seg>Neut_vendavel_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044547Z" creationid="urakata" creationdate="20190407T044547Z">
+        <seg>Neut_vendavel_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044548Z" creationid="urakata" creationdate="20190407T044548Z">
+        <seg>Neut_vendavel_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044614Z" creationid="urakata" creationdate="20190407T044614Z">
+        <seg>Neut_vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044616Z" creationid="urakata" creationdate="20190407T044616Z">
+        <seg>Neut_vendavel_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044635Z" creationid="urakata" creationdate="20190407T044635Z">
+        <seg>Neut_vendavel_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T044817Z" creationid="urakata" creationdate="20190407T044817Z">
+        <seg>Neut_vendavel_08</seg>
       </tuv>
     </tu>
     <tu>
