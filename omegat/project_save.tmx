@@ -25345,6 +25345,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he finds you worthy, he will invite you to join us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T151403Z" creationid="Mad" creationdate="20190407T151403Z">
+        <seg>エラットがふさわしいと思ったならば、あなたを私達の仲間として迎え入れるように勧めてくれることでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he’d been found sooner...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T133929Z" creationid="Light" creationdate="20190404T133929Z">
@@ -34340,6 +34348,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
         <seg>Campfire Kitを持っていたら、所持品から使用してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have spoken to them, pray to the altar at the back of this temple, and wait for Elatt to judge you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T151249Z" creationid="Mad" creationdate="20190407T151249Z">
+        <seg>あなたが彼らと話をしたら、この神殿の裏の祭壇に祈り、エラットがあなたを裁くのを待ちます。</seg>
       </tuv>
     </tu>
     <tu>
