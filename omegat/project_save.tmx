@@ -8831,6 +8831,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About joining the Holy Mission with me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135119Z" creationid="Mad" creationdate="20190407T135119Z">
+        <seg>聖なる任務に、私とともに加わるということについての話よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abrassar</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111344Z" creationid="Gaiden Shinji" creationdate="20190404T111344Z">
@@ -22623,6 +22631,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you given my previous words any thought?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135035Z" creationid="Mad" creationdate="20190407T135035Z">
+        <seg>私が前に投げかけた言葉で、何か思うところはあった？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180722Z" creationid="magur0w" creationdate="20190404T174552Z">
@@ -22827,6 +22843,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T042719Z" creationid="weedssoul" creationdate="20190406T042612Z">
         <seg>若い頃、彼は軽率で利己的だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He will ask Elatt to judge your worth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135654Z" creationid="Mad" creationdate="20190407T135654Z">
+        <seg>彼はエラットに、あなたの価値について裁可を下すように訪ねてくれるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25301,6 +25325,14 @@
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090558Z" creationid="rkmad" creationdate="20190405T090558Z">
         <seg>約束を守ることができないのなら、守れなかったことによる代償も受け入れなくてはならないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you choose to join us, you should &lt;color=#00CCFF&gt;&lt;b&gt;speak with Cardinal Bourlamaque&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135615Z" creationid="Mad" creationdate="20190407T135615Z">
+        <seg>もしあなたが私達に加わる決意が出来たなら&lt;color=#00CCFF&gt;&lt;b&gt;ブラマク枢機卿と話をしてきて&lt;/b&gt;&lt;/color&gt;ちょうだい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27989,6 +28021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s nice to see a familiar face.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135359Z" creationid="Mad" creationdate="20190407T135359Z">
+        <seg>顔なじみに会えて、ほっとしているの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s not nice!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042625Z" creationid="Light" creationdate="20190406T042625Z">
@@ -28406,6 +28446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ve been thinking about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135214Z" creationid="Mad" creationdate="20190407T135146Z">
+        <seg>それに加わることについて、ずっと考えてきた。自分なりに前向きにね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ve got work to do, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T040421Z">
@@ -28514,6 +28562,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134858Z" creationid="Light" creationdate="20190404T134858Z">
         <seg>Holy Mission of Elattに参加した</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Joining the Holy Mission doesn’t really interest me that much.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135255Z" creationid="Mad" creationdate="20190407T135255Z">
+        <seg>聖なる任務に加わるということには、あまり興味が沸いていないよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32418,6 +32474,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123604Z" creationid="weedssoul" creationdate="20190406T123524Z">
         <seg>テントやバックパック、武器などを素材から合成するだけでなく、服や武器などをを分解して素材を得ることもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not really.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135324Z" creationid="Mad" creationdate="20190407T135200Z">
+        <seg>特には何もなかったな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50688,6 +50752,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, thanks for coming anyways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135342Z" creationid="Mad" creationdate="20190407T135342Z">
+        <seg>まあ……とにかく、来てくれたことを本当に嬉しく思っているの。本当よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, the bay is pretty dangerous.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T114455Z" creationid="weedssoul" creationdate="20190406T114455Z">
@@ -53597,6 +53669,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T143104Z" creationid="setom" creationdate="20190402T143104Z">
         <seg>服も着ねぇで歩き回ってみろ、風邪引いちまうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll find him in the temple in the northern part of Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T135721Z" creationid="Mad" creationdate="20190407T135721Z">
+        <seg>ブラマク枢機卿は、モンスーンの北の方にある寺院にいるわよ。</seg>
       </tuv>
     </tu>
     <tu>
