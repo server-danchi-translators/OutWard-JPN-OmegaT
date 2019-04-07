@@ -26989,6 +26989,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It restores a bit of maximum health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T065000Z" creationid="weedssoul" creationdate="20190407T065000Z">
+        <seg>体力の最大値を僅かに回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It seems Cyrene mistook you for dead.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T013409Z" creationid="pugnus" creationdate="20190404T101901Z">
@@ -30891,6 +30899,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045248Z" creationid="seto" creationdate="20190406T045248Z">
         <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushrooms pounded into a bar shape.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064949Z" creationid="weedssoul" creationdate="20190407T064949Z">
+        <seg>棒状のキノコ。</seg>
       </tuv>
     </tu>
     <tu>
