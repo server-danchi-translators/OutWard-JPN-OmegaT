@@ -22725,6 +22725,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highly visible silk tent that offers high sleep quality, quickly healing the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T035428Z" creationid="Light" creationdate="20190407T035428Z">
+        <seg>高い睡眠の質を提供し、すぐにユーザーを癒す、シルクのテント。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>His negligence cost twelve lives, and the tribe must be compensated.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T013156Z" creationid="weedssoul" creationdate="20190405T152606Z">
@@ -41501,6 +41509,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061808Z" creationid="Light" creationdate="20190406T061808Z">
         <seg>ベッドやテントで寝ることでスタミナの最大値を回復できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleeping in this tent gives a huge bonus to stamina use.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T035521Z" creationid="Light" creationdate="20190407T035521Z">
+        <seg>このテントで眠るとスタミナに大きなボーナスがある。</seg>
       </tuv>
     </tu>
     <tu>
