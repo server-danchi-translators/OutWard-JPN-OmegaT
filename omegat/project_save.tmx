@@ -8493,6 +8493,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>アイテムのgreasy fernが未翻訳なので統一を図るためここでは一度保留とさせていただきます。</note>
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
       </tuv>
@@ -11956,8 +11957,8 @@
       <tuv lang="EN-US">
         <seg>Before I give you your first mission, I want you to understand the lengths we must go to oppose the Scourge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190407T154811Z" creationid="taman" creationdate="20190407T150046Z">
-        <seg>最初の使命を与える前に、スカージを根絶させるということがどれほど長い闘いになるか理解していただきます。Before I give you your first mission, I want you to understand the lengths we must go to oppose the Scourge.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190407T160642Z" creationid="taman" creationdate="20190407T150046Z">
+        <seg>最初の使命を与える前に、スカージを根絶させるということがどれほど長い闘いになるか理解していただきます。</seg>
       </tuv>
     </tu>
     <tu>
