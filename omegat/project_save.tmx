@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Yzan shoves off with two men on his little fishing barge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T125919Z" creationid="Light" creationdate="20190407T125919Z">
+        <seg>(イザンは彼の小さな船で2人の男と漕ぎ出した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>*Surely*, there is a point to all this.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123706Z" creationid="urakata" creationdate="20190406T123706Z">
@@ -12434,6 +12442,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But &lt;color=#00CCFF&gt;&lt;b&gt;if we meet again in Levant&lt;/b&gt;&lt;/color&gt;... maybe we can start over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T125844Z" creationid="Light" creationdate="20190407T125844Z">
+        <seg>だが、&lt;color=#00CCFF&gt;&lt;b&gt;レバントでもう一度会うことが出来たなら&lt;/b&gt;&lt;/color&gt;....。もう一度やり直すこともできるはずさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But Chamberlady Aberdeen!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T022926Z" creationid="seto" creationdate="20190404T222007Z">
@@ -22671,6 +22687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He doesn't give Cierzo a backwards glance.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130001Z" creationid="Light" creationdate="20190407T130001Z">
+        <seg>彼はシエルゾを振り返ることはなかった。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He fell asleep on duty and let the light go out.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T152046Z">
@@ -24973,6 +24997,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T140854Z" creationid="Light" creationdate="20190405T135442Z">
         <seg>僕はここで死ぬつもりはないんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not going to forgive you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T125743Z" creationid="Light" creationdate="20190407T125743Z">
+        <seg>[PlayerName]。俺は君を許すつもりはない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27865,6 +27897,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T070331Z" creationid="pugnus" creationdate="20190406T070047Z">
         <seg>残念だ。しかし、私たちは先導できるようにする必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a place where you can do what you were meant to do, without having to answer to oppressive tribal laws and the misdeeds of your ancestors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130133Z" creationid="Light" creationdate="20190407T130133Z">
+        <seg>抑圧的な部族法や先祖の悪行に答えることなく、自分の意図したとおりのことができる場所だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47245,6 +47285,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Heroic Kingdom doesn’t buy into the idea that we should only focus on survival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130030Z" creationid="Light" creationdate="20190407T130030Z">
+        <seg>The Heroic Kingdomはただ生きることだけを考えているわけではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Holy Mission and the Kingdom of Levant have their own paths into the Conflux Mountain as well, and each one will test you differently.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T122236Z">
@@ -48140,6 +48188,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111816Z">
         <seg>それこそが探検家たちに重要であり、水筒が複数あればきっと役に立つでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They believe in pushing progress to create an even better society.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T130055Z" creationid="Light" creationdate="20190407T130055Z">
+        <seg>彼らは進歩を推進して、さらに良い社会を創造することを信じている。</seg>
       </tuv>
     </tu>
     <tu>
