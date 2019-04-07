@@ -33977,8 +33977,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143153Z" creationid="setom" creationdate="20190331T114108Z">
-        <seg>解体したいアイテムだけを(サバイバルクラフトの)マニュアルレシピに置き決定をすれば、アイテムは基本的な素材、例えば鉄やパラジウムスクラップなどになる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033242Z" creationid="setom" creationdate="20190331T114108Z">
+        <seg>アイテム一つだけをマニュアルレシピに置くと、解体して素材に変えることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50111,8 +50111,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You also know several useful survival crafting recipes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143149Z" creationid="setom" creationdate="20190331T114022Z">
-        <seg>幾つかの役に立つサバイバルクラフトレシピも知っている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033035Z" creationid="setom" creationdate="20190331T114022Z">
+        <seg>幾つかの役に立つラフトレシピも習得しているでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50450,8 +50450,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can de-craft most weapons and armors.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114103Z" creationid="setom" creationdate="20190331T114103Z">
-        <seg>殆どの武器や鎧は解体も可能だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033041Z" creationid="setom" creationdate="20190331T114103Z">
+        <seg>殆どの武器や鎧は解体が可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51310,8 +51310,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You start the game with a few skills, like the Kick.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114021Z" creationid="setom" creationdate="20190331T114021Z">
-        <seg>あなたはキックのような僅かばかりのスキルを備えてゲームが始まる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T033023Z" creationid="setom" creationdate="20190331T114021Z">
+        <seg>キックのような僅かなスキルを備えてゲームが始まります。</seg>
       </tuv>
     </tu>
     <tu>
