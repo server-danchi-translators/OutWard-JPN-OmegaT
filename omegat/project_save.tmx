@@ -10049,8 +10049,8 @@
       <tuv lang="EN-US">
         <seg>All we lost was some coin and four months of time on this failed journey.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030515Z" creationid="weedssoul" creationdate="20190406T030456Z">
-        <seg>我々が失ったのは、いくらかの硬貨と、旅に費やした4ヶ月という時間だけだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050829Z" creationid="weedssoul" creationdate="20190406T030456Z">
+        <seg> 我々が失ったのは、いくらかの硬貨と、旅に費やした4ヶ月という時間だけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23655,6 +23655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have barely enough left to start over.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050823Z" creationid="Light" creationdate="20190407T050823Z">
+        <seg> もはや、取り返しの付かないことになった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have delayed for too long already.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T165429Z" creationid="Light" creationdate="20190405T165429Z">
@@ -27870,8 +27878,8 @@
       <tuv lang="EN-US">
         <seg>Kind as ever, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030618Z" creationid="weedssoul" creationdate="20190406T030618Z">
-        <seg>優しいな、 [PlayerName].</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050911Z" creationid="weedssoul" creationdate="20190406T030618Z">
+        <seg>優しいな、 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30606,8 +30614,8 @@
       <tuv lang="EN-US">
         <seg>My sailors lost their lives.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030511Z" creationid="weedssoul" creationdate="20190406T030511Z">
-        <seg>私の船員は命を失った。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050950Z" creationid="weedssoul" creationdate="20190406T030511Z">
+        <seg> だが船員たちは命を失ったんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52363,8 +52371,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yzan, I have 5 days to gather 150 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T030754Z" creationid="weedssoul" creationdate="20190406T030754Z">
-        <seg>Yzan, 私は5日間で、150銀貨集めなければならない。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050853Z" creationid="weedssoul" creationdate="20190406T030754Z">
+        <seg>Yzan, 私は5日間で、150銀貨集めなければならない。</seg>
       </tuv>
     </tu>
     <tu>
