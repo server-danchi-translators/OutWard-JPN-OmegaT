@@ -11900,8 +11900,8 @@
       <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T100436Z" creationid="setom" creationdate="20190331T110921Z">
-        <seg>ブロックは近接攻撃のダメージを全て防いでくれるが、スタミナを消費する。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021036Z" creationid="setom" creationdate="20190331T110921Z">
+        <seg>ブロックは近接攻撃のダメージを全て防いでくれますが、スタミナを消費します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18278,8 +18278,8 @@
       <tuv lang="EN-US">
         <seg>Eat food, drink water and sleep in a tent or inn to satisfy them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T110812Z" creationid="setom" creationdate="20190331T110812Z">
-        <seg>飲食、そしてテントや宿屋で寝ることで欲求を満たせ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021016Z" creationid="setom" creationdate="20190331T110812Z">
+        <seg>飲食、そしてテントや宿屋で寝ることで欲求を満たしましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24969,8 +24969,8 @@
       <tuv lang="EN-US">
         <seg>Inns will take care of all your needs for you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142939Z" creationid="setom" creationdate="20190331T110845Z">
-        <seg>だが宿屋なら全ての欲求に応えてくれるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021027Z" creationid="setom" creationdate="20190331T110845Z">
+        <seg>だが宿屋なら全ての欲求に応えてくれるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40466,8 +40466,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Shields can block arrows and the like, but you cannot block magical blasts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142934Z" creationid="setom" creationdate="20190331T111608Z">
-        <seg>盾で矢やそれに近いものをブロックできるが、マジックブラストは防げない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021109Z" creationid="setom" creationdate="20190331T111608Z">
+        <seg>盾は、矢や、それに近いものをブロックできますが、マジックブラストは防げません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50582,8 +50582,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You receive penalties if your needs are not met.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T110822Z" creationid="setom" creationdate="20190331T110822Z">
-        <seg>欲求が満たせなければ、ペナルティを受けることになる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021021Z" creationid="setom" creationdate="20190331T110822Z">
+        <seg>欲求が満たせなければ、ペナルティを受けることになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50921,8 +50921,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your body has needs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T062004Z" creationid="setom" creationdate="20190331T110732Z">
-        <seg>君の身体には欲求というものがある。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021007Z" creationid="setom" creationdate="20190331T110732Z">
+        <seg>身体には欲求というものがあります。</seg>
       </tuv>
     </tu>
     <tu>
