@@ -18598,8 +18598,8 @@
       <tuv lang="EN-US">
         <seg>Elatt’s breath, what a disaster...</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T024519Z" creationid="weedssoul" creationdate="20190406T024519Z">
-        <seg>Elatt’s breath, なんて災害だ...</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050223Z" creationid="weedssoul" creationdate="20190406T024519Z">
+        <seg> エラットよ...なんて災害だ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27508,6 +27508,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m not holding up much better than you are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050344Z" creationid="Light" creationdate="20190407T050344Z">
+        <seg>俺は誰よりもショックを受けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m not interested.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020302Z" creationid="weedssoul" creationdate="20190406T020221Z">
@@ -32489,8 +32497,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Now all that's left is this wreck and a tribe in mourning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T024825Z" creationid="weedssoul" creationdate="20190406T024825Z">
-        <seg>今、残っているのは残骸と喪中の部族だけだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050256Z" creationid="weedssoul" creationdate="20190406T024825Z">
+        <seg> 今、残っているのは残骸と喪中の部族だけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50479,8 +50487,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yesterday I was leading our most ambitious expedition in a decade.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T024732Z" creationid="weedssoul" creationdate="20190406T024732Z">
-        <seg>昨日、ここ10年でもっとも熱い遠征を行った。.</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050227Z" creationid="weedssoul" creationdate="20190406T024732Z">
+        <seg>昨日、ここ10年でもっとも熱い遠征を行った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52563,8 +52571,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName], I wish I could greet you with a smile, but... well, we both know that won’t happen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T024503Z" creationid="weedssoul" creationdate="20190406T024427Z">
-        <seg>[PlayerName]、笑顔で挨拶できたらよかったのだけど...そんなことはできないってお互いにわかってる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T050145Z" creationid="weedssoul" creationdate="20190406T024427Z">
+        <seg>[PlayerName]、笑顔で挨拶できたらよかったのだけど... そんなことはできないってお互いにわかってる。</seg>
       </tuv>
     </tu>
     <tu>
