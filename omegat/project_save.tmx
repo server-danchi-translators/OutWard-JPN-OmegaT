@@ -26755,6 +26755,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also grants the Warm boon and an increase in stealth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064657Z" creationid="weedssoul" creationdate="20190407T064657Z">
+        <seg>Warm boonを付与し、ステルスも高める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also increases your protection to cold weather.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T040645Z" creationid="pugnus" creationdate="20190406T040645Z">
@@ -42632,6 +42640,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144645Z" creationid="Horizon" creationdate="20190403T144645Z">
         <seg>特殊攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special dish of Enmerkar that is unequaled in healing wounds over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064636Z" creationid="weedssoul" creationdate="20190407T064636Z">
+        <seg>傷を回復することに関しては無類のエンメルカルの特別な料理。</seg>
       </tuv>
     </tu>
     <tu>
