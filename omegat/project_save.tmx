@@ -8528,8 +8528,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;You should say your goodbyes to Oliele and Yzan&lt;/b&gt;&lt;/color&gt; before they leave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163010Z" creationid="weedssoul" creationdate="20190405T163010Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Oliele と Yzan に別れを告げてきなさい。&lt;/b&gt;&lt;/color&gt; 彼らが去る前に。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014336Z" creationid="weedssoul" creationdate="20190405T163010Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;オリエールとイザンに別れを告げてきなさい。&lt;/b&gt;&lt;/color&gt;彼らが去ってしまう前に。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23185,8 +23185,8 @@
       <tuv lang="EN-US">
         <seg>I don't know when I'll be able to return.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163331Z" creationid="weedssoul" creationdate="20190405T163331Z">
-        <seg>いつ戻ってこれるかはわからない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014532Z" creationid="weedssoul" creationdate="20190405T163331Z">
+        <seg>いつ戻ってこれるかはわかりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23569,8 +23569,8 @@
       <tuv lang="EN-US">
         <seg>I must be off.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163312Z" creationid="weedssoul" creationdate="20190405T163251Z">
-        <seg>私は行かなければならない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014524Z" creationid="weedssoul" creationdate="20190405T163251Z">
+        <seg>私は行かなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32993,8 +32993,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Our discussion can wait until then.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T171555Z" creationid="weedssoul" creationdate="20190405T163042Z">
-        <seg>今後のことは、それからでもいい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014342Z" creationid="weedssoul" creationdate="20190405T163042Z">
+        <seg>今後のことは、それからでも良いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45743,6 +45743,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There you are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014507Z" creationid="Light" creationdate="20190407T014507Z">
+        <seg>待っていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you go!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063701Z" creationid="Light" creationdate="20190406T063616Z">
@@ -46994,8 +47002,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Urgent news just came in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163238Z" creationid="weedssoul" creationdate="20190405T163238Z">
-        <seg>緊急の知らせが入ってきた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014515Z" creationid="weedssoul" creationdate="20190405T163238Z">
+        <seg>緊急の知らせが入ってきたのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50931,8 +50939,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yzan should still be down on the beach, near the water purifier.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T163116Z" creationid="weedssoul" creationdate="20190405T163116Z">
-        <seg>Yzan は浄水機の近く、砂浜にまだいるはずです。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T014430Z" creationid="weedssoul" creationdate="20190405T163116Z">
+        <seg>イザンは浄水機の近く、砂浜にまだいるはずです。</seg>
       </tuv>
     </tu>
     <tu>
