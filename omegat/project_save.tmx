@@ -12106,6 +12106,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled root that increased its mana-restoring properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064452Z" creationid="weedssoul" creationdate="20190407T064452Z">
+        <seg>マナの回復効果が高くなった茹でた球根植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiling water or grilling raw meat only needs a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T022252Z" creationid="setom" creationdate="20190331T112200Z">
@@ -26904,6 +26912,14 @@
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053840Z" creationid="hiru4" creationdate="20190403T053840Z">
         <seg>ロックされている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is no longer reinvigorating, however.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="weedssoul" changedate="20190407T064515Z" creationid="weedssoul" creationdate="20190407T064515Z">
+        <seg>しかしスタミナの回復能力は失われている。</seg>
       </tuv>
     </tu>
     <tu>
