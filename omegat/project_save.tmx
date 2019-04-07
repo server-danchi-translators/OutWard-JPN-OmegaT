@@ -8493,12 +8493,15 @@
       </tuv>
     </tu>
     <tu>
-      <note>アイテムのgreasy fernが未翻訳なので統一を図るためここでは一度保留とさせていただきます。</note>
+      <note>アイテムのgreasy fernが未翻訳なので統一を図るためここでは一度保留とさせていただきます。
+
+Vigil crystalも同様に翻訳の統一が決まってないので保留といたします。
+決定したら置換で一気に変えたいと思います。</note>
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190407T160230Z" creationid="taman" creationdate="20190407T160230Z">
-        <seg>モンスーンを出るとすぐ近くにVigil Crystalが見えるはずです。横の丘に祭壇が設置されているので、そこでgreasy fernを燃やし、あなたが目にしたものを報告してください。&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190407T161122Z" creationid="taman" creationdate="20190407T160230Z">
+        <seg>モンスーンを出るとすぐ近くにVigil Crystalが見えるはずです。横の丘に祭壇が設置されているので、そこでgreasy fernを燃やし、あなたが目にしたものを報告してください。</seg>
       </tuv>
     </tu>
     <tu>
