@@ -22623,6 +22623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He can go feed a hyena with his own hide for all I care.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122840Z" creationid="Light" creationdate="20190407T122840Z">
+        <seg>俺がどれだけ気にかけてたか、わかってないんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He can teach you about combat.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130101Z" creationid="rkmad" creationdate="20190404T092000Z">
@@ -48312,6 +48320,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is the last time I let his foolishness and clumsiness hurt me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122345Z" creationid="Light" creationdate="20190407T122345Z">
+        <seg>あいつの愚かさと不器用さが俺を傷つけるのは、これが最後だな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is what I need.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T054730Z" creationid="rkmad" creationdate="20190404T022219Z">
@@ -48436,6 +48452,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
         <seg>これが間違いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was preventable, dammit!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T122230Z" creationid="Light" creationdate="20190407T122230Z">
+        <seg>これは防ぐことができたんだ！クソが！</seg>
       </tuv>
     </tu>
     <tu>
