@@ -16989,8 +16989,8 @@
       <tuv lang="EN-US">
         <seg>DS_01_FromStart_b</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T093212Z" creationid="setom" creationdate="20190403T093212Z">
-        <seg>DS_01_FromStart_b</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T082234Z" creationid="setom" creationdate="20190403T093212Z">
+        <seg>S_01_FromStart_b</seg>
       </tuv>
     </tu>
     <tu>
@@ -51000,8 +51000,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With intense effort and sheer desperation, you manage to drag yourself back to the entrance to this place, where you fall unconscious once more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T013731Z" creationid="urakata" creationdate="20190331T071251Z">
-        <seg>力を振り絞り、死ぬ気で身体を動かし、何とか自分自身を引きずり戻した。そしてあなたは、再び意識を失った...</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T083316Z" creationid="urakata" creationdate="20190331T071251Z">
+        <seg>死ぬ気で這いつくばり、何とか出口まで戻った。そして、また意識を失った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52796,8 +52796,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your foes have left you for dead, but linger nearby.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T082045Z" creationid="urakata" creationdate="20190331T071223Z">
-        <seg>敵は私が死んだと思い、捨てて行ったようだ。だが、うかうかしていられない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T082201Z" creationid="urakata" creationdate="20190331T071223Z">
+        <seg>敵は私が死んだと思い、捨てて行ったようだ。だが、安心していられない。</seg>
       </tuv>
     </tu>
     <tu>
