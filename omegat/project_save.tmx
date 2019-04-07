@@ -11754,6 +11754,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before I change my mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045138Z" creationid="Mad" creationdate="20190407T045138Z">
+        <seg>面倒に巻き込まれるか、私の気持ちが変わる前ににな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginner's short bow mostly used to hunt small game, due to its lack of power.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064756Z" creationid="setom" creationdate="20190402T064756Z">
@@ -20276,6 +20284,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forget you saw anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045158Z" creationid="Mad" creationdate="20190407T045158Z">
+        <seg>ここで見たものはすべて忘れろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, they ignore you as you free yourself from the stake and arm yourself for another round!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T113343Z" creationid="pugnus" creationdate="20190404T113343Z">
@@ -21352,6 +21368,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040535Z" creationid="weedssoul" creationdate="20190406T040535Z">
         <seg>失せろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Get out of here before I lock you up!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045417Z" creationid="Mad" creationdate="20190407T045417Z">
+        <seg>牢屋に叩き込まれる前に、ここから出て行け！</seg>
       </tuv>
     </tu>
     <tu>
@@ -23063,6 +23087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How did you get out of the prison?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045322Z" creationid="Mad" creationdate="20190407T045322Z">
+        <seg>しかし、どうやって脱獄したんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do I actually fight?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055649Z" creationid="weedssoul" creationdate="20190406T055649Z">
@@ -23971,6 +24003,14 @@
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044401Z" creationid="Mad" creationdate="20190407T044401Z">
         <seg>たった少し前に起こったことを忘れている訳が無いだろうが！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I remember you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045227Z" creationid="Mad" creationdate="20190407T045227Z">
+        <seg>お前のことはよく覚えているぞ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -27400,6 +27440,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042823Z" creationid="Light" creationdate="20190406T042823Z">
         <seg>仕事について聞きに来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m just passing by, sorry, I’ll leave.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045006Z" creationid="Mad" creationdate="20190407T045006Z">
+        <seg>すまない、ただの通りすがりの旅人なんだ。すぐに立ち去るよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45435,6 +45483,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taspo, yes, go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045118Z" creationid="Mad" creationdate="20190407T045105Z">
+        <seg>タスポがそれを許すかどうか……まぁいい、とっとと行け。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teaches how to craft a consumable item, requiring an Alchemy Kit.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T134640Z" creationid="weedssoul" creationdate="20190405T140225Z">
@@ -50590,6 +50646,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not one of us!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045354Z" creationid="Mad" creationdate="20190407T045354Z">
+        <seg>お前は我々の仲間ではない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are thirsty.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132912Z" creationid="hiru4" creationdate="20190403T051219Z">
@@ -52173,6 +52237,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T110809Z" creationid="Mad" creationdate="20190406T110809Z">
         <seg>明らかに貴女は不機嫌だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re that troublemaker!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045254Z" creationid="Mad" creationdate="20190407T045254Z">
+        <seg>面倒事を起こしやがって……</seg>
       </tuv>
     </tu>
     <tu>
@@ -54608,6 +54680,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T101150Z" creationid="rkmad" creationdate="20190403T101150Z">
         <seg>本当にありがとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">2501_0</prop>
+      <tuv lang="EN-US">
+        <seg>Hey!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T045217Z" creationid="Mad" creationdate="20190407T045217Z">
+        <seg>お前か！</seg>
       </tuv>
     </tu>
     <tu>
