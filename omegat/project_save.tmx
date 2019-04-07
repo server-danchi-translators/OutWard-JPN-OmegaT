@@ -51945,6 +51945,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Optional] Give the Writ of Tribal Favor to Rissa instead of 150 silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031047Z" creationid="urakata" creationdate="20190407T031047Z">
+        <seg>[Optional]Rissaに150silverの代わりとしてWrit of Tribal Favorを渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Optional] Offer the idol to the Red Lady’s statue.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T133241Z" creationid="urakata" creationdate="20190406T133241Z">
