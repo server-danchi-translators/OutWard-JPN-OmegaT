@@ -8504,8 +8504,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Take the road to the south east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T130700Z" creationid="weedssoul" creationdate="20190406T014531Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;チェルソネスの南東の道を進みなさい。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015747Z" creationid="weedssoul" creationdate="20190406T014531Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;チェルソネスの南東の道を進むのです。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,8 +9993,8 @@
       <tuv lang="EN-US">
         <seg>All I can hope to do is try to guide and shape you into someone who acts with the Blue Chamber’s needs in mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170212Z" creationid="weedssoul" creationdate="20190405T170157Z">
-        <seg>私の望みは、あなたを青の議会の想いのままに振る舞う人になるよう導き、仕立てることだけだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015503Z" creationid="weedssoul" creationdate="20190405T170157Z">
+        <seg>私の望みは、あなたを青の議会の想いのままに振る舞う人になるよう導き、仕立てることだけです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22054,8 +22054,8 @@
       <tuv lang="EN-US">
         <seg>Have you given my offer any thought?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014603Z" creationid="weedssoul" creationdate="20190406T014603Z">
-        <seg>提案について考えてくれた?</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015801Z" creationid="weedssoul" creationdate="20190406T014603Z">
+        <seg>提案について考えてくれましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -23457,8 +23457,8 @@
       <tuv lang="EN-US">
         <seg>I hope to see you in Berg, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T070522Z" creationid="weedssoul" creationdate="20190406T014423Z">
-        <seg>Bergで会えることを願っている、[PlayerName]。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015634Z" creationid="weedssoul" creationdate="20190406T014423Z">
+        <seg>バーグで会えることを願っています、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24385,8 +24385,8 @@
       <tuv lang="EN-US">
         <seg>If you need more, the stores in Cierzo sell some.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014230Z" creationid="weedssoul" creationdate="20190406T014230Z">
-        <seg>もっと必要なら、Cierzoの店でいくつか売っています。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015608Z" creationid="weedssoul" creationdate="20190406T014230Z">
+        <seg>もっと必要なら、シエルゾの店でいくつか売っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24441,8 +24441,8 @@
       <tuv lang="EN-US">
         <seg>If you try to travel between regions without enough Rations, you will starve before you arrive at your destination.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T002646Z" creationid="weedssoul" creationdate="20190406T002646Z">
-        <seg>もし、十分な量の旅糧を持たずに旅をすれば、目的地に付く前に飢えてしまうだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015553Z" creationid="weedssoul" creationdate="20190406T002646Z">
+        <seg>もし、十分な量の旅糧を持たずに旅をすれば、目的地に付く前に飢えてしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24465,8 +24465,8 @@
       <tuv lang="EN-US">
         <seg>If you want to make the journey to another settled region of Aurai, you will need to prepare &lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T002604Z" creationid="weedssoul" creationdate="20190406T002604Z">
-        <seg>もしAuraiの他の地方に旅をしたいなら、&lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;を準備しなければならない。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015535Z" creationid="weedssoul" creationdate="20190406T002604Z">
+        <seg>もしオーライの他の地方を旅をしたいなら、&lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;を準備しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24481,8 +24481,8 @@
       <tuv lang="EN-US">
         <seg>If you wish to commit to the protection of the Blue Chamber Collective, meet me there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014500Z" creationid="weedssoul" creationdate="20190406T014500Z">
-        <seg>青の議会の恩恵を得たいなら、Bergで私のところまで来なさい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015649Z" creationid="weedssoul" creationdate="20190406T014500Z">
+        <seg>青の議会の恩恵を得たいなら、バーグで私のところまで来なさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,8 +33097,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or can craft your own &lt;color=#00CCFF&gt;&lt;b&gt;with some Salt and most types of food&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014311Z" creationid="weedssoul" creationdate="20190406T014311Z">
-        <seg>あるいは、 &lt;color=#00CCFF&gt;&lt;b&gt;塩と大半の食料&lt;/b&gt;&lt;/color&gt; から作ることもできます。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015616Z" creationid="weedssoul" creationdate="20190406T014311Z">
+        <seg>あるいは、&lt;color=#00CCFF&gt;&lt;b&gt;塩と大半の食料&lt;/b&gt;&lt;/color&gt; から作ることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51539,8 +51539,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName], I’m glad to see you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T014545Z" creationid="weedssoul" creationdate="20190406T014545Z">
-        <seg>[PlayerName], 会えて嬉しいわ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T015755Z" creationid="weedssoul" creationdate="20190406T014545Z">
+        <seg>[PlayerName]、会えて嬉しいわ。</seg>
       </tuv>
     </tu>
     <tu>
