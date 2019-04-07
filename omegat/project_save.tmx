@@ -10907,8 +10907,8 @@
       <tuv lang="EN-US">
         <seg>As you start to black out from the pain, you sense something standing above you, defending you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T035841Z" creationid="はぐくみ会" creationdate="20190403T060952Z">
-        <seg>痛みで意識が遠のく、その時、誰かがあなたの上に立っていることに気づいた。あなたを守っているのだ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T092413Z" creationid="はぐくみ会" creationdate="20190403T060952Z">
+        <seg>痛みで意識が遠のく中、誰かがあなたの上に立っていることに気づいた。私を守っているのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -27688,8 +27688,8 @@
       <tuv lang="EN-US">
         <seg>It’s hard work, but eventually you succeed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T035719Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
-        <seg>それは大変な仕事だが、結局のところ、あなたは成功した。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T092318Z" creationid="はぐくみ会" creationdate="20190403T060553Z">
+        <seg>それは大変な仕事だったが、苦労の末、成功した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27744,8 +27744,8 @@
       <tuv lang="EN-US">
         <seg>It’s time to make your escape!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T035728Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
-        <seg>さあ、脱出する時が来た！
+      <tuv lang="JA" changeid="Light" changedate="20190407T092326Z" creationid="はぐくみ会" creationdate="20190403T060619Z">
+        <seg>さあ、脱出の時だ！
 </seg>
       </tuv>
     </tu>
@@ -47363,8 +47363,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The miserable cries of your fellow prisoners fill the air as you are shoved into iron cages, and left to stew in total darkness.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T092128Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
-        <seg>鉄の檻に押し込まれ、囚人たちの悲鳴に空気が満ちる、そして私は完全な暗闇の中で残された。私を煮込んで、シチューにするようだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T092200Z" creationid="はぐくみ会" creationdate="20190403T060418Z">
+        <seg>鉄の檻に押し込まれ、囚人たちの悲鳴に空気が満ちる、そして完全な暗闇の中に残された。私たちを煮込んで、シチューにするようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52021,8 +52021,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You fall to the ground, broken and defeated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T090230Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
-        <seg>私は地面に倒れ、負けた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T092342Z" creationid="はぐくみ会" creationdate="20190403T053622Z">
+        <seg>私は地面に倒れ、敗北した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52070,8 +52070,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You get to work on forcing the bolts off the prison door.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T035707Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
-        <seg>あなたは、仕事を得る。鉄の檻の扉からネジを無理矢理にでも押し出す仕事を。
+      <tuv lang="JA" changeid="Light" changedate="20190407T092233Z" creationid="はぐくみ会" creationdate="20190403T060534Z">
+        <seg>私にできることは、鉄の檻の扉からネジを無理矢理にでも外すことだけだ。
 </seg>
       </tuv>
     </tu>
