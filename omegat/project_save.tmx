@@ -30804,6 +30804,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_prequests_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032750Z" creationid="urakata" creationdate="20190407T032750Z">
+        <seg>Neut_prequests_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032823Z" creationid="urakata" creationdate="20190407T032823Z">
+        <seg>Neut_prequests_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032941Z" creationid="urakata" creationdate="20190407T032941Z">
+        <seg>Neut_prequests_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T033450Z" creationid="urakata" creationdate="20190407T033450Z">
+        <seg>Neut_prequests_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
@@ -45019,10 +45051,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Cardinal Bourlamaque in Monsoon’s temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032940Z" creationid="urakata" creationdate="20190407T032940Z">
+        <seg>Monsoonの寺院にいるBourlamaque枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Oliele in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
         <seg>Cierzoの村でOlieleと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Rissa in Berg, then commit to the faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T033449Z" creationid="urakata" creationdate="20190407T033449Z">
+        <seg>BergのRissaと話して仲間になる</seg>
       </tuv>
     </tu>
     <tu>
@@ -47329,8 +47377,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T031758Z" creationid="urakata" creationdate="20190407T031758Z">
-        <seg>Blue Chamberに参加するためにBergの東区画にいるRissaと話す</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032749Z" creationid="urakata" creationdate="20190407T031758Z">
+        <seg>Blue Chamberに参加するためにBergの東地区にいるRissaと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -47339,6 +47387,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T032742Z" creationid="urakata" creationdate="20190407T032120Z">
         <seg>Heroic Kingdomに参加するためにLevantの北西地区にいるYzanと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To join the Holy Mission, talk to Oliele, near Monsoon’s entrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T032823Z" creationid="urakata" creationdate="20190407T032823Z">
+        <seg>Holy Missionに参加するためにMonsoonの入り口付近にいるOlieleと話す</seg>
       </tuv>
     </tu>
     <tu>
