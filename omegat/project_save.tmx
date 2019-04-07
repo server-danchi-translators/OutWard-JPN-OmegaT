@@ -30612,6 +30612,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031108Z" creationid="urakata" creationdate="20190407T031108Z">
+        <seg>Neut_Call-to_Adv_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031110Z" creationid="urakata" creationdate="20190407T031110Z">
+        <seg>Neut_Call-to_Adv_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Call-to_Adv_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031111Z" creationid="urakata" creationdate="20190407T031111Z">
+        <seg>Neut_Call-to_Adv_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neut_Intro_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025638Z" creationid="seto" creationdate="20190407T025638Z">
@@ -30648,6 +30672,126 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025643Z" creationid="seto" creationdate="20190407T025643Z">
         <seg>Neut_Intro_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031112Z" creationid="urakata" creationdate="20190407T031112Z">
+        <seg>Neut_prequests_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031114Z" creationid="urakata" creationdate="20190407T031114Z">
+        <seg>Neut_prequests_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031116Z" creationid="urakata" creationdate="20190407T031116Z">
+        <seg>Neut_prequests_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031119Z" creationid="urakata" creationdate="20190407T031119Z">
+        <seg>Neut_prequests_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031121Z" creationid="urakata" creationdate="20190407T031121Z">
+        <seg>Neut_prequests_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031123Z" creationid="urakata" creationdate="20190407T031123Z">
+        <seg>Neut_prequests_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031124Z" creationid="urakata" creationdate="20190407T031124Z">
+        <seg>Neut_prequests_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031126Z" creationid="urakata" creationdate="20190407T031126Z">
+        <seg>Neut_prequests_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031127Z" creationid="urakata" creationdate="20190407T031127Z">
+        <seg>Neut_prequests_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031129Z" creationid="urakata" creationdate="20190407T031129Z">
+        <seg>Neut_prequests_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031130Z" creationid="urakata" creationdate="20190407T031130Z">
+        <seg>Neut_prequests_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031131Z" creationid="urakata" creationdate="20190407T031131Z">
+        <seg>Neut_prequests_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031132Z" creationid="urakata" creationdate="20190407T031132Z">
+        <seg>Neut_prequests_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031134Z" creationid="urakata" creationdate="20190407T031134Z">
+        <seg>Neut_prequests_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_prequests_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031136Z" creationid="urakata" creationdate="20190407T031136Z">
+        <seg>Neut_prequests_14</seg>
       </tuv>
     </tu>
     <tu>
@@ -47171,6 +47315,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T015911Z" creationid="weedssoul" creationdate="20190406T015028Z">
         <seg>円滑にことを進めるために&lt;color=#00CCFF&gt;&lt;b&gt;あなたは、他の古い一族の承認を得るべきでしょう。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190407T031758Z" creationid="urakata" creationdate="20190407T031758Z">
+        <seg>Blue Chamberに参加するためにBergの東区画にいるRissaと話す</seg>
       </tuv>
     </tu>
     <tu>
