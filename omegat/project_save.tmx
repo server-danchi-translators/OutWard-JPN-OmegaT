@@ -23097,8 +23097,8 @@
       <tuv lang="EN-US">
         <seg>However, you won’t be able to wield a shield, a lantern or a special trinket in your off-hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143146Z" creationid="setom" creationdate="20190331T114013Z">
-        <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来なくなるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032931Z" creationid="setom" creationdate="20190331T114013Z">
+        <seg>しかし、巧みに盾を操ったり、ランタンや特別な小物を左手に持つことは出来ません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24785,8 +24785,8 @@
       <tuv lang="EN-US">
         <seg>Important landmarks have icons, and hovering your cursor on them will show their names.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143136Z" creationid="setom" creationdate="20190331T113406Z">
-        <seg>重要なランドマークにはアイコンが付いていて、カーソルを合わせるとその名前が表示されるぞ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023925Z" creationid="setom" creationdate="20190331T113406Z">
+        <seg>重要なランドマークにはアイコンが付いています。 カーソルを合わせるとその名前が表示されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28270,8 +28270,8 @@
       <tuv lang="EN-US">
         <seg>Look at the Maps, as exterior regions are huge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113403Z" creationid="setom" creationdate="20190331T113403Z">
-        <seg>地図を見てみろ、外部領域はかなりデカいだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023903Z" creationid="setom" creationdate="20190331T113403Z">
+        <seg>地図を見てください、外の地域はかなり広いでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29134,8 +29134,8 @@
       <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T074305Z" creationid="setom" creationdate="20190331T113952Z">
-        <seg>近接武器は通常攻撃と特殊攻撃ができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032821Z" creationid="setom" creationdate="20190331T113952Z">
+        <seg>近接武器は通常攻撃と特殊攻撃ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29870,8 +29870,8 @@
       <tuv lang="EN-US">
         <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143144Z" creationid="setom" creationdate="20190331T114002Z">
-        <seg>鉱石にはツルハシが、釣り場では銛が必要になる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032918Z" creationid="setom" creationdate="20190331T114002Z">
+        <seg>鉱石にはツルハシが、釣り場では銛が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41803,8 +41803,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Specific tools are needed to gather some resources.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114001Z" creationid="setom" creationdate="20190331T114001Z">
-        <seg>幾つかの素材を集めるとき、個別の道具が必要になる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032914Z" creationid="setom" creationdate="20190331T114001Z">
+        <seg>幾つかの素材を集めるとき、個別の道具が必要になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46119,8 +46119,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The game auto-saves but you can also save manually.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T113421Z" creationid="setom" creationdate="20190331T113421Z">
-        <seg>ゲームはオートセーブだが、手動でもセーブはできる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T023933Z" creationid="setom" creationdate="20190331T113421Z">
+        <seg>ゲームはオートセーブですが、手動でもセーブはできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47722,8 +47722,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Two-handed weapons deal more damage and have more reach than smaller weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T114012Z" creationid="setom" creationdate="20190331T114012Z">
-        <seg>両手武器は、小さな武器よりも多くのダメージと広いリーチを持つ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032924Z" creationid="setom" creationdate="20190331T114012Z">
+        <seg>両手武器は、小さな武器よりも多くのダメージと広いリーチを持ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49629,8 +49629,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Which special attack will be made depends on the number of normal attacks you just performed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143142Z" creationid="setom" creationdate="20190331T113953Z">
-        <seg>どんな特殊攻撃になるかは、直前に何回通常攻撃をしたかで変わる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032906Z" creationid="setom" creationdate="20190331T113953Z">
+        <seg>直前に通常攻撃をした回数で特殊攻撃が変化します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51150,8 +51150,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You only have one save slot, meaning you can’t load an old save to dodge the consequences of getting knocked out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T143139Z" creationid="setom" creationdate="20190331T113425Z">
-        <seg>だがセーブスロットは1つしかない、つまり古いセーブデータをロードして結果から逃げるなんてことは出来ないということだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T032815Z" creationid="setom" creationdate="20190331T113425Z">
+        <seg>しかし、セーブスロットは1つしかありません、つまり古いセーブデータをロードして状況から逃がれることは出来ません。</seg>
       </tuv>
     </tu>
     <tu>
