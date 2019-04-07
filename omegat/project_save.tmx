@@ -10103,6 +10103,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, you just come back when you have more of this stuff, it's real good!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T062058Z" creationid="Mad" creationdate="20190407T062058Z">
+        <seg>わかったよ。またこんないい酒が手に入ったら、持ってきてくれ。頼んだぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, if you want clean water, go to the Water Purifier to the north-east of the beach.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T045733Z" creationid="Light" creationdate="20190405T161210Z">
@@ -11109,6 +11117,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T065229Z" creationid="seto" creationdate="20190404T222457Z">
         <seg>皆、去りなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Awww...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T061923Z" creationid="Mad" creationdate="20190407T061923Z">
+        <seg>そんな……</seg>
       </tuv>
     </tu>
     <tu>
@@ -42340,6 +42356,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So soon?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T061942Z" creationid="Mad" creationdate="20190407T061942Z">
+        <seg>こんなに早く？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we lost everything?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025930Z" creationid="weedssoul" creationdate="20190406T025930Z">
@@ -49847,6 +49871,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091100Z" creationid="rkmad" creationdate="20190405T091100Z">
         <seg>それでも、私は挑戦したのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, I'll be on my way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T061909Z" creationid="Mad" creationdate="20190407T061909Z">
+        <seg>まあ、私はまだ旅の途中なんだ。</seg>
       </tuv>
     </tu>
     <tu>
