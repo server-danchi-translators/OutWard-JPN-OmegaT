@@ -28537,8 +28537,8 @@
       <tuv lang="EN-US">
         <seg>Leaning on her, you manage to hobble back to Cierzo, more dead than alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T011139Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
-        <seg>彼女に肩を借り、足を引き摺りながらCierzoに戻ってきた。あなたは死にかけたが、生き残った。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T093548Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
+        <seg>彼女の肩を借り、足を引き摺りながらシエルゾに戻ってきた。私は死にかけたが、まだ生きている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41884,8 +41884,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She refuses payment and leaves you with a firm pat on the shoulder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T041051Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
-        <seg>彼女はお礼を受け取らず去っていった。あなたの肩を軽く叩いて。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T093614Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
+        <seg>彼女は私の肩を軽く叩いて、お礼も受け取らずに去っていった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51587,8 +51587,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You awaken to the sight of a huntress from Cierzo pouring water into your mouth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T011131Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
-        <seg>あなたは、Cierzoから来た狩人を見て目覚めた。あなたの口の中に水を注いでくれている。
+      <tuv lang="JA" changeid="Light" changedate="20190407T093523Z" creationid="はぐくみ会" creationdate="20190403T063450Z">
+        <seg>気づくと狩人が私に水を飲ませてくれていた。
 </seg>
       </tuv>
     </tu>
@@ -52634,8 +52634,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up to see a bandit tying your hands together, and chaining you to a line of other prisoners.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T041116Z" creationid="はぐくみ会" creationdate="20190403T063851Z">
-        <seg>あなたは目覚め、そして気付いた。盗賊があなたの手を結びつけ、他の囚人の列につなげていく。
+      <tuv lang="JA" changeid="Light" changedate="20190407T093646Z" creationid="はぐくみ会" creationdate="20190403T063851Z">
+        <seg>私は目覚め、そして気付く。盗賊が私の手を結び、他の囚人とつなげて列をつくっている。
 </seg>
       </tuv>
     </tu>
