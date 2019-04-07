@@ -8640,8 +8640,8 @@
       <tuv lang="EN-US">
         <seg>A glance upwards shows only a small speck of light from the top of “The Hole”.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T000023Z" creationid="pugnus" creationdate="20190404T050212Z">
-        <seg>上に視線を動かすと、「The Hole」の上からわずかな光がみえる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101624Z" creationid="pugnus" creationdate="20190404T050212Z">
+        <seg>上に視線を動かすと、上にある穴からわずかな光がみえる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27735,8 +27735,8 @@
       <tuv lang="EN-US">
         <seg>It’s time to beat a hasty retreat, before the insects grow hungry!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042808Z" creationid="はぐくみ会" creationdate="20190404T014739Z">
-        <seg>昆虫達が空腹になる前に、急いで逃げろ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101401Z" creationid="はぐくみ会" creationdate="20190404T014739Z">
+        <seg>昆虫達が空腹になる前に、急いで逃げよう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -31800,8 +31800,8 @@
       <tuv lang="EN-US">
         <seg>No doubt they intend to use you as slave labor.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190405T235721Z" creationid="はぐくみ会" creationdate="20190404T013201Z">
-        <seg>彼らは間違いなく、あなたを奴隷として利用しようとしている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101308Z" creationid="はぐくみ会" creationdate="20190404T013201Z">
+        <seg>彼らは間違いなく、私を奴隷として利用しようとしている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42716,8 +42716,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Someone from the slums of Levant must have found you and brought you to safety.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T012438Z" creationid="pugnus" creationdate="20190404T045106Z">
-        <seg>Levantのスラム街の誰かが、あなたを見つけて救出してくれたのだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101504Z" creationid="pugnus" creationdate="20190404T045106Z">
+        <seg>レバントのスラム街の誰かが、私を見つけて救出してくれたのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47346,8 +47346,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The medic declines payment, only saying “It’s been taken care of.” You’ve been out for days, but you’re still mostly in one piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T012432Z" creationid="pugnus" creationdate="20190404T044748Z">
-        <seg>衛生兵は支払いを受け取ることは無かった。”もう、支払いは済んでいます。”としか言わない。あなたは何日も外出し、危険な目にもあったが、助かった。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101449Z" creationid="pugnus" creationdate="20190404T044748Z">
+        <seg>衛生兵は支払いを受け取ることは無かった。”もう、支払いは済んでいます。”としか言わない。私は何日も外出し、危険な目にもあったが、助かった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51071,8 +51071,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With great effort, you manage to force the bolts on the door off and stumble out of the cell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042806Z" creationid="はぐくみ会" creationdate="20190404T014610Z">
-        <seg>多大な労力を費やすことで、扉のネジを無理に押し、牢屋から飛び出ることができた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101353Z" creationid="はぐくみ会" creationdate="20190404T014610Z">
+        <seg>死に物狂いで扉のネジを外し、牢屋から飛び出ることができた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51964,8 +51964,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You cut the ropes that bind you on a nearby rock and prepare to make your escape!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T105847Z" creationid="はぐくみ会" creationdate="20190404T013422Z">
-        <seg>あなたの身体と岩とを結び付けている縄を切る。脱出だ！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101323Z" creationid="はぐくみ会" creationdate="20190404T013422Z">
+        <seg>私の身体と岩とを結び付けている縄を切る。脱出だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52616,8 +52616,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up deep underground, at a bandit’s camp in an old crumbling mine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042752Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
-        <seg>地下深くで目を覚ます。砕けた古い鉱山の、盗賊達の野営地で。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101303Z" creationid="はぐくみ会" creationdate="20190404T012709Z">
+        <seg>地下深くで目を覚ます。砕けた古い鉱山の、盗賊達の野営地だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52899,8 +52899,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your head aches, resting on rotten driftwood, your body submerged in water.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T045941Z" creationid="pugnus" creationdate="20190404T045941Z">
-        <seg>あなたの頭が痛み、流木に身体を預ける。あなたの身体は水に沈んでいく。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101521Z" creationid="pugnus" creationdate="20190404T045941Z">
+        <seg>頭が痛み、流木に身体を預ける。私の身体は水に沈んでいく。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53076,8 +53076,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re first aware that an army medic is pouring water into your mouth, then that you’re back at your manor in Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T012417Z" creationid="pugnus" creationdate="20190404T043904Z">
-        <seg>軍の衛生兵があなたの口の中に水を注いでくれ、気が付いた。Levantのあなたの邸宅に戻っている。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T101437Z" creationid="pugnus" creationdate="20190404T043904Z">
+        <seg>軍の衛生兵が私に水を飲ませてくれ、気が付いた。レバントの自宅に戻っている。</seg>
       </tuv>
     </tu>
     <tu>
