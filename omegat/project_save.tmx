@@ -18054,8 +18054,8 @@
       <tuv lang="EN-US">
         <seg>Dodging allows you to temporarily evade any type of attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190331T111623Z" creationid="setom" creationdate="20190331T111623Z">
-        <seg>ドッジロールにより如何なる攻撃もとりあえずは避けられる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021132Z" creationid="setom" creationdate="20190331T111623Z">
+        <seg>ドッジロールにより如何なる攻撃もとりあえずは避けられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30814,8 +30814,8 @@
       <tuv lang="EN-US">
         <seg>Note that most backpacks, when equipped, slow down your dodge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T142943Z" creationid="setom" creationdate="20190331T111628Z">
-        <seg>しかし、殆どのバックパックは装備しているとドッジロールが鈍重になることに注意しろ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021140Z" creationid="setom" creationdate="20190331T111628Z">
+        <seg>しかし、殆どのバックパックは装備しているとドッジロールが鈍重になることに注意しましょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49834,8 +49834,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can drop and pick up backpacks with a button or by using the inventory menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T094942Z" creationid="setom" creationdate="20190331T111654Z">
-        <seg>ボタンを押すか、所持品からバックパックを降ろしたり拾ったりできる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T021355Z" creationid="setom" creationdate="20190331T111654Z">
+        <seg>ボタンあるいはインベントリからバックパックを降ろしたり拾ったりできます。</seg>
       </tuv>
     </tu>
     <tu>
