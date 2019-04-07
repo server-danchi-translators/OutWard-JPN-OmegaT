@@ -42436,6 +42436,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soiled cloth that confers the Lightning element when rubbed on a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T063427Z" creationid="Light" creationdate="20190407T063427Z">
+        <seg>近接武器をこすると稲妻属性を付与する汚れた布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soldier</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120224Z" creationid="Gaiden Shinji" creationdate="20190404T120224Z">
@@ -49727,6 +49735,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
         <seg>武器の物理的ダメージ+%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon deals some Fire Damage and inflicts Burning on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T063315Z" creationid="Light" creationdate="20190407T063315Z">
+        <seg>武器にいくらかの火災ダメージを付与し、敵を燃やす。</seg>
       </tuv>
     </tu>
     <tu>
