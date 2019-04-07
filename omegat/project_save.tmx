@@ -24985,6 +24985,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm sorry, [PlayerName], but that's just not going to happen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T124427Z" creationid="Light" creationdate="20190407T124427Z">
+        <seg>悪いな、 [PlayerName]。だが何があるかわからないんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm sorry, that wasn’t a funny joke.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040334Z" creationid="weedssoul" creationdate="20190406T040010Z">
@@ -25285,6 +25293,14 @@
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T135729Z" creationid="setom" creationdate="20190402T082925Z">
         <seg>火打石と打ち金を持っているなら、キャンプファイヤーに火をつけることができます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you manage to get to the Kingdom of Levant on your own somehow, though, I'll do my best to look out for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T124633Z" creationid="Light" creationdate="20190407T124633Z">
+        <seg>だが君が自分でレバントの王国に向かうというなら、君を見張るのに最善を尽くす。</seg>
       </tuv>
     </tu>
     <tu>
