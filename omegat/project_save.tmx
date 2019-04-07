@@ -22665,9 +22665,8 @@
       <tuv lang="EN-US">
         <seg>He lets you down gently at the city gates with a gruff “Watch yourself out there, you were nearly a manticore’s dinner!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042322Z" creationid="はぐくみ会" creationdate="20190403T095014Z">
-        <seg>彼は街の入り口で優しく降ろしてくれた。
- “気を付けろ、お前はマンティコアの夕食になるところだったんだぞ！”</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T095632Z" creationid="はぐくみ会" creationdate="20190403T095014Z">
+        <seg>彼は街の入り口で優しく降ろしてくれた。 “気を付けろ、お前はマンティコアの夕食になるところだったんだぞ！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -47257,8 +47256,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The innkeeper has helped himself to your Silver to pay for your stay, but you are otherwise alive and healthy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042313Z" creationid="はぐくみ会" creationdate="20190403T094502Z">
-        <seg>宿屋の主人は、あなたの治療と滞在の代金を払うために、あなたの財布からお金を使っているが、それ以外は問題ない。生きているし、健康だ。
+      <tuv lang="JA" changeid="Light" changedate="20190407T095554Z" creationid="はぐくみ会" creationdate="20190403T094502Z">
+        <seg>宿屋の主人は、私の治療と滞在の代金を私の財布から使っているが、それ以外は問題ない。生きているし、健康だ。
 .</seg>
       </tuv>
     </tu>
@@ -47531,8 +47530,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The treatment and food has not come cheap either, judging by how light your coin pouch has become.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042328Z" creationid="はぐくみ会" creationdate="20190403T095250Z">
-        <seg>あなたの財布がどれほど明るくなったかで判断すると、治療や食べ物も安くなっていないようだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T095742Z" creationid="はぐくみ会" creationdate="20190403T095250Z">
+        <seg>私の財布の軽さから判断すると、治療も食べ物も安くはなっていないようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50709,8 +50708,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When you next awake, you are being carried by a hunter from Berg, on his way back to the city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T011812Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
-        <seg>あなたが次に目を覚ましたとき、あなたはBergに住む猟師によって運ばれていた。彼は街に帰る途中だ。
+      <tuv lang="JA" changeid="Light" changedate="20190407T095612Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
+        <seg>私が次に目を覚ましたとき、私はベルクに住む猟師によって運ばれていた。彼は街に帰る途中だ。
 </seg>
       </tuv>
     </tu>
@@ -50734,8 +50733,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When your eyes open, you find yourself wrapped up in a bed at the inn in Berg, having been unconscious for days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T011803Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
-        <seg>あなたは自分がBergの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
+      <tuv lang="JA" changeid="Light" changedate="20190407T095512Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
+        <seg>私は自分がベルクの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
 </seg>
       </tuv>
     </tu>
@@ -51596,8 +51595,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You awaken wrapped in silk sheets at Levant’s inn, apparently having been nursed back to health after several days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T011822Z" creationid="はぐくみ会" creationdate="20190403T095153Z">
-        <seg>あなたはLevantの宿で絹のシーツに包まれて目を覚ました。数日後には健康になるだろう。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T095645Z" creationid="はぐくみ会" creationdate="20190403T095153Z">
+        <seg>私はレバントの宿で絹のシーツに包まれて目を覚ました。数日後には健康になるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53085,8 +53084,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re not sure how long you’ve been unconscious...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T042244Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
-        <seg>どれだけ長く気を失っていたのか...</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190407T095448Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
+        <seg>どれだけ長く気を失っていたのか...。</seg>
       </tuv>
     </tu>
     <tu>
