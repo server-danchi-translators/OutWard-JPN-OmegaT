@@ -9647,6 +9647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, someone who speaks my language!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053125Z" creationid="Mad" creationdate="20190407T053125Z">
+        <seg>おお！その相手とはまさに私の事じゃあないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aim</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144817Z" creationid="Horizon" creationdate="20190403T144817Z">
@@ -11173,6 +11181,14 @@
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120015Z" creationid="setom" creationdate="20190401T120015Z">
         <seg>バッグの重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bah, we have plenty swill inside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055005Z" creationid="Mad" creationdate="20190407T055005Z">
+        <seg>ふふん、そうなのか。我々は溢れんばかりの備蓄がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13751,6 +13767,14 @@
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171538Z" creationid="weedssoul" creationdate="20190405T162138Z">
         <seg>彼らに別れを告げたら、一度戻ってきて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come inside with me and I’ll show you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055053Z" creationid="Mad" creationdate="20190407T055053Z">
+        <seg>さあ中に入ろう。そして、ともに飲み明かそうじゃないか！</seg>
       </tuv>
     </tu>
     <tu>
@@ -27924,6 +27948,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just looking for someone to have a drink with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053550Z" creationid="Mad" creationdate="20190407T053054Z">
+        <seg>何か一緒に飲める人を探しているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just some water, sadly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053221Z" creationid="Mad" creationdate="20190407T053221Z">
+        <seg>悲しいことに、僅かばかりの水しかない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kapros</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114902Z" creationid="Gaiden Shinji" creationdate="20190404T114902Z">
@@ -31760,6 +31800,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042516Z" creationid="はぐくみ会" creationdate="20190403T112648Z">
         <seg>あなたが気を失っている間、傷つけられた様子はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing, I was hoping you'd offer me a drink.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053443Z" creationid="Mad" creationdate="20190407T053443Z">
+        <seg>私は何も持っていないので、あなたが何か飲み物を提供してくれると嬉しいのですが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40128,6 +40176,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Say, why don't I show you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T055021Z" creationid="Mad" creationdate="20190407T055021Z">
+        <seg>それを証明しない理由があるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Say, you must be hungry.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011802Z" creationid="rkmad" creationdate="20190404T011802Z">
@@ -45699,6 +45755,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tea, obviously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053242Z" creationid="Mad" creationdate="20190407T053242Z">
+        <seg>お茶ですが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teaches how to craft a consumable item, requiring an Alchemy Kit.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T134640Z" creationid="weedssoul" creationdate="20190405T140225Z">
@@ -48336,6 +48400,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uhh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053542Z" creationid="Mad" creationdate="20190407T053315Z">
+        <seg>ええと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ultra</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045120Z" creationid="seto" creationdate="20190406T045120Z">
@@ -49853,6 +49925,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055330Z" creationid="Light" creationdate="20190406T055330Z">
         <seg>外の世界で生き残るにはどうすればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you have for us to drink?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Mad" changedate="20190407T053325Z" creationid="Mad" creationdate="20190407T053146Z">
+        <seg>それで、君は飲もうとしているんだい？</seg>
       </tuv>
     </tu>
     <tu>
