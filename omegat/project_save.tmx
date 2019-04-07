@@ -50145,6 +50145,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We'll be rationing water the whole way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123700Z" creationid="Light" creationdate="20190407T123700Z">
+        <seg>俺らは常に水が必要になるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We'll go by ocean as far as we can, then leg it across the &lt;color=#00CCFF&gt;&lt;b&gt;Abrassar desert&lt;/b&gt;&lt;/color&gt; on foot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190407T123647Z" creationid="Light" creationdate="20190407T123647Z">
+        <seg>俺らはできる限り海で行って、そこからは歩いて&lt;color=#00CCFF&gt;&lt;b&gt;アブラサール砂漠&lt;/b&gt;&lt;/color&gt;に行く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We'll take good care of you!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051529Z" creationid="Mad" creationdate="20190407T051529Z">
