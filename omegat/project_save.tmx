@@ -25765,6 +25765,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you lose the trail somehow, head north, following the giant ray of light above Monsoon, and you’ll get there eventually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T064130Z" creationid="Light" creationdate="20190408T064130Z">
+        <seg>道がわからなくなったときは、モンスーンの光線に従って北に向かいなさい、そのうち着くわよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you manage to get to the Kingdom of Levant on your own somehow, though, I'll do my best to look out for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T124656Z" creationid="Light" creationdate="20190407T124633Z">
