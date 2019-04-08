@@ -14047,6 +14047,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come back when you can afford it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060909Z" creationid="Light" creationdate="20190408T060909Z">
+        <seg>余裕があるときに、また来てちょうだい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come in and give those weary feet a rest!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060543Z" creationid="Light" creationdate="20190408T060543Z">
@@ -43350,6 +43358,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep well!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060959Z" creationid="Light" creationdate="20190408T060959Z">
+        <seg>おやすみ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep: Camo Tent</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134022Z" creationid="totochan" creationdate="20190403T134022Z">
@@ -53568,6 +53584,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You look like the one that Rissa Aberdeen said she was planning to adopt into her family!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T061100Z" creationid="Light" creationdate="20190408T061100Z">
+        <seg>あなた、リッサが養子に迎えるって言ってた人じゃない？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You look like you’re about to collapse from thirst.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134454Z" creationid="setom" creationdate="20190402T134454Z">
@@ -54345,6 +54369,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T104246Z" creationid="pugnus" creationdate="20190404T093824Z">
         <seg>休んでいた私の耳に不自然で、かすかな物音が入ってきた！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your room is up the stairs, look for the open door.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060923Z" creationid="Light" creationdate="20190408T060923Z">
+        <seg>部屋は階段を上って、開いているドアのところよ。</seg>
       </tuv>
     </tu>
     <tu>
