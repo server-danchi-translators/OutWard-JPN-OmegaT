@@ -14583,6 +14583,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumes: Cold Stone Create a magic circle on the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124851Z" creationid="pugnus" creationdate="20190408T124851Z">
+        <seg>消費:Cold Stone 地面に魔法の輪を作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumes: Fire Stone Create a magic circle on the ground.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T124759Z" creationid="pugnus" creationdate="20190408T124733Z">
@@ -49948,6 +49956,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This spell can light campfires.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125115Z" creationid="pugnus" creationdate="20190408T125115Z">
+        <seg>この呪文はキャンプファイヤーに火を灯すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This survival crafting menu is available at all times in your player menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112050Z">
@@ -50040,6 +50056,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070734Z" creationid="hiru4" creationdate="20190403T070734Z">
         <seg>サーバータイムアウトによる切断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiny fire explosion that deals negligible damage, but can be used in combination with other spells for greater effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125019Z" creationid="pugnus" creationdate="20190408T125019Z">
+        <seg>小さな炎による爆発。ごくわずかなダメージを与えるが、より大きな効果を得るために他の呪文と組み合わせて使うことができる。</seg>
       </tuv>
     </tu>
     <tu>
