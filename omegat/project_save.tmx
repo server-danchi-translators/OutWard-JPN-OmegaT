@@ -35230,8 +35230,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Our supplies come from the four corners of Aurai.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T022814Z" creationid="pugnus" creationdate="20190408T022814Z">
-        <seg>私たちの生活必需品は、Auraiの果てから取り寄せているんだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T022935Z" creationid="pugnus" creationdate="20190408T022814Z">
+        <seg>私たちの品物は、Auraiの至る所から取り寄せている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42513,6 +42513,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025251Z" creationid="hiru4" creationdate="20190402T023216Z">
         <seg>セクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See anything you fancy?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T022954Z" creationid="pugnus" creationdate="20190408T022954Z">
+        <seg>気になるものはあるかい？</seg>
       </tuv>
     </tu>
     <tu>
