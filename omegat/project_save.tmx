@@ -14047,6 +14047,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come in and give those weary feet a rest!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060543Z" creationid="Light" creationdate="20190408T060543Z">
+        <seg>疲れた足を休ませていきな！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come inside with me and I’ll show you!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T055053Z" creationid="Mad" creationdate="20190407T055053Z">
@@ -18675,6 +18683,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t just stand there, dear!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060612Z" creationid="Light" creationdate="20190408T060531Z">
+        <seg>さあ、そんなとこに突っ立ってないで！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double all the Damage you deal.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065506Z" creationid="rkmad" creationdate="20190404T065506Z">
@@ -21975,6 +21991,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
         <seg>メニューに戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go ahead and use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060734Z" creationid="Light" creationdate="20190408T060734Z">
+        <seg>さあ、行ってくつろぎな！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43742,6 +43766,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, you don't have enough silver to stay here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060814Z" creationid="Light" creationdate="20190408T060814Z">
+        <seg>あら、十分な銀貨を持っていないわね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -49836,6 +49868,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Travel safely!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060635Z" creationid="Light" creationdate="20190408T060635Z">
+        <seg>気をつけてね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Travel to {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021526Z" creationid="hiru4" creationdate="20190402T021526Z">
@@ -54433,6 +54473,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045254Z" creationid="Mad" creationdate="20190407T045254Z">
         <seg>面倒事を起こしやがって……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve already rented a room for the day!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T060658Z" creationid="Light" creationdate="20190408T060658Z">
+        <seg>すでに部屋を貸してるわよ！</seg>
       </tuv>
     </tu>
     <tu>
