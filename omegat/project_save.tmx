@@ -23501,8 +23501,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Hey I recognize you!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T074719Z" creationid="pugnus" creationdate="20190408T074719Z">
-        <seg>ねぇ、私は君を認めるよ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T084819Z" creationid="pugnus" creationdate="20190408T074719Z">
+        <seg>ねぇ、君すごいんだってね！？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28501,6 +28501,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T120749Z" creationid="Mad" creationdate="20190406T120749Z">
         <seg>これこそ、生きる上での大事なことよね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a long way from Cierzo, isn’t it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T074832Z" creationid="pugnus" creationdate="20190408T074832Z">
+        <seg>シエルゾから、はるばる来たんだって？</seg>
       </tuv>
     </tu>
     <tu>
@@ -51905,6 +51913,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T140039Z" creationid="Mad" creationdate="20190406T115940Z">
         <seg>聖なる任務について詳しく教えてもらえないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What desires can I satisfy for you today?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T084829Z" creationid="pugnus" creationdate="20190408T084802Z">
+        <seg>そんなあなたを満足させる商品があるか、見てみてよ！</seg>
       </tuv>
     </tu>
     <tu>
