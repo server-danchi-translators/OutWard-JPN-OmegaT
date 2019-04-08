@@ -20811,6 +20811,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fresh fruits and meat!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054829Z" creationid="Light" creationdate="20190408T054745Z">
+        <seg>新鮮なフルーツと肉だよ！ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Freshness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020851Z" creationid="hiru4" creationdate="20190402T020851Z">
@@ -22559,6 +22567,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055210Z">
         <seg>やあ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grown right here inside the city!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054801Z" creationid="Light" creationdate="20190408T054801Z">
+        <seg>この町で育ったんだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -47917,6 +47933,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112721Z">
         <seg>メニュータブのジャーナルは次の仕事の追跡に使用されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Manticores in this region have been breeding more than usual this year.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054920Z" creationid="Light" creationdate="20190408T054920Z">
+        <seg>今年はこの辺りのマンティコアが、いつもより繁殖してるみたいなんだ。</seg>
       </tuv>
     </tu>
     <tu>
