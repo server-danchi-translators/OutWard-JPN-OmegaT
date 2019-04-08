@@ -12254,6 +12254,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocks an attack, restoring your Stability and giving you the Discipline boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T115219Z" creationid="pugnus" creationdate="20190408T115219Z">
+        <seg>攻撃を遮断し、あなたの Stabilityを回復し、Discipline boonを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blood</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021545Z" creationid="hiru4" creationdate="20190402T021545Z">
