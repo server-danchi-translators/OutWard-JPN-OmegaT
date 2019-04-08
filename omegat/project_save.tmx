@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(There is nothing I can do with that right now.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T090231Z" creationid="pugnus" creationdate="20190408T090231Z">
+        <seg>(今は何もできない。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Blue Chamber Collective&lt;/b&gt;&lt;/color&gt;?)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T020417Z" creationid="weedssoul" creationdate="20190406T021709Z">
@@ -48966,8 +48974,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The walls have ears and the guards have spears.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T085929Z" creationid="pugnus" creationdate="20190408T085802Z">
-        <seg>壁には耳があるし、窓には目がある。そして警備員は槍を持っているから...気を付けて...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T090116Z" creationid="pugnus" creationdate="20190408T085802Z">
+        <seg>壁には耳があるし、窓には目がある。そして、警備員は槍を持っているから...とにかく気を付けて...</seg>
       </tuv>
     </tu>
     <tu>
