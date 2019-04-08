@@ -12264,8 +12264,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blocks an attack, restoring your Stability and giving you the Discipline boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T115219Z" creationid="pugnus" creationdate="20190408T115219Z">
-        <seg>攻撃を遮断し、あなたの Stabilityを回復し、Discipline boonを与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T115937Z" creationid="pugnus" creationdate="20190408T115219Z">
+        <seg>攻撃を遮断し、あなたの Stabilityを回復し、Discipline Boonを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21287,6 +21287,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102333Z" creationid="seto" creationdate="20190405T102333Z">
         <seg>Gabriella_BC_Mix_Legacy_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Discipline if you blocked an attack this way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T120036Z" creationid="pugnus" creationdate="20190408T120036Z">
+        <seg>この方法で攻撃をブロックすることにより、あなたはDiscipline(規律)を得るだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39367,8 +39375,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T120512Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Sword 両手剣の柄頭を使った、強い衝撃を与えるカウンター攻撃。</seg>
       </tuv>
     </tu>
     <tu>
