@@ -14583,6 +14583,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumes: Fire Stone Create a magic circle on the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124759Z" creationid="pugnus" creationdate="20190408T124733Z">
+        <seg>消費:Fire Stone 地面に魔法の輪を作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Container</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115009Z" creationid="setom" creationdate="20190401T115009Z">
@@ -39479,8 +39487,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T124216Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:,Discipline Boonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124735Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Discipline Boonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
       </tuv>
     </tu>
     <tu>
