@@ -52625,6 +52625,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Worse still, the Light Mender Lich has gotten very territorial.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062921Z" creationid="Light" creationdate="20190408T062921Z">
+        <seg>さらに悪いことに、Light Mender Lichのテリトリーになってるの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrecking this golem seems to reduce the interference.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124639Z" creationid="urakata" creationdate="20190406T124639Z">
