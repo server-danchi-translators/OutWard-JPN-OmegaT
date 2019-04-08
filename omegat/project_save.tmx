@@ -39236,6 +39236,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces the weapon’s durability by 10.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T123533Z" creationid="pugnus" creationdate="20190408T123533Z">
+        <seg>武器の耐久度が10低下する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduces your shield's durability by 12.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T113848Z" creationid="pugnus" creationdate="20190408T113848Z">
@@ -39383,8 +39391,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T122906Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Bludgeon 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
       </tuv>
     </tu>
     <tu>
