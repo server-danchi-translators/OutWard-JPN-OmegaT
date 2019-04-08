@@ -50212,6 +50212,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, there is no Pilgrim Road you can follow in the Hallowed Marsh from Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062508Z" creationid="Light" creationdate="20190408T062508Z">
+        <seg>残念だけど、エンメルカルからHallowed Marshに行ける巡礼者の道はないわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, yes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030015Z" creationid="weedssoul" creationdate="20190406T030015Z">
@@ -54537,6 +54545,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125052Z" creationid="Light" creationdate="20190407T125052Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;チェルソネスから南東&lt;/b&gt;&lt;/color&gt;に移動して、&lt;color=#00CCFF&gt;&lt;b&gt;Enmerkarの森を東に抜ける&lt;/b&gt;&lt;/color&gt;必要がある、そして最後に&lt;color=#00CCFF&gt;&lt;b&gt;アブラサール砂漠を南&lt;/b&gt;&lt;/color&gt;だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll have to manage on your own, following the Light Ray above Monsoon in the north until you reach the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062814Z" creationid="Light" creationdate="20190408T062814Z">
+        <seg>北にあるモンスーンの光線に向かって、自分でたどり着くしかないわね。</seg>
       </tuv>
     </tu>
     <tu>
