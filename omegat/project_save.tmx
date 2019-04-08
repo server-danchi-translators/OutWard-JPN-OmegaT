@@ -10379,6 +10379,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And I happen to believe that if you have to get into a fight, you don't go armed with a stick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084005Z" creationid="rkmad" creationdate="20190408T084005Z">
+        <seg>もし君が戦いに赴く時、木の棒で武装することなどはない、ということを私は信じている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And I injured at least three and made them retreat.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T010214Z" creationid="pugnus" creationdate="20190406T105755Z">
@@ -54236,6 +54244,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T221913Z" creationid="seto" creationdate="20190404T221913Z">
         <seg>みんな、私の言ってることが分かるわよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You use maximum force to remove whatever passes for the threat's head, and resolve the problem right there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084042Z" creationid="rkmad" creationdate="20190408T084042Z">
+        <seg>考えうる限りの最大の力を発揮して、ありとあらゆる問題の解決に当たるだろうとね。</seg>
       </tuv>
     </tu>
     <tu>
