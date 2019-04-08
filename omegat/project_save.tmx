@@ -23299,6 +23299,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, your pay for a delivery well done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T022451Z" creationid="pugnus" creationdate="20190408T022451Z">
+        <seg>最高の配達員に、お礼をやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, your reward.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T014407Z" creationid="pugnus" creationdate="20190408T014407Z">
@@ -35408,6 +35416,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051844Z" creationid="Light" creationdate="20190406T051844Z">
         <seg>あなた最高だわ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perfect, I was waiting for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T022320Z" creationid="pugnus" creationdate="20190408T022320Z">
+        <seg>完璧だ。俺はこれを待ってたんだ。</seg>
       </tuv>
     </tu>
     <tu>
