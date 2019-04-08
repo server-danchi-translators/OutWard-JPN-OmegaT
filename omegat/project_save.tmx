@@ -39567,8 +39567,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Shield Block an elemental attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Shield Block an elemental attack.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113652Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Shield エレメンタルによる攻撃を防御する。</seg>
       </tuv>
     </tu>
     <tu>
