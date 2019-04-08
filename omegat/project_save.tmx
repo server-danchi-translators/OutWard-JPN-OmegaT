@@ -12272,8 +12272,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blocks an attack, restoring your Stability and giving you the Discipline boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T115937Z" creationid="pugnus" creationdate="20190408T115219Z">
-        <seg>攻撃を遮断し、あなたの Stabilityを回復し、Discipline Boonを与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124245Z" creationid="pugnus" creationdate="20190408T115219Z">
+        <seg>攻撃を遮断し、あなたのStabilityを回復し、Discipline Boonが発動される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13151,6 +13151,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certain skills have additional effects when cast within this circle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124602Z" creationid="pugnus" creationdate="20190408T124602Z">
+        <seg>特定のスキルを魔法の輪の中で使用すると、追加の効果を得る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Certain skills require this boon to be active.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T072447Z" creationid="rkmad" creationdate="20190403T072244Z">
@@ -13161,8 +13169,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Certain spells must be cast in proximity to a soul.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T122150Z" creationid="pugnus" creationdate="20190408T122150Z">
-        <seg>特定の呪文を魂に接近し唱える必要がある。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124344Z" creationid="pugnus" creationdate="20190408T122150Z">
+        <seg>特定の呪文を、魂に接近し唱える必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39447,8 +39455,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Activated Wind Altar Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T122417Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Activated Wind Altar(活性化された風の祭壇) 地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124405Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Activated Wind Altar 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39639,8 +39647,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Melee Weapon, Rage Boon Attack twice, consuming your Rage boon in the process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T053505Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:近接武器、レイジブーン レイジブーンを消費して2回の攻撃をする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124324Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Rage Boonの発動と、近接武器 レイジブーンを消費して2回の攻撃をする。</seg>
       </tuv>
     </tu>
     <tu>
