@@ -43286,6 +43286,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So tired... oh sorry!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T010836Z" creationid="pugnus" creationdate="20190408T010836Z">
+        <seg>ごめんなさい...とても疲れているんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we lost everything?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025930Z" creationid="weedssoul" creationdate="20190406T025930Z">
