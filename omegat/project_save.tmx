@@ -11966,6 +11966,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bearing some small portion of a god's power in your very being is incredible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084520Z" creationid="rkmad" creationdate="20190408T084520Z">
+        <seg>神の力をごく一部とはいえ己の中に得られるというのは、とても素晴らしいことだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beast Golem</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110725Z" creationid="Gaiden Shinji" creationdate="20190403T110725Z">
@@ -20139,6 +20147,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every day, we make a difference in people's lives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084145Z" creationid="rkmad" creationdate="20190408T084145Z">
+        <seg>私達は人々の生活に、毎日変化をもたらしているんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every objects are synced</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051703Z" creationid="seto" creationdate="20190406T051703Z">
@@ -28037,6 +28053,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190405T094552Z">
         <seg>オリエルにも、貴女から離れる時が来たのだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's amazing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084555Z" creationid="rkmad" creationdate="20190408T084122Z">
+        <seg>そりゃ凄いさ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52021,6 +52045,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is serving Elatt like?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084112Z" creationid="rkmad" creationdate="20190408T084112Z">
+        <seg>エラットに仕えるというのは、どういう感覚なのでしょう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What kind of properties does this mushroom have?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T045909Z" creationid="Light" creationdate="20190406T045909Z">
@@ -54331,6 +54363,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will likely be following the missionary's path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084617Z" creationid="rkmad" creationdate="20190408T084617Z">
+        <seg>あなたは宣教師としての道を辿っているはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will then be able to better target that enemy, especially with ranged weapons or skills.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113011Z">
@@ -54689,6 +54729,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024253Z" creationid="hiru4" creationdate="20190402T024253Z">
         <seg>ステータス状況:疲労:{1}渇き:{2}空腹:{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your tasks will take you to places far and wide, to deal with conflicts that need to be resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T084655Z" creationid="rkmad" creationdate="20190408T084655Z">
+        <seg>それはあなたを広い世界に連れ出し、誰かの助けとなるように導かれていくことだろう。</seg>
       </tuv>
     </tu>
     <tu>
