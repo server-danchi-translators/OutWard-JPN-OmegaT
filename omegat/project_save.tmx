@@ -26069,6 +26069,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Enmerkar, head East and past the stone city of Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062126Z" creationid="Light" creationdate="20190408T062126Z">
+        <seg>エンメルカルを東に抜けて、石の町ベルクを通るのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112544Z">
@@ -34688,6 +34696,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020208Z" creationid="weedssoul" creationdate="20190406T020208Z">
         <seg>彼らの承認が得られたら、私に知らせてください。手続きを始めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you leave the stone walls and the lake behind, head north past a small stone archway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062158Z" creationid="Light" creationdate="20190408T062158Z">
+        <seg>石の壁と湖を後にしたら、小さな石のアーチを通って北へ向かうの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54497,6 +54513,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T135721Z" creationid="Mad" creationdate="20190407T135721Z">
         <seg>ブラマク枢機卿は、モンスーンの北の方にある寺院にいるわよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll find the road to the Hallowed Marsh not much farther from there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T062301Z" creationid="Light" creationdate="20190408T062301Z">
+        <seg>そしたら、それほど遠くないところにHallowed Marshへの道が見つかるわ。</seg>
       </tuv>
     </tu>
     <tu>
