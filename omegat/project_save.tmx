@@ -13951,6 +13951,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cierzo has been devastated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130020Z" creationid="urakata" creationdate="20190408T130020Z">
+        <seg>Cierzoは滅びた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo thanks you for your great deed.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040306Z" creationid="rkmad" creationdate="20190405T040306Z">
@@ -33018,6 +33026,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_vendavel_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T125845Z" creationid="urakata" creationdate="20190408T125845Z">
+        <seg>Neut_vendavel_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T125957Z" creationid="urakata" creationdate="20190408T125957Z">
+        <seg>Neut_vendavel_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neutral</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114030Z" creationid="setom" creationdate="20190401T114030Z">
@@ -47616,6 +47640,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Burac in Cierzo for a reward.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T125844Z" creationid="urakata" creationdate="20190408T125844Z">
+        <seg>CierzoのBuracに話しかけて報酬をもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cardinal Bourlamaque in Monsoon’s temple.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T032940Z" creationid="urakata" creationdate="20190407T032940Z">
@@ -51032,6 +51064,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115256Z" creationid="Gaiden Shinji" creationdate="20190404T115256Z">
         <seg>ベンダバルの看護師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel’s warlords have attacked Cierzo by now…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T125955Z" creationid="urakata" creationdate="20190408T125955Z">
+        <seg>Vendavelの将軍たちがこれからCierzoに攻撃を仕掛ける…</seg>
       </tuv>
     </tu>
     <tu>
