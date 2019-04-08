@@ -10253,8 +10253,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Amba, friend [PlayerName]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T113427Z" creationid="weedssoul" creationdate="20190406T072339Z">
-        <seg>やあ、友よ[PlayerName]！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141815Z" creationid="weedssoul" creationdate="20190406T072339Z">
+        <seg>やあ、[PlayerName]！</seg>
       </tuv>
     </tu>
     <tu>
@@ -20165,8 +20165,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Eto is the Kazite Trainer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T021300Z" creationid="rkmad" creationdate="20190404T092122Z">
-        <seg>エトはカザイトですが、優れた戦闘技術の使い手です。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="rkmad" creationdate="20190404T092122Z">
+        <seg>エトはカジートですが、優れた戦闘技術の使い手です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24871,8 +24871,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I made a trip to visit the old Hermit in the valley beyond the Ghost Pass.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073146Z" creationid="weedssoul" creationdate="20190406T072941Z">
-        <seg>私は、Ghost Pass を超え、谷にいる年老いた隠者を訪ねた。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141956Z" creationid="weedssoul" creationdate="20190406T072941Z">
+        <seg>Ghost Passの近くの谷にいる隠者の老人のもとまで旅をしたことがある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28739,8 +28739,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It’s a dangerous journey, but his knowledge of magic is vast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073058Z" creationid="weedssoul" creationdate="20190406T073058Z">
-        <seg>危険な旅だったが、彼の魔法に関する知識は莫大だ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142026Z" creationid="weedssoul" creationdate="20190406T073058Z">
+        <seg>厳しい道のりではあったが、彼の持つ魔法の知識は膨大だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29532,32 +29532,32 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Kazite Archer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112813Z" creationid="Gaiden Shinji" creationdate="20190403T110331Z">
-        <seg>カザイト射手</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110331Z">
+        <seg>カジート射手</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Kazite Bandit</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112228Z" creationid="Gaiden Shinji" creationdate="20190403T110401Z">
-        <seg>カザイト盗賊</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110401Z">
+        <seg>カジート盗賊</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Kazite Captain</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112703Z" creationid="Gaiden Shinji" creationdate="20190403T110407Z">
-        <seg>カザイト隊長</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110407Z">
+        <seg>カジート隊長</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Kazite Lieutenant</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
-        <seg>カザイト小隊長</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
+        <seg>カジート小隊長</seg>
       </tuv>
     </tu>
     <tu>
@@ -31116,8 +31116,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Maybe we should train together, eh?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T072424Z" creationid="weedssoul" creationdate="20190406T072424Z">
-        <seg>どうだい、一緒に訓練しないか？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141736Z" creationid="weedssoul" creationdate="20190406T072424Z">
+        <seg>お前も一緒にどうだ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -34614,8 +34614,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oda, Kazite Trainer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T125438Z" creationid="Light" creationdate="20190406T125438Z">
-        <seg>カザイトトレーナー織田</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Light" creationdate="20190406T125438Z">
+        <seg>カジートトレーナー織田</seg>
       </tuv>
     </tu>
     <tu>
