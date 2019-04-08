@@ -26557,6 +26557,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inflicts Extreme Bleeding and Pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T120901Z" creationid="pugnus" creationdate="20190408T120901Z">
+        <seg>極度の出血および痛みを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inflicts Extreme Bleeding on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062442Z" creationid="setom" creationdate="20190402T062424Z">
@@ -39184,6 +39192,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065239Z" creationid="rkmad" creationdate="20190404T065239Z">
         <seg>行動時、消費スタミナと消費マナが5%減少する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces the weapon's durability by 3% per hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T121036Z" creationid="pugnus" creationdate="20190408T121036Z">
+        <seg>武器の耐久度を1ヒットあたり、3%低下させる。</seg>
       </tuv>
     </tu>
     <tu>
