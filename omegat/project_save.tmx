@@ -39463,8 +39463,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Any Melee Weapon, Discipline Boon.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T123716Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Discipline Boonの発動と、近接武器。</seg>
       </tuv>
     </tu>
     <tu>
