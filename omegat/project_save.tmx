@@ -24119,8 +24119,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>How's my brother doing?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T113648Z" creationid="weedssoul" creationdate="20190406T113648Z">
-        <seg>私の兄弟はどうしてる？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141154Z" creationid="weedssoul" creationdate="20190406T113648Z">
+        <seg>兄貴はどうしてた？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30484,8 +30484,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Make your own path.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T034131Z">
-        <seg> 自分で道を切り拓け。 </seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T140931Z" creationid="weedssoul" creationdate="20190406T034131Z">
+        <seg>頑張れよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34726,8 +34726,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T113617Z" creationid="weedssoul" creationdate="20190406T113617Z">
-        <seg>ああ、</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141101Z" creationid="weedssoul" creationdate="20190406T113617Z">
+        <seg>よう、</seg>
       </tuv>
     </tu>
     <tu>
@@ -39479,8 +39479,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Remember, take care of yourself and don’t be a tool for others, or you’ll end with missing limbs like me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T034040Z">
-        <seg>覚えておけ。 自分を大切にしろ。 他人の道具になるな。  さもなくば、私のように手足を失うだろう。 </seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T140858Z" creationid="weedssoul" creationdate="20190406T034040Z">
+        <seg>忘れるなよ。自分の面倒を見て、他人の道具に成り下がるな。でなきゃ俺のように手足をなくすことになるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51414,8 +51414,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wait, you're mugging me, [PlayerName]?!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T052214Z" creationid="weedssoul" creationdate="20190406T035223Z">
-        <seg>待て、私を襲う気か、[PlayerName]？！</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141016Z" creationid="weedssoul" creationdate="20190406T035223Z">
+        <seg>待て、俺を襲う気か、[PlayerName]？！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55865,6 +55865,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164449Z" creationid="magur0w" creationdate="20190404T164449Z">
         <seg>[PlayerName] 、ここにいたか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T141106Z" creationid="Light" creationdate="20190408T141052Z">
+        <seg>[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
