@@ -28546,6 +28546,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s what we call that trail of luminous sun-pillars that leads to Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063838Z" creationid="Light" creationdate="20190408T063838Z">
+        <seg>私たちがモンスーンに通じる、輝く太陽の柱の道と呼んでいるものがある道よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s your choice, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T165459Z">
@@ -52134,6 +52142,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you reach the Hallowed Marsh, follow the Pilgrim Road.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063747Z" creationid="Light" creationdate="20190408T063747Z">
+        <seg>聖なる沼に到着したら、巡礼者の道に従って歩くの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When your eyes open once more, you are safe at a campsite along the beach.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102038Z" creationid="Horizon" creationdate="20190404T073919Z">
@@ -53748,6 +53764,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102016Z" creationid="pugnus" creationdate="20190404T111752Z">
         <seg>毒が私を死に追いやるまで、あまり時間が無いかもしれない...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may want to stop at the Oasis at the entrance of the desert to re-stock on water while you’re at it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063706Z" creationid="Light" creationdate="20190408T063706Z">
+        <seg>砂漠の入り口のオアシスに立ち寄ったら、水を持っていった方がいいわよ。</seg>
       </tuv>
     </tu>
     <tu>
