@@ -23123,6 +23123,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hefty precious stone with a lush green color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054200Z" creationid="Light" creationdate="20190408T054200Z">
+        <seg>高貴な緑色の石。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helen Turnbull</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114709Z" creationid="Gaiden Shinji" creationdate="20190404T114709Z">
@@ -27448,8 +27456,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It can fetch a decent price.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T150618Z">
-        <seg>いい値段で取得することができる。 </seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054304Z" creationid="Light" creationdate="20190406T150618Z">
+        <seg>いい値段で取引することができる。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can fetch an enormous price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054234Z" creationid="Light" creationdate="20190408T054234Z">
+        <seg>莫大な価格で取引される。</seg>
       </tuv>
     </tu>
     <tu>
