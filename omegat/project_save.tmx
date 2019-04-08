@@ -8596,8 +8596,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>A Iocal mage keeps demanding more Cold Stones to make Ice Sigils.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T011957Z" creationid="pugnus" creationdate="20190408T011835Z">
-        <seg>地元の魔術師たちは、氷の印章を作り出すために、Cold Stoneを要求し続ける。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T013353Z" creationid="pugnus" creationdate="20190408T011835Z">
+        <seg>地元の魔術師たちは、氷の印章を作り出すために、Cold Stoneを要求し続けるの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28233,6 +28233,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s pretty simple to make a Cold Stone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T013521Z" creationid="pugnus" creationdate="20190408T013521Z">
+        <seg>Cold Stoneを作り出す作業自体は、かなり単純なの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s probably just a rumor, but better safe than sorry, I say.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060955Z">
@@ -38128,6 +38136,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063347Z" creationid="hiru4" creationdate="20190403T063347Z">
         <seg>消す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Put a Mana Stone and some Blue Sand into an alchemy set and let it run.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T013815Z" creationid="pugnus" creationdate="20190408T013815Z">
+        <seg>Mana StoneとBlue Sandを錬金術セットに入れるだけなんだから！</seg>
       </tuv>
     </tu>
     <tu>
