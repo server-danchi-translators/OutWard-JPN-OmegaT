@@ -23925,6 +23925,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can craft equipment from Hackmanite or Tsar Stones you bring me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T023836Z" creationid="pugnus" creationdate="20190408T023836Z">
+        <seg>HackmaniteやTsar-Stonesを持ってきたら、装備品を作ってやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can craft special armor from the Blue Sand you bring me.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064053Z" creationid="weedssoul" creationdate="20190406T063949Z">
