@@ -26589,6 +26589,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inflicts Pain and Cripple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T121539Z" creationid="pugnus" creationdate="20190408T121539Z">
+        <seg>敵を痛みにより、足腰がたたない状態にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inflicts Pain on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062837Z" creationid="setom" creationdate="20190402T062837Z">
@@ -39359,8 +39367,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Axe Low blow that reduces the target's mobility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-Handed Axe Low blow that reduces the target's mobility.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T121157Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Axe 目標の機動力を低下させる攻撃。</seg>
       </tuv>
     </tu>
     <tu>
