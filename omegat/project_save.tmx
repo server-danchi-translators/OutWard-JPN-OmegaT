@@ -39140,6 +39140,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces the weapon's durability by 6.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113159Z" creationid="pugnus" creationdate="20190408T113159Z">
+        <seg>武器の耐久性が5低下する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refreshed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
@@ -39447,8 +39455,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113538Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Halberd, Staff 大きなダメージを与えるダブルアタック。そして、Rage BoonまたはDiscipline boonの状態であればさらに攻撃力は高まる。</seg>
       </tuv>
     </tu>
     <tu>
