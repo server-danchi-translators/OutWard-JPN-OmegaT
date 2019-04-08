@@ -12807,6 +12807,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you craft me a Cold Stone?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T012956Z" creationid="pugnus" creationdate="20190408T012956Z">
+        <seg>私にCold Stoneを作ってもらえますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you teach me about crafting and managing my inventory?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123103Z" creationid="weedssoul" creationdate="20190406T122116Z">
