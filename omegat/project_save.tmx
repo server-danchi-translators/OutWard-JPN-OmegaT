@@ -24517,6 +24517,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have goods you won’t find anywhere else, but keep it on the down-low.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T085604Z" creationid="pugnus" creationdate="20190408T085604Z">
+        <seg>このことは秘密だよ。私はすごく良いものを持ってるんだ。君が他のどこにも見つけれないような...すごいものをね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have questions about our tribe.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092728Z" creationid="rkmad" creationdate="20190404T092728Z">
@@ -48952,6 +48960,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T095742Z" creationid="はぐくみ会" creationdate="20190403T095250Z">
         <seg>私の財布の軽さから判断すると、治療も食べ物も安くはなっていないようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The walls have ears and the guards have spears.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T085802Z" creationid="pugnus" creationdate="20190408T085802Z">
+        <seg>壁には耳があるし、警備員は槍を持っているから...気を付けて...</seg>
       </tuv>
     </tu>
     <tu>
