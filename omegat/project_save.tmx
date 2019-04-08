@@ -14577,8 +14577,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Consumes your Blessed boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125437Z" creationid="pugnus" creationdate="20190408T125437Z">
-        <seg>この呪文は、Blessed boonを失う。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125531Z" creationid="pugnus" creationdate="20190408T125437Z">
+        <seg>この呪文は、Blessed Boonを失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39487,8 +39487,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Activated Wind Altar Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Activated Wind Altar Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125643Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Activated Wind Altar 3分間、近接武器による攻撃速度と衝撃を向上させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55129,6 +55129,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T080630Z" creationid="setom" creationdate="20190401T075944Z">
         <seg>自分のスタビリティーバーは画面の下部にあり、敵の場合は体力バーの下にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your stamina burn increases more quickly, however.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125807Z" creationid="pugnus" creationdate="20190408T125807Z">
+        <seg>しかし、スタミナを消費する速度も加速する。</seg>
       </tuv>
     </tu>
     <tu>
