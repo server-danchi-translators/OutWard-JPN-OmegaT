@@ -20603,6 +20603,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find white-clad missionaries on the Pilgrim Road, flanked with luminous Sun-Pillars, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131247Z" creationid="urakata" creationdate="20190408T131247Z">
+        <seg>Hallowed Marshの光り輝くSun-Pillarsに囲まれたPilgrim Roadで白衣の宣教師たちを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find yet more ghosts.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124317Z" creationid="urakata" creationdate="20190406T124216Z">
@@ -29602,6 +29610,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill the Wendigo inside the Corrupted Tomb, on the other side of the Ghost Pass, to the north-east of the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130827Z" creationid="urakata" creationdate="20190408T130827Z">
+        <seg>Chersoneseの北東、Ghost Passの逆側にあるCorrupted TombにいるWendigoを殺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind as ever, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T030618Z">
@@ -32802,6 +32818,62 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_Purifier_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130921Z" creationid="urakata" creationdate="20190408T130921Z">
+        <seg>Neut_Purifier_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131249Z" creationid="urakata" creationdate="20190408T131249Z">
+        <seg>Neut_Purifier_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131331Z" creationid="urakata" creationdate="20190408T131331Z">
+        <seg>Neut_Purifier_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131358Z" creationid="urakata" creationdate="20190408T131358Z">
+        <seg>Neut_Purifier_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131402Z" creationid="urakata" creationdate="20190408T131402Z">
+        <seg>Neut_Purifier_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131404Z" creationid="urakata" creationdate="20190408T131404Z">
+        <seg>Neut_Purifier_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131405Z" creationid="urakata" creationdate="20190408T131405Z">
+        <seg>Neut_Purifier_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neut_prequests_00</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T031112Z" creationid="urakata" creationdate="20190407T031112Z">
@@ -33054,6 +33126,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T125957Z" creationid="urakata" creationdate="20190408T125957Z">
         <seg>Neut_vendavel_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130100Z" creationid="urakata" creationdate="20190408T130100Z">
+        <seg>Neut_vendavel_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_vendavel_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130829Z" creationid="urakata" creationdate="20190408T130829Z">
+        <seg>Neut_vendavel_12</seg>
       </tuv>
     </tu>
     <tu>
@@ -40121,6 +40209,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T113627Z" creationid="urakata" creationdate="20190406T113627Z">
         <seg>完成したarmor pieceを受取りにBergの鍛冶屋へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Cardinal Bourlamaque, in Monsoon's temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131330Z" creationid="urakata" creationdate="20190408T131330Z">
+        <seg>Monsoonの寺にいるBourlamaque枢機卿の元へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -47688,6 +47784,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Balira in Vendavel.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130920Z" creationid="urakata" creationdate="20190408T130920Z">
+        <seg>VendavelのBaliraに話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Burac in Cierzo for a reward.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T125844Z" creationid="urakata" creationdate="20190408T125844Z">
@@ -47700,6 +47804,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T032940Z" creationid="urakata" creationdate="20190407T032940Z">
         <seg>Monsoonの寺院にいるBourlamaque枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Mofat in the city of Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190408T131355Z" creationid="urakata" creationdate="20190408T131355Z">
+        <seg>Monsoonの町にいるMofatに話しかける</seg>
       </tuv>
     </tu>
     <tu>
@@ -51118,7 +51230,7 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vendavel’s warlords have attacked Cierzo by now…</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190408T125955Z" creationid="urakata" creationdate="20190408T125955Z">
+      <tuv lang="JA" changeid="urakata" changedate="20190408T130052Z" creationid="urakata" creationdate="20190408T125955Z">
         <seg>Vendavelの将軍たちがこれからCierzoに攻撃を仕掛ける…</seg>
       </tuv>
     </tu>
