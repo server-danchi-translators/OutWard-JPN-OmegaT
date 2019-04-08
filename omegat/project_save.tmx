@@ -28426,6 +28426,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll teach you how to be a predator.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T051715Z" creationid="Light" creationdate="20190408T051715Z">
+        <seg>ハンターになる方法を教るぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll think about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113042Z" creationid="Mad" creationdate="20190406T113021Z">
@@ -41149,6 +41157,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Runic magic is versatile and intricate, letting you summon weapons, place arcane traps on the ground and far more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T051946Z" creationid="Light" creationdate="20190408T051946Z">
+        <seg>ルーン魔法は多用途で、複雑だ。 武器を召喚したり、罠を設置することができるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rusty oil lantern with a weak flame.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080841Z" creationid="rkmad" creationdate="20190403T080754Z">
@@ -53783,6 +53799,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100441Z" creationid="はぐくみ会" creationdate="20190403T233058Z">
         <seg>目が覚めると、蝶が鼻の上にとまっているのが見える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to learn how to hunt?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T051834Z" creationid="Light" creationdate="20190408T051647Z">
+        <seg>狩りについて、興味はないか？</seg>
       </tuv>
     </tu>
     <tu>
