@@ -52758,8 +52758,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can gather all the ingredients on the beach in the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T130234Z">
-        <seg>のビーチですべての食材を集めることができるよ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T020737Z" creationid="Light" creationdate="20190406T130234Z">
+        <seg>Chersoneseのビーチですべての食材を集めることができるよ。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -53508,6 +53508,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T110822Z">
         <seg>欲求が満たせなければ、ペナルティを受けることになります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You remember how it goes, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T020942Z" creationid="pugnus" creationdate="20190408T020942Z">
+        <seg>どうやって行くか、知ってるでしょ？</seg>
       </tuv>
     </tu>
     <tu>
