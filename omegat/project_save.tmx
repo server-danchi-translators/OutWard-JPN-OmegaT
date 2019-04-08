@@ -26421,6 +26421,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increases your Impact Resistance during this attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113108Z" creationid="pugnus" creationdate="20190408T113108Z">
+        <seg>使用者はこの攻撃の間、衝撃に対する抵抗が増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases your Physical Protection by 2.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065156Z" creationid="rkmad" creationdate="20190404T065156Z">
@@ -39295,8 +39303,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T112957Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Bludgeon 速度は無いが、混乱を与える強力な攻撃。</seg>
       </tuv>
     </tu>
     <tu>
