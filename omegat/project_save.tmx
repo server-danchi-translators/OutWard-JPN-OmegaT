@@ -13799,6 +13799,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chunk of fire-infused glass, used to craft bludgeoning weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054111Z" creationid="Light" creationdate="20190408T054111Z">
+        <seg>火を吹き込んだガラスの塊。武器を作るのに用いられる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chunky soup that has mana-restoring properties, and will slowly heal the common cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T140814Z" creationid="weedssoul" creationdate="20190406T140752Z">
@@ -49236,6 +49244,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This tent cannot be picked back up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T053757Z" creationid="Light" creationdate="20190408T053757Z">
+        <seg>このテントは回収できない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This tragedy would have been avoided if either of them had used their heads.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T154134Z">
@@ -52290,8 +52306,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wondrous shelter born of a seed, which protects against the heat and refills one’s thirst and hunger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T053712Z" creationid="Light" creationdate="20190408T053712Z">
-        <seg>種から生まれた不思議なテント。熱から身を守り、渇きと空腹を満たす。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T053820Z" creationid="Light" creationdate="20190408T053712Z">
+        <seg>種から生まれた不思議なテント。熱から身を守り、渇きと空腹を満たす。 </seg>
       </tuv>
     </tu>
     <tu>
