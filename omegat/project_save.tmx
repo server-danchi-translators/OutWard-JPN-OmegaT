@@ -11213,6 +11213,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attack all enemies within a close distance with increased Damage and Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T123847Z" creationid="pugnus" creationdate="20190408T123847Z">
+        <seg>強い攻撃と衝撃で、範囲内のすべての敵を攻撃する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attack the intruder, men!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T050848Z" creationid="Mad" creationdate="20190407T050725Z">
@@ -50856,6 +50864,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095235Z" creationid="setom" creationdate="20190402T095235Z">
         <seg>UseItem_WaterContainerEmpty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using the skill consumes the Discipline boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T123951Z" creationid="pugnus" creationdate="20190408T123951Z">
+        <seg>この攻撃を行うと、Discipline Boonを消費する。</seg>
       </tuv>
     </tu>
     <tu>
