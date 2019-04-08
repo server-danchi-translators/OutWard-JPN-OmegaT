@@ -11247,8 +11247,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Attacks take stamina to perform.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060133Z" creationid="weedssoul" creationdate="20190406T060133Z">
-        <seg>攻撃すると、スタミナを消費する。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142539Z" creationid="weedssoul" creationdate="20190406T060133Z">
+        <seg>攻撃するにはスタミナを消費するぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26223,8 +26223,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If your foe is quick, you may want to drop your backpack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071901Z" creationid="weedssoul" creationdate="20190406T060647Z">
-        <seg>もし敵が素早いなら、バックパックをおろしたほうがいい。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142628Z" creationid="weedssoul" creationdate="20190406T060647Z">
+        <seg>相手が素早いときは、バックパックを地面に下ろすのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52775,8 +52775,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What’s the best way to prevent taking hits from enemies?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060442Z" creationid="weedssoul" creationdate="20190406T060442Z">
-        <seg>敵の攻撃を喰らわないようにする最も良い方法は何？</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142558Z" creationid="weedssoul" creationdate="20190406T060442Z">
+        <seg>敵の攻撃を防ぐにはどうすればいい？</seg>
       </tuv>
     </tu>
     <tu>
@@ -52815,8 +52815,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When the enemy bears down on you, dodge to get out of harm's way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T060629Z" creationid="weedssoul" creationdate="20190406T060629Z">
-        <seg>敵が攻撃してきたら、回避するんだ。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142614Z" creationid="weedssoul" creationdate="20190406T060629Z">
+        <seg>敵がお前を攻撃しようとしたら、範囲外に避けるんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53894,8 +53894,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can combo attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T071951Z" creationid="weedssoul" creationdate="20190406T060016Z">
-        <seg>連続攻撃ができる。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T142501Z" creationid="weedssoul" creationdate="20190406T060016Z">
+        <seg>攻撃はコンボすることもできる。</seg>
       </tuv>
     </tu>
     <tu>
