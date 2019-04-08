@@ -39142,8 +39142,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Reduces the weapon's durability by 6.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T113159Z" creationid="pugnus" creationdate="20190408T113159Z">
-        <seg>武器の耐久性が5低下する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113920Z" creationid="pugnus" creationdate="20190408T113159Z">
+        <seg>武器の耐久度が5低下する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces your shield's durability by 12.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113848Z" creationid="pugnus" creationdate="20190408T113848Z">
+        <seg>盾の耐久度が12低下する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39583,8 +39591,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Spear Deflect a melee attack and counter with a powerful strike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Spear Deflect a melee attack and counter with a powerful strike.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T114103Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Spear 敵の近接攻撃をそらし、カウンターを仕掛ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52474,6 +52482,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="Light" changedate="20190407T095612Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
         <seg>私が次に目を覚ましたとき、私はベルクに住む猟師によって運ばれていた。彼は街に帰る途中だ。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you next block, an elemental explosion will burst from you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T113802Z" creationid="pugnus" creationdate="20190408T113802Z">
+        <seg>吸収したエレメンタルは、次の防御時に攻撃してきた者に対して炸裂する。</seg>
       </tuv>
     </tu>
     <tu>
