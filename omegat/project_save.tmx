@@ -26093,6 +26093,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Enmerkar, head south-east and past the lake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063330Z" creationid="Light" creationdate="20190408T063330Z">
+        <seg>エンメルカルを南東に進んで湖を過ぎるの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112544Z">
@@ -34656,6 +34664,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040023Z" creationid="weedssoul" creationdate="20190406T040023Z">
         <seg>いつの日か、笑い話になろだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On the far eastern side of the forest, near the vigil, you’ll find the road to Abrassar Desert, the home of Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063417Z" creationid="Light" creationdate="20190408T063417Z">
+        <seg>森の向こう側、荒野の近くには、レバントの本拠地であるアブラサール砂漠への道があるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52106,6 +52122,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T052116Z">
         <seg> 小箱を開いたら思い出せ、&lt;color=#00CCFF&gt;&lt;b&gt;月は星に命じる&lt;/b&gt;&lt;/color&gt;と。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you reach Abrassar desert, head east and look for the glowing city on top of a great hill, and you’ll have reached Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T063515Z" creationid="Light" creationdate="20190408T063515Z">
+        <seg>アブラサール砂漠に着いたら、東に向かって、丘の上に輝く街を探して。そうすればレバントに着くわ。</seg>
       </tuv>
     </tu>
     <tu>
