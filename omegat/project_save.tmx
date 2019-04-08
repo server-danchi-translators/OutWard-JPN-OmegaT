@@ -14575,6 +14575,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consumes your Blessed boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125437Z" creationid="pugnus" creationdate="20190408T125437Z">
+        <seg>この呪文は、Blessed boonを失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumes your Cool boon.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T073531Z" creationid="rkmad" creationdate="20190403T071626Z">
@@ -39511,8 +39519,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Blessed Boon Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Blessed Boon Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125405Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Blessed Boonの発動 構えている近接武器へ一時的に稲妻の力を付与する。この武器は便利な光源となるだろう。</seg>
       </tuv>
     </tu>
     <tu>
