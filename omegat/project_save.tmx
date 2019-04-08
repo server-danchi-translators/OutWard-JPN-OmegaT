@@ -39220,6 +39220,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces the weapon's durability by 2% per hit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124023Z" creationid="pugnus" creationdate="20190408T124023Z">
+        <seg>武器の耐久度を1ヒットあたり、2%低下させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduces the weapon's durability by 3% per hit.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T121036Z" creationid="pugnus" creationdate="20190408T121036Z">
@@ -39463,8 +39471,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T114730Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:近接武器, Discipline Boon すべての防御を無視して、苦痛を与える突進。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124216Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:,Discipline Boonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39567,8 +39575,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T113538Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Halberd, Staff 大きなダメージを与えるダブルアタック。そして、Rage BoonまたはDiscipline boonの状態であればさらに攻撃力は高まる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T124134Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Halberd,Staff 大きなダメージを与えるダブルアタック。そして、Rage BoonまたはDiscipline boonの状態であればさらに攻撃力は高まる。</seg>
       </tuv>
     </tu>
     <tu>
