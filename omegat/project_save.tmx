@@ -32666,6 +32666,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not easy to compete with the old master-artisans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T014746Z" creationid="pugnus" creationdate="20190408T014746Z">
+        <seg>古代の鍛冶職人と競争するのは簡単ではないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not enough Mana.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131959Z" creationid="hiru4" creationdate="20190403T052212Z">
@@ -48936,6 +48944,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T031127Z" creationid="weedssoul" creationdate="20190406T031127Z">
         <seg>この「血の代償」は最悪だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This Forge Golem will stay a heap of junk until I find a way to fix it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T015317Z" creationid="pugnus" creationdate="20190408T015317Z">
+        <seg>私が修理する方法を見つけるまで、このフォージゴーレムは鉄の山のままだろう。</seg>
       </tuv>
     </tu>
     <tu>
