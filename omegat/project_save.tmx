@@ -11109,6 +11109,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At attention Zephyrien, we have a guest!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T081531Z" creationid="rkmad" creationdate="20190408T081531Z">
+        <seg>ゼフィリアン！姿勢を正せ、客人だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least one ingredient is needed to start crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193927Z" creationid="totochan" creationdate="20190402T193927Z">
@@ -51841,6 +51849,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094340Z" creationid="rkmad" creationdate="20190405T094340Z">
         <seg>どうしたというのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you need from us, pilgrim?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T081608Z" creationid="rkmad" creationdate="20190408T081608Z">
+        <seg>旅人よ、私達に何か？</seg>
       </tuv>
     </tu>
     <tu>
