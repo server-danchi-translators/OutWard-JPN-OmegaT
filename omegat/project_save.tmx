@@ -27857,14 +27857,6 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>ItemID</seg>
-      </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T033932Z" creationid="setom" creationdate="20190401T033932Z">
-        <seg>ItemID</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>ItemStat_AttackSpeed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021820Z" creationid="setom" creationdate="20190402T021820Z">
