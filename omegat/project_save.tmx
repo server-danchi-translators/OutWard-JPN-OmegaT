@@ -23483,6 +23483,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey there, do you need the help of a Champion?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T081739Z" creationid="rkmad" creationdate="20190408T081739Z">
+        <seg>こんにちわ、チャンピオンの助けが必要か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, do me a solid and bring me another pickaxe would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014520Z" creationid="rkmad" creationdate="20190404T014520Z">
@@ -25289,6 +25297,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T053308Z" creationid="Light" creationdate="20190405T140219Z">
         <seg> 僕はこのことをRissaに伝えるよ、これで君は&lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;を得られるはずだよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm considering joining the Holy Mission, actually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="rkmad" changedate="20190408T081753Z" creationid="rkmad" creationdate="20190408T081753Z">
+        <seg>私は聖なる任務に加わろうと検討しているところです。</seg>
       </tuv>
     </tu>
     <tu>
