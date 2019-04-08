@@ -28289,6 +28289,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s sad to see the old quarry full of bandits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T023138Z" creationid="pugnus" creationdate="20190408T023138Z">
+        <seg>盗賊だらけの採石場を見るたびに悲しく感じる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s such a pain to get blue sand from the Chersonese each time she comes around.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T020319Z" creationid="pugnus" creationdate="20190408T012201Z">
@@ -28694,6 +28702,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T130120Z" creationid="rkmad" creationdate="20190404T092328Z">
         <seg>また、各店の店主達も、その専門知識をあなたに分けてくれると思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sure there are still some sand roses buried in those mines...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T023456Z" creationid="pugnus" creationdate="20190408T023456Z">
+        <seg>あの鉱山には、まだいくつかの砂の薔薇が残っているはずだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35230,8 +35246,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Our supplies come from the four corners of Aurai.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T022935Z" creationid="pugnus" creationdate="20190408T022814Z">
-        <seg>私たちの品物は、Auraiの至る所から取り寄せている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T023022Z" creationid="pugnus" creationdate="20190408T022814Z">
+        <seg>私たちの品物は、Auraiの至る所から取り寄せているよ。</seg>
       </tuv>
     </tu>
     <tu>
