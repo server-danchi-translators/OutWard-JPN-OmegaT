@@ -14585,16 +14585,24 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Consumes your Blessed boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125531Z" creationid="pugnus" creationdate="20190408T125437Z">
-        <seg>この呪文は、Blessed Boonを失う。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125941Z" creationid="pugnus" creationdate="20190408T125437Z">
+        <seg>この呪文を使用した際、Blessed Boonを失う。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Consumes your Cool boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T073531Z" creationid="rkmad" creationdate="20190403T071626Z">
-        <seg>このスペルを使用した際 Cool Boon は失われる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T130004Z" creationid="rkmad" creationdate="20190403T071626Z">
+        <seg>このスペルを使用した際、 Cool Boon は失われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumes your Warm boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T130015Z" creationid="pugnus" creationdate="20190408T125904Z">
+        <seg>この呪文を使用した際、Warm Boonを失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22687,6 +22695,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T040430Z" creationid="pugnus" creationdate="20190406T035945Z">
         <seg>Warm boonを付与する。あなたによる炎属性のダメージと、あなたの炎に対する抵抗を増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grants you a boon that varies according to your location when casting this spell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T130148Z" creationid="pugnus" creationdate="20190408T130148Z">
+        <seg>この呪文は、あなたのいる場所によって異なる利益を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39220,6 +39236,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduce the weapon's durability by 4%</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T130227Z" creationid="pugnus" creationdate="20190408T130227Z">
+        <seg>武器の耐久度が4%低下する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduce the weapon's durability by 5.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T114512Z" creationid="pugnus" creationdate="20190408T114512Z">
@@ -39599,8 +39623,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>必要:Cool Boon 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125820Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>必要:Cool Boonの発動 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -39703,8 +39727,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Pistol, Bullet Load the equipped pistol with a bullet, or fires if it is already loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T114536Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Pistol, Bullet Load the equipped pistol with a bullet, or fires if it is already loaded.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T130413Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Pistol,Bullet 装備されたピストルに弾丸を装填する。すでに装填されていた場合は発砲する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39775,8 +39799,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Warm Boon Temporarily adds Fire damage to your melee weapon and inflicts Burning on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T114232Z">
-        <seg>必要:Warm Boon 構えている近接武器へ一時的な火炎の力を付与する。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T125838Z" creationid="Light" creationdate="20190406T114232Z">
+        <seg>必要:Warm Boonの発動 構えている近接武器へ一時的な火炎の力を付与する。 </seg>
       </tuv>
     </tu>
     <tu>
