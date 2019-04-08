@@ -23125,8 +23125,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Hefty precious stone with a lush green color.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T054200Z" creationid="Light" creationdate="20190408T054200Z">
-        <seg>高貴な緑色の石。</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054346Z" creationid="Light" creationdate="20190408T054200Z">
+        <seg>緑色の貴石。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27462,6 +27462,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can fetch a good price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054616Z" creationid="Light" creationdate="20190408T054616Z">
+        <seg>いい値段で取引することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can fetch a high price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054414Z" creationid="Light" creationdate="20190408T054414Z">
+        <seg>高値で取引される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can fetch an enormous price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T054234Z" creationid="Light" creationdate="20190408T054234Z">
@@ -31502,6 +31518,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022414Z" creationid="hiru4" creationdate="20190402T022414Z">
         <seg>モデル品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moderately sized precious stone with a burning red color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054331Z" creationid="Light" creationdate="20190408T054331Z">
+        <seg>燃えるような赤い色をした、ほどよい大きさの貴石。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49344,6 +49368,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070734Z" creationid="hiru4" creationdate="20190403T070734Z">
         <seg>サーバータイムアウトによる切断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tiny precious stone with a royal blue color.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190408T054443Z" creationid="Light" creationdate="20190408T054443Z">
+        <seg>ロイヤルブルーの色をした小さな貴石。</seg>
       </tuv>
     </tu>
     <tu>
