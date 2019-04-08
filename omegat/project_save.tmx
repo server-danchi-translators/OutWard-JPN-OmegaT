@@ -10123,6 +10123,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All nearby enemies are knocked back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T115258Z" creationid="pugnus" creationdate="20190408T115258Z">
+        <seg>近くのすべての敵は、ノックバックされる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All pieces of armor can also help with hot or cold weather, and the Chest Armor again has the largest influence on that.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T095808Z" creationid="totochan" creationdate="20190402T095429Z">
@@ -27089,6 +27097,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044629Z" creationid="seto" creationdate="20190406T044629Z">
         <seg>InputAction_ToggleStatus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instantly restores your stability and assume a bracing stance which defends against 90% of incoming Damage and Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190408T115815Z" creationid="pugnus" creationdate="20190408T115815Z">
+        <seg>衝撃に備える姿勢を取ることで、90%のダメージと衝撃を防ぎ、即座にあなたのstabilityは回復される。</seg>
       </tuv>
     </tu>
     <tu>
