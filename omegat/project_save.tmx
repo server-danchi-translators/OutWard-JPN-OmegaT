@@ -12566,6 +12566,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring an ancient tablet to the Soroborean Caravanner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101110Z" creationid="Light" creationdate="20190409T101110Z">
+        <seg>古代のタブレットをソロボレアンの商人に持っていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring me nine meat stews as soon as humanly possible.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012119Z" creationid="rkmad" creationdate="20190404T010910Z">
@@ -40989,6 +40997,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to the alchemist in half a day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101036Z" creationid="Light" creationdate="20190409T101036Z">
+        <seg>半日後、錬金術師のもと行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return to the machine inside the Electric Lab.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124613Z" creationid="urakata" creationdate="20190406T124613Z">
@@ -48804,6 +48820,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054144Z" creationid="Light" creationdate="20190409T054109Z">
         <seg>モンスーンの北東にいる哲学者トレーナーAlemmonに話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the Soroborean Caravanner in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100943Z" creationid="Light" creationdate="20190409T100943Z">
+        <seg>モンスーンのソロボレアンの商人に話しかける</seg>
       </tuv>
     </tu>
     <tu>
