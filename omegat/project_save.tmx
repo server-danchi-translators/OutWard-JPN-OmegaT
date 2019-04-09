@@ -21003,6 +21003,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the rebel priests hiding in a giant lotus, in the northern part of the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103949Z" creationid="Light" creationdate="20190409T103949Z">
+        <seg>聖なる沼の北部にある、巨大な蓮の中に隠れている反逆の司祭たちを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the torso, which is close to a lit minecart track.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131221Z" creationid="urakata" creationdate="20190406T131221Z">
@@ -22671,6 +22679,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121443Z" creationid="Light" creationdate="20190407T121443Z">
         <seg>夢を追いかけて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go in Monsoon’s temple and talk to Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103924Z" creationid="Light" creationdate="20190409T103924Z">
+        <seg>モンスーンの神殿に行き、オリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -49064,6 +49080,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Oliele before leaving the lotus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104031Z" creationid="Light" creationdate="20190409T104031Z">
+        <seg>蓮を出る前にオリエルに相談する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103731Z" creationid="Light" creationdate="20190409T103731Z">
@@ -49088,6 +49112,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Oliele in the lotus.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104129Z" creationid="Light" creationdate="20190409T104129Z">
+        <seg>蓮の中でオリエルと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Oliele in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
@@ -49100,6 +49132,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103804Z" creationid="Light" creationdate="20190409T103804Z">
         <seg>アブラサールの中心にある巨大な彫像の下で、Stone Titan Cavesの中にいるオリエルと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Oliele, in the city of Monsoon, inside the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103902Z" creationid="Light" creationdate="20190409T103902Z">
+        <seg>聖なる沼にあるモンスーンでオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -50672,6 +50712,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055337Z" creationid="Light" creationdate="20190409T055337Z">
         <seg>王子を殺した物はすでに捕らえられた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rebels have left the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104112Z" creationid="Light" creationdate="20190409T104112Z">
+        <seg>反逆者は聖なる任務を離れた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rebels were already dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104011Z" creationid="Light" creationdate="20190409T104011Z">
+        <seg>反逆者はすでに死んでいた</seg>
       </tuv>
     </tu>
     <tu>
@@ -55996,6 +56052,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100424Z" creationid="はぐくみ会" creationdate="20190403T112333Z">
         <seg>何時間も意識の外で彷徨い、やっと私は立ち直ることができた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You killed the rebels.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104047Z" creationid="Light" creationdate="20190409T104047Z">
+        <seg>反逆者を倒した</seg>
       </tuv>
     </tu>
     <tu>
