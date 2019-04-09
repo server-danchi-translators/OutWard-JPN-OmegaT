@@ -20563,6 +20563,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Balthazar and clues in the Ancestor’s Resting Place, via the Necropolis under the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060128Z" creationid="Light" creationdate="20190409T060128Z">
+        <seg>バルタザールやAncestor's Resting、青の議会の下にあるネクロポリスを訪ねる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Game</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115103Z" creationid="setom" creationdate="20190401T115103Z">
@@ -22331,6 +22339,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go back to the Blue Chamber and eliminate the threat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060026Z" creationid="Light" creationdate="20190409T060026Z">
+        <seg>青の議会に戻り、脅威を取り除く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go chase your own dreams!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121443Z" creationid="Light" creationdate="20190407T121443Z">
@@ -22355,6 +22371,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to Berg’s inn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055949Z" creationid="Light" creationdate="20190409T055949Z">
+        <seg>ベルクの宿屋に行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to Elatt’s altar at the back of Monsoon’s temple, then commit to the faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T043338Z" creationid="urakata" creationdate="20190407T043338Z">
@@ -22367,6 +22391,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134422Z" creationid="Light" creationdate="20190404T134303Z">
         <seg>Enmerkar Forest、Hallowed Marsh、Abrassar desertのいずれかの町で派閥に参加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the Blue Chamber in Berg, then talk to Rissa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055929Z" creationid="Light" creationdate="20190409T055929Z">
+        <seg>ベルクの青の議会に行き、リッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -48148,6 +48180,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134005Z" creationid="Light" creationdate="20190404T134005Z">
         <seg>Cierzoの村でRissaと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055909Z" creationid="Light" creationdate="20190409T055909Z">
+        <seg>エンメルカルの森にあるベルクでリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
