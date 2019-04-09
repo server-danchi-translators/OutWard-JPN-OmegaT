@@ -11149,6 +11149,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ask around Monsoon about Levant’s agents arrested by Lockwell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104401Z" creationid="Light" creationdate="20190409T104401Z">
+        <seg>ロックウェルに逮捕されたレバントの捜査官についてモンスーンの周りで尋ねる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask around Monsoon for clues about Oliele’s location.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103415Z" creationid="Light" creationdate="20190409T103415Z">
@@ -13211,6 +13219,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T140921Z" creationid="Gaiden Shinji" creationdate="20190404T113726Z">
         <seg>ブラマク枢機卿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal Bourlamaque, in the city of Monsoon, will have a task for you in 3 days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104309Z" creationid="Light" creationdate="20190409T104309Z">
+        <seg>モンスーンのBourlamaque枢機卿は、3日間であなたのために仕事をする</seg>
       </tuv>
     </tu>
     <tu>
@@ -40533,6 +40549,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report to Ellinara, in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104227Z" creationid="Light" creationdate="20190409T104227Z">
+        <seg>モンスーンでエリナラに報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report to Queen Calixa, in the Palace in Levant, in Abrassar Desert.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T101236Z" creationid="Light" creationdate="20190409T101236Z">
@@ -40937,6 +40961,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T060145Z" creationid="Light" creationdate="20190409T060145Z">
         <seg>エンメルカル南部の焼けた森の前哨基地からリッサを救助する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescue the agents from a cellar in a cluster of ruins, along the Pilgrim Road between Monsoon and the way to the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104453Z" creationid="Light" creationdate="20190409T104453Z">
+        <seg>モンスーンとチェルソネスへの巡礼者の道に沿って、遺跡群の地下室からエージェントを救助する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48967,6 +48999,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Cardinal Bourlamaque, in Monsoon’s Temple, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104340Z" creationid="Light" creationdate="20190409T104340Z">
+        <seg>聖なる沼のモンスーンの神殿で、枢機卿のブラマクと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Cardinal Bourlamaque, in the temple in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104247Z" creationid="Light" creationdate="20190409T104247Z">
+        <seg>モンスーンの寺院で、Bourlamaque枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cyrene in the Blue Chamber.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095426Z" creationid="Light" creationdate="20190409T095426Z">
@@ -49428,6 +49476,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103343Z" creationid="Light" creationdate="20190409T103343Z">
         <seg>オリエルが自由になったことを、モンスーンのエリナラに伝える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell Ellinara, in Monsoon, that Oliele has left the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104204Z" creationid="Light" creationdate="20190409T104204Z">
+        <seg>モンスーンでエリナラにオリエルが聖なる任務を去ったことを伝える</seg>
       </tuv>
     </tu>
     <tu>
