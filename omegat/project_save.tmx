@@ -11149,6 +11149,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ask around Monsoon for clues about Oliele’s location.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103415Z" creationid="Light" creationdate="20190409T103415Z">
+        <seg>オリエルの位置についての手がかりをモンスーンの人々に尋ねる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114229Z">
@@ -22591,6 +22599,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123535Z" creationid="urakata" creationdate="20190406T123535Z">
         <seg>Pidgeoneyeにもう一度出資する(ちゃんと使われるはずだ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give enough coin to Lockwell, to free Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103252Z" creationid="Light" creationdate="20190409T103252Z">
+        <seg>ロックウェルに十分なコインを渡して、オリエルを解放する</seg>
       </tuv>
     </tu>
     <tu>
@@ -40877,6 +40893,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescue Oliele from a cellar, in a cluster of ruins on the Pilgrim Road.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103315Z" creationid="Light" creationdate="20190409T103315Z">
+        <seg>ピルグリムロードの遺跡群で、セラーからオリエルを救出する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rescue Rissa from an outpost in the burnt forest in the south of Enmerkar.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T060145Z" creationid="Light" creationdate="20190409T060145Z">
@@ -49216,6 +49240,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk with Ellinara, in the city of Monsoon, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103518Z" creationid="Light" creationdate="20190409T103518Z">
+        <seg>聖なる沼にあるモンスーンでエリナラと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk with Monsoon’s alchemist, Laine Aberforth.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T100733Z" creationid="Light" creationdate="20190409T100733Z">
@@ -49308,6 +49340,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113200Z" creationid="Gaiden Shinji" creationdate="20190404T113200Z">
         <seg>テレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell Ellinara, in Monsoon, about Oliele’s freedom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103343Z" creationid="Light" creationdate="20190409T103343Z">
+        <seg>オリエルが自由になったことを、モンスーンのエリナラに伝える</seg>
       </tuv>
     </tu>
     <tu>
@@ -57305,6 +57345,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094040Z" creationid="Light" creationdate="20190409T094040Z">
         <seg>[Optional]ローランドの装具を作るためにベルクで鍛冶屋を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Find clues in Monsoon on Zephyrien’s whereabouts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103450Z" creationid="Light" creationdate="20190409T103450Z">
+        <seg>[Optional]ゼフィリアンの居場所についてモンスーンで手がかりを見つける</seg>
       </tuv>
     </tu>
     <tu>
