@@ -20899,6 +20899,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a boon that increases your Fire Resistance by 20 would increase it by 30 instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T025347Z" creationid="pugnus" creationdate="20190409T025347Z">
+        <seg>たとえば、火への抵抗を20増加させるBoonは、代わりに30増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, if you are bleeding and losing health, a bandage will stop the bleeding and heal you for a short while.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130607Z" creationid="weedssoul" creationdate="20190406T130607Z">
@@ -48997,6 +49005,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T065836Z" creationid="rkmad" creationdate="20190404T065836Z">
         <seg>この異国の世界では、神聖な恩恵は何の効果もないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effects of boons on you are increased.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T025150Z" creationid="pugnus" creationdate="20190409T025150Z">
+        <seg>精霊との共鳴。Boonの効果が増加する。</seg>
       </tuv>
     </tu>
     <tu>
