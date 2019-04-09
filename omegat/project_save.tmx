@@ -19515,6 +19515,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Levant using the Undercity Passage, just south of the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104826Z" creationid="Light" creationdate="20190409T104826Z">
+        <seg>町のすぐ南にあるUndercity Passageを使ってレバントに入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter Levant’s slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T101607Z" creationid="Light" creationdate="20190409T101607Z">
@@ -20919,6 +20927,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T101539Z" creationid="Light" creationdate="20190409T101539Z">
         <seg>裏切り者たちは有利なスタートを切っているが、レヴァント宮殿への道を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find a way into the Palace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104842Z" creationid="Light" creationdate="20190409T104842Z">
+        <seg>宮殿への道を見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -22715,6 +22731,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go in the Undercity Passage and through the Palace secret path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104902Z" creationid="Light" creationdate="20190409T104902Z">
+        <seg>Undercity Passageを通り、宮殿の秘密の道を通る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go in the altar in the Corrupted Tomb, now that the barrier is down.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102903Z" creationid="Light" creationdate="20190409T102903Z">
@@ -22779,6 +22803,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to Monsoon’s Temple, inside the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105021Z" creationid="Light" creationdate="20190409T105021Z">
+        <seg>聖なる沼にあるモンスーンの神殿に行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to a city in the Enmerkar Forest, the Hallowed Marsh or the Abrassar desert to join a faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134422Z" creationid="Light" creationdate="20190404T134303Z">
@@ -22799,6 +22831,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102231Z" creationid="Light" creationdate="20190409T102231Z">
         <seg>聖なる沼にあるモンスーンに向かう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the altar in Monsoon’s Temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105057Z" creationid="Light" creationdate="20190409T105057Z">
+        <seg>モンスーンの神殿にある祭壇に行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -30398,6 +30438,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141251Z" creationid="hiru4" creationdate="20190402T023328Z">
         <seg>キーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill Cyrene and Yzan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104940Z" creationid="Light" creationdate="20190409T104940Z">
+        <seg>キュレネとイザンを殺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill Cyrene.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104947Z" creationid="Light" creationdate="20190409T104947Z">
+        <seg>キュレネを殺す</seg>
       </tuv>
     </tu>
     <tu>
@@ -44445,6 +44501,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search around the city for someone with a way to enter Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104803Z" creationid="Light" creationdate="20190409T104803Z">
+        <seg>レバントに入る方法を持つ者を捜す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search the Necropolis under the Blue Chamber for clues or ask around for information.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095651Z" creationid="Light" creationdate="20190409T095651Z">
@@ -49328,6 +49392,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Yzan in Levant’s palace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104927Z" creationid="Light" creationdate="20190409T104927Z">
+        <seg>レバントの宮殿でイザンと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Yzan in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
@@ -49412,6 +49484,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103518Z" creationid="Light" creationdate="20190409T103518Z">
         <seg>聖なる沼にあるモンスーンでエリナラと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk with King Simeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105005Z" creationid="Light" creationdate="20190409T105005Z">
+        <seg>King Simeonと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -50341,6 +50421,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T094238Z" creationid="はぐくみ会" creationdate="20190403T084023Z">
         <seg>Montcalmの部族は私を死者と間違えたようだ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Passage's entrance is a red door in the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104916Z" creationid="Light" creationdate="20190409T104916Z">
+        <seg>入り口はスラム街の赤い扉だ</seg>
       </tuv>
     </tu>
     <tu>
