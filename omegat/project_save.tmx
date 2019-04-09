@@ -20635,6 +20635,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find the bandit hideout on spiraling cliffs, in the Hallowed Marsh's west.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054130Z" creationid="Light" creationdate="20190409T054130Z">
+        <seg>聖なる沼の西にある、渦巻く崖の上の盗賊の隠れ家を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the torso, which is close to a lit minecart track.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131221Z" creationid="urakata" creationdate="20190406T131221Z">
@@ -22303,6 +22311,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T130322Z" creationid="urakata" creationdate="20190406T130322Z">
         <seg>マナを体得するためにChersoneseのConflux Mountain中央に行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the city of Berg, in the Enmerkar Forest, to warn someone in a position of authority.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054302Z" creationid="Light" creationdate="20190409T054302Z">
+        <seg>エンメルカルの森のベルクに行き、権威のある誰かに警告する</seg>
       </tuv>
     </tu>
     <tu>
@@ -27905,6 +27921,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T124302Z" creationid="hiru4" creationdate="20190402T021742Z">
         <seg>Y軸カメラ反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Investigate the hideout for several pieces of evidence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054321Z" creationid="Light" creationdate="20190409T054228Z">
+        <seg>隠れ家を調べ、いくつかの証拠を探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -48044,6 +48068,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
         <seg>Cierzoの村でYzanと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the Philosopher Trainer Alemmon, in the north-east of Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054144Z" creationid="Light" creationdate="20190409T054109Z">
+        <seg>モンスーンの北東にいる哲学者トレーナーAlemmonに話しかける</seg>
       </tuv>
     </tu>
     <tu>
