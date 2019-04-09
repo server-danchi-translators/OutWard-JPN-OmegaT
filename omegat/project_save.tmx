@@ -30018,6 +30018,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill the green shell horror in the Cabal of Winds’ temple, in Enmerkar Forest’s south-west.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094312Z" creationid="Light" creationdate="20190409T094312Z">
+        <seg>エンメルカルの森の南西にある風の一党の寺院で、green shell horrorを倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind as ever, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135715Z" creationid="weedssoul" creationdate="20190406T030618Z">
@@ -52052,6 +52060,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wait 2 days for Gabriella to confirm you slew the horror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094353Z" creationid="Light" creationdate="20190409T094353Z">
+        <seg>ガブリエラがhorrorを殺したことを確認するためにのために2日待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190405T093004Z" creationid="urakata" creationdate="20190331T141910Z">
@@ -56569,6 +56585,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054515Z" creationid="Light" creationdate="20190409T054433Z">
         <seg>[Optional]モンスーンでロックウェルに証拠を提示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Taleron, in Berg, needs Blue Sand, a Mana Stone, and either an Emerald or a Ruby to make Roland’s focus tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094143Z" creationid="Light" creationdate="20190409T094143Z">
+        <seg>[Optional]ベルクのTaleronは、ローランドの装備を作るために青い砂、マナストーン、そしてエメラルドかルビーを必要としている</seg>
       </tuv>
     </tu>
     <tu>
