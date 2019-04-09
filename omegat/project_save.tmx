@@ -12304,8 +12304,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blocking with [InputAction_Block] prevents the damage from a strike and reduces how much you would be knocked back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T145609Z" creationid="setom" creationdate="20190401T074802Z">
-        <seg>[InputAction_Block] でのブロックは打撃ダメージを防ぎ、ノックバックも減少させます。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103632Z" creationid="setom" creationdate="20190401T074802Z">
+        <seg>[InputAction_Block] でのブロックはダメージを防ぎ、ノックバックも減少させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26975,8 +26975,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Impact Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T062836Z" creationid="totochan" creationdate="20190403T134207Z">
-        <seg>打撃耐性[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103638Z" creationid="totochan" creationdate="20190403T134207Z">
+        <seg>衝撃耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -27119,8 +27119,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases Impact Resistance by 15 while your are blocking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T100107Z" creationid="Light" creationdate="20190406T113802Z">
-        <seg>ブロックしている間、打撃耐性が15増加する。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103430Z" creationid="Light" creationdate="20190406T113802Z">
+        <seg>ブロックしている間、衝撃耐性が15増加する。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -37182,8 +37182,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical and Impact Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T062914Z" creationid="totochan" creationdate="20190403T134558Z">
-        <seg>物理&amp;打撃耐性+[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103642Z" creationid="totochan" creationdate="20190403T134558Z">
+        <seg>物理&amp;衝撃耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -53494,8 +53494,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weak attack with a wide arc of effect and high Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T103347Z" creationid="pugnus" creationdate="20190406T015921Z">
-        <seg>幅広い弧と高い衝撃力を持つ弱い攻撃。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103407Z" creationid="pugnus" creationdate="20190406T015921Z">
+        <seg>広範囲で高い衝撃力を持つ弱い攻撃。</seg>
       </tuv>
     </tu>
     <tu>
