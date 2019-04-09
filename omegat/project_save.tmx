@@ -12094,6 +12094,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before you go I need you to understand the lengths we go to to protect Aurai from the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T061154Z" creationid="taman" creationdate="20190409T061154Z">
+        <seg>最初の使命を与える前に、スカージからこのオーライを守ることがどれほど長い闘いになるか理解していただきます。Before you go I need you to understand the lengths we go to to protect Aurai from the Scourge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginner's short bow mostly used to hunt small game, due to its lack of power.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064756Z" creationid="setom" creationdate="20190402T064756Z">
@@ -23199,6 +23207,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T081609Z" creationid="pugnus" creationdate="20190406T081609Z">
         <seg>彼らは、責任を主張しましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you ever seen one of the Vigils before?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T061329Z" creationid="taman" creationdate="20190409T061329Z">
+        <seg>あなたはこれまでにVigilを見たことがありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -49660,6 +49676,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ones that protect us from the Scourge?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T062030Z" creationid="taman" creationdate="20190409T062030Z">
+        <seg>私たちをスカージから守ってくれているものですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other Chamberlords are on their way here for a council meeting.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022018Z" creationid="weedssoul" creationdate="20190406T022018Z">
@@ -50688,6 +50712,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T125205Z" creationid="weedssoul" creationdate="20190406T125059Z">
         <seg>そうすれば、身軽になり、戦闘時にもより効果的に立ち回れるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those are the giant crystal tower things, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T063219Z" creationid="taman" creationdate="20190409T061627Z">
+        <seg>巨大なクリスタルタワーのようなものですよね？</seg>
       </tuv>
     </tu>
     <tu>
