@@ -13177,8 +13177,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Certain skills require this boon to be active.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T072447Z" creationid="rkmad" creationdate="20190403T072244Z">
-        <seg>特定のスキルを使用する場合、そのスキルに対応した Boon を事前に付与しておく必要があります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T034936Z" creationid="rkmad" creationdate="20190403T072244Z">
+        <seg>特定のスキルを使用する場合、そのスキルに対応したBoonを事前に付与する必要がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39903,8 +39903,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要:Lantern 装備しているランタンを敵に投げつける。  落下地点が5秒間、燃え上がる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T035003Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要:Lantern 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -39983,8 +39983,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Horizon" creationdate="20190403T133647Z">
-        <seg>必要:Rage Boonの発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T035023Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要:RageBoonの発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40039,8 +40039,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Requires the Rage boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135833Z" creationid="Horizon" creationdate="20190403T133926Z">
-        <seg>Rage boonの発動が必要。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T035036Z" creationid="Horizon" creationdate="20190403T133926Z">
+        <seg>RageBoonの発動が必要。</seg>
       </tuv>
     </tu>
     <tu>
