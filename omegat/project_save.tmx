@@ -17303,6 +17303,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyrene, in the city of Levant, will have a task for you in 3 days</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095405Z" creationid="Light" creationdate="20190409T095326Z">
+        <seg>レバントでキュレネが3日後にあなたのために仕事を始める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyrene_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052744Z" creationid="seto" creationdate="20190406T052744Z">
@@ -30318,6 +30326,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T065243Z" creationid="seto" creationdate="20190404T222554Z">
         <seg>[PlayerName]のことは放っておくのです。 でないと今月の守護税を二倍にしますよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095542Z" creationid="Light" creationdate="20190409T095542Z">
+        <seg>議会を去る</seg>
       </tuv>
     </tu>
     <tu>
@@ -48431,10 +48447,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Cyrene in the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095426Z" creationid="Light" creationdate="20190409T095426Z">
+        <seg>議会内のキュレネと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cyrene, in the city of Levant, in the Abrassar desert.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055112Z" creationid="Light" creationdate="20190409T055112Z">
         <seg>アブラサール砂漠のレバントでキュレネと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Cyrene, in the city of Levant, inside the Abrassar desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095350Z" creationid="Light" creationdate="20190409T095350Z">
+        <seg>アブラサール砂漠のレバントの街にいるキュレネに相談する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48460,6 +48492,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T060936Z" creationid="Light" creationdate="20190409T060936Z">
         <seg>マーシュの北東にある巨人の村でCyr卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Kapros, inside the Blue Chamber, near its entrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095523Z" creationid="Light" creationdate="20190409T095523Z">
+        <seg>青の議会内の入り口付近のカプロスと会話する</seg>
       </tuv>
     </tu>
     <tu>
@@ -49621,6 +49661,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T104151Z" creationid="pugnus" creationdate="20190404T104051Z">
         <seg>部屋は塵と埃で覆われている。そして天井には大きな穴が空いている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The chamber is in the city of Berg, inside the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095458Z" creationid="Light" creationdate="20190409T095458Z">
+        <seg>部屋は、エンメルカルの森のベルクにある</seg>
       </tuv>
     </tu>
     <tu>
