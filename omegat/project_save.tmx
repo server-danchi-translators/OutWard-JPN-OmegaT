@@ -24343,8 +24343,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I can think of several people who will want to hear about this!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T050417Z" creationid="pugnus" creationdate="20190409T050417Z">
-        <seg>私はそれを知りたいと思うだろう人物を知っている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T051030Z" creationid="pugnus" creationdate="20190409T050417Z">
+        <seg>私はそれを知りたいと思うだろう数人を知っているよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40503,11 +40503,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rissa Aberdeen at the town square, Sagard Battleborn here at the inn, Cyril Turnbull at the Blue Chamber, and Mathias at his home near the inn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T050958Z" creationid="pugnus" creationdate="20190409T050818Z">
-        <seg>町の広場にいる、Rissa Aberdeen。
-この宿にいる、Sagard Battleborn。
-青の議会にいる、Cyril Turnbull。
-それと、宿屋の近くに住んでいる、Mathias。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T051118Z" creationid="pugnus" creationdate="20190409T050818Z">
+        <seg>町の広場にいる、Rissa Aberdeen。この宿にいる、Sagard Battleborn。青の議会の、Cyril Turnbull。それと、宿屋の近くに住んでいる、Mathias。</seg>
       </tuv>
     </tu>
     <tu>
