@@ -39573,6 +39573,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Removes the need to have an equipped Lexicon in your off-hand to cast runic spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T025807Z" creationid="pugnus" creationdate="20190409T025807Z">
+        <seg>吸収された知識。呪文を唱えるために、呪文書を持つ必要がなくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Removes your Cool boon.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T130823Z" creationid="pugnus" creationdate="20190408T130823Z">
@@ -54070,8 +54078,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can lock on enemies at longer distances when using a bow.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T052142Z" creationid="Light" creationdate="20190408T052142Z">
-        <seg>弓でロックオンできる距離が長くなる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T025430Z" creationid="Light" creationdate="20190408T052142Z">
+        <seg>狩人の目。弓でロックオンできる距離が長くなる。</seg>
       </tuv>
     </tu>
     <tu>
