@@ -19363,6 +19363,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellinara, in the city of Monsoon, will have a task for you in 3 days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102313Z" creationid="Light" creationdate="20190409T102313Z">
+        <seg>モンスーンのEllinaraは3日後にあなたのために仕事をする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emerald</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113559Z" creationid="Gaiden Shinji" creationdate="20190403T113559Z">
@@ -22629,8 +22637,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Go to Levant’s Palace.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T101518Z" creationid="Light" creationdate="20190409T101518Z">
-        <seg>レバントへ行く</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102113Z" creationid="Light" creationdate="20190409T101518Z">
+        <seg>レバント宮殿へ行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -22655,6 +22663,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055929Z" creationid="Light" creationdate="20190409T055929Z">
         <seg>ベルクの青の議会に行き、リッサと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the Monsoon’s Temple, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102231Z" creationid="Light" creationdate="20190409T102231Z">
+        <seg>聖なる沼にあるモンスーンに向かう</seg>
       </tuv>
     </tu>
     <tu>
@@ -40044,6 +40060,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reach Levant’s Palace through the secret path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102101Z" creationid="Light" creationdate="20190409T102101Z">
+        <seg>秘密の道を通ってレヴァント宮殿に到着する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091536Z" creationid="hiru4" creationdate="20190403T063204Z">
@@ -48374,6 +48398,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stop Cyrene from escaping.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102215Z" creationid="Light" creationdate="20190409T102215Z">
+        <seg>キュレネが逃げるのを止める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Online Play</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T153959Z" creationid="setom" creationdate="20190401T115111Z">
@@ -48840,6 +48872,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to King Simeon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102240Z" creationid="Light" creationdate="20190409T102240Z">
+        <seg>King Simeonと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Mofat in the city of Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T131355Z" creationid="urakata" creationdate="20190408T131355Z">
@@ -48874,8 +48914,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Queen Calixa, in Levant’s palace, and commit to the faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T042934Z" creationid="urakata" creationdate="20190407T042934Z">
-        <seg>Levant宮殿でCalixa女王と話して仲間になる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102143Z" creationid="urakata" creationdate="20190407T042934Z">
+        <seg>レバント宮殿でカリシア女王と話して仲間になる</seg>
       </tuv>
     </tu>
     <tu>
@@ -52296,6 +52336,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T064053Z">
         <seg>外に向かいたくなったらゲートを使うんだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the key to open the Palace’s secret path.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102203Z" creationid="Light" creationdate="20190409T102203Z">
+        <seg>鍵を使って宮殿の秘密の道を開く</seg>
       </tuv>
     </tu>
     <tu>
