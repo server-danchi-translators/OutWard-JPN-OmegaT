@@ -19267,6 +19267,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enemies will have a harder time spotting you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T030436Z" creationid="pugnus" creationdate="20190409T030436Z">
+        <seg>忍びの鍛錬。敵に見つかりにくくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enmerkar Forest</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114410Z" creationid="Gaiden Shinji" creationdate="20190403T114410Z">
