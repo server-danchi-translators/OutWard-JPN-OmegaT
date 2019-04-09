@@ -29218,6 +29218,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll keep my ears open, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T061839Z" creationid="pugnus" creationdate="20190409T061839Z">
+        <seg>でも、情報は集めるようにしておくから、また来てね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll miss it too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T105842Z" creationid="Mad" creationdate="20190406T105731Z">
@@ -44802,6 +44810,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113637Z" creationid="Gaiden Shinji" creationdate="20190404T113637Z">
         <seg>ソロボレアンのキャラバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, I haven’t heard any news recently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T061549Z" creationid="pugnus" creationdate="20190409T061549Z">
+        <seg>悪いけど、最近新しい知らせを聞かないわ。</seg>
       </tuv>
     </tu>
     <tu>
