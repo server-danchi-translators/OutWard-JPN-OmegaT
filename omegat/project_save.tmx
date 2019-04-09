@@ -12646,6 +12646,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burn a Greasy Fern at each of the 2 altars inside the Necropolis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094530Z" creationid="Light" creationdate="20190409T094530Z">
+        <seg>ネクロポリスの中にある2つの祭壇のそれぞれでGreasy Fernを燃やす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burning</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133857Z" creationid="totochan" creationdate="20190403T133857Z">
@@ -20603,10 +20611,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Julius inside Berg’s Inn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094501Z" creationid="Light" creationdate="20190409T094501Z">
+        <seg>ベルクの宿でJuliusを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Prince Pietro in the Undercity Passage, under Levant’s slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055230Z" creationid="Light" creationdate="20190409T055230Z">
         <seg>レバントのスラム街にある地下通路でプリンス・ピエトロを探し出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Roland and Gabriella in the Necropolis under the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094626Z" creationid="Light" creationdate="20190409T094626Z">
+        <seg>青の議会の下のネクロポリスでローランドとガブリエラを探す</seg>
       </tuv>
     </tu>
     <tu>
@@ -48416,6 +48440,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Rissa in the Necropolis or in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094600Z" creationid="Light" creationdate="20190409T094600Z">
+        <seg>ネクロポリスまたはベルクでリッサと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Rissa in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134005Z" creationid="Light" creationdate="20190404T134005Z">
@@ -48452,6 +48484,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
         <seg>Cierzoの村でYzanと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to her when she has returned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094419Z" creationid="Light" creationdate="20190409T094419Z">
+        <seg>戻ってきた彼女に話しかける</seg>
       </tuv>
     </tu>
     <tu>
