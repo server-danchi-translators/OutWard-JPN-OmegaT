@@ -22339,6 +22339,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get to Old Levant, in the north-west of Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100247Z" creationid="Light" creationdate="20190409T100247Z">
+        <seg>アブラサールの北西にあるオールドレバントまで行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting past his Spire in the south may be very dangerous, unless you bypass it via the old flooded Ziggurat Tunnel.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T063152Z" creationid="Light" creationdate="20190408T063152Z">
@@ -22487,6 +22495,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044756Z" creationid="Mad" creationdate="20190407T044756Z">
         <seg>右に進み、その後で階段とエレベーターを上れ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go south of Levant, then west into a valley.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100220Z" creationid="Light" creationdate="20190409T100220Z">
+        <seg>レバントの南にいき、西の谷に入る</seg>
       </tuv>
     </tu>
     <tu>
@@ -30370,6 +30386,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave the tower and report to Yzan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100332Z" creationid="Light" creationdate="20190409T100332Z">
+        <seg>塔を出てイザンに報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave the tutorial?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063905Z" creationid="hiru4" creationdate="20190403T063905Z">
@@ -36660,6 +36684,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pass though a cave known as The Slide, north-west of the shipwrecks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100256Z" creationid="Light" creationdate="20190409T100256Z">
+        <seg>難破船の北西にあるThe Slideという洞窟を通過する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pass!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T072849Z" creationid="Light" creationdate="20190406T072849Z">
@@ -39612,6 +39644,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queen Calixia, in the Levant Palace, will have a task for you in 3 days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100621Z" creationid="Light" creationdate="20190409T100621Z">
+        <seg>レバントのカリシア女王は、3日後にあなたのために仕事をする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quest Giver</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115350Z" creationid="Gaiden Shinji" creationdate="20190404T115350Z">
@@ -40169,6 +40209,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023810Z" creationid="hiru4" creationdate="20190402T023810Z">
         <seg>修理すると装備品の耐久が回復します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report to Cyrene.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100348Z" creationid="Light" creationdate="20190409T100348Z">
+        <seg>キュレネに報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report to Yzan.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100306Z" creationid="Light" creationdate="20190409T100306Z">
+        <seg>イザンに報告する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48170,6 +48226,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T044442Z" creationid="urakata" creationdate="20190407T044442Z">
         <seg>Chersonese南西のFortress of Vendavelにいる3人の将軍を止める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100417Z" creationid="Light" creationdate="20190409T100417Z">
+        <seg>オールドレバントの西部、Vigilタワーの内側にあるCorsairの指導者を止める</seg>
       </tuv>
     </tu>
     <tu>
