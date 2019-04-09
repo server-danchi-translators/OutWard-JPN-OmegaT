@@ -27125,6 +27125,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found a clue in the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110804Z" creationid="seto" creationdate="20190409T110804Z">
+        <seg>スラム街で船員を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found his body.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184333Z" creationid="magur0w" creationdate="20190404T183429Z">
@@ -42236,10 +42244,267 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>QName_Errand_Berg_Alch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110717Z" creationid="seto" creationdate="20190409T110717Z">
+        <seg>QName_Errand_Berg_Alch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Berg_Assassin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110721Z" creationid="seto" creationdate="20190409T110721Z">
+        <seg>QName_Errand_Berg_Assassin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Berg_BK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110716Z" creationid="seto" creationdate="20190409T110716Z">
+        <seg>QName_Errand_Berg_BK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Berg_Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110722Z" creationid="seto" creationdate="20190409T110722Z">
+        <seg>QName_Errand_Berg_Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Berg_General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110720Z" creationid="seto" creationdate="20190409T110720Z">
+        <seg>QName_Errand_Berg_General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_BlueSkull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110735Z" creationid="seto" creationdate="20190409T110735Z">
+        <seg>QName_Errand_BlueSkull</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Cierzo_Alch</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110716Z" creationid="seto" creationdate="20190409T110716Z">
+        <seg>QName_Errand_Cierzo_Alch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Cierzo_BK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110713Z" creationid="seto" creationdate="20190409T110713Z">
+        <seg>QName_Errand_Cierzo_BK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Cierzo_Cook</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110721Z" creationid="seto" creationdate="20190409T110721Z">
+        <seg>QName_Errand_Cierzo_Cook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Cierzo_General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110718Z" creationid="seto" creationdate="20190409T110718Z">
+        <seg>QName_Errand_Cierzo_General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_GoldLich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110734Z" creationid="seto" creationdate="20190409T110734Z">
+        <seg>QName_Errand_GoldLich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Helen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110723Z" creationid="seto" creationdate="20190409T110723Z">
+        <seg>QName_Errand_Helen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Idol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110729Z" creationid="seto" creationdate="20190409T110729Z">
+        <seg>
+QName_Errand_Idol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_JadeLich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110735Z" creationid="seto" creationdate="20190409T110735Z">
+        <seg>QName_Errand_JadeLich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Levant_BK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110714Z" creationid="seto" creationdate="20190409T110714Z">
+        <seg>QName_Errand_Levant_BK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Levant_Food</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110723Z" creationid="seto" creationdate="20190409T110723Z">
+        <seg>QName_Errand_Levant_Food</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Levant_General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110719Z" creationid="seto" creationdate="20190409T110719Z">
+        <seg>QName_Errand_Levant_General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Lost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110724Z" creationid="seto" creationdate="20190409T110724Z">
+        <seg>QName_Errand_Lost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Machine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110727Z" creationid="seto" creationdate="20190409T110727Z">
+        <seg>QName_Errand_Machine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_MageBackpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110726Z" creationid="seto" creationdate="20190409T110726Z">
+        <seg>QName_Errand_MageBackpack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Mana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110727Z" creationid="seto" creationdate="20190409T110727Z">
+        <seg>QName_Errand_Mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Monsoon_BK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110715Z" creationid="seto" creationdate="20190409T110715Z">
+        <seg>QName_Errand_Monsoon_BK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Monsoon_General</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110719Z" creationid="seto" creationdate="20190409T110719Z">
+        <seg>QName_Errand_Monsoon_General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Myriade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110728Z" creationid="seto" creationdate="20190409T110728Z">
+        <seg>QName_Errand_Myriade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Slum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110725Z" creationid="seto" creationdate="20190409T110725Z">
+        <seg>QName_Errand_Slum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Treasure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110725Z" creationid="seto" creationdate="20190409T110725Z">
+        <seg>QName_Errand_Treasure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Errand_Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110736Z" creationid="seto" creationdate="20190409T110736Z">
+        <seg>QName_Errand_Water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HK_HeroPeace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110711Z" creationid="seto" creationdate="20190409T110711Z">
+        <seg>QName_HK_HeroPeace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HK_MouthFeed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110710Z" creationid="seto" creationdate="20190409T110710Z">
+        <seg>QName_HK_MouthFeed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HK_SandCorsairs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110709Z" creationid="seto" creationdate="20190409T110709Z">
+        <seg>QName_HK_SandCorsairs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HK_TendFlame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110709Z" creationid="seto" creationdate="20190409T110709Z">
+        <seg>QName_HK_TendFlame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>QName_HM_Doubts</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110705Z" creationid="seto" creationdate="20190409T110705Z">
         <seg>QName_HM_Doubts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HM_HolyPeace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110708Z" creationid="seto" creationdate="20190409T110708Z">
+        <seg>QName_HM_HolyPeace</seg>
       </tuv>
     </tu>
     <tu>
@@ -42252,10 +42517,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>QName_HM_Truth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110707Z" creationid="seto" creationdate="20190409T110707Z">
+        <seg>QName_HM_Truth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>QName_Neut_CallToA</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025604Z" creationid="seto" creationdate="20190407T025604Z">
         <seg>QName_Neut_CallToA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_EarnedRest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110712Z" creationid="seto" creationdate="20190409T110712Z">
+        <seg>QName_Neut_EarnedRest</seg>
       </tuv>
     </tu>
     <tu>
@@ -51660,6 +51941,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094746Z" creationid="Light" creationdate="20190409T094746Z">
         <seg>ベルクの宿でSagard Battlebornと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Yzan in Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110838Z" creationid="seto" creationdate="20190409T110838Z">
+        <seg>レバントでイザンと話す</seg>
       </tuv>
     </tu>
     <tu>
