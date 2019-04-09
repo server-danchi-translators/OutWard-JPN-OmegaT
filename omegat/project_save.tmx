@@ -32852,8 +32852,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T142528Z" creationid="urakata" creationdate="20190331T092207Z">
-        <seg>Levantの鍛冶屋へTsar Stonesを持ち込むとpieces of Tsar Armor and Tenebrous Armorを作れる</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T235917Z" creationid="urakata" creationdate="20190331T092207Z">
+        <seg>レバントの鍛冶屋へツァーリの宝玉を持ち込むと「ツァーリの鎧」の部品とTenebrous Armorを作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -43912,8 +43912,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to Cierzo’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T142324Z" creationid="urakata" creationdate="20190331T091954Z">
-        <seg>完成したarmor pieceを受取りにCierzoの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T235523Z" creationid="urakata" creationdate="20190331T091954Z">
+        <seg>完成した鎧の部品を受取りにシエルゾの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -55727,8 +55727,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190405T093038Z" creationid="urakata" creationdate="20190331T091915Z">
-        <seg>Ciezoでarmor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T235501Z" creationid="urakata" creationdate="20190331T091915Z">
+        <seg>シエルゾで鎧の部品が完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
