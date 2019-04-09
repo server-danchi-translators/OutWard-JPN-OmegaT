@@ -22507,6 +22507,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to Levant’s slums and find information on the Sand Corsairs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100126Z" creationid="Light" creationdate="20190409T100126Z">
+        <seg>レバントのスラム街に行き、Sand Corsairsに関する情報を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go to a city in the Enmerkar Forest, the Hallowed Marsh or the Abrassar desert to join a faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134422Z" creationid="Light" creationdate="20190404T134303Z">
@@ -28005,6 +28013,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interrogate the scouts inside a fort in Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100149Z" creationid="Light" creationdate="20190409T100149Z">
+        <seg>アブラサールの砦の内側にいるスカウトを尋問する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid Combination</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T194029Z" creationid="totochan" creationdate="20190402T194029Z">
@@ -30094,6 +30110,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T130827Z" creationid="urakata" creationdate="20190408T130827Z">
         <seg>Chersoneseの北東、Ghost Passの逆側にあるCorrupted TombにいるWendigoを殺す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the bandits inside the Necropolis, under the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095933Z" creationid="Light" creationdate="20190409T095933Z">
+        <seg>青の議会の下、ネクロポリスの中にいる盗賊を倒す</seg>
       </tuv>
     </tu>
     <tu>
@@ -40517,6 +40541,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescue Kirouac, who’s inside the fort tower of the burnt forest at the very south of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100101Z" creationid="Light" creationdate="20190409T100101Z">
+        <seg>エンメルカル南部にある燃けた森のタワーの中にいるKirouacを救助する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rescue Rissa from an outpost in the burnt forest in the south of Enmerkar.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T060145Z" creationid="Light" creationdate="20190409T060145Z">
@@ -48499,6 +48531,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095426Z" creationid="Light" creationdate="20190409T095426Z">
         <seg>議会内のキュレネと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Cyrene in the city of Levant, inside Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100016Z" creationid="Light" creationdate="20190409T100016Z">
+        <seg>アブラサールの中、レバントでキュレネと話す</seg>
       </tuv>
     </tu>
     <tu>
