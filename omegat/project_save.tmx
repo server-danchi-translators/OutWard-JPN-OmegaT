@@ -14487,6 +14487,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confront Yzan in the old docks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101418Z" creationid="Light" creationdate="20190409T101418Z">
+        <seg>古いドックでイザンと対決する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confusion</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134248Z" creationid="totochan" creationdate="20190403T134248Z">
@@ -19435,6 +19443,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Levant’s slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101607Z" creationid="Light" creationdate="20190409T101607Z">
+        <seg>レバントのスラム街に入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter the city of Levant using the slums’ southern gate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101551Z" creationid="Light" creationdate="20190409T101551Z">
+        <seg>スラム街の南ゲートを使ってレヴァント市に入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113109Z" creationid="Gaiden Shinji" creationdate="20190404T113109Z">
@@ -20783,6 +20807,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T132921Z" creationid="urakata" creationdate="20190406T132921Z">
         <seg>Face of the Ancientsの名で知られるダンジョンで、Scarlet Ladyのものである小さな像を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find a way into Levant’s Palace, though the traitors have a head start.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101539Z" creationid="Light" creationdate="20190409T101539Z">
+        <seg>裏切り者たちは有利なスタートを切っているが、レヴァント宮殿への道を見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -22543,6 +22575,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T043338Z" creationid="urakata" creationdate="20190407T043338Z">
         <seg>Monsoonの寺院裏のElattの祭壇に行って仲間になる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to Levant’s Palace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101518Z" creationid="Light" creationdate="20190409T101518Z">
+        <seg>レバントへ行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -28293,6 +28333,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Investigate the old docks on the clifftops, in the northern part of Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101459Z" creationid="Light" creationdate="20190409T101459Z">
+        <seg>アブラサール北部の崖の上にある古いドックを調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron vein</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130616Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
@@ -30182,6 +30230,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095910Z" creationid="Light" creationdate="20190409T095910Z">
         <seg>エンメルカル南部の焼けた森の前哨基地の中にいる傭兵を倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kill the traitor commander in the Sand Rose Cave, to the far south-east of Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101628Z" creationid="Light" creationdate="20190409T101628Z">
+        <seg>アブラサールの南東にあるSand Rose Caveで裏切り者の指揮官を倒す</seg>
       </tuv>
     </tu>
     <tu>
@@ -40985,6 +41041,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142411Z" creationid="urakata" creationdate="20190331T092514Z">
         <seg>完成したarmor pieceを受取りにLevantの鍛冶屋へ戻る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Return to Markus, at Levant’s slums’ gate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101653Z" creationid="Light" creationdate="20190409T101653Z">
+        <seg>レバントのスラム街の門でマルクスに戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -56937,6 +57001,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075639Z" creationid="setom" creationdate="20190402T075631Z">
         <seg>[Gamepad_Specific]ゲームパッドでクイックスロットを使うには、[InputAction_QuickSlotToggle1]または[InputAction_QuickSlotToggle2]を長押ししながら割り当てられているボタンを押してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Ask around Levant for clues on the riddle.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101443Z" creationid="Light" creationdate="20190409T101443Z">
+        <seg>[Optional]なぞについての手がかりをレバントの人々に尋ねる</seg>
       </tuv>
     </tu>
     <tu>
