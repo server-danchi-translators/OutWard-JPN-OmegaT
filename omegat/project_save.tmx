@@ -19269,8 +19269,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Enables you to deploy the complex Pressure Plate Traps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T031239Z" creationid="pugnus" creationdate="20190409T031239Z">
-        <seg>圧力版の鍛錬。Enables you to deploy the complex Pressure Plate Traps.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T031516Z" creationid="pugnus" creationdate="20190409T031239Z">
+        <seg>圧力版の知識。より複雑な圧力版による罠を展開できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49800,6 +49800,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T143812Z" creationid="weedssoul" creationdate="20190405T143812Z">
         <seg>生のメロンは調理すると、耐毒性を得られる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These traps are primarily armed with charges, which shoot poison, fire and more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T031919Z" creationid="pugnus" creationdate="20190409T031919Z">
+        <seg>これらの罠は、毒や炎などを搭載する。</seg>
       </tuv>
     </tu>
     <tu>
