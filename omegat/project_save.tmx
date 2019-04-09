@@ -20635,6 +20635,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find a rare root that grows in the Reptilian Lair, in the center of the Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060713Z" creationid="Light" creationdate="20190409T060713Z">
+        <seg>マーシュの中心部にあるレプティリアンの隠れ家で珍しい根を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find a small idol belonging to the Scarlet Lady, in the dungeon known as the Face of the Ancients.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T132921Z" creationid="urakata" creationdate="20190406T132921Z">
@@ -48144,6 +48152,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Gold Belly, the Ash Giant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060814Z" creationid="Light" creationdate="20190409T060814Z">
+        <seg>灰の巨人、ゴールドベリーと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Mofat in the city of Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T131355Z" creationid="urakata" creationdate="20190408T131355Z">
@@ -56249,6 +56265,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T133241Z" creationid="urakata" creationdate="20190406T133241Z">
         <seg>[Optional]Red Ladyの像に小像を供える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Prepare for the negotiations by talking to other giants or scholars.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060557Z" creationid="Light" creationdate="20190409T060557Z">
+        <seg>[Optional]他の巨人や学者と話して、交渉の準備をする</seg>
       </tuv>
     </tu>
     <tu>
