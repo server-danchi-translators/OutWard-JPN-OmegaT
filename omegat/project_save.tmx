@@ -56621,6 +56621,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’re the new member of the Aberdeen Family, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T064150Z" creationid="pugnus" creationdate="20190409T064150Z">
+        <seg>あんたはAberdeen Familyの新入りだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’ve already rented a room for the day!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060658Z" creationid="Light" creationdate="20190408T060658Z">
