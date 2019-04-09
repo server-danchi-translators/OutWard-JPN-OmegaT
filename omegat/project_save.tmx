@@ -29274,6 +29274,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll craft you armor from the Copal or Petrified Wood you bring me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063533Z" creationid="pugnus" creationdate="20190409T063533Z">
+        <seg>CopalやPetrified Woodを持ってきたら、あなたに鎧を作ってやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll keep my ears open, though.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T061952Z" creationid="pugnus" creationdate="20190409T061839Z">
@@ -29670,6 +29678,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132532Z" creationid="weedssoul" creationdate="20190406T132259Z">
         <seg>私はかつて、彼と話をするという栄誉を得たことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve heard a Royal Manticore has made its lair in the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063817Z" creationid="pugnus" creationdate="20190409T063817Z">
+        <seg>Royal Manticoreが、その領地に隠れ家を作ったって聞いたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51992,6 +52008,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063240Z" creationid="Light" creationdate="20190406T063240Z">
         <seg>君の持っている武器のスキルを一つ教えてやろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Want some?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063612Z" creationid="pugnus" creationdate="20190409T063612Z">
+        <seg>なにかいるのかい？</seg>
       </tuv>
     </tu>
     <tu>
