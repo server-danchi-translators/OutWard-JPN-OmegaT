@@ -23771,6 +23771,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He’s usually standing at the door of his house by the West Gate, across from the farm.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T045701Z" creationid="pugnus" creationdate="20190409T045701Z">
+        <seg>彼はいつも、西の門の、農場の反対にある、家の扉付近に立っているよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hi, Nindiria.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T043914Z" creationid="Mad" creationdate="20190407T043914Z">
@@ -30434,6 +30442,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Look for the man with the face mask.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T045851Z" creationid="pugnus" creationdate="20190409T045851Z">
+        <seg>覆面をした男が彼だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loot</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112938Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
@@ -34846,8 +34862,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh, you’re looking for Jager Sullivan too?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T045429Z" creationid="pugnus" creationdate="20190409T045429Z">
-        <seg>あぁ、君もJager Sullivanを探しているのか</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T045437Z" creationid="pugnus" creationdate="20190409T045429Z">
+        <seg>あぁ、君もJager Sullivanを探しているのか？</seg>
       </tuv>
     </tu>
     <tu>
