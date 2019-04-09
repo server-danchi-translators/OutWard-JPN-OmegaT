@@ -40205,6 +40205,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rescue Rissa from an outpost in the burnt forest in the south of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060145Z" creationid="Light" creationdate="20190409T060145Z">
+        <seg>エンメルカル南部の焼けた森の前哨基地からリッサを救助する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Researcher Boye</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115920Z" creationid="Gaiden Shinji" creationdate="20190404T115920Z">
@@ -48184,6 +48192,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Rissa, in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060153Z" creationid="Light" creationdate="20190409T060153Z">
+        <seg>ベルクでリッサと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055909Z" creationid="Light" creationdate="20190409T055909Z">
@@ -48204,6 +48220,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
         <seg>Cierzoの村でYzanと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to the Ash Giant highlord in their village, in the north-east of the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060523Z" creationid="Light" creationdate="20190409T060523Z">
+        <seg>聖なる沼の北東にある巨人の村の灰の巨人卿と話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -56209,6 +56233,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T031047Z" creationid="urakata" creationdate="20190407T031047Z">
         <seg>[Optional]Rissaに150silverの代わりとしてWrit of Tribal Favorを渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Kill the mercenary leader in the Enmerkar Forest, in the south of the region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T060244Z" creationid="Light" creationdate="20190409T060244Z">
+        <seg>[Optional]エンメルカルの森にいる傭兵のリーダーを倒す</seg>
       </tuv>
     </tu>
     <tu>
