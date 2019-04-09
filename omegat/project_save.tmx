@@ -22619,6 +22619,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give a Tribal Favor or a sum of silver to Rissa, in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104707Z" creationid="Light" creationdate="20190409T104707Z">
+        <seg>ベルクでリッサに部族の好意または銀貨を渡す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give a filled Waterskin to the soldiers guarding the Undercity Passage in the slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T101900Z" creationid="Light" creationdate="20190409T101900Z">
@@ -22807,6 +22815,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054302Z" creationid="Light" creationdate="20190409T054302Z">
         <seg>エンメルカルの森のベルクに行き、権威のある誰かに警告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the city of Berg, inside the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104633Z" creationid="Light" creationdate="20190409T104633Z">
+        <seg>エンメルカルの森の中、ベルクへ行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the city of Levant, in the Abrassar Desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104733Z" creationid="Light" creationdate="20190409T104733Z">
+        <seg>アブラサール砂漠のレバントに行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -40541,6 +40565,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report to Cardinal Bourlamaque that Levant’s agents were slain, then prepare to end the war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104558Z" creationid="Light" creationdate="20190409T104558Z">
+        <seg>レバントのエージェントが殺害されたことをブラマク枢機卿に報告し、戦争を終わらせる準備をする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Report to Cyrene.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T100348Z" creationid="Light" creationdate="20190409T100348Z">
@@ -49007,6 +49039,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Cardinal Bourlamaque, in Monsoon’s temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104528Z" creationid="Light" creationdate="20190409T104528Z">
+        <seg>モンスーンの神殿でブラマク枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cardinal Bourlamaque, in the temple in Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T104247Z" creationid="Light" creationdate="20190409T104247Z">
@@ -49372,6 +49412,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103518Z" creationid="Light" creationdate="20190409T103518Z">
         <seg>聖なる沼にあるモンスーンでエリナラと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk with Levant’s agents in the cellar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T104512Z" creationid="Light" creationdate="20190409T104512Z">
+        <seg>地下室でレバントのエージェントと話す</seg>
       </tuv>
     </tu>
     <tu>
