@@ -14401,8 +14401,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Concoction that increases Impact Resistance and cures indigestion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132341Z">
-        <seg>耐打撃性を高め、消化不良を治癒させる。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T102946Z" creationid="Light" creationdate="20190406T132341Z">
+        <seg>衝撃耐性を高め、消化不良を治癒させる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14465,8 +14465,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Concoction that temporarily increases your weapon’s Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143031Z" creationid="weedssoul" creationdate="20190406T143031Z">
-        <seg>武器の打撃を一時的に高める調合薬</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T102958Z" creationid="weedssoul" creationdate="20190406T143031Z">
+        <seg>武器の衝撃力を一時的に高める調合薬</seg>
       </tuv>
     </tu>
     <tu>
@@ -18396,8 +18396,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Decreases the stamina and movement penalties from wearing armor by 50%</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T032256Z" creationid="pugnus" creationdate="20190409T032256Z">
-        <seg>重装訓練。重装備による移動ペナルティが50%減少する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100210Z" creationid="pugnus" creationdate="20190409T032256Z">
+        <seg>重装備による移動ペナルティが50%減少する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19269,8 +19269,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Elaborate stew using alpha meat and a gravel beetle, which gives Impact Resistance as well as adding Impact to one’s attacks with the Rage status.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T085834Z" creationid="Light" creationdate="20190407T085834Z">
-        <seg>アルファミートとグラベルビートルを使ったシチュー。打撃耐性を与え、レイジ状態の攻撃に打撃を追加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103026Z" creationid="Light" creationdate="20190407T085834Z">
+        <seg>アルファミートとグラベルビートルを使ったシチュー。衝撃耐性を与え、レイジ状態の攻撃の衝撃力を追加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19429,8 +19429,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Enables you to deploy the complex Pressure Plate Traps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T032514Z" creationid="pugnus" creationdate="20190409T031239Z">
-        <seg>圧力版の訓練。より複雑な圧力版による罠を展開できる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100207Z" creationid="pugnus" creationdate="20190409T031239Z">
+        <seg>より複雑な圧力版による罠を展開できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19445,8 +19445,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Enemies will have a harder time spotting you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T030436Z" creationid="pugnus" creationdate="20190409T030436Z">
-        <seg>忍びの鍛錬。敵に見つかりにくくなる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100200Z" creationid="pugnus" creationdate="20190409T030436Z">
+        <seg>敵に見つかりにくくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21781,8 +21781,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Gain access to more advanced runic combos.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T030151Z" creationid="pugnus" creationdate="20190409T030151Z">
-        <seg>秘密の定義。より高度なルーンコンボを取得できる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100158Z" creationid="pugnus" creationdate="20190409T030151Z">
+        <seg>より高度なルーンコンボを取得できる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26943,16 +26943,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Impact</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T021854Z" creationid="setom" creationdate="20190402T021854Z">
-        <seg>打撃</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103311Z" creationid="setom" creationdate="20190402T021854Z">
+        <seg>衝撃力</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Impact Resistance</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T113705Z" creationid="setom" creationdate="20190401T113705Z">
-        <seg>打撃耐性</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103301Z" creationid="setom" creationdate="20190401T113705Z">
+        <seg>衝撃耐性</seg>
       </tuv>
     </tu>
     <tu>
@@ -27095,16 +27095,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increase your resistance to Fire by 20 and the Fire damage you inflict is increased by 15%</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T021405Z" creationid="pugnus" creationdate="20190409T021405Z">
-        <seg>炎への親しみ。火に対する抵抗力を20増加させ、あなたが与える火属性のダメージを15％増加させる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100130Z" creationid="pugnus" creationdate="20190409T021405Z">
+        <seg>火に対する抵抗力を20増加させ、あなたが与える火属性のダメージを15％増加させる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases Impact Resistance by 15 while your are blocking.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022011Z" creationid="Light" creationdate="20190406T113802Z">
-        <seg>安定した腕。ブロックしている間、打撃耐性が15増加する。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100107Z" creationid="Light" creationdate="20190406T113802Z">
+        <seg>ブロックしている間、打撃耐性が15増加する。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -27127,8 +27127,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases the power of your Pressure Plate Traps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T032620Z" creationid="pugnus" creationdate="20190409T032506Z">
-        <seg>圧力版の専門知識。圧力版を使用した罠の威力を高める。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100213Z" creationid="pugnus" creationdate="20190409T032506Z">
+        <seg>圧力版を使用した罠の威力を高める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27159,8 +27159,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your Hot and Cold Weather Defense by 8.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T021635Z" creationid="pugnus" creationdate="20190409T020107Z">
-        <seg>天候への我慢。天候による暑さと寒さへの抵抗を8増加させる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100055Z" creationid="pugnus" creationdate="20190409T020107Z">
+        <seg>天候による暑さと寒さへの抵抗を8増加させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27191,24 +27191,24 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Health by 25 and the amount of Health you restore while sleeping by 20%</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022110Z" creationid="Light" creationdate="20190406T113625Z">
-        <seg>適応力と健康。最大体力を25、睡眠中に回復する体力を20％アップする。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100112Z" creationid="Light" creationdate="20190406T113625Z">
+        <seg>最大体力を25、睡眠中に回復する体力を20％アップする。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your maximum Health by 40.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T100007Z" creationid="rkmad" creationdate="20190404T065321Z">
-        <seg>生存者の生き延びる力。体力の最大値が40増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100139Z" creationid="rkmad" creationdate="20190404T065321Z">
+        <seg>体力の最大値が40増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your maximum Health, Stamina and Mana by 15 each.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T021939Z" creationid="Light" creationdate="20190406T113928Z">
-        <seg>呪文翼板の覚醒。体力、スタミナ、マナの最大値をそれぞれ15ずつ増やす。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100103Z" creationid="Light" creationdate="20190406T113928Z">
+        <seg>体力、スタミナ、マナの最大値をそれぞれ15ずつ増やす。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -27231,16 +27231,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Mana by 40.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T023251Z" creationid="pugnus" creationdate="20190409T023056Z">
-        <seg>マナの井戸。マナの最大値が40増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100141Z" creationid="pugnus" creationdate="20190409T023056Z">
+        <seg>マナの最大値が40増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your maximum Stamina by 40.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022318Z" creationid="pugnus" creationdate="20190409T020708Z">
-        <seg>不動の苦行者。スタミナの最大値が40増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100124Z" creationid="pugnus" creationdate="20190409T020708Z">
+        <seg>スタミナの最大値が40増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28891,8 +28891,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It takes more time for you to become hungry, thirsty and sleepy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T020923Z" creationid="pugnus" creationdate="20190409T020923Z">
-        <seg>緩やかな代謝。空腹度、喉の渇き、睡眠欲求の進みを緩やかにする。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100128Z" creationid="pugnus" creationdate="20190409T020923Z">
+        <seg>空腹度、喉の渇き、睡眠欲求の進みを緩やかにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31172,8 +31172,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Lowers the Stamina cost of dodging by 50% and allows you to dodge unimpeded even when wearing a backpack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T024629Z" creationid="pugnus" creationdate="20190409T024524Z">
-        <seg>羽根の身躱し。ドッジロールのスタミナ消費を50%削減する。また、バックパック装備時でも動作が妨げられない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100146Z" creationid="pugnus" creationdate="20190409T024524Z">
+        <seg>ドッジロールのスタミナ消費を50%削減する。また、バックパック装備時でも動作が妨げられない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40415,8 +40415,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Removes the need to have an equipped Lexicon in your off-hand to cast runic spells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T025807Z" creationid="pugnus" creationdate="20190409T025807Z">
-        <seg>吸収された知識。呪文を唱えるために、呪文書を持つ必要がなくなる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100155Z" creationid="pugnus" creationdate="20190409T025807Z">
+        <seg>呪文を唱えるために、呪文書を持つ必要がなくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43231,8 +43231,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Scarab, found in mineral ores, whose resin hardens one’s body from Impacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143706Z" creationid="weedssoul" creationdate="20190406T143706Z">
-        <seg>鉱石から見つかるコガネムシ。樹脂には打撃耐性を高める効果がある。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T102856Z" creationid="weedssoul" creationdate="20190406T143706Z">
+        <seg>鉱石から見つかるコガネムシ。樹脂には衝撃耐性を高める効果がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45679,8 +45679,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sprinting consumes 40% less stamina.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T021523Z" creationid="pugnus" creationdate="20190409T015935Z">
-        <seg>長距離走者。全力疾走時のスタミナ消費を低減し、40%で済ませる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100050Z" creationid="pugnus" creationdate="20190409T015935Z">
+        <seg>全力疾走時のスタミナ消費を低減し、40%で済ませる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50275,8 +50275,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The effects of boons on you are increased.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T025150Z" creationid="pugnus" creationdate="20190409T025150Z">
-        <seg>精霊との共鳴。Boonの効果が増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100150Z" creationid="pugnus" creationdate="20190409T025150Z">
+        <seg>Boonの効果が増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53454,8 +53454,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weak attack with a wide arc of effect and high Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T020029Z" creationid="pugnus" creationdate="20190406T015921Z">
-        <seg>幅広い弧と高い効果を持つ弱い攻撃。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T103347Z" creationid="pugnus" creationdate="20190406T015921Z">
+        <seg>幅広い弧と高い衝撃力を持つ弱い攻撃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54473,8 +54473,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>While under the effect of the Discipline boon, Impact Resistance and all damage resistances are increased by 15.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022245Z" creationid="pugnus" creationdate="20190409T020617Z">
-        <seg>動作の達人。Discipline Boonを発動する。規律の恵みを受けるものは衝撃耐性及び、すべてのダメージへの抵抗をが15増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100122Z" creationid="pugnus" creationdate="20190409T020617Z">
+        <seg>Discipline Boonを発動する。規律の恵みを受けるものは衝撃耐性及び、すべてのダメージへの抵抗をが15増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55446,8 +55446,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can lock on enemies at longer distances when using a bow.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T025430Z" creationid="Light" creationdate="20190408T052142Z">
-        <seg>狩人の目。弓でロックオンできる距離が長くなる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100153Z" creationid="Light" creationdate="20190408T052142Z">
+        <seg>弓でロックオンできる距離が長くなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56202,8 +56202,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You regain 0.15 mana per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022540Z" creationid="pugnus" creationdate="20190409T022540Z">
-        <seg>龍脈との接続。毎秒0.15のマナを回復する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100133Z" creationid="pugnus" creationdate="20190409T022540Z">
+        <seg>毎秒0.15のマナを回復する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56226,8 +56226,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You repair your equipment 50% faster when you allocate time to Repairing in the rest menu.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T024845Z" creationid="pugnus" creationdate="20190409T024845Z">
-        <seg>迅速な整備。装備を修理するための時間が50%軽減される。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100148Z" creationid="pugnus" creationdate="20190409T024845Z">
+        <seg>装備を修理するための時間が50%軽減される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56783,8 +56783,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your movement speed is increased by 10%</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T023323Z" creationid="pugnus" creationdate="20190409T023323Z">
-        <seg>俊足。移動速度が10%増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100143Z" creationid="pugnus" creationdate="20190409T023323Z">
+        <seg>移動速度が10%増加する。</seg>
       </tuv>
     </tu>
     <tu>
