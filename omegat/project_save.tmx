@@ -26559,8 +26559,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases all Damage you deal by 15%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T065446Z" creationid="rkmad" creationdate="20190404T065405Z">
-        <seg>あなたのすべての攻撃によるダメージが15%増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T034511Z" creationid="rkmad" creationdate="20190404T065405Z">
+        <seg>錬金術の実験。あなたのすべての攻撃によるダメージが15%増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26647,8 +26647,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Health by 40.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T022849Z" creationid="rkmad" creationdate="20190404T065321Z">
-        <seg>生存者の生き延びる力。体力の最大値が40増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T034235Z" creationid="rkmad" creationdate="20190404T065321Z">
+        <seg>巨人の血。生存者の生き延びる力。体力の最大値が40増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26671,8 +26671,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Mana by 25.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T065334Z" creationid="rkmad" creationdate="20190404T065334Z">
-        <seg>マナの最大値が25増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T034405Z" creationid="rkmad" creationdate="20190404T065334Z">
+        <seg>先祖の記憶。マナの最大値が25増加する。</seg>
       </tuv>
     </tu>
     <tu>
