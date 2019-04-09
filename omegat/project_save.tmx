@@ -20611,6 +20611,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Roland inside the Blue Chamber’s path in the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093534Z" creationid="Light" creationdate="20190409T093534Z">
+        <seg>コンフラックス山にある青の議会の道でローランドを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Roland inside the Starfish Cave south of Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093748Z" creationid="Light" creationdate="20190409T093748Z">
+        <seg>シエルゾ南のヒトデ洞窟にいるローランドを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find a clue in the Levant’s slums, in Abrassar.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054908Z" creationid="Light" creationdate="20190409T054908Z">
@@ -31606,6 +31622,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045100Z" creationid="seto" creationdate="20190406T045100Z">
         <seg>Medium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meet up with Roland in the Ley Line chamber, in the mountain’s core.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093702Z" creationid="Light" creationdate="20190409T093702Z">
+        <seg>山の中心部、レイラインの小部屋でローランドと会う</seg>
       </tuv>
     </tu>
     <tu>
@@ -50711,6 +50735,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This mountain is the tall purple peak in the center of the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093630Z" creationid="Light" creationdate="20190409T093630Z">
+        <seg>チェルソネス中心の高い紫色の山</seg>
       </tuv>
     </tu>
     <tu>
