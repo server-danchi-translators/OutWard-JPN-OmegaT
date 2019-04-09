@@ -23549,7 +23549,7 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Go to the city of Monsoon, using a small boat in the northern docks of the Hallowed Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T100708Z" creationid="Light" creationdate="20190409T100708Z">
+      <tuv lang="JA" changeid="seto" changedate="20190409T110444Z" creationid="Light" creationdate="20190409T100708Z">
         <seg>聖なる沼の北ドックにある小さなボートを使って、モンスーンの街へ行く</seg>
       </tuv>
     </tu>
@@ -24203,6 +24203,254 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HK_HeroPeace_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110456Z" creationid="seto" creationdate="20190409T110456Z">
+        <seg>HK_HeroPeace_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_00-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110457Z" creationid="seto" creationdate="20190409T110457Z">
+        <seg>HK_HeroPeace_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110458Z" creationid="seto" creationdate="20190409T110458Z">
+        <seg>HK_HeroPeace_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110458Z" creationid="seto" creationdate="20190409T110458Z">
+        <seg>HK_HeroPeace_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110459Z" creationid="seto" creationdate="20190409T110459Z">
+        <seg>HK_HeroPeace_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110500Z" creationid="seto" creationdate="20190409T110500Z">
+        <seg>HK_HeroPeace_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110501Z" creationid="seto" creationdate="20190409T110501Z">
+        <seg>HK_HeroPeace_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110502Z" creationid="seto" creationdate="20190409T110502Z">
+        <seg>HK_HeroPeace_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110503Z" creationid="seto" creationdate="20190409T110503Z">
+        <seg>HK_HeroPeace_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110503Z" creationid="seto" creationdate="20190409T110503Z">
+        <seg>HK_HeroPeace_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110504Z" creationid="seto" creationdate="20190409T110504Z">
+        <seg>HK_HeroPeace_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110505Z" creationid="seto" creationdate="20190409T110505Z">
+        <seg>HK_HeroPeace_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110506Z" creationid="seto" creationdate="20190409T110506Z">
+        <seg>HK_HeroPeace_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110506Z" creationid="seto" creationdate="20190409T110506Z">
+        <seg>HK_HeroPeace_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110507Z" creationid="seto" creationdate="20190409T110507Z">
+        <seg>HK_HeroPeace_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110508Z" creationid="seto" creationdate="20190409T110508Z">
+        <seg>HK_HeroPeace_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110509Z" creationid="seto" creationdate="20190409T110509Z">
+        <seg>HK_HeroPeace_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_15-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110509Z" creationid="seto" creationdate="20190409T110509Z">
+        <seg>HK_HeroPeace_15-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110510Z" creationid="seto" creationdate="20190409T110510Z">
+        <seg>HK_HeroPeace_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110511Z" creationid="seto" creationdate="20190409T110511Z">
+        <seg>HK_HeroPeace_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110511Z" creationid="seto" creationdate="20190409T110511Z">
+        <seg>HK_HeroPeace_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_18-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110512Z" creationid="seto" creationdate="20190409T110512Z">
+        <seg>HK_HeroPeace_18-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110513Z" creationid="seto" creationdate="20190409T110513Z">
+        <seg>HK_HeroPeace_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110513Z" creationid="seto" creationdate="20190409T110513Z">
+        <seg>HK_HeroPeace_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110514Z" creationid="seto" creationdate="20190409T110514Z">
+        <seg>HK_HeroPeace_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110514Z" creationid="seto" creationdate="20190409T110514Z">
+        <seg>HK_HeroPeace_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110515Z" creationid="seto" creationdate="20190409T110515Z">
+        <seg>HK_HeroPeace_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110516Z" creationid="seto" creationdate="20190409T110516Z">
+        <seg>HK_HeroPeace_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110517Z" creationid="seto" creationdate="20190409T110517Z">
+        <seg>HK_HeroPeace_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110518Z" creationid="seto" creationdate="20190409T110518Z">
+        <seg>HK_HeroPeace_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_HeroPeace_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110519Z" creationid="seto" creationdate="20190409T110519Z">
+        <seg>HK_HeroPeace_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HK_MouthsToFeed_00</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110401Z" creationid="seto" creationdate="20190409T110401Z">
@@ -24215,6 +24463,94 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110402Z" creationid="seto" creationdate="20190409T110402Z">
         <seg>HK_MouthsToFeed_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110447Z" creationid="seto" creationdate="20190409T110447Z">
+        <seg>HK_MouthsToFeed_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110448Z" creationid="seto" creationdate="20190409T110448Z">
+        <seg>HK_MouthsToFeed_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110449Z" creationid="seto" creationdate="20190409T110449Z">
+        <seg>HK_MouthsToFeed_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110450Z" creationid="seto" creationdate="20190409T110450Z">
+        <seg>HK_MouthsToFeed_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110451Z" creationid="seto" creationdate="20190409T110451Z">
+        <seg>HK_MouthsToFeed_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110452Z" creationid="seto" creationdate="20190409T110452Z">
+        <seg>HK_MouthsToFeed_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110452Z" creationid="seto" creationdate="20190409T110452Z">
+        <seg>HK_MouthsToFeed_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110453Z" creationid="seto" creationdate="20190409T110453Z">
+        <seg>HK_MouthsToFeed_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110454Z" creationid="seto" creationdate="20190409T110454Z">
+        <seg>HK_MouthsToFeed_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110455Z" creationid="seto" creationdate="20190409T110455Z">
+        <seg>HK_MouthsToFeed_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HK_MouthsToFeed_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110456Z" creationid="seto" creationdate="20190409T110456Z">
+        <seg>HK_MouthsToFeed_11</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,6 +24847,630 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110348Z" creationid="seto" creationdate="20190409T110348Z">
         <seg>HK_Tendflame_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110533Z" creationid="seto" creationdate="20190409T110533Z">
+        <seg>HM_Doubt_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_00-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110534Z" creationid="seto" creationdate="20190409T110534Z">
+        <seg>HM_Doubt_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110535Z" creationid="seto" creationdate="20190409T110535Z">
+        <seg>HM_Doubt_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110535Z" creationid="seto" creationdate="20190409T110535Z">
+        <seg>HM_Doubt_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110536Z" creationid="seto" creationdate="20190409T110536Z">
+        <seg>HM_Doubt_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110537Z" creationid="seto" creationdate="20190409T110537Z">
+        <seg>HM_Doubt_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110537Z" creationid="seto" creationdate="20190409T110537Z">
+        <seg>HM_Doubt_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110538Z" creationid="seto" creationdate="20190409T110538Z">
+        <seg>HM_Doubt_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110539Z" creationid="seto" creationdate="20190409T110539Z">
+        <seg>HM_Doubt_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110540Z" creationid="seto" creationdate="20190409T110540Z">
+        <seg>HM_Doubt_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110540Z" creationid="seto" creationdate="20190409T110540Z">
+        <seg>HM_Doubt_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110541Z" creationid="seto" creationdate="20190409T110541Z">
+        <seg>HM_Doubt_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110542Z" creationid="seto" creationdate="20190409T110542Z">
+        <seg>HM_Doubt_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110543Z" creationid="seto" creationdate="20190409T110543Z">
+        <seg>HM_Doubt_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110543Z" creationid="seto" creationdate="20190409T110543Z">
+        <seg>HM_Doubt_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Doubt_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110544Z" creationid="seto" creationdate="20190409T110544Z">
+        <seg>HM_Doubt_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110559Z" creationid="seto" creationdate="20190409T110559Z">
+        <seg>HM_HolyPeace_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_00-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110600Z" creationid="seto" creationdate="20190409T110600Z">
+        <seg>HM_HolyPeace_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110601Z" creationid="seto" creationdate="20190409T110601Z">
+        <seg>HM_HolyPeace_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110602Z" creationid="seto" creationdate="20190409T110602Z">
+        <seg>HM_HolyPeace_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110603Z" creationid="seto" creationdate="20190409T110603Z">
+        <seg>HM_HolyPeace_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_03-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110604Z" creationid="seto" creationdate="20190409T110604Z">
+        <seg>HM_HolyPeace_03-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110604Z" creationid="seto" creationdate="20190409T110604Z">
+        <seg>HM_HolyPeace_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110605Z" creationid="seto" creationdate="20190409T110605Z">
+        <seg>HM_HolyPeace_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110606Z" creationid="seto" creationdate="20190409T110606Z">
+        <seg>HM_HolyPeace_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110607Z" creationid="seto" creationdate="20190409T110607Z">
+        <seg>HM_HolyPeace_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110607Z" creationid="seto" creationdate="20190409T110607Z">
+        <seg>HM_HolyPeace_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110608Z" creationid="seto" creationdate="20190409T110608Z">
+        <seg>HM_HolyPeace_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110609Z" creationid="seto" creationdate="20190409T110609Z">
+        <seg>HM_HolyPeace_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110610Z" creationid="seto" creationdate="20190409T110610Z">
+        <seg>HM_HolyPeace_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_11-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110611Z" creationid="seto" creationdate="20190409T110611Z">
+        <seg>HM_HolyPeace_11-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110612Z" creationid="seto" creationdate="20190409T110612Z">
+        <seg>HM_HolyPeace_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110612Z" creationid="seto" creationdate="20190409T110612Z">
+        <seg>HM_HolyPeace_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110613Z" creationid="seto" creationdate="20190409T110613Z">
+        <seg>HM_HolyPeace_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_14-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110614Z" creationid="seto" creationdate="20190409T110614Z">
+        <seg>HM_HolyPeace_14-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110615Z" creationid="seto" creationdate="20190409T110615Z">
+        <seg>HM_HolyPeace_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110616Z" creationid="seto" creationdate="20190409T110616Z">
+        <seg>HM_HolyPeace_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110616Z" creationid="seto" creationdate="20190409T110616Z">
+        <seg>HM_HolyPeace_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110617Z" creationid="seto" creationdate="20190409T110617Z">
+        <seg>HM_HolyPeace_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110618Z" creationid="seto" creationdate="20190409T110618Z">
+        <seg>HM_HolyPeace_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110619Z" creationid="seto" creationdate="20190409T110619Z">
+        <seg>HM_HolyPeace_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110620Z" creationid="seto" creationdate="20190409T110620Z">
+        <seg>HM_HolyPeace_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110650Z" creationid="seto" creationdate="20190409T110650Z">
+        <seg>HM_HolyPeace_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_HolyPeace_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110653Z" creationid="seto" creationdate="20190409T110653Z">
+        <seg>HM_HolyPeace_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110521Z" creationid="seto" creationdate="20190409T110521Z">
+        <seg>HM_Questions_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_00-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110521Z" creationid="seto" creationdate="20190409T110521Z">
+        <seg>HM_Questions_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110522Z" creationid="seto" creationdate="20190409T110522Z">
+        <seg>HM_Questions_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110523Z" creationid="seto" creationdate="20190409T110523Z">
+        <seg>HM_Questions_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110523Z" creationid="seto" creationdate="20190409T110523Z">
+        <seg>HM_Questions_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110524Z" creationid="seto" creationdate="20190409T110524Z">
+        <seg>HM_Questions_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110525Z" creationid="seto" creationdate="20190409T110525Z">
+        <seg>HM_Questions_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110526Z" creationid="seto" creationdate="20190409T110526Z">
+        <seg>HM_Questions_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110527Z" creationid="seto" creationdate="20190409T110527Z">
+        <seg>HM_Questions_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110527Z" creationid="seto" creationdate="20190409T110527Z">
+        <seg>HM_Questions_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110528Z" creationid="seto" creationdate="20190409T110528Z">
+        <seg>HM_Questions_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110529Z" creationid="seto" creationdate="20190409T110529Z">
+        <seg>HM_Questions_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110530Z" creationid="seto" creationdate="20190409T110530Z">
+        <seg>HM_Questions_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110531Z" creationid="seto" creationdate="20190409T110531Z">
+        <seg>HM_Questions_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110531Z" creationid="seto" creationdate="20190409T110531Z">
+        <seg>HM_Questions_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Questions_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110532Z" creationid="seto" creationdate="20190409T110532Z">
+        <seg>HM_Questions_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110544Z" creationid="seto" creationdate="20190409T110544Z">
+        <seg>HM_Truth_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_00-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110545Z" creationid="seto" creationdate="20190409T110545Z">
+        <seg>HM_Truth_00-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110546Z" creationid="seto" creationdate="20190409T110546Z">
+        <seg>HM_Truth_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110547Z" creationid="seto" creationdate="20190409T110547Z">
+        <seg>HM_Truth_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110547Z" creationid="seto" creationdate="20190409T110547Z">
+        <seg>HM_Truth_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110548Z" creationid="seto" creationdate="20190409T110548Z">
+        <seg>HM_Truth_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110549Z" creationid="seto" creationdate="20190409T110549Z">
+        <seg>HM_Truth_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110549Z" creationid="seto" creationdate="20190409T110549Z">
+        <seg>HM_Truth_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110550Z" creationid="seto" creationdate="20190409T110550Z">
+        <seg>HM_Truth_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110551Z" creationid="seto" creationdate="20190409T110551Z">
+        <seg>HM_Truth_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110552Z" creationid="seto" creationdate="20190409T110552Z">
+        <seg>HM_Truth_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110553Z" creationid="seto" creationdate="20190409T110553Z">
+        <seg>HM_Truth_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110554Z" creationid="seto" creationdate="20190409T110554Z">
+        <seg>HM_Truth_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110555Z" creationid="seto" creationdate="20190409T110555Z">
+        <seg>HM_Truth_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110556Z" creationid="seto" creationdate="20190409T110556Z">
+        <seg>HM_Truth_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110557Z" creationid="seto" creationdate="20190409T110557Z">
+        <seg>HM_Truth_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110557Z" creationid="seto" creationdate="20190409T110557Z">
+        <seg>HM_Truth_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HM_Truth_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110558Z" creationid="seto" creationdate="20190409T110558Z">
+        <seg>HM_Truth_16</seg>
       </tuv>
     </tu>
     <tu>
@@ -34226,6 +35186,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110649Z" creationid="seto" creationdate="20190409T110649Z">
+        <seg>進む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Bag</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063009Z" creationid="hiru4" creationdate="20190403T063009Z">
@@ -41236,6 +42204,54 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>QName_BC_AncPeace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110704Z" creationid="seto" creationdate="20190409T110704Z">
+        <seg>QName_BC_AncPeace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_BC_AshGiants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110702Z" creationid="seto" creationdate="20190409T110702Z">
+        <seg>QName_BC_AshGiants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_BC_MixLegacies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110701Z" creationid="seto" creationdate="20190409T110701Z">
+        <seg>QName_BC_MixLegacies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_BC_WhispBones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110703Z" creationid="seto" creationdate="20190409T110703Z">
+        <seg>QName_BC_WhispBones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HM_Doubts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110705Z" creationid="seto" creationdate="20190409T110705Z">
+        <seg>QName_HM_Doubts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_HM_Question</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110704Z" creationid="seto" creationdate="20190409T110704Z">
+        <seg>QName_HM_Question</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>QName_Neut_CallToA</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025604Z" creationid="seto" creationdate="20190407T025604Z">
@@ -41244,10 +42260,42 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>QName_Neut_FactCommit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110658Z" creationid="seto" creationdate="20190409T110658Z">
+        <seg>QName_Neut_FactCommit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_Fraticide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110700Z" creationid="seto" creationdate="20190409T110700Z">
+        <seg>QName_Neut_Fraticide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_Purifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110659Z" creationid="seto" creationdate="20190409T110659Z">
+        <seg>QName_Neut_Purifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>QName_Neut_Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025601Z" creationid="seto" creationdate="20190407T025601Z">
         <seg>QName_Neut_Tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>QName_Neut_Vendavel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T110658Z" creationid="seto" creationdate="20190409T110658Z">
+        <seg>QName_Neut_Vendavel</seg>
       </tuv>
     </tu>
     <tu>
