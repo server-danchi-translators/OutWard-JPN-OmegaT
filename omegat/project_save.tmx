@@ -13913,7 +13913,7 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Chill</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134059Z" creationid="totochan" creationdate="20190403T134059Z">
+      <tuv lang="JA" changeid="seto" changedate="20190409T074141Z" creationid="seto" creationdate="20190409T074141Z">
         <seg>冷やす</seg>
       </tuv>
     </tu>
@@ -18324,16 +18324,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Decay</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T114548Z" creationid="setom" creationdate="20190401T114548Z">
-        <seg>減衰</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T074028Z" creationid="setom" creationdate="20190401T114548Z">
+        <seg>崩壊</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Decay Damage and Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134536Z" creationid="totochan" creationdate="20190403T134536Z">
-        <seg>崩壊ダメージと耐性[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T074050Z" creationid="totochan" creationdate="20190403T134536Z">
+        <seg>腐敗ダメージと耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -21317,8 +21317,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Frost Damage and Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T141902Z" creationid="totochan" creationdate="20190403T134047Z">
-        <seg>フロストへの耐性[E1V1]%</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T074110Z" creationid="totochan" creationdate="20190403T134047Z">
+        <seg>氷ダメージ&amp;耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
