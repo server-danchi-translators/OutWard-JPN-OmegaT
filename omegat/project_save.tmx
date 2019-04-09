@@ -26583,16 +26583,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your Cold and Hot Weather Defense by 8.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T065054Z" creationid="rkmad" creationdate="20190404T065054Z">
-        <seg>天候による低温と高温の耐性が8増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T033720Z" creationid="rkmad" creationdate="20190404T065054Z">
+        <seg>天候への賛同。天候による低温と高温の耐性が8増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your Decay Resistance by 20.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T033346Z" creationid="pugnus" creationdate="20190406T031733Z">
-        <seg>腐敗または減衰に対する抵抗が20増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T033553Z" creationid="pugnus" creationdate="20190406T031733Z">
+        <seg>浄化。腐敗または減衰に対する抵抗が20増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26631,8 +26631,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your Physical Protection by 4.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T065140Z" creationid="rkmad" creationdate="20190404T065113Z">
-        <seg>物理防御が4増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T033827Z" creationid="rkmad" creationdate="20190404T065113Z">
+        <seg>神聖な加護。物理防御が4増加する。</seg>
       </tuv>
     </tu>
     <tu>
