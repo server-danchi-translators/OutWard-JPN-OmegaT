@@ -24901,6 +24901,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I heard that the Chamberlords of the Blue Chamber collective are gathering in Berg for an important Council meeting!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T062219Z" creationid="pugnus" creationdate="20190409T062219Z">
+        <seg>青の議会が、重要な評議会のためにChamberlord達に召集をかけていると聞いたわよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hid it near the &lt;color=#00CCFF&gt;&lt;b&gt;old shipwreck&lt;/b&gt;&lt;/color&gt; to the South.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140727Z" creationid="Light" creationdate="20190407T051938Z">
@@ -29220,8 +29228,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’ll keep my ears open, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T061839Z" creationid="pugnus" creationdate="20190409T061839Z">
-        <seg>でも、情報は集めるようにしておくから、また来てね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T061952Z" creationid="pugnus" creationdate="20190409T061839Z">
+        <seg>情報は集めるようにしておくから、また来てね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36480,6 +36488,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T074858Z" creationid="weedssoul" creationdate="20190406T144121Z">
         <seg>生で食べると頭痛を引き起こす変なキノコ。しかし、体力の回復効果のある錬金薬の材料となる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People are coming all the way from the Sirocco region for this one!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T062333Z" creationid="pugnus" creationdate="20190409T062333Z">
+        <seg>人々はそのためにSirocco地方からはるばる来るの！</seg>
       </tuv>
     </tu>
     <tu>
