@@ -22507,6 +22507,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get the tablet translated by Soroborean Caravans found in any city or by Mofat in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103832Z" creationid="Light" creationdate="20190409T103832Z">
+        <seg>ソロボレアンの商人またはモンスーンのMofatによって翻訳されたタブレットを入手する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get to Old Levant, in the north-west of Abrassar.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T100247Z" creationid="Light" creationdate="20190409T100247Z">
@@ -32022,6 +32030,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T093702Z" creationid="Light" creationdate="20190409T093702Z">
         <seg>山の中心部、レイラインの小部屋でローランドと会う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meet with Oliele in the slums of Levant, in the southern part of the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103547Z" creationid="Light" creationdate="20190409T103547Z">
+        <seg>町の南部、レバントのスラム街でオリエルと会う</seg>
       </tuv>
     </tu>
     <tu>
@@ -49048,6 +49064,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103731Z" creationid="Light" creationdate="20190409T103731Z">
+        <seg>アブラサールの北西にある、Vigilの近くで、オールドレバントでオリエルと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Oliele in the Corrupted Tomb.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103017Z" creationid="Light" creationdate="20190409T103017Z">
@@ -49056,10 +49080,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Oliele in the Garden, with its towering dead tree, in the center of Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103703Z" creationid="Light" creationdate="20190409T103703Z">
+        <seg>そびえ立つ枯れ木で、アブラサールの中心部にある庭でオリエルと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Oliele in the village of Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
         <seg>Cierzoの村でOlieleと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Oliele inside the Stone Titan Caves, under the immense statues in the center of Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103804Z" creationid="Light" creationdate="20190409T103804Z">
+        <seg>アブラサールの中心にある巨大な彫像の下で、Stone Titan Cavesの中にいるオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -49868,6 +49908,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121504Z" creationid="Light" creationdate="20190407T121504Z">
         <seg>俺はそうする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That city is in the Abrassar desert, accessible by passing through the Enmerkar Forest first.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103641Z" creationid="Light" creationdate="20190409T103641Z">
+        <seg>その都市は、エンメルカルの森を通過した先のアブラサール砂漠にある</seg>
       </tuv>
     </tu>
     <tu>
