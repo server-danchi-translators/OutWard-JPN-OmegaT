@@ -15519,6 +15519,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convince Sagard Battleborn, in Berg’s inn, to make peace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094927Z" creationid="Light" creationdate="20190409T094927Z">
+        <seg>ベルクの宿屋にいるSagard Battlebornに平和にしてもらう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cook any raw meat and boil any water that isn't "clean" before eating.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074616Z" creationid="weedssoul" creationdate="20190406T074606Z">
@@ -20603,6 +20611,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Gabriella in the Necropolis under the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094819Z" creationid="Light" creationdate="20190409T094819Z">
+        <seg>青の議会の下のネクロポリスでガブリエラを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Game</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115103Z" creationid="setom" creationdate="20190401T115103Z">
@@ -20631,6 +20647,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094626Z" creationid="Light" creationdate="20190409T094626Z">
         <seg>青の議会の下のネクロポリスでローランドとガブリエラを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Roland in the Necropolis, now that the barrier has vanished.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094853Z" creationid="Light" creationdate="20190409T094853Z">
+        <seg>バリアが消えたので、ネクロポリスでローランドを見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -40741,6 +40765,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Return to Gabriella in Berg, and report that you’ve killed the green shell horror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094709Z" creationid="Light" creationdate="20190409T094709Z">
+        <seg>ベルクのガブリエラのもとへ行き、green shell horrorを倒したことを報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return to Levant’s blacksmith to collect your armor piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190331T142411Z" creationid="urakata" creationdate="20190331T092514Z">
@@ -48476,6 +48508,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T093309Z" creationid="Light" creationdate="20190404T133643Z">
         <seg>リッサと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Sagard Battleborn, in Berg’s inn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094746Z" creationid="Light" creationdate="20190409T094746Z">
+        <seg>ベルクの宿でSagard Battlebornと話す</seg>
       </tuv>
     </tu>
     <tu>
