@@ -10149,8 +10149,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>All runic spells are more powerful or have added effects.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T031122Z" creationid="pugnus" creationdate="20190409T031122Z">
-        <seg>ルーン文字の接頭語。すべてのルーン呪文はより強力になるか、効果が追加される。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T031359Z" creationid="pugnus" creationdate="20190409T031122Z">
+        <seg>ルーン文字の接頭語。すべてのルーン呪文はより強力になるか、効果が追加される。「にぎり」を「おにぎり」にすることで、美味さが際立つように...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19263,6 +19263,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111311Z" creationid="Gaiden Shinji" creationdate="20190404T111311Z">
         <seg>空の-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enables you to deploy the complex Pressure Plate Traps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T031239Z" creationid="pugnus" creationdate="20190409T031239Z">
+        <seg>圧力版の鍛錬。Enables you to deploy the complex Pressure Plate Traps.</seg>
       </tuv>
     </tu>
     <tu>
