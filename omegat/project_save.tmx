@@ -18635,6 +18635,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destroy the Corruption in Calixa’s soul.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105114Z" creationid="Light" creationdate="20190409T105114Z">
+        <seg>カリシアの魂の堕落を破壊する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy the ghosts.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102455Z" creationid="Light" creationdate="20190409T102455Z">
@@ -19479,6 +19487,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055740Z" creationid="Light" creationdate="20190409T055740Z">
         <seg>創造した平和を楽しむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enjoy the peace you helped to create.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105207Z" creationid="Light" creationdate="20190409T105207Z">
+        <seg>平和を満喫する</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,6 +20519,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T085110Z" creationid="setom" creationdate="20190402T085110Z">
         <seg>バックパックがあっても見つけたアイテムをすべて回収することはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eventually, you will truly die after being defeated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105249Z" creationid="Light" creationdate="20190409T105249Z">
+        <seg>最終的に、あなたは敗北した後に本当に死ぬ</seg>
       </tuv>
     </tu>
     <tu>
@@ -22631,6 +22655,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115129Z" creationid="Gaiden Shinji" creationdate="20190403T115129Z">
         <seg>ジャイアントの村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give Horror Chitin, a Tribal Favor or a Coralhorn Bow to Gabriella, in Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105319Z" creationid="Light" creationdate="20190409T105319Z">
+        <seg>ベルクで、ガブリエラにHorror Chitin、部族の好意、Coralhornの弓を贈る</seg>
       </tuv>
     </tu>
     <tu>
@@ -49095,6 +49127,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Cardinal Bourlamaque, in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105136Z" creationid="Light" creationdate="20190409T105136Z">
+        <seg>モンスーンで、ブラマク枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cardinal Bourlamaque, in Monsoon’s Temple, in the Hallowed Marsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T104340Z" creationid="Light" creationdate="20190409T104340Z">
@@ -51024,6 +51064,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025026Z" creationid="hiru4" creationdate="20190403T064651Z">
         <seg>授業料は{1}シルバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The temple in Enmerkar’s south-west contains horrors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105346Z" creationid="Light" creationdate="20190409T105346Z">
+        <seg>エンメルカルの南西部の寺院には脅威がいる</seg>
       </tuv>
     </tu>
     <tu>
@@ -56959,6 +57007,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T095045Z" creationid="はぐくみ会" creationdate="20190403T090339Z">
         <seg>私の身体と心は壊れた。あとは死による解放を待つだけだ...。 奇妙な紫色の気配が私の周りを旋回し、夢のような流れに乗り、星と幽霊のような人物が視界を流れていく。私は彼らに自分自身を委ねた...。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your body grows weak as time passes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T105225Z" creationid="Light" creationdate="20190409T105225Z">
+        <seg>あなたの体は時間が経つにつれて弱くなる</seg>
       </tuv>
     </tu>
     <tu>
