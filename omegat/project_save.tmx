@@ -20651,6 +20651,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Cyrene and Yzan in the north of Abrassar, where “the boats used to be tied, high and dry.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101351Z" creationid="Light" creationdate="20190409T101351Z">
+        <seg>アブラサール砂漠の北にいるキュレネとイザンを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Gabriella in the Necropolis under the Blue Chamber.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094819Z" creationid="Light" creationdate="20190409T094819Z">
@@ -36780,6 +36788,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pay 300 silver to the Soroborean Caravanner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101203Z" creationid="Light" creationdate="20190409T101203Z">
+        <seg>ソロボレアンの商人に300銀貨を支払う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pay attention to what your body tells you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T061700Z">
@@ -40241,6 +40257,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T100348Z" creationid="Light" creationdate="20190409T100348Z">
         <seg>キュレネに報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Report to Queen Calixa, in the Palace in Levant, in Abrassar Desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101236Z" creationid="Light" creationdate="20190409T101236Z">
+        <seg>アブラサル砂漠にあるレバントの宮殿でカリシア女王に報告する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48720,6 +48744,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Queen Calixa, in Levant’s Palace, in the Abrassar desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101319Z" creationid="Light" creationdate="20190409T101319Z">
+        <seg>アブラサル砂漠のレヴァント宮殿にいるカリシア女王と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Queen Calixa, in Levant’s palace, and commit to the faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T042934Z" creationid="urakata" creationdate="20190407T042934Z">
@@ -49829,6 +49861,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135143Z" creationid="weedssoul" creationdate="20190406T030007Z">
         <seg>鎧や武器の積み荷も？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The artifact is inside the Spire, in the Marsh’s south-east.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T101136Z" creationid="Light" creationdate="20190409T101136Z">
+        <seg>アーティファクトは聖なる沼の南東にある尖塔の内側にある。</seg>
       </tuv>
     </tu>
     <tu>
