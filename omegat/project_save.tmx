@@ -30106,6 +30106,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill the mercenaries inside the outpost in the burnt forest, in the south of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095910Z" creationid="Light" creationdate="20190409T095910Z">
+        <seg>エンメルカル南部の焼けた森の前哨基地の中にいる傭兵を倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kind as ever, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135715Z" creationid="weedssoul" creationdate="20190406T030618Z">
@@ -40141,6 +40149,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Report to those in the Blue Chamber about the bomb you stopped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095609Z" creationid="Light" creationdate="20190409T095609Z">
+        <seg>爆弾について議会の人々に報告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reptilian Lair</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115135Z" creationid="Gaiden Shinji" creationdate="20190403T115135Z">
@@ -40489,6 +40505,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T035929Z" creationid="Horizon" creationdate="20190403T133926Z">
         <seg>Rage Boonの発動が必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescue Kirouac from the outpost in the burnt forest in the south of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095820Z" creationid="Light" creationdate="20190409T095820Z">
+        <seg>エンメルカル南部の焼けた森の前哨基地からKirouacを救助する</seg>
       </tuv>
     </tu>
     <tu>
@@ -43917,6 +43941,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search the Necropolis under the Blue Chamber for clues or ask around for information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095651Z" creationid="Light" creationdate="20190409T095651Z">
+        <seg>手がかりを得るためにブルーチャンバーの下にあるネクロポリスを探索するか、情報を求めて人々に尋ねる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search the tomb and caves under the Blue Chamber for clues about your attackers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095725Z" creationid="Light" creationdate="20190409T095725Z">
+        <seg>攻撃者についての手がかりのために議会の下の墓と洞窟を捜す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Seaweed</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114007Z" creationid="Gaiden Shinji" creationdate="20190403T114007Z">
@@ -45042,6 +45082,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101504Z" creationid="pugnus" creationdate="20190404T045106Z">
         <seg>レバントのスラム街の誰かが、私を見つけて救出してくれたのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Someone in the city might know something too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095750Z" creationid="Light" creationdate="20190409T095750Z">
+        <seg>町の誰かが何かを知っているかもしれない</seg>
       </tuv>
     </tu>
     <tu>
