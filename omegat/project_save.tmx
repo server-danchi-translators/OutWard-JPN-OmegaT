@@ -12670,6 +12670,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burn Greasy Fern at the altar on the hill just west of the Marsh’s Vigil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102541Z" creationid="Light" creationdate="20190409T102541Z">
+        <seg>マーシュのVigilのすぐ西の丘の上の祭壇でGreasy Fernを燃やす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burn a Greasy Fern at each of the 2 altars inside the Necropolis.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094530Z" creationid="Light" creationdate="20190409T094530Z">
@@ -18595,6 +18603,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Destroy the ghosts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102455Z" creationid="Light" creationdate="20190409T102455Z">
+        <seg>幽霊を破壊する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Device that must be armed with a compatible item, then triggered by an enemy.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T141937Z" creationid="weedssoul" creationdate="20190406T141937Z">
@@ -20735,6 +20751,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094501Z" creationid="Light" creationdate="20190409T094501Z">
         <seg>ベルクの宿でJuliusを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Oliele inside the Corrupted Tomb.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102431Z" creationid="Light" creationdate="20190409T102431Z">
+        <seg>腐敗した墓の中でオリエルを見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -33018,6 +33042,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Move away from the altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102448Z" creationid="Light" creationdate="20190409T102448Z">
+        <seg>祭壇から離れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move to Bag</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063009Z" creationid="hiru4" creationdate="20190403T063009Z">
@@ -42933,6 +42965,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sacrifice some of your stamina on the altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102411Z" creationid="Light" creationdate="20190409T102411Z">
+        <seg>自分のスタミナの一部を祭壇に生け贄に捧げる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safe Zone</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024329Z" creationid="hiru4" creationdate="20190402T024329Z">
@@ -48494,6 +48534,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such plants can be found not far from the altar, or bought.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102624Z" creationid="Light" creationdate="20190409T102624Z">
+        <seg>その植物は祭壇の近くで見つけるか、買うことができる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Suddenly, a blast of light fills the room, and you see Oliele’s blade cut through your attackers.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102824Z" creationid="pugnus" creationdate="20190406T004248Z">
@@ -48839,6 +48887,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Ellinara, in the city of Monsoon, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102347Z" creationid="Light" creationdate="20190409T102347Z">
+        <seg>聖なる沼のモンスーンにあるエリナラと会話する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Gabriella, in the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T093921Z" creationid="Light" creationdate="20190409T093921Z">
@@ -48892,6 +48948,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
         <seg>Cierzoの村でOlieleと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102512Z" creationid="Light" creationdate="20190409T102512Z">
+        <seg>オリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
