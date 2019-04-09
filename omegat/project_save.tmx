@@ -39703,56 +39703,56 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Axe Low blow that reduces the target's mobility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035715Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-HandedAxe 目標の機動力を低下させる攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040209Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Axe 目標の機動力を低下させる攻撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035508Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-HandedBludgeon 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040108Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:1-Handed Bludgeon 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Sword Close combat attack which deals high Damage and Impact, and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035543Z" creationid="rkmad" creationdate="20190403T074144Z">
-        <seg>必要:1-HandedSword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040120Z" creationid="rkmad" creationdate="20190403T074144Z">
+        <seg>必要:1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Axe High Damage and Impact strike that deals twice its Damage against knocked down foes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035602Z" creationid="rkmad" creationdate="20190404T060052Z">
-        <seg>必要:2-HandedAxe 高いダメージと衝撃を与える両手斧の一撃。 相手がノックダウンしている場合、2倍のダメージを与えることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040126Z" creationid="rkmad" creationdate="20190404T060052Z">
+        <seg>必要:2-Handed Axe 高いダメージと衝撃を与える両手斧の一撃。 相手がノックダウンしている場合、2倍のダメージを与えることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035608Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-HandedBludgeon 速度は無いが、混乱を与える強力な攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040131Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Bludgeon 速度は無いが、混乱を与える強力な攻撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035655Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-HandedSword 両手剣の柄頭を使った、強い衝撃を与えるカウンター攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040157Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:2-Handed Sword 両手剣の柄頭を使った、強い衝撃を与えるカウンター攻撃。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Activated Wind Altar Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035807Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:ActivatedWindAltar地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040310Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Activated Wind Altar 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39775,16 +39775,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035637Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:DisciplineBoonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040147Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Discipline Boonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035533Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:DisciplineBoonの発動と、近接武器。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040113Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Discipline Boonの発動と、近接武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39823,24 +39823,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon Launch the disc forward, possibly hitting the enemy twice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035412Z" creationid="pugnus" creationdate="20190406T024414Z">
-        <seg>必要:DisciplineBoonの発動とChakram 円盤は前に進み、前方の敵に最大２回攻撃をする。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040043Z" creationid="pugnus" creationdate="20190406T024414Z">
+        <seg>必要:Discipline Boonの発動とChakram 円盤は前に進み、前方の敵に最大２回攻撃をする。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon The disc sways left and right as it advances, hitting multiple times and dealing high damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035439Z" creationid="pugnus" creationdate="20190406T030414Z">
-        <seg>必要:DisciplineBoonの発動とChakram 円盤は前方の空間を左右に踊りながら一掃する。 その空間にいる敵に高いダメージと衝撃を与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040050Z" creationid="pugnus" creationdate="20190406T030414Z">
+        <seg>必要:Discipline Boonの発動とChakram 円盤は前方の空間を左右に踊りながら一掃する。 その空間にいる敵に高いダメージと衝撃を与える。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon The disc sweeps the area in front of the caster, dealing high Damage and Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035449Z" creationid="pugnus" creationdate="20190406T033631Z">
-        <seg>必要:DisciplineBoonの発動とChakram 円盤は前方の空間を一掃し、高いダメージと衝撃を与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040057Z" creationid="pugnus" creationdate="20190406T033631Z">
+        <seg>必要:Discipline Boonの発動とChakram 円盤は前方の空間を一掃し、高いダメージと衝撃を与える。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -39911,40 +39911,40 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Blue rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035317Z" creationid="pugnus" creationdate="20190406T024002Z">
-        <seg>必要:LexiconBlueRune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040020Z" creationid="pugnus" creationdate="20190406T024002Z">
+        <seg>必要:Lexicon Blue Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Green rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035401Z" creationid="pugnus" creationdate="20190406T024346Z">
-        <seg>必要:LexiconGreenRune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040038Z" creationid="pugnus" creationdate="20190406T024346Z">
+        <seg>必要:Lexicon Green Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Purple rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035347Z" creationid="pugnus" creationdate="20190406T024238Z">
-        <seg>必要:LexiconPurpleRune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040032Z" creationid="pugnus" creationdate="20190406T024238Z">
+        <seg>必要:Lexicon Purple Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Red rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035331Z" creationid="pugnus" creationdate="20190406T024200Z">
-        <seg>必要:LexiconRedRune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040027Z" creationid="pugnus" creationdate="20190406T024200Z">
+        <seg>必要:Lexicon Red Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Melee Weapon, Rage Boon Attack twice, consuming your Rage boon in the process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035707Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:RageBoonの発動と、近接武器 レイジブーンを消費して2回の攻撃をする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T040202Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要:Rage Boonの発動と、近接武器 レイジブーンを消費して2回の攻撃をする。</seg>
       </tuv>
     </tu>
     <tu>
