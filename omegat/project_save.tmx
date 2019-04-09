@@ -49718,8 +49718,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The ones that protect us from the Scourge?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T063603Z" creationid="taman" creationdate="20190409T062030Z">
-        <seg>スカージから私たちを守ってくれていると聞きましたが？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190409T063907Z" creationid="taman" creationdate="20190409T062030Z">
+        <seg>私たちをスカージから守ってくれていると聞きましたが？</seg>
       </tuv>
     </tu>
     <tu>
@@ -50136,6 +50136,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170802Z" creationid="setom" creationdate="20190402T170525Z">
         <seg>それでもまだ食い足りねぇならそこらへんに生えてるGaberryも食っとけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's one not far from Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T064303Z" creationid="taman" creationdate="20190409T064303Z">
+        <seg>モンスーンのすぐ近くにも1つあります。There's one not far from Monsoon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54093,6 +54101,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172512Z" creationid="magur0w" creationdate="20190404T171724Z">
         <seg>あぁ、すぐに会えるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, exactly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T063622Z" creationid="taman" creationdate="20190409T063622Z">
+        <seg>そのとおりです。</seg>
       </tuv>
     </tu>
     <tu>
