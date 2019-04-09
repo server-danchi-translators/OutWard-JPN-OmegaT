@@ -10563,6 +10563,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And what did you see?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T072702Z" creationid="taman" creationdate="20190409T072702Z">
+        <seg>それで何を見ましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And what do Champions do?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084723Z" creationid="rkmad" creationdate="20190408T084723Z">
@@ -24445,6 +24453,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I burnt Greasy Fern at the Vigil's altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T072212Z" creationid="taman" creationdate="20190409T072212Z">
+        <seg>Vigilの祭壇でGreasy Fernを燃やしてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can craft equipment from Hackmanite or Tsar Stones you bring me.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T030609Z" creationid="pugnus" creationdate="20190408T023836Z">
@@ -26273,6 +26289,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113827Z" creationid="Mad" creationdate="20190406T113827Z">
         <seg>もしあなたが私と同行するというのなら&lt;color=#00CCFF&gt;&lt;b&gt;モンスーンにある聖なる沼地&lt;/b&gt;&lt;/color&gt;で合流しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you don't have any Greasy Fern with you, the alchemist should have some for sale.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T072018Z" creationid="taman" creationdate="20190409T072018Z">
+        <seg>Greasy Fernがなければ錬金術師が売っているので買うとよいでしょう</seg>
       </tuv>
     </tu>
     <tu>
@@ -54141,6 +54165,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172512Z" creationid="magur0w" creationdate="20190404T171724Z">
         <seg>あぁ、すぐに会えるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T072121Z" creationid="taman" creationdate="20190409T072121Z">
+        <seg>どうしました、[PlayerName]？</seg>
       </tuv>
     </tu>
     <tu>
