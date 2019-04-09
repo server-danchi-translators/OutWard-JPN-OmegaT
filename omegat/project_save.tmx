@@ -16913,8 +16913,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Curse that lowers your Ethereal Resistance by 15.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033322Z" creationid="rkmad" creationdate="20190404T063017Z">
-        <seg>悪霊の繊細さ。エーテル耐性を15減少させる呪い。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095909Z" creationid="rkmad" creationdate="20190404T063017Z">
+        <seg>エーテル耐性を15減少させる呪い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18324,8 +18324,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Decay</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T074028Z" creationid="setom" creationdate="20190401T114548Z">
-        <seg>崩壊</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095741Z" creationid="setom" creationdate="20190401T114548Z">
+        <seg>腐敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -18356,16 +18356,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Decreases your maximum Stamina by 15.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033525Z" creationid="rkmad" creationdate="20190404T063132Z">
-        <seg>凄惨な生贄。最大スタミナが15減少する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095920Z" creationid="rkmad" creationdate="20190404T063132Z">
+        <seg>最大スタミナが15減少する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Decreases your maximum Stamina by 7.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033351Z" creationid="rkmad" creationdate="20190404T063043Z">
-        <seg>生贄。最大スタミナが7減少する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095917Z" creationid="rkmad" creationdate="20190404T063043Z">
+        <seg>最大スタミナが7減少する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,8 +18933,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Double all the Damage you deal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T034653Z" creationid="rkmad" creationdate="20190404T065506Z">
-        <seg>崇高な精神。あなたのすべての攻撃によるダメージが2倍になる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100017Z" creationid="rkmad" creationdate="20190404T065506Z">
+        <seg>あなたのすべての攻撃によるダメージが2倍になる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22981,8 +22981,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Grants the Possessed boon, which increases your Decay Damage and Decay Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T033228Z" creationid="pugnus" creationdate="20190406T032255Z">
-        <seg>Possessed boonを付与する。腐敗または減衰によるダメージと抵抗を増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095820Z" creationid="pugnus" creationdate="20190406T032255Z">
+        <seg>Possessed boonを付与する。腐敗によるダメージと抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26887,16 +26887,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases all Damage you deal by 15%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T034511Z" creationid="rkmad" creationdate="20190404T065405Z">
-        <seg>錬金術の実験。あなたのすべての攻撃によるダメージが15%増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100013Z" creationid="rkmad" creationdate="20190404T065405Z">
+        <seg>あなたのすべての攻撃によるダメージが15%増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases the Etheral, Lightning and Decay damage you deal by 10%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033210Z" creationid="rkmad" creationdate="20190404T062935Z">
-        <seg>霊的交感。あなたが与えるエーテル、稲妻、Decayのダメージが10％増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095848Z" creationid="rkmad" creationdate="20190404T062935Z">
+        <seg>あなたが与えるエーテル、稲妻、Decayのダメージが10％増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26911,24 +26911,24 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your Cold and Hot Weather Defense by 8.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T042419Z" creationid="rkmad" creationdate="20190404T065054Z">
-        <seg>天候への賛同またはあきらめ。天候による低温と高温の耐性が8増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095942Z" creationid="rkmad" creationdate="20190404T065054Z">
+        <seg>天候による低温と高温の耐性が8増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your Decay Resistance by 20.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T042445Z" creationid="pugnus" creationdate="20190406T031733Z">
-        <seg>浄化のコツ。腐敗または減衰に対する抵抗が20増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095923Z" creationid="pugnus" creationdate="20190406T031733Z">
+        <seg>腐敗に対する抵抗が20増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your Decay Resistance by 5.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T020228Z" creationid="pugnus" creationdate="20190409T020228Z">
-        <seg>腐敗または減衰に対する抵抗が5増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095816Z" creationid="pugnus" creationdate="20190409T020228Z">
+        <seg>腐敗に対する抵抗が5増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26951,16 +26951,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your Physical Protection by 2.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T043140Z" creationid="rkmad" creationdate="20190404T065156Z">
-        <seg>清められた、または信心ぶった保護。物理防御が2増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095951Z" creationid="rkmad" creationdate="20190404T065156Z">
+        <seg>物理防御が2増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your Physical Protection by 4.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033827Z" creationid="rkmad" creationdate="20190404T065113Z">
-        <seg>神聖な加護。物理防御が4増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095946Z" creationid="rkmad" creationdate="20190404T065113Z">
+        <seg>物理防御が4増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26975,8 +26975,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Health by 40.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T034235Z" creationid="rkmad" creationdate="20190404T065321Z">
-        <seg>巨人の血。生存者の生き延びる力。体力の最大値が40増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100007Z" creationid="rkmad" creationdate="20190404T065321Z">
+        <seg>生存者の生き延びる力。体力の最大値が40増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26991,16 +26991,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Increases your maximum Health, Stamina and Mana by 20.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T034150Z" creationid="rkmad" creationdate="20190404T065308Z">
-        <seg>調停者の錬金薬。体力、スタミナ、マナの最大値が20増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100004Z" creationid="rkmad" creationdate="20190404T065308Z">
+        <seg>体力、スタミナ、マナの最大値が20増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Increases your maximum Mana by 25.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T034405Z" creationid="rkmad" creationdate="20190404T065334Z">
-        <seg>先祖の記憶。マナの最大値が25増加する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100010Z" creationid="rkmad" creationdate="20190404T065334Z">
+        <seg>マナの最大値が25増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39942,16 +39942,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Reduces the Stamina and Mana costs of your actions by 10%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T033952Z" creationid="rkmad" creationdate="20190404T065222Z">
-        <seg>神聖な援助。行動時、消費スタミナと消費マナが10%減少する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T095954Z" creationid="rkmad" creationdate="20190404T065222Z">
+        <seg>行動時、消費スタミナと消費マナが10%減少する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Reduces the Stamina and Mana costs of your actions by 5%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T043136Z" creationid="rkmad" creationdate="20190404T065239Z">
-        <seg>清められた、または信心ぶった援助。行動時、消費スタミナと消費マナが5%減少する。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T100001Z" creationid="rkmad" creationdate="20190404T065239Z">
+        <seg>行動時、消費スタミナと消費マナが5%減少する。</seg>
       </tuv>
     </tu>
     <tu>
