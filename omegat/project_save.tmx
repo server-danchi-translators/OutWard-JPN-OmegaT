@@ -34844,6 +34844,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, you’re looking for Jager Sullivan too?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T045429Z" creationid="pugnus" creationdate="20190409T045429Z">
+        <seg>あぁ、君もJager Sullivanを探しているのか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141101Z" creationid="weedssoul" creationdate="20190406T113617Z">
