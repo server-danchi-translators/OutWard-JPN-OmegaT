@@ -26525,6 +26525,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increases your Decay Resistance by 5.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T020228Z" creationid="pugnus" creationdate="20190409T020228Z">
+        <seg>腐敗または減衰に対する抵抗が5増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases your Hot and Cold Weather Defense by 8.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T020107Z" creationid="pugnus" creationdate="20190409T020107Z">
@@ -53035,6 +53043,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084221Z" creationid="pugnus" creationdate="20190406T083435Z">
         <seg>何故、Levantの上層部は攻撃を命じなかったのか？私は疑問に思うが、他のChamberlord達は同意しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While under the effect of the Discipline boon, Impact Resistance and all damage resistances are increased by 15.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T020617Z" creationid="pugnus" creationdate="20190409T020617Z">
+        <seg>Discipline Boonを発動する。規律の恵みを受けるものは衝撃耐性及び、すべてのダメージへの抵抗をが15増加する。</seg>
       </tuv>
     </tu>
     <tu>
