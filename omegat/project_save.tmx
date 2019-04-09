@@ -44614,6 +44614,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sprinting consumes 40% less stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T015935Z" creationid="pugnus" creationdate="20190409T015935Z">
+        <seg>全力疾走時のスタミナ消費を低減し、40%で済ませる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
