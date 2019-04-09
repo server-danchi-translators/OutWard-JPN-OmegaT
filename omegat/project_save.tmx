@@ -25221,6 +25221,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found a clue in the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105840Z" creationid="seto" creationdate="20190409T105840Z">
+        <seg>I found a clue in the slums.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found his body.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T184333Z" creationid="magur0w" creationdate="20190404T183429Z">
@@ -25895,8 +25903,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I should check in the small hive prison south of Abrassar, if I haven’t done so already.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T054658Z" creationid="Light" creationdate="20190409T054658Z">
-        <seg>まだ行っていないのであれば、アブラサールの南にある小さな巣箱をチェックする</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105905Z" creationid="Light" creationdate="20190409T054658Z">
+        <seg>まだ行っていなければ、アブラサールの南にある小さな巣箱をチェックする</seg>
       </tuv>
     </tu>
     <tu>
@@ -33698,6 +33706,54 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105839Z" creationid="seto" creationdate="20190409T105839Z">
+        <seg>Neut_BloodUnderSun_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105839Z" creationid="seto" creationdate="20190409T105839Z">
+        <seg>Neut_BloodUnderSun_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105841Z" creationid="seto" creationdate="20190409T105841Z">
+        <seg>Neut_BloodUnderSun_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105842Z" creationid="seto" creationdate="20190409T105842Z">
+        <seg>Neut_BloodUnderSun_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105843Z" creationid="seto" creationdate="20190409T105843Z">
+        <seg>Neut_BloodUnderSun_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_BloodUnderSun_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105843Z" creationid="seto" creationdate="20190409T105843Z">
+        <seg>Neut_BloodUnderSun_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Neut_Call-to_Adv_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025643Z" creationid="seto" creationdate="20190407T025643Z">
@@ -33870,6 +33926,110 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T131405Z" creationid="urakata" creationdate="20190408T131405Z">
         <seg>Neut_Purifier_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105827Z" creationid="seto" creationdate="20190409T105827Z">
+        <seg>Neut_Purifier_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105828Z" creationid="seto" creationdate="20190409T105828Z">
+        <seg>Neut_Purifier_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105829Z" creationid="seto" creationdate="20190409T105829Z">
+        <seg>Neut_Purifier_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105830Z" creationid="seto" creationdate="20190409T105830Z">
+        <seg>Neut_Purifier_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105832Z" creationid="seto" creationdate="20190409T105832Z">
+        <seg>Neut_Purifier_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105834Z" creationid="seto" creationdate="20190409T105834Z">
+        <seg>Neut_Purifier_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105834Z" creationid="seto" creationdate="20190409T105834Z">
+        <seg>Neut_Purifier_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105835Z" creationid="seto" creationdate="20190409T105835Z">
+        <seg>Neut_Purifier_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105836Z" creationid="seto" creationdate="20190409T105836Z">
+        <seg>Neut_Purifier_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105836Z" creationid="seto" creationdate="20190409T105836Z">
+        <seg>Neut_Purifier_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105837Z" creationid="seto" creationdate="20190409T105837Z">
+        <seg>Neut_Purifier_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105837Z" creationid="seto" creationdate="20190409T105837Z">
+        <seg>Neut_Purifier_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Neut_Purifier_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190409T105838Z" creationid="seto" creationdate="20190409T105838Z">
+        <seg>Neut_Purifier_19</seg>
       </tuv>
     </tu>
     <tu>
