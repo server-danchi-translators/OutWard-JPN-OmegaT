@@ -48343,6 +48343,15 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Gabriella, in the city of Berg, inside the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093921Z" creationid="Light" creationdate="20190409T093921Z">
+        <seg>67/5000
+エンメルカルの森のベルクでガブリエラと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Gold Belly, the Ash Giant.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T060814Z" creationid="Light" creationdate="20190409T060814Z">
@@ -49943,6 +49952,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025026Z" creationid="hiru4" creationdate="20190403T064651Z">
         <seg>授業料は{1}シルバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The tides only allow access to the cave at night.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093826Z" creationid="Light" creationdate="20190409T093826Z">
+        <seg>潮汐の影響で夜間のみ洞窟へアクセスできる</seg>
       </tuv>
     </tu>
     <tu>
@@ -56500,6 +56517,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Optional] Find a smith in Berg to make a trinket for Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T094040Z" creationid="Light" creationdate="20190409T094040Z">
+        <seg>[Optional]ローランドの装具を作るためにベルクで鍛冶屋を見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T133820Z" creationid="Light" creationdate="20190404T133754Z">
@@ -56544,6 +56569,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054515Z" creationid="Light" creationdate="20190409T054433Z">
         <seg>[Optional]モンスーンでロックウェルに証拠を提示する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Talk to Roland, in Berg, about focusing his magical power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T093959Z" creationid="Light" creationdate="20190409T093959Z">
+        <seg>[Optional]魔法の力を集中させることについて、ベルクでローランドと話す</seg>
       </tuv>
     </tu>
     <tu>
