@@ -15527,6 +15527,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Convince the Ash Giants in their village, in the Hallowed Marsh’s north-east, to make peace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095243Z" creationid="Light" creationdate="20190409T095243Z">
+        <seg>平和を築くために、聖なる沼の北東にある巨人の村で灰の巨人たちを説得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Convince the Montcalm tribe, found inside the wooden fort in the Chersonese’s north, to make peace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095200Z" creationid="Light" creationdate="20190409T095200Z">
+        <seg>チェルソネス北部の砦にいるモントカームの部族に平和をもたらすよう説得する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cook any raw meat and boil any water that isn't "clean" before eating.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074616Z" creationid="weedssoul" creationdate="20190406T074606Z">
@@ -22511,6 +22527,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054302Z" creationid="Light" creationdate="20190409T054302Z">
         <seg>エンメルカルの森のベルクに行き、権威のある誰かに警告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the temple in Monsoon, in the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095019Z" creationid="Light" creationdate="20190409T095019Z">
+        <seg>聖なる沼にあるモンスーンの寺院に行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -39468,6 +39492,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protect Monsoon from the invading Scourge Beasts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095048Z" creationid="Light" creationdate="20190409T095048Z">
+        <seg>侵略するScourge Beastsからモンスーンを守る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protection</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020802Z" creationid="hiru4" creationdate="20190402T020802Z">
@@ -48468,6 +48500,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T033449Z" creationid="urakata" creationdate="20190407T033449Z">
         <seg>BergのRissaと話して仲間になる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Rissa in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T095123Z" creationid="Light" creationdate="20190409T095123Z">
+        <seg>モンスーンのリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
