@@ -24957,6 +24957,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope they find the ones behind it and make them pay!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063307Z" creationid="pugnus" creationdate="20190409T063307Z">
+        <seg>私は事件の犯人が見つかり、犯人に償わせることを望むわ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hope those fiends are brought to justice!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T062850Z" creationid="pugnus" creationdate="20190409T062850Z">
@@ -28097,6 +28105,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073435Z" creationid="weedssoul" creationdate="20190406T073435Z">
         <seg>50銀貨でどうだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it true that there was an attempted bomb attack on the Blue Chamber?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063014Z" creationid="pugnus" creationdate="20190409T063014Z">
+        <seg>青の議会が爆弾の攻撃にさらされたというのは本当ですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -50536,6 +50552,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090524Z" creationid="rkmad" creationdate="20190405T090524Z">
         <seg>教訓として受け入れなさい、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is terrible news!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T063113Z" creationid="pugnus" creationdate="20190409T063113Z">
+        <seg>これは、ひどく恐ろしい情報です！</seg>
       </tuv>
     </tu>
     <tu>
