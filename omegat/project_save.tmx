@@ -20637,8 +20637,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Find the bandit hideout on spiraling cliffs, in the Hallowed Marsh's west.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T054130Z" creationid="Light" creationdate="20190409T054130Z">
-        <seg>聖なる沼の西にある、渦巻く崖の上の盗賊の隠れ家を探す</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054622Z" creationid="Light" creationdate="20190409T054130Z">
+        <seg>聖なる沼の西にある渦巻く崖の上の盗賊の隠れ家を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the priest who fled into the desert, in Abrassar’s south-west.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054507Z" creationid="Light" creationdate="20190409T054507Z">
+        <seg>アブラサールの南西で砂漠に逃げ込んだ司祭を探し出す</seg>
       </tuv>
     </tu>
     <tu>
@@ -56037,6 +56045,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[Optional] Confront Jager Sullivan in the City of Berg, in the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054403Z" creationid="Light" creationdate="20190409T054403Z">
+        <seg>[Optional]エンメルカルの森にあるベルクのJager Sullivanに立ち向かう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[Optional] Destroy Myriade to open the magic seal by force.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131531Z" creationid="urakata" creationdate="20190406T131531Z">
@@ -56065,6 +56081,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T133241Z" creationid="urakata" creationdate="20190406T133241Z">
         <seg>[Optional]Red Ladyの像に小像を供える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Present the evidence to Lockwell, in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054515Z" creationid="Light" creationdate="20190409T054433Z">
+        <seg>[Optional]モンスーンでロックウェルに証拠を提示する</seg>
       </tuv>
     </tu>
     <tu>
