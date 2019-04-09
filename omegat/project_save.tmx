@@ -26295,8 +26295,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If you don't have any Greasy Fern with you, the alchemist should have some for sale.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T072018Z" creationid="taman" creationdate="20190409T072018Z">
-        <seg>Greasy Fernがなければ錬金術師が売っているので買うとよいでしょう</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190409T072850Z" creationid="taman" creationdate="20190409T072018Z">
+        <seg>Greasy Fernがなければ錬金術師が売っているので買うとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45066,6 +45066,13 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115202Z" creationid="Gaiden Shinji" creationdate="20190403T115202Z">
         <seg>光の尖塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Spiritsは魂や、精霊など複数の候補があるがここでは仮に魂としておく。
+後ほど、文脈から変更が必要と感じた場合は修正対象となる。</note>
+      <tuv lang="EN-US">
+        <seg>Spirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
       </tuv>
     </tu>
     <tu>
