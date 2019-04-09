@@ -67,7 +67,6 @@ Tsar Stone	ツァーリの宝玉	ItemID6200010
 Hackmanite	ハックマナイト	ItemID6200130
 Palladium	パラジウム	ItemID6400070
 Necropolis	ネクロポリス	古代の共同墓地を指したり、単にゴーストタウンを指す場合もある
-impact	打撃	衝撃とかでもありかもしれないが...
 dodge	ドッジロール	前転するのでロールを入れたほうがわかりやすいかと
 Roland	ローランド	イザンの兄弟、若くみえるので弟か？
 Campfire Kit	キャンプファイヤーキット
@@ -105,3 +104,4 @@ Ash Giant	灰の巨人
 Gold Belly	ゴールドベリー	灰の巨人の一人？
 Gabriella	ガブリエラ
 Decay	腐敗	ひとまず腐敗で統一。
+impact	衝撃	攻撃時に相手の安定性ゲージを削る
