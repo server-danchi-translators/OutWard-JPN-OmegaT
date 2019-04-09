@@ -20555,6 +20555,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find a clue in the Levant’s slums, in Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054908Z" creationid="Light" creationdate="20190409T054908Z">
+        <seg>アブラサールにあるレバントのスラム街で手がかりを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find a clue inside a wooden outpost in the burnt forest, in Enmerkar’s south.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054806Z" creationid="Light" creationdate="20190409T054806Z">
+        <seg>エンメルカルの南にある、燃やされた森の中の木造の前哨基地の中で手がかりを探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find a leg, which is close to water.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131427Z" creationid="urakata" creationdate="20190406T131427Z">
@@ -25241,6 +25257,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094143Z" creationid="rkmad" creationdate="20190405T094143Z">
         <seg>あなたには伝えておくべきでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I should check in the small hive prison south of Abrassar, if I haven’t done so already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T054658Z" creationid="Light" creationdate="20190409T054658Z">
+        <seg>まだ行っていないのであれば、アブラサールの南にある小さな巣箱をチェックする</seg>
       </tuv>
     </tu>
     <tu>
@@ -48020,6 +48044,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T032940Z" creationid="urakata" creationdate="20190407T032940Z">
         <seg>Monsoonの寺院にいるBourlamaque枢機卿と話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Cyrene, in the city of Levant, in the Abrassar desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055112Z" creationid="Light" creationdate="20190409T055112Z">
+        <seg>アブラサール砂漠のレバントでキュレネと話す</seg>
       </tuv>
     </tu>
     <tu>
