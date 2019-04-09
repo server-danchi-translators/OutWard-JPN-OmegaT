@@ -54824,6 +54824,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You repair your equipment 50% faster when you allocate time to Repairing in the rest menu.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T024845Z" creationid="pugnus" creationdate="20190409T024845Z">
+        <seg>迅速な整備。装備を修理するための時間が50%軽減される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You scramble to protect yourself from the ambush!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T104309Z" creationid="pugnus" creationdate="20190404T094243Z">
