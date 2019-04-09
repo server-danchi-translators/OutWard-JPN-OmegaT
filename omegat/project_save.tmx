@@ -26485,6 +26485,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase your resistance to Fire by 20 and the Fire damage you inflict is increased by 15%</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T021405Z" creationid="pugnus" creationdate="20190409T021405Z">
+        <seg>炎への親しみ。火に対する抵抗力を20増加させ、あなたが与える火属性のダメージを15％増加させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Increases Impact Resistance by 15 while your are blocking.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T113802Z">
@@ -28221,6 +28229,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132620Z">
         <seg>これを飲んでから、風邪を完全に回復するのには数時間かかる。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It takes more time for you to become hungry, thirsty and sleepy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190409T020923Z" creationid="pugnus" creationdate="20190409T020923Z">
+        <seg>緩やかな代謝。空腹度、喉の渇き、睡眠欲求の進みを緩やかにする。</seg>
       </tuv>
     </tu>
     <tu>
