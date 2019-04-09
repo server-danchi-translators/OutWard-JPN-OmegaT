@@ -20947,6 +20947,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find that source and disable it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102804Z" creationid="Light" creationdate="20190409T102804Z">
+        <seg>その原因を見つけて無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find the Corrupted Tomb, in the valley beyond the Ghost Pass dungeon, in the Chersonese’s north-east.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102720Z" creationid="Light" creationdate="20190409T102720Z">
+        <seg>チェルソネス北東にあるゴーストパスダンジョンの向こうの渓谷で、壊れた墓を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find the bandit hideout on spiraling cliffs, in the Hallowed Marsh's west.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054622Z" creationid="Light" creationdate="20190409T054130Z">
@@ -22615,6 +22631,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121443Z" creationid="Light" creationdate="20190407T121443Z">
         <seg>夢を追いかけて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go in the altar in the Corrupted Tomb, now that the barrier is down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102903Z" creationid="Light" creationdate="20190409T102903Z">
+        <seg>腐敗した墓の祭壇の中に行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -36108,6 +36132,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Open the barrier by helping Myriade find his bones or by smashing his skull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102845Z" creationid="Light" creationdate="20190409T102845Z">
+        <seg>Myriadeが骨を見つけるのを手伝うか、頭蓋骨を粉砕することによってバリアを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open up, this drink will help you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T134755Z">
@@ -48887,6 +48919,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Ellinara, in Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102651Z" creationid="Light" creationdate="20190409T102651Z">
+        <seg>モンスーンのエリナラと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Ellinara, in the city of Monsoon, in the Hallowed Marsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102347Z" creationid="Light" creationdate="20190409T102347Z">
@@ -51264,6 +51304,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T220015Z" creationid="seto" creationdate="20190404T220015Z">
         <seg>それでも私には金がなくて、返済なんてできないことに変わりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dungeon contains the source of the barrier blocking access to the corrupted altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102741Z" creationid="Light" creationdate="20190409T102741Z">
+        <seg>このダンジョンには、破損した祭壇へのアクセスをブロックする障壁の原因が含まれている</seg>
       </tuv>
     </tu>
     <tu>
