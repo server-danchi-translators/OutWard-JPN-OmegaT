@@ -12550,6 +12550,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring Monsoon’s alchemist 5 raw Marshmelons and 1 Phytosaur Horn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100900Z" creationid="Light" creationdate="20190409T100900Z">
+        <seg>モンスーンの錬金術師raw Marshmelons5つとPhytosaur Hornの角を1つ持ってくる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring a Cold Stone, which can be crafted using an Alchemy Kit, to Vay the Alchemist in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T114201Z" creationid="urakata" creationdate="20190406T114201Z">
@@ -22559,6 +22567,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T054302Z" creationid="Light" creationdate="20190409T054302Z">
         <seg>エンメルカルの森のベルクに行き、権威のある誰かに警告する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to the city of Monsoon, using a small boat in the northern docks of the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100708Z" creationid="Light" creationdate="20190409T100708Z">
+        <seg>聖なる沼の北ドックにある小さなボートを使って、モンスーンの街へ行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -48583,6 +48599,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Calixa, in Levant’s Palace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100641Z" creationid="Light" creationdate="20190409T100641Z">
+        <seg>レヴァント宮殿で、カリシアと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Cardinal Bourlamaque in Monsoon’s temple.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T032940Z" creationid="urakata" creationdate="20190407T032940Z">
@@ -48820,6 +48844,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112743Z" creationid="Gaiden Shinji" creationdate="20190404T112743Z">
         <seg>{NPCName}と会話する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk with Monsoon’s alchemist, Laine Aberforth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T100733Z" creationid="Light" creationdate="20190409T100733Z">
+        <seg>モンスーンの錬金術師Laine Aberforthと話す</seg>
       </tuv>
     </tu>
     <tu>
