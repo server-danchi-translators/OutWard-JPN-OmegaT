@@ -12606,6 +12606,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring the parts to his body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102954Z" creationid="Light" creationdate="20190409T102954Z">
+        <seg>部品を彼の体に持って行く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring the skulls back to Cremeuh, in the depths of the Necropolis.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T140402Z" creationid="urakata" creationdate="20190406T140234Z">
@@ -20751,6 +20759,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094501Z" creationid="Light" creationdate="20190409T094501Z">
         <seg>ベルクの宿でJuliusを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Myriade’s parts; his left arm, his right and and his left leg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T102933Z" creationid="Light" creationdate="20190409T102933Z">
+        <seg>Myriadeのパーツを探す 左腕、右と左の脚</seg>
       </tuv>
     </tu>
     <tu>
@@ -31974,6 +31990,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045100Z" creationid="seto" creationdate="20190406T045100Z">
         <seg>Medium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Meet Oliele at the Blue Chamber, in the city of Berg, inside the Enmerkar Forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103102Z" creationid="Light" creationdate="20190409T103102Z">
+        <seg>エンメルカルの森の中、ベルクにある青の議会でオリエルと会う</seg>
       </tuv>
     </tu>
     <tu>
@@ -48935,6 +48959,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Ellinara, in the city of Monsoon, inside the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103156Z" creationid="Light" creationdate="20190409T103156Z">
+        <seg>聖なる沼の中にある、モンスーンの街のエリナラに話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Gabriella, in the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T093921Z" creationid="Light" creationdate="20190409T093921Z">
@@ -48976,10 +49008,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Lockwell, in Monsoon, about freeing Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103219Z" creationid="Light" creationdate="20190409T103219Z">
+        <seg>オリエルの解放について、モンスーンのロックウェルに相談する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Mofat in the city of Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T131355Z" creationid="urakata" creationdate="20190408T131355Z">
         <seg>Monsoonの町にいるMofatに話しかける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Talk to Oliele in the Corrupted Tomb.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103017Z" creationid="Light" creationdate="20190409T103017Z">
+        <seg>腐敗した墓でオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -57241,6 +57289,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131531Z" creationid="urakata" creationdate="20190406T131531Z">
         <seg>[Optional]魔法の封印を無理やり開くためにMyriadeを倒す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[Optional] Find Zephyrien, who went missing in the far south-east of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T103128Z" creationid="Light" creationdate="20190409T103128Z">
+        <seg>[Optional]エンメルカルの南東部で行方不明になったゼフィリアンを見つける</seg>
       </tuv>
     </tu>
     <tu>
