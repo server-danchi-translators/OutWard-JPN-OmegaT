@@ -20579,6 +20579,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find a clue inside the small hive prison in the south of Abrassar, north of the largest hive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055304Z" creationid="Light" creationdate="20190409T055304Z">
+        <seg>アブラサールの南にある小さな巣箱の中の手がかりを見つける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find a leg, which is close to water.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T131427Z" creationid="urakata" creationdate="20190406T131427Z">
@@ -48080,6 +48088,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk to Queen Calixa for a reward, in the Palace of Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055524Z" creationid="Light" creationdate="20190409T055524Z">
+        <seg>レバント宮殿でカリシア女王に話し、報酬を得る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Queen Calixa, in Levant’s palace, and commit to the faction.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190407T042934Z" creationid="urakata" creationdate="20190407T042934Z">
@@ -49496,6 +49512,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045708Z">
         <seg>主な特徴は&lt;color=#00CCFF&gt;&lt;b&gt;信じられない大きさと赤い色&lt;/b&gt;&lt;/color&gt;よ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The prince’s murderer has already been captured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Light" changedate="20190409T055337Z" creationid="Light" creationdate="20190409T055337Z">
+        <seg>王子を殺した物はすでに捕らえられた</seg>
       </tuv>
     </tu>
     <tu>
