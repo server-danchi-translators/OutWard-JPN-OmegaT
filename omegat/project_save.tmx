@@ -27840,8 +27840,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I know.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T164606Z">
-        <seg>わかってるわ。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103815Z" creationid="Light" creationdate="20190405T164606Z">
+        <seg>わかってる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -42421,6 +42421,110 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103727Z" creationid="seto" creationdate="20190410T103727Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103731Z" creationid="seto" creationdate="20190410T103731Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103739Z" creationid="seto" creationdate="20190410T103739Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103745Z" creationid="seto" creationdate="20190410T103745Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103823Z" creationid="seto" creationdate="20190410T103823Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103844Z" creationid="seto" creationdate="20190410T103844Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_a_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103903Z" creationid="seto" creationdate="20190410T103903Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103736Z" creationid="seto" creationdate="20190410T103736Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103747Z" creationid="seto" creationdate="20190410T103747Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103759Z" creationid="seto" creationdate="20190410T103759Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103838Z" creationid="seto" creationdate="20190410T103838Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103859Z" creationid="seto" creationdate="20190410T103859Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_b_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_c_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103808Z" creationid="seto" creationdate="20190410T103808Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_c_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Yzan_beach_a_04</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T141559Z" creationid="setom" creationdate="20190402T141559Z">
@@ -46139,6 +46243,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025349Z" creationid="seto" creationdate="20190406T025349Z">
         <seg>Rissa_NE_Call_To_A_45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NE_Call_To_A_46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103657Z" creationid="seto" creationdate="20190410T103657Z">
+        <seg>Rissa_NE_Call_To_A_46</seg>
       </tuv>
     </tu>
     <tu>
@@ -60910,6 +61022,166 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025421Z" creationid="seto" creationdate="20190406T025421Z">
         <seg>Yzan_NE_Call_To_Advent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103729Z" creationid="seto" creationdate="20190410T103729Z">
+        <seg>Yzan_NE_Call_To_Advent_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103732Z" creationid="seto" creationdate="20190410T103732Z">
+        <seg>Yzan_NE_Call_To_Advent_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103733Z" creationid="seto" creationdate="20190410T103733Z">
+        <seg>Yzan_NE_Call_To_Advent_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103735Z" creationid="seto" creationdate="20190410T103735Z">
+        <seg>Yzan_NE_Call_To_Advent_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103737Z" creationid="seto" creationdate="20190410T103737Z">
+        <seg>Yzan_NE_Call_To_Advent_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103741Z" creationid="seto" creationdate="20190410T103741Z">
+        <seg>Yzan_NE_Call_To_Advent_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103743Z" creationid="seto" creationdate="20190410T103743Z">
+        <seg>Yzan_NE_Call_To_Advent_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103746Z" creationid="seto" creationdate="20190410T103746Z">
+        <seg>Yzan_NE_Call_To_Advent_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103749Z" creationid="seto" creationdate="20190410T103749Z">
+        <seg>Yzan_NE_Call_To_Advent_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103755Z" creationid="seto" creationdate="20190410T103755Z">
+        <seg>Yzan_NE_Call_To_Advent_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103800Z" creationid="seto" creationdate="20190410T103800Z">
+        <seg>Yzan_NE_Call_To_Advent_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103804Z" creationid="seto" creationdate="20190410T103804Z">
+        <seg>Yzan_NE_Call_To_Advent_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103816Z" creationid="seto" creationdate="20190410T103816Z">
+        <seg>Yzan_NE_Call_To_Advent_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103819Z" creationid="seto" creationdate="20190410T103819Z">
+        <seg>Yzan_NE_Call_To_Advent_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103824Z" creationid="seto" creationdate="20190410T103824Z">
+        <seg>Yzan_NE_Call_To_Advent_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103837Z" creationid="seto" creationdate="20190410T103837Z">
+        <seg>Yzan_NE_Call_To_Advent_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103840Z" creationid="seto" creationdate="20190410T103840Z">
+        <seg>Yzan_NE_Call_To_Advent_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_26-Fixed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103846Z" creationid="seto" creationdate="20190410T103846Z">
+        <seg>Yzan_NE_Call_To_Advent_26-Fixed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103900Z" creationid="seto" creationdate="20190410T103900Z">
+        <seg>Yzan_NE_Call_To_Advent_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103904Z" creationid="seto" creationdate="20190410T103904Z">
+        <seg>Yzan_NE_Call_To_Advent_28</seg>
       </tuv>
     </tu>
     <tu>
