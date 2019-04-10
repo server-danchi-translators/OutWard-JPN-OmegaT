@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Leave)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T061051Z" creationid="taman" creationdate="20190410T061051Z">
+        <seg>(立ち去る)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Sorrow and pain, and a sense of duty linger around this altar)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T040619Z" creationid="taman" creationdate="20190410T033627Z">
@@ -32211,6 +32219,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I… I have a mission to prepare for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T062257Z" creationid="taman" creationdate="20190410T062257Z">
+        <seg>私は……これから使命の準備をしないといけないの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>JUST YOU WAIT BURAC!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061153Z" creationid="Mad" creationdate="20190407T061153Z">
@@ -37945,6 +37961,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141101Z" creationid="weedssoul" creationdate="20190406T113617Z">
         <seg>よう、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh...[PlayerName]… I can’t really talk now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T062203Z" creationid="taman" creationdate="20190410T062203Z">
+        <seg>ああ……[PlayerName]……　今は話している時間はないの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53064,8 +53088,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>The Scourge Beast within is still alive, endlessly tortured by the spirits of those it killed, the monster's pain a warning to keep other Scourge Beasts far, far away from Monsoon...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T060249Z" creationid="taman" creationdate="20190410T053832Z">
-        <seg>クリスタルの中のスカージはまだ生きており、戦士たちの亡霊に永遠にThe Scourge Beast within is still alive, endlessly tortured by the spirits of those it killed, the monster's pain a warning to keep other Scourge Beasts far, far away from Monsoon...)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190410T060951Z" creationid="taman" creationdate="20190410T053832Z">
+        <seg>クリスタルの中のスカージはまだ生きており、戦士たちの亡霊にって終わることのない苦しみが永遠に続いていくのだろう。叫び声はモンスーンから他のスカージを遠ざける、遠くより遠くへ……)</seg>
       </tuv>
     </tu>
     <tu>
