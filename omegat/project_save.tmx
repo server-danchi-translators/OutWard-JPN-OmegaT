@@ -33957,8 +33957,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Master-Chef Arago, in Cierzo, is looking for a Cierzo Ceviche.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114730Z" creationid="urakata" creationdate="20190406T114730Z">
-        <seg>CierzoのMaster-Chef AragoはCierzo Cevhicheを探している</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T060438Z" creationid="urakata" creationdate="20190406T114730Z">
+        <seg>シエルゾのMaster-Chef Aragoはシエルゾセビチェを探している</seg>
       </tuv>
     </tu>
     <tu>
@@ -37871,8 +37871,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Ogoi the Kazite Assassin, in Berg, is looking for 2 Beast Golem scraps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T115055Z" creationid="urakata" creationdate="20190406T115055Z">
-        <seg>BergにいるKaziteのアサシン、OgoiはBeast Golem scraps2つを探している</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T060540Z" creationid="urakata" creationdate="20190406T115055Z">
+        <seg>ベルクにいるカジートのアサシン、Ogoiはビーストゴーレムのスクラップを2つ探している</seg>
       </tuv>
     </tu>
     <tu>
@@ -52071,24 +52071,24 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Talk to the owner of the General Store in Cierzo to deliver a business ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114557Z" creationid="urakata" creationdate="20190406T114557Z">
-        <seg>Cierzoの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T060338Z" creationid="urakata" creationdate="20190406T114557Z">
+        <seg>シエルゾの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Talk to the owner of the General Store in Levant to deliver a business ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114613Z" creationid="urakata" creationdate="20190406T114613Z">
-        <seg>Levantの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T060350Z" creationid="urakata" creationdate="20190406T114613Z">
+        <seg>レバントの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Talk to the owner of the General Store in Monsoon to deliver a business ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114627Z" creationid="urakata" creationdate="20190406T114627Z">
-        <seg>Monsoonの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T060404Z" creationid="urakata" creationdate="20190406T114627Z">
+        <seg>モンスーンの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
