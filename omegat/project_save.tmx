@@ -9732,6 +9732,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After seeing this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T182951Z" creationid="taman" creationdate="20190410T182951Z">
+        <seg>あんな光景を見た後なのに?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the Resting Time, your fatigue status will be {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024207Z" creationid="hiru4" creationdate="20190402T024207Z">
@@ -10912,6 +10920,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064441Z" creationid="hiru4" creationdate="20190403T064441Z">
         <seg>再開しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Aren't you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T182844Z" creationid="taman" creationdate="20190410T182844Z">
+        <seg>あなたは違うの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -60860,6 +60876,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083142Z" creationid="rkmad" creationdate="20190408T083142Z">
         <seg>あなたがたは、二人共チャンピオンなのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're having doubts about joining the Holy Mission?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T182826Z" creationid="taman" creationdate="20190410T182826Z">
+        <seg>使命を果たすことに疑問を持ち始めているの？</seg>
       </tuv>
     </tu>
     <tu>
