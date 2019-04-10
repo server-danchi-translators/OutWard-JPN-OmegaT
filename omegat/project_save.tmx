@@ -19948,6 +19948,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Door</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T110523Z" creationid="pugnus" creationdate="20190410T110523Z">
+        <seg>扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Double all the Damage you deal.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T100017Z" creationid="rkmad" creationdate="20190404T065506Z">
@@ -43109,6 +43117,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prince Pietro</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T110444Z" creationid="pugnus" creationdate="20190410T110444Z">
+        <seg>ピエトロ王子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PrinceJaden_NEUT_Initial_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T070500Z" creationid="seto" creationdate="20190406T070500Z">
@@ -46491,6 +46507,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111729Z" creationid="Gaiden Shinji" creationdate="20190404T111729Z">
         <seg>リバーズエンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Robed Man</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T110600Z" creationid="pugnus" creationdate="20190410T110600Z">
+        <seg>ローブをまとった男</seg>
       </tuv>
     </tu>
     <tu>
