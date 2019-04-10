@@ -10548,6 +10548,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And don't even think about using the &lt;color=#00CCFF&gt;&lt;b&gt;storage tunnel&lt;/b&gt;&lt;/color&gt; under the &lt;color=#00CCFF&gt;&lt;b&gt;lighthouse&lt;/b&gt;&lt;/color&gt; to sneak out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T102420Z" creationid="seto" creationdate="20190410T102405Z">
+        <seg> &lt;color=#00CCFF&gt;&lt;b&gt;灯台&lt;/b&gt;&lt;/color&gt;の地下の&lt;color=#00CCFF&gt;&lt;b&gt;下水道&lt;/b&gt;&lt;/color&gt;を通って抜け出そうなんて考えるなよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And don’t forget, Cierzo is still your home.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T022614Z">
