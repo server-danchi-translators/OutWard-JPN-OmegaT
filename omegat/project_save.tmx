@@ -20116,6 +20116,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellinara told you to burn Greasy Fern here too, didn't she?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065605Z" creationid="taman" creationdate="20190410T065605Z">
+        <seg>エリナラにここでGreasy Fernを燃やすよう言われたんでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellinara will give you work from now on.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190407T141454Z" creationid="taman" creationdate="20190407T141454Z">
@@ -52305,6 +52313,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T162211Z">
         <seg>このあたりの地域の事を教えてください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell me what you see.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065644Z" creationid="taman" creationdate="20190410T065644Z">
+        <seg>何が見えたか教えて。</seg>
       </tuv>
     </tu>
     <tu>
