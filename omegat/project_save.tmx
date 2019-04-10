@@ -13192,8 +13192,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring Crystal Powder, which can be crafted using an Alchemy Kit, to Helmi the Alchemist in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114052Z" creationid="urakata" creationdate="20190406T114052Z">
-        <seg>Cierzoの錬金術師Helmiに、錬金術キットで作ったCrystal Powderを持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T001904Z" creationid="urakata" creationdate="20190406T114052Z">
+        <seg>シエルゾの錬金術師Helmiに、錬金術キットで作ったCrystal Powderを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -13216,8 +13216,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring a Cold Stone, which can be crafted using an Alchemy Kit, to Vay the Alchemist in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114201Z" creationid="urakata" creationdate="20190406T114201Z">
-        <seg>Bergの錬金術師Vayに、錬金術キットで作ったCold Stoneを持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T001912Z" creationid="urakata" creationdate="20190406T114201Z">
+        <seg>ベルクの錬金術師Vayに、錬金術キットで作ったCold Stoneを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -43896,8 +43896,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to Berg’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T113627Z" creationid="urakata" creationdate="20190406T113627Z">
-        <seg>完成したarmor pieceを受取りにBergの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T001834Z" creationid="urakata" creationdate="20190406T113627Z">
+        <seg>完成した鎧の部品を受取りにベルクの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -52003,8 +52003,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Talk to the owner of the General Store in Berg to deliver a business ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T114538Z" creationid="urakata" creationdate="20190406T114538Z">
-        <seg>Bergの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T001919Z" creationid="urakata" creationdate="20190406T114538Z">
+        <seg>ベルクの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
