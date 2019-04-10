@@ -58042,6 +58042,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What IS Elatt?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T153800Z" creationid="taman" creationdate="20190410T153800Z">
+        <seg>エラットとは何者なの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What about you?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T134221Z" creationid="Mad" creationdate="20190407T134019Z">
@@ -58060,8 +58068,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>What are you doing here, Oliele?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T064711Z" creationid="taman" creationdate="20190410T064603Z">
-        <seg>オリエルはここで何をしているの？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190410T153834Z" creationid="taman" creationdate="20190410T064603Z">
+        <seg>オリエルはここで何を？</seg>
       </tuv>
     </tu>
     <tu>
