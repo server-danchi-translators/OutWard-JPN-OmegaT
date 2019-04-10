@@ -24236,6 +24236,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golden Specter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235644Z" creationid="pugnus" creationdate="20190410T235644Z">
+        <seg>ゴールデンスペクター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Golem_Basic</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103326Z" creationid="seto" creationdate="20190404T103326Z">
@@ -32719,6 +32727,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051539Z" creationid="seto" creationdate="20190406T051539Z">
         <seg>JYqh3eWNFoWO6TAn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade Lich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235626Z" creationid="pugnus" creationdate="20190410T235626Z">
+        <seg>ジェイドリッチ</seg>
       </tuv>
     </tu>
     <tu>
@@ -57229,6 +57245,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055738Z">
         <seg>偵察の帰りを待ってるんだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Walking Hive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235739Z" creationid="pugnus" creationdate="20190410T235739Z">
+        <seg>ウォーキングハイブ</seg>
       </tuv>
     </tu>
     <tu>
