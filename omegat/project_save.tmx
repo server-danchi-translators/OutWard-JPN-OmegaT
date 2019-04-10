@@ -11022,8 +11022,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>As a reward for my generosity, a shop with rare goods will be opened in the slums, but Pigeoneye yet asks for more silver...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T123836Z" creationid="urakata" creationdate="20190406T123836Z">
-        <seg>出資への見返りとしてスラムに希少品を扱う店が出るが、Pigeoneyeはまだ出資を要求している...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062616Z" creationid="urakata" creationdate="20190406T123836Z">
+        <seg>出資への見返りとしてスラムに希少品を扱う店が出るが、ピジョンアイはまだ出資を要求している...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21686,16 +21686,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Find and destroy the interferences just outside the Electric Lab, in the Abrassar region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124549Z" creationid="urakata" creationdate="20190406T124549Z">
-        <seg>Abrassar地方のElectric Labのすぐそばで障害となっているものを探して壊す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T063021Z" creationid="urakata" creationdate="20190406T124549Z">
+        <seg>アブラサル地方の電気研究所のすぐそばで障害となっているものを探して壊す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Find another ghost manifesting in the Hallowed Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124114Z" creationid="urakata" creationdate="20190406T124114Z">
-        <seg>Hallowed Marshに現れる霊をもう一体見つける</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062645Z" creationid="urakata" creationdate="20190406T124114Z">
+        <seg>聖なる沼に現れる霊をもう一体見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -39695,8 +39695,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pigeoneye requires additional silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T123907Z" creationid="urakata" creationdate="20190406T123907Z">
-        <seg>Pigeoneyeはまだ出資を要求している</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062626Z" creationid="urakata" creationdate="20190406T123907Z">
+        <seg>ピジョンアイはまだ出資を要求している</seg>
       </tuv>
     </tu>
     <tu>
@@ -44089,8 +44089,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to the machine inside the Electric Lab.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124613Z" creationid="urakata" creationdate="20190406T124613Z">
-        <seg>Electric Lab内の機械のところへ戻る</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T063032Z" creationid="urakata" creationdate="20190406T124613Z">
+        <seg>電気研究所内の機械のところへ戻る</seg>
       </tuv>
     </tu>
     <tu>
