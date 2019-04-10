@@ -19380,6 +19380,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you see it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065827Z" creationid="taman" creationdate="20190410T065827Z">
+        <seg>あなたにも見えたでしょ？Did you see it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disassemble</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112910Z" creationid="Gaiden Shinji" creationdate="20190404T112910Z">
@@ -27552,8 +27560,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I just... wanted to come back here before leaving for my first mission.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T065432Z" creationid="taman" creationdate="20190410T065432Z">
-        <seg>私はただ……最初の使命に向かう前にもう一度この場所を訪れたかったの</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065659Z" creationid="taman" creationdate="20190410T065432Z">
+        <seg>私はただ……最初の使命に向かう前にもう一度この場所を訪れたかったの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54697,6 +54705,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Those poor spirits...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T070003Z" creationid="taman" creationdate="20190410T070003Z">
+        <seg>あの哀れな亡霊たちが……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those thugs from the Blue Chamber Collective beat you to within an inch of your life, then slaughtered the prisoners...Elatt will no doubt be upset.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103119Z" creationid="pugnus" creationdate="20190406T010320Z">
@@ -60542,6 +60558,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141106Z" creationid="Light" creationdate="20190408T141052Z">
         <seg>[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName]...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065716Z" creationid="taman" creationdate="20190410T065716Z">
+        <seg>[PlayerName]……</seg>
       </tuv>
     </tu>
     <tu>
