@@ -35052,8 +35052,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T142422Z" creationid="urakata" creationdate="20190331T092650Z">
-        <seg>Monsoonの鍛冶屋へPalladium Scrapsを持ち込むとpieces of Palladium Armorを作れる</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T000533Z" creationid="urakata" creationdate="20190331T092650Z">
+        <seg>モンスーンの鍛冶屋へパラジウムの断片を持ち込むと「パラジウムの鎧」の部品を作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -43928,8 +43928,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to Levant’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T142411Z" creationid="urakata" creationdate="20190331T092514Z">
-        <seg>完成したarmor pieceを受取りにLevantの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T000405Z" creationid="urakata" creationdate="20190331T092514Z">
+        <seg>完成した鎧の部品を受取りにレバントの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -43944,8 +43944,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to Monsoon’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190331T142441Z" creationid="urakata" creationdate="20190331T092826Z">
-        <seg>完成したarmor pieceを受取りにMonsoonの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T000611Z" creationid="urakata" creationdate="20190331T092826Z">
+        <seg>完成した鎧の部品を受取りにモンスーンの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -55735,16 +55735,16 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190405T093022Z" creationid="urakata" creationdate="20190331T092451Z">
-        <seg>Levantでarmor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T000350Z" creationid="urakata" creationdate="20190331T092451Z">
+        <seg>レバントで鎧の部品が完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190405T093013Z" creationid="urakata" creationdate="20190331T092802Z">
-        <seg>Monsoonでarmor pieceが完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T000554Z" creationid="urakata" creationdate="20190331T092802Z">
+        <seg>モンスーンで鎧の部品が完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
