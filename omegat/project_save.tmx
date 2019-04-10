@@ -37259,6 +37259,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No wonder the Scourge don't go anywhere near the Vigils.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T125051Z" creationid="taman" creationdate="20190410T125051Z">
+        <seg>スカージがVigilに近寄らない理由が分かったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No {1} in inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
@@ -54071,8 +54079,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>That's horrifying.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T070851Z" creationid="taman" creationdate="20190410T070851Z">
-        <seg>ぞっとするよ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190410T133052Z" creationid="taman" creationdate="20190410T070851Z">
+        <seg>恐ろしいね。</seg>
       </tuv>
     </tu>
     <tu>
