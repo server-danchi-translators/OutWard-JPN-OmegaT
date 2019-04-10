@@ -30080,16 +30080,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Interact with the throne to fight Gold-Mask Lich in the Light Spire, in the Hallowed Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T094304Z" creationid="urakata" creationdate="20190406T133908Z">
-        <seg>聖なる沼にある光の塔にて玉座を調べ、金面のリッチと戦う</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T094411Z" creationid="urakata" creationdate="20190406T133908Z">
+        <seg>聖なる沼にある光の塔で玉座を調べ、金面のリッチと戦う</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Interact with the throne to fight Jade-Mask Lich in the Dark Ziggurat, in the Hallowed Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T094407Z" creationid="urakata" creationdate="20190406T134638Z">
-        <seg>聖なる沼にある闇のジッグラトで玉座を調べ、Jade-Mask Lichと戦う</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T094430Z" creationid="urakata" creationdate="20190406T134638Z">
+        <seg>聖なる沼にある闇のジッグラトで玉座を調べ、ヒスイ面のリッチと戦う</seg>
       </tuv>
     </tu>
     <tu>
@@ -44113,8 +44113,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to the Dark Ziggurat with Tsar Stones, Hackmanites and Palladium to get him to craft a Tsar weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T135456Z" creationid="urakata" creationdate="20190406T135456Z">
-        <seg>Dark ZigguratにTsar StonesとHackmanitesとPalladiumを持って行ってツァーリの武具を作ってもらう</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T094538Z" creationid="urakata" creationdate="20190406T135456Z">
+        <seg>闇のジッグラトにツァーリの宝玉とハックマナイトとパラジウムを持って行き、ツァーリの武具を作ってもらう</seg>
       </tuv>
     </tu>
     <tu>
@@ -51614,8 +51614,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Take all 4 Blue Skulls in the Necropolis under Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T140141Z" creationid="urakata" creationdate="20190406T140141Z">
-        <seg>Bergの地下にあるNecropolisからBlue Skulls4つすべてを取ってくる</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T094920Z" creationid="urakata" creationdate="20190406T140141Z">
+        <seg>ベルクの地下にあるネクロポリスから青いどくろ4つすべてを取ってくる</seg>
       </tuv>
     </tu>
     <tu>
