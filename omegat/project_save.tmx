@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Sorrow and pain, and a sense of duty linger around this altar)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T033627Z" creationid="taman" creationdate="20190410T033627Z">
+        <seg>(祭壇は悲しみや苦痛、そして使命感で満ちている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The sound of an explosion rocks the air and makes the ground tremble beneath your feet.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180757Z" creationid="magur0w" creationdate="20190404T180757Z">
@@ -48370,6 +48378,9 @@ QName_Errand_Idol</seg>
 後ほど、文脈から変更が必要と感じた場合は修正対象となる。</note>
       <tuv lang="EN-US">
         <seg>Spirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190409T073138Z">
+        <seg>クリスタルの中に魂がSpirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
       </tuv>
     </tu>
     <tu>
