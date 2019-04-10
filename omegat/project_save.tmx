@@ -13423,6 +13423,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burac_TutorialGate_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101232Z" creationid="seto" creationdate="20190410T101232Z">
+        <seg>Burac_TutorialGate_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burac_TutorialGate_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101330Z" creationid="seto" creationdate="20190410T101330Z">
+        <seg>Burac_TutorialGate_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burn</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043916Z" creationid="totochan" creationdate="20190403T133848Z">
@@ -28646,6 +28662,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I let you adventure outside without even the most basic of equipment, you'd be marching to your own death!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101329Z" creationid="seto" creationdate="20190410T101329Z">
+        <seg>そんな基本的な装備もなしに外に行かせるなんて、死にに行くようなもんだぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Old Levant's claims are recognized, their dethroning could lead to war.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190409T061715Z" creationid="magur0w" creationdate="20190404T123548Z">
@@ -29058,6 +29082,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062528Z">
         <seg>近くに町があるときは、宿に泊まると良い。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're pressed to find a weapon, make yourself a &lt;color=#00CCFF&gt;&lt;b&gt;quarterstaff&lt;/b&gt;&lt;/color&gt; from some tree wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101459Z" creationid="seto" creationdate="20190410T101459Z">
+        <seg>もし武器を見つけられんのなら &lt;color=#00CCFF&gt;&lt;b&gt;quarterstaff&lt;/b&gt;&lt;/color&gt;を作るんだ。あれなら木材があれば作れる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37157,8 +37189,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Not like that you aren't!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190410T100927Z" creationid="seto" creationdate="20190410T100927Z">
-        <seg>そんなことはやめろ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101230Z" creationid="seto" creationdate="20190410T100927Z">
+        <seg>馬鹿なことはやめろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58845,6 +58877,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T133910Z" creationid="Mad" creationdate="20190407T133910Z">
         <seg>来てくれたのね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also craft a &lt;color=#00CCFF&gt;&lt;b&gt;backpack&lt;/b&gt;&lt;/color&gt;, although I'm sure you have one lying around at home.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101553Z" creationid="seto" creationdate="20190410T101553Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;バックパック&lt;/b&gt;&lt;/color&gt;も作れるだろうが、確かお前の家にもあったはずだぞ。</seg>
       </tuv>
     </tu>
     <tu>
