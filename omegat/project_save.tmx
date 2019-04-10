@@ -9780,6 +9780,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, excellent!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095917Z" creationid="seto" creationdate="20190410T095917Z">
+        <seg>おぉ！素晴らしい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, someone who speaks my language!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T053125Z" creationid="Mad" creationdate="20190407T053125Z">
@@ -26300,6 +26308,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, your reward!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100105Z" creationid="seto" creationdate="20190410T100105Z">
+        <seg>さあどうぞ、報酬だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, your reward.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T014407Z" creationid="pugnus" creationdate="20190408T014407Z">
@@ -34279,6 +34295,198 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115200Z" creationid="setom" creationdate="20190401T115200Z">
         <seg>商人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Alchemist_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095804Z" creationid="seto" creationdate="20190410T095804Z">
+        <seg>Merchant_Berg_Alchemist_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Alchemist_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095806Z" creationid="seto" creationdate="20190410T095806Z">
+        <seg>Merchant_Berg_Alchemist_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Alchemist_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095808Z" creationid="seto" creationdate="20190410T095808Z">
+        <seg>Merchant_Berg_Alchemist_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Alchemist_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095810Z" creationid="seto" creationdate="20190410T095810Z">
+        <seg>Merchant_Berg_Alchemist_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Blacksmith_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095811Z" creationid="seto" creationdate="20190410T095811Z">
+        <seg>Merchant_Berg_Blacksmith_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_Blacksmith_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095812Z" creationid="seto" creationdate="20190410T095812Z">
+        <seg>Merchant_Berg_Blacksmith_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_FoodStore_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095818Z" creationid="seto" creationdate="20190410T095818Z">
+        <seg>Merchant_Berg_FoodStore_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_FoodStore_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095819Z" creationid="seto" creationdate="20190410T095819Z">
+        <seg>Merchant_Berg_FoodStore_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_FoodStore_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095821Z" creationid="seto" creationdate="20190410T095821Z">
+        <seg>Merchant_Berg_FoodStore_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_GeneralStore_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095822Z" creationid="seto" creationdate="20190410T095822Z">
+        <seg>Merchant_Berg_GeneralStore_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_GeneralStore_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095823Z" creationid="seto" creationdate="20190410T095823Z">
+        <seg>Merchant_Berg_GeneralStore_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095824Z" creationid="seto" creationdate="20190410T095824Z">
+        <seg>Merchant_Berg_HouseSeller_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095833Z" creationid="seto" creationdate="20190410T095833Z">
+        <seg>Merchant_Berg_InnKeeper_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095834Z" creationid="seto" creationdate="20190410T095834Z">
+        <seg>Merchant_Berg_InnKeeper_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095835Z" creationid="seto" creationdate="20190410T095835Z">
+        <seg>Merchant_Berg_InnKeeper_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095837Z" creationid="seto" creationdate="20190410T095837Z">
+        <seg>Merchant_Berg_InnKeeper_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095843Z" creationid="seto" creationdate="20190410T095843Z">
+        <seg>Merchant_Berg_InnKeeper_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095846Z" creationid="seto" creationdate="20190410T095846Z">
+        <seg>Merchant_Berg_InnKeeper_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095847Z" creationid="seto" creationdate="20190410T095847Z">
+        <seg>Merchant_Berg_InnKeeper_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_InnKeeper_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095848Z" creationid="seto" creationdate="20190410T095848Z">
+        <seg>Merchant_Berg_InnKeeper_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Alchemist_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095857Z" creationid="seto" creationdate="20190410T095857Z">
+        <seg>Merchant_Cierzo_Alchemist_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Alchemist_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095858Z" creationid="seto" creationdate="20190410T095858Z">
+        <seg>Merchant_Cierzo_Alchemist_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Alchemist_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095900Z" creationid="seto" creationdate="20190410T095900Z">
+        <seg>Merchant_Cierzo_Alchemist_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Alchemist_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095902Z" creationid="seto" creationdate="20190410T095902Z">
+        <seg>Merchant_Cierzo_Alchemist_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -60666,6 +60874,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>buy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095806Z" creationid="seto" creationdate="20190410T095806Z">
+        <seg>buy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>combat_tutorial_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T024724Z" creationid="seto" creationdate="20190407T024724Z">
@@ -61046,6 +61262,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051502Z" creationid="seto" creationdate="20190406T051502Z">
         <seg>itemid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>laugh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095839Z" creationid="seto" creationdate="20190410T095839Z">
+        <seg>laugh</seg>
       </tuv>
     </tu>
     <tu>
@@ -62122,6 +62346,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>sleep</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095845Z" creationid="seto" creationdate="20190410T095845Z">
+        <seg>sleep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>surprised</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101722Z" creationid="seto" creationdate="20190405T101722Z">
@@ -62158,6 +62390,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133113Z" creationid="setom" creationdate="20190402T133113Z">
         <seg>value_fem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>worried</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095817Z" creationid="seto" creationdate="20190410T095817Z">
+        <seg>worried</seg>
       </tuv>
     </tu>
     <tu>
@@ -62587,6 +62827,16 @@ QName_Errand_Idol</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Merchants_Trainers_MessageBoards.xml</prop>
+      <prop type="id">410_0</prop>
+      <tuv lang="EN-US">
+        <seg>Farewell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095743Z" creationid="seto" creationdate="20190410T095743Z">
+        <seg>それでは。</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OutwardEn/dialogues_Merchants_Trainers_MessageBoards.xml</prop>
       <prop type="id">756_0</prop>
