@@ -13297,8 +13297,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring 2 Power Coils to Etios, the engineer in Cierzo, to repair the water purifying machine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T025916Z" creationid="urakata" creationdate="20190407T025916Z">
-        <seg>Cierzoの技術者Etiosに、水浄化装置を修理するために必要な電源用コイル2つを持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T102759Z" creationid="urakata" creationdate="20190407T025916Z">
+        <seg>シエルゾの技術者エティオスに、水浄化装置を修理するために必要な電源用コイル2つを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -13377,8 +13377,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring the skulls back to Cremeuh, in the depths of the Necropolis.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T095407Z" creationid="urakata" creationdate="20190406T140234Z">
-        <seg>ネクロポリスの奥地にいるクレミューに頭蓋骨を持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T102528Z" creationid="urakata" creationdate="20190406T140234Z">
+        <seg>ネクロポリスの奥地にいるクレムに頭蓋骨を持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -23782,8 +23782,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Go to a city in the Enmerkar Forest, the Hallowed Marsh or the Abrassar desert to join a faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134422Z" creationid="Light" creationdate="20190404T134303Z">
-        <seg>Enmerkar Forest、Hallowed Marsh、Abrassar desertのいずれかの町で派閥に参加する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T103605Z" creationid="Light" creationdate="20190404T134303Z">
+        <seg>エンメルカルの森、聖なる沼、アブラサール砂漠のいずれかの町で派閥に参加する</seg>
       </tuv>
     </tu>
     <tu>
@@ -48570,8 +48570,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Skulls for Cremeuh</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T100229Z" creationid="pugnus" creationdate="20190410T100229Z">
-        <seg>クレミューの髑髏</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T102520Z" creationid="pugnus" creationdate="20190410T100229Z">
+        <seg>クレムの髑髏</seg>
       </tuv>
     </tu>
     <tu>
@@ -52639,8 +52639,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Talk to Oliele in the village of Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134113Z" creationid="Light" creationdate="20190404T134113Z">
-        <seg>Cierzoの村でOlieleと話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T103516Z" creationid="Light" creationdate="20190404T134113Z">
+        <seg>シエルゾの村でオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -52719,8 +52719,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Talk to Rissa in the village of Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134005Z" creationid="Light" creationdate="20190404T134005Z">
-        <seg>Cierzoの村でRissaと話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T103448Z" creationid="Light" creationdate="20190404T134005Z">
+        <seg>シエルゾの村でリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -61148,16 +61148,16 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T133820Z" creationid="Light" creationdate="20190404T133754Z">
-        <seg>[Optional] Michel AberdeenにBandagesかLife Potionを与える</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T103354Z" creationid="Light" creationdate="20190404T133754Z">
+        <seg>[Optional] ミシェル・アバンディーンに包帯かライフポーションを与える</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Give the Writ of Tribal Favor to Rissa instead of 150 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T031047Z" creationid="urakata" creationdate="20190407T031047Z">
-        <seg>[Optional]Rissaに150silverの代わりとしてWrit of Tribal Favorを渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T102859Z" creationid="urakata" creationdate="20190407T031047Z">
+        <seg>[Optional]リッサに150シルバーの代わりとして一族の支持の証を渡す</seg>
       </tuv>
     </tu>
     <tu>
