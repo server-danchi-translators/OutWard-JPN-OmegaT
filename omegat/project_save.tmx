@@ -13119,6 +13119,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled fruit that provides a bit of nutrition and rots more slowly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T094619Z" creationid="seto" creationdate="20190410T094549Z">
+        <seg>煮た果物には多少は栄養があり、腐りづらくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiled root that increased its mana-restoring properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T064526Z" creationid="weedssoul" creationdate="20190407T064452Z">
@@ -62140,8 +62148,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} broke.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132758Z" creationid="totochan" creationdate="20190402T194510Z">
-        <seg>{1}壊れた</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T094952Z" creationid="totochan" creationdate="20190402T194510Z">
+        <seg>{1}が壊れた</seg>
       </tuv>
     </tu>
     <tu>
@@ -62156,8 +62164,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} cannot be taken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132800Z" creationid="totochan" creationdate="20190402T194527Z">
-        <seg>{1}取れない</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T094955Z" creationid="totochan" creationdate="20190402T194527Z">
+        <seg>{1}は取れない</seg>
       </tuv>
     </tu>
     <tu>
@@ -62212,8 +62220,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} has broken.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132808Z" creationid="totochan" creationdate="20190402T194650Z">
-        <seg>{1}壊れた</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095008Z" creationid="totochan" creationdate="20190402T194650Z">
+        <seg>{1は}壊れた</seg>
       </tuv>
     </tu>
     <tu>
@@ -62252,8 +62260,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} is badly damaged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132804Z" creationid="totochan" creationdate="20190402T194540Z">
-        <seg>{1}破損しています</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T094958Z" creationid="totochan" creationdate="20190402T194540Z">
+        <seg>{1}は破損しています</seg>
       </tuv>
     </tu>
     <tu>
@@ -62276,8 +62284,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} is out of fuel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T194839Z" creationid="totochan" creationdate="20190402T194839Z">
-        <seg>{1}燃料不足</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095042Z" creationid="totochan" creationdate="20190402T194839Z">
+        <seg>{1}は燃料不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -62366,8 +62374,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} {2} added.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T172147Z" creationid="totochan" creationdate="20190402T194551Z">
-        <seg>{2}を{1}入手した</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T094942Z" creationid="totochan" creationdate="20190402T194551Z">
+        <seg>{2}を{1}個入手した</seg>
       </tuv>
     </tu>
     <tu>
