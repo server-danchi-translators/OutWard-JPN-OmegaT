@@ -13353,8 +13353,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring the skulls back to Cremeuh, in the depths of the Necropolis.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T140402Z" creationid="urakata" creationdate="20190406T140234Z">
-        <seg>Necropolisの奥地にいるCremeuhに頭蓋骨を持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T095407Z" creationid="urakata" creationdate="20190406T140234Z">
+        <seg>ネクロポリスの奥地にいるクレミューに頭蓋骨を持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -35435,6 +35435,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Morbid shield made by the deranged gravekeeper Cremeuh, to reward you for robbing graves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T100044Z" creationid="pugnus" creationdate="20190410T100044Z">
+        <seg>墓を暴いたあなたに報酬を与えるために、狂った墓守クレミューにより作成された、病的な盾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More like find an early grave and lose a leg.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140042Z" creationid="weedssoul" creationdate="20190406T032202Z">
@@ -39505,6 +39513,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112149Z">
         <seg>もしくはマニュアルレシピでなにか材料を使って実験をしてもいいでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ornate Bone Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T100124Z" creationid="pugnus" creationdate="20190410T100124Z">
+        <seg>骨による華やかな盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -48156,6 +48172,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112715Z" creationid="Gaiden Shinji" creationdate="20190404T112715Z">
         <seg>肌{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skulls for Cremeuh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T100229Z" creationid="pugnus" creationdate="20190410T100229Z">
+        <seg>クレミューの髑髏</seg>
       </tuv>
     </tu>
     <tu>
