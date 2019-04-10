@@ -13623,6 +13623,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burning Man</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235305Z" creationid="pugnus" creationdate="20190410T235305Z">
+        <seg>バーニングマン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burning Men walk nearby, almost oblivious to your presence.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101916Z" creationid="pugnus" creationdate="20190404T110859Z">
@@ -23572,6 +23580,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235330Z" creationid="pugnus" creationdate="20190410T235330Z">
+        <seg>ゴースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost Pass</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114517Z" creationid="Gaiden Shinji" creationdate="20190403T114517Z">
@@ -23932,6 +23948,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gold Lich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235412Z" creationid="pugnus" creationdate="20190410T235412Z">
+        <seg>ゴールドリッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GoldBelly_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052915Z" creationid="seto" creationdate="20190406T052915Z">
@@ -24200,6 +24224,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T053141Z" creationid="seto" creationdate="20190406T053141Z">
         <seg>GoldBelly_BC_Giants_34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Golden Minion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235608Z" creationid="pugnus" creationdate="20190410T235608Z">
+        <seg>ゴールデンミニオン</seg>
       </tuv>
     </tu>
     <tu>
@@ -26768,6 +26800,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T114747Z" creationid="setom" creationdate="20190331T113105Z">
         <seg>重武器の攻撃は敵をノックバックさせ、敵の攻撃がキャンセルされるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hive Lord</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235358Z" creationid="pugnus" creationdate="20190410T235358Z">
+        <seg>ハイブロード</seg>
       </tuv>
     </tu>
     <tu>
@@ -48563,6 +48603,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022421Z" creationid="hiru4" creationdate="20190402T022421Z">
         <seg>影の品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shaman Troglodyte</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T235157Z" creationid="pugnus" creationdate="20190410T235157Z">
+        <seg>トログロダイトシャーマン</seg>
       </tuv>
     </tu>
     <tu>
