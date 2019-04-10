@@ -27542,6 +27542,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I just... wanted to come back here before leaving for my first mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190410T065432Z" creationid="taman" creationdate="20190410T065432Z">
+        <seg>私はただ……最初の使命に向かう前にもう一度この場所を訪れたかったの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I knew I could count on you.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021921Z" creationid="weedssoul" creationdate="20190406T021921Z">
@@ -56868,8 +56876,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>What are you doing here, Oliele?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T064603Z" creationid="taman" creationdate="20190410T064603Z">
-        <seg>ここで何をしているんだいオリエル？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190410T064711Z" creationid="taman" creationdate="20190410T064603Z">
+        <seg>オリエルはここで何をしているの？</seg>
       </tuv>
     </tu>
     <tu>
