@@ -19702,8 +19702,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Donate silver to Pigeoneye, the self-proclaimed leader of Levant’s slums.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T122410Z" creationid="urakata" creationdate="20190406T122410Z">
-        <seg>自称LevantスラムのリーダーPigeoneyeに銀を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062532Z" creationid="urakata" creationdate="20190406T122410Z">
+        <seg>自称レバントのスラムのリーダー、ピジョンアイに銀を渡す</seg>
       </tuv>
     </tu>
     <tu>
@@ -21622,8 +21622,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Find a merchant lost in the desert before he dies, and save him by giving him a Travel Ration.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T121346Z" creationid="urakata" creationdate="20190406T121346Z">
-        <seg>砂漠で行方不明になった商人を見つけ出し、TravelRationを与えて命を救う</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T061738Z" creationid="urakata" creationdate="20190406T121346Z">
+        <seg>砂漠で行方不明になった商人を見つけ出し、旅糧を与えて命を救う</seg>
       </tuv>
     </tu>
     <tu>
@@ -22174,8 +22174,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Fourth Clue: Go inside the old docks, in the Abrassar desert, to flip a lever.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T122248Z" creationid="urakata" creationdate="20190406T122248Z">
-        <seg>第4の手がかり:Abrassar砂漠の古いドックに入り、レバーを動かす</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T061953Z" creationid="urakata" creationdate="20190406T122248Z">
+        <seg>第4の手がかり:アブサール砂漠の古いドックに入り、レバーを動かす</seg>
       </tuv>
     </tu>
     <tu>
@@ -23390,8 +23390,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Give a second donation to Pidgeoneye It *is* for a good cause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T123535Z" creationid="urakata" creationdate="20190406T123535Z">
-        <seg>Pidgeoneyeにもう一度出資する(ちゃんと使われるはずだ)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062540Z" creationid="urakata" creationdate="20190406T123535Z">
+        <seg>ピジョンアイにもう一度出資する(ちゃんと使われるはずだ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39647,8 +39647,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pidgeoneye ask for yet more silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T123603Z" creationid="urakata" creationdate="20190406T123603Z">
-        <seg>Pidgeoneyeはまだ銀を要求している</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T062604Z" creationid="urakata" creationdate="20190406T123603Z">
+        <seg>ピジョンアイは、まだ、銀を要求している</seg>
       </tuv>
     </tu>
     <tu>
@@ -44033,16 +44033,16 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Return to Tamara in Levant’s slums to announce your failure.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T121433Z" creationid="urakata" creationdate="20190406T121433Z">
-        <seg>LevantスラムのTamaraに失敗を報告する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T061902Z" creationid="urakata" creationdate="20190406T121433Z">
+        <seg>レバントのスラムにいるタマラに失敗を報告する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Return to Tamara in Levant’s slums to announce your success.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T121446Z" creationid="urakata" creationdate="20190406T121446Z">
-        <seg>LevantスラムのTamaraに成功を報告する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190410T061921Z" creationid="urakata" creationdate="20190406T121446Z">
+        <seg>レバントのスラムにいるタマラに成功を報告する</seg>
       </tuv>
     </tu>
     <tu>
