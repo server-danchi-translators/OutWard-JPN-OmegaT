@@ -59629,6 +59629,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need at least an &lt;color=#00CCFF&gt;&lt;b&gt;equipped weapon&lt;/b&gt;&lt;/color&gt;, a &lt;color=#00CCFF&gt;&lt;b&gt;waterskin&lt;/b&gt;&lt;/color&gt; and an &lt;color=#00CCFF&gt;&lt;b&gt;equipped backpack&lt;/b&gt;&lt;/color&gt; before you're ready to face the outside world.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T101221Z" creationid="seto" creationdate="20190410T101221Z">
+        <seg>外に行く前に、最低でも&lt;color=#00CCFF&gt;&lt;b&gt;武器&lt;/b&gt;&lt;/color&gt;を装備して &lt;color=#00CCFF&gt;&lt;b&gt;waterskin&lt;/b&gt;&lt;/color&gt;と&lt;color=#00CCFF&gt;&lt;b&gt;バックパック&lt;/b&gt;&lt;/color&gt;を容易するんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to eat healthy if you wanna survive in here.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015146Z" creationid="rkmad" creationdate="20190404T014744Z">
