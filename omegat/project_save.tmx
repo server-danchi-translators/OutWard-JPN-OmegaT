@@ -19876,6 +19876,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095059Z" creationid="seto" creationdate="20190410T095059Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each city has several merchants, either directly outside or inside buildings.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114208Z">
@@ -35587,6 +35595,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095056Z" creationid="seto" creationdate="20190410T095056Z">
+        <seg>N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOT IN DB</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T034800Z" creationid="setom" creationdate="20190401T034800Z">
@@ -45879,6 +45895,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095057Z" creationid="seto" creationdate="20190410T095057Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SS Shadows</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022435Z" creationid="hiru4" creationdate="20190402T022435Z">
@@ -55905,6 +55929,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095100Z" creationid="seto" creationdate="20190410T095100Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait 2 days for Gabriella to confirm you slew the horror.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T094353Z" creationid="Light" creationdate="20190409T094353Z">
@@ -62156,8 +62188,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} cannot be placed here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132520Z" creationid="totochan" creationdate="20190402T194100Z">
-        <seg>{1}ここには設置することができません</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095123Z" creationid="totochan" creationdate="20190402T194100Z">
+        <seg>{1}はここに設置することができません</seg>
       </tuv>
     </tu>
     <tu>
@@ -62188,8 +62220,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} has been armed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132742Z" creationid="totochan" creationdate="20190402T194317Z">
-        <seg>{1}武装している</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095130Z" creationid="totochan" creationdate="20190402T194317Z">
+        <seg>{1}は武装している</seg>
       </tuv>
     </tu>
     <tu>
@@ -62276,8 +62308,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>{1} is now receding.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132747Z" creationid="totochan" creationdate="20190402T194405Z">
-        <seg>{1}破棄します</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190410T095137Z" creationid="totochan" creationdate="20190402T194405Z">
+        <seg>{1}を破棄します</seg>
       </tuv>
     </tu>
     <tu>
