@@ -13407,6 +13407,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Burac_TutorialGate_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100808Z" creationid="seto" creationdate="20190410T100808Z">
+        <seg>Burac_TutorialGate_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Burac_TutorialGate_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100854Z" creationid="seto" creationdate="20190410T100854Z">
+        <seg>Burac_TutorialGate_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Burn</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043916Z" creationid="totochan" creationdate="20190403T133848Z">
@@ -26548,6 +26564,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold up there, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100836Z" creationid="seto" creationdate="20190410T100836Z">
+        <seg>待て待て、[PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hollowed Lotus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111219Z" creationid="Gaiden Shinji" creationdate="20190404T111219Z">
@@ -34491,6 +34515,102 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Alchemist_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100116Z" creationid="seto" creationdate="20190410T100116Z">
+        <seg>Merchant_Cierzo_Alchemist_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100116Z" creationid="seto" creationdate="20190410T100116Z">
+        <seg>Merchant_Cierzo_Blacksmith_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100124Z" creationid="seto" creationdate="20190410T100124Z">
+        <seg>Merchant_Cierzo_Blacksmith_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100135Z" creationid="seto" creationdate="20190410T100135Z">
+        <seg>Merchant_Cierzo_Blacksmith_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100136Z" creationid="seto" creationdate="20190410T100136Z">
+        <seg>Merchant_Cierzo_Blacksmith_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100137Z" creationid="seto" creationdate="20190410T100137Z">
+        <seg>Merchant_Cierzo_Blacksmith_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100138Z" creationid="seto" creationdate="20190410T100138Z">
+        <seg>Merchant_Cierzo_Blacksmith_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100139Z" creationid="seto" creationdate="20190410T100139Z">
+        <seg>Merchant_Cierzo_Blacksmith_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_Blacksmith_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100140Z" creationid="seto" creationdate="20190410T100140Z">
+        <seg>Merchant_Cierzo_Blacksmith_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_CaravanTrader_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100141Z" creationid="seto" creationdate="20190410T100141Z">
+        <seg>Merchant_Cierzo_CaravanTrader_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_FishmongerA_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100143Z" creationid="seto" creationdate="20190410T100143Z">
+        <seg>Merchant_Cierzo_FishmongerA_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Cierzo_FishmongerA_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100144Z" creationid="seto" creationdate="20190410T100144Z">
+        <seg>Merchant_Cierzo_FishmongerA_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merchants are mostly clustered around the Fish Statue in the middle of the city.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T161331Z">
@@ -37031,6 +37151,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T021508Z">
         <seg>いや、まだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not like that you aren't!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100927Z" creationid="seto" creationdate="20190410T100927Z">
+        <seg>そんなことはやめろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40257,6 +40385,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T070438Z" creationid="seto" creationdate="20190406T070438Z">
         <seg>Player_BeachGuy_NEUT_Call_To_A_d_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Burac_TutorialGate_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100853Z" creationid="seto" creationdate="20190410T100853Z">
+        <seg>Player_Burac_TutorialGate_a_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -52020,6 +52156,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talk about what?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100132Z" creationid="seto" creationdate="20190410T100132Z">
+        <seg>何か話でも？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talk to Balira in Vendavel.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190408T130920Z" creationid="urakata" creationdate="20190408T130920Z">
@@ -57792,6 +57936,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T121411Z" creationid="Light" creationdate="20190406T121411Z">
         <seg>どこで魔法を学べる？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where do you think you’re going?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T100852Z" creationid="seto" creationdate="20190410T100852Z">
+        <seg>どこに行こうとしてるんだ？</seg>
       </tuv>
     </tu>
     <tu>
