@@ -24228,6 +24228,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Got any more dangerous work for me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104108Z" creationid="seto" creationdate="20190410T104108Z">
+        <seg>もっとヤバイ仕事はないですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Got it, I'll pay attention to the guests.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T171809Z" creationid="magur0w" creationdate="20190404T171809Z">
@@ -26308,6 +26316,38 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103945Z" creationid="seto" creationdate="20190410T103945Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103947Z" creationid="seto" creationdate="20190410T103947Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103949Z" creationid="seto" creationdate="20190410T103949Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103956Z" creationid="seto" creationdate="20190410T103956Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helen_Turnbull_NE_Call_To_Advent_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015254Z" creationid="seto" creationdate="20190407T015254Z">
@@ -27470,6 +27510,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found that rare mushroom you wanted!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104035Z" creationid="seto" creationdate="20190410T104020Z">
+        <seg>あなたが欲しがっていた珍しいキノコを見つけましたよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found the one leading the attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T190123Z" creationid="magur0w" creationdate="20190404T190123Z">
@@ -27618,6 +27666,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173646Z" creationid="magur0w" creationdate="20190404T173236Z">
         <seg>私はJuliusと重要で個人的な取引の話しがいくつかある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have something to sell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104119Z" creationid="seto" creationdate="20190410T104119Z">
+        <seg>売るものがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32335,6 +32391,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T043118Z" creationid="Light" creationdate="20190406T043118Z">
         <seg>この辺で、なにかできることはありませんか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m looking for work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104049Z" creationid="seto" creationdate="20190410T104049Z">
+        <seg>仕事を探しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41157,6 +41221,78 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103946Z" creationid="seto" creationdate="20190410T103946Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_01-j</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104003Z" creationid="seto" creationdate="20190410T104003Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_01-j</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104040Z" creationid="seto" creationdate="20190410T104040Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02_W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103951Z" creationid="seto" creationdate="20190410T103951Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02_W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02_s</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104109Z" creationid="seto" creationdate="20190410T104109Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_02_s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103948Z" creationid="seto" creationdate="20190410T103948Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01-s</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103953Z" creationid="seto" creationdate="20190410T103953Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01-s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_02_W</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T104051Z" creationid="seto" creationdate="20190410T104051Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_02_W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103954Z" creationid="seto" creationdate="20190410T103954Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Medic_Vendavel_a_02</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115126Z" creationid="seto" creationdate="20190404T115126Z">
@@ -42393,6 +42529,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015114Z" creationid="seto" creationdate="20190407T015114Z">
         <seg>Player_Roland_NE_Call_To_Advent_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rufus_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103941Z" creationid="seto" creationdate="20190410T103941Z">
+        <seg>Player_Rufus_NE_Call_To_Advent_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rufus_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103921Z" creationid="seto" creationdate="20190410T103921Z">
+        <seg>Player_Rufus_NE_Call_To_Advent_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Rufus_NE_Call_To_Advent_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103932Z" creationid="seto" creationdate="20190410T103932Z">
+        <seg>Player_Rufus_NE_Call_To_Advent_c_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -46587,6 +46747,126 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T164128Z">
         <seg>Rufusが私にせん別としてこれをくれたの。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103920Z" creationid="seto" creationdate="20190410T103920Z">
+        <seg>Rufus_NE_Call_To_Advent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103923Z" creationid="seto" creationdate="20190410T103923Z">
+        <seg>Rufus_NE_Call_To_Advent_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103928Z" creationid="seto" creationdate="20190410T103928Z">
+        <seg>Rufus_NE_Call_To_Advent_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103930Z" creationid="seto" creationdate="20190410T103930Z">
+        <seg>Rufus_NE_Call_To_Advent_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103931Z" creationid="seto" creationdate="20190410T103931Z">
+        <seg>Rufus_NE_Call_To_Advent_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103933Z" creationid="seto" creationdate="20190410T103933Z">
+        <seg>Rufus_NE_Call_To_Advent_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103934Z" creationid="seto" creationdate="20190410T103934Z">
+        <seg>Rufus_NE_Call_To_Advent_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103935Z" creationid="seto" creationdate="20190410T103935Z">
+        <seg>Rufus_NE_Call_To_Advent_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103941Z" creationid="seto" creationdate="20190410T103941Z">
+        <seg>Rufus_NE_Call_To_Advent_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103942Z" creationid="seto" creationdate="20190410T103942Z">
+        <seg>Rufus_NE_Call_To_Advent_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103942Z" creationid="seto" creationdate="20190410T103942Z">
+        <seg>Rufus_NE_Call_To_Advent_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103943Z" creationid="seto" creationdate="20190410T103943Z">
+        <seg>Rufus_NE_Call_To_Advent_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103943Z" creationid="seto" creationdate="20190410T103943Z">
+        <seg>Rufus_NE_Call_To_Advent_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103944Z" creationid="seto" creationdate="20190410T103944Z">
+        <seg>Rufus_NE_Call_To_Advent_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rufus_NE_Call_To_Advent_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103945Z" creationid="seto" creationdate="20190410T103945Z">
+        <seg>Rufus_NE_Call_To_Advent_29</seg>
       </tuv>
     </tu>
     <tu>
@@ -61182,6 +61462,30 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103904Z" creationid="seto" creationdate="20190410T103904Z">
         <seg>Yzan_NE_Call_To_Advent_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_37</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103918Z" creationid="seto" creationdate="20190410T103918Z">
+        <seg>Yzan_NE_Call_To_Advent_37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_38</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103919Z" creationid="seto" creationdate="20190410T103919Z">
+        <seg>Yzan_NE_Call_To_Advent_38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_39</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190410T103919Z" creationid="seto" creationdate="20190410T103919Z">
+        <seg>Yzan_NE_Call_To_Advent_39</seg>
       </tuv>
     </tu>
     <tu>
