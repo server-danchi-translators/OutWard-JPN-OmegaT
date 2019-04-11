@@ -27742,6 +27742,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't want to talk about it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T082254Z" creationid="taman" creationdate="20190411T082254Z">
+        <seg>あまりそのことにつては話したくありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t care if you have to make one, I need one.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T021954Z" creationid="rkmad" creationdate="20190404T021423Z">
@@ -31830,6 +31838,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T114923Z" creationid="Mad" creationdate="20190406T114923Z">
         <seg>そうね、あなたに会えてよかったと思う。また会えたら、どこかで。じゃあね、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was... painful to look at.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T082235Z" creationid="taman" creationdate="20190411T082235Z">
+        <seg>その……見ているのが辛かったです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50172,8 +50188,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Spirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T081850Z">
-        <seg>クリスタルに閉じ込められた戦士たちの亡霊がスカージを何度も突き刺していました</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T081958Z">
+        <seg>クリスタルに閉じ込められた戦士たちの亡霊がスカージを何度も突き刺していました。</seg>
       </tuv>
     </tu>
     <tu>
