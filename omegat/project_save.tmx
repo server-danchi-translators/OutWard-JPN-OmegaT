@@ -10684,6 +10684,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And what did you learn?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T082427Z" creationid="taman" creationdate="20190411T082427Z">
+        <seg>それで、あなたは何を学びましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And what did you see?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T072702Z" creationid="taman" creationdate="20190409T072702Z">
@@ -31448,8 +31456,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Is this really the best solution, or is it just a desperate plan that no one has bothered to question?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T061431Z" creationid="taman" creationdate="20190411T061431Z">
-        <seg>本当にこれが最善の解決策なのか、口にするのもはばかられるような苦肉の策なのか私にはわからない。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T082838Z" creationid="taman" creationdate="20190411T061431Z">
+        <seg>本当にこれが最善の解決策なのか、誰もが目をそむけるような苦肉の策なのか私にはわからない。</seg>
       </tuv>
     </tu>
     <tu>
