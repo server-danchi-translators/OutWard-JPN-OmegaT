@@ -22108,6 +22108,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Beetle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190411T000231Z" creationid="pugnus" creationdate="20190411T000231Z">
+        <seg>ファイアビートル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Damage and Resistance [E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T061856Z" creationid="totochan" creationdate="20190403T133751Z">
@@ -46651,6 +46659,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T110600Z" creationid="pugnus" creationdate="20190410T110600Z">
         <seg>ローブをまとった男</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rock Mantis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190411T000342Z" creationid="pugnus" creationdate="20190411T000328Z">
+        <seg>ロック・マンティス</seg>
       </tuv>
     </tu>
     <tu>
