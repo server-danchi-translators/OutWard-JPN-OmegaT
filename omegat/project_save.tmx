@@ -37555,6 +37555,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nice to see you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190411T074846Z" creationid="seto" creationdate="20190411T074846Z">
+        <seg>やあ、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Breakthrough Point remaining.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052809Z" creationid="hiru4" creationdate="20190403T052809Z">
@@ -60765,6 +60773,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have nothing to fear while I’m around, my friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190411T074834Z" creationid="seto" creationdate="20190411T074834Z">
+        <seg>私の周りにいる間は何も怖がらなくていいわ、わが友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have very limited inventory space, even with a backpack.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T134249Z" creationid="setom" creationdate="20190331T111954Z">
@@ -61950,6 +61966,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101758Z" creationid="pugnus" creationdate="20190404T050927Z">
         <seg>私はベンダベルの要塞を脱出したが、多大な犠牲を払った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve more than earned your reward!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190411T075050Z" creationid="seto" creationdate="20190411T075044Z">
+        <seg>報酬以上の仕事ね！</seg>
       </tuv>
     </tu>
     <tu>
