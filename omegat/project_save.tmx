@@ -39063,8 +39063,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Now you see why Elatt fights the Scourge as much as he can.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T165621Z" creationid="taman" creationdate="20190411T165621Z">
-        <seg>エラットがスカージと戦うことに全身全霊をかける理由が分かったのではないですか。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T165905Z" creationid="taman" creationdate="20190411T165621Z">
+        <seg>スカージとの戦いにエラットが全身全霊をかける理由が分かったのではないですか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49395,6 +49395,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T032948Z" creationid="rkmad" creationdate="20190405T032933Z">
         <seg>議会の主催者が招集をかけたとき、私を含めた代表者達は議会の発祥であるベルクの街に集まります。そして、様々な物事を議論し、投票を行うのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should we someday eradicate them, it will mean an end to the suffering of those spirits.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T170749Z" creationid="taman" creationdate="20190411T170749Z">
+        <seg>この世からスカージが根絶されれば、戦士たちの魂も苦しみから解放されるのですから。</seg>
       </tuv>
     </tu>
     <tu>
