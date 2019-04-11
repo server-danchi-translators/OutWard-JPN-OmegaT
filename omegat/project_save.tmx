@@ -30168,8 +30168,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Indeed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T092004Z" creationid="rkmad" creationdate="20190405T092004Z">
-        <seg>その通り。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T082927Z" creationid="rkmad" creationdate="20190405T092004Z">
+        <seg>その通りです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50060,6 +50060,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022512Z" creationid="weedssoul" creationdate="20190406T022512Z">
         <seg>準備をしていなければ、議会全体を脅かす何かが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, victory comes with great sacrifice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T083011Z" creationid="taman" creationdate="20190411T082916Z">
+        <seg>勝利には多大な犠牲を伴うことがあるということでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
