@@ -21556,6 +21556,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even gods make mistakes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T164645Z" creationid="taman" creationdate="20190411T164645Z">
+        <seg>神も間違いを犯すということでしょうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even me?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060236Z" creationid="Mad" creationdate="20190407T060236Z">
@@ -40431,8 +40439,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or else we become the very monsters we fight against.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T164425Z" creationid="taman" creationdate="20190411T161612Z">
-        <seg>でないと私たちはスカージと同じ怪物になってしまいます。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T165110Z" creationid="taman" creationdate="20190411T161612Z">
+        <seg>でないと私たちはスカージのような怪物となんら変わらなくなってしまうのですから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40793,6 +40801,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124342Z" creationid="urakata" creationdate="20190406T124342Z">
         <seg>亡霊は何かくれるのかもしれない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T164813Z" creationid="taman" creationdate="20190411T164813Z">
+        <seg>神も完全ではありません。</seg>
       </tuv>
     </tu>
     <tu>
