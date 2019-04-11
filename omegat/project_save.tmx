@@ -10252,6 +10252,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All we can do is trust in Elatt…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T065727Z" creationid="taman" creationdate="20190411T065727Z">
+        <seg>私たちにできるのはエラットを信じることだけだ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All we lost was some coin and four months of time on this failed journey.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135348Z" creationid="weedssoul" creationdate="20190406T030456Z">
@@ -11362,6 +11370,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T115036Z" creationid="Mad" creationdate="20190406T113343Z">
         <seg>私が言っているのは、聖なる使命を帯びて、すべてのオーライの人々の為に働くということよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At what price...There must be a better way…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T065831Z" creationid="taman" creationdate="20190411T065627Z">
+        <seg>彼らの魂が犠牲になっているのに……きっと他にいい方法があるはずよ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -29074,6 +29090,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060754Z">
         <seg>あそこには恐怖の殻と言われるScourge Beastがいるという噂だ。 ゴーストパスの近くだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T065748Z" creationid="taman" creationdate="20190411T065748Z">
+        <seg>私は……</seg>
       </tuv>
     </tu>
     <tu>
@@ -55907,8 +55931,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>This does protect us, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T064659Z" creationid="taman" creationdate="20190411T064659Z">
-        <seg>でもVigilは私たちを守ってくれる。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T065510Z" creationid="taman" creationdate="20190411T064659Z">
+        <seg>Vigilは私たちを守ってくれる。</seg>
       </tuv>
     </tu>
     <tu>
