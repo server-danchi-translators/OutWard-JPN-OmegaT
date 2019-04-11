@@ -56089,6 +56089,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Those people's spirits are in torment, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T040326Z" creationid="taman" creationdate="20190411T040326Z">
+        <seg>彼らの魂は苦しんでいるのよ、[PlayerName]!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those poor spirits...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T070003Z" creationid="taman" creationdate="20190410T070003Z">
@@ -58606,6 +58614,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090753Z" creationid="rkmad" creationdate="20190404T090312Z">
         <seg>私がシエルゾを立ち去って二度と戻ってこない場合は？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What if it was your parents trapped in that crystal?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T044737Z" creationid="taman" creationdate="20190411T044737Z">
+        <seg>クリスタルに閉じ込められたのがあなたの両親だったらどうするの？</seg>
       </tuv>
     </tu>
     <tu>
