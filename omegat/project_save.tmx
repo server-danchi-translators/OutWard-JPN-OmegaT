@@ -56025,6 +56025,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This sacrifice is horrible...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T054849Z" creationid="taman" creationdate="20190411T054849Z">
+        <seg>その代償が彼らの魂だなんてひどすぎるわ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This shield is unlikely to last long in a fight.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074930Z" creationid="setom" creationdate="20190402T074919Z">
@@ -56123,8 +56131,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Those people's spirits are in torment, [PlayerName]!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T040326Z" creationid="taman" creationdate="20190411T040326Z">
-        <seg>彼らの魂は苦しんでいるのよ、[PlayerName]!</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T050858Z" creationid="taman" creationdate="20190411T040326Z">
+        <seg>彼らの魂が安らぐことはないのよ、[PlayerName]!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58652,8 +58660,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>What if it was your parents trapped in that crystal?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T044737Z" creationid="taman" creationdate="20190411T044737Z">
-        <seg>クリスタルに閉じ込められたのがあなたの両親だったらどうするの？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T050923Z" creationid="taman" creationdate="20190411T044737Z">
+        <seg>ねえ、クリスタルに閉じ込められたのがあなたの両親だったらどうするの？</seg>
       </tuv>
     </tu>
     <tu>
