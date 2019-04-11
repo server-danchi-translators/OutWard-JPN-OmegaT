@@ -27094,6 +27094,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can you so easily justify this?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T040051Z" creationid="taman" creationdate="20190411T040051Z">
+        <seg>どうしてあなたはそんな簡単に受け入れられるの！？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How could I possibly forget?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T125354Z" creationid="rkmad" creationdate="20190404T085750Z">
@@ -61138,8 +61146,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>You're having doubts about joining the Holy Mission?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T182826Z" creationid="taman" creationdate="20190410T182826Z">
-        <seg>使命を果たすことに疑問を持ち始めているの？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T035746Z" creationid="taman" creationdate="20190410T182826Z">
+        <seg>使命を果たすことに疑問を持ち始めているようだね。</seg>
       </tuv>
     </tu>
     <tu>
