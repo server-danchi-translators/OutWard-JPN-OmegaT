@@ -20358,8 +20358,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Either way, the fact remains that we need to destroy the Scourge once and for all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T072139Z" creationid="taman" creationdate="20190411T072056Z">
-        <seg>どちらにせよ、スカージは一刻も早く根絶する必要があるということね。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T080429Z" creationid="taman" creationdate="20190411T072056Z">
+        <seg>どちらにせよ、スカージは一刻も早く根絶する必要があるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20472,6 +20472,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114137Z" creationid="Gaiden Shinji" creationdate="20190404T114137Z">
         <seg>エリナラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellinara gave me a task to perform and I intend to see that it's carried out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T080214Z" creationid="taman" creationdate="20190411T080214Z">
+        <seg>エリナラに託された使命を果たしにいってくるわ。Ellinara gave me a task to perform and I intend to see that it's carried out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29106,6 +29114,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125743Z" creationid="Light" creationdate="20190407T125743Z">
         <seg>[PlayerName]。俺は君を許すつもりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T072628Z" creationid="taman" creationdate="20190411T072628Z">
+        <seg>もう行くわ。</seg>
       </tuv>
     </tu>
     <tu>
