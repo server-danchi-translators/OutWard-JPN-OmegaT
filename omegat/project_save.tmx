@@ -40541,6 +40541,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phytoflora</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190411T002022Z" creationid="pugnus" creationdate="20190411T002022Z">
+        <seg>ファイトフローラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phytosaur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190411T002120Z" creationid="pugnus" creationdate="20190411T002120Z">
+        <seg>ファイトサウア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pick Gaberries from bushes or use a Fishing Harpoon at a fishing spot.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074610Z" creationid="weedssoul" creationdate="20190406T074455Z">
