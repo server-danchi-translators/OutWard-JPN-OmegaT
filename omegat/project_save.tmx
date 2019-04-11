@@ -20356,6 +20356,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either way, the fact remains that we need to destroy the Scourge once and for all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T072139Z" creationid="taman" creationdate="20190411T072056Z">
+        <seg>どちらにせよ、スカージは一刻も早く根絶する必要があるということね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elaborate stew using alpha meat and a gravel beetle, which gives Impact Resistance as well as adding Impact to one’s attacks with the Rage status.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T103026Z" creationid="Light" creationdate="20190407T085834Z">
@@ -55613,6 +55621,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130532Z" creationid="weedssoul" creationdate="20190406T130532Z">
         <seg>これらの異常は時間と共に回復していくが、大半は適切なアイテムを使用することで回復することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These poor spirits deserve to finally rest in peace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T072614Z" creationid="taman" creationdate="20190411T072122Z">
+        <seg>そうすれば彼らの魂もようやく安らかに眠ることができる。</seg>
       </tuv>
     </tu>
     <tu>
