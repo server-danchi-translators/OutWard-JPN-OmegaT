@@ -59470,6 +59470,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you take that chance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T050357Z" creationid="taman" creationdate="20190411T050357Z">
+        <seg>君の家族が襲われてもいいのかい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrecking this golem seems to reduce the interference.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124639Z" creationid="urakata" creationdate="20190406T124639Z">
