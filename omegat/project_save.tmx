@@ -28510,6 +28510,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I saw why the Vigils work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T081950Z" creationid="taman" creationdate="20190411T081950Z">
+        <seg>Vigilがどうやって動いているか分かりましたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I see potential there, but it's very much a gem in the rough.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T082410Z" creationid="rkmad" creationdate="20190408T082410Z">
@@ -50164,8 +50172,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Spirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T073138Z">
-        <seg>クリスタルの中に魂がSpirits, trapped with a Scourge Beast in the crystal, stabbing it endlessly.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T081850Z">
+        <seg>クリスタルに閉じ込められた戦士たちの亡霊がスカージを何度も突き刺していました</seg>
       </tuv>
     </tu>
     <tu>
