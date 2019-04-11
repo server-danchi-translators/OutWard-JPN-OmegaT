@@ -62484,112 +62484,112 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Ask around Levant for clues on the riddle.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T101443Z" creationid="Light" creationdate="20190409T101443Z">
-        <seg>[Optional]なぞについての手がかりをレバントの人々に尋ねる</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T101443Z">
+        <seg>[任意]なぞについての手がかりをレバントの人々に尋ねる</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Confront Jager Sullivan in the City of Berg, in the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T054403Z" creationid="Light" creationdate="20190409T054403Z">
-        <seg>[Optional]エンメルカルの森にあるベルクのJager Sullivanに立ち向かう</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T054403Z">
+        <seg>[任意]エンメルカルの森にあるベルクのJager Sullivanに立ち向かう</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Destroy Myriade to open the magic seal by force.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T092252Z" creationid="urakata" creationdate="20190406T131531Z">
-        <seg>[Optional]魔法の封印を無理やり開くためにミリアドを倒す</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="urakata" creationdate="20190406T131531Z">
+        <seg>[任意]魔法の封印を無理やり開くためにミリアドを倒す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Find Zephyrien, who went missing in the far south-east of Enmerkar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T103128Z" creationid="Light" creationdate="20190409T103128Z">
-        <seg>[Optional]エンメルカルの南東部で行方不明になったゼフィリアンを見つける</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T103128Z">
+        <seg>[任意]エンメルカルの南東部で行方不明になったゼフィリアンを見つける</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Find a smith in Berg to make a trinket for Roland.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T094040Z" creationid="Light" creationdate="20190409T094040Z">
-        <seg>[Optional]ローランドの装具を作るためにベルクで鍛冶屋を見つける</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T094040Z">
+        <seg>[任意]ローランドの装具を作るためにベルクで鍛冶屋を見つける</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Find clues in Monsoon on Zephyrien’s whereabouts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T103450Z" creationid="Light" creationdate="20190409T103450Z">
-        <seg>[Optional]ゼフィリアンの居場所についてモンスーンで手がかりを見つける</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T103450Z">
+        <seg>[任意]ゼフィリアンの居場所についてモンスーンで手がかりを見つける</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T103354Z" creationid="Light" creationdate="20190404T133754Z">
-        <seg>[Optional] ミシェル・アバンディーンに包帯かライフポーションを与える</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190404T133754Z">
+        <seg>[任意] ミシェル・アバンディーンに包帯かライフポーションを与える</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Give the Writ of Tribal Favor to Rissa instead of 150 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T102859Z" creationid="urakata" creationdate="20190407T031047Z">
-        <seg>[Optional]リッサに150シルバーの代わりとして一族の支持の証を渡す</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="urakata" creationdate="20190407T031047Z">
+        <seg>[任意]リッサに150シルバーの代わりとして一族の支持の証を渡す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Kill the mercenary leader in the Enmerkar Forest, in the south of the region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T060244Z" creationid="Light" creationdate="20190409T060244Z">
-        <seg>[Optional]エンメルカルの森にいる傭兵のリーダーを倒す</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T060244Z">
+        <seg>[任意]エンメルカルの森にいる傭兵のリーダーを倒す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Offer the idol to the Red Lady’s statue.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T094059Z" creationid="urakata" creationdate="20190406T133241Z">
-        <seg>[Optional]赤の貴婦人の像に小像を供える</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="urakata" creationdate="20190406T133241Z">
+        <seg>[任意]赤の貴婦人の像に小像を供える</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Prepare for the negotiations by talking to other giants or scholars.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T060557Z" creationid="Light" creationdate="20190409T060557Z">
-        <seg>[Optional]他の巨人や学者と話して、交渉の準備をする</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T060557Z">
+        <seg>[任意]他の巨人や学者と話して、交渉の準備をする</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Present the evidence to Lockwell, in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T054515Z" creationid="Light" creationdate="20190409T054433Z">
-        <seg>[Optional]モンスーンでロックウェルに証拠を提示する</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T054433Z">
+        <seg>[任意]モンスーンでロックウェルに証拠を提示する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Taleron, in Berg, needs Blue Sand, a Mana Stone, and either an Emerald or a Ruby to make Roland’s focus tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T094143Z" creationid="Light" creationdate="20190409T094143Z">
-        <seg>[Optional]ベルクのTaleronは、ローランドの装備を作るために青い砂、マナストーン、そしてエメラルドかルビーを必要としている</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T094143Z">
+        <seg>[任意]ベルクのTaleronは、ローランドの装備を作るために青い砂、マナストーン、そしてエメラルドかルビーを必要としている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Talk to Roland, in Berg, about focusing his magical power.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T093959Z" creationid="Light" creationdate="20190409T093959Z">
-        <seg>[Optional]魔法の力を集中させることについて、ベルクでローランドと話す</seg>
+      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T093959Z">
+        <seg>[任意]魔法の力を集中させることについて、ベルクでローランドと話す</seg>
       </tuv>
     </tu>
     <tu>
