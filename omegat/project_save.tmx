@@ -39029,6 +39029,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now you know why Elatt doesn't celebrate his victory against the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T083644Z" creationid="taman" creationdate="20190411T083644Z">
+        <seg>エラットが勝利を称賛しない理由をあなたも理解したはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, I have no choice but to pick myself up yet again and face the wild, untamed land outside the walls.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190402T104418Z">
@@ -50066,8 +50074,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Sometimes, victory comes with great sacrifice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T083011Z" creationid="taman" creationdate="20190411T082916Z">
-        <seg>勝利には多大な犠牲を伴うことがあるということでしょうか。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T083408Z" creationid="taman" creationdate="20190411T082916Z">
+        <seg>戦いに勝つということは多大な犠牲を伴うことがあるということでしょうか。</seg>
       </tuv>
     </tu>
     <tu>
