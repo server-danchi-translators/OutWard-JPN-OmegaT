@@ -10686,8 +10686,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>And what did you learn?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T153618Z" creationid="taman" creationdate="20190411T082427Z">
-        <seg>では、あなたは何を学びましたか？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T161020Z" creationid="taman" creationdate="20190411T082427Z">
+        <seg>そこからあなたは何を学びましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -13827,6 +13827,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T050628Z" creationid="taman" creationdate="20190411T050628Z">
         <seg>それでも……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But they are to be avoided at all costs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190411T161339Z" creationid="taman" creationdate="20190411T161339Z">
+        <seg>しかし、我々はそうした選択はできる限り選んではなりません。But they are to be avoided at all costs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55803,8 +55811,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>There's one not far from Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T070937Z" creationid="taman" creationdate="20190409T064303Z">
-        <seg>モンスーンのすぐ近くにも1つあります。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190411T160942Z" creationid="taman" creationdate="20190409T064303Z">
+        <seg>モンスーンを出てすぐ近くの場所にも1つあります。</seg>
       </tuv>
     </tu>
     <tu>
