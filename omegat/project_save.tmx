@@ -8894,8 +8894,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>A warm voice reaches you through the haze of pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190404T034439Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
-        <seg>痛みで意識が霞む中、暖かい声が届く。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093356Z" creationid="はぐくみ会" creationdate="20190403T053950Z">
+        <seg>意識が霞む中、暖かい声が届く。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20480,6 +20480,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063132Z" creationid="totochan" creationdate="20190403T140041Z">
         <seg>元素耐性 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_31</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
+        <seg>Ellat_HM_prequest_31</seg>
       </tuv>
     </tu>
     <tu>
@@ -39485,6 +39493,46 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093144Z" creationid="seto" creationdate="20190412T093144Z">
+        <seg>Oliele_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093148Z" creationid="seto" creationdate="20190412T093148Z">
+        <seg>Oliele_HM_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093150Z" creationid="seto" creationdate="20190412T093150Z">
+        <seg>Oliele_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093154Z" creationid="seto" creationdate="20190412T093154Z">
+        <seg>Oliele_HM_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093156Z" creationid="seto" creationdate="20190412T093156Z">
+        <seg>Oliele_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015259Z" creationid="seto" creationdate="20190407T015259Z">
@@ -42537,6 +42585,38 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052721Z" creationid="seto" creationdate="20190406T052721Z">
         <seg>Player_Oliele_BC_Mix_Legacy_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093146Z" creationid="seto" creationdate="20190412T093146Z">
+        <seg>Player_Oliele_HM_prequest_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_prequest_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093152Z" creationid="seto" creationdate="20190412T093152Z">
+        <seg>Player_Oliele_HM_prequest_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_prequest_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093146Z" creationid="seto" creationdate="20190412T093146Z">
+        <seg>Player_Oliele_HM_prequest_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_prequest_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T093153Z" creationid="seto" creationdate="20190412T093153Z">
+        <seg>Player_Oliele_HM_prequest_b_03</seg>
       </tuv>
     </tu>
     <tu>
