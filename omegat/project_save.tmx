@@ -53404,14 +53404,6 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Tags count</seg>
-      </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T051655Z" creationid="seto" creationdate="20190406T051655Z">
-        <seg>Tags count</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Take</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115754Z" creationid="setom" creationdate="20190401T115754Z">
@@ -65025,6 +65017,26 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190403T080314Z">
         <seg>どうしても飲みたいというのであれば、キャンプファイヤーで沸騰させ、清潔な水にしてから飲むべきだろう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/item_all.xml</prop>
+      <prop type="id">3713_0</prop>
+      <tuv lang="EN-US">
+        <seg>Coil Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T094659Z" creationid="seto" creationdate="20190412T094659Z">
+        <seg>Coil Lantern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/item_all.xml</prop>
+      <prop type="id">3714_0</prop>
+      <tuv lang="EN-US">
+        <seg>Tags count</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190412T094704Z" creationid="seto" creationdate="20190412T094704Z">
+        <seg>Tags count</seg>
       </tuv>
     </tu>
     <tu>
