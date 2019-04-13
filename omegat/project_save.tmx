@@ -28918,6 +28918,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I won't run from this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T004605Z" creationid="seto" creationdate="20190413T004605Z">
+        <seg>俺は逃げねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I won’t force you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T165515Z">
@@ -55085,6 +55093,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's what's expected of me, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T004919Z" creationid="seto" creationdate="20190413T004919Z">
+        <seg>それが俺に期待されてることでもある、違うか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s an order!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T111848Z" creationid="weedssoul" creationdate="20190406T111848Z">
@@ -56629,6 +56645,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183928Z" creationid="magur0w" creationdate="20190404T183928Z">
         <seg>恐ろしいニュースだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is my punishment, and I will shoulder it however I can, until I die.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T004818Z" creationid="seto" creationdate="20190413T004813Z">
+        <seg>これが俺の罰で、俺がやんなきゃなんねぇことだ。死ぬまでな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58675,8 +58699,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>We will pay our Blood Price for however many generations it takes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T004536Z" creationid="seto" creationdate="20190413T004536Z">
-        <seg>俺たちは下の世代の奴らの為に代償を払うんだろうよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T004731Z" creationid="seto" creationdate="20190413T004536Z">
+        <seg>何世代掛かってでも代償を払うんだ。</seg>
       </tuv>
     </tu>
     <tu>
