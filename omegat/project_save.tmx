@@ -32490,6 +32490,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s like she has some kind of sixth sense.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002951Z" creationid="seto" creationdate="20190413T002951Z">
+        <seg>彼女には第六感みたいなのがあるんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s nice to see a familiar face.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T135359Z" creationid="Mad" creationdate="20190407T135359Z">
@@ -47463,6 +47471,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002952Z" creationid="seto" creationdate="20190413T002952Z">
+        <seg>Roland_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015143Z" creationid="seto" creationdate="20190407T015143Z">
@@ -61828,6 +61844,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T035746Z" creationid="taman" creationdate="20190410T182826Z">
         <seg>使命を果たすことに疑問を持ち始めているようだね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're here to take what little I have, like you did to my brother, I guess?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T003145Z" creationid="seto" creationdate="20190413T003145Z">
+        <seg>兄貴にやったみたいに、俺からも根こそぎ奪おうっていう魂胆なんだろ？</seg>
       </tuv>
     </tu>
     <tu>
