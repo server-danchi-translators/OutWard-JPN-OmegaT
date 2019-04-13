@@ -57376,6 +57376,15 @@ QName_Errand_Idol</seg>
       </tuv>
     </tu>
     <tu>
+      <note>for protectionの意味があいまいなので、後のストーリーで何かしらヒントがあれば訳語をストーリーに合わせて変更したい。</note>
+      <tuv lang="EN-US">
+        <seg>They've been turning to the undead from the valley beyond the Ghost Pass for protection.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T171412Z" creationid="taman" creationdate="20190413T171412Z">
+        <seg>Ghost Passを抜けた先にある谷を超えた所で、部族を守るため不死者と化した姿が目撃されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>They, like all uncooked food, provide more benefits and rot more slowly when cooked.</seg>
       </tuv>
