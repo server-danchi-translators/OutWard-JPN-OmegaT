@@ -57808,6 +57808,15 @@ QName_Errand_Idol</seg>
       </tuv>
     </tu>
     <tu>
+      <note>磔にするような描写はなかったが、念のため磔が正しい訳語なのか要確認。</note>
+      <tuv lang="EN-US">
+        <seg>Those lunatics who string up the corpses of their enemies all around their village?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T164820Z" creationid="taman" creationdate="20190413T164820Z">
+        <seg>殺した相手の死体を村の周囲に磔にするという狂信者のことですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Those people's spirits are in torment, [PlayerName]!</seg>
       </tuv>
