@@ -27798,6 +27798,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t even know how Rissa found out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002826Z" creationid="seto" creationdate="20190413T002826Z">
+        <seg>リッサがどうやって見つけたのかも俺には見当もつかない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t have anything that can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T133743Z">
@@ -43301,6 +43309,62 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002527Z" creationid="seto" creationdate="20190413T002527Z">
+        <seg>Player_Yzan_BC_Prequest_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_a_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002604Z" creationid="seto" creationdate="20190413T002604Z">
+        <seg>Player_Yzan_BC_Prequest_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_a_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002623Z" creationid="seto" creationdate="20190413T002623Z">
+        <seg>Player_Yzan_BC_Prequest_a_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002539Z" creationid="seto" creationdate="20190413T002539Z">
+        <seg>Player_Yzan_BC_Prequest_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_b_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002620Z" creationid="seto" creationdate="20190413T002620Z">
+        <seg>Player_Yzan_BC_Prequest_b_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_b_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002628Z" creationid="seto" creationdate="20190413T002628Z">
+        <seg>Player_Yzan_BC_Prequest_b_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_BC_Prequest_c_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002553Z" creationid="seto" creationdate="20190413T002553Z">
+        <seg>Player_Yzan_BC_Prequest_c_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Yzan_NE_Call_To_Advent_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103727Z" creationid="seto" creationdate="20190410T103727Z">
@@ -46807,6 +46871,38 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Prequest_44</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002514Z" creationid="seto" creationdate="20190413T002514Z">
+        <seg>Rissa_BC_Prequest_44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NEUT_Rescued_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002515Z" creationid="seto" creationdate="20190413T002515Z">
+        <seg>Rissa_NEUT_Rescued_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NEUT_Rescued_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002516Z" creationid="seto" creationdate="20190413T002516Z">
+        <seg>Rissa_NEUT_Rescued_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_NEUT_Rescued_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002518Z" creationid="seto" creationdate="20190413T002518Z">
+        <seg>Rissa_NEUT_Rescued_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_NE_Call_To_A_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214343Z" creationid="seto" creationdate="20190404T214343Z">
@@ -47347,6 +47443,22 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T122112Z" creationid="Light" creationdate="20190407T122112Z">
         <seg>ローランドには灯台を照らし続ける仕事がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
+        <seg>Roland_BC_Prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002650Z" creationid="seto" creationdate="20190413T002650Z">
+        <seg>Roland_BC_Prequest_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -62246,6 +62358,158 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135646Z" creationid="weedssoul" creationdate="20190406T030754Z">
         <seg>イザン、私は5日間で、150銀貨集めなければならない。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002519Z" creationid="seto" creationdate="20190413T002519Z">
+        <seg>Yzan_BC_Prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002524Z" creationid="seto" creationdate="20190413T002524Z">
+        <seg>Yzan_BC_Prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002525Z" creationid="seto" creationdate="20190413T002525Z">
+        <seg>Yzan_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002536Z" creationid="seto" creationdate="20190413T002536Z">
+        <seg>Yzan_BC_Prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002538Z" creationid="seto" creationdate="20190413T002538Z">
+        <seg>Yzan_BC_Prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002542Z" creationid="seto" creationdate="20190413T002542Z">
+        <seg>Yzan_BC_Prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002554Z" creationid="seto" creationdate="20190413T002554Z">
+        <seg>Yzan_BC_Prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002605Z" creationid="seto" creationdate="20190413T002605Z">
+        <seg>Yzan_BC_Prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002618Z" creationid="seto" creationdate="20190413T002618Z">
+        <seg>Yzan_BC_Prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002621Z" creationid="seto" creationdate="20190413T002621Z">
+        <seg>Yzan_BC_Prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002624Z" creationid="seto" creationdate="20190413T002624Z">
+        <seg>Yzan_BC_Prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002626Z" creationid="seto" creationdate="20190413T002626Z">
+        <seg>Yzan_BC_Prequest_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002629Z" creationid="seto" creationdate="20190413T002629Z">
+        <seg>Yzan_BC_Prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002630Z" creationid="seto" creationdate="20190413T002630Z">
+        <seg>Yzan_BC_Prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002631Z" creationid="seto" creationdate="20190413T002631Z">
+        <seg>Yzan_BC_Prequest_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002632Z" creationid="seto" creationdate="20190413T002632Z">
+        <seg>Yzan_BC_Prequest_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002633Z" creationid="seto" creationdate="20190413T002633Z">
+        <seg>Yzan_BC_Prequest_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002635Z" creationid="seto" creationdate="20190413T002635Z">
+        <seg>Yzan_BC_Prequest_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_BC_Prequest_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
+        <seg>Yzan_BC_Prequest_19</seg>
       </tuv>
     </tu>
     <tu>
