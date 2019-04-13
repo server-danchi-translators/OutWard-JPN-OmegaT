@@ -58289,6 +58289,46 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Troglodyte_Basic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150026Z" creationid="seto" creationdate="20190413T150026Z">
+        <seg>Troglodyte_Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte_Grenadier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150027Z" creationid="seto" creationdate="20190413T150027Z">
+        <seg>Troglodyte_Grenadier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte_Mana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150028Z" creationid="seto" creationdate="20190413T150028Z">
+        <seg>Troglodyte_Mana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte_Metal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150029Z" creationid="seto" creationdate="20190413T150029Z">
+        <seg>Troglodyte_Metal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte_Shaman</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150030Z" creationid="seto" creationdate="20190413T150030Z">
+        <seg>Troglodyte_Shaman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Troglodytes and deep dark caves?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T045805Z" creationid="Light" creationdate="20190406T045805Z">
@@ -58445,6 +58485,78 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T012111Z" creationid="はぐくみ会" creationdate="20190403T103159Z">
         <seg>瞬く間に意識は遠のく。そして、私は何かに襲われる夢を見た。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_BurningMan</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150031Z" creationid="seto" creationdate="20190413T150031Z">
+        <seg>Undead_BurningMan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150032Z" creationid="seto" creationdate="20190413T150032Z">
+        <seg>Undead_Ghost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_Hivelord</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150033Z" creationid="seto" creationdate="20190413T150033Z">
+        <seg>Undead_Hivelord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_LichGold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150034Z" creationid="seto" creationdate="20190413T150034Z">
+        <seg>Undead_LichGold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_LichGoldMinion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150034Z" creationid="seto" creationdate="20190413T150034Z">
+        <seg>Undead_LichGoldMinion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_LichJade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150035Z" creationid="seto" creationdate="20190413T150035Z">
+        <seg>Undead_LichJade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_SpecterMelee</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150036Z" creationid="seto" creationdate="20190413T150036Z">
+        <seg>Undead_SpecterMelee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_SpecterRange</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150044Z" creationid="seto" creationdate="20190413T150044Z">
+        <seg>Undead_SpecterRange</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undead_WalkingHive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150045Z" creationid="seto" creationdate="20190413T150045Z">
+        <seg>Undead_WalkingHive</seg>
       </tuv>
     </tu>
     <tu>
@@ -60896,6 +61008,134 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112657Z">
         <seg>野生の獣は体の一部をドロップします。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_BladeDancer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150046Z" creationid="seto" creationdate="20190413T150046Z">
+        <seg>Wildlife_BladeDancer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Bug_Assassin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150046Z" creationid="seto" creationdate="20190413T150046Z">
+        <seg>Wildlife_Bug_Assassin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Bug_Beetle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150047Z" creationid="seto" creationdate="20190413T150047Z">
+        <seg>Wildlife_Bug_Beetle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Bug_Mantis</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150048Z" creationid="seto" creationdate="20190413T150048Z">
+        <seg>Wildlife_Bug_Mantis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Bug_MantisMana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150049Z" creationid="seto" creationdate="20190413T150049Z">
+        <seg>Wildlife_Bug_MantisMana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_CrescentShark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150049Z" creationid="seto" creationdate="20190413T150049Z">
+        <seg>Wildlife_CrescentShark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Deer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150050Z" creationid="seto" creationdate="20190413T150050Z">
+        <seg>Wildlife_Deer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_DeerAlpha</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150051Z" creationid="seto" creationdate="20190413T150051Z">
+        <seg>Wildlife_DeerAlpha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Hound</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150051Z" creationid="seto" creationdate="20190413T150051Z">
+        <seg>Wildlife_Hound</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_HoundArmored</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150052Z" creationid="seto" creationdate="20190413T150052Z">
+        <seg>Wildlife_HoundArmored</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_JewelBird</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150053Z" creationid="seto" creationdate="20190413T150053Z">
+        <seg>Wildlife_JewelBird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Manticore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150054Z" creationid="seto" creationdate="20190413T150054Z">
+        <seg>Wildlife_Manticore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_ObsidianElemental</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150054Z" creationid="seto" creationdate="20190413T150054Z">
+        <seg>Wildlife_ObsidianElemental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_PearlBird</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150055Z" creationid="seto" creationdate="20190413T150055Z">
+        <seg>Wildlife_PearlBird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Phytoflora</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150056Z" creationid="seto" creationdate="20190413T150056Z">
+        <seg>Wildlife_Phytoflora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wildlife_Phytosaur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150057Z" creationid="seto" creationdate="20190413T150057Z">
+        <seg>Wildlife_Phytosaur</seg>
       </tuv>
     </tu>
     <tu>
@@ -64706,6 +64946,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_merchant_cierzoalchemist_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150149Z" creationid="seto" creationdate="20190413T150149Z">
+        <seg>name_merchant_cierzoalchemist_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_Pigeoneye_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034043Z" creationid="seto" creationdate="20190406T034043Z">
@@ -64978,6 +65226,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_door_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150143Z" creationid="seto" creationdate="20190413T150143Z">
+        <seg>name_unpc_door_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_elatt_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033917Z" creationid="seto" creationdate="20190406T033917Z">
@@ -65062,6 +65318,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033922Z" creationid="seto" creationdate="20190406T033922Z">
         <seg>name_unpc_heloisearago_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_hiddenreport_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150129Z" creationid="seto" creationdate="20190413T150129Z">
+        <seg>name_unpc_hiddenreport_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -65178,6 +65442,22 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_levantsoldier_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150128Z" creationid="seto" creationdate="20190413T150128Z">
+        <seg>name_unpc_levantsoldier_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_lockwellguard_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150136Z" creationid="seto" creationdate="20190413T150136Z">
+        <seg>name_unpc_lockwellguard_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_lostmerchant_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033936Z" creationid="seto" creationdate="20190406T033936Z">
@@ -65274,6 +65554,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_oldlevantreport_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150131Z" creationid="seto" creationdate="20190413T150131Z">
+        <seg>name_unpc_oldlevantreport_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_oliele_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033951Z" creationid="seto" creationdate="20190406T033951Z">
@@ -65334,6 +65622,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033954Z" creationid="seto" creationdate="20190406T033954Z">
         <seg>name_unpc_poorrepresent_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_princepietro_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150142Z" creationid="seto" creationdate="20190413T150142Z">
+        <seg>name_unpc_princepietro_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -65402,6 +65698,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_robedman_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150144Z" creationid="seto" creationdate="20190413T150144Z">
+        <seg>name_unpc_robedman_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_rolandargenson_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033959Z" creationid="seto" creationdate="20190406T033959Z">
@@ -65458,6 +65762,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_scribbledorders_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150132Z" creationid="seto" creationdate="20190413T150132Z">
+        <seg>name_unpc_scribbledorders_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_simeon_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034002Z" creationid="seto" creationdate="20190406T034002Z">
@@ -65474,6 +65786,22 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_slumpeople_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150134Z" creationid="seto" creationdate="20190413T150134Z">
+        <seg>name_unpc_slumpeople_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_smugglermessage_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150129Z" creationid="seto" creationdate="20190413T150129Z">
+        <seg>name_unpc_smugglermessage_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_soeran_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034003Z" creationid="seto" creationdate="20190406T034003Z">
@@ -65482,10 +65810,42 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>name_unpc_soldier_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150135Z" creationid="seto" creationdate="20190413T150135Z">
+        <seg>name_unpc_soldier_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_soroborbanker_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150135Z" creationid="seto" creationdate="20190413T150135Z">
+        <seg>name_unpc_soroborbanker_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>name_unpc_taleron_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034004Z" creationid="seto" creationdate="20190406T034004Z">
         <seg>name_unpc_taleron_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_talkingskull_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150137Z" creationid="seto" creationdate="20190413T150137Z">
+        <seg>name_unpc_talkingskull_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_unknown_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150138Z" creationid="seto" creationdate="20190413T150138Z">
+        <seg>name_unpc_unknown_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -65558,6 +65918,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034009Z" creationid="seto" creationdate="20190406T034009Z">
         <seg>name_unpc_vigildolmen_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_unpc_warningnotice_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T150130Z" creationid="seto" creationdate="20190413T150130Z">
+        <seg>name_unpc_warningnotice_01</seg>
       </tuv>
     </tu>
     <tu>
