@@ -9708,6 +9708,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After all, part of my Blood Price has to go to helping you, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005933Z" creationid="seto" creationdate="20190413T005933Z">
+        <seg>でも結局はよ、俺の血の代償の一部がアンタを助けることになる、そうだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all, your grandmother was Chamberlady once, before she was exiled for her actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033251Z" creationid="rkmad" creationdate="20190405T033251Z">
@@ -27414,6 +27422,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How do you intend to pay your Blood Price?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010001Z" creationid="seto" creationdate="20190413T010001Z">
+        <seg>どうやって血の代償を払うつもりだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do you plan on making it to Levant?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123237Z" creationid="Light" creationdate="20190407T123237Z">
@@ -27894,10 +27910,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t have the patience to fish, I’m not good with steel… Bah.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010549Z" creationid="seto" creationdate="20190413T010549Z">
+        <seg>魚釣りも我慢できねぇし、未熟なんだ――ヘッ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t know how I’m going to gather the money Rissa is demanding from me.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113117Z" creationid="weedssoul" creationdate="20190406T112820Z">
         <seg>Rissaが要求してきたお金を、私はどうやって集めればいいのかわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don’t know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010008Z" creationid="seto" creationdate="20190413T010008Z">
+        <seg>それは分からねぇ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28376,8 +28408,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I know, I know.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T005526Z" creationid="seto" creationdate="20190413T005526Z">
-        <seg>分かってる、分かってるさ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005755Z" creationid="seto" creationdate="20190413T005526Z">
+        <seg>分かってる、分かってるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32855,6 +32887,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T042354Z">
         <seg>私は知的好奇心を満たすものに常に興味があるわ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m bad at everything I do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010029Z" creationid="seto" creationdate="20190413T010029Z">
+        <seg>俺はボンクラだからよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43381,6 +43421,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_a_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005935Z" creationid="seto" creationdate="20190413T005935Z">
+        <seg>Player_Roland_BC_Prequest_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004043Z" creationid="seto" creationdate="20190413T004043Z">
@@ -47675,6 +47723,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005520Z" creationid="seto" creationdate="20190413T005520Z">
         <seg>Roland_BC_Prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010002Z" creationid="seto" creationdate="20190413T010002Z">
+        <seg>Roland_BC_Prequest_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -65557,8 +65613,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>I'm sorry.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T005542Z" creationid="seto" creationdate="20190413T005542Z">
-        <seg>本当にすまない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005759Z" creationid="seto" creationdate="20190413T005542Z">
+        <seg>本当にすまねぇ。</seg>
       </tuv>
     </tu>
     <tu>
