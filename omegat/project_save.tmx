@@ -32762,6 +32762,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s still hopeless, but at least I can survive like this, even if it’s just barely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012427Z" creationid="seto" creationdate="20190413T012427Z">
+        <seg>まだ絶望的だろうけど、でも少なくとも生きてくことはできる、かろうじでもよぉ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s such a pain to get blue sand from the Chersonese each time she comes around.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T020319Z" creationid="pugnus" creationdate="20190408T012201Z">
@@ -32879,6 +32887,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T061952Z" creationid="pugnus" creationdate="20190409T061839Z">
         <seg>情報は集めるようにしておくから、また来てね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll keep trying to make it up to you, [PlayerName], I promise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012258Z" creationid="seto" creationdate="20190413T012258Z">
+        <seg>アンタにやれることならなんでもする、[PlayerName]、約束するから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33007,6 +33023,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T062705Z" creationid="Mad" creationdate="20190407T062705Z">
         <seg>いま俺は少し酔っているから……後にしてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m getting better day by day...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012323Z" creationid="seto" creationdate="20190413T012323Z">
+        <seg>俺は日に日に進歩するはずだ…。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39765,6 +39789,126 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_01a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012443Z" creationid="seto" creationdate="20190413T012443Z">
+        <seg>Oliele_BC_Prequest_01a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012445Z" creationid="seto" creationdate="20190413T012445Z">
+        <seg>Oliele_BC_Prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012448Z" creationid="seto" creationdate="20190413T012448Z">
+        <seg>Oliele_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012449Z" creationid="seto" creationdate="20190413T012449Z">
+        <seg>Oliele_BC_Prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012451Z" creationid="seto" creationdate="20190413T012451Z">
+        <seg>Oliele_BC_Prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012453Z" creationid="seto" creationdate="20190413T012453Z">
+        <seg>Oliele_BC_Prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012455Z" creationid="seto" creationdate="20190413T012455Z">
+        <seg>Oliele_BC_Prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012457Z" creationid="seto" creationdate="20190413T012457Z">
+        <seg>Oliele_BC_Prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012458Z" creationid="seto" creationdate="20190413T012458Z">
+        <seg>Oliele_BC_Prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_09-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012459Z" creationid="seto" creationdate="20190413T012459Z">
+        <seg>Oliele_BC_Prequest_09-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_09-bZ</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012459Z" creationid="seto" creationdate="20190413T012459Z">
+        <seg>Oliele_BC_Prequest_09-bZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012501Z" creationid="seto" creationdate="20190413T012501Z">
+        <seg>Oliele_BC_Prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012502Z" creationid="seto" creationdate="20190413T012502Z">
+        <seg>Oliele_BC_Prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012503Z" creationid="seto" creationdate="20190413T012503Z">
+        <seg>Oliele_BC_Prequest_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_BC_Prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012504Z" creationid="seto" creationdate="20190413T012504Z">
+        <seg>Oliele_BC_Prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele_HM_prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093144Z" creationid="seto" creationdate="20190412T093144Z">
@@ -42857,6 +43001,38 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052721Z" creationid="seto" creationdate="20190406T052721Z">
         <seg>Player_Oliele_BC_Mix_Legacy_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_BC_Prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012444Z" creationid="seto" creationdate="20190413T012444Z">
+        <seg>Player_Oliele_BC_Prequest_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_BC_Prequest_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012452Z" creationid="seto" creationdate="20190413T012452Z">
+        <seg>Player_Oliele_BC_Prequest_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_BC_Prequest_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012446Z" creationid="seto" creationdate="20190413T012446Z">
+        <seg>Player_Oliele_BC_Prequest_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_BC_Prequest_b_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012454Z" creationid="seto" creationdate="20190413T012454Z">
+        <seg>Player_Oliele_BC_Prequest_b_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -47859,6 +48035,38 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012037Z" creationid="seto" creationdate="20190413T012037Z">
         <seg>Roland_BC_Prequest_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012239Z" creationid="seto" creationdate="20190413T012239Z">
+        <seg>Roland_BC_Prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012429Z" creationid="seto" creationdate="20190413T012429Z">
+        <seg>Roland_BC_Prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012442Z" creationid="seto" creationdate="20190413T012442Z">
+        <seg>Roland_BC_Prequest_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012443Z" creationid="seto" creationdate="20190413T012443Z">
+        <seg>Roland_BC_Prequest_20</seg>
       </tuv>
     </tu>
     <tu>
@@ -65801,16 +66009,6 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011011Z" creationid="seto" creationdate="20190413T011011Z">
         <seg>もしかしたらな。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
-      <prop type="id">299_0</prop>
-      <tuv lang="EN-US">
-        <seg>I’ll keep trying to make it up to you, [PlayerName], I promise.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T012236Z" creationid="seto" creationdate="20190413T012236Z">
-        <seg>アンタにやれることならなんでもする、[PlayerName]、約束するから。</seg>
       </tuv>
     </tu>
     <tu>
