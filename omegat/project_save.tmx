@@ -10924,6 +10924,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you familiar with the Montcalm tribe in the Chersonese?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T164549Z" creationid="taman" creationdate="20190413T164549Z">
+        <seg>チェルソニスのモンカルム部族について聞いたことはあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you interested, or not?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051404Z" creationid="Light" creationdate="20190406T051404Z">
@@ -51194,8 +51202,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Something about it sends chills up my spine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T161806Z" creationid="taman" creationdate="20190413T161806Z">
-        <seg>なにやら嫌な予感がするのです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T161843Z" creationid="taman" creationdate="20190413T161806Z">
+        <seg>なにやら嫌な予感がします。</seg>
       </tuv>
     </tu>
     <tu>
