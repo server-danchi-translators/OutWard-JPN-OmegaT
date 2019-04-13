@@ -27670,6 +27670,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can try, at least.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005402Z" creationid="seto" creationdate="20190413T005402Z">
+        <seg>やってやろうじゃねぇか、少なくともよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't bear this stupid Blood Price any longer.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T090237Z" creationid="rkmad" creationdate="20190404T090237Z">
@@ -43365,6 +43373,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_d_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005403Z" creationid="seto" creationdate="20190413T005403Z">
+        <seg>Player_Roland_BC_Prequest_d_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_NE_Call_To_Advent_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015126Z" creationid="seto" creationdate="20190407T015126Z">
@@ -49828,6 +49844,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T085835Z" creationid="pugnus" creationdate="20190408T085300Z">
         <seg>しっ！声を小さくして！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shut up, give up on your life, and live for everyone else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005255Z" creationid="seto" creationdate="20190413T005255Z">
+        <seg>黙れ、自分の人生なんか諦めろ、そして他のやつらの為に生きろ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61301,6 +61325,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have no idea how much I want to kill you, Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005500Z" creationid="seto" creationdate="20190413T005500Z">
+        <seg>私がどれだけ殺してやりたいと思っているのか、君には想像もつかないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have no idea...</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113058Z" creationid="weedssoul" creationdate="20190406T112726Z">
@@ -65467,6 +65499,16 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045217Z" creationid="Mad" creationdate="20190407T045217Z">
         <seg>お前か！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">274_0</prop>
+      <tuv lang="EN-US">
+        <seg>Fine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005314Z" creationid="seto" creationdate="20190413T005314Z">
+        <seg>いいぜ。</seg>
       </tuv>
     </tu>
     <tu>
