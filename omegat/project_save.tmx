@@ -10372,6 +10372,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always remember the three pillars of our cause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012637Z" creationid="seto" creationdate="20190413T012637Z">
+        <seg>常に我らの三つの柱を覚えておきなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always work to improve yourself, in mind and body.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T143231Z" creationid="Mad" creationdate="20190407T141628Z">
@@ -12935,6 +12943,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before it comes back!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012901Z" creationid="seto" creationdate="20190413T012901Z">
+        <seg>穴が広がる前に！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before you go I need you to understand the lengths we go to to protect Aurai from the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T164031Z" creationid="taman" creationdate="20190409T061154Z">
@@ -14268,6 +14284,134 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T104309Z" creationid="Light" creationdate="20190409T104309Z">
         <seg>モンスーンのBourlamaque枢機卿は、3日間であなたのために仕事をする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012511Z" creationid="seto" creationdate="20190413T012511Z">
+        <seg>Cardinal_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012514Z" creationid="seto" creationdate="20190413T012514Z">
+        <seg>Cardinal_HM_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012515Z" creationid="seto" creationdate="20190413T012515Z">
+        <seg>Cardinal_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012517Z" creationid="seto" creationdate="20190413T012517Z">
+        <seg>Cardinal_HM_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012519Z" creationid="seto" creationdate="20190413T012519Z">
+        <seg>Cardinal_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012520Z" creationid="seto" creationdate="20190413T012520Z">
+        <seg>Cardinal_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012522Z" creationid="seto" creationdate="20190413T012522Z">
+        <seg>Cardinal_HM_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012522Z" creationid="seto" creationdate="20190413T012522Z">
+        <seg>Cardinal_HM_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012523Z" creationid="seto" creationdate="20190413T012523Z">
+        <seg>Cardinal_HM_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012526Z" creationid="seto" creationdate="20190413T012526Z">
+        <seg>Cardinal_HM_prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012527Z" creationid="seto" creationdate="20190413T012527Z">
+        <seg>Cardinal_HM_prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012530Z" creationid="seto" creationdate="20190413T012530Z">
+        <seg>Cardinal_HM_prequest_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012531Z" creationid="seto" creationdate="20190413T012531Z">
+        <seg>Cardinal_HM_prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012532Z" creationid="seto" creationdate="20190413T012532Z">
+        <seg>Cardinal_HM_prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012533Z" creationid="seto" creationdate="20190413T012533Z">
+        <seg>Cardinal_HM_prequest_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cardinal_HM_prequest_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012535Z" creationid="seto" creationdate="20190413T012535Z">
+        <seg>Cardinal_HM_prequest_16</seg>
       </tuv>
     </tu>
     <tu>
@@ -20540,6 +20684,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012606Z" creationid="seto" creationdate="20190413T012606Z">
+        <seg>Ellat_HM_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -26744,6 +26896,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T074743Z" creationid="seto" creationdate="20190411T074743Z">
         <seg>Helen_Turnbull_NE_Call_To_Advent_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012658Z" creationid="seto" creationdate="20190413T012658Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_21</seg>
       </tuv>
     </tu>
     <tu>
@@ -41781,6 +41941,38 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Cardinal_HM_prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012512Z" creationid="seto" creationdate="20190413T012512Z">
+        <seg>Player_Cardinal_HM_prequest_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cardinal_HM_prequest_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012518Z" creationid="seto" creationdate="20190413T012518Z">
+        <seg>Player_Cardinal_HM_prequest_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cardinal_HM_prequest_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012523Z" creationid="seto" creationdate="20190413T012523Z">
+        <seg>Player_Cardinal_HM_prequest_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cardinal_HM_prequest_b_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012520Z" creationid="seto" creationdate="20190413T012520Z">
+        <seg>Player_Cardinal_HM_prequest_b_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Chef_Vendavel_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115108Z" creationid="seto" creationdate="20190404T115108Z">
@@ -42393,6 +42585,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T073340Z" creationid="seto" creationdate="20190411T073340Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_d_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012700Z" creationid="seto" creationdate="20190413T012700Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_d_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -43801,6 +44001,46 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114900Z" creationid="seto" creationdate="20190404T114900Z">
         <seg>Player_ShivSlave_Vendavel_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012540Z" creationid="seto" creationdate="20190413T012540Z">
+        <seg>Player_Sorean_HM_prequest_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012543Z" creationid="seto" creationdate="20190413T012543Z">
+        <seg>Player_Sorean_HM_prequest_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_a_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012548Z" creationid="seto" creationdate="20190413T012548Z">
+        <seg>Player_Sorean_HM_prequest_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_a_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012552Z" creationid="seto" creationdate="20190413T012552Z">
+        <seg>Player_Sorean_HM_prequest_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012556Z" creationid="seto" creationdate="20190413T012556Z">
+        <seg>Player_Sorean_HM_prequest_b_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -50964,6 +51204,110 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T160039Z" creationid="taman" creationdate="20190411T155647Z">
         <seg>そうですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012535Z" creationid="seto" creationdate="20190413T012535Z">
+        <seg>Sorean_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_01_Z</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012536Z" creationid="seto" creationdate="20190413T012536Z">
+        <seg>Sorean_HM_prequest_01_Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012540Z" creationid="seto" creationdate="20190413T012540Z">
+        <seg>Sorean_HM_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012542Z" creationid="seto" creationdate="20190413T012542Z">
+        <seg>Sorean_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012544Z" creationid="seto" creationdate="20190413T012544Z">
+        <seg>Sorean_HM_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012546Z" creationid="seto" creationdate="20190413T012546Z">
+        <seg>Sorean_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_06_Z</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012548Z" creationid="seto" creationdate="20190413T012548Z">
+        <seg>Sorean_HM_prequest_06_Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012551Z" creationid="seto" creationdate="20190413T012551Z">
+        <seg>Sorean_HM_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012553Z" creationid="seto" creationdate="20190413T012553Z">
+        <seg>Sorean_HM_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012554Z" creationid="seto" creationdate="20190413T012554Z">
+        <seg>Sorean_HM_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012557Z" creationid="seto" creationdate="20190413T012557Z">
+        <seg>Sorean_HM_prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_11_Z</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012558Z" creationid="seto" creationdate="20190413T012558Z">
+        <seg>Sorean_HM_prequest_11_Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T012559Z" creationid="seto" creationdate="20190413T012559Z">
+        <seg>Sorean_HM_prequest_12</seg>
       </tuv>
     </tu>
     <tu>
