@@ -13823,6 +13823,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But maybe I don’t care.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011039Z" creationid="seto" creationdate="20190413T011039Z">
+        <seg>だがもしものことなんか俺は気にしねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But my offer is open to you.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T165556Z" creationid="weedssoul" creationdate="20190405T165556Z">
@@ -20384,6 +20392,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112035Z">
         <seg>安全な場所を見つけるか、奇襲の機会を減らすために警戒に時間を費やすことで回避できます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either learn and succeed, or die and it’s not my problem anymore… Risks don’t scare me right now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011350Z" creationid="seto" creationdate="20190413T011350Z">
+        <seg>成功するとか死ぬとかそんなのはどうだっていいんだ――今の俺はリスクを恐れてない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47759,6 +47775,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010957Z" creationid="seto" creationdate="20190413T010957Z">
+        <seg>Roland_BC_Prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015143Z" creationid="seto" creationdate="20190407T015143Z">
@@ -65655,6 +65679,16 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005759Z" creationid="seto" creationdate="20190413T005542Z">
         <seg>本当にすまねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">288_0</prop>
+      <tuv lang="EN-US">
+        <seg>Maybe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011011Z" creationid="seto" creationdate="20190413T011011Z">
+        <seg>もしかしたらな。</seg>
       </tuv>
     </tu>
     <tu>
