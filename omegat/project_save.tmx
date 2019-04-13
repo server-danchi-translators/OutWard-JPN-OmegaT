@@ -28374,6 +28374,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know, I know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005526Z" creationid="seto" creationdate="20190413T005526Z">
+        <seg>分かってる、分かってるさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103815Z" creationid="Light" creationdate="20190405T164606Z">
@@ -28402,6 +28410,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044329Z" creationid="seto" creationdate="20190404T215238Z">
         <seg> この航海で私の娘は死んでしまったのよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I lost my home because of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005519Z" creationid="seto" creationdate="20190413T005519Z">
+        <seg>君のせいで家を失ったんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32815,6 +32831,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113042Z" creationid="Mad" creationdate="20190406T113021Z">
         <seg>そうだね、前向きに考えてみるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll try to save up to repay you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005703Z" creationid="seto" creationdate="20190413T005659Z">
+        <seg>貯金して金は返す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47647,6 +47671,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005520Z" creationid="seto" creationdate="20190413T005520Z">
+        <seg>Roland_BC_Prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015143Z" creationid="seto" creationdate="20190407T015143Z">
@@ -50444,6 +50476,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T061200Z" creationid="weedssoul" creationdate="20190406T061200Z">
         <seg>剣や爪以外の攻撃をしてくる敵もいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Somehow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005716Z" creationid="seto" creationdate="20190413T005716Z">
+        <seg>どうにかする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65509,6 +65549,16 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005314Z" creationid="seto" creationdate="20190413T005314Z">
         <seg>いいぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">278_0</prop>
+      <tuv lang="EN-US">
+        <seg>I'm sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T005542Z" creationid="seto" creationdate="20190413T005542Z">
+        <seg>本当にすまない。</seg>
       </tuv>
     </tu>
     <tu>
