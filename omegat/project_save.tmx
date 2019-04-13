@@ -57380,8 +57380,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>They've been turning to the undead from the valley beyond the Ghost Pass for protection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T171412Z" creationid="taman" creationdate="20190413T171412Z">
-        <seg>Ghost Passを抜けた先にある谷を超えた所で、部族を守るため不死者と化した姿が目撃されています。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T171805Z" creationid="taman" creationdate="20190413T171412Z">
+        <seg>シエルゾのGhost Passを抜けると谷がありますが、その場所で部族を守るため不死者と化した姿が目撃されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60946,6 +60946,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084221Z" creationid="pugnus" creationdate="20190406T083435Z">
         <seg>何故、Levantの上層部は攻撃を命じなかったのか？私は疑問に思うが、他のChamberlord達は同意しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While this is itself worrisome, things have taken a turn for the worse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T171517Z" creationid="taman" creationdate="20190413T171517Z">
+        <seg>それだけでも事態は深刻ですが、While this is itself worrisome, things have taken a turn for the worse.</seg>
       </tuv>
     </tu>
     <tu>
