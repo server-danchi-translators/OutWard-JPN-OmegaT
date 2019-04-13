@@ -27254,8 +27254,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Hi.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T062440Z" creationid="taman" creationdate="20190410T062440Z">
-        <seg>こんにちは</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T165046Z" creationid="taman" creationdate="20190410T062440Z">
+        <seg>こんにちは。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39695,8 +39695,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T062353Z" creationid="weedssoul" creationdate="20190406T113617Z">
-        <seg>あら</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T165003Z" creationid="weedssoul" creationdate="20190406T113617Z">
+        <seg>あら、</seg>
       </tuv>
     </tu>
     <tu>
@@ -61507,6 +61507,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113945Z" creationid="weedssoul" creationdate="20190406T113945Z">
         <seg>あ、あぁ、難破は残念だったね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yeah, I've heard about them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T164840Z" creationid="taman" creationdate="20190413T164840Z">
+        <seg>うわさで耳にしたことがあります。</seg>
       </tuv>
     </tu>
     <tu>
