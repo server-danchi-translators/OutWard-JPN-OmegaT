@@ -13881,8 +13881,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But they are to be avoided at all costs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T164623Z" creationid="taman" creationdate="20190411T161339Z">
-        <seg>しかし、そのような行いはどんな窮地に立たされても避けなければなりません。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T155353Z" creationid="taman" creationdate="20190411T161339Z">
+        <seg>しかし、そうした行いはどんな窮地に立たされても避けなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41071,8 +41071,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or else we become the very monsters we fight against.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T165809Z" creationid="taman" creationdate="20190411T161612Z">
-        <seg>でないと私たちはスカージのような怪物となんら変わらなくなってしまいます。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T155448Z" creationid="taman" creationdate="20190411T161612Z">
+        <seg>さもなくば私たちはスカージのような怪物となんら変わらなくなってしまいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56889,6 +56889,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then we'd better hurry and get that done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T155329Z" creationid="taman" creationdate="20190413T155329Z">
+        <seg>では一刻も早くThen we'd better hurry and get that done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then why are you still here?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170835Z" creationid="weedssoul" creationdate="20190405T163516Z">
@@ -59675,8 +59683,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>We must find a way to free Aurai from them, permanently.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T075824Z" creationid="taman" creationdate="20190413T074611Z">
-        <seg>なんとしてでもオーライをスカージから解放しなくてはならないのです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T155540Z" creationid="taman" creationdate="20190413T074611Z">
+        <seg>私たち自身の手で、なんとしてでもオーライをスカージから解放しなくてはならないのです。</seg>
       </tuv>
     </tu>
     <tu>
