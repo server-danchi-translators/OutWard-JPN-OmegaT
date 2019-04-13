@@ -27966,6 +27966,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t want to be torn to pieces by Hyenas or Troglodytes…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011731Z" creationid="seto" creationdate="20190413T011731Z">
+        <seg>ハイエナとかトログロダイトにバラバラにされたくはねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t want to see you suffer.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034754Z" creationid="rkmad" creationdate="20190405T034754Z">
@@ -35173,8 +35181,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Maybe I should beg Eto to teach me some of his personal &lt;color=#00CCFF&gt;&lt;b&gt;combat Skills&lt;/b&gt;&lt;/color&gt; first...</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T011634Z" creationid="seto" creationdate="20190413T011634Z">
-        <seg>まずはエトーに&lt;color=#00CCFF&gt;&lt;b&gt;戦い方&lt;/b&gt;&lt;/color&gt;を押してくれるよう頼みこむさ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011735Z" creationid="seto" creationdate="20190413T011634Z">
+        <seg>まずはエトーに&lt;color=#00CCFF&gt;&lt;b&gt;戦い方&lt;/b&gt;&lt;/color&gt;を押してくれるよう頼みこむよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47815,6 +47823,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011739Z" creationid="seto" creationdate="20190413T011739Z">
+        <seg>Roland_BC_Prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015143Z" creationid="seto" creationdate="20190407T015143Z">
@@ -56965,6 +56981,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160312Z" creationid="weedssoul" creationdate="20190405T160312Z">
         <seg>これは公平じゃない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This latest attempt at fishing was a botch...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011920Z" creationid="seto" creationdate="20190413T011920Z">
+        <seg>最後に釣りをしたときは酷かったんだぜ…</seg>
       </tuv>
     </tu>
     <tu>
