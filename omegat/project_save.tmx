@@ -57129,6 +57129,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are a grim reminder of the evil we face, and our sworn mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T063836Z" creationid="taman" creationdate="20190413T063836Z">
+        <seg>彼らの犠牲のおかげでThey are a grim reminder of the evil we face, and our sworn mission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are contending with the current "Heroic Kingdom" of Levant, who were granted the region by Elatt's decree as reward for purging the region of the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190409T061648Z" creationid="magur0w" creationdate="20190404T121255Z">
@@ -58587,8 +58595,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Until the Scourge is purged from Aurai, those spirits keep us safe.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T062940Z" creationid="taman" creationdate="20190413T062630Z">
-        <seg>このオーライからスカージを消滅させるまでの間、英霊たちが我々を守ってくれます。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T063409Z" creationid="taman" creationdate="20190413T062630Z">
+        <seg>このオーライからスカージが消滅させる日まで、英霊たちは我々を守ってくれているのです。</seg>
       </tuv>
     </tu>
     <tu>
