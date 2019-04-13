@@ -56142,6 +56142,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Vigils are a necessary evil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T062413Z" creationid="taman" creationdate="20190413T062413Z">
+        <seg>Vigilは必要悪なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Wail</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114735Z" creationid="Gaiden Shinji" creationdate="20190403T114735Z">
@@ -57027,8 +57035,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>There's one not far from Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T160942Z" creationid="taman" creationdate="20190409T064303Z">
-        <seg>モンスーンを出てすぐ近くの場所にも1つあります。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T061733Z" creationid="taman" creationdate="20190409T064303Z">
+        <seg>モンスーンを出てすぐ近くにも1つあります。</seg>
       </tuv>
     </tu>
     <tu>
