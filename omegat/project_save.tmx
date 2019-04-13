@@ -20603,6 +20603,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>corruptionは訳語が決定していないので待ち。</note>
+      <tuv lang="EN-US">
+        <seg>Elatt can sense a huge growth of Corruption erupting underground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T173600Z" creationid="taman" creationdate="20190413T173600Z">
+        <seg>エラットがその土地の地中深くで急激に増長するCorruptionを感じ取ったそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Elatt however...</seg>
       </tuv>
@@ -57380,8 +57389,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>They've been turning to the undead from the valley beyond the Ghost Pass for protection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T171805Z" creationid="taman" creationdate="20190413T171412Z">
-        <seg>シエルゾのGhost Passを抜けると谷がありますが、その場所で部族を守るため不死者と化した姿が目撃されています。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T172049Z" creationid="taman" creationdate="20190413T171412Z">
+        <seg>シエルゾのGhost Passを抜けると谷がありますが、その場所で部族を守るため不死者と化した彼らの姿が目撃されています。</seg>
       </tuv>
     </tu>
     <tu>
