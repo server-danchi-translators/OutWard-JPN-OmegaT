@@ -34499,6 +34499,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make it work or die trying!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011450Z" creationid="seto" creationdate="20190413T011450Z">
+        <seg>出世でも死ぬでも好きにしろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make me.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T120924Z" creationid="Light" creationdate="20190407T120330Z">
@@ -35159,6 +35167,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T091905Z">
         <seg> あなたの先祖が、その行いをどうか見守っていてくださいますように。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe I should beg Eto to teach me some of his personal &lt;color=#00CCFF&gt;&lt;b&gt;combat Skills&lt;/b&gt;&lt;/color&gt; first...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011634Z" creationid="seto" creationdate="20190413T011634Z">
+        <seg>まずはエトーに&lt;color=#00CCFF&gt;&lt;b&gt;戦い方&lt;/b&gt;&lt;/color&gt;を押してくれるよう頼みこむさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43477,6 +43493,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_b_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011352Z" creationid="seto" creationdate="20190413T011352Z">
+        <seg>Player_Roland_BC_Prequest_b_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_c_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004920Z" creationid="seto" creationdate="20190413T004920Z">
@@ -47779,6 +47803,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T010957Z" creationid="seto" creationdate="20190413T010957Z">
         <seg>Roland_BC_Prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011453Z" creationid="seto" creationdate="20190413T011453Z">
+        <seg>Roland_BC_Prequest_10</seg>
       </tuv>
     </tu>
     <tu>
@@ -55317,6 +55349,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That’s the spirit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011409Z" creationid="seto" creationdate="20190413T011409Z">
+        <seg>大した根性だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s what I’m looking for!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T120106Z" creationid="weedssoul" creationdate="20190406T120106Z">
@@ -57741,6 +57781,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141635Z" creationid="weedssoul" creationdate="20190406T115258Z">
         <seg>はあ、本当に人生最悪の日だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ugh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T011513Z" creationid="seto" creationdate="20190413T011513Z">
+        <seg>うっ…</seg>
       </tuv>
     </tu>
     <tu>
