@@ -29072,8 +29072,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I understand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190404T124833Z" creationid="rkmad" creationdate="20190404T085340Z">
-        <seg>・・・分かりました。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T074633Z" creationid="rkmad" creationdate="20190404T085340Z">
+        <seg>分かりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59443,8 +59443,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>We can't depend on the Vigils and our warriors to defend us from the Scourge forever.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T070142Z" creationid="taman" creationdate="20190413T070142Z">
-        <seg>しかし、いつまでもVigilや戦士たちに守られてばかりではいけません</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190413T070349Z" creationid="taman" creationdate="20190413T070142Z">
+        <seg>しかし、いつまでもVigilや戦士たちに守られてばかりではいけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59557,6 +59557,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T142343Z" creationid="Mad" creationdate="20190407T142343Z">
         <seg>旅人の方よ。私達はみな、人生の中で決断を下す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We must find a way to free Aurai from them, permanently.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190413T075824Z" creationid="taman" creationdate="20190413T074611Z">
+        <seg>なんとしてでもオーライをスカージから解放しなくてはならないのです。</seg>
       </tuv>
     </tu>
     <tu>
