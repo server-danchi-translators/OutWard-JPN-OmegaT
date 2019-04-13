@@ -14352,6 +14352,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Challenge the outside world?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010939Z" creationid="seto" creationdate="20190413T010939Z">
+        <seg>外の世界に挑戦？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114958Z" creationid="setom" creationdate="20190401T114958Z">
@@ -27912,8 +27920,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I don’t have the patience to fish, I’m not good with steel… Bah.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T010549Z" creationid="seto" creationdate="20190413T010549Z">
-        <seg>魚釣りも我慢できねぇし、未熟なんだ――ヘッ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010900Z" creationid="seto" creationdate="20190413T010549Z">
+        <seg>魚釣りも我慢できねぇ、クズなんだよ――クソが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28496,8 +28504,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I might just throw myself at the outside world and try to make it there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T010739Z" creationid="seto" creationdate="20190413T010739Z">
-        <seg>俺が外の世界に飛び出せば、出世してたかも知れないのによ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010921Z" creationid="seto" creationdate="20190413T010739Z">
+        <seg>俺が外の世界に飛び出せば、デカいことしてたかも知れねぇのに。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32901,8 +32909,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’m bad at everything I do.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T010029Z" creationid="seto" creationdate="20190413T010029Z">
-        <seg>俺はボンクラだからよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010845Z" creationid="seto" creationdate="20190413T010029Z">
+        <seg>俺はなにやってもダメなんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43433,6 +43441,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005935Z" creationid="seto" creationdate="20190413T005935Z">
         <seg>Player_Roland_BC_Prequest_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_a_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010925Z" creationid="seto" creationdate="20190413T010925Z">
+        <seg>Player_Roland_BC_Prequest_a_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -62208,6 +62224,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010931Z" creationid="seto" creationdate="20190413T010931Z">
+        <seg>君が？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Resources</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071551Z" creationid="hiru4" creationdate="20190402T071551Z">
@@ -62486,6 +62510,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084655Z" creationid="rkmad" creationdate="20190408T084655Z">
         <seg>それはあなたを広い世界に連れ出し、誰かの助けとなるように導かれていくことだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’d be dead in a day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190413T010956Z" creationid="seto" creationdate="20190413T010956Z">
+        <seg>そんなの一日で死んでしまうぞ。</seg>
       </tuv>
     </tu>
     <tu>
