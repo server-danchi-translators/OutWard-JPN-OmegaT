@@ -29256,6 +29256,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wasn't expecting you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155131Z" creationid="taman" creationdate="20190414T155131Z">
+        <seg>こんなところで会うなんて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I welcome the challenge.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135955Z" creationid="weedssoul" creationdate="20190406T031506Z">
@@ -39769,8 +39777,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T081045Z" creationid="Light" creationdate="20190405T135737Z">
-        <seg>え！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155102Z" creationid="Light" creationdate="20190405T135737Z">
+        <seg>あら！</seg>
       </tuv>
     </tu>
     <tu>
