@@ -50299,8 +50299,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>She needs time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T114651Z" creationid="taman" creationdate="20190414T114651Z">
-        <seg>彼女には時間が必要なのです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T143257Z" creationid="taman" creationdate="20190414T114651Z">
+        <seg>彼女には時間が必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51284,8 +51284,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Something about it sends chills up my spine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T115149Z" creationid="taman" creationdate="20190413T161806Z">
-        <seg>なにやら嫌な予感がするのです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T124100Z" creationid="taman" creationdate="20190413T161806Z">
+        <seg>なにやら嫌な予感がします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51302,6 +51302,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022512Z" creationid="weedssoul" creationdate="20190406T022512Z">
         <seg>準備をしていなければ、議会全体を脅かす何かが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something that drastic will take its toll, even on the most faithful believers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T144002Z" creationid="taman" creationdate="20190414T144002Z">
+        <seg>たとえ神の教えに忠実な信者であっても、そういった災難から逃れられるというわけではないです。</seg>
       </tuv>
     </tu>
     <tu>
