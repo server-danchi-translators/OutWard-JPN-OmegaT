@@ -63330,6 +63330,15 @@ QName_Errand_Idol</seg>
       </tuv>
     </tu>
     <tu>
+      <note>first taskといっているが、最初の使命ではない気がする。セリフに矛盾が生じているが、このセリフは序盤に出てくるものなのか？どこで出てくるのか裏どりする必要あり。</note>
+      <tuv lang="EN-US">
+        <seg>You'll get your first task soon enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T145833Z" creationid="taman" creationdate="20190414T145833Z">
+        <seg>近いうちに最初の使命を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>You'll know what I mean.</seg>
       </tuv>
