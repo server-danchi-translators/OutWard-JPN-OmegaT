@@ -22718,6 +22718,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a new missionary… I don't blame her for needing some time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T145032Z" creationid="taman" creationdate="20190414T145032Z">
+        <seg>入信してから日も浅いということもあるので……彼女自身の気持ちの整理がつくことを祈っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For all the safety that my tribe provides, our laws are harsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T104343Z" creationid="setom" creationdate="20190402T102851Z">
@@ -51308,8 +51316,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Something that drastic will take its toll, even on the most faithful believers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T144002Z" creationid="taman" creationdate="20190414T144002Z">
-        <seg>たとえ神の教えに忠実な信者であっても、そういった災難から逃れられるというわけではないです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T144238Z" creationid="taman" creationdate="20190414T144002Z">
+        <seg>たとえ神の教えに忠実な信者であっても、そういった災難が降りかかることもあります。</seg>
       </tuv>
     </tu>
     <tu>
