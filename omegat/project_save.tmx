@@ -30416,6 +30416,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a few days and I will have something for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T150226Z" creationid="taman" creationdate="20190414T150226Z">
+        <seg>数日中に声をかけさせていただきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In addition to finding better equipment, you get stronger by using Trainers found in each city.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112544Z">
@@ -44683,6 +44691,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112659Z">
         <seg>強力な武器やポーションが作成でき、他に強力な罠にも使えるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prepare yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T145907Z" creationid="taman" creationdate="20190414T145907Z">
+        <seg>入念に準備しておいてください。Prepare yourself.</seg>
       </tuv>
     </tu>
     <tu>
