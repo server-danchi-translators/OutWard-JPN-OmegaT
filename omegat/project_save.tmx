@@ -29504,6 +29504,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm a busy man!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T152807Z" creationid="taman" creationdate="20190414T152807Z">
+        <seg>私は忙しいんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm also sure you can find a spare &lt;color=#00CCFF&gt;&lt;b&gt;waterskin&lt;/b&gt;&lt;/color&gt; by the &lt;color=#00CCFF&gt;&lt;b&gt;Water Purifier&lt;/b&gt;&lt;/color&gt; at the town beach.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T102734Z" creationid="seto" creationdate="20190410T102734Z">
@@ -32974,8 +32982,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It’s important.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T152721Z" creationid="taman" creationdate="20190414T152548Z">
-        <seg>とても大事なものじゃからの。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T153321Z" creationid="taman" creationdate="20190414T152548Z">
+        <seg>とても大事なものじゃ。</seg>
       </tuv>
     </tu>
     <tu>
