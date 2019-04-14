@@ -8731,6 +8731,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A friendly face is always welcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T160131Z" creationid="taman" creationdate="20190414T160131Z">
+        <seg>友人はいつでも歓迎よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A game with the same name already exists.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071037Z" creationid="hiru4" creationdate="20190403T071037Z">
@@ -29560,6 +29568,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm fine, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155820Z" creationid="taman" creationdate="20190414T155820Z">
+        <seg>私は大丈夫よ、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm fine, thank you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163204Z">
@@ -29636,6 +29652,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T040218Z">
         <seg> 悪ふざけをする気分じゃない。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not a child who needs supervision.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155940Z" creationid="taman" creationdate="20190414T155835Z">
+        <seg>監視が必要な子供だと思ってるのかしら。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54497,6 +54521,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
         <seg>ステルス+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Still, thanks for coming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155856Z" creationid="taman" creationdate="20190414T155856Z">
+        <seg>でも、来てくれてありがとう。</seg>
       </tuv>
     </tu>
     <tu>
