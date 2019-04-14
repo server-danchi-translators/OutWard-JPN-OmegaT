@@ -24677,6 +24677,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good work, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T114459Z" creationid="taman" creationdate="20190414T114459Z">
+        <seg>見事使命を果たしましたね。 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good, follow me and behave yourself.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051908Z" creationid="Mad" creationdate="20190407T051908Z">
@@ -50280,6 +50288,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She needs time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T114651Z" creationid="taman" creationdate="20190414T114651Z">
+        <seg>彼女には時間が必要なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She refuses payment and leaves you with a firm pat on the shoulder.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T093614Z" creationid="はぐくみ会" creationdate="20190403T063818Z">
@@ -50308,6 +50324,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Mad" creationdate="20190405T151211Z">
         <seg>オリエルはそんな事をする必要のない一族に生を受けたのです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She'll be back soon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T114540Z" creationid="taman" creationdate="20190414T114540Z">
+        <seg>すぐに戻ってくると思います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59828,6 +59852,12 @@ QName_Errand_Idol</seg>
       </tuv>
     </tu>
     <tu>
+      <note>altarの訳がまだ固まっていないので保留。</note>
+      <tuv lang="EN-US">
+        <seg>We purified the altar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>We should focus on more important things.</seg>
       </tuv>
@@ -60980,6 +61010,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T090757Z" creationid="setom" creationdate="20190402T090757Z">
         <seg>休息をする場所によって、襲撃の可能性は変化します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where's Oliele?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T114528Z" creationid="taman" creationdate="20190414T114528Z">
+        <seg>オリエルの姿が見えませんが？</seg>
       </tuv>
     </tu>
     <tu>
