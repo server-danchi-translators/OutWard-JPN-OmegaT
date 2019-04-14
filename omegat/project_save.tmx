@@ -50393,6 +50393,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She said something about this mission sent chills up her spine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155801Z" creationid="taman" creationdate="20190414T155801Z">
+        <seg>何やらとてつもなく嫌な予感がするとエリナラが言っていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She seems none too pleased, but life in Berg will go on.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102717Z" creationid="pugnus" creationdate="20190406T003026Z">
@@ -61851,8 +61859,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Yes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="magur0w" creationdate="20190404T175042Z">
-        <seg>はい。 </seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T155637Z" creationid="magur0w" creationdate="20190404T175042Z">
+        <seg>その通りです。</seg>
       </tuv>
     </tu>
     <tu>
