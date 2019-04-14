@@ -15362,8 +15362,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Cleanse it by any means necessary&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T114139Z" creationid="taman" creationdate="20190414T113950Z">
-        <seg>何としてでも瘴気を浄化してきてください。Cleanse it by any means necessary&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T115220Z" creationid="taman" creationdate="20190414T113950Z">
+        <seg>何としてでも瘴気を浄化してきてください。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50360,6 +50360,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She… Elatt saved her life by removing the corruption in her, replacing her limbs with pure light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190414T120325Z" creationid="taman" creationdate="20190414T120325Z">
+        <seg>オリエルは……体に侵入した瘴気を取り除かれ命を救われた際に、エラットが失った四肢の代わりに光の手足で補ったのです</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shield depicting a fictional creature of great power; one that is common in street theatre and children’s books.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T144150Z" creationid="weedssoul" creationdate="20190405T144150Z">
@@ -51267,8 +51275,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Something about it sends chills up my spine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T161843Z" creationid="taman" creationdate="20190413T161806Z">
-        <seg>なにやら嫌な予感がします。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190414T115149Z" creationid="taman" creationdate="20190413T161806Z">
+        <seg>なにやら嫌な予感がするのです。</seg>
       </tuv>
     </tu>
     <tu>
