@@ -23936,8 +23936,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Get down to &lt;color=#00CCFF&gt;&lt;b&gt;the archives room below the Blue Chamber and follow the attackers&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T051929Z" creationid="pugnus" creationdate="20190415T051929Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の下の、文書記録保管所の調査と、刺客たちの後をつけましょう。&lt;/b&gt;&lt;/color&gt;さぁ、取り掛かるわよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T052000Z" creationid="pugnus" creationdate="20190415T051929Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の下の、文書記録保管所の調査と、刺客たちの後をつけましょう。&lt;/b&gt;&lt;/color&gt;さぁ、行きなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29632,6 +29632,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm going to stay here in case they come back to take more hostages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T052123Z" creationid="pugnus" creationdate="20190415T052123Z">
+        <seg>刺客たちが他の人質を取りに来るかもしれないから、私はここに残るわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm having doubts too...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T062631Z" creationid="taman" creationdate="20190411T062631Z">
@@ -29804,6 +29812,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T115444Z" creationid="Light" creationdate="20190407T115444Z">
         <seg>俺は小さな釣り船を1つ持ってる、それを使うつもりだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've got the rest of the Chamberlords covered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T052439Z" creationid="pugnus" creationdate="20190415T052439Z">
+        <seg>残りの上院議員たちは私が守ったわ。</seg>
       </tuv>
     </tu>
     <tu>
