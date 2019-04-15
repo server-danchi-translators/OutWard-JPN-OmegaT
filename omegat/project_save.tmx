@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You close Balthazar’s eyes and move on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090400Z" creationid="pugnus" creationdate="20190415T090329Z">
+        <seg>(私はバルタザールの目を閉じ、進んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You see an army of warriors fighting a massive Scourge Beast with spears… They are nearly wiped out, before one of them manages to cripple the beast.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T081107Z" creationid="taman" creationdate="20190410T041407Z">
@@ -27480,8 +27488,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>His eyes are frozen open in shock.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T090156Z" creationid="pugnus" creationdate="20190415T090156Z">
-        <seg>彼の眼は衝撃を受けて凍り付いている。)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090349Z" creationid="pugnus" creationdate="20190415T090156Z">
+        <seg>彼の眼は衝撃に凍り付いている。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41561,8 +41569,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or at least, what’s left of him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T085754Z" creationid="pugnus" creationdate="20190415T085739Z">
-        <seg>または少なくとも、彼の残したものだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090247Z" creationid="pugnus" creationdate="20190415T085739Z">
+        <seg>または少なくとも、彼の残したものだ。</seg>
       </tuv>
     </tu>
     <tu>
