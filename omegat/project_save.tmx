@@ -14456,6 +14456,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cardinal_HM_Questions_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131831Z" creationid="seto" creationdate="20190415T131831Z">
+        <seg>Cardinal_HM_Questions_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cardinal_HM_prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012511Z" creationid="seto" creationdate="20190413T012511Z">
@@ -20815,8 +20823,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Elatt however...</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132209Z" creationid="weedssoul" creationdate="20190406T132209Z">
-        <seg>しかし、Elattは...</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131929Z" creationid="weedssoul" creationdate="20190406T132209Z">
+        <seg>しかし、エラットは...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20848,8 +20856,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Elatt, being a master of Magic, sacrificed his very humanity and became Living Thought, guiding us to the uneasy stalemate we’ve known for most of this century.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T132038Z" creationid="weedssoul" creationdate="20190406T132038Z">
-        <seg>魔法の達人であるElattは、人間性を捧げることでLiving Thoughtとなり、今世紀の大半で起きている膠着状態を招いた。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131924Z" creationid="weedssoul" creationdate="20190406T132038Z">
+        <seg>魔法の達人であるエラットは、人間性を捧げることでLiving Thoughtとなり、今世紀の大半で起きている膠着状態を招いた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20906,6 +20914,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063132Z" creationid="totochan" creationdate="20190403T140041Z">
         <seg>元素耐性 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elinara_HM_Questions_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131834Z" creationid="seto" creationdate="20190415T131834Z">
+        <seg>Elinara_HM_Questions_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elinara_HM_Questions_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131836Z" creationid="seto" creationdate="20190415T131836Z">
+        <seg>Elinara_HM_Questions_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elinara_HM_Questions_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131837Z" creationid="seto" creationdate="20190415T131837Z">
+        <seg>Elinara_HM_Questions_10</seg>
       </tuv>
     </tu>
     <tu>
@@ -27672,8 +27704,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Holy Mission of Elatt</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T115353Z" creationid="pugnus" creationdate="20190406T115353Z">
-        <seg>Elattの聖なる使命</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131956Z" creationid="pugnus" creationdate="20190406T115353Z">
+        <seg>エラット神聖伝道団</seg>
       </tuv>
     </tu>
     <tu>
@@ -28018,8 +28050,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>However, given the hostility of the region and the fact that it is home to the Holy Mission of Elatt...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T105037Z" creationid="magur0w" creationdate="20190404T125851Z">
-        <seg>しかし、この地域の敵意と、エラットの神聖な使命の本拠地であるという事実を考えると...</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132014Z" creationid="magur0w" creationdate="20190404T125851Z">
+        <seg>しかし、この地域の敵意と、エラット神聖伝道団の本拠地であるという事実を考えると...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34159,8 +34191,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Joining the Holy Mission of Elatt is not a decision to be taken lightly, pilgrim.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125334Z" creationid="Mad" creationdate="20190407T141157Z">
-        <seg>ふむ。旅人の方、エラットの神聖伝道団に参加することは、軽率にしてよい決断ではありませんよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132026Z" creationid="Mad" creationdate="20190407T141157Z">
+        <seg>ふむ。旅人の方、エラット神聖伝道団に参加することは、軽率にしてよい決断ではありませんよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35951,8 +35983,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>May Elatt watch over you, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T040641Z">
-        <seg>Elattは、お前を見ているぞ [PlayerName]。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131916Z" creationid="weedssoul" creationdate="20190406T040641Z">
+        <seg>エラットは、お前を見ているぞ [PlayerName]。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40513,8 +40545,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele is leaving Cierzo permanently, to go join the Holy Mission of Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125327Z" creationid="rkmad" creationdate="20190405T094438Z">
-        <seg>オリエルはシエルゾを去り、エラットの神聖伝道団に加わるそうです。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132022Z" creationid="rkmad" creationdate="20190405T094438Z">
+        <seg>オリエルはシエルゾを去り、エラット神聖伝道団に加わるそうです。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -56592,16 +56624,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank Elatt!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190405T140826Z" creationid="Light" creationdate="20190405T135324Z">
-        <seg>偉大なるElattよ、感謝します！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131933Z" creationid="Light" creationdate="20190405T135324Z">
+        <seg>偉大なるエラットよ、感謝します！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Thank Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T165458Z" creationid="setom" creationdate="20190402T165458Z">
-        <seg>ああElattよ、感謝します。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131851Z" creationid="setom" creationdate="20190402T165458Z">
+        <seg>ああエラットよ、感謝します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64285,8 +64317,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You're a priest of Elatt, right?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T133054Z" creationid="weedssoul" creationdate="20190406T042356Z">
-        <seg>あなはは、Elattの神官ですね？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131920Z" creationid="weedssoul" creationdate="20190406T042356Z">
+        <seg>あなはは、エラットの神官ですね？</seg>
       </tuv>
     </tu>
     <tu>
