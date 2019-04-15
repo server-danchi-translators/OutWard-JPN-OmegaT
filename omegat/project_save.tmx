@@ -13609,8 +13609,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring a Cold Stone, which can be crafted using an Alchemy Kit, to Vay the Alchemist in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001912Z" creationid="urakata" creationdate="20190406T114201Z">
-        <seg>ベルクの錬金術師Vayに、錬金術キットで作ったCold Stoneを持っていく</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T133707Z" creationid="urakata" creationdate="20190406T114201Z">
+        <seg>ベルクの錬金術師ヴァイに、錬金術キットで作ったCold Stoneを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -22584,7 +22584,7 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Find another ghost.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190406T124311Z" creationid="urakata" creationdate="20190406T124250Z">
+      <tuv lang="JA" changeid="seto" changedate="20190415T133826Z" creationid="urakata" creationdate="20190406T124250Z">
         <seg>まだ霊を探す</seg>
       </tuv>
     </tu>
@@ -35943,8 +35943,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Master-Chef Arago, in Cierzo, is looking for a Cierzo Ceviche.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T060803Z" creationid="urakata" creationdate="20190406T114730Z">
-        <seg>シエルゾの料理長Aragoはシエルゾセビチェを探している</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T133725Z" creationid="urakata" creationdate="20190406T114730Z">
+        <seg>シエルゾの料理長アラゴはシエルゾセビチェを探している</seg>
       </tuv>
     </tu>
     <tu>
@@ -59969,6 +59969,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115546Z" creationid="Gaiden Shinji" creationdate="20190404T115546Z">
         <seg>バラオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vay the Alchemist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T133638Z" creationid="seto" creationdate="20190415T133638Z">
+        <seg>錬金術師ヴァイ</seg>
       </tuv>
     </tu>
     <tu>
