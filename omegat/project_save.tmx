@@ -29530,8 +29530,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I want to join the Heroic Kingdom of Levant, how to I get there?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T062006Z" creationid="Light" creationdate="20190408T062006Z">
-        <seg>レバントのHeroic Kingdomにはどう行けばいい？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140818Z" creationid="Light" creationdate="20190408T062006Z">
+        <seg>レバント勇王国にはどう行けばいい？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30466,8 +30466,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If you have the courage to face the Abrassar desert and come to the Heroic Kingdom of Levant... &lt;color=#00CCFF&gt;&lt;b&gt;I'll be waiting for you.&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T131224Z" creationid="Light" creationdate="20190407T125715Z">
-        <seg>もしあなたがアブラサールの砂漠に挑み、レバントのHeroic Kingdomにやって来る勇気があるなら...。 &lt;color=#00CCFF&gt;&lt;b&gt;俺は君を待っている。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140845Z" creationid="Light" creationdate="20190407T125715Z">
+        <seg>もしあなたがアブラサールの砂漠に挑み、レバント勇王国にやって来る勇気があるなら...。 &lt;color=#00CCFF&gt;&lt;b&gt;俺は君を待っている。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30482,8 +30482,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If you manage to get to the Kingdom of Levant on your own somehow, though, I'll do my best to look out for you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T124656Z" creationid="Light" creationdate="20190407T124633Z">
-        <seg>だが君が自分でレバントの王国に向かうというなら、君を見守る事に最善を尽くす。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140832Z" creationid="Light" creationdate="20190407T124633Z">
+        <seg>だが君が自分でレバント王国に向かうというなら、君を見守る事に最善を尽くす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34295,8 +34295,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Joined the Heroic Kingdom of Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134940Z" creationid="Light" creationdate="20190404T134940Z">
-        <seg>Heroic Kingdom of Levantに参加した</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140636Z" creationid="Light" creationdate="20190404T134940Z">
+        <seg>レバント勇王国に参加した</seg>
       </tuv>
     </tu>
     <tu>
@@ -43459,6 +43459,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012700Z" creationid="seto" creationdate="20190413T012700Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_d_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_InnKeeper_Neutral_Info_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140822Z" creationid="seto" creationdate="20190415T140822Z">
+        <seg>Player_InnKeeper_Neutral_Info_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_InnKeeper_Neutral_Info_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140820Z" creationid="seto" creationdate="20190415T140820Z">
+        <seg>Player_InnKeeper_Neutral_Info_c_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -57129,8 +57145,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Holy Mission and the Kingdom of Levant have their own paths into the Conflux Mountain as well, and each one will test you differently.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125357Z" creationid="Light" creationdate="20190406T122236Z">
-        <seg>神聖伝道団とレバントの王国も同様にコンフラックス山へ繋がる独自の道を持ってるわ、それぞれがあなたに違った試練を与えるでしょうね。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140905Z" creationid="Light" creationdate="20190406T122236Z">
+        <seg>神聖伝道団とレバント王国も同様にコンフラックス山へ繋がる独自の道を持ってるわ、それぞれがあなたに違った試練を与えるでしょうね。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -63929,8 +63945,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You must be part of the Heroic Kingdom of Levant to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132026Z" creationid="hiru4" creationdate="20190403T052605Z">
-        <seg>スキルを学ぶためにthe Heroic Kingdom of Levantのメンバーでなければなりません</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T140624Z" creationid="hiru4" creationdate="20190403T052605Z">
+        <seg>スキルを学ぶためにレバント勇王国のメンバーでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
