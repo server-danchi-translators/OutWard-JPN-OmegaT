@@ -12855,6 +12855,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be warned, Gabriella Sullivan is a suspected member of the &lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T074214Z" creationid="pugnus" creationdate="20190415T074214Z">
+        <seg>警告する。ガブリエラ・サリバンは&lt;color=#00CCFF&gt;&lt;b&gt;クリュプテイア&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be wary of the Montcalm tribe in the north and the Kazite pirates near the coast.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T061152Z">
@@ -33108,6 +33116,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s a pity we couldn’t find them in time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T073726Z" creationid="pugnus" creationdate="20190415T073726Z">
+        <seg>間に合わなかったのは残念ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s a pity, but we’ll have to let that lead go.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T070331Z" creationid="pugnus" creationdate="20190406T070047Z">
@@ -33327,8 +33343,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’d wager that was our culprits, making their escape.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T073514Z" creationid="pugnus" creationdate="20190415T073514Z">
-        <seg>それが私たちが追っている犯人であることに賭けてもいいわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T073643Z" creationid="pugnus" creationdate="20190415T073514Z">
+        <seg>彼らは脱出した。彼らは私たちが追っている犯人であることに賭けてもいいわ。</seg>
       </tuv>
     </tu>
     <tu>
