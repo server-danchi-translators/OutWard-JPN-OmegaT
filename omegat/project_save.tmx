@@ -50689,6 +50689,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She must not survive this meeting.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T081350Z" creationid="pugnus" creationdate="20190415T081350Z">
+        <seg>彼女はこの集会を生き残ってはならない。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She needs time.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T143257Z" creationid="taman" creationdate="20190414T114651Z">
@@ -59434,6 +59442,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T065145Z" creationid="weedssoul" creationdate="20190406T065145Z">
         <seg>盾を使うと、敵の物理攻撃を受けた時に消費するスタミナとスタビリティーが少なくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use as much ammunition as you need to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T081239Z" creationid="pugnus" creationdate="20190415T081239Z">
+        <seg>必要なだけの火薬を使用しろ。</seg>
       </tuv>
     </tu>
     <tu>
