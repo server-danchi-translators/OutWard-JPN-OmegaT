@@ -30048,6 +30048,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he shows any sign of supporting Old Levant’s position, kill him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T082051Z" creationid="pugnus" creationdate="20190415T082051Z">
+        <seg>彼が旧レバント人を支持しているようであれば、殺せ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If he’d been found sooner...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T133929Z" creationid="Light" creationdate="20190404T133929Z">
@@ -59450,6 +59458,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T081239Z" creationid="pugnus" creationdate="20190415T081239Z">
         <seg>必要なだけの火薬を使用しろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the caves within the Old Burial Grounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T082432Z" creationid="pugnus" creationdate="20190415T082432Z">
+        <seg>「古き墓所」内の洞窟を使え。</seg>
       </tuv>
     </tu>
     <tu>
