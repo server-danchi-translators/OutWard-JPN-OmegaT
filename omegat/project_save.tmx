@@ -8571,6 +8571,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Follow them through the tunnel&lt;/b&gt;&lt;/color&gt;, and turn Enmerkar upside down until you bring &lt;color=#00CCFF&gt;&lt;b&gt;Rissa home safely&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T054514Z" creationid="pugnus" creationdate="20190415T054514Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;トンネルをたどりなさい。&lt;/b&gt;&lt;/color&gt;そしてエンメルカルをひっくり返すのよ。&lt;color=#00CCFF&gt;&lt;b&gt;気を付けて。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Go beyond the Ghost Pass in the Chersonese, delve deep underground in the valley beyond it, and find the source of the Corruption.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T114042Z" creationid="taman" creationdate="20190414T113940Z">
@@ -10328,6 +10336,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T064036Z">
         <seg>オーケー、町の外に出してやろう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alright, [PlayerName], we’ve got work to do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053859Z" creationid="pugnus" creationdate="20190415T053859Z">
+        <seg>わかったわ、[PlayerName]、私たちはやらなければならないわね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34463,8 +34479,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Levant benefits most from all this...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T053742Z" creationid="pugnus" creationdate="20190415T053742Z">
-        <seg>すべての事象がレバントに有利に働く...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053749Z" creationid="pugnus" creationdate="20190415T053742Z">
+        <seg>すべての事象がレバントに有利に働くわ...</seg>
       </tuv>
     </tu>
     <tu>
