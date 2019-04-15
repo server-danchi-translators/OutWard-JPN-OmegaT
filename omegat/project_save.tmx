@@ -56584,6 +56584,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The corridor leading to the Necropolis has been blown to pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053022Z" creationid="pugnus" creationdate="20190415T053022Z">
+        <seg>ネクロポリスへと続く廊下が、破壊されている...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The creature must have saved you!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T092627Z" creationid="はぐくみ会" creationdate="20190403T061630Z">
@@ -57512,6 +57520,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130055Z" creationid="Light" creationdate="20190407T130055Z">
         <seg>彼らは進歩を推進して、さらに良い社会を創造することを信じている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They blasted a tunnel under Berg to get in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053106Z" creationid="pugnus" creationdate="20190415T053106Z">
+        <seg>彼らはベルクの地下にトンネルを開け、侵入してきたようだ。</seg>
       </tuv>
     </tu>
     <tu>
