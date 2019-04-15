@@ -28312,6 +28312,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I feel comfortable enough leaving her safety in your hands while I work on finding out who ordered this attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T071624Z" creationid="pugnus" creationdate="20190415T071624Z">
+        <seg>誰がこの攻撃を命じたのか突き止める間、彼女の安全はあなたに任せても大丈夫そうね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I feel like I could take on anyone and win!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060206Z" creationid="Mad" creationdate="20190407T060206Z">
@@ -29388,6 +29396,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T074152Z" creationid="pugnus" creationdate="20190406T074152Z">
         <seg>私はあなたが急ぐことを、そして幸運を祈っているわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wish you luck, [PlayerName] and I hope you don’t need it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T071727Z" creationid="pugnus" creationdate="20190415T071727Z">
+        <seg>幸運を祈っているわ、 [PlayerName] 。そして、幸運なんて必要なく過ごせることも。</seg>
       </tuv>
     </tu>
     <tu>
