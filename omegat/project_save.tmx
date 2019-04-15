@@ -10932,6 +10932,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any additional confusion you can cause in the Levant government and military will help us maintain our covert status.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T094815Z" creationid="pugnus" creationdate="20190415T094815Z">
+        <seg>お前がレバント政府と軍の戦争を起こせば、世界は混乱するだろう。そしてそれは我らの地位を維持するのに役立つだろう。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any evidence that would solve the murder is long gone…</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055613Z" creationid="Light" creationdate="20190409T055613Z">
@@ -67460,6 +67468,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T081937Z" creationid="pugnus" creationdate="20190415T081937Z">
         <seg>“もし可能であれば、青の議会の歴史家、バルタザール・ベルテローをとらえ、尋問するのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“If possible, try to capture Kirouac as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T094512Z" creationid="pugnus" creationdate="20190415T094512Z">
+        <seg>“そして、ケルアックも捕らえるのだ。</seg>
       </tuv>
     </tu>
     <tu>
