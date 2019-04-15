@@ -23934,6 +23934,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get down to &lt;color=#00CCFF&gt;&lt;b&gt;the archives room below the Blue Chamber and follow the attackers&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T051929Z" creationid="pugnus" creationdate="20190415T051929Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の下の、文書記録保管所の調査と、刺客たちの後をつけましょう。&lt;/b&gt;&lt;/color&gt;さぁ、取り掛かるわよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get lost, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T035833Z">
@@ -60058,6 +60066,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095232Z" creationid="rkmad" creationdate="20190403T095232Z">
         <seg>彼らを治療するための医薬品が不足していてね・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need to investigate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T051423Z" creationid="pugnus" creationdate="20190415T051423Z">
+        <seg>私たちは、調査する必要がありますね。</seg>
       </tuv>
     </tu>
     <tu>
