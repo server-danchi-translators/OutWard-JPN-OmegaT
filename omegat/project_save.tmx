@@ -13359,6 +13359,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blood under the Sun</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131136Z" creationid="seto" creationdate="20190415T131136Z">
+        <seg>この世界の血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blood-red shield used by the leaders of northern tribes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T144237Z" creationid="weedssoul" creationdate="20190405T144237Z">
@@ -20318,8 +20326,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Do you know what we do to spies here in Vendavel?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190407T044545Z" creationid="Mad" creationdate="20190407T044545Z">
-        <seg>このベンダベルでスパイをしようとする奴が、どうなるか教えてやる！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Mad" creationdate="20190407T044545Z">
+        <seg>このベンダバールでスパイをしようとする奴が、どうなるか教えてやる！</seg>
       </tuv>
     </tu>
     <tu>
@@ -45487,6 +45495,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Purifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130943Z" creationid="seto" creationdate="20190415T130943Z">
+        <seg>浄化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Purify the Water</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T100846Z" creationid="pugnus" creationdate="20190415T100846Z">
@@ -57812,8 +57828,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then there's the matter of several bandit crews deciding to join forces in the Vendavel fortress along the southern coast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190413T035513Z" creationid="Light" creationdate="20190406T061337Z">
-        <seg>噂によると南の浜辺にあるベンダベル要塞にいる盗賊たちが、どうやら軍隊を結成しようとしているらしい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Light" creationdate="20190406T061337Z">
+        <seg>噂によると南の浜辺にあるベンダバール要塞にいる盗賊たちが、どうやら軍隊を結成しようとしているらしい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59943,40 +59959,40 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vendavel Fortress</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114500Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
-        <seg>ベンダベル要塞</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
+        <seg>ベンダバール要塞</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vendavel Prisoner</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115629Z" creationid="Gaiden Shinji" creationdate="20190404T115558Z">
-        <seg>ベンダベルの囚人</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Gaiden Shinji" creationdate="20190404T115558Z">
+        <seg>ベンダバールの囚人</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vendavel Slave</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115617Z" creationid="Gaiden Shinji" creationdate="20190404T115617Z">
-        <seg>ベンダベルの奴隷</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Gaiden Shinji" creationdate="20190404T115617Z">
+        <seg>ベンダバールの奴隷</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vendavel Witch</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110614Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
-        <seg>ベンダベルウィッチ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Gaiden Shinji" creationdate="20190403T110554Z">
+        <seg>ベンダバールウィッチ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vendavel’s Nurse</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115256Z" creationid="Gaiden Shinji" creationdate="20190404T115256Z">
-        <seg>ベンダバルの看護師</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130823Z" creationid="Gaiden Shinji" creationdate="20190404T115256Z">
+        <seg>ベンダバールの看護師</seg>
       </tuv>
     </tu>
     <tu>
@@ -64815,8 +64831,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’ve escaped the Fortress of Vendavel, but paid dearly for it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T101758Z" creationid="pugnus" creationdate="20190404T050927Z">
-        <seg>私はベンダベルの要塞を脱出したが、多大な犠牲を払った。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="pugnus" creationdate="20190404T050927Z">
+        <seg>私はベンダバールの要塞を脱出したが、多大な犠牲を払った。</seg>
       </tuv>
     </tu>
     <tu>
