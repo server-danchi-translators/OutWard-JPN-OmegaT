@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is Balthazar for sure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T085514Z" creationid="pugnus" creationdate="20190415T085514Z">
+        <seg>(バルタザールに間違いない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Blue Chamber Collective&lt;/b&gt;&lt;/color&gt;?)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T020417Z" creationid="weedssoul" creationdate="20190406T021709Z">
@@ -9782,8 +9790,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>After his departure, all agents are to stick to their instructions to the letter.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T085401Z" creationid="pugnus" creationdate="20190415T085401Z">
-        <seg>彼が出発の後、すべての工作員は指令通りに動け。”</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T085410Z" creationid="pugnus" creationdate="20190415T085401Z">
+        <seg>彼が出発した後、すべての工作員は指令通りに動け。”</seg>
       </tuv>
     </tu>
     <tu>
