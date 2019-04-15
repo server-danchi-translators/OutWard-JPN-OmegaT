@@ -31216,6 +31216,118 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>InnKeeper_BC_Info_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135223Z" creationid="seto" creationdate="20190415T135223Z">
+        <seg>InnKeeper_BC_Info_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_BC_Info_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135225Z" creationid="seto" creationdate="20190415T135225Z">
+        <seg>InnKeeper_BC_Info_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_BC_Info_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135227Z" creationid="seto" creationdate="20190415T135227Z">
+        <seg>InnKeeper_BC_Info_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_BC_Info_03-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135228Z" creationid="seto" creationdate="20190415T135228Z">
+        <seg>InnKeeper_BC_Info_03-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135210Z" creationid="seto" creationdate="20190415T135210Z">
+        <seg>InnKeeper_Neutral_Info_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_01-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135202Z" creationid="seto" creationdate="20190415T135202Z">
+        <seg>InnKeeper_Neutral_Info_01-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135204Z" creationid="seto" creationdate="20190415T135204Z">
+        <seg>InnKeeper_Neutral_Info_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135205Z" creationid="seto" creationdate="20190415T135205Z">
+        <seg>InnKeeper_Neutral_Info_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135148Z" creationid="seto" creationdate="20190415T135148Z">
+        <seg>InnKeeper_Neutral_Info_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135145Z" creationid="seto" creationdate="20190415T135145Z">
+        <seg>InnKeeper_Neutral_Info_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135151Z" creationid="seto" creationdate="20190415T135151Z">
+        <seg>InnKeeper_Neutral_Info_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135153Z" creationid="seto" creationdate="20190415T135153Z">
+        <seg>InnKeeper_Neutral_Info_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135154Z" creationid="seto" creationdate="20190415T135154Z">
+        <seg>InnKeeper_Neutral_Info_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>InnKeeper_Neutral_Info_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135155Z" creationid="seto" creationdate="20190415T135155Z">
+        <seg>InnKeeper_Neutral_Info_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>InnKeeper_Purifier_Info_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T134413Z" creationid="seto" creationdate="20190415T134413Z">
@@ -67401,6 +67513,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T034017Z" creationid="seto" creationdate="20190406T034017Z">
         <seg>name_unpc_zigguratpassagesoldier_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>news</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T135202Z" creationid="seto" creationdate="20190415T135202Z">
+        <seg>news</seg>
       </tuv>
     </tu>
     <tu>
