@@ -29842,8 +29842,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I'll talk to Aunt Rissa, and make sure you get a full &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; for this!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T053308Z" creationid="Light" creationdate="20190405T140219Z">
-        <seg> 僕はこのことをRissaに伝えるよ、これで君は&lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;を得られるはずだよ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132432Z" creationid="Light" creationdate="20190405T140219Z">
+        <seg> 僕はこのことをリッサに伝えるよ、これで君は&lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;を得られるはずだよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55880,8 +55880,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Rissa in Berg, then commit to the faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T033449Z" creationid="urakata" creationdate="20190407T033449Z">
-        <seg>BergのRissaと話して仲間になる</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132445Z" creationid="urakata" creationdate="20190407T033449Z">
+        <seg>ベルクのリッサと話して仲間になる</seg>
       </tuv>
     </tu>
     <tu>
@@ -58959,8 +58959,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T032749Z" creationid="urakata" creationdate="20190407T031758Z">
-        <seg>Blue Chamberに参加するためにBergの東地区にいるRissaと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T132437Z" creationid="urakata" creationdate="20190407T031758Z">
+        <seg>Blue Chamberに参加するためにBergの東地区にいるリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
