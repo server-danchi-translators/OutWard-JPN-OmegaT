@@ -14576,6 +14576,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Castaway</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125909Z" creationid="seto" creationdate="20190415T125909Z">
+        <seg>難破船</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Caught just moments ago!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073559Z" creationid="weedssoul" creationdate="20190406T073559Z">
@@ -37839,32 +37847,32 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Need: Beast Golem Scraps</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T101629Z" creationid="pugnus" creationdate="20190415T101629Z">
-        <seg>欲求:ビーストゴーレムのスクラップ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125847Z" creationid="pugnus" creationdate="20190415T101629Z">
+        <seg>要求:ビーストゴーレムのスクラップ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Cierzo Ceviche</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T101651Z" creationid="pugnus" creationdate="20190415T101651Z">
-        <seg>欲求:シエルゾセビチェ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125835Z" creationid="pugnus" creationdate="20190415T101651Z">
+        <seg>要求:シエルゾセビチェ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Manticore Tail</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T101552Z" creationid="pugnus" creationdate="20190415T101552Z">
-        <seg>欲求:マンティコアの尾</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125851Z" creationid="pugnus" creationdate="20190415T101552Z">
+        <seg>要求:マンティコアの尾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Shark Cartilage</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T101535Z" creationid="pugnus" creationdate="20190415T101535Z">
-        <seg>欲求:鮫の軟骨</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125822Z" creationid="pugnus" creationdate="20190415T101535Z">
+        <seg>要求:鮫の軟骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -45633,9 +45641,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>QName_Errand_Idol</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T110729Z" creationid="seto" creationdate="20190409T110729Z">
-        <seg>
-QName_Errand_Idol</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125703Z" creationid="seto" creationdate="20190415T125703Z">
+        <seg>QName_Errand_Idol</seg>
       </tuv>
     </tu>
     <tu>
