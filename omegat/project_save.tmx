@@ -29266,8 +29266,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I want to be certain before hostilities start and my information network is shut off from me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T055341Z" creationid="pugnus" creationdate="20190415T055341Z">
-        <seg>私は交戦が始まる前に確信したいの。戦いが始まれば、情報網は不安定になる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T055408Z" creationid="pugnus" creationdate="20190415T055341Z">
+        <seg>私は交戦が始まる前に確信したいの。戦いが始まれば、情報網は遮断されてしまうわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30412,6 +30412,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T120550Z" creationid="Light" creationdate="20190406T120527Z">
         <seg>Alchemy Kitを持っているならば、いくつかを作ってくれないかしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If, like I suspect, Levant is behind this... an attack like this will ignite a full blown war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T055624Z" creationid="pugnus" creationdate="20190415T055624Z">
+        <seg>もし、私が疑っていることが事実で、レバントが事件の背後にいるのならば...この攻撃は本格的な戦争を引き起こすことになるわ...</seg>
       </tuv>
     </tu>
     <tu>
