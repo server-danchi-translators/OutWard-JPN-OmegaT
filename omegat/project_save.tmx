@@ -27182,6 +27182,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helen’s Fungus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101442Z" creationid="pugnus" creationdate="20190415T101442Z">
+        <seg>ヘレンの真菌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hello there [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T063653Z">
@@ -37793,6 +37801,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T163231Z" creationid="Light" creationdate="20190405T163231Z">
         <seg>他には？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need: Manticore Tail</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101552Z" creationid="pugnus" creationdate="20190415T101552Z">
+        <seg>欲求:マンティコアの尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need: Shark Cartilage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101535Z" creationid="pugnus" creationdate="20190415T101535Z">
+        <seg>欲求:鮫の軟骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -51226,6 +51250,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silver for the Slums</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101348Z" creationid="pugnus" creationdate="20190415T101348Z">
+        <seg>スラム街のための銀貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple food can be cooked on a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T074733Z">
@@ -55089,6 +55121,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T221524Z" creationid="seto" creationdate="20190404T221524Z">
         <seg>こんなみっともない真似はやめましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strange Apparitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101321Z" creationid="pugnus" creationdate="20190415T101321Z">
+        <seg>奇妙な幻影</seg>
       </tuv>
     </tu>
     <tu>
@@ -59082,6 +59122,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021526Z" creationid="hiru4" creationdate="20190402T021526Z">
         <seg>{1}へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treasure Hunt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101409Z" creationid="pugnus" creationdate="20190415T101409Z">
+        <seg>宝探し</seg>
       </tuv>
     </tu>
     <tu>
