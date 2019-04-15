@@ -14168,6 +14168,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call to Adventure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130043Z" creationid="seto" creationdate="20190415T130043Z">
+        <seg>冒険への呼び声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera Sensitivity</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025330Z" creationid="hiru4" creationdate="20190402T022122Z">
@@ -14578,8 +14586,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Castaway</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125909Z" creationid="seto" creationdate="20190415T125909Z">
-        <seg>難破船</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130204Z" creationid="seto" creationdate="20190415T125909Z">
+        <seg>難破</seg>
       </tuv>
     </tu>
     <tu>
@@ -35137,6 +35145,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T061330Z" creationid="pugnus" creationdate="20190409T045851Z">
         <seg>覆面をした男がJager Sullivanだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looking to the Future</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130150Z" creationid="seto" creationdate="20190415T130150Z">
+        <seg>先見</seg>
       </tuv>
     </tu>
     <tu>
