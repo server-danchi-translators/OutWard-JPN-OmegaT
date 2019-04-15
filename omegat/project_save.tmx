@@ -20302,8 +20302,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Do a small task for Zephyrien, Lockwell, or Mofat in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T131438Z" creationid="Light" creationdate="20190404T134752Z">
-        <seg>モンスーンでZephyrien、LockwellまたはMofatの依頼をこなす</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141145Z" creationid="Light" creationdate="20190404T134752Z">
+        <seg>モンスーンでゼフィリアン、ロックウェルまたはモファットの依頼をこなす</seg>
       </tuv>
     </tu>
     <tu>
@@ -27470,6 +27470,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heroic Kingdom of Levant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141044Z" creationid="seto" creationdate="20190415T141044Z">
+        <seg>レバント勇王国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heroic Kingdom’s Conflux Path</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114634Z" creationid="Gaiden Shinji" creationdate="20190403T114634Z">
@@ -34287,8 +34295,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Joined the Blue Chamber Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134905Z" creationid="Light" creationdate="20190404T134839Z">
-        <seg>Blue Chamber Collectiveに参加した</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141151Z" creationid="Light" creationdate="20190404T134839Z">
+        <seg>青議会に参加した</seg>
       </tuv>
     </tu>
     <tu>
@@ -39097,6 +39105,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073955Z" creationid="weedssoul" creationdate="20190406T073948Z">
         <seg>いや...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141048Z" creationid="seto" creationdate="20190415T141048Z">
+        <seg>None</seg>
       </tuv>
     </tu>
     <tu>
@@ -56104,8 +56120,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Yzan in the village of Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T135032Z" creationid="Light" creationdate="20190404T135032Z">
-        <seg>Cierzoの村でYzanと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141206Z" creationid="Light" creationdate="20190404T135032Z">
+        <seg>シエルゾ村でイザンと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -57137,8 +57153,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Heroic Kingdom doesn’t buy into the idea that we should only focus on survival.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130229Z" creationid="Light" creationdate="20190407T130030Z">
-        <seg>Heroic Kingdomはただ生きることだけを考えているわけではない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141000Z" creationid="Light" creationdate="20190407T130030Z">
+        <seg>勇王国はただ生きることだけを考えているわけではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59111,8 +59127,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join the Heroic Kingdom, talk to Yzan, in Levant’s north-west quarter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T032742Z" creationid="urakata" creationdate="20190407T032120Z">
-        <seg>Heroic Kingdomに参加するためにLevantの北西地区にいるYzanと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141106Z" creationid="urakata" creationdate="20190407T032120Z">
+        <seg>勇王国に参加するためにレバントの北西地区にいるイザンと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -61526,8 +61542,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What can you tell me about The Heroic Kingdom?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T130222Z" creationid="Light" creationdate="20190407T130222Z">
-        <seg>Heroic Kingdomについて教えて？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T141016Z" creationid="Light" creationdate="20190407T130222Z">
+        <seg>勇王国について教えてくれないか？</seg>
       </tuv>
     </tu>
     <tu>
