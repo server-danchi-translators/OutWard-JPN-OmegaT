@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>(As the memories fade and you return to your senses, you look up at the Vigil crystal and briefly see a swarm of ghosts trapped within the crystal with the Scourge Beast, endlessly stabbing it with their ghostly weapons.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T051017Z" creationid="taman" creationdate="20190410T044425Z">
-        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。Vigil Crystalを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190410T044425Z">
+        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。 Crystalを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,8 +8589,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190407T161122Z" creationid="taman" creationdate="20190407T160230Z">
-        <seg>モンスーンを出るとすぐ近くにVigil Crystalが見えるはずです。横の丘に祭壇が設置されているので、そこでgreasy fernを燃やし、あなたが目にしたものを報告してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190407T160230Z">
+        <seg>モンスーンを出るとすぐ近くに Crystalが見えるはずです。横の丘に祭壇が設置されているので、そこでgreasy fernを燃やし、あなたが目にしたものを報告してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13809,8 +13809,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Burn Greasy Fern at the altar on the hill just west of the Marsh’s Vigil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T102541Z" creationid="Light" creationdate="20190409T102541Z">
-        <seg>マーシュのVigilのすぐ西の丘の上の祭壇でGreasy Fernを燃やす</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T102541Z">
+        <seg>マーシュののすぐ西の丘の上の祭壇でGreasy Fernを燃やす</seg>
       </tuv>
     </tu>
     <tu>
@@ -19338,8 +19338,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>DS_52_Vigile</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T111418Z" creationid="setom" creationdate="20190403T111418Z">
-        <seg>DS_52_Vigile</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="setom" creationdate="20190403T111418Z">
+        <seg>DS_52_e</seg>
       </tuv>
     </tu>
     <tu>
@@ -26568,8 +26568,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Have you ever seen one of the Vigils before?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T061329Z" creationid="taman" creationdate="20190409T061329Z">
-        <seg>あなたはこれまでにVigilを見たことがありますか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095038Z" creationid="taman" creationdate="20190409T061329Z">
+        <seg>あなたはこれまでにヴィジャルを見たことがありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28074,8 +28074,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I burnt Greasy Fern at the Vigil's altar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T072212Z" creationid="taman" creationdate="20190409T072212Z">
-        <seg>Vigilの祭壇でGreasy Fernを燃やしてきました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190409T072212Z">
+        <seg>の祭壇でGreasy Fernを燃やしてきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29202,8 +29202,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I saw why the Vigils work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T081950Z" creationid="taman" creationdate="20190411T081950Z">
-        <seg>Vigilがどうやって動いているか分かりましたよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190411T081950Z">
+        <seg>がどうやって動いているか分かりましたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29226,8 +29226,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I sent Oliele on a mission before you left for the Vigil, and I would feel better if you joined her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T161626Z" creationid="taman" creationdate="20190413T161626Z">
-        <seg>あなたがVigilに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190413T161626Z">
+        <seg>あなたがに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29458,8 +29458,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I want you to &lt;color=#00CCFF&gt;&lt;b&gt;go there and burn a Greasy Fern at the altar atop the hill beside it&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T064844Z" creationid="taman" creationdate="20190409T064844Z">
-        <seg>Vigilのそばに丘があるので、その頂上にある祭壇でGreasy Fernを燃やしてきてください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190409T064844Z">
+        <seg>のそばに丘があるので、その頂上にある祭壇でGreasy Fernを燃やしてきてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30106,8 +30106,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If he did this, it's because it had to be done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T055753Z" creationid="taman" creationdate="20190411T055529Z">
-        <seg>Vigilの件についても、そうせざるを得ない理由があったに違いない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190411T055529Z">
+        <seg>の件についても、そうせざるを得ない理由があったに違いない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35687,8 +35687,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Map_Vigil</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T045309Z" creationid="seto" creationdate="20190406T045309Z">
-        <seg>Map_Vigil</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="seto" creationdate="20190406T045309Z">
+        <seg>Map_</seg>
       </tuv>
     </tu>
     <tu>
@@ -38711,8 +38711,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>No wonder the Scourge don't go anywhere near the Vigils.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T151011Z" creationid="taman" creationdate="20190410T125051Z">
-        <seg>どうりでスカージがVigilに近寄らないわけだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190410T125051Z">
+        <seg>どうりでスカージがに近寄らないわけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40385,8 +40385,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele, without the Vigils, the Scourge Beasts could attack our homes, our families.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T045018Z" creationid="taman" creationdate="20190411T045018Z">
-        <seg>オリエル、仮にVigilがなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190411T045018Z">
+        <seg>オリエル、仮にがなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54999,8 +54999,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T100417Z" creationid="Light" creationdate="20190409T100417Z">
-        <seg>オールドレバントの西部、Vigilタワーの内側にあるCorsairの指導者を止める</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T100417Z">
+        <seg>オールドレバントの西部、タワーの内側にあるCorsairの指導者を止める</seg>
       </tuv>
     </tu>
     <tu>
@@ -55537,8 +55537,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T103731Z" creationid="Light" creationdate="20190409T103731Z">
-        <seg>アブラサールの北西にある、Vigilの近くで、オールドレバントでオリエルと話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T103731Z">
+        <seg>アブラサールの北西にある、の近くで、オールドレバントでオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -56834,8 +56834,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>The Vigils are a necessary evil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T062715Z" creationid="taman" creationdate="20190413T062413Z">
-        <seg>私たちはVigilを必要悪として認めています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190413T062413Z">
+        <seg>私たちはを必要悪として認めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58191,8 +58191,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>This does protect us, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T065510Z" creationid="taman" creationdate="20190411T064659Z">
-        <seg>Vigilは私たちを守ってくれる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190411T064659Z">
+        <seg>は私たちを守ってくれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60368,8 +60368,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>We can't depend on the Vigils and our warriors to defend us from the Scourge forever.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T070349Z" creationid="taman" creationdate="20190413T070142Z">
-        <seg>しかし、いつまでもVigilや戦士たちに守られてばかりではいけません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190413T070142Z">
+        <seg>しかし、いつまでもや戦士たちに守られてばかりではいけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66904,8 +66904,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>name_unpc_vigildolmen_01</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T034009Z" creationid="seto" creationdate="20190406T034009Z">
-        <seg>name_unpc_vigildolmen_01</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="seto" creationdate="20190406T034009Z">
+        <seg>name_unpc_dolmen_01</seg>
       </tuv>
     </tu>
     <tu>
