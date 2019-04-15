@@ -26622,6 +26622,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He appears to have been shot and left for the beasts to feed on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090003Z" creationid="pugnus" creationdate="20190415T090003Z">
+        <seg>餌にするために彼は撃たれ、獣に連れていかれたのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He can go feed a hyena with his own hide for all I care.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123007Z" creationid="Light" creationdate="20190407T122840Z">
@@ -27466,6 +27474,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T035428Z">
         <seg>高い睡眠の質を提供し、すぐにユーザーを癒す、シルクのテント。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>His eyes are frozen open in shock.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090156Z" creationid="pugnus" creationdate="20190415T090156Z">
+        <seg>彼の眼は衝撃を受けて凍り付いている。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41545,8 +41561,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or at least, what’s left of him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T085739Z" creationid="pugnus" creationdate="20190415T085739Z">
-        <seg>または少なくとも、彼の残したもの。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T085754Z" creationid="pugnus" creationdate="20190415T085739Z">
+        <seg>または少なくとも、彼の残したものだろう。</seg>
       </tuv>
     </tu>
     <tu>
