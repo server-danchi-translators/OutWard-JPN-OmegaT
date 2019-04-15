@@ -44655,6 +44655,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rufus_NE_Call_To_Advent_d_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123828Z" creationid="seto" creationdate="20190415T123828Z">
+        <seg>Player_Rufus_NE_Call_To_Advent_d_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Sagard_BC_Mix_Legacy_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052555Z" creationid="seto" creationdate="20190406T052555Z">
@@ -44867,6 +44875,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103859Z" creationid="seto" creationdate="20190410T103859Z">
         <seg>Player_Yzan_NE_Call_To_Advent_b_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_NE_Call_To_Advent_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123814Z" creationid="seto" creationdate="20190415T123814Z">
+        <seg>Player_Yzan_NE_Call_To_Advent_c_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -50765,6 +50781,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T022954Z" creationid="pugnus" creationdate="20190408T022954Z">
         <seg>気になるものはあるかい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See you Rufus, I have to go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T125052Z" creationid="seto" creationdate="20190415T125052Z">
+        <seg>Rufus、ではまた。私は行くとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65146,6 +65170,70 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103904Z" creationid="seto" creationdate="20190410T103904Z">
         <seg>Yzan_NE_Call_To_Advent_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123815Z" creationid="seto" creationdate="20190415T123815Z">
+        <seg>Yzan_NE_Call_To_Advent_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_30</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123816Z" creationid="seto" creationdate="20190415T123816Z">
+        <seg>Yzan_NE_Call_To_Advent_30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_31</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123817Z" creationid="seto" creationdate="20190415T123817Z">
+        <seg>Yzan_NE_Call_To_Advent_31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123818Z" creationid="seto" creationdate="20190415T123818Z">
+        <seg>Yzan_NE_Call_To_Advent_32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_33</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123818Z" creationid="seto" creationdate="20190415T123818Z">
+        <seg>Yzan_NE_Call_To_Advent_33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_34</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123819Z" creationid="seto" creationdate="20190415T123819Z">
+        <seg>Yzan_NE_Call_To_Advent_34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_35</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123819Z" creationid="seto" creationdate="20190415T123819Z">
+        <seg>Yzan_NE_Call_To_Advent_35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_NE_Call_To_Advent_36</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T123820Z" creationid="seto" creationdate="20190415T123820Z">
+        <seg>Yzan_NE_Call_To_Advent_36</seg>
       </tuv>
     </tu>
     <tu>
