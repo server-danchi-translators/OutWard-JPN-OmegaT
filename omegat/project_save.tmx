@@ -13585,8 +13585,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring Crystal Powder, which can be crafted using an Alchemy Kit, to Helmi the Alchemist in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001904Z" creationid="urakata" creationdate="20190406T114052Z">
-        <seg>シエルゾの錬金術師Helmiに、錬金術キットで作ったCrystal Powderを持っていく</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T133515Z" creationid="urakata" creationdate="20190406T114052Z">
+        <seg>シエルゾの錬金術師ヘルミに、錬金術キットで作ったCrystal Powderを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -55238,8 +55238,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop the 3 warlords in the Fortress of Vendavel, located in the south-west of the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T133412Z" creationid="urakata" creationdate="20190407T044442Z">
-        <seg>ケルソネソス南西のFortress of Vendavelにいる3人の将軍を止める</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T133422Z" creationid="urakata" creationdate="20190407T044442Z">
+        <seg>ケルソネソス南西のベンダバール要塞にいる3人の将軍を止める</seg>
       </tuv>
     </tu>
     <tu>
