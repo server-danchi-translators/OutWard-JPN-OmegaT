@@ -8589,8 +8589,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I saw them kidnap Rissa and Balthazar and take them below the chamber&lt;/b&gt;&lt;/color&gt; while I was dealing with these thugs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T050924Z" creationid="pugnus" creationdate="20190415T050924Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私は彼らがリッサとバルタザールを誘拐し、部屋の下に連れて行くのを見ました。&lt;/b&gt;&lt;/color&gt; while I was dealing with these thugs.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T051221Z" creationid="pugnus" creationdate="20190415T050924Z">
+        <seg>私が刺客たちと華麗にそして勇敢に戦っている間、&lt;color=#00CCFF&gt;&lt;b&gt;彼らがリッサとバルタザールを誘拐し、部屋の下に連れて行くのを見ました。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60697,6 +60697,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T055330Z" creationid="Light" creationdate="20190406T055330Z">
         <seg>外の世界で生き残るにはどうすればいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do we do now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T051315Z" creationid="pugnus" creationdate="20190415T051315Z">
+        <seg>私たちは何をするべきでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
