@@ -9990,8 +9990,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Cold Stone</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Cold Stone</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T102249Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術:コールドストーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10006,8 +10006,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Crystal Powder</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Crystal Powder</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T102326Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術:クリスタルパウダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -65368,8 +65368,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Confront Jager Sullivan in the City of Berg, in the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T054403Z">
-        <seg>[任意]エンメルカルの森にあるベルクのJager Sullivanに立ち向かう</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T102438Z" creationid="Light" creationdate="20190409T054403Z">
+        <seg>[任意]エンメルカルの森にいる、ベルクのイェーガーサリバンに立ち向かう</seg>
       </tuv>
     </tu>
     <tu>
