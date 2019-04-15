@@ -11124,6 +11124,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor (5 Copal, 200 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235458Z" creationid="pugnus" creationdate="20190415T235458Z">
+        <seg>鎧 (5 Copal, 200 silver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Armor (5 Petrified Wood, 250 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235542Z" creationid="pugnus" creationdate="20190415T235542Z">
+        <seg>鎧 (5 Petrified Wood, 250 silver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor Penalties Reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071338Z" creationid="hiru4" creationdate="20190403T071338Z">
@@ -13483,6 +13499,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064043Z" creationid="weedssoul" creationdate="20190406T064043Z">
         <seg>Boots (2 青い砂, 200 銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots (2 Copal, 100 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235506Z" creationid="pugnus" creationdate="20190415T235506Z">
+        <seg>靴 (2 Copal, 100 silver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots (2 Petrified Wood, 140 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235548Z" creationid="pugnus" creationdate="20190415T235548Z">
+        <seg>靴 (2 Petrified Wood, 140 silver)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17412,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020703Z" creationid="hiru4" creationdate="20190402T020703Z">
         <seg>クールダウン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copal Armor set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235613Z" creationid="pugnus" creationdate="20190415T235613Z">
+        <seg>コーパルの鎧一式</seg>
       </tuv>
     </tu>
     <tu>
@@ -27262,6 +27302,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helmet (2 Copal, 100 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235533Z" creationid="pugnus" creationdate="20190415T235448Z">
+        <seg>兜 (2 Copal, 100 silver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helmet (2 Petrified Wood, 150 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235526Z" creationid="pugnus" creationdate="20190415T235526Z">
+        <seg>兜 (2 Petrified Wood, 150 silver)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helmet (3 Blue Sand, 250 silver)</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064020Z" creationid="weedssoul" creationdate="20190406T064020Z">
@@ -33719,8 +33775,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’ll craft you armor from the Copal or Petrified Wood you bring me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T063533Z" creationid="pugnus" creationdate="20190409T063533Z">
-        <seg>CopalやPetrified Woodを持ってきたら、あなたに鎧を作ってやろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235422Z" creationid="pugnus" creationdate="20190409T063533Z">
+        <seg>コーパルや石化樹を持ってきたら、あなたに鎧を作ってやろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34199,8 +34255,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’ve heard a Royal Manticore has made its lair in the region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T063817Z" creationid="pugnus" creationdate="20190409T063817Z">
-        <seg>Royal Manticoreが、その領地に隠れ家を作ったって聞いたよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235734Z" creationid="pugnus" creationdate="20190409T063817Z">
+        <seg>ロイヤルマンティコアが、その領地に隠れ家を作ったって聞いたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42331,6 +42387,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114343Z" creationid="Gaiden Shinji" creationdate="20190403T114336Z">
         <seg>化石の木</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Petrified Wood Armor set.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T235632Z" creationid="pugnus" creationdate="20190415T235632Z">
+        <seg>石化樹の鎧一式</seg>
       </tuv>
     </tu>
     <tu>
