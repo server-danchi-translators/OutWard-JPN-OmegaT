@@ -8597,8 +8597,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Rissa might be in grave danger&lt;/b&gt;&lt;/color&gt;!)</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190409T061610Z" creationid="magur0w" creationdate="20190404T181121Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Rissaは深刻な危機に直面しているかもしれない&lt;/b&gt;&lt;/color&gt;!)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044938Z" creationid="magur0w" creationdate="20190404T181121Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;リッサは深刻な危機に直面しているかもしれない&lt;/b&gt;&lt;/color&gt;!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10694,8 +10694,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T175927Z" creationid="magur0w" creationdate="20190404T175927Z">
-        <seg>そして、Siroccoの代表はもうここにいるはずだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044911Z" creationid="magur0w" creationdate="20190404T175927Z">
+        <seg>そして、シロッコの代表はもうここにいるはずだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,8 +10758,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>And what's the problem between Sirroco and the Hallowed Marsh?</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190409T061722Z" creationid="magur0w" creationdate="20190404T123820Z">
-        <seg>そして、SirrocoとHallowedMarshの間にある問題は何だろうか。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044700Z" creationid="magur0w" creationdate="20190404T123820Z">
+        <seg>そして、シロッコと聖なる沼の間にある問題は何だろうか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17282,8 +17282,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Could you &lt;color=#00CCFF&gt;&lt;b&gt;check the Inn&lt;/b&gt;&lt;/color&gt; to see if they’ve arrived in Berg, yet?</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T180309Z" creationid="magur0w" creationdate="20190404T180309Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;Bergに着いているか確認してくれないか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044922Z" creationid="magur0w" creationdate="20190404T180309Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;ベルクに着いているか確認してくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28458,8 +28458,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I have some important personal business to discuss with Julius first.</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T173646Z" creationid="magur0w" creationdate="20190404T173236Z">
-        <seg>私はJuliusと重要で個人的な取引の話しがいくつかある。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044832Z" creationid="magur0w" creationdate="20190404T173236Z">
+        <seg>私はユリウスと重要で個人的な取引の話しがいくつかある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28914,8 +28914,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I need you to keep tabs on the other Chamberlords at the Blue Chamber!</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190409T061914Z" creationid="magur0w" creationdate="20190404T174002Z">
-        <seg>青の議会で他のChamberlord達を見張っていろ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044851Z" creationid="magur0w" creationdate="20190404T174002Z">
+        <seg>青の議会で他の上院議員の貴族達を見張っていろ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -57887,8 +57887,8 @@ QName_Errand_Idol</seg>
       <tuv lang="EN-US">
         <seg>This is without mentioning that the Chamberlord of Monsoon is not affiliated with the Holy Mission that lives within his city, and he’s said not to hold any real power.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T105631Z" creationid="pugnus" creationdate="20190406T075407Z">
-        <seg>モンスーンのChamberlordは、いうまでもなく、聖なる使命に属してはいない。彼は本当の力を持っていないと述べた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T044742Z" creationid="pugnus" creationdate="20190406T075407Z">
+        <seg>モンスーンの上院議員は、いうまでもなく、聖なる使命に属してはいない。彼は本当の力を持っていないと述べた。</seg>
       </tuv>
     </tu>
     <tu>
