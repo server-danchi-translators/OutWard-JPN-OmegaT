@@ -13689,8 +13689,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Burac Carillon</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113607Z" creationid="Gaiden Shinji" creationdate="20190404T113607Z">
-        <seg>ブラックカリヨン</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T134825Z" creationid="Gaiden Shinji" creationdate="20190404T113607Z">
+        <seg>ブラック・カリヨン</seg>
       </tuv>
     </tu>
     <tu>
@@ -22296,8 +22296,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Fang &amp; Claw’s Innkeeper</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115224Z" creationid="Gaiden Shinji" creationdate="20190404T115224Z">
-        <seg>ダング＆クローの主</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T134926Z" creationid="Gaiden Shinji" creationdate="20190404T115224Z">
+        <seg>ファング＆クローの主人</seg>
       </tuv>
     </tu>
     <tu>
@@ -24992,8 +24992,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Grand Innkeeper</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115035Z" creationid="Gaiden Shinji" creationdate="20190404T115035Z">
-        <seg>グランドの主</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T134915Z" creationid="Gaiden Shinji" creationdate="20190404T115035Z">
+        <seg>グランドの主人</seg>
       </tuv>
     </tu>
     <tu>
@@ -40409,16 +40409,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Old Coin’s Inn</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112647Z" creationid="Gaiden Shinji" creationdate="20190404T112647Z">
-        <seg>オールドコインズイン</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T134758Z" creationid="Gaiden Shinji" creationdate="20190404T112647Z">
+        <seg>宿屋「オールドコイン」</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Old Coin’s Innkeeper</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113556Z" creationid="Gaiden Shinji" creationdate="20190404T113556Z">
-        <seg>オールドコインズの主</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T134820Z" creationid="Gaiden Shinji" creationdate="20190404T113556Z">
+        <seg>オールドコインの主人</seg>
       </tuv>
     </tu>
     <tu>
@@ -57403,8 +57403,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The innkeeper has used money from your own pouch to pay for your treatment, but at least you’re still alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095959Z" creationid="はぐくみ会" creationdate="20190403T102535Z">
-        <seg>宿の主人は私の治療のために、私の財布からお金を使っているが、少なくとも私はまだ生きている。
+      <tuv lang="JA" changeid="seto" changedate="20190415T134904Z" creationid="はぐくみ会" creationdate="20190403T102535Z">
+        <seg>宿屋の主人は私の治療のために、私の財布からお金を使っているが、少なくとも私はまだ生きている。
 </seg>
       </tuv>
     </tu>
