@@ -40785,8 +40785,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Once war has been declared, he is to be returned home unharmed.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T084320Z" creationid="pugnus" creationdate="20190415T084320Z">
-        <seg>戦争が宣言された後に、彼は無傷で帰国することになっているのだ。”</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T084346Z" creationid="pugnus" creationdate="20190415T084320Z">
+        <seg>戦争が宣言された後に、彼は無事に帰国することになっているのだ。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -67324,6 +67324,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062549Z" creationid="setom" creationdate="20190402T062530Z">
         <seg>「決して冷めない神官の武器は、不死者共にピッタリだ！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“All messages are to go through Commander Mantis at his &lt;color=#00CCFF&gt;&lt;b&gt;forest camp to the south of Enmerkar, near the stone steps&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T085011Z" creationid="pugnus" creationdate="20190415T085011Z">
+        <seg>“全ての伝達は彼のものであり、マンティス司令官を経由する必要がある。&lt;color=#00CCFF&gt;&lt;b&gt;「踏み石」く、「エンメルカルの森」の南方に野営地がある。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
