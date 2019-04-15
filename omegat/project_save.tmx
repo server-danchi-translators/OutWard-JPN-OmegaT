@@ -27510,6 +27510,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold them for ransom, and do not kill them unless it’s absolutely necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T083032Z" creationid="pugnus" creationdate="20190415T083032Z">
+        <seg>身代金を要求しろ。身代金を得られないようであれば、殺せ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold up there, [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T100836Z" creationid="seto" creationdate="20190410T100836Z">
@@ -56543,6 +56551,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;color=#00CCFF&gt;&lt;b&gt;old cabin in the burned woods&lt;/b&gt;&lt;/color&gt; to the south are equipped and prepared for such an event.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T083515Z" creationid="pugnus" creationdate="20190415T083515Z">
+        <seg> &lt;color=#00CCFF&gt;&lt;b&gt;「焼け森」の中の、古い小屋&lt;/b&gt;&lt;/color&gt; に行け。この計画のために準備した。南だ。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Aberdeen family is one of the oldest and strongest families in the Collective.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T014931Z">
@@ -67324,6 +67340,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T081937Z" creationid="pugnus" creationdate="20190415T081937Z">
         <seg>“もし可能であれば、青の議会の歴史家、バルタザール・ベルテローをとらえ、尋問するのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“If the opportunity arises to kidnap a chamberlord, do so.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T082910Z" creationid="pugnus" creationdate="20190415T082910Z">
+        <seg>“もし、議員を誘拐できる機会が生じれば、そうしろ。</seg>
       </tuv>
     </tu>
     <tu>
