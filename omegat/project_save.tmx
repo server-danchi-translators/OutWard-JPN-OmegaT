@@ -13143,6 +13143,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beware the Jade Lich</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101012Z" creationid="pugnus" creationdate="20190415T101012Z">
+        <seg>ジェイドリッチ（翡翠のリッチ）に注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitterness solves nothing, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T155125Z">
@@ -45331,6 +45339,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020802Z" creationid="hiru4" creationdate="20190402T020802Z">
         <seg>防御力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purify the Water</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T100846Z" creationid="pugnus" creationdate="20190415T100846Z">
+        <seg>水を浄化する</seg>
       </tuv>
     </tu>
     <tu>
