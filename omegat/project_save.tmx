@@ -12857,8 +12857,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Be warned, Gabriella Sullivan is a suspected member of the &lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T074214Z" creationid="pugnus" creationdate="20190415T074214Z">
-        <seg>警告する。ガブリエラ・サリバンは&lt;color=#00CCFF&gt;&lt;b&gt;クリュプテイア&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T074513Z" creationid="pugnus" creationdate="20190415T074214Z">
+        <seg>注意しろ、ガブリエラ・サリバンは&lt;color=#00CCFF&gt;&lt;b&gt;クリュプテイア&lt;/b&gt;&lt;/color&gt;の構成員の可能性がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50689,6 +50689,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She will likely be forewarned by the Ancestral Memories that an attack is coming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T074455Z" creationid="pugnus" creationdate="20190415T074455Z">
+        <seg>ガブリエラ・サリバンはこの襲撃を「祖先の記憶」により警告されるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She'll be back soon.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T114540Z" creationid="taman" creationdate="20190414T114540Z">
@@ -56588,6 +56596,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112721Z">
         <seg>メニュータブのジャーナルは次の仕事の追跡に使用されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Krypteia has opposed the Lich of the Red Moon herself, so extreme caution is advised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T075113Z" creationid="pugnus" creationdate="20190415T075113Z">
+        <seg>「クリュプテイア」は「赤い月の屍」に敵対している。したがって、細心の注意が必要だ。</seg>
       </tuv>
     </tu>
     <tu>
