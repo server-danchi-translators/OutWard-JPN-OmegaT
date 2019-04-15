@@ -34605,6 +34605,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ledger to Monsoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T102037Z" creationid="pugnus" creationdate="20190415T102037Z">
+        <seg>モンスーンへの原簿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Left Shoulder</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T155226Z" creationid="Horizon" creationdate="20190403T155226Z">
@@ -37801,6 +37809,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T163231Z" creationid="Light" creationdate="20190405T163231Z">
         <seg>他には？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need: Beast Golem Scraps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101629Z" creationid="pugnus" creationdate="20190415T101629Z">
+        <seg>欲求:ビーストゴーレムのスクラップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Need: Cierzo Ceviche</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T101651Z" creationid="pugnus" creationdate="20190415T101651Z">
+        <seg>欲求:シエルゾセビチェ</seg>
       </tuv>
     </tu>
     <tu>
