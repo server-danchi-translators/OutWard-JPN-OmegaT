@@ -62796,6 +62796,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can do nothing for him.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090507Z" creationid="pugnus" creationdate="20190415T090507Z">
+        <seg>あなたが彼のためにできることは何もない...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can drop and pick up backpacks with a button or by using the inventory menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111654Z">
@@ -67532,6 +67540,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062628Z" creationid="setom" creationdate="20190402T062628Z">
         <seg>「かの鍛冶師は武器庫中の武器全てを鍛え直し、強固で鋭利にしようとした。」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“We understand that the old stone around the Necropolis is difficult to mine through, but the tunnel must be ready before the Council Meeting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T090832Z" creationid="pugnus" creationdate="20190415T090832Z">
+        <seg>“ネクロポリス周辺の古い石は、掘り進むことは難しい。しかし、トンネルは青の議会における会議の前に準備されなければならない。</seg>
       </tuv>
     </tu>
     <tu>
