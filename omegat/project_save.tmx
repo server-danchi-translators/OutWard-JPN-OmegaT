@@ -33791,8 +33791,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’m leaving this place to join the &lt;color=#00CCFF&gt;&lt;b&gt;Holy Mission&lt;/b&gt;&lt;/color&gt; and I’m not looking back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Mad" changedate="20190406T105621Z" creationid="Mad" creationdate="20190406T105621Z">
-        <seg>私はシエルゾを去って&lt;color=#00CCFF&gt;&lt;b&gt;Holy Mission&lt;/b&gt;&lt;/color&gt;に参加することにしたわ。二度とこの村に戻ってくることはないと思うの。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131252Z" creationid="Mad" creationdate="20190406T105621Z">
+        <seg>私はシエルゾを去って&lt;color=#00CCFF&gt;&lt;b&gt;神聖伝道団&lt;/b&gt;&lt;/color&gt;に参加することにしたわ。二度とこの村に戻ってくることはないと思うの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34143,8 +34143,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Joined the Holy Mission of Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T134858Z" creationid="Light" creationdate="20190404T134858Z">
-        <seg>Holy Mission of Elattに参加した</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131224Z" creationid="Light" creationdate="20190404T134858Z">
+        <seg>エラットの神聖伝道団に参加した</seg>
       </tuv>
     </tu>
     <tu>
@@ -58943,8 +58943,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join the Holy Mission, talk to Oliele, near Monsoon’s entrance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190407T032823Z" creationid="urakata" creationdate="20190407T032823Z">
-        <seg>Holy Missionに参加するためにMonsoonの入り口付近にいるOlieleと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131356Z" creationid="urakata" creationdate="20190407T032823Z">
+        <seg>神聖伝道団に参加するためにモンスーンの入り口付近にいるオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -63769,8 +63769,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You must be part of the Holy Mission of Elatt to learn this skill.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132030Z" creationid="hiru4" creationdate="20190403T052652Z">
-        <seg>スキルを学ぶためにthe Holy Mission of Elattのメンバーでなければなりません</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190415T131305Z" creationid="hiru4" creationdate="20190403T052652Z">
+        <seg>スキルを学ぶためにエラットの神聖伝道団のメンバーでなければなりません</seg>
       </tuv>
     </tu>
     <tu>
