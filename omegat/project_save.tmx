@@ -8587,6 +8587,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I saw them kidnap Rissa and Balthazar and take them below the chamber&lt;/b&gt;&lt;/color&gt; while I was dealing with these thugs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T050924Z" creationid="pugnus" creationdate="20190415T050924Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私は彼らがリッサとバルタザールを誘拐し、部屋の下に連れて行くのを見ました。&lt;/b&gt;&lt;/color&gt; while I was dealing with these thugs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T162833Z">
@@ -40513,8 +40521,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>On top of any damage their explosives might have done, they've taken prisoners.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T050720Z" creationid="pugnus" creationdate="20190415T050720Z">
-        <seg>爆発によって、彼らはどんなダメージを負ってでも、彼らは囚人たちを手に入れたでしょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T051001Z" creationid="pugnus" creationdate="20190415T050720Z">
+        <seg>爆発によって、彼らはどんなダメージを負ってでも、彼らは人質たちを手に入れたでしょう。</seg>
       </tuv>
     </tu>
     <tu>
