@@ -59933,6 +59933,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vendavel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190415T130736Z" creationid="seto" creationdate="20190415T130736Z">
+        <seg>ベンダバール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vendavel Fortress</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114500Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
