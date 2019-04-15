@@ -40511,6 +40511,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On top of any damage their explosives might have done, they've taken prisoners.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T050720Z" creationid="pugnus" creationdate="20190415T050720Z">
+        <seg>爆発によって、彼らはどんなダメージを負ってでも、彼らは囚人たちを手に入れたでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On top of hunting, you can forage for food.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074358Z" creationid="weedssoul" creationdate="20190406T074358Z">
@@ -58041,6 +58049,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
         <seg>これが間違いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was planned by an expert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T050326Z" creationid="pugnus" creationdate="20190415T050326Z">
+        <seg>これは、専門家による計画でしょう。</seg>
       </tuv>
     </tu>
     <tu>
