@@ -19536,6 +19536,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dammit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053137Z" creationid="pugnus" creationdate="20190415T053137Z">
+        <seg>なんてこと！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Damn, it’s not bad either.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T100521Z" creationid="rkmad" creationdate="20190403T100521Z">
@@ -34525,6 +34533,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like I expected.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053210Z" creationid="pugnus" creationdate="20190415T053210Z">
+        <seg>思った通りね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like other survival attires, this improvised coat has additional pockets.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T150733Z" creationid="weedssoul" creationdate="20190405T150733Z">
@@ -44963,6 +44979,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T075755Z" creationid="setom" creationdate="20190402T075755Z">
         <seg>階段を上がってスキルを習得しましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Professionals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053241Z" creationid="pugnus" creationdate="20190415T053241Z">
+        <seg>プロよ。プロの所業ね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56536,6 +56560,14 @@ QName_Errand_Idol</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The attack damaged our historical archives and killed the ambassador from Old Levant, on top of taking hostages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053524Z" creationid="pugnus" creationdate="20190415T053524Z">
+        <seg>人質を取るだけではなく、私たちの歴史的な書物や記録を破壊し、旧レバントからの大使を殺害したのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The attackers seem to have detonated an explosive and left you to take the blame...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103249Z" creationid="pugnus" creationdate="20190404T104326Z">
@@ -56660,6 +56692,14 @@ QName_Errand_Idol</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T052709Z">
         <seg>入り口はあなたの直ぐ側よ。 丘の上にあるわ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The evidence points to Levant right now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190415T053324Z" creationid="pugnus" creationdate="20190415T053324Z">
+        <seg>今、一番疑うべきは、レバントね。</seg>
       </tuv>
     </tu>
     <tu>
