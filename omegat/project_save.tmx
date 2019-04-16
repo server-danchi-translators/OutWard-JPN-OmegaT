@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Fourteen bullet holes pierce her body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T233128Z" creationid="pugnus" creationdate="20190416T233128Z">
+        <seg>(彼女の身体を１４発の銃弾が突き通る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Give a Bandage.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T134904Z">
@@ -36439,8 +36447,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>May the Five Winds favor us this day, and reverse the terrible decision of our new so-called "god".</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T060406Z" creationid="pugnus" creationdate="20190416T060406Z">
-        <seg>今日は「ファイブウィンド」が支持をしてくれるかもしれない。そして、いわゆる、私たちの新しい「神」の酷い決断を覆すかも。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T232851Z" creationid="pugnus" creationdate="20190416T060406Z">
+        <seg>今日は「ファイブウィンド」が私たちを支持してくれるかもしれない。そして、いわゆる、私たちの新しい「神」の酷い決断を覆すかも。</seg>
       </tuv>
     </tu>
     <tu>
