@@ -51928,6 +51928,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should I know you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T234422Z" creationid="pugnus" creationdate="20190416T234422Z">
+        <seg>あなたのことを教えてもらえますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should a Chamberlord call a meeting, we gather in the city of Berg, the birthplace of our Collective, and hold a discussion, then a vote.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T032948Z" creationid="rkmad" creationdate="20190405T032933Z">
@@ -65649,6 +65657,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T095448Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
         <seg>どれだけ長く気を失っていたのか...。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re part of the Holy Mission, looks like.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T234245Z" creationid="pugnus" creationdate="20190416T234245Z">
+        <seg>あなたは神聖伝道団の一員のように見えますが。</seg>
       </tuv>
     </tu>
     <tu>
