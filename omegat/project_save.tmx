@@ -8605,8 +8605,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Go beyond the Ghost Pass in the Chersonese, delve deep underground in the valley beyond it, and find the source of the Corruption.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="taman" creationdate="20190414T113940Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;まずはケルソネソスのGhost Passを通り抜けなさい。谷を越えると地下深くに続く道がどこかにあるはずです。そこで瘴気の発生源を探すのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T022904Z" creationid="taman" creationdate="20190414T113940Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;まずはケルソネソスのゴーストパスを通り抜けなさい。谷を越えると地下深くに続く道がどこかにあるはずです。そこで瘴気の発生源を探すのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29178,8 +29178,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I made a trip to visit the old Hermit in the valley beyond the Ghost Pass.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T141956Z" creationid="weedssoul" creationdate="20190406T072941Z">
-        <seg>Ghost Passの近くの谷にいる隠者の老人のもとまで旅をしたことがある。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T022920Z" creationid="weedssoul" creationdate="20190406T072941Z">
+        <seg>ゴーストパスの近くの谷にいる隠者の老人のもとまで旅をしたことがある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32811,8 +32811,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It grabs your arm and drags you through the Ghost Pass, sword ready if you try to escape...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095304Z" creationid="はぐくみ会" creationdate="20190403T091422Z">
-        <seg>それは私の腕をつかみ、引きずりながらGhost Passを通る。脱出を試みるのならば、武器を手に取るしかない...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T022813Z" creationid="はぐくみ会" creationdate="20190403T091422Z">
+        <seg>それは私の腕をつかみ、引きずりながらゴーストパスを通る。脱出を試みるのならば、武器を手に取るしかない...。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58662,8 +58662,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They've been turning to the undead from the valley beyond the Ghost Pass for protection.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T172049Z" creationid="taman" creationdate="20190413T171412Z">
-        <seg>シエルゾのGhost Passを抜けると谷がありますが、その場所で部族を守るため不死者と化した彼らの姿が目撃されています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T022850Z" creationid="taman" creationdate="20190413T171412Z">
+        <seg>シエルゾのゴーストパスを抜けると谷がありますが、その場所で部族を守るため不死者と化した彼らの姿が目撃されています。</seg>
       </tuv>
     </tu>
     <tu>
