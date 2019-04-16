@@ -59831,8 +59831,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Typical.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T072806Z" creationid="pugnus" creationdate="20190415T072622Z">
-        <seg>さすがね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T044118Z" creationid="pugnus" creationdate="20190415T072622Z">
+        <seg>さすがね。これは皮肉の言葉よ。さすがね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68123,6 +68123,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062549Z" creationid="setom" creationdate="20190402T062530Z">
         <seg>「決して冷めない神官の武器は、不死者共にピッタリだ！」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“A second agent is making sure we uphold our end of the deal for our “friends” in Sirroco.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T044421Z" creationid="pugnus" creationdate="20190416T044421Z">
+        <seg>“二人目の工作員は、シロッコで行う「友人」の取引を確実に守り抜け。</seg>
       </tuv>
     </tu>
     <tu>
