@@ -15498,8 +15498,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Cierzo has been devastated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190408T130020Z" creationid="urakata" creationdate="20190408T130020Z">
-        <seg>Cierzoは滅びた</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T014509Z" creationid="urakata" creationdate="20190408T130020Z">
+        <seg>シエルゾは滅びた</seg>
       </tuv>
     </tu>
     <tu>
@@ -34631,16 +34631,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Kill Rospa in Vendavel or convince Eto, the trainer in Cierzo, to sacrifice himself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T014317Z" creationid="urakata" creationdate="20190407T044815Z">
-        <seg>ベンダバールのロスパを殺すか、シエルゾの指南者江藤に犠牲になってもらうよう説得する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T014402Z" creationid="urakata" creationdate="20190407T044815Z">
+        <seg>ベンダバールのロスパを殺すか、シエルゾにいる指南者の江藤に犠牲になってもらうよう説得する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Kill the Wendigo inside the Corrupted Tomb, on the other side of the Ghost Pass, to the north-east of the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T141416Z" creationid="urakata" creationdate="20190408T130827Z">
-        <seg>ケルソネソスの北東、Ghost Passの逆側にあるCorrupted TombにいるWendigoを殺す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T014656Z" creationid="urakata" creationdate="20190408T130827Z">
+        <seg>ケルソネソスの北東、ゴーストパスの逆側にある、退廃の墓地にいるウェンディゴを殺す</seg>
       </tuv>
     </tu>
     <tu>
@@ -55943,8 +55943,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Burac in Cierzo for a reward.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190408T125844Z" creationid="urakata" creationdate="20190408T125844Z">
-        <seg>CierzoのBuracに話しかけて報酬をもらう</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T014431Z" creationid="urakata" creationdate="20190408T125844Z">
+        <seg>シエルゾの門衛、ブラックに話しかけて報酬をもらう</seg>
       </tuv>
     </tu>
     <tu>
@@ -60383,8 +60383,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vendavel’s warlords have attacked Cierzo by now…</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190408T130052Z" creationid="urakata" creationdate="20190408T125955Z">
-        <seg>Vendavelの将軍たちがこれからCierzoに攻撃を仕掛ける…</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T014459Z" creationid="urakata" creationdate="20190408T125955Z">
+        <seg>ベンダバールの将軍たちがこれからシエルゾに攻撃を仕掛ける…</seg>
       </tuv>
     </tu>
     <tu>
