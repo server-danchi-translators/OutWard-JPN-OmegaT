@@ -11550,6 +11550,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least they believe in the order and structure of the Blue Chamber’s laws.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T045654Z" creationid="pugnus" creationdate="20190416T045654Z">
+        <seg>少なくとも、彼ら旧レバント人は、青の議会の法律、その秩序と構造を信じている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At least with the Holy Mission, you’d be working for the good of all Aurai.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T115036Z" creationid="Mad" creationdate="20190406T113343Z">
@@ -30332,6 +30340,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T104928Z" creationid="magur0w" creationdate="20190404T123548Z">
         <seg>旧レバント人の要求が認められ、彼らが退位させられることになれば戦争につながるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Old Levant’s claim is recognized, that might solve the issue entirely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T045503Z" creationid="pugnus" creationdate="20190416T045503Z">
+        <seg>旧レバント人の主張を認めるべきだ！そうすれば問題は完全に解決するだろう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -58182,6 +58198,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T124929Z" creationid="rkmad" creationdate="20190404T090633Z">
         <seg>何にせよ、私は村の外へ出なくてはならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then again...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T045322Z" creationid="pugnus" creationdate="20190416T045322Z">
+        <seg>それから、再び...</seg>
       </tuv>
     </tu>
     <tu>
