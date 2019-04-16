@@ -27446,6 +27446,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her loyalty to our cause isn’t certain.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T044835Z" creationid="pugnus" creationdate="20190416T044835Z">
+        <seg>彼女は我々に対し、忠誠心を持っていない。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Her mind is made up.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190405T151748Z" creationid="Mad" creationdate="20190405T151748Z">
@@ -58960,6 +58968,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023550Z" creationid="hiru4" creationdate="20190402T023550Z">
         <seg>安全地帯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This meeting is a waste of time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T044917Z" creationid="pugnus" creationdate="20190416T044917Z">
+        <seg>この会議は、時間の無駄だ。</seg>
       </tuv>
     </tu>
     <tu>
