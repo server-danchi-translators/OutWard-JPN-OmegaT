@@ -10476,6 +10476,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Amateur!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T050704Z" creationid="pugnus" creationdate="20190416T050704Z">
+        <seg>素人かッッ！？この、ど素人め！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amba, friend [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141815Z" creationid="weedssoul" creationdate="20190406T072339Z">
@@ -28028,6 +28036,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T152341Z" creationid="weedssoul" creationdate="20190405T152341Z">
         <seg>それは本当か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can you even be sure that Levant did this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T050601Z" creationid="pugnus" creationdate="20190416T050601Z">
+        <seg>あなたは、どうしてレバントが黒幕だと確信しているのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -57942,6 +57958,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T063907Z" creationid="taman" creationdate="20190409T062030Z">
         <seg>私たちをスカージから守ってくれていると聞きましたが？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only ambassador they killed was the one from Old Levant, the one person who could have overturned their kingdom!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T050920Z" creationid="pugnus" creationdate="20190416T050920Z">
+        <seg>刺客たちに殺された奴を見てみろ！旧レバント人の大使だけではないか！あの大使は、レバントをひっくり返すことができる、唯一の人間だったのだ！</seg>
       </tuv>
     </tu>
     <tu>
