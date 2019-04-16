@@ -58667,6 +58667,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They used firearms too!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T051017Z" creationid="pugnus" creationdate="20190416T051017Z">
+        <seg>銃器までも使用し、殺したのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They usually group near training equipment.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063858Z">
