@@ -10604,6 +10604,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancestral Peacemaker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T012224Z" creationid="pugnus" creationdate="20190416T012210Z">
+        <seg>先祖代々、調停者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ancient Hive</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111623Z" creationid="Gaiden Shinji" creationdate="20190404T111623Z">
@@ -11450,6 +11458,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110713Z" creationid="Gaiden Shinji" creationdate="20190403T110713Z">
         <seg>アッシュジャイアントプリースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ash Giants</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T012248Z" creationid="pugnus" creationdate="20190416T012248Z">
+        <seg>灰の巨人</seg>
       </tuv>
     </tu>
     <tu>
@@ -37489,6 +37505,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132226Z" creationid="hiru4" creationdate="20190403T062056Z">
         <seg>Mist Boonが必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mixed Legacies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T012539Z" creationid="pugnus" creationdate="20190416T012539Z">
+        <seg>残されたもの</seg>
       </tuv>
     </tu>
     <tu>
