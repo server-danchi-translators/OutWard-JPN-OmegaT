@@ -9020,6 +9020,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abrassar is our land.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055515Z" creationid="pugnus" creationdate="20190416T055515Z">
+        <seg>アブラサールは私たちの土地です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abrassar wasn’t always a desert.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T053112Z" creationid="pugnus" creationdate="20190416T053112Z">
@@ -39389,6 +39397,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, not this time!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055416Z" creationid="pugnus" creationdate="20190416T055416Z">
+        <seg>いいえ、今回は違います！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, not yet.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T182514Z" creationid="magur0w" creationdate="20190404T182514Z">
@@ -58146,6 +58162,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The right decision is clear.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055448Z" creationid="pugnus" creationdate="20190416T055448Z">
+        <seg>正しい決断が下されるのは、明らかです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sea can only take you so close.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123309Z" creationid="Light" creationdate="20190407T123309Z">
@@ -61455,6 +61479,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T080214Z" creationid="pugnus" creationdate="20190406T080214Z">
         <seg>私たちはもっと重要なことに集中するべきじゃないかしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We should not lose the right to it simply because we did not have the manpower to defend it from the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055703Z" creationid="pugnus" creationdate="20190416T055703Z">
+        <seg>私たちは「スカージ」に対抗できるだけの力を持っていなかったという理由だけで、権利まで失うべきではないと考えます。</seg>
       </tuv>
     </tu>
     <tu>
