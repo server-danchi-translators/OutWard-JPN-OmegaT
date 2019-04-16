@@ -26622,6 +26622,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hallowed Peacemaker</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T011850Z" creationid="pugnus" creationdate="20190416T011850Z">
+        <seg>神聖な調停者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Halt, state your business!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T043434Z" creationid="Mad" creationdate="20190407T043434Z">
@@ -49880,6 +49888,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sand Corsairs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T011741Z" creationid="pugnus" creationdate="20190416T011741Z">
+        <seg>砂の海賊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sand Rose Cave</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111631Z" creationid="Gaiden Shinji" creationdate="20190404T111631Z">
@@ -56490,6 +56506,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T161119Z" creationid="Light" creationdate="20190406T161119Z">
         <seg>気温:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tending the Flame</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T011809Z" creationid="pugnus" creationdate="20190416T011809Z">
+        <seg>炎の傾向</seg>
       </tuv>
     </tu>
     <tu>
