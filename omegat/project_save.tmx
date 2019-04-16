@@ -25102,6 +25102,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good decisions will take time and discussion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055331Z" creationid="pugnus" creationdate="20190416T055331Z">
+        <seg>良い決断は時間と議論が必要でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good work, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T114459Z" creationid="taman" creationdate="20190414T114459Z">
@@ -64959,6 +64967,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T145833Z" creationid="taman" creationdate="20190414T145833Z">
         <seg>近いうちに最初の使命を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'll get your turn soon enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T055222Z" creationid="pugnus" creationdate="20190416T055222Z">
+        <seg>きっとあなたの番はすぐにでも来ます。</seg>
       </tuv>
     </tu>
     <tu>
