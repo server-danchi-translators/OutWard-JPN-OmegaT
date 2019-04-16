@@ -48,16 +48,16 @@
       <tuv lang="EN-US">
         <seg>(As you breathe in the aroma of the Greasy Fern, the memories of the buried ancestors floods your mind with vicious images.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T040522Z" creationid="taman" creationdate="20190410T034947Z">
-        <seg>(Greasy Fernの香りを吸い込むと、祭壇に秘められた先人の記憶と共に陰惨な光景が頭に入り込んでくる)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190410T034947Z">
+        <seg>(の香りを吸い込むと、祭壇に秘められた先人の記憶と共に陰惨な光景が頭に入り込んでくる)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>(Burn a Greasy Fern on the altar)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T033950Z" creationid="taman" creationdate="20190410T033950Z">
-        <seg>(祭壇でGreasy Fernを燃やす)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190410T033950Z">
+        <seg>(祭壇でを燃やす)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,8 +8589,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190407T160230Z">
-        <seg>モンスーンを出るとすぐ近くに Crystalが見えるはずです。横の丘に祭壇が設置されているので、そこでgreasy fernを燃やし、あなたが目にしたものを報告してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T022051Z" creationid="taman" creationdate="20190407T160230Z">
+        <seg>モンスーンを出るとすぐ近くにクリスタルが見えるはずです。&lt;color=#00CCFF&gt;&lt;b&gt;横の丘に祭壇が設置されているので、そこでアブラシダを燃やし、あなたが目にしたものを報告してください。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13905,8 +13905,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Burn Greasy Fern at the altar on the hill just west of the Marsh’s Vigil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T102541Z">
-        <seg>マーシュののすぐ西の丘の上の祭壇でGreasy Fernを燃やす</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="Light" creationdate="20190409T102541Z">
+        <seg>マーシュののすぐ西の丘の上の祭壇でを燃やす</seg>
       </tuv>
     </tu>
     <tu>
@@ -21072,8 +21072,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ellinara told you to burn Greasy Fern here too, didn't she?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190410T153851Z" creationid="taman" creationdate="20190410T065605Z">
-        <seg>ここでGreasy Fernを燃やすようエリナラに言われたんでしょ？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190410T065605Z">
+        <seg>ここでを燃やすようエリナラに言われたんでしょ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28314,8 +28314,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I burnt Greasy Fern at the Vigil's altar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190409T072212Z">
-        <seg>の祭壇でGreasy Fernを燃やしてきました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190409T072212Z">
+        <seg>の祭壇でを燃やしてきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29698,8 +29698,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I want you to &lt;color=#00CCFF&gt;&lt;b&gt;go there and burn a Greasy Fern at the altar atop the hill beside it&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190409T064844Z">
-        <seg>のそばに丘があるので、その頂上にある祭壇でGreasy Fernを燃やしてきてください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190409T064844Z">
+        <seg>のそばに丘があるので、その頂上にある祭壇でを燃やしてきてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30562,8 +30562,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If you don't have any Greasy Fern with you, the alchemist should have some for sale.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190409T072850Z" creationid="taman" creationdate="20190409T072018Z">
-        <seg>Greasy Fernがなければ錬金術師が売っているので買うとよいでしょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T021754Z" creationid="taman" creationdate="20190409T072018Z">
+        <seg>がなければ錬金術師が売っているので買うとよいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
