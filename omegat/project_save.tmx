@@ -36861,6 +36861,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mercenary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T102935Z" creationid="pugnus" creationdate="20190417T102935Z">
+        <seg>傭兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merchant</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115200Z" creationid="setom" creationdate="20190401T115200Z">
@@ -43043,6 +43051,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235632Z" creationid="pugnus" creationdate="20190415T235632Z">
         <seg>石化樹の鎧一式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Philosopher</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103050Z" creationid="pugnus" creationdate="20190417T103050Z">
+        <seg>哲学者</seg>
       </tuv>
     </tu>
     <tu>
@@ -49844,6 +49860,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130542Z" creationid="setom" creationdate="20190403T130542Z">
         <seg>Rock_Salt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rogue Engineer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103244Z" creationid="pugnus" creationdate="20190417T103244Z">
+        <seg>腕白機関工</seg>
       </tuv>
     </tu>
     <tu>
@@ -61589,6 +61613,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warrior Monk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103000Z" creationid="pugnus" creationdate="20190417T103000Z">
+        <seg>僧兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Was something there before the "Heroic Kingdom"?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T052852Z" creationid="pugnus" creationdate="20190416T052852Z">
@@ -63378,6 +63410,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T014603Z" creationid="rkmad" creationdate="20190405T033411Z">
         <seg>何故？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wild Hunter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103026Z" creationid="pugnus" creationdate="20190417T102903Z">
+        <seg>ワイルド・ハンター</seg>
       </tuv>
     </tu>
     <tu>
