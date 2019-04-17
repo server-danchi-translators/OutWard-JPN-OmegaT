@@ -28120,6 +28120,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can you not have heard of the &lt;color=#00CCFF&gt;&lt;b&gt;champion&lt;/b&gt;&lt;/color&gt;, Zephyrien?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T235938Z" creationid="pugnus" creationdate="20190416T235938Z">
+        <seg>どうして聞いたことがないんだ、 &lt;color=#00CCFF&gt;&lt;b&gt;champion&lt;/b&gt;&lt;/color&gt;, Zephyrien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can you so easily justify this?!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T045721Z" creationid="taman" creationdate="20190411T040051Z">
@@ -40891,6 +40899,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024010Z" creationid="weedssoul" creationdate="20190406T024010Z">
         <seg>おお、すばらしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, you wound me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190416T235838Z" creationid="pugnus" creationdate="20190416T235838Z">
+        <seg>あぁ、あなたは私を傷つけました！</seg>
       </tuv>
     </tu>
     <tu>
