@@ -12926,10 +12926,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T104059Z" creationid="pugnus" creationdate="20190417T104059Z">
+        <seg>鎧の基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Basic Boots</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T104046Z" creationid="pugnus" creationdate="20190417T104046Z">
         <seg>ブーツの基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basic Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T104109Z" creationid="pugnus" creationdate="20190417T104109Z">
+        <seg>兜の基本</seg>
       </tuv>
     </tu>
     <tu>
@@ -27560,8 +27576,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Helmet</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T090849Z" creationid="setom" creationdate="20190403T090849Z">
-        <seg>ヘルメット</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T104129Z" creationid="setom" creationdate="20190403T090849Z">
+        <seg>兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -34937,6 +34953,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114902Z" creationid="Gaiden Shinji" creationdate="20190404T114902Z">
         <seg>カプロス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T104155Z" creationid="pugnus" creationdate="20190417T104155Z">
+        <seg>カジート</seg>
       </tuv>
     </tu>
     <tu>
