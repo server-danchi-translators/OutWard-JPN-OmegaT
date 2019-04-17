@@ -50304,6 +50304,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rune Sage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103348Z" creationid="pugnus" creationdate="20190417T103348Z">
+        <seg>古代語の賢者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rune with no effect but can be combined with other runes in the correct order.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134716Z" creationid="totochan" creationdate="20190403T134716Z">
@@ -63416,8 +63424,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wild Hunter</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190417T103026Z" creationid="pugnus" creationdate="20190417T102903Z">
-        <seg>ワイルド・ハンター</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T103725Z" creationid="pugnus" creationdate="20190417T102903Z">
+        <seg>ワイルドハンター</seg>
       </tuv>
     </tu>
     <tu>
