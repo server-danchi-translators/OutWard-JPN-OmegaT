@@ -34557,6 +34557,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m on duty and have no time for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T093646Z" creationid="pugnus" creationdate="20190417T093646Z">
+        <seg>私は勤務中で、いま、あなたのために時間を割けない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m on my way, farewell, Lady Aberdeen.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035017Z" creationid="rkmad" creationdate="20190405T035017Z">
@@ -34937,6 +34945,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124944Z" creationid="weedssoul" creationdate="20190406T124944Z">
         <seg>ポケットには生きていく上で必要なものだけを入れておくんだ。キャンプ道具や戦利品なんかはバックパックに入れておけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep walking.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T093531Z" creationid="pugnus" creationdate="20190417T093531Z">
+        <seg>歩みを止めるな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42555,6 +42571,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030801Z" creationid="weedssoul" creationdate="20190406T030801Z">
         <seg>さもなくば、自分の家を失う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or anyone else for that matter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T093813Z" creationid="pugnus" creationdate="20190417T093813Z">
+        <seg>何か問題があれば、他の誰かに。</seg>
       </tuv>
     </tu>
     <tu>
