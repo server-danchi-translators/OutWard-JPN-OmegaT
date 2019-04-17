@@ -52072,6 +52072,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shoo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T094035Z" creationid="pugnus" creationdate="20190417T094035Z">
+        <seg>では。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shoot Bow</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145214Z" creationid="Horizon" creationdate="20190403T145214Z">
