@@ -15848,6 +15848,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come to think of it, the delegation from Sirroco is running late.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T091559Z" creationid="pugnus" creationdate="20190417T091559Z">
+        <seg>シロッコからの代表団は到着が遅れているようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come, warm up by the fire, before you freeze to death!</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133349Z" creationid="setom" creationdate="20190402T133349Z">
@@ -59119,6 +59127,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063858Z">
         <seg>大体、訓練用の装備のそばに立っているよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They were the ones who were desperate to come to an agreement about settling in the Hallowed Marsh, so I’m shocked they’ve not arrived.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T091805Z" creationid="pugnus" creationdate="20190417T091805Z">
+        <seg>彼らは、聖なる沼に定住することを切望していたのではないか？彼らがまだ到着していないことに、私は衝撃を受けている。</seg>
       </tuv>
     </tu>
     <tu>
