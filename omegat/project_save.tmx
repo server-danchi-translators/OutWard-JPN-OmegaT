@@ -14223,6 +14223,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But we’re only human.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100222Z" creationid="pugnus" creationdate="20190417T100222Z">
+        <seg>しかし、私たちは人間のみだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But when I pledged myself to him, I believed he truly wanted nothing more than to protect others...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T063851Z" creationid="taman" creationdate="20190411T063814Z">
@@ -29306,8 +29314,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I just hope our Headmaster knows what he’s doing…</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190417T095123Z" creationid="pugnus" creationdate="20190417T095123Z">
-        <seg>私たちの商隊長が、今、何をしているのかを知ることが出来たらいいなぁ...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100029Z" creationid="pugnus" creationdate="20190417T095123Z">
+        <seg>私たちの長が、今、何をしているのかを知ることが出来たらいいなぁ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62364,6 +62372,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100050Z" creationid="pugnus" creationdate="20190417T100050Z">
+        <seg>まぁ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wendigo Prison</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115937Z" creationid="Gaiden Shinji" creationdate="20190404T115937Z">
@@ -62392,6 +62408,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045942Z" creationid="pugnus" creationdate="20190406T085133Z">
         <seg>私たちは会議を始めるため、他の上院議員たちが到着するのを待っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re supposed to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100140Z" creationid="pugnus" creationdate="20190417T100140Z">
+        <seg>私たちは信頼している。</seg>
       </tuv>
     </tu>
     <tu>
