@@ -14225,8 +14225,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But we’re only human.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190417T100222Z" creationid="pugnus" creationdate="20190417T100222Z">
-        <seg>しかし、私たちは人間のみだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100256Z" creationid="pugnus" creationdate="20190417T100222Z">
+        <seg>しかし、私たちもただの人間だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62247,6 +62247,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T041111Z" creationid="weedssoul" creationdate="20190406T041006Z">
         <seg>あー、一つ、砂浜には用心しろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, given the work you have to do to get that position, I’m sure he does.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T100510Z" creationid="pugnus" creationdate="20190417T100510Z">
+        <seg>うん、彼はあなたたちのために仕事をするでしょう。</seg>
       </tuv>
     </tu>
     <tu>
