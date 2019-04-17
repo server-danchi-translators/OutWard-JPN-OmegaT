@@ -57518,6 +57518,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's who you are!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T061934Z" creationid="pugnus" creationdate="20190417T061934Z">
+        <seg>それはあなたが誰であるかによります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s an order!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T111848Z" creationid="weedssoul" creationdate="20190406T111848Z">
@@ -64683,6 +64691,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T130821Z" creationid="はぐくみ会" creationdate="20190404T004705Z">
         <seg>命が大事なら、今すぐ逃げた方がいい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have lived a sheltered life!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T061405Z" creationid="pugnus" creationdate="20190417T061405Z">
+        <seg>お前はどんだけ過保護な人生を送ってきたというのだ！</seg>
       </tuv>
     </tu>
     <tu>
