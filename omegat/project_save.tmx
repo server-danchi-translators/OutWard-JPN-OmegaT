@@ -22358,6 +22358,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every other historian decided to pick up the research in the morning, but I can’t rest until I know I know the full story.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T092448Z" creationid="pugnus" creationdate="20190417T092448Z">
+        <seg>他の歴史家はもう帰っていった。しかし、私は全文を理解するまで休むわけにはいかないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Every rock and bump causes jolts of pain that knock you into darkness for a while...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T091237Z" creationid="はぐくみ会" creationdate="20190403T055041Z">
@@ -53043,8 +53051,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sorry, I’m still tired, I stayed up poring through the old archives through the night.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190417T092331Z" creationid="pugnus" creationdate="20190417T092331Z">
-        <seg>申し訳ない、疲れているのだ。私は昨晩、寝ずに文書記録保管所の太古の記録を調べ続けた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T092341Z" creationid="pugnus" creationdate="20190417T092331Z">
+        <seg>申し訳ない、疲れているのだ。私は昨晩、寝ずに文書記録保管所にある、太古の記録を調べ続けた。</seg>
       </tuv>
     </tu>
     <tu>
