@@ -14296,6 +14296,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cabal Hermit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T102847Z" creationid="pugnus" creationdate="20190417T102847Z">
+        <seg>カベール・ハーミット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cabal of Wind Outpost</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111829Z" creationid="Gaiden Shinji" creationdate="20190404T111829Z">
@@ -34953,6 +34961,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
         <seg>カジート小隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Spellblade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190417T102637Z" creationid="pugnus" creationdate="20190417T102627Z">
+        <seg>カジート・スペルブレード</seg>
       </tuv>
     </tu>
     <tu>
