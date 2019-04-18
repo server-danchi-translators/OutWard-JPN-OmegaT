@@ -25326,6 +25326,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Got it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064158Z" creationid="pugnus" creationdate="20190418T064147Z">
+        <seg>理解しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gradually slows your movement speed, as the weight increases.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071444Z" creationid="hiru4" creationdate="20190403T071444Z">
@@ -28506,8 +28514,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Huge smoke-spewing creatures.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T064001Z" creationid="pugnus" creationdate="20190418T064001Z">
-        <seg>大量の煙を噴出する生物。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064044Z" creationid="pugnus" creationdate="20190418T064001Z">
+        <seg>煙を噴出する巨大な生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28604,6 +28612,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
         <seg>すまない、 [PlayerName], ここはもう君の家ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I appreciate your cavalier outlook, but please, [PlayerName], take this task seriously.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064618Z" creationid="pugnus" creationdate="20190418T064618Z">
+        <seg>私はあなたの楽天的な思考は好きですが、[PlayerName]、今回ばかりは真剣にお願いいたします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36191,8 +36207,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Make them allies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T064032Z" creationid="pugnus" creationdate="20190418T064032Z">
-        <seg>彼らを仲間にしてください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064206Z" creationid="pugnus" creationdate="20190418T064032Z">
+        <seg>彼らを仲間に。</seg>
       </tuv>
     </tu>
     <tu>
