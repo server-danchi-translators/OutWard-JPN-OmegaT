@@ -35559,8 +35559,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Levantine forces are within miles of Enmerkar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T055716Z" creationid="pugnus" creationdate="20190418T055716Z">
-        <seg>レバントの軍隊はエンメルカルの中にいるわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T055735Z" creationid="pugnus" creationdate="20190418T055716Z">
+        <seg>レバントの軍隊はエンメルカルの中にいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62764,6 +62764,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do you need for us to turn this around, Lady Aberdeen?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T055949Z" creationid="pugnus" creationdate="20190418T055741Z">
+        <seg>アバンディーンさん、現状を好転させるためには何をしたらよいでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you need from us, pilgrim?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T081608Z" creationid="rkmad" creationdate="20190408T081608Z">
@@ -62920,6 +62928,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T110301Z" creationid="magur0w" creationdate="20190404T110301Z">
         <seg>私がそこにいる間、何に気を付けるべきだろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we need are allies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060018Z" creationid="pugnus" creationdate="20190418T060018Z">
+        <seg>私たちに必要なのは、味方です。</seg>
       </tuv>
     </tu>
     <tu>
