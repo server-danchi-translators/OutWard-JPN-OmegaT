@@ -67037,6 +67037,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>[PlayerName], it’s good to see you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T055324Z" creationid="pugnus" creationdate="20190418T055324Z">
+        <seg>会えて嬉しいわ、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[PlayerName], there you are.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T164449Z" creationid="magur0w" creationdate="20190404T164449Z">
