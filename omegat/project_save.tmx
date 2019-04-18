@@ -35557,6 +35557,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Levantine forces are within miles of Enmerkar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T055716Z" creationid="pugnus" creationdate="20190418T055716Z">
+        <seg>レバントの軍隊はエンメルカルの中にいるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Levant’s smith can craft pieces of Tsar Armor and Tenebrous Armor, if Tsar Stones or Hackmanites are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T000326Z" creationid="urakata" creationdate="20190331T092207Z">
@@ -58798,6 +58806,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T090116Z" creationid="pugnus" creationdate="20190408T085802Z">
         <seg>壁には耳があるし、窓には目がある。そして、警備員は槍を持っているから...とにかく気を付けて...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war goes very poorly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T055641Z" creationid="pugnus" creationdate="20190418T055641Z">
+        <seg>戦争は悲惨ね。</seg>
       </tuv>
     </tu>
     <tu>
