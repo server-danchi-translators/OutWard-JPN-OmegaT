@@ -42095,6 +42095,86 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093042Z" creationid="seto" creationdate="20190418T093042Z">
+        <seg>Oliele_HM_Questions_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093045Z" creationid="seto" creationdate="20190418T093045Z">
+        <seg>Oliele_HM_Questions_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093048Z" creationid="seto" creationdate="20190418T093048Z">
+        <seg>Oliele_HM_Questions_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093052Z" creationid="seto" creationdate="20190418T093052Z">
+        <seg>Oliele_HM_Questions_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093105Z" creationid="seto" creationdate="20190418T093105Z">
+        <seg>Oliele_HM_Questions_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093106Z" creationid="seto" creationdate="20190418T093106Z">
+        <seg>Oliele_HM_Questions_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093107Z" creationid="seto" creationdate="20190418T093107Z">
+        <seg>Oliele_HM_Questions_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093109Z" creationid="seto" creationdate="20190418T093109Z">
+        <seg>Oliele_HM_Questions_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093119Z" creationid="seto" creationdate="20190418T093119Z">
+        <seg>Oliele_HM_Questions_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_Questions_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093121Z" creationid="seto" creationdate="20190418T093121Z">
+        <seg>Oliele_HM_Questions_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele_HM_prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093144Z" creationid="seto" creationdate="20190412T093144Z">
@@ -45551,10 +45631,58 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_a_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093050Z" creationid="seto" creationdate="20190418T093050Z">
+        <seg>Player_Oliele_HM_Questions_a_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_a_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093117Z" creationid="seto" creationdate="20190418T093117Z">
+        <seg>Player_Oliele_HM_Questions_a_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Oliele_HM_Questions_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093034Z" creationid="seto" creationdate="20190418T093034Z">
         <seg>Player_Oliele_HM_Questions_b_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_b_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093047Z" creationid="seto" creationdate="20190418T093047Z">
+        <seg>Player_Oliele_HM_Questions_b_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_b_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093044Z" creationid="seto" creationdate="20190418T093044Z">
+        <seg>Player_Oliele_HM_Questions_b_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_b_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093104Z" creationid="seto" creationdate="20190418T093104Z">
+        <seg>Player_Oliele_HM_Questions_b_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Oliele_HM_Questions_b_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093120Z" creationid="seto" creationdate="20190418T093120Z">
+        <seg>Player_Oliele_HM_Questions_b_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -46371,6 +46499,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012556Z" creationid="seto" creationdate="20190413T012556Z">
         <seg>Player_Sorean_HM_prequest_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Vigil_HM_Questions_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093130Z" creationid="seto" creationdate="20190418T093130Z">
+        <seg>Player_Vigil_HM_Questions_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Vigil_HM_Questions_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093136Z" creationid="seto" creationdate="20190418T093136Z">
+        <seg>Player_Vigil_HM_Questions_b_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -62033,6 +62177,46 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T092645Z" creationid="seto" creationdate="20190418T092645Z">
         <seg>眠らずの墓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil_HM_Questions_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093129Z" creationid="seto" creationdate="20190418T093129Z">
+        <seg>Vigil_HM_Questions_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil_HM_Questions_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093131Z" creationid="seto" creationdate="20190418T093131Z">
+        <seg>Vigil_HM_Questions_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil_HM_Questions_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093132Z" creationid="seto" creationdate="20190418T093132Z">
+        <seg>Vigil_HM_Questions_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil_HM_Questions_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093133Z" creationid="seto" creationdate="20190418T093133Z">
+        <seg>Vigil_HM_Questions_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil_HM_Questions_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T093134Z" creationid="seto" creationdate="20190418T093134Z">
+        <seg>Vigil_HM_Questions_05</seg>
       </tuv>
     </tu>
     <tu>
