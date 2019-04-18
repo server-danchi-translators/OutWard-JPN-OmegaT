@@ -8590,6 +8590,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Bring the Ash Giants to our side by any means possible&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T065728Z" creationid="pugnus" creationdate="20190418T065728Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;可能な限りの方法で、灰の巨人を私たちの側に連れてきてください。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>アイテムのgreasy fernが未翻訳なので統一を図るためここでは一度保留とさせていただきます。
 
 Vigil crystalも同様に翻訳の統一が決まってないので保留といたします。
@@ -58726,6 +58734,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T081359Z">
         <seg> 私があなたにしてあげられる事は、追悼期間を設け、時間を稼ぐことだけよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The nearest Ash Giant settlement is in the &lt;color=#00CCFF&gt;&lt;b&gt;Hallowed Marsh region, near Monsoon’s Vigil crystal&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T065940Z" creationid="pugnus" creationdate="20190418T065940Z">
+        <seg>ここから最も近い灰の巨人の住処は、&lt;color=#00CCFF&gt;&lt;b&gt;モンスーンのヴィジャルクリスタルの付近にある、聖なる沼&lt;/b&gt;&lt;/color&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
