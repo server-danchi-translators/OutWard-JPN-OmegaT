@@ -21374,6 +21374,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enough to know that they won't be interested in an alliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060431Z" creationid="pugnus" creationdate="20190418T060431Z">
+        <seg>はい、そして彼らは同盟に興味を持っていないことも知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112705Z" creationid="setom" creationdate="20190401T115057Z">
@@ -59315,6 +59323,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They like their isolation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060502Z" creationid="pugnus" creationdate="20190418T060502Z">
+        <seg>彼らは孤立していることを好んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They likely have their whole army on the road for Berg as we speak!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T051340Z" creationid="pugnus" creationdate="20190416T051340Z">
@@ -61937,6 +61953,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051745Z" creationid="Mad" creationdate="20190407T051745Z">
         <seg>水に食料、あとは十分な金銭も我々は保有しているからね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have little to lose by trying, and much to gain if we succeed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060739Z" creationid="pugnus" creationdate="20190418T060739Z">
+        <seg>これ以上失うものは無いですし、試してみる価値はあるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
