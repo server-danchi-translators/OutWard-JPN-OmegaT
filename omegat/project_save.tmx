@@ -22934,6 +22934,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find out what they will want or need, and try to fill that need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T062956Z" creationid="pugnus" creationdate="20190418T062956Z">
+        <seg>彼らが何を望み、必要としているか突き止めて下さい。そして、その要求を満たしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find someone in the slums who can help.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T101722Z" creationid="Light" creationdate="20190409T101722Z">
@@ -57978,6 +57986,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T142242Z" creationid="Mad" creationdate="20190407T142242Z">
         <seg>それは、何度も耳にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s really all we can do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T063149Z" creationid="pugnus" creationdate="20190418T063149Z">
+        <seg>私たちにはこの方法しか残されていません。</seg>
       </tuv>
     </tu>
     <tu>
