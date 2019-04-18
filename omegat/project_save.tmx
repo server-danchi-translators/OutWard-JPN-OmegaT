@@ -28504,6 +28504,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Huge smoke-spewing creatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064001Z" creationid="pugnus" creationdate="20190418T064001Z">
+        <seg>大量の煙を噴出する生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hunger, thirst and exhaustion are persistent foes, so eat and drink when you need to.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062216Z">
@@ -29626,8 +29634,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I need Gabriella and Julius on their current assignments, and most everyone else with even a small amount of tact is doing essential work for the war effort.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T063737Z" creationid="pugnus" creationdate="20190418T063737Z">
-        <seg>ガブリエラとユリウスは現在就いている任務で必要とされていますし、他のほとんどの人は戦争に備えて必要不可欠な仕事をしています。そう、</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T063841Z" creationid="pugnus" creationdate="20190418T063737Z">
+        <seg>ガブリエラとユリウスは現在就いている任務で必要とされていますし、他のほとんどの人は戦争に備えて必要不可欠な仕事をしています。そう、あなた以外は、必要とされている人員ばかりなのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36177,6 +36185,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082930Z" creationid="rkmad" creationdate="20190404T082930Z">
         <seg>もしそのつもりなら、その前に外へ旅に出る為の十分な準備が出来ていることを確認してからの方が良いでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make them allies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T064032Z" creationid="pugnus" creationdate="20190418T064032Z">
+        <seg>彼らを仲間にしてください。</seg>
       </tuv>
     </tu>
     <tu>
