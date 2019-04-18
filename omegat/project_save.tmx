@@ -10388,6 +10388,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allies who will make Levant pause merely at the sight of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060218Z" creationid="pugnus" creationdate="20190418T060218Z">
+        <seg>レバントの軍隊が、彼らを見るだけで進軍をとめるだけの味方が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allows the reuse of Pressure Plates after they have been triggered, though they must be re-armed with another charge or compatible item.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T032956Z" creationid="pugnus" creationdate="20190409T032956Z">
@@ -56284,6 +56292,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strong allies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060039Z" creationid="pugnus" creationdate="20190418T060032Z">
+        <seg>強力な味方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sturdy hide obtained by skinning scaled beasts, used in advanced crafting recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T150051Z" creationid="weedssoul" creationdate="20190406T150051Z">
@@ -57202,6 +57218,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064432Z" creationid="weedssoul" creationdate="20190406T064432Z">
         <seg>知りたいものについて教えてやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell me, [PlayerName], what do you know about the &lt;color=#00CCFF&gt;&lt;b&gt;Ash Giants&lt;/b&gt;&lt;/color&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T060347Z" creationid="pugnus" creationdate="20190418T060347Z">
+        <seg>聞きなさい、[PlayerName]。あなたは&lt;color=#00CCFF&gt;&lt;b&gt;灰の巨人&lt;/b&gt;&lt;/color&gt;たちを知っていますか?</seg>
       </tuv>
     </tu>
     <tu>
