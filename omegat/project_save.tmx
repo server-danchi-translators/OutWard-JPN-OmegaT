@@ -29744,6 +29744,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I really don't think I'm qualified for this...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T063301Z" creationid="pugnus" creationdate="20190418T063301Z">
+        <seg>私はこの任務に適任では無いのでは...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I recommend our iron weapons and a bow, or a shield if you’re using a one-handed weapon.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T063725Z">
@@ -65823,6 +65831,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133131Z" creationid="setom" creationdate="20190402T133131Z">
         <seg>お前生きてたのか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're all we can spare.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T063420Z" creationid="pugnus" creationdate="20190418T063420Z">
+        <seg>あなたの他に、割くことが可能な人員がいないのです。</seg>
       </tuv>
     </tu>
     <tu>
