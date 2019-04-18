@@ -10596,6 +10596,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An alliance goes both ways.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T062735Z" creationid="pugnus" creationdate="20190418T062735Z">
+        <seg>同盟は、双方に利益をもたらさなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An encounter with a pistol shrimp may prove deadly.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T131315Z" creationid="weedssoul" creationdate="20190406T041046Z">
@@ -10896,6 +10904,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084723Z" creationid="rkmad" creationdate="20190408T084723Z">
         <seg>チャンピオン達は何を？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And what do you think they'd accept in return?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T062644Z" creationid="pugnus" creationdate="20190418T062644Z">
+        <seg>彼らは見返りに何を求めてくるでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65670,6 +65686,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084617Z" creationid="rkmad" creationdate="20190408T084617Z">
         <seg>あなたは宣教師としての道を辿っているはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to make an effort to understand their culture.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T062834Z" creationid="pugnus" creationdate="20190418T062834Z">
+        <seg>あなたは、彼らの文化を理解する必要があるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
