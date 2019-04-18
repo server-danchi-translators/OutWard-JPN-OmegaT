@@ -28336,6 +28336,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How did it go?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T070329Z" creationid="pugnus" creationdate="20190418T070329Z">
+        <seg>どうでしたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How did our ship sink so close to home?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025137Z" creationid="weedssoul" creationdate="20190406T025016Z">
@@ -29752,6 +29760,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to talk with Damian Lockwell and Cyril Turnbull.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T070552Z" creationid="pugnus" creationdate="20190418T070552Z">
+        <seg>私は、ダミアン・ロックウェルと、シリル・ターンブルの二人と話す必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to think about this more.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T021519Z">
@@ -30540,6 +30556,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T052123Z" creationid="pugnus" creationdate="20190415T052123Z">
         <seg>刺客たちが他の人質を取りに来るかもしれないから、私はここに残るわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm handling some loose ends.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T070448Z" creationid="pugnus" creationdate="20190418T070448Z">
+        <seg>私はやりかけの仕事を処理します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66393,6 +66417,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033442Z" creationid="rkmad" creationdate="20190405T033442Z">
         <seg>貴女は私に対して、いつも親切に接してくれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re back!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T070311Z" creationid="pugnus" creationdate="20190418T070311Z">
+        <seg>帰ってきたのですね！</seg>
       </tuv>
     </tu>
     <tu>
