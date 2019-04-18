@@ -13561,8 +13561,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blue Chamber’s Conflux Path</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114542Z" creationid="Gaiden Shinji" creationdate="20190403T114542Z">
-        <seg>ブルーチャンバーの合流路</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190418T092540Z" creationid="Gaiden Shinji" creationdate="20190403T114542Z">
+        <seg>青の議会の合流路</seg>
       </tuv>
     </tu>
     <tu>
@@ -27896,8 +27896,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Heroic Kingdom’s Conflux Path</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114634Z" creationid="Gaiden Shinji" creationdate="20190403T114634Z">
-        <seg>英雄的な王国の合流路</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190418T092518Z" creationid="Gaiden Shinji" creationdate="20190403T114634Z">
+        <seg>勇王国の合流路</seg>
       </tuv>
     </tu>
     <tu>
@@ -28144,8 +28144,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Holy Mission’s Conflux Path</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114620Z" creationid="Gaiden Shinji" creationdate="20190403T114620Z">
-        <seg>聖なる使命の合流路</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190418T092535Z" creationid="Gaiden Shinji" creationdate="20190403T114620Z">
+        <seg>神聖伝道団の合流路</seg>
       </tuv>
     </tu>
     <tu>
@@ -41993,8 +41993,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele’s Follower</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T044231Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
-        <seg>オリエルのフォロワー</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190418T092712Z" creationid="Gaiden Shinji" creationdate="20190404T115319Z">
+        <seg>オリエルの従者</seg>
       </tuv>
     </tu>
     <tu>
@@ -61545,6 +61545,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112401Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
         <seg>ヴィジル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil Tomb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190418T092645Z" creationid="seto" creationdate="20190418T092645Z">
+        <seg>眠らずの墓</seg>
       </tuv>
     </tu>
     <tu>
