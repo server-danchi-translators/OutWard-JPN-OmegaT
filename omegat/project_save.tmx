@@ -20580,6 +20580,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do what you can, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190418T065605Z" creationid="pugnus" creationdate="20190418T065605Z">
+        <seg>[PlayerName]、あなたはできる限りのことをしなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have any specific questions?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130120Z" creationid="weedssoul" creationdate="20190406T130120Z">
