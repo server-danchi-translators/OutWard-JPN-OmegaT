@@ -8667,6 +8667,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;The boxes on the side!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144512Z" creationid="taman" creationdate="20190419T144512Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;横の箱だよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;The lighthouse has been sold&lt;/b&gt;&lt;/color&gt; and is used by the guards as a barrack.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090323Z" creationid="rkmad" creationdate="20190405T090137Z">
@@ -23442,6 +23450,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T140826Z">
         <seg>ランタンの燃料補給や、焼夷弾の製造に使用される可燃性の液体。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fleshbag!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144328Z" creationid="taman" creationdate="20190419T144328Z">
+        <seg>とろくせえな！</seg>
       </tuv>
     </tu>
     <tu>
@@ -43428,6 +43444,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141805Z" creationid="totochan" creationdate="20190403T132724Z">
         <seg>Outward を閉じます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144352Z" creationid="taman" creationdate="20190419T144352Z">
+        <seg>こっちこい！</seg>
       </tuv>
     </tu>
     <tu>
