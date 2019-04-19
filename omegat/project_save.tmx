@@ -54154,6 +54154,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, as you can see, I've kin’of fallen to pieces.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T150328Z" creationid="taman" creationdate="20190419T150328Z">
+        <seg>見た通り、こんなバラバラの状態ですまんな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, you don't have enough silver to stay here.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060814Z" creationid="Light" creationdate="20190408T060814Z">
