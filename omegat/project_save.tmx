@@ -28752,6 +28752,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hoy!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144119Z" creationid="taman" creationdate="20190419T144119Z">
+        <seg>よお！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Huge smoke-spewing creatures.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T064044Z" creationid="pugnus" creationdate="20190418T064001Z">
@@ -61672,8 +61680,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Umm… So that skeleton came up and said you sent him to open up the door...What happened?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T143703Z" creationid="taman" creationdate="20190419T143703Z">
-        <seg>えーと……そのスケルトンUmm… So that skeleton came up and said you sent him to open up the door...What happened?</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144110Z" creationid="taman" creationdate="20190419T143703Z">
+        <seg>えーと……そのスケルトンが現れて、あなたに扉を開けるよう言われたと聞いたわ……そっちこそ何があったの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65084,6 +65092,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, YOU!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144322Z" creationid="taman" creationdate="20190419T144322Z">
+        <seg>そう、あんただよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T072121Z" creationid="taman" creationdate="20190409T072121Z">
@@ -66674,6 +66690,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T121218Z" creationid="pugnus" creationdate="20190404T114455Z">
         <seg>私はいったい何を考えているのだろうか、シリが私を持ち上げる。片手だけで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T144125Z" creationid="taman" creationdate="20190419T144125Z">
+        <seg>そこのあんた！</seg>
       </tuv>
     </tu>
     <tu>
