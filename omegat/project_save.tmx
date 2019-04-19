@@ -29687,6 +29687,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>倒したわけではないと思うが……あとで仕様確認を推奨。</note>
+      <tuv lang="EN-US">
+        <seg>I killed the undead that was keeping it closed, yeah.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T143853Z" creationid="taman" creationdate="20190419T143601Z">
+        <seg>扉を封印し続けていた不死者を倒したんだ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>I knew Elatt was only the god of discipline, not the force that created all of Aurai...</seg>
       </tuv>
@@ -61661,6 +61670,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Umm… So that skeleton came up and said you sent him to open up the door...What happened?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T143703Z" creationid="taman" creationdate="20190419T143703Z">
+        <seg>えーと……そのスケルトンUmm… So that skeleton came up and said you sent him to open up the door...What happened?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncommon reinvigorating insect that lives in plants and is used in advanced recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142119Z">
@@ -63987,6 +64004,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T052856Z" creationid="pugnus" creationdate="20190415T052856Z">
         <seg>[PlayerName]？そちらの状況はどう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's the situation here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T143639Z" creationid="taman" creationdate="20190419T143639Z">
+        <seg>何があったか教えてくれる？</seg>
       </tuv>
     </tu>
     <tu>
