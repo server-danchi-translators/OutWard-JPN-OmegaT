@@ -59642,6 +59642,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The spell on the door just faded without warning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T143312Z" creationid="taman" creationdate="20190419T143312Z">
+        <seg>扉にかけられていた封印が急に消えていった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The spices?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135117Z" creationid="weedssoul" creationdate="20190406T030000Z">
