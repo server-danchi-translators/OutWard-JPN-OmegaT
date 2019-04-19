@@ -58686,6 +58686,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That was your doing, I suppose?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T143404Z" creationid="taman" creationdate="20190419T143404Z">
+        <seg>これはあなたがやったのね、そうでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That you did, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091142Z" creationid="rkmad" creationdate="20190405T091142Z">
