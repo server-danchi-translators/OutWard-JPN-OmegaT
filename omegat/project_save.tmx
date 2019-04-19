@@ -59642,6 +59642,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The undead hiding in the shadows, or being so close to a hostile tribe that would kill us on sight…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T135128Z" creationid="taman" creationdate="20190419T135128Z">
+        <seg>闇に紛れて徘徊する死体や、危険な部族が近くにいていつ襲ってくるかと思うと……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The undead in this area bind their memories to an ancestral altar past this door.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T140704Z" creationid="taman" creationdate="20190419T140704Z">
+        <seg>この扉の向こうに先人を祭った祭壇があって、不死者たちは自身の記憶をそこに縛り付けているらしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The walls have ears and the guards have spears.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T090116Z" creationid="pugnus" creationdate="20190408T085802Z">
