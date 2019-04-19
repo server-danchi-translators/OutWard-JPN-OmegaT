@@ -14241,8 +14241,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But they've &lt;color=#00CCFF&gt;&lt;b&gt;locked the door with some kind of spell&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T142452Z" creationid="taman" creationdate="20190419T141237Z">
-        <seg>でも彼らに &lt;color=#00CCFF&gt;&lt;b&gt;呪術のようなもので扉は封印されているようね。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190419T142557Z" creationid="taman" creationdate="20190419T141237Z">
+        <seg>でも彼らに &lt;color=#00CCFF&gt;&lt;b&gt;魔法のようなもので扉は封印されているようね。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37145,6 +37145,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T050838Z">
         <seg>後で教えてあげるわ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe if I keep casting counter-spells on this door, I'll manage to break through and we can get in, regardless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T142822Z" creationid="taman" creationdate="20190419T142516Z">
+        <seg>相殺魔法を使い続ければなんとか封印を壊して中に入れるかもしれないから試してみるわ。</seg>
       </tuv>
     </tu>
     <tu>
