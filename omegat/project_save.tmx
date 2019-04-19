@@ -14241,8 +14241,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But they've &lt;color=#00CCFF&gt;&lt;b&gt;locked the door with some kind of spell&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T141237Z" creationid="taman" creationdate="20190419T141237Z">
-        <seg>でもこの扉は彼らに&lt;color=#00CCFF&gt;&lt;b&gt;呪術のようなもので封印されているようで。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190419T141626Z" creationid="taman" creationdate="20190419T141237Z">
+        <seg>でもこの扉は彼らに &lt;color=#00CCFF&gt;&lt;b&gt;呪術のようなもので封印されているようで。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14436,6 +14436,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T111935Z" creationid="seto" creationdate="20190404T111935Z">
         <seg>Camping_NoEvent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can I ask you to &lt;color=#00CCFF&gt;&lt;b&gt;go look for it&lt;/b&gt;&lt;/color&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T141737Z" creationid="taman" creationdate="20190419T141614Z">
+        <seg>もしよかったら &lt;color=#00CCFF&gt;&lt;b&gt;探してきてくれないかしら&lt;/b&gt;&lt;/color&gt;？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37141,6 +37149,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maybe something in the cave is keeping the spell active?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T141549Z" creationid="taman" creationdate="20190419T141549Z">
+        <seg>この洞窟にいる誰かが封印を守っているということは考えられない？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maybe there people will treat me with some damn respect!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024320Z" creationid="weedssoul" creationdate="20190406T024320Z">
@@ -37161,6 +37177,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T061704Z" creationid="Light" creationdate="20190408T061704Z">
         <seg>誰か一人を選ばなきゃいけないわね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190419T141603Z" creationid="taman" creationdate="20190419T141603Z">
+        <seg>その可能性はあるわね。</seg>
       </tuv>
     </tu>
     <tu>
