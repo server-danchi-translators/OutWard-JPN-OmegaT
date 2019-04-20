@@ -15904,6 +15904,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come back later, with the money this time!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T035154Z" creationid="seto" creationdate="20190420T034956Z">
+        <seg>今度は一杯持って来てくださいね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come back once you've said your goodbyes to them.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171538Z" creationid="weedssoul" creationdate="20190405T162138Z">
@@ -37590,6 +37598,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034910Z" creationid="seto" creationdate="20190420T034910Z">
+        <seg>Merchant_Berg_HouseSeller_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034958Z" creationid="seto" creationdate="20190420T034958Z">
+        <seg>Merchant_Berg_HouseSeller_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merchant_Berg_InnKeeper_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095833Z" creationid="seto" creationdate="20190410T095833Z">
@@ -59063,6 +59087,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That’s not enough coin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034916Z" creationid="seto" creationdate="20190420T034916Z">
+        <seg>これじゃあ足りませんね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That’s really all we can do.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T063149Z" creationid="pugnus" creationdate="20190418T063149Z">
@@ -63611,6 +63643,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T053514Z" creationid="Light" creationdate="20190406T053514Z">
         <seg>ようこそ私の宿へ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to your new home, my friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T035210Z" creationid="seto" creationdate="20190420T035210Z">
+        <seg>新居へようこそ、わが友よ！</seg>
       </tuv>
     </tu>
     <tu>
