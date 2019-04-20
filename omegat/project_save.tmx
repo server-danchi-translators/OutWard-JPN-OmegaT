@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>(As the memories fade and you return to your senses, you look up at the Vigil crystal and briefly see a swarm of ghosts trapped within the crystal with the Scourge Beast, endlessly stabbing it with their ghostly weapons.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190410T044425Z">
-        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。 Crystalを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032522Z" creationid="taman" creationdate="20190410T044425Z">
+        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。 ヴィジャルクリスタルを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14386,8 +14386,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Cabal of Wind Outpost</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111829Z" creationid="Gaiden Shinji" creationdate="20190404T111829Z">
-        <seg>風の一党の前哨基地Cabal of Wind Outpost</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032634Z" creationid="Gaiden Shinji" creationdate="20190404T111829Z">
+        <seg>風の一党の前哨基地</seg>
       </tuv>
     </tu>
     <tu>
@@ -17690,8 +17690,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Corsairs' Headquarters</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111724Z" creationid="Gaiden Shinji" creationdate="20190404T111724Z">
-        <seg>コルセアズ本社</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032728Z" creationid="Gaiden Shinji" creationdate="20190404T111724Z">
+        <seg>コルセアの根城</seg>
       </tuv>
     </tu>
     <tu>
@@ -36400,8 +36400,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Loot</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112938Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
-        <seg>ルート</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032827Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
+        <seg>獲る</seg>
       </tuv>
     </tu>
     <tu>
@@ -57303,8 +57303,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T100417Z">
-        <seg>オールドレバントの西部、タワーの内側にあるCorsairの指導者を止める</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032610Z" creationid="Light" creationdate="20190409T100417Z">
+        <seg>オールドレバントの西部、ヴィジャルタワーの内側にあるコルセアの指導者を止める</seg>
       </tuv>
     </tu>
     <tu>
@@ -60743,8 +60743,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This does protect us, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T141931Z" creationid="taman" creationdate="20190411T064659Z">
-        <seg>Vigilは私たちを守ってくれる。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032453Z" creationid="taman" creationdate="20190411T064659Z">
+        <seg>ヴィジャルは私たちを守ってくれる。</seg>
       </tuv>
     </tu>
     <tu>
