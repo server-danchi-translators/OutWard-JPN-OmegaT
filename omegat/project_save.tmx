@@ -8973,8 +8973,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>A talking skull.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T173538Z" creationid="taman" creationdate="20190419T150620Z">
-        <seg>喋るどくろか。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031601Z" creationid="taman" creationdate="20190419T150620Z">
+        <seg>喋るドクロか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28872,6 +28872,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I ain’t a monster!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031838Z" creationid="seto" creationdate="20190420T031838Z">
+        <seg>俺はそんなんじゃねぇよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I already gave Rissa every silver I had.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003231Z" creationid="seto" creationdate="20190413T003231Z">
@@ -35406,6 +35414,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jus’ a pile of bones trying to get by!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032033Z" creationid="seto" creationdate="20190420T032033Z">
+        <seg>なんとか生きてるだけの骨の山だよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kapros</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114902Z" creationid="Gaiden Shinji" creationdate="20190404T114902Z">
@@ -38670,6 +38686,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monster?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031827Z" creationid="seto" creationdate="20190420T031827Z">
+        <seg>化け物だって？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MonsterWeapon</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051658Z" creationid="seto" creationdate="20190406T051658Z">
@@ -39082,6 +39106,38 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113359Z" creationid="Gaiden Shinji" creationdate="20190404T113359Z">
         <seg>ミリアディ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Myriade_HM_Questions_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031549Z" creationid="seto" creationdate="20190420T031549Z">
+        <seg>Myriade_HM_Questions_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Myriade_HM_Questions_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031551Z" creationid="seto" creationdate="20190420T031551Z">
+        <seg>Myriade_HM_Questions_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Myriade_HM_Questions_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031603Z" creationid="seto" creationdate="20190420T031603Z">
+        <seg>Myriade_HM_Questions_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Myriade_HM_Questions_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031812Z" creationid="seto" creationdate="20190420T031812Z">
+        <seg>Myriade_HM_Questions_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -43520,6 +43576,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oy oy!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031820Z" creationid="seto" creationdate="20190420T031820Z">
+        <seg>オイオイ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oy, you.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095244Z" creationid="rkmad" creationdate="20190403T095125Z">
@@ -45676,6 +45740,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093014Z" creationid="seto" creationdate="20190418T093014Z">
         <seg>Player_Mofat_HM_Questions_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Myriade_HM_Questions_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031553Z" creationid="seto" creationdate="20190420T031553Z">
+        <seg>Player_Myriade_HM_Questions_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Myriade_HM_Questions_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031609Z" creationid="seto" creationdate="20190420T031609Z">
+        <seg>Player_Myriade_HM_Questions_b_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -66119,6 +66199,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T074834Z" creationid="seto" creationdate="20190411T074834Z">
         <seg>私の周りにいる間は何も怖がらなくていいわ、わが友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have spoken your last, monster!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T031811Z" creationid="seto" creationdate="20190420T031811Z">
+        <seg>これが最後の会話だ、化け物め！</seg>
       </tuv>
     </tu>
     <tu>
