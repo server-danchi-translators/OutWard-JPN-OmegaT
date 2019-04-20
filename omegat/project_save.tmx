@@ -14311,6 +14311,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But using Corruption as food is like milking a deer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T081707Z" creationid="taman" creationdate="20190420T081707Z">
+        <seg>だが瘴気を食べるということは、シカにミルクを与えるようなものだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But we have everything you need inside!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051700Z" creationid="Mad" creationdate="20190407T051700Z">
@@ -60553,8 +60561,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then, those living people out there started stringing up dying people as tribute and my ghost pals stopped feedin’ on the Corruption, preferring fresh tasty dying life.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T081525Z" creationid="taman" creationdate="20190420T081525Z">
-        <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。不死者たちは瘴気を消化することを止め、今にも消えかけそうな新鮮な命を好むようになった。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T081643Z" creationid="taman" creationdate="20190420T081525Z">
+        <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。不死者たちは瘴気を消化することを止め、死にかけの新鮮な命を好むようになった。</seg>
       </tuv>
     </tu>
     <tu>
