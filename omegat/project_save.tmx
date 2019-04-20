@@ -10446,8 +10446,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alright alright!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T073330Z" creationid="taman" creationdate="20190420T072717Z">
-        <seg>そんなのお安い御用さ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T075225Z" creationid="taman" creationdate="20190420T072717Z">
+        <seg>そんなのお安い御用さ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -23432,8 +23432,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>First, tell me what's going on here before I decide to put you back together!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T072629Z" creationid="taman" creationdate="20190420T072629Z">
-        <seg>まず体を集めるか決める前に、ここで何が起きているのか説明してくれないか？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T073601Z" creationid="taman" creationdate="20190420T072629Z">
+        <seg>まず体を集めるか決める前に、ここで何が起きているのか教えてくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -29436,6 +29436,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T190123Z" creationid="magur0w" creationdate="20190404T190123Z">
         <seg>攻撃を主導する者を見つけた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I gave those victims a home here, where they can live the lives that were stolen from them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T075631Z" creationid="taman" creationdate="20190420T075631Z">
+        <seg>俺はこの場所を不死者たちの家にしたのさ。彼らが奪われた人生をもう一度すごせるようにしたかった。</seg>
       </tuv>
     </tu>
     <tu>
