@@ -10444,6 +10444,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright alright!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072908Z" creationid="taman" creationdate="20190420T072717Z">
+        <seg>そんなのお安い御用さ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, I’ll let you go outside the town’s walls.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T064036Z">
@@ -60081,8 +60089,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The only way I can lift it &lt;color=#00CCFF&gt;&lt;b&gt;is if I get in front of that door to undo the spell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T071002Z" creationid="taman" creationdate="20190420T071002Z">
-        <seg>そして封印をとく唯一の方法が、&lt;color=#00CCFF&gt;&lt;b&gt;俺が扉の前で魔法を解除することなんだ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072727Z" creationid="taman" creationdate="20190420T071002Z">
+        <seg>そして封印をとく唯一の方法が、&lt;color=#00CCFF&gt;&lt;b&gt;俺が扉の前で魔法を解除するってことよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60299,6 +60307,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T140704Z" creationid="taman" creationdate="20190419T140704Z">
         <seg>この扉の向こうに先人を祭った祭壇があって、不死者たちは自身の記憶をそこに縛り付けているらしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The victims jus’ couldn’t go to the afterlife.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T073107Z" creationid="taman" creationdate="20190420T073107Z">
+        <seg>そして死者たちはあの世へ行けなかったってことだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60571,6 +60587,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053734Z" creationid="hiru4" creationdate="20190403T053734Z">
         <seg>{1}のすべてを収納するスペースが不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a lot of blood spilled in the old fort.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072930Z" creationid="taman" creationdate="20190420T072930Z">
+        <seg>昔、この城塞で多くの血が流れた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63965,8 +63989,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Well, either that or I finally shuffle off this mortal coil&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T072514Z" creationid="taman" creationdate="20190420T072514Z">
-        <seg>もしくは不死者の俺をこの世から消すことだな。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072744Z" creationid="taman" creationdate="20190420T072514Z">
+        <seg>まぁ、もしくは不死者の俺をこの世から消すことだな。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
