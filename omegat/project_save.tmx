@@ -31317,6 +31317,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it's not dealt with, those ghosts will lose what little humanity they have left!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T095432Z" creationid="taman" creationdate="20190420T095432Z">
+        <seg>このままにしておくと、不死者たちは残されたわずかばかりの人間性をも失ってしまう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If my brother had a smaller ship, or you guys hadn't picked up so many Kazite rugs or whatever else in Orochi, you wouldn't have had any trouble!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T115045Z" creationid="weedssoul" creationdate="20190406T115045Z">
@@ -59510,8 +59518,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Corruption has burst all over the Altar now, and it's destroying the memories we've stored within.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T094701Z" creationid="taman" creationdate="20190420T094701Z">
-        <seg>現在、暴発した瘴気が祭壇を覆い、私たちが刻んだ記憶は失われ続けている。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T094836Z" creationid="taman" creationdate="20190420T094701Z">
+        <seg>現在、暴発した瘴気が祭壇を覆い、俺たちが刻んだ記憶は失われ続けている。</seg>
       </tuv>
     </tu>
     <tu>
