@@ -37526,6 +37526,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034356Z" creationid="seto" creationdate="20190420T034356Z">
+        <seg>Merchant_Berg_HouseSeller_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034421Z" creationid="seto" creationdate="20190420T034421Z">
+        <seg>Merchant_Berg_HouseSeller_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merchant_Berg_InnKeeper_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095833Z" creationid="seto" creationdate="20190410T095833Z">
@@ -40146,6 +40162,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021406Z" creationid="hiru4" creationdate="20190402T021406Z">
         <seg>次のTIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nice day, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034420Z" creationid="seto" creationdate="20190420T034420Z">
+        <seg>良い日ですね、ね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -53938,6 +53962,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, interested in this house?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034622Z" creationid="seto" creationdate="20190420T034622Z">
+        <seg>この家が気になりますよね、ね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, what now?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T112440Z" creationid="pugnus" creationdate="20190406T112440Z">
@@ -67515,8 +67547,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re the new member of the Aberdeen Family, right?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T064150Z" creationid="pugnus" creationdate="20190409T064150Z">
-        <seg>あんたはAberdeen Familyの新入りだろ？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034334Z" creationid="pugnus" creationdate="20190409T064150Z">
+        <seg>あんたはアバディーン家の新入りだろ？</seg>
       </tuv>
     </tu>
     <tu>
