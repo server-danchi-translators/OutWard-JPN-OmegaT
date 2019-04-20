@@ -23566,6 +23566,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a mere 500 silver coin, this house is yours!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034815Z" creationid="seto" creationdate="20190420T034815Z">
+        <seg>たった500銀貨で、この家があなたのものになりますよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a new missionary… I don't blame her for needing some time.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T145032Z" creationid="taman" creationdate="20190414T145032Z">
@@ -27290,6 +27298,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134734Z" creationid="setom" creationdate="20190402T134734Z">
         <seg>倒れちまう前に飲んどけよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have a good day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034830Z" creationid="seto" creationdate="20190420T034830Z">
+        <seg>良い一日を。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31325,6 +31341,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090558Z" creationid="rkmad" creationdate="20190405T090558Z">
         <seg>約束を守ることができないのなら、守れなかったことによる代償も受け入れなくてはならないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you change your mind, you know where to find me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034908Z" creationid="seto" creationdate="20190420T034908Z">
+        <seg>気が変わったら、私に会いに来てください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37542,6 +37566,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034744Z" creationid="seto" creationdate="20190420T034744Z">
+        <seg>Merchant_Berg_HouseSeller_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034816Z" creationid="seto" creationdate="20190420T034816Z">
+        <seg>Merchant_Berg_HouseSeller_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Merchant_Berg_HouseSeller_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034831Z" creationid="seto" creationdate="20190420T034831Z">
+        <seg>Merchant_Berg_HouseSeller_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merchant_Berg_InnKeeper_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095833Z" creationid="seto" creationdate="20190410T095833Z">
@@ -40168,8 +40216,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Nice day, right?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T034420Z" creationid="seto" creationdate="20190420T034420Z">
-        <seg>良い日ですね、ね？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034731Z" creationid="seto" creationdate="20190420T034420Z">
+        <seg>良い日ですね、そうでしょ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -53964,8 +54012,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>So, interested in this house?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T034622Z" creationid="seto" creationdate="20190420T034622Z">
-        <seg>この家が気になりますよね、ね？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034743Z" creationid="seto" creationdate="20190420T034622Z">
+        <seg>だから、この家、気になりますよね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -70714,6 +70762,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095743Z" creationid="seto" creationdate="20190410T095743Z">
         <seg>それでは。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Merchants_Trainers_MessageBoards.xml</prop>
+      <prop type="id">74_0</prop>
+      <tuv lang="EN-US">
+        <seg>Very well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T034845Z" creationid="seto" creationdate="20190420T034845Z">
+        <seg>いいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
