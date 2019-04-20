@@ -28880,6 +28880,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I ain’t no threat to nobody!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032134Z" creationid="seto" creationdate="20190420T032134Z">
+        <seg>怖がるようなもんじゃねぇ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I already gave Rissa every silver I had.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003231Z" creationid="seto" creationdate="20190413T003231Z">
@@ -35416,8 +35424,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Jus’ a pile of bones trying to get by!</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032033Z" creationid="seto" creationdate="20190420T032033Z">
-        <seg>なんとか生きてるだけの骨の山だよ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032038Z" creationid="seto" creationdate="20190420T032033Z">
+        <seg>なんとか生きてるだけの骨の山だ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39138,6 +39146,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T031812Z" creationid="seto" creationdate="20190420T031812Z">
         <seg>Myriade_HM_Questions_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Myriade_HM_Questions_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032135Z" creationid="seto" creationdate="20190420T032135Z">
+        <seg>Myriade_HM_Questions_05</seg>
       </tuv>
     </tu>
     <tu>
