@@ -21712,8 +21712,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Equip</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T063128Z" creationid="hiru4" creationdate="20190403T063128Z">
-        <seg>装備</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032905Z" creationid="hiru4" creationdate="20190403T063128Z">
+        <seg>装備:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36400,8 +36400,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Loot</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032827Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
-        <seg>獲る</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032847Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
+        <seg>獲る:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48194,8 +48194,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Read</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190403T091536Z" creationid="hiru4" creationdate="20190403T063204Z">
-        <seg>読む</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032903Z" creationid="hiru4" creationdate="20190403T063204Z">
+        <seg>読む:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57472,8 +57472,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T115754Z" creationid="setom" creationdate="20190401T115754Z">
-        <seg>取る</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032913Z" creationid="setom" creationdate="20190401T115754Z">
+        <seg>取る:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61752,8 +61752,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Turn off</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112941Z" creationid="Gaiden Shinji" creationdate="20190404T112941Z">
-        <seg>消す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032900Z" creationid="Gaiden Shinji" creationdate="20190404T112941Z">
+        <seg>消す:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62160,8 +62160,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Use</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T063151Z" creationid="hiru4" creationdate="20190403T063151Z">
-        <seg>使う</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032839Z" creationid="hiru4" creationdate="20190403T063151Z">
+        <seg>使う:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70922,6 +70922,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T094704Z" creationid="seto" creationdate="20190412T094704Z">
         <seg>Tags count</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/menu_all.xml</prop>
+      <prop type="id">246_0</prop>
+      <tuv lang="EN-US">
+        <seg>Take</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032933Z" creationid="seto" creationdate="20190420T032933Z">
+        <seg>取る</seg>
       </tuv>
     </tu>
     <tu>
