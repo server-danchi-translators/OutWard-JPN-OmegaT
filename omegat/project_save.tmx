@@ -59508,6 +59508,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Corruption has burst all over the Altar now, and it's destroying the memories we've stored within.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T094701Z" creationid="taman" creationdate="20190420T094701Z">
+        <seg>現在、暴発した瘴気が祭壇を覆い、私たちが刻んだ記憶は失われ続けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Corruption under the Chersonese is back under control.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="taman" creationdate="20190414T114406Z">
@@ -60569,8 +60577,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then, those living people out there started stringing up dying people as tribute and my ghost pals stopped feedin’ on the Corruption, preferring fresh tasty dying life.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T081643Z" creationid="taman" creationdate="20190420T081525Z">
-        <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。不死者たちは瘴気を消化することを止め、死にかけの新鮮な命を好むようになった。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T094719Z" creationid="taman" creationdate="20190420T081525Z">
+        <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。不死者たちは瘴気を消化することを止め、死にかけの新鮮な命を好むようになる。</seg>
       </tuv>
     </tu>
     <tu>
