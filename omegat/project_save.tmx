@@ -23422,6 +23422,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, tell me what's going on here before I decide to put you back together!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072629Z" creationid="taman" creationdate="20190420T072629Z">
+        <seg>まず体を集めるか決める前に、ここで何が起きているのか説明してくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you need a trigger device like a tripwire, then you need to arm it with a compatible item like iron spikes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T072121Z" creationid="weedssoul" creationdate="20190406T062542Z">
@@ -43080,6 +43088,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082129Z" creationid="rkmad" creationdate="20190404T082129Z">
         <seg>まだ船員が一人、見つかっていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One thing at a time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T072550Z" creationid="taman" creationdate="20190420T072550Z">
+        <seg>順番に説明してほしい。</seg>
       </tuv>
     </tu>
     <tu>
