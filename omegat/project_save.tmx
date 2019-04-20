@@ -30227,8 +30227,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I sent Oliele on a mission before you left for the Vigil, and I would feel better if you joined her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="taman" creationdate="20190413T161626Z">
-        <seg>あなたがに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032413Z" creationid="taman" creationdate="20190413T161626Z">
+        <seg>あなたがヴィジャルに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31171,8 +31171,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>If he did this, it's because it had to be done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T134653Z" creationid="taman" creationdate="20190411T055529Z">
-        <seg>Vigilの件についても、そうせざるを得ない理由があったに違いない。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032448Z" creationid="taman" creationdate="20190411T055529Z">
+        <seg>ヴィジャルの件についても、そうせざるを得ない理由があったに違いない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40304,8 +40304,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>No wonder the Scourge don't go anywhere near the Vigils.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T134830Z" creationid="taman" creationdate="20190410T125051Z">
-        <seg>どうりでスカージがVigilに近寄らないわけだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032423Z" creationid="taman" creationdate="20190410T125051Z">
+        <seg>どうりでスカージがヴィジャルに近寄らないわけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42050,8 +42050,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele, without the Vigils, the Scourge Beasts could attack our homes, our families.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T134623Z" creationid="taman" creationdate="20190411T045018Z">
-        <seg>オリエル、仮にVigilがなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032437Z" creationid="taman" creationdate="20190411T045018Z">
+        <seg>オリエル、仮にヴィジャルがいなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45764,6 +45764,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T031553Z" creationid="seto" creationdate="20190420T031553Z">
         <seg>Player_Myriade_HM_Questions_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Myriade_HM_Questions_a_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032150Z" creationid="seto" creationdate="20190420T032150Z">
+        <seg>Player_Myriade_HM_Questions_a_14</seg>
       </tuv>
     </tu>
     <tu>
@@ -59218,8 +59226,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Vigils are a necessary evil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T134350Z" creationid="taman" creationdate="20190413T062413Z">
-        <seg>私たちはvigilを必要悪として認めています。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032317Z" creationid="taman" creationdate="20190413T062413Z">
+        <seg>私たちはヴィジャルを必要悪として認めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62472,16 +62480,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vigil</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112401Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
-        <seg>ヴィジル</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032350Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
+        <seg>ヴィジャル</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vigil Tomb</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190418T092645Z" creationid="seto" creationdate="20190418T092645Z">
-        <seg>眠らずの墓</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T032337Z" creationid="seto" creationdate="20190418T092645Z">
+        <seg>ヴィジャルの墓</seg>
       </tuv>
     </tu>
     <tu>
