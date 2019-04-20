@@ -60063,6 +60063,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only way I can lift it &lt;color=#00CCFF&gt;&lt;b&gt;is if I get in front of that door to undo the spell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T071002Z" creationid="taman" creationdate="20190420T071002Z">
+        <seg>そして封印をとく唯一の方法が、&lt;color=#00CCFF&gt;&lt;b&gt;俺が扉の前で魔法を解除することなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other Chamberlords are on their way here for a council meeting.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022018Z" creationid="weedssoul" creationdate="20190406T022018Z">
