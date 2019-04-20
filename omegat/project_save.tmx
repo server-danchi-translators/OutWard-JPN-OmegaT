@@ -34139,8 +34139,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It's not great, but it's enough to keep us sane.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T081012Z" creationid="taman" creationdate="20190420T081012Z">
-        <seg>お世辞にもうまいとは言えないが、生きていくには十分だった。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T081050Z" creationid="taman" creationdate="20190420T081012Z">
+        <seg>お世辞にもうまいとは言えないが、なんとか生きていくには十分だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60547,6 +60547,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T082031Z">
         <seg> そうすれば、誰もあなたに手出しすることは出来なくなるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, those living people out there started stringing up dying people as tribute and my ghost pals stopped feedin’ on the Corruption, preferring fresh tasty dying life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T081525Z" creationid="taman" creationdate="20190420T081525Z">
+        <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。不死者たちは瘴気を消化することを止め、今にも消えかけそうな新鮮な命を好むようになった。</seg>
       </tuv>
     </tu>
     <tu>
