@@ -34137,6 +34137,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's not great, but it's enough to keep us sane.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T081012Z" creationid="taman" creationdate="20190420T081012Z">
+        <seg>お世辞にもうまいとは言えないが、生きていくには十分だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's taking me forever to remove it...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T141354Z" creationid="taman" creationdate="20190419T141354Z">
@@ -60651,6 +60659,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T041229Z" creationid="weedssoul" creationdate="20190406T041202Z">
         <seg>奴らは鮮やかな体色で、外敵に離れろと警告している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's also plenty of Corruption to feed on, to cope with the hunger for life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190420T080917Z" creationid="taman" creationdate="20190420T080917Z">
+        <seg>ここには大量の瘴気があったが、不死者たちは飢えをしのぐため瘴気を食べていた。</seg>
       </tuv>
     </tu>
     <tu>
