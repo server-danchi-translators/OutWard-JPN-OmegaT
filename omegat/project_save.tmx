@@ -31500,11 +31500,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>原文が読み取れず怪しいのでメモ。if you don't milk it often enough, it'll just build up until you have a major problem.
+
+ミルクを適度にあげなければ、シカがbuild upするという意味が伝わらないし瘴気を食べる不死者につながってこない。it がシカではなく瘴気だとすれば前半のミルクを与えるという部分が意味をなさないためitは直前のシカを指していると考えられる。体にガスがたまって大きくなるとか？</note>
       <tuv lang="EN-US">
         <seg>If you don't milk it often enough, it'll just build up until you have a major problem.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T092040Z" creationid="taman" creationdate="20190420T092040Z">
-        <seg>ミルクを与え続けなければIf you don't milk it often enough, it'll just build up until you have a major problem.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190420T093131Z" creationid="taman" creationdate="20190420T092040Z">
+        <seg>ミルクを与え続けなければシカは異変を覚え、体に異常をきたす。</seg>
       </tuv>
     </tu>
     <tu>
