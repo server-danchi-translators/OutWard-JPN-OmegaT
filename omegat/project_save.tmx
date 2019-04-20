@@ -53601,6 +53601,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopkeeper Pleel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T035904Z" creationid="seto" creationdate="20190420T035904Z">
+        <seg>店主プリール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should I know you?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T000619Z" creationid="pugnus" creationdate="20190416T234422Z">
@@ -58417,8 +58425,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talking Skull</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120250Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
-        <seg>話す頭蓋骨</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190420T035929Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
+        <seg>喋るドクロ</seg>
       </tuv>
     </tu>
     <tu>
@@ -69189,6 +69197,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101824Z" creationid="seto" creationdate="20190405T101824Z">
         <seg>mumble</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>name_merchant_berggeneralstore_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190420T035909Z" creationid="seto" creationdate="20190420T035909Z">
+        <seg>name_merchant_berggeneralstore_01</seg>
       </tuv>
     </tu>
     <tu>
