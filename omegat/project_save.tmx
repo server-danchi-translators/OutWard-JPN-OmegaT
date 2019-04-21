@@ -61377,6 +61377,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This half-life isn't too much, but it's all I've got!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T122435Z" creationid="taman" creationdate="20190421T122435Z">
+        <seg>こんな不完全な体でも、俺のすべてなんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This illness will eventually kill you.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T062332Z" creationid="totochan" creationdate="20190403T135257Z">
