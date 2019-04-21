@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Smash the skull)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T082117Z" creationid="taman" creationdate="20190421T082117Z">
+        <seg>(ドクロを壊す)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Sorrow and pain, and a sense of duty linger around this altar)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T040619Z" creationid="taman" creationdate="20190410T033627Z">
@@ -8847,6 +8855,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T093657Z" creationid="はぐくみ会" creationdate="20190403T063905Z">
         <seg>私は鞭で叩かれ、夜通し走リ続けるように命じられた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A life-eating monster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081914Z" creationid="taman" creationdate="20190421T081914Z">
+        <seg>生命をむさぼる怪物じゃないか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28880,6 +28896,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hoy, wait a minute!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T083427Z" creationid="taman" creationdate="20190421T083427Z">
+        <seg>おい、待てって！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Huge smoke-spewing creatures.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T064044Z" creationid="pugnus" creationdate="20190418T064001Z">
@@ -30909,6 +30933,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T141101Z" creationid="Mad" creationdate="20190407T141101Z">
         <seg>私は聖なる使命に加わることに興味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm doing Aurai a favor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081943Z" creationid="taman" creationdate="20190421T081943Z">
+        <seg>これもオーライのためなんだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -67527,6 +67559,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T063420Z" creationid="pugnus" creationdate="20190418T063420Z">
         <seg>あなたの他に、割くことが可能な人員がいないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're an undead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081856Z" creationid="taman" creationdate="20190421T081856Z">
+        <seg>あなたは不死者だ。</seg>
       </tuv>
     </tu>
     <tu>
