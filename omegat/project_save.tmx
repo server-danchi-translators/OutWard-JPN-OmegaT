@@ -31365,6 +31365,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I really stretch it...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131734Z" creationid="taman" creationdate="20190421T131734Z">
+        <seg>腕を伸ばすと……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Old Levant's claims are recognized, their dethroning could lead to war.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T104928Z" creationid="magur0w" creationdate="20190404T123548Z">
@@ -60971,6 +60979,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T080428Z" creationid="taman" creationdate="20190420T075911Z">
         <seg>彼らは自身の記憶を先祖から伝わる祭壇につなぎとめている。生きていたころの自分たちをいつでも思い出せるようにな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's crystalized Mana nearby...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131930Z" creationid="taman" creationdate="20190421T131834Z">
+        <seg>これはマナのクリスタルか……</seg>
       </tuv>
     </tu>
     <tu>
