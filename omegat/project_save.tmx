@@ -9830,8 +9830,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Actually, I do want to know what's going on down here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T083726Z" creationid="taman" creationdate="20190421T083726Z">
-        <seg>ではここで何が起きているかもう少し詳しく教えてほしい。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084819Z" creationid="taman" creationdate="20190421T083726Z">
+        <seg>ではここで何が起きているかもう少し詳しく教えてくれますか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40794,6 +40794,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, I'm just considering the possibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084646Z" creationid="taman" creationdate="20190421T084646Z">
+        <seg>はい、一つの可能性として話しているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, no, I think you’re sick!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052112Z" creationid="Mad" creationdate="20190407T052112Z">
@@ -62466,6 +62474,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Un-consider it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084756Z" creationid="taman" creationdate="20190421T084704Z">
+        <seg>考え直せよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uncommon reinvigorating insect that lives in plants and is used in advanced recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142119Z">
@@ -68119,8 +68135,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re not seriously thinking about actually bashing my skull to pieces, are ya?!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T081843Z" creationid="taman" creationdate="20190421T081843Z">
-        <seg>俺の頭を粉々にするなんて本気で言ってるわけじゃないんだろ、なあ？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084850Z" creationid="taman" creationdate="20190421T081843Z">
+        <seg>俺の頭を壊すなんて本気で言ってるわけじゃないんだろ、なあ？</seg>
       </tuv>
     </tu>
     <tu>
