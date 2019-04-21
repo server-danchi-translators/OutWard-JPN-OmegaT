@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Despite the skull's protestations, you break it to pieces in one strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084233Z" creationid="taman" creationdate="20190421T084233Z">
+        <seg>(ミリアドの嘆願もむなしく、ドクロは一撃で粉々になった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Fourteen bullet holes pierce her body.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T233128Z" creationid="pugnus" creationdate="20190416T233128Z">
@@ -8943,6 +8951,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T171157Z" creationid="taman" creationdate="20190410T042232Z">
         <seg>そのとき一筋の光が空から降り注ぎ、スカージを包み込む。スカージは光を放つクリスタルに閉じ込められ、先ほど殺した戦士に囲まれていた)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A rush of mana pours out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T084412Z" creationid="taman" creationdate="20190421T084412Z">
+        <seg>マナが奔流となり流れ出る。</seg>
       </tuv>
     </tu>
     <tu>
