@@ -158,6 +158,18 @@
       </tuv>
     </tu>
     <tu>
+      <note>どういう状態でこの描写がされているか不明なのでいったん保留。
+おそらく首なしの体が頭を見つけて動いていると思われる。
+
+またゲーム内では腰かけているためhopの場面はないが、飛び跳ねると訳してよかったのか。</note>
+      <tuv lang="EN-US">
+        <seg>(The torso hops a little, presenting the neck stump...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154104Z" creationid="taman" creationdate="20190421T154104Z">
+        <seg>(体は少しだけ飛び上がり、首の接合部を強調する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>(There is nothing I can do with that right now.)</seg>
       </tuv>
