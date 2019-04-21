@@ -25979,6 +25979,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great, time to pull myself back together!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154532Z" creationid="taman" creationdate="20190421T154336Z">
+        <seg>待ってました、さぁ元に戻るぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Green Mushroom</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113651Z" creationid="Gaiden Shinji" creationdate="20190403T113651Z">
@@ -29161,6 +29169,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T021054Z">
         <seg>誇り高く振る舞うことを信じています。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I brought back your... hmm... bones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154302Z" creationid="taman" creationdate="20190421T154302Z">
+        <seg>持ってきたよ……その……全部の骨を。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61070,8 +61086,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There's the sound of little things scurrying not too far away.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T133328Z" creationid="taman" creationdate="20190421T133328Z">
-        <seg>近くからカサカサといった音が聞こえるな。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154346Z" creationid="taman" creationdate="20190421T133328Z">
+        <seg>近くからカサカサといった音が聞こえる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65533,8 +65549,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Whoever this belonged to must have died horribly.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T152504Z" creationid="taman" creationdate="20190421T152504Z">
-        <seg>この死体が凄然な最期を迎えたことがうかがえる。)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154217Z" creationid="taman" creationdate="20190421T152504Z">
+        <seg>この死体が凄然な最期を迎えたことがうかがえる)</seg>
       </tuv>
     </tu>
     <tu>
