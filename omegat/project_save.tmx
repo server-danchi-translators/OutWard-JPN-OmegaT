@@ -28874,8 +28874,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Hoy!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T144119Z" creationid="taman" creationdate="20190419T144119Z">
-        <seg>よお！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081727Z" creationid="taman" creationdate="20190419T144119Z">
+        <seg>おい！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54318,6 +54318,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So I can just bash your skull in and the door opens up?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081716Z" creationid="taman" creationdate="20190421T081716Z">
+        <seg>つまりその頭を壊せば封印されたドアは開くということなんだね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So it's not just me...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T062724Z" creationid="taman" creationdate="20190411T062724Z">
@@ -68025,6 +68033,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012126Z" creationid="seto" creationdate="20190413T012053Z">
         <seg>アンタはシエルゾから出るんだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re not seriously thinking about actually bashing my skull to pieces, are ya?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081843Z" creationid="taman" creationdate="20190421T081843Z">
+        <seg>俺の頭を粉々にするなんて本気で言ってるわけじゃないんだろ、なあ？</seg>
       </tuv>
     </tu>
     <tu>
