@@ -66040,6 +66040,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, where are they?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131314Z" creationid="taman" creationdate="20190421T131314Z">
+        <seg>はい、あとはどこを探せば？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T160338Z" creationid="magur0w" creationdate="20190404T175042Z">
