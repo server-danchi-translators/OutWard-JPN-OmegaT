@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Smash Myriade's skull and open the barrier to the altar)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131420Z" creationid="taman" creationdate="20190421T131420Z">
+        <seg>(ミリアドの頭がいを砕いて扉の封印をとく)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Smash the skull)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T082117Z" creationid="taman" creationdate="20190421T082117Z">
@@ -40866,6 +40874,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, I'm fine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131331Z" creationid="taman" creationdate="20190421T131331Z">
+        <seg>いいや、大丈夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, I'm just considering the possibility.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T084646Z" creationid="taman" creationdate="20190421T084646Z">
@@ -43296,6 +43312,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T021006Z" creationid="rkmad" creationdate="20190404T091520Z">
         <seg>シエルゾを離れる準備ができたら、門の守護者のブラックと話してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One arm feels like there's a campfire not far away...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T131712Z" creationid="taman" creationdate="20190421T131712Z">
+        <seg>片方の腕はどうやら火の近くにあるみたいだぜ……</seg>
       </tuv>
     </tu>
     <tu>
