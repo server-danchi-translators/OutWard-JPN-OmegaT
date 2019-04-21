@@ -29953,6 +29953,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I like you, fleshbag!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T081600Z" creationid="taman" creationdate="20190421T081600Z">
+        <seg>筋金入りのバカだな。気に入った！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I look forward to our revenge too, sir!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T051837Z" creationid="pugnus" creationdate="20190416T051837Z">
@@ -40828,8 +40836,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Not curious about the spooky, scary skeleton, and jus’ wants to help a fella!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T073750Z" creationid="taman" creationdate="20190421T073750Z">
-        <seg>薄気味悪いドクロも気にせず、ただ俺の仲間を助けたいっていうのか！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T073815Z" creationid="taman" creationdate="20190421T073750Z">
+        <seg>薄気味悪いドクロも気にならず、ただ俺の仲間を助けたいっていうのか！</seg>
       </tuv>
     </tu>
     <tu>
