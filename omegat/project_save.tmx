@@ -20748,6 +20748,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have any idea where to look for your body parts?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T122815Z" creationid="taman" creationdate="20190421T122815Z">
+        <seg>他の体のパーツがどこにあるか見当はつきますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have any specific questions?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130120Z" creationid="weedssoul" creationdate="20190406T130120Z">
@@ -57942,6 +57950,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T140133Z" creationid="weedssoul" creationdate="20190406T140133Z">
         <seg>卵と魚から作られた上等な料理。体力、スタミナ、マナの回復効果がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sure, I'll help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T122452Z" creationid="taman" creationdate="20190421T122452Z">
+        <seg>では、私も手伝います。</seg>
       </tuv>
     </tu>
     <tu>
