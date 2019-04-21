@@ -143,6 +143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The leg stretches, as if to say "Here I am".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T152758Z" creationid="taman" creationdate="20190421T152758Z">
+        <seg>(足が動いている。まるで俺がここにいる、といっているようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The sound of an explosion rocks the air and makes the ground tremble beneath your feet.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180757Z" creationid="magur0w" creationdate="20190404T180757Z">
@@ -15917,6 +15925,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T082834Z" creationid="totochan" creationdate="20190402T082834Z">
         <seg>キーバインド削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clearly this belongs to Myriade.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T152630Z" creationid="taman" creationdate="20190421T152630Z">
+        <seg>ミリアドの骨に違いない)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61566,6 +61582,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T122435Z" creationid="taman" creationdate="20190421T122435Z">
         <seg>こんな不完全な体でも、俺のすべてなんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This has to be Myriade's.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T152845Z" creationid="taman" creationdate="20190421T152845Z">
+        <seg>ミリアドの足を見つけた)</seg>
       </tuv>
     </tu>
     <tu>
