@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You pick up the skull and take it with you.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T124630Z" creationid="taman" creationdate="20190421T124630Z">
+        <seg>(ミリアドの頭を拾いあげ一緒に持っていく)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You see an army of warriors fighting a massive Scourge Beast with spears… They are nearly wiped out, before one of them manages to cripple the beast.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T081107Z" creationid="taman" creationdate="20190410T041407Z">
@@ -31489,6 +31497,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082340Z" creationid="rkmad" creationdate="20190404T082340Z">
         <seg>もしも彼を救うことが出来れば――村人達は貴方への信頼を取り戻すことでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can bring my skull there, I can probably feel for the other parts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T124408Z" creationid="taman" creationdate="20190421T124408Z">
+        <seg>俺の頭をそこまで持っていってくれたら、ほかのパーツの場所も分かるかもしれねぇ。</seg>
       </tuv>
     </tu>
     <tu>
