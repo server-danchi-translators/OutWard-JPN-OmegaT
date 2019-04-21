@@ -31046,6 +31046,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>And a leg and a ribcage!
+
+↑のセリフを受けて、聞かなかったことにするという意味がよくわからない。
+ゲーム内で要確認。</note>
+      <tuv lang="EN-US">
+        <seg>I'll pretend I didn't hear that.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>I'll see that this money gets to the families that need it most.</seg>
       </tuv>
@@ -42294,6 +42303,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T055423Z" creationid="rkmad" creationdate="20190404T055423Z">
         <seg>もう私には構わないでちょうだい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now open that door, would you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T155405Z" creationid="taman" creationdate="20190421T155405Z">
+        <seg>では扉の封印をといてくれるだろうか？</seg>
       </tuv>
     </tu>
     <tu>
