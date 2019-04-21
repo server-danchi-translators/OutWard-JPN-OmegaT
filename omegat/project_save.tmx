@@ -39594,6 +39594,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My missing leg feels like it's someplace low and open...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T133734Z" creationid="taman" creationdate="20190421T133734Z">
+        <seg>足はどうやら低地で開けた場所にありそうだ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My offer still stands.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020544Z" creationid="weedssoul" creationdate="20190406T020544Z">
@@ -61027,6 +61035,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T163405Z">
         <seg>ベルクで問題があったそうです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's water nearby with something swimming in it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T141646Z" creationid="taman" creationdate="20190421T141646Z">
+        <seg>水と、何かが泳いでいる音がするな。</seg>
       </tuv>
     </tu>
     <tu>
