@@ -8712,6 +8712,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;It's in the frozen cave back near the entrance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T160430Z" creationid="taman" creationdate="20190421T160430Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;氷の洞窟に入ってすぐのところに奥につながる道があるのさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T162833Z">
@@ -31052,6 +31060,9 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
 ゲーム内で要確認。</note>
       <tuv lang="EN-US">
         <seg>I'll pretend I didn't hear that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T160149Z">
+        <seg>最後のは聞かなかったことにするよ。I'll pretend I didn't hear that.</seg>
       </tuv>
     </tu>
     <tu>
