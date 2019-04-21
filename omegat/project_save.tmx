@@ -36170,6 +36170,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lemme feel for 'em...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T123142Z" creationid="taman" creationdate="20190421T123142Z">
+        <seg>俺様の感覚によると……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lesson learned, then.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091920Z" creationid="rkmad" creationdate="20190405T091857Z">
@@ -42336,6 +42344,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T080825Z" creationid="rkmad" creationdate="20190403T080825Z">
         <seg>冒険者が愛用する、明るいオイルランタン。オイルが切れても、補充することで再利用できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ok, my torso feels like it's propped up on something, in a lit up area...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T124139Z" creationid="taman" creationdate="20190421T124139Z">
+        <seg>オーケイ、俺の胴体は何かによりかかっているな、少し明るい場所のようだ……</seg>
       </tuv>
     </tu>
     <tu>
