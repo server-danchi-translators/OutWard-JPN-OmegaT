@@ -302,8 +302,8 @@
       <tuv lang="EN-US">
         <seg>...</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T095307Z" creationid="setom" creationdate="20190402T095307Z">
-        <seg>...</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154828Z" creationid="setom" creationdate="20190402T095307Z">
+        <seg>……</seg>
       </tuv>
     </tu>
     <tu>
@@ -59500,6 +59500,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
         <seg>ありがとう、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks for giving us a hand!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T154751Z" creationid="taman" creationdate="20190421T154751Z">
+        <seg>助けてくれてありがとな！</seg>
       </tuv>
     </tu>
     <tu>
