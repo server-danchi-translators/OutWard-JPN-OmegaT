@@ -10896,6 +10896,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>解釈が間違っているかもしれないので念のためゲーム内で確認したい。</note>
+      <tuv lang="EN-US">
+        <seg>And a leg and a ribcage!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T155227Z" creationid="taman" creationdate="20190421T155227Z">
+        <seg>足も胸もちゃんとついてるし！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>And don't even think about using the &lt;color=#00CCFF&gt;&lt;b&gt;storage tunnel&lt;/b&gt;&lt;/color&gt; under the &lt;color=#00CCFF&gt;&lt;b&gt;lighthouse&lt;/b&gt;&lt;/color&gt; to sneak out!</seg>
       </tuv>
@@ -24007,6 +24016,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141402Z" creationid="totochan" creationdate="20190402T193251Z">
         <seg>フルスクリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Funny guy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190421T155317Z" creationid="taman" creationdate="20190421T155317Z">
+        <seg>面白い男だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59506,8 +59523,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thanks for giving us a hand!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T154751Z" creationid="taman" creationdate="20190421T154751Z">
-        <seg>助けてくれてありがとな！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190421T155055Z" creationid="taman" creationdate="20190421T154751Z">
+        <seg>体集めてくれてありがとな！</seg>
       </tuv>
     </tu>
     <tu>
