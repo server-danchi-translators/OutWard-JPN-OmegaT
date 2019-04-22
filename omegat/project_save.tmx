@@ -28958,6 +28958,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How did it go, human?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021721Z" creationid="pugnus" creationdate="20190422T021721Z">
+        <seg>どうだったかな？人間よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How did it go?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T070329Z" creationid="pugnus" creationdate="20190418T070329Z">
@@ -29698,6 +29706,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T111901Z" creationid="weedssoul" creationdate="20190406T111901Z">
         <seg>客を失いたくないからね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don’t need anything right now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021518Z" creationid="pugnus" creationdate="20190422T021518Z">
+        <seg>今は何も必要ではありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67677,6 +67693,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134454Z" creationid="setom" creationdate="20190402T134454Z">
         <seg>喉が渇きすぎて酷い顔してるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You make Gold Belly sad, small one!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021637Z" creationid="pugnus" creationdate="20190422T021637Z">
+        <seg>あなたはこのゴールドベリーを悲しく、そして小さいものにします！</seg>
       </tuv>
     </tu>
     <tu>
