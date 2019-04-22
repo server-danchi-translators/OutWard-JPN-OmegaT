@@ -43254,6 +43254,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, now they consider Highlord Cyr important?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084447Z" creationid="pugnus" creationdate="20190422T084447Z">
+        <seg>あぁ、今、彼らは上級王シリを重要だと考えているのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, you wound me!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T235838Z" creationid="pugnus" creationdate="20190416T235838Z">
@@ -61291,8 +61299,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The many leaders in my tribe all consider you very important and want to invite you to represent your people in the Blue Chamber Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T084331Z" creationid="pugnus" creationdate="20190422T084331Z">
-        <seg>青の議会の指導者たちは、皆が上級王シリを非常に重要だと考えています。青の議会は上級王シリを、巨人の王として招待したいのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084400Z" creationid="pugnus" creationdate="20190422T084331Z">
+        <seg>青の議会の指導者たちは、皆が上級王シリを非常に重要だと考えています。青の議会はあなたを、すべての巨人の王として招待したいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65922,6 +65930,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T125331Z" creationid="Mad" creationdate="20190406T115940Z">
         <seg>神聖伝道団について詳しく教えてもらえないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What changed, Cyr wonders...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084531Z" creationid="pugnus" creationdate="20190422T084531Z">
+        <seg>何が変わったというのだ...シリは疑問である...</seg>
       </tuv>
     </tu>
     <tu>
