@@ -38316,6 +38316,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mantis Shrimp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T115909Z" creationid="pugnus" creationdate="20190422T115909Z">
+        <seg>カマキリエビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manual Recipe</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114452Z" creationid="setom" creationdate="20190401T114452Z">
@@ -59435,6 +59443,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stekosaur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T115954Z" creationid="pugnus" creationdate="20190422T115954Z">
+        <seg>ステコサウルス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Still, I can't say I'm surprised.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T014017Z" creationid="pugnus" creationdate="20190422T014017Z">
@@ -64472,6 +64488,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112953Z">
         <seg>画面を分割するかオンラインでマルチプレイを試してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuanosaur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120051Z" creationid="pugnus" creationdate="20190422T120051Z">
+        <seg>トゥアノサウルス</seg>
       </tuv>
     </tu>
     <tu>
