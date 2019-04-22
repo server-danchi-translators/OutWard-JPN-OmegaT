@@ -65804,6 +65804,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We created crystal Vigils that keep them away from places where people live, and when we can, we destroy them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113143Z" creationid="pugnus" creationdate="20190422T113143Z">
+        <seg>私たちは人々が生活する場所から獣たちを遠ざけるために、ヴィジャルクリスタルを作りました。そしてそれは成功し、私たちは獣たちを滅ぼすことができると考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We debate to find a solution that works for everyone.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T091123Z" creationid="pugnus" creationdate="20190422T091123Z">
@@ -67080,8 +67088,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What you do about them, these enders of your world?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T112622Z" creationid="pugnus" creationdate="20190422T112622Z">
-        <seg>そなたらは大地の獣に何をしているのか？この世界を終わらせる獣たちに。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T112847Z" creationid="pugnus" creationdate="20190422T112622Z">
+        <seg>そなたらは現在、大地の獣に何か対策をしているのか？この世界を終わらせる獣たちに。</seg>
       </tuv>
     </tu>
     <tu>
