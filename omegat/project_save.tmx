@@ -34096,6 +34096,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It fell apart.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013103Z" creationid="pugnus" creationdate="20190422T013103Z">
+        <seg>それはバラバラになりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It fills the belly, but does little else.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T075015Z" creationid="Light" creationdate="20190407T075015Z">
@@ -59599,8 +59607,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank you for your efforts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T035825Z" creationid="rkmad" creationdate="20190405T035744Z">
-        <seg>あなたの素晴らしい行いに、まずは感謝を。そして、おめでとう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013029Z" creationid="rkmad" creationdate="20190405T035744Z">
+        <seg>あなたの努力に、まずは感謝を。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64673,6 +64681,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T104600Z" creationid="pugnus" creationdate="20190406T104600Z">
         <seg>...まぁ、仕方がないですね...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, it was a long shot at any rate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T012958Z" creationid="pugnus" creationdate="20190422T012958Z">
+        <seg>まぁ、この任務はとにかく困難なものでしたから、仕方がありません。</seg>
       </tuv>
     </tu>
     <tu>
