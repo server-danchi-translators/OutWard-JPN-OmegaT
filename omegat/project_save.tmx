@@ -13325,6 +13325,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be very careful in there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T034933Z" creationid="pugnus" creationdate="20190422T034933Z">
+        <seg>「爬虫類のねぐら」は注意が必要だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be warned, Gabriella Sullivan is a suspected member of the &lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T123006Z" creationid="pugnus" creationdate="20190415T074214Z">
@@ -63344,6 +63352,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T012000Z" creationid="pugnus" creationdate="20190416T012000Z">
         <seg>目的と、真実</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try not to fight big nasty Tuanosaurs unless you have to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T035148Z" creationid="pugnus" creationdate="20190422T035148Z">
+        <seg>大きくて、不快な恐竜がいるよ。どうしてもっていう時以外は、戦ったらだめだよ。</seg>
       </tuv>
     </tu>
     <tu>
