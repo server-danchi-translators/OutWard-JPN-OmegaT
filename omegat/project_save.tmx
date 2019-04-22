@@ -14357,6 +14357,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But even without them, I see our chances improving considerably.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020028Z" creationid="pugnus" creationdate="20190422T020028Z">
+        <seg>しかし、巨人の力無くとも、私たちの状況はかなり改善されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But he strove to improve himself day by day, and founded the Tribe Without Name, governed by the 3 Pillars the Holy Mission still follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T131550Z" creationid="weedssoul" creationdate="20190406T042640Z">
@@ -36598,8 +36606,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Levant won't know what hit them!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T015547Z" creationid="pugnus" creationdate="20190422T015547Z">
-        <seg>レバントはこの情勢をまだ、知る由もないのです！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T015638Z" creationid="pugnus" creationdate="20190422T015547Z">
+        <seg>レバントはこの情勢をまだ、知るよしもないのです！</seg>
       </tuv>
     </tu>
     <tu>
@@ -66213,6 +66221,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T083316Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>死ぬ気で這いつくばり、何とか出口まで戻った。そして、また意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the Ash Giants on our side, we could have turned this war around overnight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T015826Z" creationid="pugnus" creationdate="20190422T015826Z">
+        <seg>灰の巨人が私たちについていれば、一晩でこの戦争の風向きを変えることができたでしょう。</seg>
       </tuv>
     </tu>
     <tu>
