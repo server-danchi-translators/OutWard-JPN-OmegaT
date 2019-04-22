@@ -26516,6 +26516,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Guardian of the Compass</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120422Z" creationid="pugnus" creationdate="20190422T120422Z">
+        <seg>羅針盤の守護者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guarding lowers the chance that this occurs.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164351Z" creationid="setom" creationdate="20190402T090654Z">
@@ -38112,6 +38120,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T023136Z" creationid="pugnus" creationdate="20190406T023136Z">
         <seg>武器の耐久性が6%低減される。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Luke the Pearlescent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120513Z" creationid="pugnus" creationdate="20190422T120513Z">
+        <seg>真珠のようなルーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -64624,6 +64640,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T044118Z" creationid="pugnus" creationdate="20190415T072622Z">
         <seg>さすがね。これは皮肉の言葉よ。さすがね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tyrant of the Hive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120332Z" creationid="pugnus" creationdate="20190422T120332Z">
+        <seg>ハイブの暴君</seg>
       </tuv>
     </tu>
     <tu>
