@@ -31243,6 +31243,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm impressed, very impressed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011826Z" creationid="pugnus" creationdate="20190422T011826Z">
+        <seg>私は感動しました。とても、感動しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm just passing by.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051539Z" creationid="Mad" creationdate="20190407T051539Z">
@@ -61991,6 +61999,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T154134Z">
         <seg>あの悲劇は、彼らのうち一人でも正常な判断ができれば、避けることができたのです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was a long shot at best, and you succeeded.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011915Z" creationid="pugnus" creationdate="20190422T011915Z">
+        <seg>これは本当に難しい任務でした。そしてあなたはそれを成功した。</seg>
       </tuv>
     </tu>
     <tu>
