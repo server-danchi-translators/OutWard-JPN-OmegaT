@@ -8744,6 +8744,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;So we put it in the old storage shed.&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032349Z" creationid="pugnus" creationdate="20190422T032349Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;だから、その本は古い貯蔵庫にしまってあるよ。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Take the road to the south east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="weedssoul" creationdate="20190406T014531Z">
@@ -61555,8 +61563,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There was a human who studied us many years ago, and gave us a copy of his book about us.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T032017Z" creationid="pugnus" creationdate="20190422T032017Z">
-        <seg>何年も前に、アッシュボーンを研究して本にした小さきヒトがいるよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032249Z" creationid="pugnus" creationdate="20190422T032017Z">
+        <seg>何年も前に、アッシュボーンを研究して本にした小さきヒトがいるよ。その本をアッシュボーンにもくれたよ。</seg>
       </tuv>
     </tu>
     <tu>
