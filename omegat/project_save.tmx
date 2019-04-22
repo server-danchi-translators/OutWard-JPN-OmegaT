@@ -20994,6 +20994,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't be too hard on yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013411Z" creationid="pugnus" creationdate="20190422T013411Z">
+        <seg>自分自身をあまり責めないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't commit to what you don't understand.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T142502Z" creationid="Mad" creationdate="20190407T142502Z">
@@ -34098,8 +34106,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It fell apart.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T013103Z" creationid="pugnus" creationdate="20190422T013103Z">
-        <seg>それはバラバラになりました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013212Z" creationid="pugnus" creationdate="20190422T013103Z">
+        <seg>それはバラバラに崩れてしまいました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61410,6 +61418,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They don't want anything to do with humans anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013343Z" creationid="pugnus" creationdate="20190422T013343Z">
+        <seg>彼らはもはや、人間とは何の関係も望んでいません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They have no right to demand to have it back after we did all the hard work of cleansing it of the scourge and re-settling it!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T093257Z" creationid="pugnus" creationdate="20190417T093257Z">
@@ -62063,6 +62079,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T103906Z" creationid="setom" creationdate="20190402T103906Z">
         <seg>これが間違いだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was bound to happen eventually.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013522Z" creationid="pugnus" creationdate="20190422T013522Z">
+        <seg>この結果は、成るべくして成ったものです。</seg>
       </tuv>
     </tu>
     <tu>
