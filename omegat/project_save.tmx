@@ -9161,6 +9161,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>About time you ready!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090603Z" creationid="pugnus" creationdate="20190422T090415Z">
+        <seg>そなたの準備が整うまでの時間に対してだが、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abrassar</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T105954Z" creationid="Gaiden Shinji" creationdate="20190404T111344Z">
@@ -43174,6 +43182,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, how you make this work, if Highlord Cyr join your Blue Room Collection?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090714Z" creationid="pugnus" creationdate="20190422T090714Z">
+        <seg>我、上級王シリが青の議会に参加したら、どのような仕事をすればよいのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061957Z" creationid="setom" creationdate="20190402T061957Z">
@@ -69013,6 +69029,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103711Z" creationid="pugnus" creationdate="20190404T101525Z">
         <seg>怪我から回復したら、女王と話すべきだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You show us great disrespect for making us wait!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090514Z" creationid="pugnus" creationdate="20190422T090506Z">
+        <seg>我らを待たせていることに、失礼であるとは考えないのか！</seg>
       </tuv>
     </tu>
     <tu>
