@@ -30664,8 +30664,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I heard that the Chamberlords of the Blue Chamber collective are gathering in Berg for an important Council meeting!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T062219Z" creationid="pugnus" creationdate="20190409T062219Z">
-        <seg>青の議会が、重要な評議会のためにChamberlord達に召集をかけていると聞いたわよ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T115630Z" creationid="pugnus" creationdate="20190409T062219Z">
+        <seg>青の議会が、重要な評議会のために上院議員達に召集をかけていると聞いたわよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62059,8 +62059,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The other Chamberlords are on their way here for a council meeting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T022018Z" creationid="weedssoul" creationdate="20190406T022018Z">
-        <seg>他のChamberlordsたちは、議会に向かっている途中です。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T115555Z" creationid="weedssoul" creationdate="20190406T022018Z">
+        <seg>他の上院議員たちは、議会に向かっている途中です。</seg>
       </tuv>
     </tu>
     <tu>
