@@ -219,6 +219,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the information you picked up from the historian’s book to play up your culture’s similarities)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T101258Z" creationid="pugnus" creationdate="20190422T101258Z">
+        <seg>(歴史家の本から得た情報を使い、文化の類似点を探す。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the information you picked up from the historian’s book to smooth things over)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T095256Z" creationid="pugnus" creationdate="20190422T095256Z">
@@ -43406,6 +43414,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, how you Blue Room people handle law?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T101124Z" creationid="pugnus" creationdate="20190422T101124Z">
+        <seg>さて、青の議会はどのように法律を扱うのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, how you make this work, if Highlord Cyr join your Blue Room Collection?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T090714Z" creationid="pugnus" creationdate="20190422T090714Z">
@@ -66722,6 +66738,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060018Z" creationid="pugnus" creationdate="20190418T060018Z">
         <seg>私たちに必要なのは、味方です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What you do if there is criminal?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T101218Z" creationid="pugnus" creationdate="20190422T101158Z">
+        <seg>犯罪者にはどのように対処するのだ？</seg>
       </tuv>
     </tu>
     <tu>
