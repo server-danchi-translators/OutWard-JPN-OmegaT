@@ -14389,6 +14389,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But he has big ambition and fears losing power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031742Z" creationid="pugnus" creationdate="20190422T031742Z">
+        <seg>だけどね、彼はとても大きな野心を持っているよ。そして権力を失うことを恐れている...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But he strove to improve himself day by day, and founded the Tribe Without Name, governed by the 3 Pillars the Holy Mission still follows.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T131550Z" creationid="weedssoul" creationdate="20190406T042640Z">
@@ -28694,8 +28702,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Highlord Cyr is not very....</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T031453Z" creationid="pugnus" creationdate="20190422T031048Z">
-        <seg>上級王シリはアレがないよ....アレが...アレ...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031513Z" creationid="pugnus" creationdate="20190422T031048Z">
+        <seg>上級王シリは、アレがないよ....アレが...アレ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61866,6 +61874,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They think he is too strict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031542Z" creationid="pugnus" creationdate="20190422T031542Z">
+        <seg>シリは厳しすぎると思うよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They turned into a natural team, working to redeem your bloodline.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034617Z" creationid="rkmad" creationdate="20190405T034506Z">
@@ -62824,6 +62840,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145928Z" creationid="Horizon" creationdate="20190403T145928Z">
         <seg>ライトのオン/オフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too afraid of new ideas...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031646Z" creationid="pugnus" creationdate="20190422T031617Z">
+        <seg>彼は新しい考えを恐れているよ...</seg>
       </tuv>
     </tu>
     <tu>
