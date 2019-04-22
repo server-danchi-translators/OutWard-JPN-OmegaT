@@ -21028,8 +21028,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T011249Z" creationid="pugnus" creationdate="20190422T011249Z">
-        <seg>了解しました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011346Z" creationid="pugnus" creationdate="20190422T011249Z">
+        <seg>任務は完了しました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59861,6 +59861,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ash Giants are willing to join the Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011537Z" creationid="pugnus" creationdate="20190422T011537Z">
+        <seg>灰の巨人たちは、同盟を結んでくれそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T113259Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
@@ -61454,6 +61462,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T002219Z" creationid="pugnus" creationdate="20190406T002148Z">
         <seg>彼らは今後、非常に長い間、誰にとっても悩みの種となるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will likely send their leader or some other ambassador soon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011716Z" creationid="pugnus" creationdate="20190422T011716Z">
+        <seg>彼らは、近いうちに大使か部族長をこちらに寄越すでしょう。</seg>
       </tuv>
     </tu>
     <tu>
