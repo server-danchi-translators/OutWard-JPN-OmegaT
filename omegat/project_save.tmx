@@ -11988,6 +11988,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au, you from human marsh city!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T041313Z" creationid="pugnus" creationdate="20190422T041313Z">
+        <seg>あぁ、君は沼地の町から来たヒトだね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Audio</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023321Z" creationid="hiru4" creationdate="20190402T023321Z">
@@ -68589,6 +68597,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063750Z">
         <seg>新しい町についたら、まず訓練してくれる人を探すんだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should not speak about this “Elatt” person here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T041454Z" creationid="pugnus" creationdate="20190422T041454Z">
+        <seg>君は、「エラット」の人について話さない方がいいよ。</seg>
       </tuv>
     </tu>
     <tu>
