@@ -8680,6 +8680,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Come back before end of month&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085452Z" creationid="pugnus" creationdate="20190422T085452Z">
+        <seg>手配をし、&lt;color=#00CCFF&gt;&lt;b&gt;月末までには戻ってこよう。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Do not keep him waiting too much.&lt;/b&gt;&lt;/color&gt; The Ashborn are very patient, but you do not wish to press us.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T022627Z" creationid="pugnus" creationdate="20190422T022327Z">
@@ -30691,6 +30699,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095841Z" creationid="rkmad" creationdate="20190403T095841Z">
         <seg>ポーションを作ってきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I make arrangements for the talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085357Z" creationid="pugnus" creationdate="20190422T085357Z">
+        <seg>我は講演の手配をしよう。</seg>
       </tuv>
     </tu>
     <tu>
