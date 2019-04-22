@@ -28918,6 +28918,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How did things go while I was gone?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T014319Z" creationid="pugnus" creationdate="20190422T014151Z">
+        <seg>私が居なかった間に、何が起こったのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How did you get out of the prison?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045322Z" creationid="Mad" creationdate="20190407T045322Z">
@@ -36576,6 +36584,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T050416Z" creationid="pugnus" creationdate="20190416T050416Z">
         <seg>レバントは間違いを犯したのだ！奴らにとって、最後の間違いを！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Levant's aggressive looting of the eastern regions has roused many estranged tribes within the Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T014806Z" creationid="pugnus" creationdate="20190422T014806Z">
+        <seg>レバントの東部地域への略奪は、青の議会に所属する多くの孤立した部族を襲いました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61395,8 +61411,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They are Giants, after all.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T014059Z" creationid="pugnus" creationdate="20190422T014059Z">
-        <seg>結局のところ、彼らは巨人なのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T014111Z" creationid="pugnus" creationdate="20190422T014059Z">
+        <seg>結局のところ、彼らは「巨人」なのです。</seg>
       </tuv>
     </tu>
     <tu>
