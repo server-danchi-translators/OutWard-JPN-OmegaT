@@ -31467,6 +31467,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm still planning our next move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020122Z" creationid="pugnus" creationdate="20190422T020122Z">
+        <seg>私たちの次の手をどのようにするか、考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm the one of us who actually bothers to wear the helmet.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083509Z" creationid="rkmad" creationdate="20190408T083509Z">
@@ -58528,6 +58536,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T022554Z" creationid="weedssoul" creationdate="20190406T022554Z">
         <seg>Enmerkarでの生活になれる時間にしなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take this opportunity to rest or train.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020203Z" creationid="pugnus" creationdate="20190422T020203Z">
+        <seg>この機会に休憩をとるか訓練でもしていてください。</seg>
       </tuv>
     </tu>
     <tu>
