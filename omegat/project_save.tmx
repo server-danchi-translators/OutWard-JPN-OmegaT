@@ -41996,6 +41996,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No wonder you think you can just walk into Ashborn city and demand things!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T101023Z" creationid="pugnus" creationdate="20190422T101023Z">
+        <seg>アッシュボーンの町に足を踏み入れ、物事を要求できると思うのも当然である！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No {1} in inventory.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
