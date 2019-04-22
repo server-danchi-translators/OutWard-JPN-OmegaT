@@ -29504,8 +29504,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I am Highlord Cyr, the leader of this village.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T082256Z" creationid="pugnus" creationdate="20190422T081646Z">
-        <seg>私は、上級王シリである。この村の長である。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T083059Z" creationid="pugnus" creationdate="20190422T081646Z">
+        <seg>我は、上級王シリである！この村の長だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29544,8 +29544,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I am master of the sacred ash-silk weaving, I weave cloth as a prayer in the name of the Dawn Weaver and I teach this art to the other highborns.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T082409Z" creationid="pugnus" creationdate="20190422T082236Z">
-        <seg>私は、神聖な絹、アッシュシルクを織る達人である。私は、「夜明けの織り手」の名のもとに、祈りとして布を織る。そして、この芸術を他の高貴な生まれの者たちに教えているのである。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T083111Z" creationid="pugnus" creationdate="20190422T082236Z">
+        <seg>我は、神聖な絹、アッシュシルクを織る達人である。我は、「夜明けの織り手」の名のもとに、祈りとして布を織る。そして、この芸術を他の高貴な生まれの者たちに教えているのである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36894,8 +36894,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Leave the rest of my people alone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T063212Z" creationid="pugnus" creationdate="20190422T063212Z">
-        <seg>他の者と、言葉を交わすことは許さん。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T083012Z" creationid="pugnus" creationdate="20190422T063212Z">
+        <seg>他の者と、言葉を交わすことは許さぬ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45010,6 +45010,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T163042Z">
         <seg>今後のことは、それからでも良いでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our monks make the porcelain in the name of the Dusk Father, and fill it with his magic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T083233Z" creationid="pugnus" creationdate="20190422T083217Z">
+        <seg>我らの僧侶は「夕暮れの父」の名のもとに磁器を作り、磁器を魔法で満たすのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69451,6 +69459,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135814Z" creationid="weedssoul" creationdate="20190406T030709Z">
         <seg>お前の両親も誇らしく思うだろうよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your people like the porcelain and silks and many come here offering much silver and gold for some of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T083542Z" creationid="pugnus" creationdate="20190422T083542Z">
+        <seg>そなたたちは磁器や織物を好んでおる。多くの銀と金を我らに提供し、磁器や織物と交換していく、数多くの小さきヒトが来る。</seg>
       </tuv>
     </tu>
     <tu>
