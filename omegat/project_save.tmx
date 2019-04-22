@@ -59909,6 +59909,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That will be tough business.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020820Z" creationid="pugnus" creationdate="20190422T020820Z">
+        <seg>それは大変なことだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That you did, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091142Z" creationid="rkmad" creationdate="20190405T091142Z">
@@ -68120,6 +68128,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084617Z" creationid="rkmad" creationdate="20190408T084617Z">
         <seg>あなたは宣教師としての道を辿っているはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to &lt;color=#00CCFF&gt;&lt;b&gt;speak with Highlord Cyr&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021113Z" creationid="pugnus" creationdate="20190422T021113Z">
+        <seg>君は、&lt;color=#00CCFF&gt;&lt;b&gt;私たちの上級王シリと話さなければならない。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
