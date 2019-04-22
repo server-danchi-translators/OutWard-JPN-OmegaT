@@ -13445,6 +13445,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beasts went running past village to attack marsh city!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061740Z" creationid="pugnus" creationdate="20190422T061740Z">
+        <seg>獣は沼地の町を攻撃するために、この村を通って行った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because I may need of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T163550Z">
@@ -28948,6 +28956,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hooh, there was big Earth Beast attack not long ago.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061646Z" creationid="pugnus" creationdate="20190422T061646Z">
+        <seg>ふぅぅ、昔、大きな大地の獣の攻撃があったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hopefully I can find enough iron that I buy my way out of this damn pit...</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015135Z" creationid="rkmad" creationdate="20190404T015037Z">
@@ -35830,8 +35846,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’m glad you came, human.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T035454Z" creationid="pugnus" creationdate="20190422T035454Z">
-        <seg>小さきヒトよ、私はあなたが来てくれて嬉しいよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061458Z" creationid="pugnus" creationdate="20190422T035454Z">
+        <seg>小さきヒトよ、私は君が来てくれて嬉しいよ。</seg>
       </tuv>
     </tu>
     <tu>
