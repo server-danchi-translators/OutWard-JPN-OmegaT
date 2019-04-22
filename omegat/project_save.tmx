@@ -203,6 +203,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the gossip you heard from Gold Belly to tempt Cyr’s ambition)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090903Z" creationid="pugnus" creationdate="20190422T090903Z">
+        <seg>(ゴールドベリーから聞いたうわさ話を使い、シリの野心を誘惑する。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You close Balthazar’s eyes and move on.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T090400Z" creationid="pugnus" creationdate="20190415T090329Z">
@@ -34850,6 +34858,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It means you become a chamberlord, helping decide on important issues that affect all the tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T091033Z" creationid="pugnus" creationdate="20190422T091033Z">
+        <seg>それは、あなたが議員になることを意味し、すべての部族に影響を与える、重要な問題を決定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It might have other uses, however.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T135535Z" creationid="weedssoul" creationdate="20190405T135535Z">
@@ -66330,6 +66346,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T011330Z" creationid="pugnus" creationdate="20190408T011204Z">
         <seg>何を手伝えばいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What means, exactly?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090741Z" creationid="pugnus" creationdate="20190422T090741Z">
+        <seg>何を求めているのだ？</seg>
       </tuv>
     </tu>
     <tu>
