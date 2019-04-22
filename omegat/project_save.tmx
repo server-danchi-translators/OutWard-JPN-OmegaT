@@ -61289,6 +61289,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The many leaders in my tribe all consider you very important and want to invite you to represent your people in the Blue Chamber Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084331Z" creationid="pugnus" creationdate="20190422T084331Z">
+        <seg>青の議会の指導者たちは、皆が上級王シリを非常に重要だと考えています。青の議会は上級王シリを、巨人の王として招待したいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The medic declines payment, only saying “It’s been taken care of.” You’ve been out for days, but you’re still mostly in one piece.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101449Z" creationid="pugnus" creationdate="20190404T044748Z">
@@ -68893,6 +68901,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044337Z" creationid="Mad" creationdate="20190407T044337Z">
         <seg>お前は馬鹿か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You think you are bigger than you are, little speck!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084112Z" creationid="pugnus" creationdate="20190422T084112Z">
+        <seg>そなたらは、どれだけ自分たちを大きいと思っているのだ。小さな斑点ほどだというのに！</seg>
       </tuv>
     </tu>
     <tu>
