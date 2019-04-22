@@ -203,6 +203,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the gossip you heard from Gold Belly to smooth things over)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092804Z" creationid="pugnus" creationdate="20190422T092804Z">
+        <seg>(物事を円滑に進めるため、ゴールドベリーから聞いたうわさ話を使用する)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the gossip you heard from Gold Belly to tempt Cyr’s ambition)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T090903Z" creationid="pugnus" creationdate="20190422T090903Z">
@@ -66486,6 +66494,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What you expect from us if we join, hmm?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092543Z" creationid="pugnus" creationdate="20190422T092543Z">
+        <seg>参加した場合、そなたらは我らに何を期待しているのだ？hmm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What you see is what he had to do to save me.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T085244Z" creationid="pugnus" creationdate="20190417T085104Z">
@@ -69320,6 +69336,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085647Z" creationid="pugnus" creationdate="20190422T085647Z">
         <seg>そなたは、今、同盟の話し合いを望むのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want us to be follow Blue Room laws?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092709Z" creationid="pugnus" creationdate="20190422T092709Z">
+        <seg>そなたは青の議会の法律に、我らを従わせたいのか？</seg>
       </tuv>
     </tu>
     <tu>
