@@ -21250,6 +21250,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t take too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085846Z" creationid="pugnus" creationdate="20190422T085837Z">
+        <seg>時間を掛けるのでは無いぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Door</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T110523Z" creationid="pugnus" creationdate="20190410T110523Z">
@@ -29426,6 +29434,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T064044Z" creationid="pugnus" creationdate="20190418T064001Z">
         <seg>煙を噴出する巨大な生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Human, you keep us waiting very long!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090045Z" creationid="pugnus" creationdate="20190422T090045Z">
+        <seg>ニンゲンよ！どれだけの時間、我らを待たせるのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62771,6 +62787,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is not problem for now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085802Z" creationid="pugnus" creationdate="20190422T085802Z">
+        <seg>今のところ問題は無かろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is often due to the host being currently loading.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071055Z" creationid="hiru4" creationdate="20190403T071055Z">
@@ -65024,6 +65048,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T102952Z" creationid="setom" creationdate="20190402T102952Z">
         <seg>我々は個人ではなく、血統で審判を下されるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are ready too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085956Z" creationid="pugnus" creationdate="20190422T085956Z">
+        <seg>我も準備は完了しておる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67426,6 +67458,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, I’m ready to begin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085907Z" creationid="pugnus" creationdate="20190422T085907Z">
+        <seg>はい、始められます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, YOU!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T144322Z" creationid="taman" creationdate="20190419T144322Z">
@@ -68154,6 +68194,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T032353Z">
         <seg> 何をし、どこに行くかも君次第だ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You come at good time, human.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085933Z" creationid="pugnus" creationdate="20190422T085933Z">
+        <seg>良いときに来た、小さきヒトよ。</seg>
       </tuv>
     </tu>
     <tu>
