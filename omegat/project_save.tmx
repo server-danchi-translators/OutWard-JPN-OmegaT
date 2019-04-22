@@ -31455,6 +31455,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wonder if you even want to make alliance talk!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090121Z" creationid="pugnus" creationdate="20190422T090121Z">
+        <seg>そなたは同盟の話し合いに来たのではないのか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I won’t force you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T165515Z">
@@ -42008,6 +42016,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123604Z" creationid="weedssoul" creationdate="20190406T123524Z">
         <seg>テントやバックパック、武器などを素材から合成するだけでなく、服や武器などをを分解して素材を得ることもできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not ready after all this time, still?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090156Z" creationid="pugnus" creationdate="20190422T090156Z">
+        <seg>まだ、準備は済んでいないのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -62875,6 +62891,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This make me mad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090226Z" creationid="pugnus" creationdate="20190422T090226Z">
+        <seg>頭が沸騰しそうである！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This meeting is a waste of time.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T044917Z" creationid="pugnus" creationdate="20190416T044917Z">
@@ -65200,6 +65224,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T055340Z" creationid="Mad" creationdate="20190407T055237Z">
         <seg>ここにはたくさんの飲み物がある。さあ中に入ろう。そして、ともに飲み明かそうじゃないか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have talk now, or we have talk never!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T090317Z" creationid="pugnus" creationdate="20190422T090317Z">
+        <seg>話をするのか、しないのか、どちらなのだ！</seg>
       </tuv>
     </tu>
     <tu>
