@@ -28988,6 +28988,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hmm... this is not bad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093523Z" creationid="pugnus" creationdate="20190422T093523Z">
+        <seg>ふーむ...悪くは無かろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
@@ -60962,6 +60970,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T160816Z">
         <seg>シエルゾ民兵はどんな質問でも答えるよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Collective is family.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093545Z" creationid="pugnus" creationdate="20190422T093545Z">
+        <seg>青の議会は、家族です。</seg>
       </tuv>
     </tu>
     <tu>
