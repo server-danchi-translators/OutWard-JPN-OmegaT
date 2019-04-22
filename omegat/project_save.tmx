@@ -31383,6 +31383,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think you should let exiles back into tribe eventually, otherwise they just a waste to your people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T102748Z" creationid="pugnus" creationdate="20190422T102748Z">
+        <seg>我は、そなたらは亡命者を部族に戻すことを許すべきだと考える。さもなければ、追放した者、亡命した者はただの無駄となるからである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I thought Soroboreans were supposed to have absolute faith in their leadership?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T122338Z" creationid="pugnus" creationdate="20190417T100018Z">
@@ -63171,6 +63179,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is like us too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T102551Z" creationid="pugnus" creationdate="20190422T102551Z">
+        <seg>これも、我らの考えに近い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is my punishment, and I will shoulder it however I can, until I die.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004818Z" creationid="seto" creationdate="20190413T004813Z">
@@ -63544,6 +63560,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103119Z" creationid="pugnus" creationdate="20190406T010320Z">
         <seg>青の議会からの刺客は、私を瀕死の重傷にまで打ち負かし、そして囚人たちを虐殺した...エラットは間違いなく動揺するだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those who break the law, and their descendants, are put to work to repay the debt, however many generations is takes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T102858Z" creationid="pugnus" creationdate="20190422T102858Z">
+        <seg>犯罪者とその子孫たちは、贖罪の返済を何世代にもわたり行っています。</seg>
       </tuv>
     </tu>
     <tu>
