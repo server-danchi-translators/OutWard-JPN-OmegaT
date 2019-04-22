@@ -30231,6 +30231,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I may have angered a faction within the Giants to do it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T012221Z" creationid="pugnus" creationdate="20190422T012221Z">
+        <seg>私は、この任務を成功させるため、巨人たちの中の派閥を怒らせてしまったかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I may have something for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T041748Z">
@@ -31327,6 +31335,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="kei" changedate="20190404T101304Z" creationid="kei" creationdate="20190404T101233Z">
         <seg>今向かっているところだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm proud of you, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T012008Z" creationid="pugnus" creationdate="20190422T012008Z">
+        <seg>[PlayerName]、あなたは私の誇りです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62005,8 +62021,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This was a long shot at best, and you succeeded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T011915Z" creationid="pugnus" creationdate="20190422T011915Z">
-        <seg>これは本当に難しい任務でした。そしてあなたはそれを成功した。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T011943Z" creationid="pugnus" creationdate="20190422T011915Z">
+        <seg>これは本当に難しい任務でした。あなたはそれを成功させた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68089,6 +68105,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T173709Z" creationid="taman" creationdate="20190419T173709Z">
         <seg>そりゃあよかった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You've come a long way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T012101Z" creationid="pugnus" creationdate="20190422T012101Z">
+        <seg>あなたは困難な道を、乗り越えてきてくれました。</seg>
       </tuv>
     </tu>
     <tu>
