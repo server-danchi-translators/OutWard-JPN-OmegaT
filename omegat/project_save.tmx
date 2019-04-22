@@ -31723,6 +31723,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm here to learn about your people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T081417Z" creationid="pugnus" creationdate="20190422T081417Z">
+        <seg>私はあなた方について学ぶために来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm impressed, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035415Z" creationid="rkmad" creationdate="20190405T035415Z">
