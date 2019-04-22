@@ -27924,6 +27924,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He is an exile now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T033734Z" creationid="pugnus" creationdate="20190422T033734Z">
+        <seg>彼は今、亡命者です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He is incredibly valuable to the Collective, and his health is not what it used to be.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045305Z" creationid="magur0w" creationdate="20190404T183257Z">
@@ -32635,6 +32643,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T142724Z" creationid="Mad" creationdate="20190407T142724Z">
         <seg>それまでの間に……そうですね。私は、あなたが聖なる使命の１つ目の教義を理解していることを証明してほしいと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In twenty years, he can come back and beg for forgiveness from Dusk Father or Dawn Weaver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T033957Z" creationid="pugnus" creationdate="20190422T033957Z">
+        <seg>「夕暮れの父」と「夜明けの織り手」に許してもらえるよう頼むまでには、２０年の月日が必要だよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65722,6 +65738,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170813Z" creationid="weedssoul" creationdate="20190405T163346Z">
         <seg>何が起きた？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happens to Cyr now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T033752Z" creationid="pugnus" creationdate="20190422T033710Z">
+        <seg>シリに何があったのですか？</seg>
       </tuv>
     </tu>
     <tu>
