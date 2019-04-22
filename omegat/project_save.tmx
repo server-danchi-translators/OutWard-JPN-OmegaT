@@ -21530,6 +21530,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dusk Father not pleased.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T110219Z" creationid="pugnus" creationdate="20190422T110219Z">
+        <seg>「夕暮れの父」は喜んではおられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>E</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095059Z" creationid="seto" creationdate="20190410T095059Z">
@@ -42040,6 +42048,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071125Z" creationid="hiru4" creationdate="20190403T071125Z">
         <seg>指定された名前のゲームは見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No life survive past death, only porcelain and ash-silk does.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T110335Z" creationid="pugnus" creationdate="20190422T110335Z">
+        <seg>死より生き残ることはできないのだ。磁器とアッシュシルクだけが生き残るのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69229,6 +69245,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100424Z" creationid="はぐくみ会" creationdate="20190403T112333Z">
         <seg>何時間も意識の外で彷徨い、やっと私は立ち直ることができた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You humans bow to fake tricks and empty god!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T110505Z" creationid="pugnus" creationdate="20190422T110505Z">
+        <seg>小さきヒトにあるものは、偽のたくらみと、空虚な神しかないのか！</seg>
       </tuv>
     </tu>
     <tu>
