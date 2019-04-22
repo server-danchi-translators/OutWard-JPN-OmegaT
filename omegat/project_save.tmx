@@ -14678,6 +14678,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can I buy your goods?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021325Z" creationid="pugnus" creationdate="20190422T021325Z">
+        <seg>あなたの商品を見せてもらえますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can I come along?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123849Z" creationid="Light" creationdate="20190407T123849Z">
@@ -25876,6 +25884,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good luck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021126Z" creationid="pugnus" creationdate="20190422T021126Z">
+        <seg>幸運をいのるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good work, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T114459Z" creationid="taman" creationdate="20190414T114459Z">
@@ -27868,6 +27884,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He is very traditional.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021243Z" creationid="pugnus" creationdate="20190422T021243Z">
+        <seg>シリは、とっても伝統的な巨人だからねぇ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He is... a lot less formal than I expected.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T134700Z" creationid="Mad" creationdate="20190407T134637Z">
@@ -29530,6 +29554,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T085732Z" creationid="pugnus" creationdate="20190417T085732Z">
         <seg>私はこの会議に期待していない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I do not think he is interested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021212Z" creationid="pugnus" creationdate="20190422T021212Z">
+        <seg>シリは、同盟には興味なさそうだと思うよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34318,6 +34350,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045814Z" creationid="pugnus" creationdate="20190406T081205Z">
         <seg>この攻撃を担当しているのは、レバントのように見受けられる、または、すくなくともレバント内の派閥だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It makes me happy to see the silver come in, and the goods go out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021436Z" creationid="pugnus" creationdate="20190422T021436Z">
+        <seg>商品は消え、銀は増える。そして私は喜ぶ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -67161,6 +67201,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112454Z">
         <seg>ズームで遠くの敵にも射撃できるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T021337Z" creationid="pugnus" creationdate="20190422T021337Z">
+        <seg>どうぞどうぞ！</seg>
       </tuv>
     </tu>
     <tu>
