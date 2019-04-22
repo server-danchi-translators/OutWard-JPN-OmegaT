@@ -27516,6 +27516,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Haloo there my little friend!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020343Z" creationid="pugnus" creationdate="20190422T020343Z">
+        <seg>こんにちは、私の小さな友達よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Halt, state your business!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T043434Z" creationid="Mad" creationdate="20190407T043434Z">
@@ -30475,6 +30483,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190409T061209Z" creationid="magur0w" creationdate="20190404T164327Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;キミ一人で青の議会に足を運んでもらう必要があるんだ。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need you to be ready when the time comes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020302Z" creationid="pugnus" creationdate="20190422T020302Z">
+        <seg>時が来たら、すぐ動けるように準備をしていてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64701,6 +64717,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to our outpost!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020418Z" creationid="pugnus" creationdate="20190422T020418Z">
+        <seg>私たちの前哨基地へようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to your new home, my friend.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035210Z" creationid="seto" creationdate="20190420T035210Z">
@@ -65074,6 +65098,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011139Z" creationid="rkmad" creationdate="20190404T010700Z">
         <seg>おい、囚人。お前、手は空いているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can I do to make us both happy, hmmmm?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T020528Z" creationid="pugnus" creationdate="20190422T020528Z">
+        <seg>何をすれば、私たち二人を幸せにできるかな？ hmmmm?</seg>
       </tuv>
     </tu>
     <tu>
