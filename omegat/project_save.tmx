@@ -30871,6 +30871,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wasn't expecting success, but I was expecting better than this [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T013936Z" creationid="pugnus" creationdate="20190422T013936Z">
+        <seg>[PlayerName]、私はあなたに成功は期待していなかった。しかし、この状態よりは良いことを期待していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I wasn't expecting you!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155131Z" creationid="taman" creationdate="20190414T155131Z">
@@ -58123,6 +58131,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Still, I can't say I'm surprised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T014017Z" creationid="pugnus" creationdate="20190422T014017Z">
+        <seg>それでも、私は驚いたとは、言えません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Still, thanks for coming.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155856Z" creationid="taman" creationdate="20190414T155856Z">
@@ -61373,6 +61389,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T061615Z" creationid="Light" creationdate="20190408T061615Z">
         <seg>3人から、あなたも一緒に来るように頼まれたのよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are Giants, after all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T014059Z" creationid="pugnus" creationdate="20190422T014059Z">
+        <seg>結局のところ、彼らは巨人なのです。</seg>
       </tuv>
     </tu>
     <tu>
