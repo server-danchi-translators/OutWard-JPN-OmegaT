@@ -11682,6 +11682,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as not causing major problems for other tribes, we is not in trouble?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093500Z" creationid="pugnus" creationdate="20190422T093500Z">
+        <seg>他の部族に大きな問題を引き起こすことがなければ、問題と取られないのであるな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As soon as the mourning period is over, though, I'm leaving.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T165313Z">
@@ -15320,8 +15328,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Chamberlords can rule their lands as they choose, although most follow our Tribal Laws.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T093112Z" creationid="pugnus" creationdate="20190422T093112Z">
-        <seg>ある程度、法律を守る必要はあります。ですが、上院議員は自分の土地を、自分で選択しながら支配できます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093159Z" creationid="pugnus" creationdate="20190422T093112Z">
+        <seg>ある程度、法律を守る必要はあります。ですが、上院議員は自分の土地を、自分が舵を取りながら支配できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55728,6 +55736,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So... tribe laws just recommendation?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093354Z" creationid="pugnus" creationdate="20190422T093354Z">
+        <seg>ふむ...青の議会の法律は、勧告のみであるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soeran</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115530Z" creationid="Gaiden Shinji" creationdate="20190404T115530Z">
@@ -62663,6 +62679,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022850Z" creationid="taman" creationdate="20190413T171412Z">
         <seg>シエルゾのゴーストパスを抜けると谷がありますが、その場所で部族を守るため不死者と化した彼らの姿が目撃されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They've kept us alive for the past thousand years.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T093250Z" creationid="pugnus" creationdate="20190422T093250Z">
+        <seg>青の議会は、１０００年間続いているのです。</seg>
       </tuv>
     </tu>
     <tu>
