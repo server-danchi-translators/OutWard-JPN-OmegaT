@@ -21034,6 +21034,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discarded Orders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120813Z" creationid="pugnus" creationdate="20190422T120813Z">
+        <seg>廃棄された注文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discarded Reprimand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120905Z" creationid="pugnus" creationdate="20190422T120905Z">
+        <seg>廃棄された叱責</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132125Z" creationid="hiru4" creationdate="20190403T060356Z">
@@ -25524,6 +25540,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghost of Vanasse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120620Z" creationid="pugnus" creationdate="20190422T120620Z">
+        <seg>太古の幽霊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giant Book</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115946Z" creationid="Gaiden Shinji" creationdate="20190404T115946Z">
@@ -26448,6 +26472,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022357Z" creationid="hiru4" creationdate="20190402T022357Z">
         <seg>草の密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greasy Fern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120705Z" creationid="pugnus" creationdate="20190422T120705Z">
+        <seg>アブラシダ</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,6 +37320,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214347Z" creationid="seto" creationdate="20190404T214347Z">
         <seg>Kirouac_NEUT_Initial_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Krimp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120731Z" creationid="pugnus" creationdate="20190422T120731Z">
+        <seg>収縮</seg>
       </tuv>
     </tu>
     <tu>
@@ -61414,6 +61454,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Butcher of Men</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120644Z" creationid="pugnus" creationdate="20190422T120644Z">
+        <seg>男の肉屋さん</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Chamberlady, Rissa Aberdeen is usually in her manor on top of the hill when she’s staying in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T161831Z">
@@ -61466,6 +61514,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="taman" creationdate="20190414T114406Z">
         <seg>ケルソネソスの大地に巣くう瘴気は浄化されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The First Cannibal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120553Z" creationid="pugnus" creationdate="20190422T120553Z">
+        <seg>最初の人食い</seg>
       </tuv>
     </tu>
     <tu>
