@@ -10665,6 +10665,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alpha Tuanosaur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120113Z" creationid="pugnus" creationdate="20190422T120113Z">
+        <seg>アルファ・トゥアノサウルス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Already better!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133246Z" creationid="taman" creationdate="20190421T124704Z">
@@ -11294,6 +11302,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
         <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶにはwaterskinが必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animated Skeleton</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120145Z" creationid="pugnus" creationdate="20190422T120145Z">
+        <seg>アニメイテッド・スケルトン</seg>
       </tuv>
     </tu>
     <tu>
@@ -38116,6 +38132,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mad Captain’s Bones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120210Z" creationid="pugnus" creationdate="20190422T120210Z">
+        <seg>気狂いキャプテンの骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Madness!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T100557Z" creationid="pugnus" creationdate="20190422T100557Z">
@@ -45858,6 +45882,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T001555Z" creationid="pugnus" creationdate="20190411T001555Z">
         <seg>パールバード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pearlbird Cutthroat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120241Z" creationid="pugnus" creationdate="20190422T120241Z">
+        <seg>首切りパールバード</seg>
       </tuv>
     </tu>
     <tu>
@@ -61518,6 +61550,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Royal Manticore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120305Z" creationid="pugnus" creationdate="20190422T120305Z">
+        <seg>ロイヤルマンティコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Scourge Beast within is still alive, endlessly tortured by the spirits of those it killed, the monster's pain a warning to keep other Scourge Beasts far, far away from Monsoon...)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T171405Z" creationid="taman" creationdate="20190410T053832Z">
@@ -66674,6 +66714,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T100050Z" creationid="pugnus" creationdate="20190417T100050Z">
         <seg>まぁ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wendigo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120124Z" creationid="pugnus" creationdate="20190422T120124Z">
+        <seg>ウェンディゴ</seg>
       </tuv>
     </tu>
     <tu>
