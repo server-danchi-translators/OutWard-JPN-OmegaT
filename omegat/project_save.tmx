@@ -235,6 +235,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Use the knowledge you got from the Holy Mission to defuse the situation)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T104356Z" creationid="pugnus" creationdate="20190422T104356Z">
+        <seg>(神聖伝道団から得た知識を使用し、状況を打開する)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You close Balthazar’s eyes and move on.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T090400Z" creationid="pugnus" creationdate="20190415T090329Z">
@@ -28248,6 +28256,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021923Z" creationid="pugnus" creationdate="20190422T021923Z">
         <seg>彼は同盟を交渉するために、私に数日で戻ってくるように言いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He was a hero who stopped the "Earth Beasts" by making the Light Ray above Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T104820Z" creationid="pugnus" creationdate="20190422T104820Z">
+        <seg>エラットは光線をモンスーンの上空に作り出し「大地の獣」を阻止した英雄でした。</seg>
       </tuv>
     </tu>
     <tu>
