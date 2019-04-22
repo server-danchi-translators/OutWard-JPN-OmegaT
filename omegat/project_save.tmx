@@ -34882,6 +34882,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It means you and your giants become part of the Collective, all of us work together and consult each other for major decisions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092136Z" creationid="pugnus" creationdate="20190422T092136Z">
+        <seg>それは、あなたたち巨人が、青の議会の一部になることを意味します。私たち全員が一緒に働き、主要な決断について相談しあうのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It means you become a chamberlord, helping decide on important issues that affect all the tribes.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T091033Z" creationid="pugnus" creationdate="20190422T091033Z">
@@ -55592,6 +55600,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So I should trust that humans care about what Ashborn need?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092308Z" creationid="pugnus" creationdate="20190422T092308Z">
+        <seg>小さきヒトが、我らアッシュボーンの求めるものを気に掛けてくれていると...信じろとでも？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So it's not just me...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T062724Z" creationid="taman" creationdate="20190411T062724Z">
@@ -62787,6 +62803,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This give me much power, but not too much more work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092003Z" creationid="pugnus" creationdate="20190422T092003Z">
+        <seg>これは我に多くの力を与えるが、多くの仕事が増えるわけではないようであるな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This half-life isn't too much, but it's all I've got!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T122435Z" creationid="taman" creationdate="20190421T122435Z">
@@ -62863,6 +62887,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004818Z" creationid="seto" creationdate="20190413T004813Z">
         <seg>これが俺の罰で、俺がやんなきゃなんねぇことだ。死ぬまでな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is not bad.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T092014Z" creationid="pugnus" creationdate="20190422T092014Z">
+        <seg>悪くは無かろう。</seg>
       </tuv>
     </tu>
     <tu>
