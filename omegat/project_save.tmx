@@ -14661,6 +14661,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But when there is a council meeting, you should come to Berg to help decide on matters that affect all the tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T091545Z" creationid="pugnus" creationdate="20190422T091545Z">
+        <seg>しかし、青の議会の会議があるときは、ベルクに来てください。すべての部族に影響を与える問題について、決定しなければならないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But with the shipwreck...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164247Z" creationid="Light" creationdate="20190405T164247Z">
@@ -30675,6 +30683,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T023022Z" creationid="pugnus" creationdate="20190422T023022Z">
         <seg>それで、話すようになったのさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I like this respect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T091332Z" creationid="pugnus" creationdate="20190422T091332Z">
+        <seg>我への尊敬か。悪くないのである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69288,6 +69304,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T062834Z" creationid="pugnus" creationdate="20190418T062834Z">
         <seg>あなたは、彼らの文化を理解する必要があるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will still rule here as you please.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T091430Z" creationid="pugnus" creationdate="20190422T091430Z">
+        <seg>あなたは、この地をあなたが望むように統治することができます。</seg>
       </tuv>
     </tu>
     <tu>
