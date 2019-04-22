@@ -21524,8 +21524,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Dusk Father accepts this human foolishness, it is no harm to him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T105111Z" creationid="pugnus" creationdate="20190422T105104Z">
-        <seg>「夕暮れの父」は、小さきヒトたちの愚かさを許し、受け入れよう。小さきヒトは害を及ぼさない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T105412Z" creationid="pugnus" creationdate="20190422T105104Z">
+        <seg>「夕暮れの父」は、小さきヒトたちの愚かさを許し、受け入れよう。そなたらは害を及ぼさない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32531,6 +32531,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="Light" creationdate="20190408T063253Z">
         <seg>これが厄介に感じるなら、ケルソネソスから向かうことね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this true, then maybe hope for humans not to ruin this world, like we lost ours.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T105455Z" creationid="pugnus" creationdate="20190422T105405Z">
+        <seg>この話が本当であれば...我らが我らを失ったように、小さきヒトがこの世を滅ぼさないことを祈る。</seg>
       </tuv>
     </tu>
     <tu>
