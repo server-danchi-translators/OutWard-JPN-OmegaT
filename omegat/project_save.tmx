@@ -21050,6 +21050,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discarded Threat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120945Z" creationid="pugnus" creationdate="20190422T120945Z">
+        <seg>廃棄された脅威</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discarded Warning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T120926Z" creationid="pugnus" creationdate="20190422T120926Z">
+        <seg>廃棄された警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132125Z" creationid="hiru4" creationdate="20190403T060356Z">
@@ -29252,6 +29268,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hole</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T121038Z" creationid="pugnus" creationdate="20190422T121038Z">
+        <seg>穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hollowed Lotus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111219Z" creationid="Gaiden Shinji" creationdate="20190404T111219Z">
@@ -33163,6 +33187,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114953Z" creationid="Gaiden Shinji" creationdate="20190403T114953Z">
         <seg>穢れなき洞窟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Immaculate's Orders</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T121032Z" creationid="pugnus" creationdate="20190422T121032Z">
+        <seg>穢れなき注文</seg>
       </tuv>
     </tu>
     <tu>
@@ -42408,6 +42440,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141048Z" creationid="seto" creationdate="20190415T141048Z">
         <seg>None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nosy Customer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T121209Z" creationid="pugnus" creationdate="20190422T121209Z">
+        <seg>お節介やきの顧客</seg>
       </tuv>
     </tu>
     <tu>
@@ -55443,6 +55483,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114903Z" creationid="seto" creationdate="20190404T114903Z">
         <seg>ShivSlave_Vendavel_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shocked Customer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T121114Z" creationid="pugnus" creationdate="20190422T121114Z">
+        <seg>衝撃を受けた顧客</seg>
       </tuv>
     </tu>
     <tu>
