@@ -19094,6 +19094,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Criminals are either exiled, or must repay the tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T102521Z" creationid="pugnus" creationdate="20190422T102521Z">
+        <seg>犯罪者は追放されるか、部族に返済をしなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crock</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114034Z" creationid="Gaiden Shinji" creationdate="20190404T114034Z">
@@ -61090,6 +61098,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T060500Z" creationid="pugnus" creationdate="20190416T060500Z">
         <seg>青の議会は私たちの主張を認めるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Blue Chamber believes that we must avoid killing unless it is necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T102427Z" creationid="pugnus" creationdate="20190422T102427Z">
+        <seg>青の議会は、必要な場合を除いては殺害を避けるべきだと考えています。</seg>
       </tuv>
     </tu>
     <tu>
