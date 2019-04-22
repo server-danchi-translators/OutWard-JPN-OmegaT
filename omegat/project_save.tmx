@@ -29502,6 +29502,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am glad you came to visit!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061354Z" creationid="pugnus" creationdate="20190422T061345Z">
+        <seg>君が訪ねてきて、嬉しいよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am not the best teacher for this...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031905Z" creationid="pugnus" creationdate="20190422T031905Z">
@@ -30122,6 +30130,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T143119Z" creationid="Mad" creationdate="20190407T143119Z">
         <seg>私は枢機卿として、管理せねばならぬことが無数にあるのです。申し訳ないが、重要なことでなければあまり声をかけないで頂ければと思います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have always wanted to see it with my own eyes, someday!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061223Z" creationid="pugnus" creationdate="20190422T061216Z">
+        <seg>砂漠地方の品物を、いつか見たいと思ってたんだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -62319,6 +62335,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T143502Z" creationid="weedssoul" creationdate="20190406T143434Z">
         <seg>武器に使うと、氷属性を付与する濃度の高い液体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Things are doing ok here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061303Z" creationid="pugnus" creationdate="20190422T061303Z">
+        <seg>すべてうまくいってるよ。</seg>
       </tuv>
     </tu>
     <tu>
