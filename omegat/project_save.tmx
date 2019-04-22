@@ -8930,8 +8930,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>A human, in my village?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T062211Z" creationid="pugnus" creationdate="20190422T062211Z">
-        <seg>私の村にいる人間？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T063002Z" creationid="pugnus" creationdate="20190422T062211Z">
+        <seg>私の村に、人間が？</seg>
       </tuv>
     </tu>
     <tu>
@@ -32479,6 +32479,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you visit, speak only to Gold Belly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T063104Z" creationid="pugnus" creationdate="20190422T063104Z">
+        <seg>ここに訪問するときは、ゴールドベリーとだけ話すのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want specifics, ask Burac, our gate warden.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035448Z" creationid="Light" creationdate="20190405T162341Z">
@@ -36856,6 +36864,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095542Z" creationid="Light" creationdate="20190409T095542Z">
         <seg>議会を去る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave the rest of my people alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T063212Z" creationid="pugnus" creationdate="20190422T063212Z">
+        <seg>他の者と、言葉を交わすことは許さん。</seg>
       </tuv>
     </tu>
     <tu>
