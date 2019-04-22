@@ -30520,8 +30520,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I hear human worship other human named Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T103719Z" creationid="pugnus" creationdate="20190422T103719Z">
-        <seg>我は小さきヒトが崇拝する、「エラット」という名前を聞いたことがあるぞ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T104018Z" creationid="pugnus" creationdate="20190422T103719Z">
+        <seg>我は小さきヒトが崇拝する、「エラット」というニンゲンの名前を聞いたことがあるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41984,6 +41984,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071125Z" creationid="hiru4" creationdate="20190403T071125Z">
         <seg>指定された名前のゲームは見つかりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No living thing can be a god!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T104258Z" creationid="pugnus" creationdate="20190422T104258Z">
+        <seg>生きている者が、神になることはできるはずがないのに！</seg>
       </tuv>
     </tu>
     <tu>
