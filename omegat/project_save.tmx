@@ -63067,6 +63067,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is chaos, but at least it is controlled chaos.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T100202Z" creationid="pugnus" creationdate="20190422T100202Z">
+        <seg>混沌としているようにも見えるが、制御された混沌でもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is dreadful news!</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183928Z" creationid="magur0w" creationdate="20190404T183928Z">
@@ -65665,6 +65673,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T064315Z" creationid="pugnus" creationdate="20190406T064315Z">
         <seg>これから数か月の間に集めることができる、すべての同盟国が必要になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will not do this, but if it works for humans, I say let them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T100413Z" creationid="pugnus" creationdate="20190422T100413Z">
+        <seg>我らのやりかたではない、しかし、小さきヒトのためになるのならば、我らの民にも理解させよう。</seg>
       </tuv>
     </tu>
     <tu>
