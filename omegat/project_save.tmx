@@ -29208,8 +29208,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>How do you handle government here?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T023634Z" creationid="pugnus" creationdate="20190422T023634Z">
-        <seg>この場所で、どうやってあなたは政治を行っているのですか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T040606Z" creationid="pugnus" creationdate="20190422T023634Z">
+        <seg>この場所で、どうやってあなたは取引を行っているのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -31147,6 +31147,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214322Z" creationid="rkmad" creationdate="20190404T092439Z">
         <seg>私の血の代償について話がしたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I want to trade with all people and all cities, but he tell me I can only sell to people who come here, and there are not many that do!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T041151Z" creationid="pugnus" creationdate="20190422T041151Z">
+        <seg>私は、すべての人々と、すべての町と取引をしたいのに...シリが、「この場所」に来るヒトとしか取引をしてはいけないと言った。ここにはとても、少ないヒトしか来ないのに！</seg>
       </tuv>
     </tu>
     <tu>
@@ -48568,8 +48576,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Position is decided at birth by the two heads of Giant government.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T024116Z" creationid="pugnus" creationdate="20190422T024116Z">
-        <seg>産まれたときに、巨人の政府の二人の長によって、地位が決められるんだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T040624Z" creationid="pugnus" creationdate="20190422T024116Z">
+        <seg>産まれたときに、巨人の政府の二人の長によって、地位が決められるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61723,8 +61731,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There is the Highmonk who serves Dusk Father, and is master of the porcelain arts, and there is the Highlord, who serves Dawn Weaver and is master of the Ash-Silk.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T030329Z" creationid="pugnus" creationdate="20190422T025446Z">
-        <seg>上級王は「夜明けの織り手」に仕えて、織物の達人。アッシュシルクって織物は有名だよ。そして、上級僧は「夕暮れの父」に仕えて、陶芸の達人なんだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T040638Z" creationid="pugnus" creationdate="20190422T025446Z">
+        <seg>上級王は「夜明けの織り手」に仕えて、織物の達人。アッシュシルクって織物は有名だよ。そして、上級僧は「夕暮れの父」に仕えて、陶芸の達人。</seg>
       </tuv>
     </tu>
     <tu>
