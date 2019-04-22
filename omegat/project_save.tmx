@@ -30064,8 +30064,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I have to notice...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T022756Z" creationid="pugnus" creationdate="20190422T022756Z">
-        <seg>私は気付くべきです...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T023500Z" creationid="pugnus" creationdate="20190422T022756Z">
+        <seg>私は気付くべきでした...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37472,6 +37472,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T012617Z" creationid="hiru4" creationdate="20190403T012617Z">
         <seg>マニュアルレシピにより、モンスターの部位を使って新しい武器の製造レシピの発見が可能.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many are very embarrassed by it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T023511Z" creationid="pugnus" creationdate="20190422T023304Z">
+        <seg>他の多くの者は、言葉の壁に非常に困っているよ。</seg>
       </tuv>
     </tu>
     <tu>
