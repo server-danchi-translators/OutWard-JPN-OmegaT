@@ -8680,6 +8680,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Do not keep him waiting too much.&lt;/b&gt;&lt;/color&gt; The Ashborn are very patient, but you do not wish to press us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T022327Z" creationid="pugnus" creationdate="20190422T022327Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;決して彼を待たせすぎてはいけないよ。&lt;/b&gt;&lt;/color&gt; The Ashborn are very patient, but you do not wish to press us.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Follow them through the tunnel&lt;/b&gt;&lt;/color&gt;, and turn Enmerkar upside down until you bring &lt;color=#00CCFF&gt;&lt;b&gt;Rissa home safely&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T054825Z" creationid="pugnus" creationdate="20190415T054514Z">
@@ -10974,6 +10982,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163123Z">
         <seg>それから、魔法に興味があるならレイラインという場所がコンフラックス山の麓にある。 この地域の中央にある大きな紫色の山さ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And maybe I will finally be rich!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T022141Z" creationid="pugnus" creationdate="20190422T022141Z">
+        <seg>そして、私は大金持ちだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -42770,6 +42786,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124550Z" creationid="weedssoul" creationdate="20190406T124550Z">
         <seg>ああ、あと気をつけてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, and it would be nice for humans to start to appreciate our culture, too, of course.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T022237Z" creationid="pugnus" creationdate="20190422T022237Z">
+        <seg>あぁ、そしてもちろん、人間が私たちの文化を理解し始めるのも、いいことだ。</seg>
       </tuv>
     </tu>
     <tu>
