@@ -34410,8 +34410,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It is &lt;color=#00CCFF&gt;&lt;b&gt;North-East, across a long stone bridge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T032618Z" creationid="pugnus" creationdate="20190422T032618Z">
-        <seg>古い貯蔵庫は、&lt;color=#00CCFF&gt;&lt;b&gt;北東だね、長い石の橋を渡るよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032741Z" creationid="pugnus" creationdate="20190422T032618Z">
+        <seg>古い貯蔵庫は、&lt;color=#00CCFF&gt;&lt;b&gt;北東だね、長い石の橋を渡って...</seg>
       </tuv>
     </tu>
     <tu>
@@ -63980,6 +63980,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very good work, my friend!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032927Z" creationid="pugnus" creationdate="20190422T032918Z">
+        <seg>本当に、とても、よくやったね！友達よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Very well, come back once you have something.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T174748Z" creationid="magur0w" creationdate="20190404T174748Z">
@@ -66633,6 +66641,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With this alliance, I will get all kinds of new and special goods here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T033036Z" creationid="pugnus" creationdate="20190422T033036Z">
+        <seg>この同盟で、私はあらゆる種類の、最新式の、特別で素敵な商品を手に入れるよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Without it, we would be ruled by revenge and mob rule.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T162010Z">
@@ -67598,6 +67614,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You changed Cyr’s mind!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032841Z" creationid="pugnus" creationdate="20190422T032841Z">
+        <seg>君がシリの考えを変えたなんて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You choose what to do and where to go.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T032353Z">
@@ -67658,6 +67682,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T073520Z" creationid="pugnus" creationdate="20190406T073520Z">
         <seg>あなたは攻撃者たちの頭領を倒し、彼らに奪われた人質を探し出した。あなたは素晴らしい仕事をしたのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You did it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032804Z" creationid="pugnus" creationdate="20190422T032804Z">
+        <seg>やったね！</seg>
       </tuv>
     </tu>
     <tu>
