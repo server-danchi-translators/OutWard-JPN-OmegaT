@@ -302,8 +302,8 @@
       <tuv lang="EN-US">
         <seg>...</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T154828Z" creationid="setom" creationdate="20190402T095307Z">
-        <seg>……</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T030823Z" creationid="setom" creationdate="20190402T095307Z">
+        <seg>......</seg>
       </tuv>
     </tu>
     <tu>
@@ -27972,6 +27972,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He speaks for the Dawn Weaver, who weaved the fabric of Ashborn society, and so he decides what is part of Ashborn society, and what is not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T030813Z" creationid="pugnus" creationdate="20190422T030813Z">
+        <seg>「夜明けの織り手」は私たちアッシュボーンの社会を織り込み、作り上げた。だから、上級王はアッシュボーン社会の一部であるものと、そうでないものを決定する権力を持っているよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He told me to come back in a few days to negotiate it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021923Z" creationid="pugnus" creationdate="20190422T021923Z">
@@ -31075,6 +31083,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121603Z" creationid="Light" creationdate="20190407T121603Z">
         <seg>俺はLevantineの夢を追いかけ、それを俺自身のものにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will let you in on a secret, human.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T030939Z" creationid="pugnus" creationdate="20190422T030939Z">
+        <seg>私は君のことを誰にも言わないさ。小さきヒトよ。</seg>
       </tuv>
     </tu>
     <tu>
