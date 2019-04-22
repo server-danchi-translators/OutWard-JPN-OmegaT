@@ -30374,6 +30374,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope you brought many useful goods from there!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061134Z" creationid="pugnus" creationdate="20190422T061134Z">
+        <seg>私は、君がそこから沢山の役に立つ品物を持ってきたんじゃないかと思ってるよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I insist!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052338Z" creationid="Mad" creationdate="20190407T052338Z">
@@ -68321,6 +68329,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must be from from desert city!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T061036Z" creationid="pugnus" creationdate="20190422T061036Z">
+        <seg>砂漠の町から来たんだろう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must be part of the Blue Chamber to learn this skill.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132022Z" creationid="hiru4" creationdate="20190403T052506Z">
@@ -68629,6 +68645,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103711Z" creationid="pugnus" creationdate="20190404T101525Z">
         <seg>怪我から回復したら、女王と話すべきだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You smell like sands!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T060943Z" creationid="pugnus" creationdate="20190422T060943Z">
+        <seg>君は砂のような匂いがするね！</seg>
       </tuv>
     </tu>
     <tu>
