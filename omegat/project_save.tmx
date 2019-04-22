@@ -8746,8 +8746,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;So we put it in the old storage shed.&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T032349Z" creationid="pugnus" creationdate="20190422T032349Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;だから、その本は古い貯蔵庫にしまってあるよ。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032441Z" creationid="pugnus" creationdate="20190422T032349Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;だから、その本は古い貯蔵庫にしまったままだよ。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34408,6 +34408,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is &lt;color=#00CCFF&gt;&lt;b&gt;North-East, across a long stone bridge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032618Z" creationid="pugnus" creationdate="20190422T032618Z">
+        <seg>古い貯蔵庫は、&lt;color=#00CCFF&gt;&lt;b&gt;北東だね、長い石の橋を渡るよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a good thing to understand your boundaries.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T043942Z">
@@ -34575,6 +34583,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190403T075548Z">
         <seg>可能であればキャンプファイヤーで沸騰させ、清潔な水にしてから飲むべきだろう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be not too far from the village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032518Z" creationid="pugnus" creationdate="20190422T032518Z">
+        <seg>この村からそう離れていないよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61525,6 +61541,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T113108Z" creationid="magur0w" creationdate="20190404T113108Z">
         <seg>この評議会で議論されている2つの主要な問題がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a big stone building on an island in the swamp&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T032719Z" creationid="pugnus" creationdate="20190422T032719Z">
+        <seg>沼の島に、石造りの建物があるよ。小さきヒトには大きな建物かな？&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
