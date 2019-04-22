@@ -28694,8 +28694,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Highlord Cyr is not very....</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T031048Z" creationid="pugnus" creationdate="20190422T031048Z">
-        <seg>上級王シリはきっと....</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031453Z" creationid="pugnus" creationdate="20190422T031048Z">
+        <seg>上級王シリはアレがないよ....アレが...アレ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -66830,6 +66830,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T063622Z" creationid="taman" creationdate="20190409T063622Z">
         <seg>そのとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, he is not popular with most of our people here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T031349Z" creationid="pugnus" creationdate="20190422T031349Z">
+        <seg>そうそう、人気。シリはここで、ほとんどのアッシュボーンから人気がないよ。</seg>
       </tuv>
     </tu>
     <tu>
