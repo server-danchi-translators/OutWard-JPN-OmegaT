@@ -12124,6 +12124,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au, so that is why they stopped coming near out city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113351Z" creationid="pugnus" creationdate="20190422T113351Z">
+        <seg>おぉ、そのクリスタルは確かに寄せ付けていないようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Au, you from human marsh city!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T041313Z" creationid="pugnus" creationdate="20190422T041313Z">
@@ -62589,6 +62597,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T053734Z" creationid="hiru4" creationdate="20190403T053734Z">
         <seg>{1}のすべてを収納するスペースが不足</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is one protecting your village already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113241Z" creationid="pugnus" creationdate="20190422T113241Z">
+        <seg>すでにあなたの村を守っているヴィジャルクリスタルもあります。</seg>
       </tuv>
     </tu>
     <tu>
