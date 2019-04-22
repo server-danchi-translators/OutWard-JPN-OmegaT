@@ -12126,8 +12126,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Au, so that is why they stopped coming near out city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T113351Z" creationid="pugnus" creationdate="20190422T113351Z">
-        <seg>おぉ、そのクリスタルは確かに寄せ付けていないようだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113410Z" creationid="pugnus" creationdate="20190422T113351Z">
+        <seg>おぉ、そのクリスタルは確かに獣を寄せ付けていないようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35270,6 +35270,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T065000Z" creationid="weedssoul" creationdate="20190407T065000Z">
         <seg>体力の最大値を僅かに回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It seem you already do much for Ashborn about the Earth Beasts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113457Z" creationid="pugnus" creationdate="20190422T113457Z">
+        <seg>そなたらは既に、大地の獣から我らアッシュボーンを守っているのか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63655,6 +63663,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T154134Z">
         <seg>あの悲劇は、彼らのうち一人でも正常な判断ができれば、避けることができたのです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This very good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T113523Z" creationid="pugnus" creationdate="20190422T113523Z">
+        <seg>ふむ、とても良い。</seg>
       </tuv>
     </tu>
     <tu>
