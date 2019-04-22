@@ -8928,6 +8928,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A human, in my village?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T062211Z" creationid="pugnus" creationdate="20190422T062211Z">
+        <seg>私の村にいる人間？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lash from a whip stings your arm as you are ordered to run through the night.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T091822Z" creationid="はぐくみ会" creationdate="20190403T055856Z">
@@ -65706,6 +65714,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T030509Z" creationid="rkmad" creationdate="20190405T030509Z">
         <seg>議会では、あなたはどういった仕事をしているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What brings you before the Ashborn of the Marsh, little one?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T062736Z" creationid="pugnus" creationdate="20190422T062736Z">
+        <seg>アッシュボーンのマーシュの前には何があるかな？小さきヒトよ。</seg>
       </tuv>
     </tu>
     <tu>
