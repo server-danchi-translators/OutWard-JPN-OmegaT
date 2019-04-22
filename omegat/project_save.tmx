@@ -15294,6 +15294,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cause more problems than solve.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T103312Z" creationid="pugnus" creationdate="20190422T103312Z">
+        <seg>解決するよりも多くの問題をもたらすであろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Causes the Cripple status effect on the target.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T135403Z" creationid="Horizon" creationdate="20190403T135403Z">
@@ -55548,6 +55556,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T081604Z" creationid="Light" creationdate="20190407T081604Z">
         <seg>焼くことで食中毒の危険をなくした肉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Slaves get angry at treatment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T103213Z" creationid="pugnus" creationdate="20190422T103213Z">
+        <seg>奴隷は治療にすら腹を立てる。</seg>
       </tuv>
     </tu>
     <tu>
