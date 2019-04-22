@@ -30054,6 +30054,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have to notice...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T022756Z" creationid="pugnus" creationdate="20190422T022756Z">
+        <seg>私は気付くべきです...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have to stay with the tribe until the mourning period is over.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T164516Z">
@@ -66831,6 +66839,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062616Z" creationid="hiru4" creationdate="20190403T062616Z">
         <seg>咳をしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are far better at speaking our language than Cyr is.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T022910Z" creationid="pugnus" creationdate="20190422T022910Z">
+        <seg>あなたはシリよりも、遥かに私たちの言語を上手に話します。</seg>
       </tuv>
     </tu>
     <tu>
