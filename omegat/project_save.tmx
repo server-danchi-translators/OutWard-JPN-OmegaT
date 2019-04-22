@@ -14399,8 +14399,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But I am generous Ashborn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T084811Z" creationid="pugnus" creationdate="20190422T084811Z">
-        <seg>しかし、我はアッシュボーンである。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T084947Z" creationid="pugnus" creationdate="20190422T084811Z">
+        <seg>しかし...我はアッシュボーンである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31203,6 +31203,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T053814Z">
         <seg>部屋を貸してほしい。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I want good things for my people, and if I can get them from little humans by just talking and not with war, that will help my people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085316Z" creationid="pugnus" creationdate="20190422T085316Z">
+        <seg>我は我らの民のため、良い物が欲しい。そして、戦いではなく話し合うだけで、小さきヒトからそれらを得ることができるのであれば、それは我ら民も喜ぶであろうし、助かるであろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61781,6 +61789,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T131615Z" creationid="weedssoul" creationdate="20190406T131352Z">
         <seg>そして天罰は起きた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then maybe we can discuss this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T085024Z" creationid="pugnus" creationdate="20190422T085024Z">
+        <seg>我らは論議が必要である。</seg>
       </tuv>
     </tu>
     <tu>
