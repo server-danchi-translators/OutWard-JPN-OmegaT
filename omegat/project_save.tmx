@@ -29502,6 +29502,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am Highlord Cyr, the leader of this village.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T081646Z" creationid="pugnus" creationdate="20190422T081646Z">
+        <seg>私は、上級王シリだ。この村の長である。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am a Watcher of the Ley Line.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025109Z" creationid="seto" creationdate="20190407T025109Z">
@@ -29530,6 +29538,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T061354Z" creationid="pugnus" creationdate="20190422T061345Z">
         <seg>君が訪ねてきて、嬉しいよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am master of the sacred ash-silk weaving, I weave cloth as a prayer in the name of the Dawn Weaver and I teach this art to the other highborns.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T082236Z" creationid="pugnus" creationdate="20190422T082236Z">
+        <seg>私は、神聖な絹、アッシュシルクを織る達人である。私は、「夜明けの織り手」の名のもとに、祈りとして布を織る。そして、この芸術を他の「ハイボーン」に教えているのである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43186,6 +43202,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T022237Z" creationid="pugnus" creationdate="20190422T022237Z">
         <seg>あぁ、そしてもちろん、人間が私たちの文化を理解し始めるのも、いいことだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, another curious one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190422T081516Z" creationid="pugnus" creationdate="20190422T081516Z">
+        <seg>おぉ、好奇心が旺盛なのだな。</seg>
       </tuv>
     </tu>
     <tu>
