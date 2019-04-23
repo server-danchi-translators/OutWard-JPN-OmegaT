@@ -13901,6 +13901,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black Worker Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115037Z" creationid="pugnus" creationdate="20190423T115037Z">
+        <seg>黒き労働者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blacksmith's Hammer</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085631Z" creationid="pugnus" creationdate="20190423T034204Z">
@@ -20966,6 +20974,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Worker Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115055Z" creationid="pugnus" creationdate="20190423T115055Z">
+        <seg>闇の働き手の頭巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Ziggurat</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115144Z" creationid="Gaiden Shinji" creationdate="20190403T115144Z">
@@ -27280,6 +27296,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113651Z" creationid="Gaiden Shinji" creationdate="20190403T113651Z">
         <seg>グリーンマッシュルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green Worker Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115006Z" creationid="pugnus" creationdate="20190423T115006Z">
+        <seg>緑の労働者の衣装</seg>
       </tuv>
     </tu>
     <tu>
@@ -47322,6 +47346,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T071632Z" creationid="pugnus" creationdate="20190423T071632Z">
         <seg>開拓者の大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patterned Worker Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114938Z" creationid="pugnus" creationdate="20190423T114938Z">
+        <seg>柄付き労働者服</seg>
       </tuv>
     </tu>
     <tu>
@@ -70558,6 +70590,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042925Z" creationid="Light" creationdate="20190406T042925Z">
         <seg>仕事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worker Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115021Z" creationid="pugnus" creationdate="20190423T115021Z">
+        <seg>労働者のブーツ</seg>
       </tuv>
     </tu>
     <tu>
