@@ -16054,6 +16054,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chef Tenno</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014042Z" creationid="pugnus" creationdate="20190423T014042Z">
+        <seg>料理人テンノ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chef Tenno, in Levant, is looking for Shark Cartilage.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T061536Z" creationid="urakata" creationdate="20190406T115441Z">
@@ -22288,6 +22296,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T100200Z" creationid="pugnus" creationdate="20190409T030436Z">
         <seg>敵に見つかりにくくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Engineer Orsten</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014314Z" creationid="pugnus" creationdate="20190423T014314Z">
+        <seg>技術者オースティン</seg>
       </tuv>
     </tu>
     <tu>
@@ -55695,6 +55711,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopkeeper Suul</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014017Z" creationid="pugnus" creationdate="20190423T014017Z">
+        <seg>店主スール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should I know you?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T000619Z" creationid="pugnus" creationdate="20190416T234422Z">
@@ -60625,6 +60649,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035929Z" creationid="Gaiden Shinji" creationdate="20190404T120250Z">
         <seg>喋るドクロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tamara the Smuggler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014109Z" creationid="pugnus" creationdate="20190423T014109Z">
+        <seg>密輸業者タマラ</seg>
       </tuv>
     </tu>
     <tu>
