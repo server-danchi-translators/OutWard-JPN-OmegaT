@@ -29510,6 +29510,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Seller Myriam</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014916Z" creationid="pugnus" creationdate="20190423T014916Z">
+        <seg>家屋販売士ミリアム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How are you holding up?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T134835Z" creationid="weedssoul" creationdate="20190406T024530Z">
@@ -40756,6 +40764,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monsoon Guard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014854Z" creationid="pugnus" creationdate="20190423T014854Z">
+        <seg>モンスーンの衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monsoon Novice</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115244Z" creationid="Gaiden Shinji" creationdate="20190404T115244Z">
@@ -45856,8 +45872,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Ountz the Melon Farmer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T014807Z" creationid="pugnus" creationdate="20190423T014807Z">
-        <seg>メロン農家オンヅ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014839Z" creationid="pugnus" creationdate="20190423T014807Z">
+        <seg>メロン農家ウント</seg>
       </tuv>
     </tu>
     <tu>
@@ -55727,6 +55743,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shopkeeper Lyda</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014927Z" creationid="pugnus" creationdate="20190423T014927Z">
+        <seg>店主リダShopkeeper Lyda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shopkeeper Pleel</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035904Z" creationid="seto" creationdate="20190420T035904Z">
@@ -64828,6 +64852,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ture, Hunting Trainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015140Z" creationid="pugnus" creationdate="20190423T015140Z">
+        <seg>狩猟の仕込み手トゥーレ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Turmmip</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072235Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
@@ -65816,6 +65848,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T235739Z" creationid="pugnus" creationdate="20190410T235739Z">
         <seg>ウォーキングハイブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wandering Mercenary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015007Z" creationid="pugnus" creationdate="20190423T014958Z">
+        <seg>流浪の傭兵</seg>
       </tuv>
     </tu>
     <tu>
