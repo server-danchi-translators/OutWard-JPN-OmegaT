@@ -37828,6 +37828,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jade Acolyte Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114239Z" creationid="pugnus" creationdate="20190423T114239Z">
+        <seg>翡翠の侍者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade Acolyte Cowl</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114225Z" creationid="pugnus" creationdate="20190423T114225Z">
+        <seg>翡翠の侍者の頭巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jade Acolyte Robes</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T114142Z" creationid="pugnus" creationdate="20190423T114142Z">
@@ -37846,8 +37862,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Jade Master Cowl</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T114044Z" creationid="pugnus" creationdate="20190423T114035Z">
-        <seg>翡翠の頭巾</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114253Z" creationid="pugnus" creationdate="20190423T114035Z">
+        <seg>ジェイドマスターの頭巾</seg>
       </tuv>
     </tu>
     <tu>
@@ -69868,6 +69884,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115953Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
         <seg>ささやく骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Priest Mitre</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114454Z" creationid="pugnus" creationdate="20190423T114454Z">
+        <seg>白き司教帽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Priest Robes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114331Z" creationid="pugnus" creationdate="20190423T114331Z">
+        <seg>白き司祭の法服</seg>
       </tuv>
     </tu>
     <tu>
