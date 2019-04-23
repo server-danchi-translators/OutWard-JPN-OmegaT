@@ -13861,6 +13861,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blacksmith's Vintage Hammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034323Z" creationid="pugnus" creationdate="20190423T034323Z">
+        <seg>由緒ある鍛冶屋の金槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blade Dancer</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T235758Z" creationid="pugnus" creationdate="20190410T235758Z">
@@ -44438,6 +44446,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obsidian Mace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034401Z" creationid="pugnus" creationdate="20190423T034401Z">
+        <seg>黒曜石のメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oda, Kazite Trainer</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T090821Z" creationid="Light" creationdate="20190406T125438Z">
@@ -46522,6 +46538,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033705Z" creationid="pugnus" creationdate="20190423T033705Z">
         <seg>パラジウムの戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Palladium Mace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
+        <seg>パラジウムのメイス</seg>
       </tuv>
     </tu>
     <tu>
@@ -50282,6 +50306,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065106Z" creationid="hiru4" creationdate="20190403T065106Z">
         <seg>プライマリユーザーがサインアウトし、メインメニューに戻りました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Primitive Club</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034502Z" creationid="pugnus" creationdate="20190423T034502Z">
+        <seg>原始の棍棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -65544,6 +65576,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033713Z" creationid="pugnus" creationdate="20190423T033713Z">
         <seg>ツァーリの戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tsar Mace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
+        <seg>ツァーリのメイス</seg>
       </tuv>
     </tu>
     <tu>
