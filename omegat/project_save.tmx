@@ -23876,6 +23876,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang Greatsword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035126Z" creationid="pugnus" creationdate="20190423T035126Z">
+        <seg>牙のグレートソード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fang Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031928Z" creationid="pugnus" creationdate="20190423T031928Z">
@@ -50278,6 +50286,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prayer Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035013Z" creationid="pugnus" creationdate="20190423T035013Z">
+        <seg>祈りの大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prepare yourself.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T150810Z" creationid="taman" creationdate="20190414T145907Z">
@@ -69353,6 +69369,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wolf Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035024Z" creationid="pugnus" creationdate="20190423T035024Z">
+        <seg>狼の大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wolf Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031823Z" creationid="pugnus" creationdate="20190423T031823Z">
@@ -75139,8 +75163,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“The Dusk Father’s knowledge made us all kings; we built our sky castles under the earth.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T062727Z" creationid="setom" creationdate="20190402T062727Z">
-        <seg>「Dusk Fatherの知恵が我らを王にし、我らは天空城をこの大地の下に建てた。」</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T034940Z" creationid="setom" creationdate="20190402T062727Z">
+        <seg>「夕暮れの父の知恵が我らを王にし、我らは天空城をこの大地の下に建てた。」</seg>
       </tuv>
     </tu>
     <tu>
