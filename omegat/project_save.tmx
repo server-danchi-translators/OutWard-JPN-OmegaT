@@ -18414,6 +18414,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coralhorn Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094015Z" creationid="pugnus" creationdate="20190423T094015Z">
+        <seg>コーラルホーンの弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrupted Ghosts surge from the Altar, their emergence blasting you away.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103724Z" creationid="pugnus" creationdate="20190404T094720Z">
@@ -29944,6 +29952,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033652Z" creationid="pugnus" creationdate="20190423T033652Z">
         <seg>戦慄の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horror Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093958Z" creationid="pugnus" creationdate="20190423T093958Z">
+        <seg>戦慄の弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -67240,6 +67256,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T063612Z" creationid="pugnus" creationdate="20190409T063612Z">
         <seg>なにかいるのかい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>War Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093945Z" creationid="pugnus" creationdate="20190423T093945Z">
+        <seg>大弓</seg>
       </tuv>
     </tu>
     <tu>
