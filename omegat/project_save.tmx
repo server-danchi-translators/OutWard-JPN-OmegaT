@@ -41580,6 +41580,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merton’s Shinbones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131624Z" creationid="pugnus" creationdate="20190423T131624Z">
+        <seg>マートンの脛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Merton’s Skull</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T131343Z" creationid="pugnus" creationdate="20190423T131343Z">
@@ -77387,8 +77395,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“Skeletons ain’t weak to poison, that’s crazy talk!”</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T131454Z" creationid="pugnus" creationdate="20190423T131454Z">
-        <seg>“スケルトンは毒に弱いのではない、おかしな話だ！”</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131524Z" creationid="pugnus" creationdate="20190423T131454Z">
+        <seg>“スケルトンが毒に弱いって？おかしな話だ！”</seg>
       </tuv>
     </tu>
     <tu>
@@ -77485,6 +77493,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T130129Z" creationid="pugnus" creationdate="20190423T130129Z">
         <seg>“「鍋がヤカンを黒いと言う」...まだ、言い足りない。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“You ain’t ever gonna get tired wit’ those, buddy!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131802Z" creationid="pugnus" creationdate="20190423T131802Z">
+        <seg>“君は疲れを知らないな、相棒よ！”</seg>
       </tuv>
     </tu>
     <tu>
