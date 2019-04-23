@@ -21226,6 +21226,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depicting a sun, this shield is praised for its high durability.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095331Z" creationid="pugnus" creationdate="20190423T095331Z">
+        <seg>太陽を描いたこの盾は高い耐久性があり、称賛されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deploy</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063221Z" creationid="hiru4" creationdate="20190403T063221Z">
@@ -23880,6 +23888,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133439Z" creationid="totochan" creationdate="20190403T133439Z">
         <seg>大量出血</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fabulous Palladium Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095424Z" creationid="pugnus" creationdate="20190423T095424Z">
+        <seg>伝説的なパラジウムの盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -47026,6 +47042,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
         <seg>パラジウムのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Palladium Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095244Z" creationid="pugnus" creationdate="20190423T095244Z">
+        <seg>パラジウムの盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -75901,6 +75925,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T093855Z" creationid="pugnus" creationdate="20190415T093855Z">
         <seg>“忘れるな、我々の最優先事項は、「旧レバント人による申し立てを破棄する」ことだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Sometimes, it’s not about power, it’s about style.”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095537Z" creationid="pugnus" creationdate="20190423T095537Z">
+        <seg>“それは、力や機能ではなく、装飾や見た目について。”</seg>
       </tuv>
     </tu>
     <tu>
