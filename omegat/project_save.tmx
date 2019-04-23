@@ -12388,6 +12388,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Azure Shrimp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T234237Z" creationid="pugnus" creationdate="20190423T234237Z">
+        <seg>紺碧のエビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>BC_AncPeace_00</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110321Z" creationid="seto" creationdate="20190409T110321Z">
@@ -22562,6 +22570,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eating it raw carries a chance of disease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T234209Z" creationid="pugnus" creationdate="20190423T234209Z">
+        <seg>生のまま食べると病気になる可能性がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eating raw food and drinking unboiled water can give you diseases.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111912Z">
@@ -22628,8 +22644,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Eggs of exotic insects, with diverse restorative capacities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T234110Z" creationid="pugnus" creationdate="20190423T234110Z">
-        <seg>回復力を持つ、異国情緒あふれる昆虫の卵。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T234121Z" creationid="pugnus" creationdate="20190423T234110Z">
+        <seg>回復能力を持つ、異国情緒あふれる昆虫の卵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52842,6 +52858,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072224Z" creationid="seto" creationdate="20190406T072224Z">
         <seg>生肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Rainbow Trout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T234259Z" creationid="pugnus" creationdate="20190423T234259Z">
+        <seg>生のニジマス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Salmon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T234324Z" creationid="pugnus" creationdate="20190423T234324Z">
+        <seg>生の鮭</seg>
       </tuv>
     </tu>
     <tu>
