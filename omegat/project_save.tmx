@@ -13677,6 +13677,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beast Golem Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092317Z" creationid="pugnus" creationdate="20190423T092317Z">
+        <seg>ビーストゴーレムの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beasts went running past village to attack marsh city!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T061740Z" creationid="pugnus" creationdate="20190422T061740Z">
@@ -19390,6 +19398,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crescent Scythe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092302Z" creationid="pugnus" creationdate="20190423T092302Z">
+        <seg>三日月の大鎌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crescent Shark</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T000548Z" creationid="pugnus" creationdate="20190411T000548Z">
@@ -21854,6 +21870,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033551Z" creationid="Gaiden Shinji" creationdate="20190404T112733Z">
         <seg>{1}を引っ張る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dreamer Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092426Z" creationid="pugnus" creationdate="20190423T092426Z">
+        <seg>夢見の斧槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -26112,6 +26136,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085031Z" creationid="pugnus" creationdate="20190423T083808Z">
         <seg>巨人王の大戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giantkind Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092331Z" creationid="pugnus" creationdate="20190423T092331Z">
+        <seg>巨人王の斧槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -46846,6 +46878,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palladium Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092344Z" creationid="pugnus" creationdate="20190423T092344Z">
+        <seg>パラジウムの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palladium Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
@@ -56107,6 +56147,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033431Z" creationid="seto" creationdate="20190406T033431Z">
         <seg>Scene_Monsoon_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scholar’s Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092725Z" creationid="pugnus" creationdate="20190423T092725Z">
+        <seg>学者の杖</seg>
       </tuv>
     </tu>
     <tu>
@@ -66044,6 +66092,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tsar Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092353Z" creationid="pugnus" creationdate="20190423T092353Z">
+        <seg>ツァーリの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tsar Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
@@ -75651,8 +75707,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“The Dusk Father’s knowledge is universal; even lesser beings can learn what we have been taught.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064615Z" creationid="setom" creationdate="20190402T064600Z">
-        <seg>「Dusk Fatherの知恵は万能である。劣りし者でさえも我らの教えを学ぶことができる。」</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T092433Z" creationid="setom" creationdate="20190402T064600Z">
+        <seg>「夕暮れの父の知恵は万能である。劣りし者でさえも我らの教えを学ぶことができる。」</seg>
       </tuv>
     </tu>
     <tu>
