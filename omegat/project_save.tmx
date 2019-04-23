@@ -20937,6 +20937,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deals moderate Physical damage and inflicts Severe Bleeding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025711Z" creationid="pugnus" creationdate="20190423T025711Z">
+        <seg>中程度の物理的なダメージを与え、目標に深刻な出血をおこさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals moderate Physical damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T024755Z" creationid="pugnus" creationdate="20190423T024755Z">
@@ -33587,6 +33595,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113406Z">
         <seg>重要なランドマークにはアイコンが付いています。  カーソルを合わせるとその名前が表示されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved Bleed Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025516Z" creationid="pugnus" creationdate="20190423T025516Z">
+        <seg>改良された流血の罠</seg>
       </tuv>
     </tu>
     <tu>
