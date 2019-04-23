@@ -14373,6 +14373,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brutal Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033018Z" creationid="pugnus" creationdate="20190423T033018Z">
+        <seg>凶悪な戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulbous root vegetable with mana-restoring properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072707Z" creationid="seto" creationdate="20190406T072707Z">
@@ -23820,6 +23828,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033028Z" creationid="pugnus" creationdate="20190423T033028Z">
+        <seg>牙の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fang Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031928Z" creationid="pugnus" creationdate="20190423T031928Z">
@@ -28376,6 +28392,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074815Z" creationid="setom" creationdate="20190402T074815Z">
         <seg>折れた木の板でできた急造りのもので、最低限ではあるが矢を防ぐことはできる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hatchet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033104Z" creationid="pugnus" creationdate="20190423T033104Z">
+        <seg>手斧</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,6 +39328,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045311Z" creationid="seto" creationdate="20190406T045311Z">
         <seg>Map_Windmill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marble Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033120Z" creationid="pugnus" creationdate="20190423T033120Z">
+        <seg>大理石の戦斧</seg>
       </tuv>
     </tu>
     <tu>
@@ -60508,6 +60540,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sunfall Axe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033352Z" creationid="pugnus" creationdate="20190423T033206Z">
+        <seg>落日の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Superior egg and fish dish with healing properties which restore health, stamina and mana.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T140133Z" creationid="weedssoul" creationdate="20190406T140133Z">
@@ -74907,8 +74947,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“The Dawn Weaver’s knowledge remade us; we grafted porcelain to our flesh.” Inflicts Burning on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T062351Z" creationid="setom" creationdate="20190402T062335Z">
-        <seg>「Dawn Weaverの知恵が我らを作り直し、磁器は我らの肉に移された。」敵を燃やす。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T033220Z" creationid="setom" creationdate="20190402T062335Z">
+        <seg>「夜明けの織り手の知恵が我らを作り直し、磁器は我らの肉に移された。」敵を燃やす。</seg>
       </tuv>
     </tu>
     <tu>
