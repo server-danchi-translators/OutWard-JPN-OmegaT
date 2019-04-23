@@ -10513,6 +10513,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alda from Old Levant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T012700Z" creationid="pugnus" creationdate="20190423T012700Z">
+        <seg>旧レバント人のアルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alemmon</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113316Z" creationid="Gaiden Shinji" creationdate="20190404T113316Z">
@@ -56344,6 +56352,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soft Womanly Whisper</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013045Z" creationid="pugnus" creationdate="20190423T013045Z">
+        <seg>しとやかで柔らかいささやき</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Fire element when rubbed on a melee weapon.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T143447Z" creationid="weedssoul" creationdate="20190406T143319Z">
@@ -65328,6 +65344,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Gaiden Shinji" creationdate="20190403T114500Z">
         <seg>ベンダバール要塞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Medic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T012635Z" creationid="pugnus" creationdate="20190423T012635Z">
+        <seg>ベンダバールの医師</seg>
       </tuv>
     </tu>
     <tu>
