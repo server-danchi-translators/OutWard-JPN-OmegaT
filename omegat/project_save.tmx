@@ -14231,8 +14231,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bow which inflicts Pain, cursing the enemy to receive more physical damage, made from Coralhorn Antler.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064923Z" creationid="setom" creationdate="20190402T064923Z">
-        <seg>Coralhornの枝角で出来た弓で、敵に痛みを与え、物理ダメージを増やす呪いをかける。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094103Z" creationid="setom" creationdate="20190402T064923Z">
+        <seg>コーラルホーンの枝角で出来た弓で、敵に痛みを与え、物理ダメージを増やす呪いをかける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54695,6 +54695,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Round Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094123Z" creationid="pugnus" creationdate="20190423T094123Z">
+        <seg>盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Royal Great-Kopesh</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T073753Z" creationid="pugnus" creationdate="20190423T073753Z">
@@ -73347,6 +73355,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120432Z" creationid="Gaiden Shinji" creationdate="20190404T120304Z">
         <seg>ゼフィリアンの死体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhorn’s Demon Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094342Z" creationid="pugnus" creationdate="20190423T094342Z">
+        <seg>ツォルンの悪魔の盾</seg>
       </tuv>
     </tu>
     <tu>
