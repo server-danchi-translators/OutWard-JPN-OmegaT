@@ -11980,6 +11980,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ash Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122357Z" creationid="pugnus" creationdate="20190423T122357Z">
+        <seg>灰のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ash Giant</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110656Z" creationid="Gaiden Shinji" creationdate="20190403T110656Z">
@@ -12014,8 +12022,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ash-Filter Mask</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T122336Z" creationid="pugnus" creationdate="20190423T122336Z">
-        <seg>灰除けの覆面</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122347Z" creationid="pugnus" creationdate="20190423T122336Z">
+        <seg>灰よけの覆面</seg>
       </tuv>
     </tu>
     <tu>
@@ -47630,10 +47638,34 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pathfinder Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122509Z" creationid="pugnus" creationdate="20190423T122509Z">
+        <seg>開拓者の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pathfinder Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122526Z" creationid="pugnus" creationdate="20190423T122526Z">
+        <seg>開拓者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pathfinder Claymore</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T071632Z" creationid="pugnus" creationdate="20190423T071632Z">
         <seg>開拓者の大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pathfinder Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122518Z" creationid="pugnus" creationdate="20190423T122518Z">
+        <seg>開拓者の覆面</seg>
       </tuv>
     </tu>
     <tu>
