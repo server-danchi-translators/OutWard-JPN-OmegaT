@@ -13765,6 +13765,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beige Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095914Z" creationid="pugnus" creationdate="20190423T095914Z">
+        <seg>ベージュの服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114443Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
@@ -20894,6 +20902,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Green Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100008Z" creationid="pugnus" creationdate="20190423T100008Z">
+        <seg>深緑の服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Red Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100106Z" creationid="pugnus" creationdate="20190423T100106Z">
+        <seg>深紅の服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Ziggurat</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115144Z" creationid="Gaiden Shinji" creationdate="20190403T115144Z">
@@ -27140,6 +27164,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gray Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100021Z" creationid="pugnus" creationdate="20190423T100021Z">
+        <seg>灰色の服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greasy Fern</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T120705Z" creationid="pugnus" creationdate="20190422T120705Z">
@@ -27176,6 +27208,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T121358Z" creationid="pugnus" creationdate="20190422T121358Z">
         <seg>緑の踊り子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Green Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100127Z" creationid="pugnus" creationdate="20190423T100127Z">
+        <seg>緑の服</seg>
       </tuv>
     </tu>
     <tu>
@@ -57104,6 +57144,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple Shoes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095953Z" creationid="pugnus" creationdate="20190423T095953Z">
+        <seg>質素な靴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple food can be cooked on a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T074733Z">
@@ -65984,6 +66032,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112816Z" creationid="Gaiden Shinji" creationdate="20190404T112816Z">
         <seg>{NPCName}と取引する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trader Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095833Z" creationid="pugnus" creationdate="20190423T095833Z">
+        <seg>商人のブーツ</seg>
       </tuv>
     </tu>
     <tu>
