@@ -14055,8 +14055,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blood-red shield used by the leaders of northern tribes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T144237Z" creationid="weedssoul" creationdate="20190405T144237Z">
-        <seg>北方の部族のリーダーが使用している血染めの盾。Blood-red shield used by the leaders of northern tribes.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094828Z" creationid="weedssoul" creationdate="20190405T144237Z">
+        <seg>北方の部族のリーダーが使用している血染めの盾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19438,6 +19438,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crimson Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094819Z" creationid="pugnus" creationdate="20190423T094819Z">
+        <seg>深紅の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crock</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114034Z" creationid="Gaiden Shinji" creationdate="20190404T114034Z">
@@ -21886,6 +21894,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033551Z" creationid="Gaiden Shinji" creationdate="20190404T112733Z">
         <seg>{1}を引っ張る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragon Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094749Z" creationid="pugnus" creationdate="20190423T094749Z">
+        <seg>龍の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -26504,6 +26520,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033909Z" creationid="pugnus" creationdate="20190423T033909Z">
         <seg>ゴールドリッチのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold-Lich Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094738Z" creationid="pugnus" creationdate="20190423T094738Z">
+        <seg>ゴールドリッチの盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -34535,6 +34559,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inner Marble Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094724Z" creationid="pugnus" creationdate="20190423T094724Z">
+        <seg>側近の大理石盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Innkeepers can give you directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T070904Z" creationid="Light" creationdate="20190406T070904Z">
@@ -39748,6 +39780,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marble Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094634Z" creationid="pugnus" creationdate="20190423T094634Z">
+        <seg>大理石の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marble Spear</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T090849Z" creationid="pugnus" creationdate="20190423T090849Z">
@@ -41920,6 +41960,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T091829Z" creationid="pugnus" creationdate="20190423T091829Z">
         <seg>マッシュルームの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushroom Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094900Z" creationid="pugnus" creationdate="20190423T094900Z">
+        <seg>キノコの盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -58000,6 +58048,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specially grown fungus used by Troglodytes as offerings to their queen-goddess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095016Z" creationid="pugnus" creationdate="20190423T095016Z">
+        <seg>トログロダイトが、女神への捧げものとして使用する特別栽培の真菌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specific tools are needed to gather some resources.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114001Z">
@@ -60983,6 +61039,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031733Z" creationid="pugnus" creationdate="20190423T031733Z">
         <seg>鋼の軍刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094842Z" creationid="pugnus" creationdate="20190423T094842Z">
+        <seg>鋼の盾</seg>
       </tuv>
     </tu>
     <tu>
