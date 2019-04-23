@@ -20958,6 +20958,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Worker Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114901Z" creationid="pugnus" creationdate="20190423T114901Z">
+        <seg>闇の働き手の衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Ziggurat</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115144Z" creationid="Gaiden Shinji" creationdate="20190403T115144Z">
@@ -44898,6 +44906,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091306Z" creationid="setom" creationdate="20190403T091306Z">
         <seg>Notification_UnpluggedGamepad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Novice Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114641Z" creationid="pugnus" creationdate="20190423T114634Z">
+        <seg>未熟者の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Novice Robe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114624Z" creationid="pugnus" creationdate="20190423T114545Z">
+        <seg>未熟者の法服</seg>
       </tuv>
     </tu>
     <tu>
@@ -69884,6 +69908,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115953Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
         <seg>ささやく骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Priest Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114503Z" creationid="pugnus" creationdate="20190423T114503Z">
+        <seg>白き司祭のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>White Priest Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T114512Z" creationid="pugnus" creationdate="20190423T114512Z">
+        <seg>白き司祭の頭巾</seg>
       </tuv>
     </tu>
     <tu>
