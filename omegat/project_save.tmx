@@ -21008,24 +21008,24 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Dark Nobleman Attire</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T115703Z" creationid="pugnus" creationdate="20190423T115703Z">
-        <seg>闇の貴族の衣装</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120624Z" creationid="pugnus" creationdate="20190423T115703Z">
+        <seg>暗き貴族の衣装</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Dark Nobleman Boots</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T115945Z" creationid="pugnus" creationdate="20190423T115945Z">
-        <seg>闇の貴族のブーツ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120639Z" creationid="pugnus" creationdate="20190423T115945Z">
+        <seg>暗き貴族のブーツ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Dark Nobleman Hat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T115913Z" creationid="pugnus" creationdate="20190423T115913Z">
-        <seg>闇の貴族の帽子</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120634Z" creationid="pugnus" creationdate="20190423T115913Z">
+        <seg>暗き貴族の帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -21040,16 +21040,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Dark Rich Attire</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T120033Z" creationid="pugnus" creationdate="20190423T120033Z">
-        <seg>闇のリッチの衣装</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120645Z" creationid="pugnus" creationdate="20190423T120033Z">
+        <seg>暗きリッチの衣装</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Dark Rich Hat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T120107Z" creationid="pugnus" creationdate="20190423T120107Z">
-        <seg>闇のリッチの帽子</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120650Z" creationid="pugnus" creationdate="20190423T120107Z">
+        <seg>暗きリッチの帽子</seg>
       </tuv>
     </tu>
     <tu>
@@ -21064,8 +21064,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Dark Worker Hood</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T115055Z" creationid="pugnus" creationdate="20190423T115055Z">
-        <seg>闇の働き手の頭巾</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120608Z" creationid="pugnus" creationdate="20190423T115055Z">
+        <seg>暗き働き手の頭巾</seg>
       </tuv>
     </tu>
     <tu>
@@ -47606,6 +47606,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pearlescent Mail</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120959Z" creationid="pugnus" creationdate="20190423T120959Z">
+        <seg>真珠の鎖帷子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peculiar oval shield used by the warriors of an ancient legion.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T071030Z" creationid="setom" creationdate="20190402T071021Z">
@@ -62761,6 +62769,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T120249Z" creationid="pugnus" creationdate="20190423T120249Z">
         <seg>闇の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tenebrous Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120713Z" creationid="pugnus" creationdate="20190423T120713Z">
+        <seg>闇のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tenebrous Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120704Z" creationid="pugnus" creationdate="20190423T120704Z">
+        <seg>闇の兜</seg>
       </tuv>
     </tu>
     <tu>
