@@ -39780,6 +39780,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makeshift Leather Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123853Z" creationid="pugnus" creationdate="20190423T123853Z">
+        <seg>間に合わせの皮のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Makeshift Leather Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123837Z" creationid="pugnus" creationdate="20190423T123837Z">
+        <seg>間に合わせの皮の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makeshift Torch</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T134741Z" creationid="weedssoul" creationdate="20190406T134741Z">
@@ -56003,6 +56019,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T011802Z" creationid="rkmad" creationdate="20190404T011802Z">
         <seg>お前も腹が減っているはずだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scaled Leather Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T124103Z" creationid="pugnus" creationdate="20190423T124103Z">
+        <seg>鱗革の衣装</seg>
       </tuv>
     </tu>
     <tu>
