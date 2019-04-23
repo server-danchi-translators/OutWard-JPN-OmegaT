@@ -39852,6 +39852,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master’s Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093240Z" creationid="pugnus" creationdate="20190423T093240Z">
+        <seg>達人の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mathias</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115132Z" creationid="Gaiden Shinji" creationdate="20190404T115132Z">
@@ -54655,6 +54663,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rotwood Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093209Z" creationid="pugnus" creationdate="20190423T093209Z">
+        <seg>ロットウッドの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Royal Great-Kopesh</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T073753Z" creationid="pugnus" creationdate="20190423T073753Z">
@@ -56924,6 +56940,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T101348Z" creationid="pugnus" creationdate="20190415T101348Z">
         <seg>スラム街のための銀貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Bow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093332Z" creationid="pugnus" creationdate="20190423T093332Z">
+        <seg>扱いやすい弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -65976,6 +66000,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T091007Z" creationid="pugnus" creationdate="20190423T091007Z">
         <seg>トログロダイトの長柄槌矛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093222Z" creationid="pugnus" creationdate="20190423T093222Z">
+        <seg>トログロダイトの杖</seg>
       </tuv>
     </tu>
     <tu>
