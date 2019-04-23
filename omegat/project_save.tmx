@@ -16518,6 +16518,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cleaver Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091654Z" creationid="pugnus" creationdate="20190423T091654Z">
+        <seg>長刃の斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Climb the Rope</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113157Z" creationid="Gaiden Shinji" creationdate="20190404T113157Z">
@@ -23944,6 +23952,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T035126Z" creationid="pugnus" creationdate="20190423T035126Z">
         <seg>牙のグレートソード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fang Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091707Z" creationid="pugnus" creationdate="20190423T091707Z">
+        <seg>牙の斧槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -35571,6 +35587,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085707Z" creationid="pugnus" creationdate="20190423T085707Z">
         <seg>鉄の大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091427Z" creationid="pugnus" creationdate="20190423T091427Z">
+        <seg>鉄の斧槍</seg>
       </tuv>
     </tu>
     <tu>
