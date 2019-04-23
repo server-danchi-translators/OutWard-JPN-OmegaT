@@ -14389,6 +14389,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bright Rich Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120020Z" creationid="pugnus" creationdate="20190423T120020Z">
+        <seg>輝くリッチの衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bright Rich Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120056Z" creationid="pugnus" creationdate="20190423T120056Z">
+        <seg>輝くリッチの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -21022,6 +21038,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Rich Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120033Z" creationid="pugnus" creationdate="20190423T120033Z">
+        <seg>闇のリッチの衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Rich Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120107Z" creationid="pugnus" creationdate="20190423T120107Z">
+        <seg>闇のリッチの帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Worker Attire</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T114901Z" creationid="pugnus" creationdate="20190423T114901Z">
@@ -22936,6 +22968,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T115846Z" creationid="pugnus" creationdate="20190423T115846Z">
         <seg>埋葬人の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entomber Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120001Z" creationid="pugnus" creationdate="20190423T120001Z">
+        <seg>埋葬人のブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62565,6 +62605,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tattered Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120153Z" creationid="pugnus" creationdate="20190423T120153Z">
+        <seg>ボロボロの衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tattered Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120223Z" creationid="pugnus" creationdate="20190423T120223Z">
+        <seg>ボロボロのブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tattered Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120212Z" creationid="pugnus" creationdate="20190423T120212Z">
+        <seg>ボロボロの頭巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tea, obviously.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T053242Z" creationid="Mad" creationdate="20190407T053242Z">
@@ -62689,6 +62753,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T011809Z" creationid="pugnus" creationdate="20190416T011809Z">
         <seg>炎の傾向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tenebrous Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T120249Z" creationid="pugnus" creationdate="20190423T120249Z">
+        <seg>闇の鎧</seg>
       </tuv>
     </tu>
     <tu>
