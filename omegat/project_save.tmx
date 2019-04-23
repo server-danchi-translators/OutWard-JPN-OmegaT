@@ -24556,6 +24556,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fishing Harpoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091321Z" creationid="pugnus" creationdate="20190423T091321Z">
+        <seg>魚用銛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FishingSpot_Fish</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130516Z" creationid="setom" creationdate="20190403T130516Z">
@@ -35579,6 +35587,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021130Z" creationid="pugnus" creationdate="20190423T021123Z">
         <seg>勇猛果敢なる者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091158Z" creationid="pugnus" creationdate="20190423T091158Z">
+        <seg>鉄の槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -46798,6 +46814,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palladium Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091357Z" creationid="pugnus" creationdate="20190423T091357Z">
+        <seg>パラジウムの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palladium Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032516Z" creationid="pugnus" creationdate="20190423T032516Z">
@@ -47162,6 +47186,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T010346Z" creationid="pugnus" creationdate="20190411T002120Z">
         <seg>フィトサウルス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phytosaur Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091212Z" creationid="pugnus" creationdate="20190423T091212Z">
+        <seg>フィトサウルスの槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -65211,6 +65243,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thorny Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091151Z" creationid="pugnus" creationdate="20190423T091151Z">
+        <seg>いばらの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those are the giant crystal tower things, right?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T063219Z" creationid="taman" creationdate="20190409T061627Z">
@@ -65960,6 +66000,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
         <seg>ツァーリのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tsar Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091409Z" creationid="pugnus" creationdate="20190423T091409Z">
+        <seg>ツァーリの槍</seg>
       </tuv>
     </tu>
     <tu>
