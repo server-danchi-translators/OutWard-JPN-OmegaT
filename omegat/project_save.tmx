@@ -20825,6 +20825,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deals moderate Decay damage and inflicts Poison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022305Z" creationid="pugnus" creationdate="20190423T022305Z">
+        <seg>中程度の腐敗性のダメージを与え、目標に毒を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals moderate Fire damage and inflicts Burning.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021842Z" creationid="pugnus" creationdate="20190423T021842Z">
@@ -33467,6 +33475,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021916Z" creationid="pugnus" creationdate="20190423T021916Z">
         <seg>改良された焼夷性の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved Toxic Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022329Z" creationid="pugnus" creationdate="20190423T022329Z">
+        <seg>改良された有毒性の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -64712,6 +64728,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112601Z" creationid="Gaiden Shinji" creationdate="20190404T112601Z">
         <seg>町役場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toxic Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022206Z" creationid="pugnus" creationdate="20190423T022206Z">
+        <seg>有毒性の罠</seg>
       </tuv>
     </tu>
     <tu>
