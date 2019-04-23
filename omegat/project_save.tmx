@@ -45942,6 +45942,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paul the Wanderer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013235Z" creationid="pugnus" creationdate="20190423T013235Z">
+        <seg>彷徨う者ポール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pause Game</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023446Z" creationid="hiru4" creationdate="20190402T023446Z">
@@ -56354,8 +56362,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Soft Womanly Whisper</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T013045Z" creationid="pugnus" creationdate="20190423T013045Z">
-        <seg>しとやかで柔らかいささやき</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013120Z" creationid="pugnus" creationdate="20190423T013045Z">
+        <seg>たおやかで柔らかいささやき</seg>
       </tuv>
     </tu>
     <tu>
