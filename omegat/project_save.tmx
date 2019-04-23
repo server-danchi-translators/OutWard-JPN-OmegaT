@@ -14389,6 +14389,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broken Golem Rapier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071308Z" creationid="pugnus" creationdate="20190423T071308Z">
+        <seg>壊れたゴーレムレイピア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Browse shop.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063751Z" creationid="weedssoul" creationdate="20190406T063751Z">
@@ -26636,6 +26644,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golem Rapier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071247Z" creationid="pugnus" creationdate="20190423T071247Z">
+        <seg>ゴーレムレイピア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Golem_Basic</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103326Z" creationid="seto" creationdate="20190404T103326Z">
@@ -35427,6 +35443,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032807Z" creationid="pugnus" creationdate="20190423T032807Z">
         <seg>鉄の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071355Z" creationid="pugnus" creationdate="20190423T071355Z">
+        <seg>鉄の大剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -57738,6 +57762,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starchild Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071527Z" creationid="pugnus" creationdate="20190423T071527Z">
+        <seg>スターチャイルドの大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starfish Cave</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114936Z" creationid="Gaiden Shinji" creationdate="20190403T114936Z">
@@ -64919,6 +64951,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T101620Z" creationid="pugnus" creationdate="20190422T101620Z">
         <seg>これは... 悪くは無い考えである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thorny Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071345Z" creationid="pugnus" creationdate="20190423T071345Z">
+        <seg>いばらの大剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -75163,8 +75203,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“The Dawn Weaver’s knowledge showed us the way; He came from the stars, and to the stars we shall follow.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064652Z" creationid="setom" creationdate="20190402T063900Z">
-        <seg>「Dawn Weaverの知識が我らに道を示した。星より来たりし彼の者に我らは付き従おう。」</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T071535Z" creationid="setom" creationdate="20190402T063900Z">
+        <seg>「夜明けの織り手の知識が我らに道を示した。星より来たりし彼の者に我らは付き従おう。」</seg>
       </tuv>
     </tu>
     <tu>
