@@ -25412,6 +25412,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fur Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122814Z" creationid="pugnus" creationdate="20190423T122814Z">
+        <seg>毛皮の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fur Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122830Z" creationid="pugnus" creationdate="20190423T122830Z">
+        <seg>毛皮のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fur Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122821Z" creationid="pugnus" creationdate="20190423T122821Z">
+        <seg>毛皮の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaberries</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113726Z" creationid="Gaiden Shinji" creationdate="20190403T113726Z">
@@ -40368,6 +40392,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T145356Z">
         <seg>カマキリの巨大な爪。 武器を作るのに用いられる。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master Trader Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122744Z" creationid="pugnus" creationdate="20190423T122744Z">
+        <seg>小隊長のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master Trader Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122657Z" creationid="pugnus" creationdate="20190423T122657Z">
+        <seg>商隊長の服装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Master Trader Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122733Z" creationid="pugnus" creationdate="20190423T122733Z">
+        <seg>小隊長の帽子</seg>
       </tuv>
     </tu>
     <tu>
