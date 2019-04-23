@@ -12028,6 +12028,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assassin Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032504Z" creationid="pugnus" creationdate="20190423T032504Z">
+        <seg>暗殺者の剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assemble all of Myriad’s bones in the Corrupted Tombs, in the Chersonese.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T092245Z" creationid="urakata" creationdate="20190406T131131Z">
@@ -14201,6 +14209,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T140322Z" creationid="weedssoul" creationdate="20190406T134907Z">
         <seg>キャンプファイヤーの作成から武器の生成まで様々な用途で使える枝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brand</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032646Z" creationid="pugnus" creationdate="20190423T032646Z">
+        <seg>ブランド</seg>
       </tuv>
     </tu>
     <tu>
@@ -37316,6 +37332,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jade Scimitar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032443Z" creationid="pugnus" creationdate="20190423T032443Z">
+        <seg>翡翠の三日月刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jade-Lich Acolyte</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110650Z" creationid="Gaiden Shinji" creationdate="20190403T110650Z">
@@ -46354,6 +46378,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120258Z" creationid="Gaiden Shinji" creationdate="20190404T120258Z">
         <seg>宮殿の扉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Palladium Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032516Z" creationid="pugnus" creationdate="20190423T032516Z">
+        <seg>パラジウムの剣</seg>
       </tuv>
     </tu>
     <tu>
