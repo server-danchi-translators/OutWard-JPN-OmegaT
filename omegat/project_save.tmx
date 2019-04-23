@@ -14365,6 +14365,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bright Nobleman Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115651Z" creationid="pugnus" creationdate="20190423T115651Z">
+        <seg>輝く貴族の衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -30208,6 +30216,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095257Z" creationid="hiru4" creationdate="20190402T071801Z">
         <seg>とても暑い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hound Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115621Z" creationid="pugnus" creationdate="20190423T115621Z">
+        <seg>猟犬の覆面</seg>
       </tuv>
     </tu>
     <tu>
@@ -55585,8 +55601,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Scarab Mask</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T115408Z" creationid="pugnus" creationdate="20190423T115408Z">
-        <seg>甲虫類のコガネムシ科にタマオシコガネ属の属名及びその語源となった古代エジプト語。 Mask</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115457Z" creationid="pugnus" creationdate="20190423T115408Z">
+        <seg>大玉押しコガネの覆面</seg>
       </tuv>
     </tu>
     <tu>
@@ -66776,6 +66792,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085037Z" creationid="pugnus" creationdate="20190423T083720Z">
         <seg>トゥアノサウルスの大戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuanosaur Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115511Z" creationid="pugnus" creationdate="20190423T115511Z">
+        <seg>トゥアノサウルスの覆面</seg>
       </tuv>
     </tu>
     <tu>
