@@ -16806,6 +16806,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compasswood Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093123Z" creationid="pugnus" creationdate="20190423T093123Z">
+        <seg>コンパスウッドの杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concoction that cures the common cold and restores burnt Mana.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132542Z">
@@ -37680,6 +37688,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033803Z" creationid="pugnus" creationdate="20190423T033803Z">
         <seg>ジェイドリッチのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade-Lich Staff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T093009Z" creationid="pugnus" creationdate="20190423T093009Z">
+        <seg>ジェイドリッチの杖</seg>
       </tuv>
     </tu>
     <tu>
