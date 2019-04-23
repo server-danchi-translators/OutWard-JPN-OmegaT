@@ -10017,6 +10017,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adalbert the Hermit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015455Z" creationid="pugnus" creationdate="20190423T015455Z">
+        <seg>隠者アダルベルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Advanced Shader</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025259Z" creationid="hiru4" creationdate="20190402T023211Z">
@@ -24206,8 +24214,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Flase, Sage Trainer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T015416Z" creationid="pugnus" creationdate="20190423T015416Z">
-        <seg>賢者の仕込み手フォールス</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015603Z" creationid="pugnus" creationdate="20190423T015416Z">
+        <seg>賢者トレーナーの手フォールス</seg>
       </tuv>
     </tu>
     <tu>
@@ -37016,6 +37024,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114843Z" creationid="Gaiden Shinji" creationdate="20190404T114843Z">
         <seg>イェーガー・サリバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jaimon, Mercenary Trainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015552Z" creationid="pugnus" creationdate="20190423T015529Z">
+        <seg>傭兵トレーナーのジャイモン</seg>
       </tuv>
     </tu>
     <tu>
@@ -59899,6 +59915,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Styx, Rogue Trainer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T020211Z" creationid="pugnus" creationdate="20190423T020211Z">
+        <seg>盗賊トレーナーのスティクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Such immense shifts in the status quo are never good for business.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T094403Z" creationid="pugnus" creationdate="20190417T094403Z">
@@ -64862,8 +64886,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Ture, Hunting Trainer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T015140Z" creationid="pugnus" creationdate="20190423T015140Z">
-        <seg>狩猟の仕込み手トゥーレ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T015619Z" creationid="pugnus" creationdate="20190423T015140Z">
+        <seg>狩猟トレーナーのトゥーレ</seg>
       </tuv>
     </tu>
     <tu>
