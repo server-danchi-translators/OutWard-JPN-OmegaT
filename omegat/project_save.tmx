@@ -20849,6 +20849,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deals moderate Ethereal damage and inflicts Haunted.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T023023Z" creationid="pugnus" creationdate="20190423T023023Z">
+        <seg>中程度のエーテルダメージを与え、目標に呪いを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals moderate Fire damage and inflicts Burning.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021842Z" creationid="pugnus" creationdate="20190423T021842Z">
@@ -23352,6 +23360,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133211Z" creationid="totochan" creationdate="20190403T133211Z">
         <seg>エーテル耐性+[E4V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ethereal Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022823Z" creationid="pugnus" creationdate="20190423T022823Z">
+        <seg>エーテルの罠</seg>
       </tuv>
     </tu>
     <tu>
