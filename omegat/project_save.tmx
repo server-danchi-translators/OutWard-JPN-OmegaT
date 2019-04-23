@@ -16038,6 +16038,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chef Iasu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013508Z" creationid="pugnus" creationdate="20190423T013443Z">
+        <seg>料理人イアス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chef Iasu, in Berg, is looking for a Manticore Tail.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T061003Z" creationid="urakata" creationdate="20190406T115226Z">
@@ -45944,7 +45952,7 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Paul the Wanderer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T013235Z" creationid="pugnus" creationdate="20190423T013235Z">
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013305Z" creationid="pugnus" creationdate="20190423T013235Z">
         <seg>彷徨う者ポール</seg>
       </tuv>
     </tu>
@@ -50370,6 +50378,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111825Z">
         <seg>クイックスロットにアイテムや武器、スキルを設定することが戦闘で素早く使う最上の方法です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quikiza the Blacksmith</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013354Z" creationid="pugnus" creationdate="20190423T013354Z">
+        <seg>鍛冶屋のキキザ</seg>
       </tuv>
     </tu>
     <tu>
