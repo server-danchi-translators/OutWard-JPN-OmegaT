@@ -11546,6 +11546,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arcane Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123242Z" creationid="pugnus" creationdate="20190423T123242Z">
+        <seg>奥義の頭巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arcane Machine</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T101301Z" creationid="pugnus" creationdate="20190415T101301Z">
@@ -16618,6 +16626,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T122309Z" creationid="urakata" creationdate="20190406T122309Z">
         <seg>ドックにある財宝を手に入れる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clansage Robe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123713Z" creationid="pugnus" creationdate="20190423T123713Z">
+        <seg>思慮深き氏族の法服</seg>
       </tuv>
     </tu>
     <tu>
