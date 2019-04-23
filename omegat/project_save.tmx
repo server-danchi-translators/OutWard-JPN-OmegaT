@@ -29996,6 +29996,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Horror Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095102Z" creationid="pugnus" creationdate="20190423T095102Z">
+        <seg>戦慄の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Horror_Illuminator</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T103329Z" creationid="seto" creationdate="20190404T103329Z">
@@ -36106,6 +36114,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It makes for a surprisingly usable shield.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095050Z" creationid="pugnus" creationdate="20190423T095050Z">
+        <seg>それは、驚くほど使える盾になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It makes me happy to see the silver come in, and the goods go out!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021436Z" creationid="pugnus" creationdate="20190422T021436Z">
@@ -41712,6 +41728,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051658Z" creationid="seto" creationdate="20190406T051658Z">
         <seg>MonsterWeapon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Monstrous shield best used in a deadly combination with a one-handed axe also made of chitin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095232Z" creationid="pugnus" creationdate="20190423T095232Z">
+        <seg>キチンで作られた片手斧と、致命的な組み合わせで使用される、最も怪しい盾。</seg>
       </tuv>
     </tu>
     <tu>
