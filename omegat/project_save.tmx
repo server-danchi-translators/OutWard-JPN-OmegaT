@@ -13949,6 +13949,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Black Plate Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130528Z" creationid="pugnus" creationdate="20190423T130528Z">
+        <seg>黒き板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black Plate Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130550Z" creationid="pugnus" creationdate="20190423T130550Z">
+        <seg>黒き板金ブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black Plate Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130540Z" creationid="pugnus" creationdate="20190423T130540Z">
+        <seg>黒き板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Black Worker Boots</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T115037Z" creationid="pugnus" creationdate="20190423T115037Z">
@@ -19706,6 +19730,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T130453Z" creationid="pugnus" creationdate="20190423T130453Z">
         <seg>深紅の板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crimson Plate Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130518Z" creationid="pugnus" creationdate="20190423T130518Z">
+        <seg>深紅の板金ブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crimson Plate Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130506Z" creationid="pugnus" creationdate="20190423T130506Z">
+        <seg>深紅の板金覆面</seg>
       </tuv>
     </tu>
     <tu>
@@ -38612,10 +38652,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kazite Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130629Z" creationid="pugnus" creationdate="20190423T130629Z">
+        <seg>カジートの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kazite Bandit</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110401Z">
         <seg>カジート盗賊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130709Z" creationid="pugnus" creationdate="20190423T130709Z">
+        <seg>カジートのブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -38628,10 +38684,34 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kazite Cat Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130647Z" creationid="pugnus" creationdate="20190423T130647Z">
+        <seg>カジートの猫面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kazite Lieutenant</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141820Z" creationid="Gaiden Shinji" creationdate="20190403T110413Z">
         <seg>カジート小隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130636Z" creationid="pugnus" creationdate="20190423T130636Z">
+        <seg>カジートの覆面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Oni Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130659Z" creationid="pugnus" creationdate="20190423T130659Z">
+        <seg>カジートの鬼面</seg>
       </tuv>
     </tu>
     <tu>
@@ -55943,10 +56023,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Runic Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130754Z" creationid="pugnus" creationdate="20190423T130754Z">
+        <seg>ルーンの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Runic Blade</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032307Z" creationid="pugnus" creationdate="20190423T032307Z">
         <seg>ルーンの刃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runic Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130802Z" creationid="pugnus" creationdate="20190423T130802Z">
+        <seg>ルーンの兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -58124,6 +58220,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005255Z" creationid="seto" creationdate="20190413T005255Z">
         <seg>黙れ、自分の人生なんか諦めろ、そして他のやつらの為に生きろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130558Z" creationid="pugnus" creationdate="20190423T130558Z">
+        <seg>銀の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130614Z" creationid="pugnus" creationdate="20190423T130614Z">
+        <seg>銀のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Silver Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130606Z" creationid="pugnus" creationdate="20190423T130606Z">
+        <seg>銀の兜</seg>
       </tuv>
     </tu>
     <tu>
