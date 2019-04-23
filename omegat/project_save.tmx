@@ -14341,6 +14341,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brigand Coat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113549Z" creationid="pugnus" creationdate="20190423T113549Z">
+        <seg>山賊の外套</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -55385,40 +55393,40 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Scavenger Boots</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T100652Z" creationid="pugnus" creationdate="20190423T100652Z">
-        <seg>あさり人のブーツ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113512Z" creationid="pugnus" creationdate="20190423T100652Z">
+        <seg>いざりびとのブーツ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scavenger Coat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T100507Z" creationid="pugnus" creationdate="20190423T100507Z">
-        <seg>あさり人の外套</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113455Z" creationid="pugnus" creationdate="20190423T100507Z">
+        <seg>いざりびとの外套</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scavenger Hood</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T100606Z" creationid="pugnus" creationdate="20190423T100606Z">
-        <seg>あさり人の頭巾</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113503Z" creationid="pugnus" creationdate="20190423T100606Z">
+        <seg>いざりびとの頭巾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scavenger Mask</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T100539Z" creationid="pugnus" creationdate="20190423T100539Z">
-        <seg>あさり人の覆面</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113459Z" creationid="pugnus" creationdate="20190423T100539Z">
+        <seg>いざりびとの覆面</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scavenger Scarf</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T100634Z" creationid="pugnus" creationdate="20190423T100634Z">
-        <seg>あさり人の襟巻き</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113508Z" creationid="pugnus" creationdate="20190423T100634Z">
+        <seg>いざりびとの襟巻き</seg>
       </tuv>
     </tu>
     <tu>
