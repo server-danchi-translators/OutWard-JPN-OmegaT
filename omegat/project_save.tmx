@@ -16430,6 +16430,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chitin Desert Tunic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121924Z" creationid="pugnus" creationdate="20190423T121924Z">
+        <seg>キチンの砂漠の上着</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose a character</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193355Z" creationid="totochan" creationdate="20190402T193355Z">
@@ -21590,6 +21598,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112751Z" creationid="Gaiden Shinji" creationdate="20190403T110303Z">
         <seg>砂漠の小隊長</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Desert Tunic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121854Z" creationid="pugnus" creationdate="20190423T121854Z">
+        <seg>砂漠の上着</seg>
       </tuv>
     </tu>
     <tu>
@@ -56899,6 +56915,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033431Z" creationid="seto" creationdate="20190406T033431Z">
         <seg>Scene_Monsoon_TownDesc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scholar Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121709Z" creationid="pugnus" creationdate="20190423T121709Z">
+        <seg>学者の衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scholar Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121823Z" creationid="pugnus" creationdate="20190423T121823Z">
+        <seg>学者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scholar Circlet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121737Z" creationid="pugnus" creationdate="20190423T121737Z">
+        <seg>学者の飾り輪</seg>
       </tuv>
     </tu>
     <tu>
