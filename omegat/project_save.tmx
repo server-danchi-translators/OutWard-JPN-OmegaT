@@ -14373,6 +14373,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bright Nobleman Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115932Z" creationid="pugnus" creationdate="20190423T115932Z">
+        <seg>輝く貴族のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bright Nobleman Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115902Z" creationid="pugnus" creationdate="20190423T115902Z">
+        <seg>輝く貴族の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -20974,6 +20990,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dark Nobleman Attire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115703Z" creationid="pugnus" creationdate="20190423T115703Z">
+        <seg>闇の貴族の衣装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Nobleman Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115945Z" creationid="pugnus" creationdate="20190423T115945Z">
+        <seg>闇の貴族のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark Nobleman Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115913Z" creationid="pugnus" creationdate="20190423T115913Z">
+        <seg>闇の貴族の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dark Red Garb</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T100106Z" creationid="pugnus" creationdate="20190423T100106Z">
@@ -22888,6 +22928,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113109Z" creationid="Gaiden Shinji" creationdate="20190404T113109Z">
         <seg>{1}へ入る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entomber Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115846Z" creationid="pugnus" creationdate="20190423T115846Z">
+        <seg>埋葬人の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entomber Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T115923Z" creationid="pugnus" creationdate="20190423T115923Z">
+        <seg>埋葬人の帽子</seg>
       </tuv>
     </tu>
     <tu>
