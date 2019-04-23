@@ -14429,6 +14429,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brutal Greataxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T074159Z" creationid="pugnus" creationdate="20190423T074159Z">
+        <seg>凶悪なグレートアクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulbous root vegetable with mana-restoring properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072707Z" creationid="seto" creationdate="20190406T072707Z">
@@ -26944,6 +26952,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T120705Z" creationid="pugnus" creationdate="20190422T120705Z">
         <seg>アブラシダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great Runic Blade</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T073943Z" creationid="pugnus" creationdate="20190423T073943Z">
+        <seg>大いなるルーンの刃</seg>
       </tuv>
     </tu>
     <tu>
@@ -54299,6 +54315,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115438Z" creationid="Gaiden Shinji" creationdate="20190404T115438Z">
         <seg>征服者ロスパ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Royal Great-Kopesh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T073753Z" creationid="pugnus" creationdate="20190423T073753Z">
+        <seg>王室の大いなる鎌形剣</seg>
       </tuv>
     </tu>
     <tu>
