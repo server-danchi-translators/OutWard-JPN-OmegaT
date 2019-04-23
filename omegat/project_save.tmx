@@ -51822,6 +51822,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Potent meat from prime animals, which rots quickly and carries diseases while raw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T233418Z" creationid="pugnus" creationdate="20190423T233418Z">
+        <seg>野生の動物からの強力な肉。それは急速に腐り、生のままで食せば病気になるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potion which instantly heals some wounds.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="VAKA" creationdate="20190405T133833Z">
