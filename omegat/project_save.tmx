@@ -39652,6 +39652,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marble Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091722Z" creationid="pugnus" creationdate="20190423T091722Z">
+        <seg>大理石の斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marble Morningstar</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033849Z" creationid="pugnus" creationdate="20190423T033849Z">
@@ -41816,6 +41824,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045248Z" creationid="seto" creationdate="20190406T045248Z">
         <seg>キノコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushroom Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091829Z" creationid="pugnus" creationdate="20190423T091829Z">
+        <seg>マッシュルームの斧槍</seg>
       </tuv>
     </tu>
     <tu>
