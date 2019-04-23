@@ -26428,6 +26428,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gold-Lich Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090900Z" creationid="pugnus" creationdate="20190423T090900Z">
+        <seg>ゴールドリッチの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gold-Lich Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032059Z" creationid="pugnus" creationdate="20190423T032059Z">
@@ -39612,6 +39620,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marble Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090849Z" creationid="pugnus" creationdate="20190423T090849Z">
+        <seg>大理石の槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marble Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032042Z" creationid="pugnus" creationdate="20190423T032042Z">
@@ -44914,6 +44930,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032229Z" creationid="pugnus" creationdate="20190423T032229Z">
         <seg>太古のグラディウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Legion Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090914Z" creationid="pugnus" creationdate="20190423T090914Z">
+        <seg>太古の軍用槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -65772,10 +65796,34 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Troglodyte Halberd</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091130Z" creationid="pugnus" creationdate="20190423T091130Z">
+        <seg>トログロダイトの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Troglodyte Knight</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T235128Z" creationid="pugnus" creationdate="20190410T235128Z">
         <seg>トログロダイトナイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte Pole Mace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T091007Z" creationid="pugnus" creationdate="20190423T091007Z">
+        <seg>トログロダイトの長柄槌矛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Troglodyte Trident</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090933Z" creationid="pugnus" creationdate="20190423T090933Z">
+        <seg>トログロダイトの矛</seg>
       </tuv>
     </tu>
     <tu>
