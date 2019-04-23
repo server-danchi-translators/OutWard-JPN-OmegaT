@@ -20817,10 +20817,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deals high Fire damage and inflicts Burning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022018Z" creationid="pugnus" creationdate="20190423T022018Z">
+        <seg>炎属性の大ダメージを与え、目標を燃やす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals moderate Fire damage and inflicts Burning.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021842Z" creationid="pugnus" creationdate="20190423T021842Z">
         <seg>中程度の炎ダメージを与え、目標を燃やす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals moderate Lightning damage and inflicts Confusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022136Z" creationid="pugnus" creationdate="20190423T022136Z">
+        <seg>中程度の電ダメージを与え、目標に混乱を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33443,6 +33459,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113406Z">
         <seg>重要なランドマークにはアイコンが付いています。  カーソルを合わせるとその名前が表示されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved Incendiary Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T021916Z" creationid="pugnus" creationdate="20190423T021916Z">
+        <seg>改良された焼夷性の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -55763,6 +55787,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114903Z" creationid="seto" creationdate="20190404T114903Z">
         <seg>ShivSlave_Vendavel_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shock Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T022050Z" creationid="pugnus" creationdate="20190423T022050Z">
+        <seg>電撃性の罠</seg>
       </tuv>
     </tu>
     <tu>
