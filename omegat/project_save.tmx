@@ -41766,8 +41766,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Morbid shield made by the deranged gravekeeper Cremeuh, to reward you for robbing graves.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T100044Z" creationid="pugnus" creationdate="20190410T100044Z">
-        <seg>墓を暴いたあなたに報酬を与えるために、狂った墓守クレミューにより作成された、病的な盾。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095553Z" creationid="pugnus" creationdate="20190410T100044Z">
+        <seg>墓を暴いたあなたに報酬を与えるために、狂った墓守クレムにより作成された、病的な盾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41998,8 +41998,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Mushroom Halberd</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T091829Z" creationid="pugnus" creationdate="20190423T091829Z">
-        <seg>マッシュルームの斧槍</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095617Z" creationid="pugnus" creationdate="20190423T091829Z">
+        <seg>キノコの斧槍</seg>
       </tuv>
     </tu>
     <tu>
@@ -61235,6 +61235,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Straw Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095823Z" creationid="pugnus" creationdate="20190423T095823Z">
+        <seg>麦わら帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Strong allies.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060039Z" creationid="pugnus" creationdate="20190418T060032Z">
@@ -65980,6 +65988,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trader Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095804Z" creationid="pugnus" creationdate="20190423T095804Z">
+        <seg>商人の服装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TrainerMenu_Requirement_Breakthrough</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095229Z" creationid="setom" creationdate="20190402T095229Z">
@@ -66336,6 +66352,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
         <seg>ツァーリのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tsar Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T095604Z" creationid="pugnus" creationdate="20190423T095604Z">
+        <seg>ツァーリの盾</seg>
       </tuv>
     </tu>
     <tu>
