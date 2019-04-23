@@ -29494,6 +29494,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Seller Helena</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014338Z" creationid="pugnus" creationdate="20190423T014338Z">
+        <seg>家屋販売士ヘレナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>House Seller Karin</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T013638Z" creationid="pugnus" creationdate="20190423T013638Z">
@@ -37456,6 +37464,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114938Z" creationid="Gaiden Shinji" creationdate="20190404T114923Z">
         <seg>レイナ・アバホース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Laine the Alchemist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014413Z" creationid="pugnus" creationdate="20190423T014413Z">
+        <seg>錬金術師レイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -65672,6 +65688,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071427Z" creationid="hiru4" creationdate="20190402T071427Z">
         <seg>投票</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vyzyrinthrix the Blacksmith</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T014549Z" creationid="pugnus" creationdate="20190423T014549Z">
+        <seg>鍛冶屋「Vyzyrinthrix」</seg>
       </tuv>
     </tu>
     <tu>
