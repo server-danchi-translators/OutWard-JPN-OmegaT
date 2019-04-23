@@ -41580,6 +41580,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merton’s Skull</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131343Z" creationid="pugnus" creationdate="20190423T131343Z">
+        <seg>マートンのドクロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MessageBox_Authentication_Failed</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043852Z" creationid="seto" creationdate="20190406T043852Z">
@@ -77265,6 +77273,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>“Can’t feel em’ weathers, and it’s got lots o’ storage space!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131328Z" creationid="pugnus" creationdate="20190423T131328Z">
+        <seg>“天候はあまり良くないような気がする。そして、収納スペースは沢山ある！”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>“Haloo, there, small human!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042528Z" creationid="はぐくみ会" creationdate="20190403T234402Z">
@@ -77365,6 +77381,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T093855Z" creationid="pugnus" creationdate="20190415T093855Z">
         <seg>“忘れるな、我々の最優先事項は、「旧レバント人による申し立てを破棄する」ことだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Skeletons ain’t weak to poison, that’s crazy talk!”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131454Z" creationid="pugnus" creationdate="20190423T131454Z">
+        <seg>“スケルトンは毒に弱いのではない、おかしな話だ！”</seg>
       </tuv>
     </tu>
     <tu>
