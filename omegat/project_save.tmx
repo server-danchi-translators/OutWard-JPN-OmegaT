@@ -23796,6 +23796,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031928Z" creationid="pugnus" creationdate="20190423T031928Z">
+        <seg>牙の剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Farewell.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163641Z">
@@ -38628,6 +38636,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Machete</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032007Z" creationid="pugnus" creationdate="20190423T032007Z">
+        <seg>山刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machine</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115844Z" creationid="Gaiden Shinji" creationdate="20190404T115844Z">
@@ -39232,6 +39248,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045311Z" creationid="seto" creationdate="20190406T045311Z">
         <seg>Map_Windmill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marble Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T032042Z" creationid="pugnus" creationdate="20190423T032042Z">
+        <seg>大理石の剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -50842,6 +50866,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113445Z" creationid="setom" creationdate="20190401T113445Z">
         <seg>種族</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Radiant Wolf Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031913Z" creationid="pugnus" creationdate="20190423T031913Z">
+        <seg>輝狼の剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -69021,6 +69053,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115741Z" creationid="Gaiden Shinji" creationdate="20190404T115741Z">
         <seg>ウルフブラザー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031823Z" creationid="pugnus" creationdate="20190423T031823Z">
+        <seg>狼の剣</seg>
       </tuv>
     </tu>
     <tu>
