@@ -13863,16 +13863,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blacksmith's Hammer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T034204Z" creationid="pugnus" creationdate="20190423T034204Z">
-        <seg>鍛冶屋の金槌</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085631Z" creationid="pugnus" creationdate="20190423T034204Z">
+        <seg>鍛冶屋の槌</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Blacksmith's Vintage Hammer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T034323Z" creationid="pugnus" creationdate="20190423T034323Z">
-        <seg>由緒ある鍛冶屋の金槌</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085626Z" creationid="pugnus" creationdate="20190423T034323Z">
+        <seg>由緒ある鍛冶屋の槌</seg>
       </tuv>
     </tu>
     <tu>
@@ -14441,6 +14441,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T084203Z" creationid="pugnus" creationdate="20190423T084203Z">
         <seg>凶悪なグレートメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brutal Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085810Z" creationid="pugnus" creationdate="20190423T085810Z">
+        <seg>凶悪な槍r</seg>
       </tuv>
     </tu>
     <tu>
@@ -35535,6 +35543,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron Greathammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085707Z" creationid="pugnus" creationdate="20190423T085707Z">
+        <seg>鉄の大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033724Z" creationid="pugnus" creationdate="20190423T033724Z">
@@ -39136,6 +39152,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T001223Z" creationid="pugnus" creationdate="20190411T001223Z">
         <seg>マンティコア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manticore Greatmace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085725Z" creationid="pugnus" creationdate="20190423T085725Z">
+        <seg>マンティコアのグレートメイス</seg>
       </tuv>
     </tu>
     <tu>
@@ -44606,6 +44630,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obsidian Greatmace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085748Z" creationid="pugnus" creationdate="20190423T085748Z">
+        <seg>黒曜石の大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Obsidian Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034401Z" creationid="pugnus" creationdate="20190423T034401Z">
@@ -46718,6 +46750,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palladium Greathammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085736Z" creationid="pugnus" creationdate="20190423T085736Z">
+        <seg>パラジウムの大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palladium Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
@@ -47186,6 +47226,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120321Z" creationid="Gaiden Shinji" creationdate="20190404T120321Z">
         <seg>柱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pillar Greathammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085654Z" creationid="pugnus" creationdate="20190423T085654Z">
+        <seg>柱の大槌</seg>
       </tuv>
     </tu>
     <tu>
@@ -65828,6 +65876,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tsar Greathammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085800Z" creationid="pugnus" creationdate="20190423T085800Z">
+        <seg>ツァーリの大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tsar Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
@@ -69611,8 +69667,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wolf Greathammer</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T084941Z" creationid="pugnus" creationdate="20190423T084227Z">
-        <seg>狼の大金槌</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T085620Z" creationid="pugnus" creationdate="20190423T084227Z">
+        <seg>狼の大槌</seg>
       </tuv>
     </tu>
     <tu>
@@ -69702,6 +69758,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T084956Z" creationid="pugnus" creationdate="20190423T084004Z">
         <seg>世界の端の大戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worn Guisarme</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090046Z" creationid="pugnus" creationdate="20190423T090046Z">
+        <seg>使い古した矛</seg>
       </tuv>
     </tu>
     <tu>
