@@ -10041,6 +10041,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventurer Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100349Z" creationid="pugnus" creationdate="20190423T100323Z">
+        <seg>冒険者の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adventurer Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100400Z" creationid="pugnus" creationdate="20190423T100400Z">
+        <seg>冒険者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adventurer's Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100344Z" creationid="pugnus" creationdate="20190423T100344Z">
+        <seg>冒険者の兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After all the crap we just went through?!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T052230Z" creationid="weedssoul" creationdate="20190406T040848Z">
@@ -47006,6 +47030,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Padded Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100236Z" creationid="pugnus" creationdate="20190423T100236Z">
+        <seg>詰め物をした鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Padded Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100303Z" creationid="pugnus" creationdate="20190423T100303Z">
+        <seg>詰め物をしたブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Padded Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100247Z" creationid="pugnus" creationdate="20190423T100247Z">
+        <seg>詰め物をした兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Padded or fur-lined clothes also protect against the cold.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084941Z" creationid="setom" creationdate="20190402T084941Z">
@@ -55335,6 +55383,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scavenger Coat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100507Z" creationid="pugnus" creationdate="20190423T100507Z">
+        <seg>あさり人の外套</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Abrassar_Dungeon1</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033432Z" creationid="seto" creationdate="20190406T033432Z">
@@ -61287,6 +61343,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T095823Z" creationid="pugnus" creationdate="20190423T095823Z">
         <seg>麦わら帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Striped Garb</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100206Z" creationid="pugnus" creationdate="20190423T100206Z">
+        <seg>縞模様の服</seg>
       </tuv>
     </tu>
     <tu>
