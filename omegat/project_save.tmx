@@ -14021,6 +14021,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bludgeon Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025048Z" creationid="pugnus" creationdate="20190423T025030Z">
+        <seg>棍棒の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue Chamber</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190416T110930Z" creationid="Gaiden Shinji" creationdate="20190404T112651Z">
@@ -20853,6 +20861,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T024443Z" creationid="pugnus" creationdate="20190423T024443Z">
         <seg>氷属性の大ダメージを与え、目標の動きを遅くさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals low Physical damage and inflicts Bleeding.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025003Z" creationid="pugnus" creationdate="20190423T025003Z">
+        <seg>物理的な小ダメージを与え、目標を流血させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals low Physical damage with high Impact and inflicts Confusion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025151Z" creationid="pugnus" creationdate="20190423T025151Z">
+        <seg>物理的な小ダメージと、高い衝撃を与え、さらに目標を混乱させる。</seg>
       </tuv>
     </tu>
     <tu>
