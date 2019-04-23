@@ -18294,6 +18294,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corruption</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T021554Z" creationid="pugnus" creationdate="20190423T021554Z">
+        <seg>瘴気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corruption Protection</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025555Z" creationid="hiru4" creationdate="20190402T020712Z">
@@ -20805,6 +20813,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T054036Z">
         <seg>払う。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals moderate Fire damage and inflicts Burning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T021842Z" creationid="pugnus" creationdate="20190423T021842Z">
+        <seg>中程度の炎ダメージを与え、目標を燃やす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33555,6 +33571,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102334Z" creationid="pugnus" creationdate="20190404T114118Z">
         <seg>今の私の状態では、敵に追いつくことは不可能だ...ベルクを襲撃した者たちは逃げ出したようだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incendiary Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T021729Z" creationid="pugnus" creationdate="20190423T021644Z">
+        <seg>焼夷性の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -73993,8 +74017,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>value</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T034004Z" creationid="setom" creationdate="20190401T034004Z">
-        <seg>value</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T021610Z" creationid="setom" creationdate="20190401T034004Z">
+        <seg>値</seg>
       </tuv>
     </tu>
     <tu>
