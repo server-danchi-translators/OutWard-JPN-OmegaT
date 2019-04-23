@@ -26324,6 +26324,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gold-Lich Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035233Z" creationid="pugnus" creationdate="20190423T035233Z">
+        <seg>ゴールドリッチの大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gold-Lich Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033909Z" creationid="pugnus" creationdate="20190423T033909Z">
@@ -33681,8 +33689,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Immense man-cutting saw of the bandit lord Zagis.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T062826Z" creationid="setom" creationdate="20190402T062826Z">
-        <seg>蛮族長Zagisの恐ろしく切れるノコギリ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035209Z" creationid="setom" creationdate="20190402T062826Z">
+        <seg>蛮族長ザギスの恐ろしく切れるノコギリ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39424,6 +39432,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033120Z" creationid="pugnus" creationdate="20190423T033120Z">
         <seg>大理石の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marble Claymore</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035224Z" creationid="pugnus" creationdate="20190423T035224Z">
+        <seg>大理石の大剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -72659,6 +72675,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115801Z" creationid="Gaiden Shinji" creationdate="20190404T115801Z">
         <seg>ザギス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zagis' Saw</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T035157Z" creationid="pugnus" creationdate="20190423T035157Z">
+        <seg>ザギスの鋸</seg>
       </tuv>
     </tu>
     <tu>
