@@ -35287,6 +35287,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iron Sword</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031623Z" creationid="pugnus" creationdate="20190423T031623Z">
+        <seg>鉄の剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron vein</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130616Z" creationid="Gaiden Shinji" creationdate="20190403T114216Z">
@@ -57362,6 +57370,38 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standard Bludgeon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031454Z" creationid="pugnus" creationdate="20190423T031454Z">
+        <seg>標準的な棍棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Bludgeon 2H</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031517Z" creationid="pugnus" creationdate="20190423T031517Z">
+        <seg>両手持ち標準棍棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Pole Arm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031601Z" creationid="pugnus" creationdate="20190423T031601Z">
+        <seg>標準的な長柄武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Standard Spear</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031613Z" creationid="pugnus" creationdate="20190423T031613Z">
+        <seg>標準的な槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Standard Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031417Z" creationid="pugnus" creationdate="20190423T031417Z">
@@ -60119,6 +60159,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
         <seg>ステルス+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steel Sabre</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T031733Z" creationid="pugnus" creationdate="20190423T031733Z">
+        <seg>鋼の軍刀</seg>
       </tuv>
     </tu>
     <tu>
