@@ -14349,6 +14349,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brigand’s Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113623Z" creationid="pugnus" creationdate="20190423T113615Z">
+        <seg>山賊の帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brightness</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022305Z" creationid="hiru4" creationdate="20190402T022305Z">
@@ -22616,6 +22624,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093010Z" creationid="seto" creationdate="20190418T093010Z">
         <seg>Elinara_HM_Questions_31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elite Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113655Z" creationid="pugnus" creationdate="20190423T113655Z">
+        <seg>精鋭の頭巾</seg>
       </tuv>
     </tu>
     <tu>
@@ -37852,6 +37868,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Jade-Lich Robes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113851Z" creationid="pugnus" creationdate="20190423T113851Z">
+        <seg>ジェイドリッチの法服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jade-Lich Staff</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T093009Z" creationid="pugnus" creationdate="20190423T093009Z">
@@ -39096,6 +39120,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032847Z" creationid="Gaiden Shinji" creationdate="20190404T112938Z">
         <seg>獲る:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looter Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113741Z" creationid="pugnus" creationdate="20190423T113741Z">
+        <seg>遺跡荒らしの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looter Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T113755Z" creationid="pugnus" creationdate="20190423T113755Z">
+        <seg>遺跡荒らしの覆面</seg>
       </tuv>
     </tu>
     <tu>
