@@ -39140,6 +39140,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mantis Greatpick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084615Z" creationid="pugnus" creationdate="20190423T084615Z">
+        <seg>蟷螂の巨大ツルハシ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mantis Shrimp</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T115909Z" creationid="pugnus" creationdate="20190422T115909Z">
@@ -39552,6 +39560,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T074236Z" creationid="pugnus" creationdate="20190423T074236Z">
         <seg>大理石のグレートアクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marble Greathammer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084535Z" creationid="pugnus" creationdate="20190423T084535Z">
+        <seg>大理石のグレートハンマー</seg>
       </tuv>
     </tu>
     <tu>
@@ -41192,6 +41208,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T084142Z" creationid="Light" creationdate="20190407T084142Z">
         <seg>カモフラージュすることで襲われる可能性を減らす、ミニマリスト向けテント。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mining Pick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084718Z" creationid="pugnus" creationdate="20190423T084718Z">
+        <seg>採鉱ツルハシ</seg>
       </tuv>
     </tu>
     <tu>
