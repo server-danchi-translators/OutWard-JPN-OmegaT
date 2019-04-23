@@ -24004,6 +24004,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fang Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094525Z" creationid="pugnus" creationdate="20190423T094525Z">
+        <seg>牙の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fang Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031928Z" creationid="pugnus" creationdate="20190423T031928Z">
@@ -45070,6 +45078,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old Legion Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094543Z" creationid="pugnus" creationdate="20190423T094543Z">
+        <seg>太古の軍盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Legion Spear</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T090914Z" creationid="pugnus" creationdate="20190423T090914Z">
@@ -47474,6 +47490,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020642Z" creationid="pugnus" creationdate="20190423T020642Z">
         <seg>ペスト医師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plank Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094619Z" creationid="pugnus" creationdate="20190423T094619Z">
+        <seg>木板の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -56673,8 +56697,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Shield used by the Wolf-Knights of the northern reaches, who brave the bitter cold to stop the spread of icy beasts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T070022Z" creationid="setom" creationdate="20190402T070003Z">
-        <seg>北方に到達し、勇敢にも氷の獣の広がりを極寒の地で防いだWolf Knightsが使った盾。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094515Z" creationid="setom" creationdate="20190402T070003Z">
+        <seg>北方に到達し、勇敢にも氷の獣の広がりを極寒の地で防いだ狼の騎士が使った盾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65796,6 +65820,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tower Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094433Z" creationid="pugnus" creationdate="20190423T094433Z">
+        <seg>塔の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Town Hall</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112601Z" creationid="Gaiden Shinji" creationdate="20190404T112601Z">
@@ -69997,6 +70029,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085620Z" creationid="pugnus" creationdate="20190423T084227Z">
         <seg>狼の大槌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Shield</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T094443Z" creationid="pugnus" creationdate="20190423T094443Z">
+        <seg>狼の盾</seg>
       </tuv>
     </tu>
     <tu>
