@@ -11716,8 +11716,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Artifact spear of the Cabal of Winds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064149Z" creationid="setom" creationdate="20190402T064149Z">
-        <seg>Cabal of Windsの秘宝である槍。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090617Z" creationid="setom" creationdate="20190402T064149Z">
+        <seg>風の一党の秘宝である槍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47270,6 +47270,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pitchfork</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090838Z" creationid="pugnus" creationdate="20190423T090838Z">
+        <seg>干し草用三つまた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Place only that item in Manual Recipe (of survival crafting) and accept, turning the item into basic resources like iron or palladium scraps.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114108Z">
@@ -51146,6 +51154,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110658Z" creationid="seto" creationdate="20190409T110658Z">
         <seg>QName_Neut_Vendavel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quarterstaff</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T090729Z" creationid="pugnus" creationdate="20190423T090729Z">
+        <seg>六尺棒</seg>
       </tuv>
     </tu>
     <tu>
