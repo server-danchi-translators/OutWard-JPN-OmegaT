@@ -10913,6 +10913,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ammolite Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130906Z" creationid="pugnus" creationdate="20190423T130906Z">
+        <seg>アンモライトの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammolite Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130926Z" creationid="pugnus" creationdate="20190423T130926Z">
+        <seg>アンモライトのブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ammolite Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130917Z" creationid="pugnus" creationdate="20190423T130917Z">
+        <seg>アンモライトの兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ammunition for pistols, crafted from iron and oil.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142202Z" creationid="weedssoul" creationdate="20190406T142202Z">
@@ -41548,6 +41572,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merton’s Ribcage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131100Z" creationid="pugnus" creationdate="20190423T131100Z">
+        <seg>マートンの胸郭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MessageBox_Authentication_Failed</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043852Z" creationid="seto" creationdate="20190406T043852Z">
@@ -56039,6 +56071,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Runic Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130813Z" creationid="pugnus" creationdate="20190423T130813Z">
+        <seg>ルーンのブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Runic Helm</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T130802Z" creationid="pugnus" creationdate="20190423T130802Z">
@@ -67548,10 +67588,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tsar Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130936Z" creationid="pugnus" creationdate="20190423T130936Z">
+        <seg>ツァーリの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tsar Axe</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033713Z" creationid="pugnus" creationdate="20190423T033713Z">
         <seg>ツァーリの戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tsar Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130951Z" creationid="pugnus" creationdate="20190423T130951Z">
+        <seg>ツァーリのブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -67584,6 +67640,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T092353Z" creationid="pugnus" creationdate="20190423T092353Z">
         <seg>ツァーリの斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tsar Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T130944Z" creationid="pugnus" creationdate="20190423T130944Z">
+        <seg>ツァーリの兜</seg>
       </tuv>
     </tu>
     <tu>
