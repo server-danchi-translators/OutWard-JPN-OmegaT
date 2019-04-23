@@ -22918,8 +22918,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Elite Plate Boots</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T124500Z" creationid="pugnus" creationdate="20190423T124500Z">
-        <seg>精鋭の装甲ブーツ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T124951Z" creationid="pugnus" creationdate="20190423T124500Z">
+        <seg>精鋭の板金ブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -29056,6 +29056,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025723Z" creationid="weedssoul" creationdate="20190406T025723Z">
         <seg>座礁する前に、船の半分がばらばらになった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Halfplate Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125231Z" creationid="pugnus" creationdate="20190423T125231Z">
+        <seg>軽装板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Halfplate Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125242Z" creationid="pugnus" creationdate="20190423T125242Z">
+        <seg>軽装板金兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -48408,24 +48424,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Plate Armor</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T124550Z" creationid="pugnus" creationdate="20190423T124550Z">
-        <seg>装甲鎧</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125002Z" creationid="pugnus" creationdate="20190423T124550Z">
+        <seg>板金鎧</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Plate Boots</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T124607Z" creationid="pugnus" creationdate="20190423T124607Z">
-        <seg>装甲ブーツ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125016Z" creationid="pugnus" creationdate="20190423T124607Z">
+        <seg>板金ブーツ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Plate Helm</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T124559Z" creationid="pugnus" creationdate="20190423T124559Z">
-        <seg>装甲兜</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125011Z" creationid="pugnus" creationdate="20190423T124559Z">
+        <seg>板金兜</seg>
       </tuv>
     </tu>
     <tu>
