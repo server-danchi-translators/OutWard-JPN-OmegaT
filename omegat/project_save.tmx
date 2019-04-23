@@ -29478,6 +29478,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>House Seller Karin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013638Z" creationid="pugnus" creationdate="20190423T013638Z">
+        <seg>家屋販売士カリン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How are you holding up?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T134835Z" creationid="weedssoul" creationdate="20190406T024530Z">
@@ -38964,6 +38972,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Master-Smith Tokuga</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013957Z" creationid="pugnus" creationdate="20190423T013957Z">
+        <seg>熟練の職人トクガ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mastering skills like this one is the key to survival out in the wild.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063655Z">
@@ -43906,6 +43922,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T060829Z" creationid="urakata" creationdate="20190406T115055Z">
         <seg>ベルクにいるカジートのアサシン、オゴイはビーストゴーレムのスクラップを2つ探している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ogoi, Kazite Assassin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013709Z" creationid="pugnus" creationdate="20190423T013709Z">
+        <seg>カジートの暗殺者オゴイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64728,6 +64752,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112953Z">
         <seg>画面を分割するかオンラインでマルチプレイを試してください。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tuan the Alchemist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T013754Z" creationid="pugnus" creationdate="20190423T013754Z">
+        <seg>錬金術師トゥアン</seg>
       </tuv>
     </tu>
     <tu>
