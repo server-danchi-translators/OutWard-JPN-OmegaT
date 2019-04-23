@@ -14437,6 +14437,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brutal Greatmace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084203Z" creationid="pugnus" creationdate="20190423T084203Z">
+        <seg>凶悪なグレートメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulbous root vegetable with mana-restoring properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072707Z" creationid="seto" creationdate="20190406T072707Z">
@@ -46670,6 +46678,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palladium Greataxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T083824Z" creationid="pugnus" creationdate="20190423T083824Z">
+        <seg>パラジウムのグレートアクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palladium Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
@@ -65764,6 +65780,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tsar Greataxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T083848Z" creationid="pugnus" creationdate="20190423T083848Z">
+        <seg>ツァーリのグレートアクス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tsar Mace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034416Z" creationid="pugnus" creationdate="20190423T034416Z">
@@ -69622,6 +69646,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042925Z" creationid="Light" creationdate="20190406T042925Z">
         <seg>仕事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worldedge Greataxe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084004Z" creationid="pugnus" creationdate="20190423T084004Z">
+        <seg>世界の端の両手斧</seg>
       </tuv>
     </tu>
     <tu>
@@ -75323,8 +75355,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“The Dusk Father’s knowledge is eternal; this world is but one stop in His travel across the great void.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T064624Z" creationid="setom" creationdate="20190402T064005Z">
-        <seg>「Dusk Fatherの知恵は永遠なり。この世は彼の者の大いなる虚無を超える旅の一端でしかない。」</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T084040Z" creationid="setom" creationdate="20190402T064005Z">
+        <seg>「夕暮れの父の知恵は永遠なり。この世は彼の者の大いなる虚無を超える旅の一端でしかない。」</seg>
       </tuv>
     </tu>
     <tu>
