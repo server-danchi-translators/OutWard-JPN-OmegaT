@@ -13869,6 +13869,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bleed Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T024835Z" creationid="pugnus" creationdate="20190423T024835Z">
+        <seg>流血の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bleeding</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133425Z" creationid="totochan" creationdate="20190403T133425Z">
@@ -20875,8 +20883,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Deals moderate Lightning damage and inflicts Confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T023123Z" creationid="pugnus" creationdate="20190423T022136Z">
-        <seg>中程度の電ダメージと、混乱を与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T024606Z" creationid="pugnus" creationdate="20190423T022136Z">
+        <seg>中程度の雷ダメージと、混乱を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20885,6 +20893,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T024550Z" creationid="pugnus" creationdate="20190423T024550Z">
         <seg>中程度の雷ダメージと、高い衝撃を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals moderate Physical damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T024755Z" creationid="pugnus" creationdate="20190423T024755Z">
+        <seg>中程度の物理的ダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57132,6 +57148,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T020933Z" creationid="pugnus" creationdate="20190406T020708Z">
         <seg>ダメージは与えられないが、前方の広い範囲に衝撃を与えることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spike Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T024726Z" creationid="pugnus" creationdate="20190423T024726Z">
+        <seg>大釘の罠</seg>
       </tuv>
     </tu>
     <tu>
