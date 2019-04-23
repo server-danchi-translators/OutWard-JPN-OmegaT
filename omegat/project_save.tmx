@@ -11554,6 +11554,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arcane Robe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123233Z" creationid="pugnus" creationdate="20190423T123233Z">
+        <seg>奥義の法服</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you familiar with the Montcalm tribe in the Chersonese?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T165209Z" creationid="taman" creationdate="20190413T164549Z">
@@ -47838,6 +47846,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pearlbird Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T122849Z" creationid="pugnus" creationdate="20190423T122849Z">
+        <seg>真珠鳥の覆面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pearlbird Nest</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T001809Z" creationid="Gaiden Shinji" creationdate="20190403T113639Z">
@@ -61991,6 +62007,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T085944Z" creationid="Light" creationdate="20190407T085944Z">
         <seg>Hallowed Marshの毒を中和する奇妙な醸造物だが、他の毒は中和しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strange mask that makes one want to run fast and caw loudly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T123009Z" creationid="pugnus" creationdate="20190423T123009Z">
+        <seg>疾走したくなり、大声で鳴きたくなる、奇妙な覆面。</seg>
       </tuv>
     </tu>
     <tu>
