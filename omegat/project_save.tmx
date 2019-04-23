@@ -55383,10 +55383,42 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scavenger Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100652Z" creationid="pugnus" creationdate="20190423T100652Z">
+        <seg>あさり人のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scavenger Coat</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T100507Z" creationid="pugnus" creationdate="20190423T100507Z">
         <seg>あさり人の外套</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scavenger Hood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100606Z" creationid="pugnus" creationdate="20190423T100606Z">
+        <seg>あさり人の頭巾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scavenger Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100539Z" creationid="pugnus" creationdate="20190423T100539Z">
+        <seg>あさり人の覆面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scavenger Scarf</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T100634Z" creationid="pugnus" creationdate="20190423T100634Z">
+        <seg>あさり人の襟巻き</seg>
       </tuv>
     </tu>
     <tu>
