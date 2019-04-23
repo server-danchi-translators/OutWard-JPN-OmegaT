@@ -15382,6 +15382,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Candle Plate Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125551Z" creationid="pugnus" creationdate="20190423T125551Z">
+        <seg>蝋燭の板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot complete transaction.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131954Z" creationid="hiru4" creationdate="20190403T052143Z">
@@ -29064,6 +29072,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T125231Z" creationid="pugnus" creationdate="20190423T125231Z">
         <seg>軽装板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Halfplate Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125253Z" creationid="pugnus" creationdate="20190423T125253Z">
+        <seg>軽装板金ブーツ</seg>
       </tuv>
     </tu>
     <tu>
@@ -48054,10 +48070,34 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Petrified Wood Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125409Z" creationid="pugnus" creationdate="20190423T125409Z">
+        <seg>石化樹の鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Petrified Wood Armor set.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235632Z" creationid="pugnus" creationdate="20190415T235632Z">
         <seg>石化樹の鎧一式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Petrified Wood Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125432Z" creationid="pugnus" creationdate="20190423T125432Z">
+        <seg>石化樹のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Petrified Wood Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125420Z" creationid="pugnus" creationdate="20190423T125420Z">
+        <seg>石化樹の兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -71201,6 +71241,38 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wolf Plate Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125305Z" creationid="pugnus" creationdate="20190423T125305Z">
+        <seg>狼の板金鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Plate Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125355Z" creationid="pugnus" creationdate="20190423T125355Z">
+        <seg>狼の板金ブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Plate Full-Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125342Z" creationid="pugnus" creationdate="20190423T125342Z">
+        <seg>狼の重装板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wolf Plate Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125315Z" creationid="pugnus" creationdate="20190423T125315Z">
+        <seg>狼の板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wolf Shield</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T094443Z" creationid="pugnus" creationdate="20190423T094443Z">
@@ -74515,6 +74587,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115801Z" creationid="Gaiden Shinji" creationdate="20190404T115801Z">
         <seg>ザギス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zagis' Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125453Z" creationid="pugnus" creationdate="20190423T125453Z">
+        <seg>ザギスの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zagis' Mask</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T125444Z" creationid="pugnus" creationdate="20190423T125444Z">
+        <seg>ザギスの覆面</seg>
       </tuv>
     </tu>
     <tu>
