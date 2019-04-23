@@ -20865,6 +20865,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deals high Physical and inflicts Pain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025500Z" creationid="pugnus" creationdate="20190423T025500Z">
+        <seg>物理的な大ダメージを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals low Physical damage and inflicts Bleeding.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T025003Z" creationid="pugnus" creationdate="20190423T025003Z">
@@ -20877,6 +20885,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T025151Z" creationid="pugnus" creationdate="20190423T025151Z">
         <seg>物理的な小ダメージと、高い衝撃を与え、さらに目標を混乱させる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deals low Physical damage, but wooden spikes can be crafted for free out of Wood.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025359Z" creationid="pugnus" creationdate="20190423T025359Z">
+        <seg>物理的な小ダメージを与える。木製の大釘は、手間を惜しまなければ無料で木から作ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33579,6 +33595,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T021916Z" creationid="pugnus" creationdate="20190423T021916Z">
         <seg>改良された焼夷性の罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved Spike Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025425Z" creationid="pugnus" creationdate="20190423T025425Z">
+        <seg>改良された大釘の罠</seg>
       </tuv>
     </tu>
     <tu>
@@ -68917,6 +68941,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T053820Z" creationid="Light" creationdate="20190408T053712Z">
         <seg>種から生まれた不思議なテント。熱から身を守り、渇きと空腹を満たす。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wood Spike Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T025211Z" creationid="pugnus" creationdate="20190423T025211Z">
+        <seg>木製の大釘罠</seg>
       </tuv>
     </tu>
     <tu>
