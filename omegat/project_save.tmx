@@ -14149,6 +14149,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue Light Clothes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121308Z" creationid="pugnus" creationdate="20190423T121308Z">
+        <seg>青光の着物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blue Sand</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114045Z" creationid="Gaiden Shinji" creationdate="20190403T114045Z">
@@ -18494,10 +18502,34 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copal Armor</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121030Z" creationid="pugnus" creationdate="20190423T121030Z">
+        <seg>コーパルの鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copal Armor set.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235613Z" creationid="pugnus" creationdate="20190415T235613Z">
         <seg>コーパルの鎧一式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copal Boots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121052Z" creationid="pugnus" creationdate="20190423T121052Z">
+        <seg>コーパルのブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copal Helm</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121039Z" creationid="pugnus" creationdate="20190423T121039Z">
+        <seg>コーパルの兜</seg>
       </tuv>
     </tu>
     <tu>
@@ -47350,6 +47382,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pale Light Clothes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121347Z" creationid="pugnus" creationdate="20190423T121347Z">
+        <seg>白光の着物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pale Worker's Hood</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T115157Z" creationid="pugnus" creationdate="20190423T115157Z">
@@ -52250,6 +52290,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T101133Z" creationid="pugnus" creationdate="20190415T101133Z">
         <seg>赤の偶像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Red Light Clothes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T121319Z" creationid="pugnus" creationdate="20190423T121319Z">
+        <seg>赤光の着物</seg>
       </tuv>
     </tu>
     <tu>
