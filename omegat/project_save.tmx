@@ -18814,6 +18814,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crabeye Seed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131859Z" creationid="pugnus" creationdate="20190423T131859Z">
+        <seg>クラベイの種</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115033Z" creationid="setom" creationdate="20190401T115033Z">
@@ -41596,6 +41604,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Merton’s Skull and Hat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T131827Z" creationid="pugnus" creationdate="20190423T131827Z">
+        <seg>マートンのドクロと帽子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MessageBox_Authentication_Failed</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T043852Z" creationid="seto" creationdate="20190406T043852Z">
@@ -51746,6 +51762,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120044Z" creationid="setom" creationdate="20190401T120044Z">
         <seg>ポケットの重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisonous seed that, when grilled, is the first step in creating usable poisons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T132006Z" creationid="pugnus" creationdate="20190423T132006Z">
+        <seg>毒の種。火に掛けることが、使える毒を作るための最初のステップだ。</seg>
       </tuv>
     </tu>
     <tu>
