@@ -51824,8 +51824,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Potent meat from prime animals, which rots quickly and carries diseases while raw.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T233418Z" creationid="pugnus" creationdate="20190423T233418Z">
-        <seg>野生の動物からの強力な肉。それは急速に腐り、生のままで食せば病気になるだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T233604Z" creationid="pugnus" creationdate="20190423T233418Z">
+        <seg>極上の動物からとれた至上の肉。それは急速に腐り、生のままで食せば病気になるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52810,6 +52810,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045230Z" creationid="seto" creationdate="20190406T045230Z">
         <seg>糧食材</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Alpha Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190423T233821Z" creationid="pugnus" creationdate="20190423T233821Z">
+        <seg>極上の生肉</seg>
       </tuv>
     </tu>
     <tu>
