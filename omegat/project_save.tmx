@@ -13861,6 +13861,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before you do, I found this stone on a dead ash giant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T233924Z" creationid="pugnus" creationdate="20190424T233924Z">
+        <seg>私は、亡くなった灰の巨人の身体の上に、この石を見つけました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before you go I need you to understand the lengths we go to to protect Aurai from the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T164031Z" creationid="taman" creationdate="20190409T061154Z">
@@ -23441,6 +23449,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060431Z" creationid="pugnus" creationdate="20190418T060431Z">
         <seg>はい、そして彼らは同盟に興味を持っていないことも知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enough, I think I am ready to decide.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T233618Z" creationid="pugnus" creationdate="20190424T233618Z">
+        <seg>十分である。我はもう準備ができている。</seg>
       </tuv>
     </tu>
     <tu>
