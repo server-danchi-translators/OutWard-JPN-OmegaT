@@ -16495,6 +16495,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charge – Nerve Gas</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T091101Z" creationid="pugnus" creationdate="20190424T091101Z">
+        <seg>チャージ:神経ガス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Charge – Toxic</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T090438Z" creationid="pugnus" creationdate="20190424T090438Z">
@@ -26189,6 +26197,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gas bladder that, when placed in a Pressure Plate, inflicts Ethereal Damage and Pain to enemies that step on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T091221Z" creationid="pugnus" creationdate="20190424T091221Z">
+        <seg>圧力板に神経ガスの仕掛けをする。上に乗っている敵にエーテルダメージと痛みを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GateKeeper_Vendavel_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T115134Z" creationid="seto" creationdate="20190404T115134Z">
@@ -30705,6 +30721,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120103Z" creationid="Gaiden Shinji" creationdate="20190404T120103Z">
         <seg>隠されたレポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T091557Z" creationid="pugnus" creationdate="20190424T091557Z">
+        <seg>獣皮</seg>
       </tuv>
     </tu>
     <tu>
@@ -59941,6 +59965,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T085541Z" creationid="pugnus" creationdate="20190424T085541Z">
         <seg>パラジウムの大釘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spikes – Wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T091232Z" creationid="pugnus" creationdate="20190424T091232Z">
+        <seg>木の大釘</seg>
       </tuv>
     </tu>
     <tu>
