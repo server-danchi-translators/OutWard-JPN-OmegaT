@@ -18488,8 +18488,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Cooking: Jerky</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T141310Z" creationid="Light" creationdate="20190406T141310Z">
-        <seg>料理:Jerky</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070041Z" creationid="Light" creationdate="20190406T141310Z">
+        <seg>料理:干し肉</seg>
       </tuv>
     </tu>
     <tu>
@@ -52984,8 +52984,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Raw Alpha Meat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T065218Z" creationid="pugnus" creationdate="20190423T233821Z">
-        <seg>生のアルファ肉</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065709Z" creationid="pugnus" creationdate="20190423T233821Z">
+        <seg>生の極上肉</seg>
       </tuv>
     </tu>
     <tu>
