@@ -40100,6 +40100,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Luxe Lichette</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T072433Z" creationid="pugnus" creationdate="20190424T072407Z">
+        <seg>贅沢なリシェット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MISSING DESC</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T033943Z" creationid="setom" creationdate="20190401T033943Z">
@@ -59660,6 +59668,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T064636Z" creationid="weedssoul" creationdate="20190407T064636Z">
         <seg>傷を回復することに関しては無類のエンメルカルの特別な料理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special dish of the Chersonese which restores a fair amount of stamina and a large amount of health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T072415Z" creationid="pugnus" creationdate="20190424T072415Z">
+        <seg>かなりの量のスタミナとたくさんの体力を回復できる、チェルソネスの特別料理。</seg>
       </tuv>
     </tu>
     <tu>
