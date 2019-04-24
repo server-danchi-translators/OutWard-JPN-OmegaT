@@ -42556,6 +42556,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Miner’s Omelet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T082639Z" creationid="pugnus" creationdate="20190424T082639Z">
+        <seg>炭鉱夫のオムレツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimalist tent that conceals the user, reducing the chances of being ambushed.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T084142Z" creationid="Light" creationdate="20190407T084142Z">
@@ -68134,8 +68142,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Turmmip Potage</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T081520Z" creationid="pugnus" creationdate="20190424T081520Z">
-        <seg>ターミップポタージュ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T082449Z" creationid="pugnus" creationdate="20190424T081520Z">
+        <seg>カブのポタージュスープ</seg>
       </tuv>
     </tu>
     <tu>
