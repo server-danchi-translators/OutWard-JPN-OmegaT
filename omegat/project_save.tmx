@@ -18358,6 +18358,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooked Alpha Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065547Z" creationid="pugnus" creationdate="20190424T065547Z">
+        <seg>調理した極上肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooked Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065529Z" creationid="pugnus" creationdate="20190424T065529Z">
+        <seg>調理肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooked food rots slower and fills you up more.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T075055Z" creationid="weedssoul" creationdate="20190406T074755Z">
@@ -25344,6 +25360,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113756Z" creationid="setom" creationdate="20190401T113756Z">
         <seg>空腹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Food Waste</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065514Z" creationid="pugnus" creationdate="20190424T065514Z">
+        <seg>生ごみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -39092,6 +39116,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Krimp Nut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065422Z" creationid="pugnus" creationdate="20190424T065422Z">
+        <seg>クリンプ・ナッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lady on the Left</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120347Z" creationid="Gaiden Shinji" creationdate="20190404T120347Z">
@@ -48618,6 +48650,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T062604Z" creationid="urakata" creationdate="20190406T123603Z">
         <seg>ピジョンアイは、まだ、銀を要求している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Piece of very nutritious and fortifying meat.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065649Z" creationid="pugnus" creationdate="20190424T065649Z">
+        <seg>非常に栄養価の高い、調理済みの極上肉。</seg>
       </tuv>
     </tu>
     <tu>
