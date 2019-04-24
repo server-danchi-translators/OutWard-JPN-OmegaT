@@ -13949,6 +13949,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bird Egg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T055108Z" creationid="pugnus" creationdate="20190424T055108Z">
+        <seg>鳥の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitterness solves nothing, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T155125Z">
@@ -17018,6 +17026,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T121321Z" creationid="pugnus" creationdate="20190422T121307Z">
         <seg>司令官の指示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Common Mushroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T055051Z" creationid="pugnus" creationdate="20190424T055051Z">
+        <seg>標準的なマッシュルーム</seg>
       </tuv>
     </tu>
     <tu>
@@ -27744,6 +27760,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022357Z" creationid="hiru4" creationdate="20190402T022357Z">
         <seg>草の密度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gravel Beetle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T055013Z" creationid="pugnus" creationdate="20190424T055013Z">
+        <seg>砂利甲虫</seg>
       </tuv>
     </tu>
     <tu>
@@ -39092,6 +39116,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Large Pearlbird egg that carries a chance of disease when eaten raw.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T055200Z" creationid="pugnus" creationdate="20190424T055200Z">
+        <seg>生のまま食べると病気になる可能性がある、大型の真珠鳥の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Large professional backpack used by explorers.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T083629Z" creationid="Light" creationdate="20190407T083629Z">
@@ -45810,6 +45842,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034401Z" creationid="pugnus" creationdate="20190423T034401Z">
         <seg>黒曜石のメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ochre Spice Beetle</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T054935Z" creationid="pugnus" creationdate="20190424T054935Z">
+        <seg>黄土のスパイスビートル</seg>
       </tuv>
     </tu>
     <tu>
