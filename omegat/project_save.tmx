@@ -14333,6 +14333,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled Miasmapod</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084419Z" creationid="pugnus" creationdate="20190424T084419Z">
+        <seg>ゆで瘴気タコ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiled Turmmip</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T083907Z" creationid="pugnus" creationdate="20190424T083907Z">
@@ -14345,6 +14353,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T094619Z" creationid="seto" creationdate="20190410T094549Z">
         <seg>煮た果物には多少は栄養があり、腐りづらくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boiled octopus that is less toxic but with lower restorative qualities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084548Z" creationid="pugnus" creationdate="20190424T084548Z">
+        <seg>茹でたタコ。毒性は失ったが、回復力は低い。
+</seg>
       </tuv>
     </tu>
     <tu>
