@@ -69095,8 +69095,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vials that, when placed in a Pressure Plate, inflict lingering decay damage to enemies that step on it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T090643Z" creationid="pugnus" creationdate="20190424T090643Z">
-        <seg>ガラス瓶に詰めた毒により、圧力版</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090940Z" creationid="pugnus" creationdate="20190424T090643Z">
+        <seg>圧力板に有毒性の仕掛けをする。上に乗っている敵に長引く腐敗ダメージを与える。</seg>
       </tuv>
     </tu>
     <tu>
