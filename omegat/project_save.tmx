@@ -16489,8 +16489,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Charge – Incendiary</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T090309Z" creationid="pugnus" creationdate="20190424T090309Z">
-        <seg>チャージ:焼夷性</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090443Z" creationid="pugnus" creationdate="20190424T090309Z">
+        <seg>チャージ:焼夷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Charge – Toxic</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090438Z" creationid="pugnus" creationdate="20190424T090438Z">
+        <seg>チャージ:有毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -24599,8 +24607,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Explosives that, when placed in a Pressure Plate, inflict lingering fire damage to enemies that step on it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T090011Z" creationid="pugnus" creationdate="20190424T090011Z">
-        <seg>圧力版に焼夷性の仕掛けをする。上に乗っている敵に長引く火のダメージを与える爆発物。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090655Z" creationid="pugnus" creationdate="20190424T090011Z">
+        <seg>圧力板に焼夷性の仕掛けをする。上に乗っている敵に長引く火のダメージを与える爆発物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69081,6 +69089,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021930Z" creationid="weedssoul" creationdate="20190406T021930Z">
         <seg>いいですか。よく聞きなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vials that, when placed in a Pressure Plate, inflict lingering decay damage to enemies that step on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090643Z" creationid="pugnus" creationdate="20190424T090643Z">
+        <seg>ガラス瓶に詰めた毒により、圧力版</seg>
       </tuv>
     </tu>
     <tu>
