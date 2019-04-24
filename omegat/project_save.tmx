@@ -16487,6 +16487,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charge – Incendiary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090309Z" creationid="pugnus" creationdate="20190424T090309Z">
+        <seg>チャージ:焼夷性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chat</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144618Z" creationid="Horizon" creationdate="20190403T144618Z">
@@ -24585,6 +24593,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063309Z" creationid="hiru4" creationdate="20190403T063309Z">
         <seg>スタックを調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explosives that, when placed in a Pressure Plate, inflict lingering fire damage to enemies that step on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T090011Z" creationid="pugnus" creationdate="20190424T090011Z">
+        <seg>圧力版に焼夷性の仕掛けをする。上に乗っている敵に長引く火のダメージを与える爆発物。</seg>
       </tuv>
     </tu>
     <tu>
