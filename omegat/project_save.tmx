@@ -15294,6 +15294,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cactus Fruit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T054642Z" creationid="pugnus" creationdate="20190424T054642Z">
+        <seg>カクタスの果実</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calixa and Simeon were named rulers of Abrassar desert by Elatt himself.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T092808Z" creationid="pugnus" creationdate="20190417T092808Z">
@@ -29864,6 +29872,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T060035Z" creationid="weedssoul" creationdate="20190406T060035Z">
         <seg>強攻撃は、動作が遅いが、強力だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy desert fruit that re-invigorates and protects against the sun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T054751Z" creationid="pugnus" creationdate="20190424T054751Z">
+        <seg>砂漠の果実が活気を与え、太陽から身を守ることができる。</seg>
       </tuv>
     </tu>
     <tu>
