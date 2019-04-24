@@ -22674,6 +22674,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eggs provide both health and stamina recovery over time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T055246Z" creationid="pugnus" creationdate="20190424T055246Z">
+        <seg>卵は時間とともに、体力とスタミナの回復を緩やかにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112035Z">
