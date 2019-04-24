@@ -14325,6 +14325,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled Cactus Fruit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084902Z" creationid="pugnus" creationdate="20190424T084902Z">
+        <seg>カクタスの果実煮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiled Gaberries</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T094443Z" creationid="seto" creationdate="20190410T094443Z">
@@ -28009,6 +28017,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055210Z">
         <seg>やあ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grilled Marshmelon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084651Z" creationid="pugnus" creationdate="20190424T084651Z">
+        <seg>焼きマーシュメロン</seg>
       </tuv>
     </tu>
     <tu>
@@ -43241,6 +43257,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130522Z" creationid="setom" creationdate="20190403T130522Z">
         <seg>Mushrooms_Star</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mushy fruit that, after being boiled, offers an immediate jolt of stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T085100Z" creationid="pugnus" creationdate="20190424T085100Z">
+        <seg>沸騰して取り出された柔らかい果実。即座にスタミナを回復する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64002,6 +64026,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T161119Z" creationid="Light" creationdate="20190406T161119Z">
         <seg>気温:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tender fruit, boiled to reveal its anti-poison properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084814Z" creationid="pugnus" creationdate="20190424T084814Z">
+        <seg>調理し、柔らかくなったメロン。抗毒作用がある。</seg>
       </tuv>
     </tu>
     <tu>
