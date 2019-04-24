@@ -36383,6 +36383,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iridescent flesh of a rare bird which increases one’s movement speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065130Z" creationid="pugnus" creationdate="20190424T065130Z">
+        <seg>珍しい、生の虹色の鶏肉。身体の動きが早くなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Iron Axe</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032807Z" creationid="pugnus" creationdate="20190423T032807Z">
@@ -36572,6 +36580,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T140248Z" creationid="weedssoul" creationdate="20190406T140248Z">
         <seg>また全属性の耐性を増加させる効果もある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also instantly cures infections.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T064845Z" creationid="pugnus" creationdate="20190424T064845Z">
+        <seg>感染症も即座に治る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42368,6 +42384,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120154Z" creationid="Gaiden Shinji" creationdate="20190404T120154Z">
         <seg>メッセンジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Miasmapod</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T064930Z" creationid="pugnus" creationdate="20190424T064930Z">
+        <seg>瘴気タコ</seg>
       </tuv>
     </tu>
     <tu>
