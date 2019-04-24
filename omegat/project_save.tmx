@@ -18414,6 +18414,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooked Jewel Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084210Z" creationid="pugnus" creationdate="20190424T084210Z">
+        <seg>調理した宝石肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooked Larva Egg</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T082922Z" creationid="pugnus" creationdate="20190424T082922Z">
@@ -19906,6 +19914,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144749Z" creationid="Horizon" creationdate="20190403T144749Z">
         <seg>しゃがむ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crumbling fungus that barely provides nutrition.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084130Z" creationid="pugnus" creationdate="20190424T084130Z">
+        <seg>かろうじて栄養を提供してくれる、崩れかけた菌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27976,6 +27992,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055210Z">
         <seg>やあ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grilled Mushroom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084051Z" creationid="pugnus" creationdate="20190424T084051Z">
+        <seg>焼きキノコ</seg>
       </tuv>
     </tu>
     <tu>
@@ -36531,6 +36555,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T065130Z" creationid="pugnus" creationdate="20190424T065130Z">
         <seg>珍しい、生の虹色の鶏肉。身体の動きが早くなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iridescent steak of a rare bird that increases one’s movement speed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T084335Z" creationid="pugnus" creationdate="20190424T084335Z">
+        <seg>移動速度を上げる希少な鳥の、玉虫色のステーキ。</seg>
       </tuv>
     </tu>
     <tu>
