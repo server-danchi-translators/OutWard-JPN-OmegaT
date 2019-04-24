@@ -52944,8 +52944,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Raw Alpha Meat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T233821Z" creationid="pugnus" creationdate="20190423T233821Z">
-        <seg>極上の生肉</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065218Z" creationid="pugnus" creationdate="20190423T233821Z">
+        <seg>生のアルファ肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Raw Jewel Meat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T065239Z" creationid="pugnus" creationdate="20190424T065239Z">
+        <seg>生の宝石肉</seg>
       </tuv>
     </tu>
     <tu>
