@@ -25732,6 +25732,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaberry Jam</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070605Z" creationid="pugnus" creationdate="20190424T070605Z">
+        <seg>ギャベリーのジャム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaberry jam thinly spread on bread, used to multiply the effects of jam into several portions.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T065216Z" creationid="weedssoul" creationdate="20190407T065216Z">
@@ -27912,6 +27920,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055210Z">
         <seg>やあ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grilled Rainbow Trout</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070642Z" creationid="pugnus" creationdate="20190424T070642Z">
+        <seg>焼いたニジマス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grilled Salmon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070629Z" creationid="pugnus" creationdate="20190424T070629Z">
+        <seg>焼いた鮭</seg>
       </tuv>
     </tu>
     <tu>
@@ -30568,6 +30592,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031513Z" creationid="pugnus" creationdate="20190422T031048Z">
         <seg>上級王シリは、アレがないよ....アレが...アレ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highly prized fish filet that shimmers brightly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070738Z" creationid="pugnus" creationdate="20190424T070738Z">
+        <seg>キラキラと輝く、とても珍しい魚のフィレ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36974,6 +37006,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T065000Z" creationid="weedssoul" creationdate="20190407T065000Z">
         <seg>体力の最大値を僅かに回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It restores mana and increases your resistance against elemental damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T070823Z" creationid="pugnus" creationdate="20190424T070823Z">
+        <seg>マナを回復させ、エレメンタルダメージへの耐性を高める。</seg>
       </tuv>
     </tu>
     <tu>
