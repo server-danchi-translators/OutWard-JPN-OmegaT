@@ -52094,6 +52094,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pot-au-Feu du Pirate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T081116Z" creationid="pugnus" creationdate="20190424T081116Z">
+        <seg>海賊風ポトフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Potato</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045101Z" creationid="seto" creationdate="20190406T045101Z">
@@ -68120,6 +68128,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072235Z" creationid="Gaiden Shinji" creationdate="20190403T114024Z">
         <seg>カブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turmmip Potage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T081520Z" creationid="pugnus" creationdate="20190424T081520Z">
+        <seg>ターミップポタージュ</seg>
       </tuv>
     </tu>
     <tu>
