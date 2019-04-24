@@ -14333,6 +14333,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled Turmmip</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083907Z" creationid="pugnus" creationdate="20190424T083907Z">
+        <seg>ゆでたカブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiled fruit that provides a bit of nutrition and rots more slowly.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T094619Z" creationid="seto" creationdate="20190410T094549Z">
@@ -25780,10 +25788,18 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaberry Tartine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083710Z" creationid="pugnus" creationdate="20190424T083710Z">
+        <seg>ギャベリータルティーヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gaberry jam thinly spread on bread, used to multiply the effects of jam into several portions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190407T065216Z" creationid="weedssoul" creationdate="20190407T065216Z">
-        <seg>パンにギャベリージャムを薄く塗ったもの。ジャムの効果が数段上がっている。.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083721Z" creationid="weedssoul" creationdate="20190407T065216Z">
+        <seg>パンにギャベリージャムを薄く塗ったもの。ジャムの効果が数段上がっている。</seg>
       </tuv>
     </tu>
     <tu>
