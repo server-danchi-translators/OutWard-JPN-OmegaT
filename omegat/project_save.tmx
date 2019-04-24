@@ -18398,6 +18398,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooked Bird Egg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083106Z" creationid="pugnus" creationdate="20190424T083106Z">
+        <seg>調理した鳥の卵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooked Larva Egg</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T082922Z" creationid="pugnus" creationdate="20190424T082922Z">
@@ -22740,8 +22748,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Eggs provide both health and stamina recovery over time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T055246Z" creationid="pugnus" creationdate="20190424T055246Z">
-        <seg>卵は時間とともに、体力とスタミナの回復を緩やかにする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083238Z" creationid="pugnus" creationdate="20190424T055246Z">
+        <seg>食べると時間とともに、体力とスタミナの回復を緩やかにする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48506,6 +48514,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T001809Z" creationid="Gaiden Shinji" creationdate="20190403T113639Z">
         <seg>パールバードの巣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pearlbird egg boiled over a campfire, removing the risk of disease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190424T083209Z" creationid="pugnus" creationdate="20190424T083209Z">
+        <seg>真珠鳥の卵は、キャンプファイヤーにて加熱され、病気の危険が無くなった。</seg>
       </tuv>
     </tu>
     <tu>
