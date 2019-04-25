@@ -41501,6 +41501,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maybe there is benefit in alliance with humans!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T022641Z" creationid="pugnus" creationdate="20190425T022641Z">
+        <seg>小さきヒトとの同盟は、我らにとっても利益があるようだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maybe there people will treat me with some damn respect!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024320Z" creationid="weedssoul" creationdate="20190406T024320Z">
@@ -72883,6 +72891,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You actually bring the rare root!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T022503Z" creationid="pugnus" creationdate="20190425T022503Z">
+        <seg>そなたは珍しい根を持ってきたか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You also know several useful survival crafting recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114022Z">
@@ -74086,6 +74102,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132032Z" creationid="hiru4" creationdate="20190403T052652Z">
         <seg>スキルを学ぶためにエラット神聖伝道団のメンバーでなければなりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must be very strong!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T022537Z" creationid="pugnus" creationdate="20190425T022537Z">
+        <seg>身体は小さいが、勇敢であるな！</seg>
       </tuv>
     </tu>
     <tu>
