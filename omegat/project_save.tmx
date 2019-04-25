@@ -15367,6 +15367,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CIN TARAK!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T015519Z" creationid="pugnus" creationdate="20190425T015519Z">
+        <seg>CIN TARAK！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cabal Hermit</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T104008Z" creationid="pugnus" creationdate="20190417T102847Z">
@@ -71215,6 +71223,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What do you say, everyone?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T015419Z" creationid="pugnus" creationdate="20190425T015419Z">
+        <seg>皆さんは何といいますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What do you think, Zephyrien?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T082428Z" creationid="rkmad" creationdate="20190408T082428Z">
@@ -71997,6 +72013,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173619Z" creationid="magur0w" creationdate="20190404T173619Z">
         <seg>何でまだここにいるんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why don’t we get rid of Highlord Cyr?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T015502Z" creationid="pugnus" creationdate="20190425T015502Z">
+        <seg>何故、上級王シリを、追放しないのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -73523,6 +73547,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101323Z" creationid="はぐくみ会" creationdate="20190404T013422Z">
         <seg>私の身体と岩とを結び付けている縄を切る。脱出だ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You dare to turn people against me, puny thing?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T015855Z" creationid="pugnus" creationdate="20190425T015855Z">
+        <seg>そなたは、敢えて民たちを我に敵対させようとしているのか？！</seg>
       </tuv>
     </tu>
     <tu>
