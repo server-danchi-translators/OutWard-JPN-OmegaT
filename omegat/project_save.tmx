@@ -70384,6 +70384,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We did not get any real results.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105829Z" creationid="pugnus" creationdate="20190425T105829Z">
+        <seg>しかし、それは実現できなかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We don't demand payment right away.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T101450Z" creationid="pugnus" creationdate="20190422T101450Z">
@@ -70621,6 +70629,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173400Z" creationid="magur0w" creationdate="20190404T173400Z">
         <seg>まだ時間はあるが、あまりぐずぐずするなよ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We tried sending messengers of our own when they first landed on Aurai.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105752Z" creationid="pugnus" creationdate="20190425T105752Z">
+        <seg>彼らが初めてオーライに上陸したときに、私たちは使者を送ろうとしました。</seg>
       </tuv>
     </tu>
     <tu>
