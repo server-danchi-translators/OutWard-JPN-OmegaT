@@ -12324,6 +12324,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au, cekta.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012932Z" creationid="pugnus" creationdate="20190425T012932Z">
+        <seg>おぉ、 cekta。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Au, so that is why they stopped coming near out city.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T113410Z" creationid="pugnus" creationdate="20190422T113351Z">
@@ -64848,8 +64856,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>That is all there is to tell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T083615Z" creationid="pugnus" creationdate="20190422T083615Z">
-        <seg>それで、充分である。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012858Z" creationid="pugnus" creationdate="20190422T083615Z">
+        <seg>もう、聞くべきことは無い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67240,6 +67248,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183928Z" creationid="magur0w" creationdate="20190404T183928Z">
         <seg>恐ろしいニュースだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is great news.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013116Z" creationid="pugnus" creationdate="20190425T013116Z">
+        <seg>これは、未だかつてない、大ニュースです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70192,8 +70208,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We send you a few Ashborn to send them running away like little marsh lizards!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T012642Z" creationid="pugnus" creationdate="20190425T012642Z">
-        <seg>我らは</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013048Z" creationid="pugnus" creationdate="20190425T012642Z">
+        <seg>何名かのアッシュボーンを派遣するだけで、彼らは小さな沼地のトカゲのように逃げていくであろう！</seg>
       </tuv>
     </tu>
     <tu>
