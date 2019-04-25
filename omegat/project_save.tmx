@@ -34928,6 +34928,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want alliance talk, you need to prove you have good will for us, even if it means danger for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T021139Z" creationid="pugnus" creationdate="20190425T021139Z">
+        <seg>そなたが同盟の話をしたいのなら、たとえそれがそなたにとって危険を意味するとしても、我らに善意を持っていることを証明する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want specifics, ask Burac, our gate warden.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035448Z" creationid="Light" creationdate="20190405T162341Z">
@@ -73930,6 +73938,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You leave rest of people alone!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T021003Z" creationid="pugnus" creationdate="20190425T021003Z">
+        <seg>一人きりで去るがよい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You live and breathe thanks to the deeds of your ancestors.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T021503Z" creationid="rkmad" creationdate="20190404T085840Z">
@@ -74382,6 +74398,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114021Z">
         <seg>キックのような僅かなスキルを備えてゲームが始まります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You still allowed to visit, but you only deal with Gold Belly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T020907Z" creationid="pugnus" creationdate="20190425T020900Z">
+        <seg>そなたの訪問を許可はしているが、ゴールドベリー意外との接触は許さぬ。</seg>
       </tuv>
     </tu>
     <tu>
