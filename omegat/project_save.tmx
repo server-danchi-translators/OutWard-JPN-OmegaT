@@ -10185,6 +10185,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After that time, the giant may attempt to seek forgiveness and return to giant society.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T104043Z" creationid="pugnus" creationdate="20190425T104043Z">
+        <seg>追放（亡命）期間の後、その巨人は社会に許しを求め、また部族に戻ることを試みる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After the Resting Time, your fatigue status will be {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T024207Z" creationid="hiru4" creationdate="20190402T024207Z">
@@ -39760,8 +39768,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Larger transgressions carry the penalty of exile for twenty years.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T103438Z" creationid="pugnus" creationdate="20190425T103438Z">
-        <seg>重犯罪は２０年間の亡命の罰を与えられる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T103812Z" creationid="pugnus" creationdate="20190425T103438Z">
+        <seg>重犯罪は２０年間の追放（亡命）の罰を与えられる。</seg>
       </tuv>
     </tu>
     <tu>
