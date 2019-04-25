@@ -34848,6 +34848,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you not willing to face giant lizard for us, you not worth being ally!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T022407Z" creationid="pugnus" creationdate="20190425T022407Z">
+        <seg>そなたが我らの為ならば、大トカゲに直面しても構わないようでなければ、そなたは味方に相応しくないのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you plan to make the journey to &lt;color=#00CCFF&gt;&lt;b&gt;Levant&lt;/b&gt;&lt;/color&gt; completely on foot, be prepared for a &lt;color=#00CCFF&gt;&lt;b&gt;long, long journey&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T124819Z" creationid="Light" creationdate="20190407T124819Z">
@@ -67943,8 +67951,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To get there, you go West, into belly of swamp, then you go South to cave with glowing flower on root above it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T022122Z" creationid="pugnus" creationdate="20190425T022122Z">
-        <seg>洞窟は、湿地を西に突っ切り、南へといくのだ。輝く花の根がオブシディの根である。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T022139Z" creationid="pugnus" creationdate="20190425T022122Z">
+        <seg>洞窟は、湿地を西に突っ切り、南へといくのだ。洞窟の中に咲く、輝く花の根がオブシディの根である。</seg>
       </tuv>
     </tu>
     <tu>
