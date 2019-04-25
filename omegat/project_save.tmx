@@ -8794,8 +8794,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I think we should close village from humans for good&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T013725Z" creationid="pugnus" creationdate="20190425T013725Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;そのような者どもに村の門を開けることは無い。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013905Z" creationid="pugnus" creationdate="20190425T013725Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;そのような者どもから、村を閉鎖すべきである。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31995,6 +31995,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T160527Z" creationid="taman" creationdate="20190414T160527Z">
         <seg>助かるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't know about that...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T014103Z" creationid="pugnus" creationdate="20190425T014103Z">
+        <seg>それについては知識不足でした...</seg>
       </tuv>
     </tu>
     <tu>
@@ -74835,6 +74843,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102055Z" creationid="pugnus" creationdate="20190404T111915Z">
         <seg>起き上がると、頭がズキズキと痛む。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your ideas ruin Ashborn culture and cause bleeding of the world!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T014004Z" creationid="pugnus" creationdate="20190425T014004Z">
+        <seg>そなたの考えは、アッシュボーンの文化を台無しにし、世界は傷つき、出血を引き起こすであろう!</seg>
       </tuv>
     </tu>
     <tu>
