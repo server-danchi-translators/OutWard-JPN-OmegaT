@@ -9064,6 +9064,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lot of the pages are ruined, but many sections remain intact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T101417Z" creationid="pugnus" creationdate="20190425T101417Z">
+        <seg>多くのページは既に破れているが、断片的に無傷のまま残ってはいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A lot of your people seem really disappointed about your decision.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014152Z" creationid="pugnus" creationdate="20190425T014152Z">
@@ -67264,6 +67272,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T020458Z" creationid="pugnus" creationdate="20190408T015317Z">
         <seg>私が修理する方法を見つけるまで、このフォージゴーレムは屑鉄の山のままだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This appears to be a book written by an explorer who spent a year living near the giants...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T101135Z" creationid="pugnus" creationdate="20190425T101135Z">
+        <seg>この本は、巨人の近くで１年間生活した探検家によって綴られた本のようだ...</seg>
       </tuv>
     </tu>
     <tu>
