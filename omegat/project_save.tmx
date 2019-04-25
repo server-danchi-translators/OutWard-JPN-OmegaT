@@ -113,8 +113,8 @@
       <tuv lang="EN-US">
         <seg>(Read about Giant family structure.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T101506Z" creationid="pugnus" creationdate="20190425T101506Z">
-        <seg>(巨人の家族構造について読む)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T101542Z" creationid="pugnus" creationdate="20190425T101506Z">
+        <seg>(巨人の家族の仕組みについて読む)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14838,6 +14838,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Builders, merchants and craftsmen serve the Highmonk, and soldiers, artists and farmers are governed by the Highlord.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T101942Z" creationid="pugnus" creationdate="20190425T101942Z">
+        <seg>建築家、商人、職人が上級僧に仕え、兵士、芸術家、農家は上級王に仕える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bulbous root vegetable with mana-restoring properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T072707Z" creationid="seto" creationdate="20190406T072707Z">
@@ -27073,6 +27081,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115946Z" creationid="Gaiden Shinji" creationdate="20190404T115946Z">
         <seg>ジャイアントブック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giant Children are examined by the Highmonk and the Highlord when twenty years old, and their position in life is decided.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T101750Z" creationid="pugnus" creationdate="20190425T101750Z">
+        <seg>巨人の子供は、２０歳になると上級王と上級僧により、以降の人生における立場が決定される。</seg>
       </tuv>
     </tu>
     <tu>
