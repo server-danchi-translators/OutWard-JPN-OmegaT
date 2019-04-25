@@ -27181,6 +27181,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giants who cause minor transgressions must make amends to the person they wronged, and must create a porcelain item or an ash-silk item for the wronged party, depending on their trade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T103336Z" creationid="pugnus" creationdate="20190425T103336Z">
+        <seg>軽犯罪を起こした巨人は、その罪の重さにより、被害者もしくは相当する相手に対し、磁器またはアッシュシルクを作成する必要がある。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giants’ Village</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115129Z" creationid="Gaiden Shinji" creationdate="20190403T115129Z">
@@ -39745,6 +39754,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T083629Z" creationid="Light" creationdate="20190407T083629Z">
         <seg>プロの探検家に愛用される大型のバックパック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Larger transgressions carry the penalty of exile for twenty years.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T103438Z" creationid="pugnus" creationdate="20190425T103438Z">
+        <seg>重犯罪は２０年間の亡命の罰を与えられる。</seg>
       </tuv>
     </tu>
     <tu>
