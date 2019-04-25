@@ -12140,6 +12140,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ash Giants believe that death is final, and that only the works that have been created in porcelain and ash-silk endure beyond death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T102823Z" creationid="pugnus" creationdate="20190425T102823Z">
+        <seg>灰の巨人にとっての死は最終的なものであり、磁器とアッシュシルクで作られた作品だけが死を超えて永久に耐えると信じられている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ash-Filter Mask</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T122347Z" creationid="pugnus" creationdate="20190423T122336Z">
@@ -65425,8 +65433,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Highlord will then commission a silk banner to reflect that giant's deeds and knowledge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T102447Z" creationid="pugnus" creationdate="20190425T102447Z">
-        <seg>同時に上級王はその亡くなった巨人の人生の物語を織り込んだアッシュシルクによる、大きな旗を依頼する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T102505Z" creationid="pugnus" creationdate="20190425T102447Z">
+        <seg>同時に上級王は、亡くなった巨人の人生の物語を織り込んだアッシュシルクによる、大きな旗を依頼する。</seg>
       </tuv>
     </tu>
     <tu>
