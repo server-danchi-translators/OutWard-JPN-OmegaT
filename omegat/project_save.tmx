@@ -72859,6 +72859,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You &lt;color=#00CCFF&gt;&lt;b&gt;go to the cave where the swamp lizards live, and you bring back some Obsidiroot for us&lt;/b&gt;&lt;/color&gt;, for medicine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T021520Z" creationid="pugnus" creationdate="20190425T021520Z">
+        <seg>そなたは&lt;color=#00CCFF&gt;&lt;b&gt;沼トカゲが住まう洞窟へ行き、我らのためにオブシディの根を持ち帰るのだ。&lt;/b&gt;&lt;/color&gt;薬用のものである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You also know several useful survival crafting recipes.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114022Z">
