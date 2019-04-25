@@ -74915,6 +74915,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will need a delicate touch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T113117Z" creationid="pugnus" creationdate="20190425T113117Z">
+        <seg>あなたはとても慎重に接触する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will need to &lt;color=#00CCFF&gt;&lt;b&gt;speak with Highlord Cyr&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021113Z" creationid="pugnus" creationdate="20190422T021113Z">
