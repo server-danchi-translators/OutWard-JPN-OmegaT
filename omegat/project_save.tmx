@@ -32489,8 +32489,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I hope I convinced you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T234044Z" creationid="pugnus" creationdate="20190424T234044Z">
-        <seg>あなたは確信しているのではないでしょうか。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T011715Z" creationid="pugnus" creationdate="20190424T234044Z">
+        <seg>これが何か、あなた方であれば分かると考えました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72531,6 +72531,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, I know what Dawn Weaver would like Ashborn to do about this alliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012019Z" creationid="pugnus" creationdate="20190425T012019Z">
+        <seg>うむ、我は「夜明けの織り手」が、この同盟に対しアッシュボーンに何を求めているかを知っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, I'll be there shortly.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172512Z" creationid="magur0w" creationdate="20190404T171724Z">
@@ -73355,6 +73363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T032804Z" creationid="pugnus" creationdate="20190422T032804Z">
         <seg>やったね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do good thing for his family.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T011844Z" creationid="pugnus" creationdate="20190425T011844Z">
+        <seg>そなたは彼だけではなく、彼の家族にも良いおこないをした。</seg>
       </tuv>
     </tu>
     <tu>
