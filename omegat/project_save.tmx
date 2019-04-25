@@ -46127,6 +46127,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now can craft into lasting porcelain, and Ashborn's life will endure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T011404Z" creationid="pugnus" creationdate="20190425T011404Z">
+        <seg>この心を磁器に加工することで、我らアッシュボーンの人生は永続的に続いていくのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now give me what you owe me!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T052241Z" creationid="weedssoul" creationdate="20190406T035526Z">
@@ -64646,6 +64654,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for bringing home.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T011153Z" creationid="pugnus" creationdate="20190425T011153Z">
+        <seg>戻してくれたことに礼を述べよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for saving me, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023754Z">
@@ -64762,6 +64778,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T170731Z">
         <seg>そうなってしまえば、数人が自分で引き起こした罪を清算するより、はるかに悪い結末です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is a heart from Ashborn!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T011113Z" creationid="pugnus" creationdate="20190425T011113Z">
+        <seg>それこそがアッシュボーンの心である！</seg>
       </tuv>
     </tu>
     <tu>
