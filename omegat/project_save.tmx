@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Close the book.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105251Z" creationid="pugnus" creationdate="20190425T105251Z">
+        <seg>(本を閉じる。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Despite the skull's protestations, you break it to pieces in one strike.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T084233Z" creationid="taman" creationdate="20190421T084233Z">
@@ -33227,6 +33235,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to learn about the Ash Giants and their religious views.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105339Z" creationid="pugnus" creationdate="20190425T105339Z">
+        <seg>私は灰の巨人の宗教的見解について理解する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to speak with your leaders immediately.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044609Z" creationid="Mad" creationdate="20190407T044609Z">
@@ -65370,6 +65386,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Ash Giants...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105427Z" creationid="pugnus" creationdate="20190425T105427Z">
+        <seg>灰の巨人か...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Authentication ticket expired.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070915Z" creationid="hiru4" creationdate="20190403T070915Z">
@@ -65398,6 +65422,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T102427Z" creationid="pugnus" creationdate="20190422T102427Z">
         <seg>青の議会は、必要な場合を除いては殺害を避けるべきだと考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Blue Chamber is trying to form an alliance with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105416Z" creationid="pugnus" creationdate="20190425T105416Z">
+        <seg>青の議会は、彼らと同盟を結ぶことを試みているのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67234,6 +67266,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T070707Z" creationid="taman" creationdate="20190410T070707Z">
         <seg>彼らの魂はもう成仏することはできないの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're a very traditionalist and peculiar bunch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T105545Z" creationid="pugnus" creationdate="20190425T105545Z">
+        <seg>彼らは非常に伝統的で独特な部族です。</seg>
       </tuv>
     </tu>
     <tu>
