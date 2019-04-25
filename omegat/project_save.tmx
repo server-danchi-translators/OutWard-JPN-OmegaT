@@ -30917,6 +30917,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hmm?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012705Z" creationid="pugnus" creationdate="20190425T012705Z">
+        <seg>フーム？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hmmm...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012651Z" creationid="pugnus" creationdate="20190425T012651Z">
+        <seg>フーム...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
@@ -70174,6 +70190,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We send you a few Ashborn to send them running away like little marsh lizards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012642Z" creationid="pugnus" creationdate="20190425T012642Z">
+        <seg>我らは</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We should be discussing strategies to defend ourselves from Levant!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T045246Z" creationid="pugnus" creationdate="20190416T045246Z">
@@ -70873,8 +70897,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What brings you before the Ashborn of the Marsh, little one?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T082749Z" creationid="pugnus" creationdate="20190422T062736Z">
-        <seg>アッシュボーンのマーシュの前にある、これは何だ？小さきモノよ？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T012817Z" creationid="pugnus" creationdate="20190422T062736Z">
+        <seg>アッシュボーンの池の前にある、これは、小さきモノか？</seg>
       </tuv>
     </tu>
     <tu>
