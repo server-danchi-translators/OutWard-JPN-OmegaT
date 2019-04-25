@@ -26941,6 +26941,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get out now, or I throw you out myself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T015004Z" creationid="pugnus" creationdate="20190425T015004Z">
+        <seg>今すぐ出ていくがよい。もくしは、我がそなたを放り出そうか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get out of here before I lock you up!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045417Z" creationid="Mad" creationdate="20190407T045417Z">
@@ -34508,6 +34516,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014554Z" creationid="pugnus" creationdate="20190425T014554Z">
         <seg>我が否定すれば、どう思おうが、否定されるのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If stay any longer, you really will feel sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T014921Z" creationid="pugnus" creationdate="20190425T014921Z">
+        <seg>その謝罪の心が真実ならば、これ以上の滞在はしない方がよい。</seg>
       </tuv>
     </tu>
     <tu>
