@@ -8776,10 +8776,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I refuse alliance&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013524Z" creationid="pugnus" creationdate="20190425T013524Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;我は同盟には賛同しない。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I saw them kidnap Rissa and Balthazar and take them below the chamber&lt;/b&gt;&lt;/color&gt; while I was dealing with these thugs.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T051221Z" creationid="pugnus" creationdate="20190415T050924Z">
         <seg>私が刺客たちと華麗にそして勇敢に戦っている間、&lt;color=#00CCFF&gt;&lt;b&gt;彼らがリッサとバルタザールを誘拐し、部屋の下に連れて行くのを見ました。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I think we should close village from humans for good&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013725Z" creationid="pugnus" creationdate="20190425T013725Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;そのような者どもに村の門を開けることは無い。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73854,6 +73870,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095751Z" creationid="rkmad" creationdate="20190403T095533Z">
         <seg>水と Blood Mushroom と Gravel Beetle を混ぜて作るの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You mock our traditions and people with yours.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190425T013619Z" creationid="pugnus" creationdate="20190425T013619Z">
+        <seg>そなたらは我らの伝統と民を、そなたらの物にしようとしている。</seg>
       </tuv>
     </tu>
     <tu>
