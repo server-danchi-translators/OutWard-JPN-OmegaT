@@ -32674,6 +32674,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I had a feeling I'd be making you this offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224949Z" creationid="urakata" creationdate="20190426T224949Z">
+        <seg>この話もあなたに頼むことになるとは思っていたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I had an incident on my first mission for Elatt.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T084554Z" creationid="pugnus" creationdate="20190417T084524Z">
@@ -33487,6 +33495,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T020302Z" creationid="pugnus" creationdate="20190422T020302Z">
         <seg>時が来たら、すぐ動けるように準備をしていてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need you to join the &lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225053Z" creationid="urakata" creationdate="20190426T225053Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;に参加してほしいんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34403,6 +34419,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163736Z">
         <seg>あなたが、あの難破の事故から生き残ってくれて嬉しいわ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm going to come right out with it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225030Z" creationid="urakata" creationdate="20190426T225030Z">
+        <seg>単刀直入に言おう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51706,6 +51730,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225055Z" creationid="urakata" creationdate="20190426T225055Z">
+        <seg>Player_Rissa_BC_Bones_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052756Z" creationid="seto" creationdate="20190406T052756Z">
@@ -55471,6 +55503,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T224603Z" creationid="urakata" creationdate="20190426T224603Z">
         <seg>Rissa_BC_Bones_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224953Z" creationid="urakata" creationdate="20190426T224953Z">
+        <seg>Rissa_BC_Bones_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -66817,6 +66857,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T092027Z" creationid="rkmad" creationdate="20190405T092027Z">
         <seg>世界は常に動いています。あなたを待ってくれはしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The... what?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225131Z" creationid="urakata" creationdate="20190426T225131Z">
+        <seg>何に参加ですって?</seg>
       </tuv>
     </tu>
     <tu>
