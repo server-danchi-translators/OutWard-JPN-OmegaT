@@ -18,6 +18,7 @@
     <ooo_row><column_1>CharacterCreation_RandomButton</column_1><column_2>Random</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_1Player</column_1><column_2>1 Player</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_2Player</column_1><column_2>2 Players</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>ControllerSetup_Player</column_1><column_2>Player</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_NewGame</column_1><column_2>Start New Game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterCreation_Player_Tutorial</column_1><column_2>Start Tutorial</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>CharacterStat_Defense_Armor</column_1><column_2>Physical Resistance</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -464,6 +465,7 @@ One must manually refill their quiver between fights so as not to run out of arr
     <ooo_row><column_1>Compass_South</column_1><column_2>S</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Compass_East</column_1><column_2>E</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>Compass_West</column_1><column_2>W</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>OptionMenu_Network_Region</column_1><column_2>Online region</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="2">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
@@ -812,6 +814,7 @@ Weapon skills requirement: not boon</column_4><column_5></column_5><column_6></c
     <ooo_row><column_1>MessageBox_Online_RoomNameCreate</column_1><column_2>Create a game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Online_RoomNameJoin</column_1><column_2>Join game</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
     <ooo_row><column_1>MessageBox_Authentication_Failed</column_1><column_2>Authentication failed. Outward will close.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>MessageBox_BetaMessage</column_1><column_2>This is an optional experimental version of Outward. We strongly recommend making a backup of the "SaveGames" folder located in the game's installation folder, as bugs and experimental features could break them. </column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
   </ooo_sheet>
   <ooo_sheet num="7">
     <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
