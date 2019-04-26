@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20573,6 +20573,54 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T054230Z" creationid="seto" creationdate="20190406T054230Z">
         <seg>Cyr_BC_Giants_46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224145Z" creationid="urakata" creationdate="20190426T224145Z">
+        <seg>Cyr_BC_Giants_47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224149Z" creationid="urakata" creationdate="20190426T224149Z">
+        <seg>Cyr_BC_Giants_48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_49</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224151Z" creationid="urakata" creationdate="20190426T224151Z">
+        <seg>Cyr_BC_Giants_49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_50</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224153Z" creationid="urakata" creationdate="20190426T224153Z">
+        <seg>Cyr_BC_Giants_50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_51</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224154Z" creationid="urakata" creationdate="20190426T224154Z">
+        <seg>Cyr_BC_Giants_51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_52</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224155Z" creationid="urakata" creationdate="20190426T224155Z">
+        <seg>Cyr_BC_Giants_52</seg>
       </tuv>
     </tu>
     <tu>
@@ -50026,6 +50074,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Cyr_BC_Giants_a_47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224147Z" creationid="urakata" creationdate="20190426T224147Z">
+        <seg>Player_Cyr_BC_Giants_a_47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cyr_BC_Giants_a_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224150Z" creationid="urakata" creationdate="20190426T224150Z">
+        <seg>Player_Cyr_BC_Giants_a_48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Cyr_BC_Giants_b_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T053146Z" creationid="seto" creationdate="20190406T053146Z">
@@ -50102,6 +50166,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T054105Z" creationid="seto" creationdate="20190406T054105Z">
         <seg>Player_Cyr_BC_Giants_b_42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Cyr_BC_Giants_b_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224152Z" creationid="urakata" creationdate="20190426T224152Z">
+        <seg>Player_Cyr_BC_Giants_b_48</seg>
       </tuv>
     </tu>
     <tu>
@@ -77002,6 +77074,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015158Z" creationid="seto" creationdate="20190407T015158Z">
         <seg>goodbye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>greeting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224138Z" creationid="urakata" creationdate="20190426T224138Z">
+        <seg>greeting</seg>
       </tuv>
     </tu>
     <tu>
