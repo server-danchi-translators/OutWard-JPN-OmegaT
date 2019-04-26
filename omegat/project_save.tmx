@@ -51738,6 +51738,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_b_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
+        <seg>Player_Rissa_BC_Bones_b_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052756Z" creationid="seto" creationdate="20190406T052756Z">
@@ -55511,6 +55519,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T224953Z" creationid="urakata" creationdate="20190426T224953Z">
         <seg>Rissa_BC_Bones_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225134Z" creationid="urakata" creationdate="20190426T225134Z">
+        <seg>Rissa_BC_Bones_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -67038,6 +67054,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then we've been doing our job.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225319Z" creationid="urakata" creationdate="20190426T225319Z">
+        <seg>私たちの仕事はうまく行ってるっていう証だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then why are you still here?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170835Z" creationid="weedssoul" creationdate="20190405T163516Z">
@@ -70295,6 +70319,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T134232Z" creationid="urakata" creationdate="20190406T134232Z">
         <seg>塔の機構によって材料がたまるまで1週間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait, the Krypteia actually exist?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225419Z" creationid="urakata" creationdate="20190426T225419Z">
+        <seg>クリュプテイアは本当に存在するってことですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -74572,6 +74604,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113058Z" creationid="weedssoul" creationdate="20190406T112726Z">
         <seg>あなたには想像もつかないかもしれないが...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have not heard of us?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225149Z" creationid="urakata" creationdate="20190426T225149Z">
+        <seg>聞いたことない?</seg>
       </tuv>
     </tu>
     <tu>
