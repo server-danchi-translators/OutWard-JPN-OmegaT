@@ -10739,6 +10739,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of Aurai, even.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T230411Z" creationid="urakata" creationdate="20190426T230411Z">
+        <seg>さらに言えば、全オーライのためだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All pieces of armor can also help with hot or cold weather, and the Chest Armor again has the largest influence on that.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T095808Z" creationid="totochan" creationdate="20190402T095429Z">
@@ -34663,6 +34671,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm sure that even if you've heard of us, you'll have misconceptions about who we are and what we do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T230657Z" creationid="urakata" creationdate="20190426T230657Z">
+        <seg>もし我々のことを聞いたことがあったとしても、どういう集団で、何をしているかについては勘違いしていると思うね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm the one of us who actually bothers to wear the helmet.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083509Z" creationid="rkmad" creationdate="20190408T083509Z">
@@ -55567,6 +55583,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225817Z" creationid="urakata" creationdate="20190426T225817Z">
         <seg>Rissa_BC_Bones_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T230413Z" creationid="urakata" creationdate="20190426T230413Z">
+        <seg>Rissa_BC_Bones_08</seg>
       </tuv>
     </tu>
     <tu>
