@@ -11500,6 +11500,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And you will keep quiet about our existence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225605Z" creationid="urakata" creationdate="20190426T225605Z">
+        <seg>このことについては、内密にね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And yours, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T075640Z" creationid="pugnus" creationdate="20190406T071249Z">
@@ -51746,6 +51754,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_c_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225656Z" creationid="urakata" creationdate="20190426T225656Z">
+        <seg>Player_Rissa_BC_Bones_c_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052756Z" creationid="seto" creationdate="20190406T052756Z">
@@ -55527,6 +55543,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225134Z" creationid="urakata" creationdate="20190426T225134Z">
         <seg>Rissa_BC_Bones_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225420Z" creationid="urakata" creationdate="20190426T225420Z">
+        <seg>Rissa_BC_Bones_06</seg>
       </tuv>
     </tu>
     <tu>
@@ -70339,6 +70363,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wait...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225706Z" creationid="urakata" creationdate="20190426T225706Z">
+        <seg>待って...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waiting for other players to resume.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T082853Z" creationid="totochan" creationdate="20190402T082853Z">
@@ -71071,6 +71103,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T051423Z" creationid="pugnus" creationdate="20190415T051423Z">
         <seg>私たちは、調査する必要がありますね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We perform our duties far better if no one knows we exist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225654Z" creationid="urakata" creationdate="20190426T225654Z">
+        <seg>私たちの任務は存在を知られていない方がはるかにうまくいくから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73589,6 +73629,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031349Z" creationid="pugnus" creationdate="20190422T031349Z">
         <seg>そうそう、人気。シリはここで、ほとんどのアッシュボーンから人気がないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, we do, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225446Z" creationid="urakata" creationdate="20190426T225446Z">
+        <seg>そう、我々は実在するんだ、 [PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
@@ -76130,6 +76178,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045254Z" creationid="Mad" creationdate="20190407T045254Z">
         <seg>面倒事を起こしやがって……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re the leader of the Krypteia?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T225721Z" creationid="urakata" creationdate="20190426T225721Z">
+        <seg>クリュプテイアの指導者はあなた？</seg>
       </tuv>
     </tu>
     <tu>
