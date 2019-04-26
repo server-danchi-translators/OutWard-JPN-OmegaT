@@ -20153,6 +20153,94 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224216Z" creationid="urakata" creationdate="20190426T224216Z">
+        <seg>Culture_BC_Giants_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224218Z" creationid="urakata" creationdate="20190426T224218Z">
+        <seg>Culture_BC_Giants_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224220Z" creationid="urakata" creationdate="20190426T224220Z">
+        <seg>Culture_BC_Giants_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224221Z" creationid="urakata" creationdate="20190426T224221Z">
+        <seg>Culture_BC_Giants_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224223Z" creationid="urakata" creationdate="20190426T224223Z">
+        <seg>Culture_BC_Giants_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224225Z" creationid="urakata" creationdate="20190426T224225Z">
+        <seg>Culture_BC_Giants_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224226Z" creationid="urakata" creationdate="20190426T224226Z">
+        <seg>Culture_BC_Giants_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224227Z" creationid="urakata" creationdate="20190426T224227Z">
+        <seg>Culture_BC_Giants_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224230Z" creationid="urakata" creationdate="20190426T224230Z">
+        <seg>Culture_BC_Giants_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224232Z" creationid="urakata" creationdate="20190426T224232Z">
+        <seg>Culture_BC_Giants_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Culture_BC_Giants_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224233Z" creationid="urakata" creationdate="20190426T224233Z">
+        <seg>Culture_BC_Giants_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T015448Z" creationid="setom" creationdate="20190401T113247Z">
@@ -20621,6 +20709,62 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T224155Z" creationid="urakata" creationdate="20190426T224155Z">
         <seg>Cyr_BC_Giants_52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_53</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224205Z" creationid="urakata" creationdate="20190426T224205Z">
+        <seg>Cyr_BC_Giants_53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_54</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224207Z" creationid="urakata" creationdate="20190426T224207Z">
+        <seg>Cyr_BC_Giants_54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_55</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224209Z" creationid="urakata" creationdate="20190426T224209Z">
+        <seg>Cyr_BC_Giants_55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_56</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224210Z" creationid="urakata" creationdate="20190426T224210Z">
+        <seg>Cyr_BC_Giants_56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_57</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224211Z" creationid="urakata" creationdate="20190426T224211Z">
+        <seg>Cyr_BC_Giants_57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_58</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224213Z" creationid="urakata" creationdate="20190426T224213Z">
+        <seg>Cyr_BC_Giants_58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_Giants_59</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224214Z" creationid="urakata" creationdate="20190426T224214Z">
+        <seg>Cyr_BC_Giants_59</seg>
       </tuv>
     </tu>
     <tu>
@@ -33019,6 +33163,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know you're not the most resourceful person, but I'm out of options.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224550Z" creationid="urakata" creationdate="20190426T224550Z">
+        <seg>あなたは最高に有能ってわけではないけれど、他に人が居なくてね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know, I know.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005755Z" creationid="seto" creationdate="20190413T005526Z">
@@ -33823,6 +33975,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132030Z" creationid="Light" creationdate="20190405T164235Z">
         <seg> 今朝、私はエラット神聖伝道団に参加するために町を出ようと思うわ、母が止める前にね。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was hoping you’d return soon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224444Z" creationid="urakata" creationdate="20190426T224444Z">
+        <seg>早く帰ってくれればと思っていたんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49930,6 +50090,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Culture_BC_Giants_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224217Z" creationid="urakata" creationdate="20190426T224217Z">
+        <seg>Player_Culture_BC_Giants_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Culture_BC_Giants_b_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224222Z" creationid="urakata" creationdate="20190426T224222Z">
+        <seg>Player_Culture_BC_Giants_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Culture_BC_Giants_c_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224229Z" creationid="urakata" creationdate="20190426T224229Z">
+        <seg>Player_Culture_BC_Giants_c_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Cyr_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T053143Z" creationid="seto" creationdate="20190406T053143Z">
@@ -51494,6 +51678,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015153Z" creationid="seto" creationdate="20190407T015153Z">
         <seg>Player_Oliele_NE_Call_To_Advent_d_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Religion_BC_Giants_a_00</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224235Z" creationid="urakata" creationdate="20190426T224235Z">
+        <seg>Player_Religion_BC_Giants_a_00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Religion_BC_Giants_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224243Z" creationid="urakata" creationdate="20190426T224243Z">
+        <seg>Player_Religion_BC_Giants_a_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -54107,6 +54307,46 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224237Z" creationid="urakata" creationdate="20190426T224237Z">
+        <seg>Religion_BC_Giants_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224238Z" creationid="urakata" creationdate="20190426T224238Z">
+        <seg>Religion_BC_Giants_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224240Z" creationid="urakata" creationdate="20190426T224240Z">
+        <seg>Religion_BC_Giants_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224241Z" creationid="urakata" creationdate="20190426T224241Z">
+        <seg>Religion_BC_Giants_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224245Z" creationid="urakata" creationdate="20190426T224245Z">
+        <seg>Religion_BC_Giants_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloading World...</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083105Z" creationid="totochan" creationdate="20190402T083105Z">
@@ -55199,6 +55439,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102527Z" creationid="seto" creationdate="20190405T102527Z">
         <seg>Rissa_BC_ANC_PEACE_31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224306Z" creationid="urakata" creationdate="20190426T224306Z">
+        <seg>Rissa_BC_Bones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190426T224448Z" creationid="urakata" creationdate="20190426T224448Z">
+        <seg>Rissa_BC_Bones_02</seg>
       </tuv>
     </tu>
     <tu>
