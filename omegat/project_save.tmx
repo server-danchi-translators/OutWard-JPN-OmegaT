@@ -38127,6 +38127,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's been ages and you haven't wiped out all of her descendants yet?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012114Z" creationid="urakata" creationdate="20190427T012114Z">
+        <seg>長いこと掛かってもすべての子孫を絶やすことはできなかったんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's more than just a weapon to kill things with, it's a tool to rebuild what we've lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083602Z" creationid="rkmad" creationdate="20190408T083602Z">
@@ -38778,8 +38786,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It’s tragic, but it’s the only way to sever the Scarlet Lady's hold on the world.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T012003Z" creationid="urakata" creationdate="20190427T012003Z">
-        <seg>悲しいことだけれど、緋色の貴婦人とこの世界とのつながりを断つにはこれしかない。It’s tragic, but it’s the only way to sever the Scarlet Lady's hold on the world.</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012025Z" creationid="urakata" creationdate="20190427T012003Z">
+        <seg>悲しいことだけれど、緋色の貴婦人とこの世界とのつながりを断つにはこれしかない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51842,6 +51850,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012005Z" creationid="urakata" creationdate="20190427T012005Z">
+        <seg>Player_Rissa_BC_Bones_a_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
@@ -55715,6 +55731,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012117Z" creationid="urakata" creationdate="20190427T012117Z">
+        <seg>Rissa_BC_Bones_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -59447,6 +59471,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T010842Z" creationid="urakata" creationdate="20190427T010842Z">
         <seg>共同体の判断を好きなように誘導し、エンメルカルにアンデッドの群れを放つことだってできてしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She has grown craftier at spawning and hiding new descendants over the ages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012238Z" creationid="urakata" creationdate="20190427T012238Z">
+        <seg>向こうも長年のうちに子孫を増やして隠す手口が巧妙になってきていてね。</seg>
       </tuv>
     </tu>
     <tu>
