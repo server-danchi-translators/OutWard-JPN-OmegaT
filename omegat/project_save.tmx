@@ -33050,6 +33050,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope not, but I am backed into a corner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013753Z" creationid="urakata" creationdate="20190427T013753Z">
+        <seg>まずい人選だとは思いたくない。私も追い詰められているから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hope our paths cross again sometime.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T085308Z" creationid="rkmad" creationdate="20190408T085308Z">
@@ -33255,6 +33263,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163923Z">
         <seg> あなたが探索中どんな事があったか私にはわかるもの。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I know how to use my assets, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013555Z" creationid="urakata" creationdate="20190427T013445Z">
+        <seg>手練手管の扱いは心得ていますよ、[PlayerName]</seg>
       </tuv>
     </tu>
     <tu>
@@ -34247,6 +34263,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090709Z" creationid="rkmad" creationdate="20190405T090428Z">
         <seg>どうにか稼ぐために、私はまるで犬のようにあちこち駆け回ったというのに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I would be a fool not to leverage that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013613Z" creationid="urakata" creationdate="20190427T013542Z">
+        <seg>そこに付け入らない方が阿呆というもの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51986,6 +52010,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_b_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013614Z" creationid="urakata" creationdate="20190427T013614Z">
+        <seg>Player_Rissa_BC_Bones_b_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_c_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225656Z" creationid="urakata" creationdate="20190426T225656Z">
@@ -55883,6 +55915,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013632Z" creationid="urakata" creationdate="20190427T013632Z">
+        <seg>Rissa_BC_Bones_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -57355,10 +57395,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland feels he has nothing to lose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013508Z" creationid="urakata" creationdate="20190427T013508Z">
+        <seg>ローランドには失うものがない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland had one job, keep the lighthouse lit.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T122112Z" creationid="Light" creationdate="20190407T122112Z">
         <seg>ローランドには灯台を照らし続ける仕事がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013623Z" creationid="urakata" creationdate="20190427T013623Z">
+        <seg>ローランド?</seg>
       </tuv>
     </tu>
     <tu>
@@ -66029,6 +66085,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091142Z" creationid="rkmad" creationdate="20190405T091142Z">
         <seg>それは分かっています。[PlayerName]、あなたは失敗しましたが、得たものもありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's a mistake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013630Z" creationid="urakata" creationdate="20190427T013630Z">
+        <seg>それはまずい。</seg>
       </tuv>
     </tu>
     <tu>
