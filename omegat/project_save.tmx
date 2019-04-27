@@ -12012,6 +12012,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as he remains with the Krypteia, I will make his Blood Price payments for him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013218Z" creationid="urakata" creationdate="20190427T013218Z">
+        <seg>クリュプテイアにいる限り、血の代償は私が肩代わりする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As long as humans understand Elatt lesser than Dusk Father and Dawn Weaver, we will accept it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T111957Z" creationid="pugnus" creationdate="20190422T111957Z">
@@ -30288,6 +30296,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He could not refuse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013258Z" creationid="urakata" creationdate="20190427T013258Z">
+        <seg>彼に選択肢はなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He doesn't give Cierzo a backwards glance.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130001Z" creationid="Light" creationdate="20190407T130001Z">
@@ -30412,6 +30428,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T134700Z" creationid="Mad" creationdate="20190407T134637Z">
         <seg>彼は……私が予想していたよりも遥かに、儀礼的な存在ではなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He lacks any way to pay the Blood Price on his own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013402Z" creationid="urakata" creationdate="20190427T013341Z">
+        <seg>彼自身の力で血の代償を払うのは無理だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45528,6 +45552,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, I don't see how he could.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013314Z" creationid="urakata" creationdate="20190427T013314Z">
+        <seg>それはそうでしょうね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, I don't suppose you'd be able to convince her.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Mad" creationdate="20190405T151735Z">
@@ -51930,6 +51962,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013300Z" creationid="urakata" creationdate="20190427T013300Z">
+        <seg>Player_Rissa_BC_Bones_a_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
@@ -55831,6 +55871,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013036Z" creationid="urakata" creationdate="20190427T013036Z">
         <seg>Rissa_BC_Bones_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013342Z" creationid="urakata" creationdate="20190427T013342Z">
+        <seg>Rissa_BC_Bones_17</seg>
       </tuv>
     </tu>
     <tu>
