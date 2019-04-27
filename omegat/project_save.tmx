@@ -30304,6 +30304,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He has agreed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013105Z" creationid="urakata" creationdate="20190427T013105Z">
+        <seg>参加してくれるそうだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He has chosen to exile himself from Cierzo forever rather than do his duty to the tribe and bear the Blood Price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T154804Z">
@@ -33485,8 +33493,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I need new members.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T012754Z" creationid="urakata" creationdate="20190427T012754Z">
-        <seg>追加の人員が必要なんだ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012911Z" creationid="urakata" creationdate="20190427T012754Z">
+        <seg>構成員の増員が必要なんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34755,6 +34763,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171504Z" creationid="setom" creationdate="20190402T171504Z">
         <seg>もしかしたらハイエナに出くわしちまったんじゃねぇかって心配なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've already asked Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013049Z" creationid="urakata" creationdate="20190427T013049Z">
+        <seg>ローランドには声をかけた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42164,6 +42180,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113952Z">
         <seg>近接武器は通常攻撃と特殊攻撃ができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Members, you say?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012924Z" creationid="urakata" creationdate="20190427T012815Z">
+        <seg>増員ですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -51898,6 +51922,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012758Z" creationid="urakata" creationdate="20190427T012758Z">
+        <seg>Player_Rissa_BC_Bones_a_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
@@ -55791,6 +55823,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T012452Z" creationid="urakata" creationdate="20190427T012452Z">
         <seg>Rissa_BC_Bones_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013036Z" creationid="urakata" creationdate="20190427T013036Z">
+        <seg>Rissa_BC_Bones_16</seg>
       </tuv>
     </tu>
     <tu>
@@ -60976,6 +61016,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045920Z">
         <seg>冒険の匂いがします。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sounds like you have more than just me in mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T013035Z" creationid="urakata" creationdate="20190427T013035Z">
+        <seg>話からすると私以外にも声をかけてるんですね。</seg>
       </tuv>
     </tu>
     <tu>
