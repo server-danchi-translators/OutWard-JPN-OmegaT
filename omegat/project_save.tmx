@@ -30648,6 +30648,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He... didn't make it</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055253Z" creationid="urakata" creationdate="20190427T055253Z">
+        <seg>彼は...助かりませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Head armor which reduces the damage you receive.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083741Z" creationid="totochan" creationdate="20190402T083741Z">
@@ -33971,6 +33979,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I should hurry down and speak with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055151Z" creationid="urakata" creationdate="20190427T055151Z">
+        <seg>構成員と話し合う必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I still have things I need to do first.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172702Z" creationid="magur0w" creationdate="20190404T172702Z">
@@ -35279,6 +35295,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T094100Z" creationid="pugnus" creationdate="20190422T094100Z">
         <seg>私たちの法律に問題があれば、私たちと話し合い、何とかしていきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this Lich really is willing to help us, then we have levelled the playing field against the Scarlet Lady...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055134Z" creationid="urakata" creationdate="20190427T055134Z">
+        <seg>もしこのリッチが本当に協力してくれるとしたら、緋色の貴婦人との形勢は五分と五分になる...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52274,6 +52298,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_b_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055152Z" creationid="urakata" creationdate="20190427T055152Z">
+        <seg>Player_Rissa_BC_Bones_b_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_c_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225656Z" creationid="urakata" creationdate="20190426T225656Z">
@@ -56295,6 +56327,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054819Z" creationid="urakata" creationdate="20190427T054819Z">
         <seg>Rissa_BC_Bones_30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_31</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T054947Z" creationid="urakata" creationdate="20190427T054947Z">
+        <seg>Rissa_BC_Bones_31</seg>
       </tuv>
     </tu>
     <tu>
@@ -71979,6 +72019,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We managed to save the Memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055217Z" creationid="urakata" creationdate="20190427T055217Z">
+        <seg>父祖の記憶は守り通せました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We may run into large problems in the near future.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T012454Z" creationid="pugnus" creationdate="20190422T012454Z">
@@ -72464,6 +72512,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061909Z" creationid="Mad" creationdate="20190407T061909Z">
         <seg>まあ、私はまだ旅の途中なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, Roland did.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055237Z" creationid="urakata" creationdate="20190427T055237Z">
+        <seg>我々、というかローランドがですが。</seg>
       </tuv>
     </tu>
     <tu>
