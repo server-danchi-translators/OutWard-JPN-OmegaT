@@ -39344,6 +39344,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m glad to hear of his success, and I mourn his loss.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055525Z" creationid="urakata" creationdate="20190427T055525Z">
+        <seg>彼の成し遂げたことは素晴らしいが、残念だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m glad you came, human.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T061458Z" creationid="pugnus" creationdate="20190422T035454Z">
@@ -42244,6 +42252,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T085509Z" creationid="rkmad" creationdate="20190408T085509Z">
         <seg>エラットは君を歓迎するだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>May he rest in the arms of his ancestors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055549Z" creationid="urakata" creationdate="20190427T055549Z">
+        <seg>父祖たちの腕の中で安らかに眠らんことを。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56335,6 +56351,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054947Z" creationid="urakata" creationdate="20190427T054947Z">
         <seg>Rissa_BC_Bones_31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T055255Z" creationid="urakata" creationdate="20190427T055255Z">
+        <seg>Rissa_BC_Bones_32</seg>
       </tuv>
     </tu>
     <tu>
