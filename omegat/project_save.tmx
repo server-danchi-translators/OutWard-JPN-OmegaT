@@ -33275,6 +33275,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I knew my faith in you was well placed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014912Z" creationid="urakata" creationdate="20190427T014912Z">
+        <seg>あなたに信頼がおけるという判断は自分ながら慧眼でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know Elatt isn't the answer to everything.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T063442Z" creationid="taman" creationdate="20190411T063442Z">
@@ -56039,6 +56047,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T014341Z" creationid="urakata" creationdate="20190427T014341Z">
         <seg>Rissa_BC_Bones_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014607Z" creationid="urakata" creationdate="20190427T014607Z">
+        <seg>Rissa_BC_Bones_22</seg>
       </tuv>
     </tu>
     <tu>
