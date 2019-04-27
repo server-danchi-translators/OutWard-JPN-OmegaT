@@ -30176,6 +30176,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you changed your mind, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015147Z" creationid="urakata" creationdate="20190427T015147Z">
+        <seg>気は変わりましたか、[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you ever seen one of the Vigils before?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T095038Z" creationid="taman" creationdate="20190409T061329Z">
@@ -33178,6 +33186,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope you continue to prove helpful to us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014959Z" creationid="urakata" creationdate="20190427T014959Z">
+        <seg>これからも助力をお願いします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hope you help to keep them all safe!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T062017Z" creationid="pugnus" creationdate="20190422T062017Z">
@@ -34779,6 +34795,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125743Z" creationid="Light" creationdate="20190407T125743Z">
         <seg>[PlayerName]。俺は君を許すつもりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not interested.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015017Z" creationid="urakata" creationdate="20190427T015017Z">
+        <seg>興味がありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52122,6 +52146,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_d_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015000Z" creationid="urakata" creationdate="20190427T015000Z">
+        <seg>Player_Rissa_BC_Bones_d_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052756Z" creationid="seto" creationdate="20190406T052756Z">
@@ -53310,6 +53342,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T080411Z">
         <seg> でも、どうか彼らを許してあげてちょうだい。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, reconsider.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015124Z" creationid="urakata" creationdate="20190427T015124Z">
+        <seg>考え直してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56055,6 +56095,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T014607Z" creationid="urakata" creationdate="20190427T014607Z">
         <seg>Rissa_BC_Bones_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015019Z" creationid="urakata" creationdate="20190427T015019Z">
+        <seg>Rissa_BC_Bones_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_24_RETALK</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015127Z" creationid="urakata" creationdate="20190427T015127Z">
+        <seg>Rissa_BC_Bones_24_RETALK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015149Z" creationid="urakata" creationdate="20190427T015149Z">
+        <seg>Rissa_BC_Bones_25</seg>
       </tuv>
     </tu>
     <tu>
@@ -67578,6 +67642,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T124929Z" creationid="rkmad" creationdate="20190404T090633Z">
         <seg>何にせよ、私は村の外へ出なくてはならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then I'll just have to pray that Roland is enough...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T015103Z" creationid="urakata" creationdate="20190427T015103Z">
+        <seg>そうするとローランドだけで充分だと祈るしかないですが...</seg>
       </tuv>
     </tu>
     <tu>
