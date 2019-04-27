@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33525,8 +33525,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I need you to join the &lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190426T225053Z" creationid="urakata" creationdate="20190426T225053Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Krypteia&lt;/b&gt;&lt;/color&gt;に参加してほしいんだ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005108Z" creationid="urakata" creationdate="20190426T225053Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;クリュプテイア&lt;/b&gt;&lt;/color&gt;に参加してほしいんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70965,8 +70965,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We do what we do for the good of the Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190426T230344Z" creationid="urakata" creationdate="20190426T230344Z">
-        <seg>議会のために為すべきことを為すのさ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005120Z" creationid="urakata" creationdate="20190426T230344Z">
+        <seg>我らは議会のために為すべきことを為すのさ。</seg>
       </tuv>
     </tu>
     <tu>
