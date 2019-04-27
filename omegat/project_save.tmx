@@ -25689,8 +25689,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Fine, I'll help, but only until this crisis is dealt with.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T014308Z" creationid="urakata" creationdate="20190427T014308Z">
-        <seg>良いでしょう、参加します。でも、危機を脱するまでですよ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014417Z" creationid="urakata" creationdate="20190427T014308Z">
+        <seg>いいでしょう、参加します。でも、危機を脱するまでですよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32090,6 +32090,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I accept.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014606Z" creationid="urakata" creationdate="20190427T014606Z">
+        <seg>お受けします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I agree.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180418Z" creationid="magur0w" creationdate="20190404T180418Z">
@@ -34743,6 +34751,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm not committing to more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014339Z" creationid="urakata" creationdate="20190427T014339Z">
+        <seg>それ以後まで付き合うつもりはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm not going to die here!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T140854Z" creationid="Light" creationdate="20190405T135442Z">
@@ -35575,6 +35591,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062528Z">
         <seg>近くに町があるときは、宿に泊まると良い。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're not willing to remain with the Krypteia once this threat has passed, I understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014518Z" creationid="urakata" creationdate="20190427T014518Z">
+        <seg>危機を脱したらクリュプテイアに残るつもりはないというのなら、かまいません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52074,6 +52098,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_b_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014519Z" creationid="urakata" creationdate="20190427T014519Z">
+        <seg>Player_Rissa_BC_Bones_b_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_c_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225656Z" creationid="urakata" creationdate="20190426T225656Z">
@@ -53622,6 +53654,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095048Z" creationid="Light" creationdate="20190409T095048Z">
         <seg>侵略するScourge Beastsからモンスーンを守る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protecting the people from an undead Lich?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014600Z" creationid="urakata" creationdate="20190427T014600Z">
+        <seg>不死のリッチから民衆を守るということですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55991,6 +56031,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T014234Z" creationid="urakata" creationdate="20190427T014234Z">
         <seg>Rissa_BC_Bones_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014341Z" creationid="urakata" creationdate="20190427T014341Z">
+        <seg>Rissa_BC_Bones_21</seg>
       </tuv>
     </tu>
     <tu>
@@ -70719,6 +70767,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021930Z" creationid="weedssoul" creationdate="20190406T021930Z">
         <seg>いいですか。よく聞きなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T014426Z" creationid="urakata" creationdate="20190427T014346Z">
+        <seg>すばらしい。</seg>
       </tuv>
     </tu>
     <tu>
