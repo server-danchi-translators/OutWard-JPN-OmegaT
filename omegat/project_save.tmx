@@ -10715,6 +10715,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All I have are Gabriella and Julius right now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012738Z" creationid="urakata" creationdate="20190427T012738Z">
+        <seg>自由に動かせるのはガブリエラとイウリウスぐらいだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All heavy armor slows down the wearer, though that is offset by a higher defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T145450Z" creationid="totochan" creationdate="20190402T145450Z">
@@ -15292,6 +15300,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T032112Z" creationid="pugnus" creationdate="20190422T032112Z">
         <seg>ただ、ほとんどのアッシュボーンは小さきヒトの文字を読めなかったけどね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But most of our members are tied up with the war and I cannot reach out to them for help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012706Z" creationid="urakata" creationdate="20190427T012706Z">
+        <seg>だが、構成員のほとんどは戦争で手一杯、とても助力を頼める状況ではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33463,6 +33479,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T030002Z" creationid="rkmad" creationdate="20190404T083234Z">
         <seg>時間が足りません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need new members.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012754Z" creationid="urakata" creationdate="20190427T012754Z">
+        <seg>追加の人員が必要なんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55763,6 +55787,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012452Z" creationid="urakata" creationdate="20190427T012452Z">
+        <seg>Rissa_BC_Bones_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -66262,6 +66294,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T054920Z" creationid="Light" creationdate="20190408T054920Z">
         <seg>今年はこの辺りのマンティコアが、いつもより繁殖してるみたいなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Memories warned me that the Scarlet Lady is moving against us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T012553Z" creationid="urakata" creationdate="20190427T012553Z">
+        <seg>緋色の貴婦人が攻撃を企てていると父祖の記憶が警告を発したんだ。</seg>
       </tuv>
     </tu>
     <tu>
