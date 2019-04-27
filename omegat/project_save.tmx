@@ -22717,6 +22717,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do whatever she asks of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T054349Z" creationid="urakata" creationdate="20190427T054349Z">
+        <seg>指示されたら何でもやって。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have any idea where to look for your body parts?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T122815Z" creationid="taman" creationdate="20190421T122815Z">
@@ -48378,6 +48386,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you've finished &lt;color=#00CCFF&gt;&lt;b&gt;helping Roland at the Conflux Mountain, report to Gabriella Sullivan&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T054242Z" creationid="urakata" creationdate="20190427T054242Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;コンフラックス山でローランドを助けたら、ガブリエラ・サリバンに報告して&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One arm feels like it's someplace kinda high up...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T132141Z" creationid="taman" creationdate="20190421T132141Z">
@@ -56171,6 +56187,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T054053Z" creationid="urakata" creationdate="20190427T054053Z">
+        <seg>Rissa_BC_Bones_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -59991,6 +60015,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Mad" creationdate="20190405T151211Z">
         <seg>オリエルはそんな事をする必要のない一族に生を受けたのです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She will direct your efforts to counter this crisis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T054322Z" creationid="urakata" creationdate="20190427T054322Z">
+        <seg>この危機を乗り越えるための指示を出してくれるはず。</seg>
       </tuv>
     </tu>
     <tu>
