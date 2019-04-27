@@ -43712,6 +43712,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More than simple paper could cover.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005300Z" creationid="urakata" creationdate="20190427T005300Z">
+        <seg>紙なんかじゃ記録しきれない詳細さでね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mortal agents can be rewarded with this equipment, however.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T075445Z" creationid="seto" creationdate="20190406T055214Z">
@@ -55591,6 +55599,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T230413Z" creationid="urakata" creationdate="20190426T230413Z">
         <seg>Rissa_BC_Bones_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_08-B</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005303Z" creationid="urakata" creationdate="20190427T005303Z">
+        <seg>Rissa_BC_Bones_08-B</seg>
       </tuv>
     </tu>
     <tu>
@@ -68586,6 +68602,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus, we enshrined the memories of several of our members into an altar, creating the Ancestral Memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005619Z" creationid="urakata" creationdate="20190427T005619Z">
+        <seg>そこで、構成員の記憶を祭壇に納めて、「父祖の記憶」を作ったわけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time:</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T160131Z" creationid="Light" creationdate="20190406T160131Z">
@@ -70965,8 +70989,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We do what we do for the good of the Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T005120Z" creationid="urakata" creationdate="20190426T230344Z">
-        <seg>我らは議会のために為すべきことを為すのさ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005141Z" creationid="urakata" creationdate="20190426T230344Z">
+        <seg>我らは共同体のために為すべきことを為すのさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72481,6 +72505,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
         <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the Collective was first formed, some of us wanted to ensure that detailed records were kept of everything we did.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T005240Z" creationid="urakata" creationdate="20190427T005240Z">
+        <seg>この共同体ができた当初、自分たちの行状を全て記録しておきたいという要望があったんだ。</seg>
       </tuv>
     </tu>
     <tu>
