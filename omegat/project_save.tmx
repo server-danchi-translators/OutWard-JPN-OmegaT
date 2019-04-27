@@ -71051,6 +71051,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We consult the Ancestral Memories regularly to find her potential descendants and deal with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T011754Z" creationid="urakata" creationdate="20190427T011754Z">
+        <seg>父祖の記憶にたずねることで、あの女の子孫である疑いのある者を探し、処分するんだ。We consult the Ancestral Memories regularly to find her potential descendants and deal with them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We could always use more people to handle our work...</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051959Z" creationid="Mad" creationdate="20190407T051959Z">
@@ -71309,8 +71317,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We oppose the Scarlet lady’s efforts to control the Collective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T011013Z" creationid="urakata" creationdate="20190427T011013Z">
-        <seg>我々は緋色の貴婦人を止めようとしているんだ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T011452Z" creationid="urakata" creationdate="20190427T011013Z">
+        <seg>緋色の貴婦人を止めることが我々の目的だ。</seg>
       </tuv>
     </tu>
     <tu>
