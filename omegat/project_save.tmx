@@ -15448,6 +15448,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By anchoring her life to each of her descendants’, she became immortal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T010252Z" creationid="urakata" creationdate="20190427T010252Z">
+        <seg>子孫に自分の命を結び付けることで、不死身となったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By combining spells in the right sequence, you will achieve better results than using a spell on its own.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T122640Z">
@@ -74956,6 +74964,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021637Z" creationid="pugnus" creationdate="20190422T021637Z">
         <seg>あなたはこのゴールドベリーを悲しく、そして小さいものにします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may know her as the Scarlet Lady.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190427T010355Z" creationid="urakata" creationdate="20190427T010355Z">
+        <seg>「緋色の貴婦人」としてなら知っているかもしれないな。</seg>
       </tuv>
     </tu>
     <tu>
