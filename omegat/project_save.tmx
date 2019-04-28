@@ -22829,6 +22829,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you have a death wish?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111114Z" creationid="urakata" creationdate="20190428T111114Z">
+        <seg>死にたいのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have any idea where to look for your body parts?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T122815Z" creationid="taman" creationdate="20190421T122815Z">
@@ -32738,6 +32746,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T110853Z" creationid="urakata" creationdate="20190428T110853Z">
+        <seg>わからないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't suppose you could convince her to stay?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190405T151638Z" creationid="Mad" creationdate="20190405T151638Z">
@@ -33470,6 +33486,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T100029Z" creationid="pugnus" creationdate="20190417T095123Z">
         <seg>私たちの長が、今、何をしているのかを知ることが出来たらいいなぁ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I just kept pouring my life into the Ley Line, as much as I could bear...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111003Z" creationid="urakata" creationdate="20190428T111003Z">
+        <seg>耐えられるだけ目一杯レイラインに注ぎ続けただけなんだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34447,6 +34471,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022210Z" creationid="taman" creationdate="20190409T064844Z">
         <seg>そのそばに丘があるので、その頂上にある祭壇でアブラシダを燃やしてきてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I wanted as much Mana as I could take.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111038Z" creationid="urakata" creationdate="20190428T111038Z">
+        <seg>マナをもらえるだけもらおうと思って。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53234,6 +53266,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111040Z" creationid="urakata" creationdate="20190428T111040Z">
+        <seg>Player_Roland_BC_Bones_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -58307,6 +58347,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland, you complete moron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111058Z" creationid="urakata" creationdate="20190428T111058Z">
+        <seg>ローランド、底抜けのアホだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013623Z" creationid="urakata" creationdate="20190427T013623Z">
@@ -58359,6 +58407,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103932Z" creationid="urakata" creationdate="20190428T103932Z">
         <seg>Roland_BC_Bones_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T110845Z" creationid="urakata" creationdate="20190428T110845Z">
+        <seg>Roland_BC_Bones_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111115Z" creationid="urakata" creationdate="20190428T111115Z">
+        <seg>Roland_BC_Bones_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -77304,6 +77368,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T081856Z" creationid="taman" creationdate="20190421T081856Z">
         <seg>あなたは不死者だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're asking?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111354Z" creationid="urakata" creationdate="20190428T111354Z">
+        <seg>聞くまでもないだろ?</seg>
       </tuv>
     </tu>
     <tu>
