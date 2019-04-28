@@ -33322,6 +33322,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I honestly don't care what happens to me anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111431Z" creationid="urakata" creationdate="20190428T111431Z">
+        <seg>ホントのところ、自分の身なんてどうでもいいんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hope I convinced you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T011715Z" creationid="pugnus" creationdate="20190424T234044Z">
@@ -56407,6 +56415,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T164623Z">
         <seg>Rissaには今みたいに忙しくないときに話すと約束したわ。  長い話になるでしょうから。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa has me by the stones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111850Z" creationid="urakata" creationdate="20190428T111850Z">
+        <seg>リッサにタマつかまれてるようなもんだし。</seg>
       </tuv>
     </tu>
     <tu>
