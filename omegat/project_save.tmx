@@ -27680,6 +27680,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give me a few minutes head start to &lt;color=#00CCFF&gt;&lt;b&gt;get to the heart of the mountain&lt;/b&gt;&lt;/color&gt;, alright?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103712Z" creationid="urakata" creationdate="20190428T103712Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;やまの中心部へ行く&lt;/b&gt;&lt;/color&gt;から、数分先行させてほしいんだが、いいかな?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give of yourself, seek to ease the pains of others.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T143156Z" creationid="Mad" creationdate="20190407T141533Z">
@@ -32722,6 +32730,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't want to have to bail you out again!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103133Z" creationid="urakata" creationdate="20190428T103133Z">
+        <seg>また助ける羽目になるのはごめんだぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't want to talk about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T065230Z" creationid="taman" creationdate="20190411T082254Z">
@@ -35287,6 +35303,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133418Z" creationid="taman" creationdate="20190421T131734Z">
         <seg>周辺には……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If I'm going to do this, I need to try to make it on my own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103157Z" creationid="urakata" creationdate="20190428T103157Z">
+        <seg>やるなら自分ひとりの力でやり通さないといけないんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53130,6 +53154,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103003Z" creationid="urakata" creationdate="20190428T103003Z">
+        <seg>Player_Roland_BC_Bones_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -58207,6 +58239,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102922Z" creationid="urakata" creationdate="20190428T102922Z">
         <seg>Roland_BC_Bones_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103135Z" creationid="urakata" creationdate="20190428T103135Z">
+        <seg>Roland_BC_Bones_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -74271,6 +74311,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whoa whoa whoa, I'm coming with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103020Z" creationid="urakata" creationdate="20190428T103020Z">
+        <seg>おいおいおい、一緒に行くよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whoever organized this was a professional.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T065622Z" creationid="pugnus" creationdate="20190406T065554Z">
@@ -76228,6 +76276,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T110505Z" creationid="pugnus" creationdate="20190422T110505Z">
         <seg>小さきヒトにあるものは、偽のたくらみと、空虚な神しかないのか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You keep going.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103000Z" creationid="urakata" creationdate="20190428T103000Z">
+        <seg>先に行ってくれ。</seg>
       </tuv>
     </tu>
     <tu>
