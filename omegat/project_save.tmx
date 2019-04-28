@@ -22981,6 +22981,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't get into any more trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103759Z" creationid="urakata" creationdate="20190428T103759Z">
+        <seg>これ以上危ないことはするなよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't make this violent.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023419Z" creationid="seto" creationdate="20190404T220313Z">
@@ -25787,6 +25795,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124317Z" creationid="urakata" creationdate="20190406T124216Z">
         <seg>まだまだ霊を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fine by me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103740Z" creationid="urakata" creationdate="20190428T103724Z">
+        <seg>わかった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39460,6 +39476,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113042Z" creationid="Mad" creationdate="20190406T113021Z">
         <seg>そうだね、前向きに考えてみるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll try to avoid running into anything else lethal today.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103925Z" creationid="urakata" creationdate="20190428T103925Z">
+        <seg>今日のうちにまた命の危険に突っ込んでいくのは避けるさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53162,6 +53186,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
+        <seg>Player_Roland_BC_Bones_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -56251,6 +56283,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103811Z" creationid="urakata" creationdate="20190428T103811Z">
+        <seg>うん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rise and shine, Trog spawn!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T121028Z" creationid="seto" creationdate="20190404T121028Z">
@@ -58247,6 +58287,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103135Z" creationid="urakata" creationdate="20190428T103135Z">
         <seg>Roland_BC_Bones_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103800Z" creationid="urakata" creationdate="20190428T103800Z">
+        <seg>Roland_BC_Bones_05</seg>
       </tuv>
     </tu>
     <tu>
