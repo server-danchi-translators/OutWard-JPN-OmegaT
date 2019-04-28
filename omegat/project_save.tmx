@@ -111,6 +111,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(He is barely conscious)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102651Z" creationid="urakata" creationdate="20190428T102651Z">
+        <seg>(かろうじて意識が有るようだ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Leave)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T061051Z" creationid="taman" creationdate="20190410T061051Z">
@@ -72878,8 +72886,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Well, Roland did.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190427T055237Z" creationid="urakata" creationdate="20190427T055237Z">
-        <seg>我々、というかローランドがですが。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102632Z" creationid="urakata" creationdate="20190427T055237Z">
+        <seg>我々、というかローランドのおかげですが。</seg>
       </tuv>
     </tu>
     <tu>
