@@ -8896,6 +8896,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;There’s dire news from Cierzo&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T030954Z" creationid="urakata" creationdate="20190428T030954Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;シエルゾから速報&lt;/b&gt;&lt;/color&gt;だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We will join Blue Chamber Collective&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012450Z" creationid="pugnus" creationdate="20190425T012450Z">
@@ -32298,6 +32306,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am proud to count you as family, [PlayerName] Aberdeen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024712Z" creationid="urakata" creationdate="20190428T024712Z">
+        <seg>君を家族に迎えることができてうれしいよ、[PlayerName]・アバディーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am sorry, [PlayerName], but this isn’t your home anymore.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
@@ -35247,6 +35263,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T075703Z" creationid="pugnus" creationdate="20190415T075703Z">
         <seg>もし、対立が避けられない時は...なんとしてでも仕留めろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If ever you wish to help us again, come to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024623Z" creationid="urakata" creationdate="20190428T024623Z">
+        <seg>もし、また助けてくれる気になったら、声をかけてくれ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56523,6 +56547,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_38</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024624Z" creationid="urakata" creationdate="20190428T024624Z">
+        <seg>Rissa_BC_Bones_38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_39</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024821Z" creationid="urakata" creationdate="20190428T024821Z">
+        <seg>Rissa_BC_Bones_39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -66485,6 +66525,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T132849Z" creationid="Light" creationdate="20190405T132849Z">
         <seg>ありがとう、 [PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you for all you’ve done for us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024819Z" creationid="urakata" creationdate="20190428T024819Z">
+        <seg>今までのこともありがとう。</seg>
       </tuv>
     </tu>
     <tu>
