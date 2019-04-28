@@ -25119,10 +25119,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everything hurts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104055Z" creationid="urakata" creationdate="20190428T104055Z">
+        <seg>全身が痛い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Everything is for sale, EVERYTHING!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060040Z" creationid="Light" creationdate="20190408T055922Z">
         <seg>さあ、よってらっしゃい！なんでも売ってるよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104108Z" creationid="urakata" creationdate="20190428T104108Z">
+        <seg>全身が。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,6 +32258,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hurts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104113Z" creationid="urakata" creationdate="20190428T104113Z">
+        <seg>痛い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hyena</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T001059Z" creationid="pugnus" creationdate="20190411T001059Z">
@@ -33022,6 +33046,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T084554Z" creationid="pugnus" creationdate="20190417T084524Z">
         <seg>最初のエラットの任務中に事件があって...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I had no idea the Mana ritual was so painful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104127Z" creationid="urakata" creationdate="20190428T104127Z">
+        <seg>マナの儀式がこんなに痛いなんて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47682,6 +47714,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, Elatt's name...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104030Z" creationid="urakata" creationdate="20190428T104030Z">
+        <seg>なんてこった...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, and Helen Turnbull is looking for curious objects, see her up on the raised deck near the inn.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T162130Z">
@@ -58299,6 +58339,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103932Z" creationid="urakata" creationdate="20190428T103932Z">
+        <seg>Roland_BC_Bones_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
@@ -66837,6 +66885,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T092427Z" creationid="rkmad" creationdate="20190405T092427Z">
         <seg>あなたの正しい行いに感謝しますよ、リッサ。ええ、心の底からね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T103930Z" creationid="urakata" creationdate="20190428T103930Z">
+        <seg>ありがとう。</seg>
       </tuv>
     </tu>
     <tu>
