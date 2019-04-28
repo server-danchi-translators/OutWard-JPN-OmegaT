@@ -53226,6 +53226,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T104433Z" creationid="urakata" creationdate="20190428T104433Z">
+        <seg>Player_Roland_BC_Bones_a_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -58287,6 +58295,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054841Z" creationid="urakata" creationdate="20190427T054841Z">
         <seg>ローランドが、リッチに?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland, exactly how much of your life did you sacrifice to tap into the Ley Line's Mana?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T110842Z" creationid="urakata" creationdate="20190428T110842Z">
+        <seg>ローランド、実際のところレイラインのマナに接続するために、どれだけの生命力を捧げたんだ?</seg>
       </tuv>
     </tu>
     <tu>
