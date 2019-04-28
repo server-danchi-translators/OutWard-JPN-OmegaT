@@ -56427,6 +56427,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_35</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023505Z" creationid="urakata" creationdate="20190428T023505Z">
+        <seg>Rissa_BC_Bones_35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa_BC_Giants_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052755Z" creationid="seto" creationdate="20190406T052755Z">
@@ -67182,6 +67190,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095458Z" creationid="Light" creationdate="20190409T095458Z">
         <seg>部屋は、エンメルカルの森のベルクにある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The consequences would have been final!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023504Z" creationid="urakata" creationdate="20190428T023504Z">
+        <seg>もう完全に終わりということだ!</seg>
       </tuv>
     </tu>
     <tu>
