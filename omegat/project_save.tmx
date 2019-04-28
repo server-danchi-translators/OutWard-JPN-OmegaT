@@ -11436,6 +11436,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And that's all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024311Z" creationid="urakata" creationdate="20190428T024311Z">
+        <seg>それじゃあ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T044911Z" creationid="magur0w" creationdate="20190404T175927Z">
@@ -12072,6 +12080,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T093500Z" creationid="pugnus" creationdate="20190422T093500Z">
         <seg>他の部族に大きな問題を引き起こすことがなければ、問題と取られないのであるな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As long as you keep what you witnessed here a secret, you're free to go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024555Z" creationid="urakata" creationdate="20190428T024555Z">
+        <seg>ここで有ったことを黙っていてくれるなら、文句はない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,6 +32258,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am done with this Krypteia work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024405Z" creationid="urakata" creationdate="20190428T024330Z">
+        <seg>クリュプテイアの依頼は以上ということで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am glad it did not go worse.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T033525Z" creationid="pugnus" creationdate="20190422T033525Z">
@@ -34707,6 +34731,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T141101Z" creationid="Mad" creationdate="20190407T141101Z">
         <seg>私は聖なる使命に加わることに興味があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm disappointed, but I understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024533Z" creationid="urakata" creationdate="20190428T024533Z">
+        <seg>残念だが、しょうがない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52394,6 +52426,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_b_35</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024257Z" creationid="urakata" creationdate="20190428T024257Z">
+        <seg>Player_Rissa_BC_Bones_b_35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_c_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225656Z" creationid="urakata" creationdate="20190426T225656Z">
@@ -56471,6 +56511,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023919Z" creationid="urakata" creationdate="20190428T023919Z">
         <seg>Rissa_BC_Bones_36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_37</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024502Z" creationid="urakata" creationdate="20190428T024502Z">
+        <seg>Rissa_BC_Bones_37</seg>
       </tuv>
     </tu>
     <tu>
@@ -75352,6 +75400,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141419Z" creationid="Light" creationdate="20190406T130234Z">
         <seg>ケルソネソスのビーチですべての食材を集めることができるよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can handle this shady business on your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024501Z" creationid="urakata" creationdate="20190428T024501Z">
+        <seg>これからは日陰の仕事はご自分でやってくださいね。</seg>
       </tuv>
     </tu>
     <tu>
