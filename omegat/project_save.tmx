@@ -23429,6 +23429,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Either way, there's nothing to lose.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T112010Z" creationid="urakata" creationdate="20190428T112010Z">
+        <seg>どっちにしろ、失うものなんてない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elaborate stew using alpha meat and a gravel beetle, which gives Impact Resistance as well as adding Impact to one’s attacks with the Rage status.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T103026Z" creationid="Light" creationdate="20190407T085834Z">
@@ -35371,10 +35379,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I do work for her, I face almost certain death.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111951Z" creationid="urakata" creationdate="20190428T111951Z">
+        <seg>リッサのために働くと、死ぬような目に合う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If I don't see the money from you by the time I count to ten, I will make sure you regret ever coming home!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023051Z" creationid="seto" creationdate="20190404T214650Z">
         <seg>十数える間に金を用意しなさい！ でないとここに帰ってきたことを後悔させてやるわよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If I don't work for her, I can't pay my Blood Price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T111956Z" creationid="urakata" creationdate="20190428T111915Z">
+        <seg>リッサのために働かないと血の代償を払えない。</seg>
       </tuv>
     </tu>
     <tu>
