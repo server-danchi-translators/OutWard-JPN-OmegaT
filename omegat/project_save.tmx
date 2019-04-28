@@ -30192,6 +30192,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hang on, let me patch that up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102931Z" creationid="urakata" creationdate="20190428T102920Z">
+        <seg>じっとして、応急処置をしよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hang on...</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012119Z" creationid="seto" creationdate="20190413T012119Z">
@@ -33110,6 +33118,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014157Z" creationid="weedssoul" creationdate="20190406T014157Z">
         <seg>いくつか&lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;をあげましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have some bandages on me, I can handle it myself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102954Z" creationid="urakata" creationdate="20190428T102954Z">
+        <seg>包帯は持ってきてるんだ、自分でできるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53106,6 +53122,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102856Z" creationid="urakata" creationdate="20190428T102856Z">
+        <seg>Player_Roland_BC_Bones_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -58167,6 +58191,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031629Z" creationid="urakata" creationdate="20190428T031629Z">
         <seg>Roland_BC_Bones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102653Z" creationid="urakata" creationdate="20190428T102653Z">
+        <seg>Roland_BC_Bones_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102922Z" creationid="urakata" creationdate="20190428T102922Z">
+        <seg>Roland_BC_Bones_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -66673,6 +66713,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you, I really owe you one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102814Z" creationid="urakata" creationdate="20190428T102814Z">
+        <seg>ありがとう、大きな借りができたな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you, [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T120113Z" creationid="weedssoul" creationdate="20190406T120113Z">
@@ -66825,6 +66873,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That rock mantis really had me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102854Z" creationid="urakata" creationdate="20190428T102854Z">
+        <seg>あのロック・マンティスにやられるところだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That sounds like a terrible idea.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045839Z">
@@ -66845,6 +66901,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T033448Z" creationid="pugnus" creationdate="20190422T033448Z">
         <seg>とても醜い問題だったね...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That was you who saved me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102755Z" creationid="urakata" creationdate="20190428T102755Z">
+        <seg>君が助けてくれたのか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73701,6 +73765,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102705Z" creationid="urakata" creationdate="20190428T102705Z">
+        <seg>何を...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What... did you just give me?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135541Z" creationid="Light" creationdate="20190405T135541Z">
@@ -74187,6 +74259,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T091932Z" creationid="rkmad" creationdate="20190404T091932Z">
         <seg>私を助けてくれそうな人は、誰だろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102658Z" creationid="urakata" creationdate="20190428T102658Z">
+        <seg>誰だ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -77088,6 +77168,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003145Z" creationid="seto" creationdate="20190413T003145Z">
         <seg>兄貴にやったみたいに、俺からも根こそぎ奪おうっていう魂胆なんだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're injured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102906Z" creationid="urakata" creationdate="20190428T102906Z">
+        <seg>けがをしているね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80911,6 +80999,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Blue_Chamber_Questline.xml</prop>
+      <prop type="id">1051_0</prop>
+      <tuv lang="EN-US">
+        <seg>Oh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T102738Z" creationid="urakata" creationdate="20190428T102738Z">
+        <seg>ああ</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">OutwardEn/dialogues_Merchants_Trainers_MessageBoards.xml</prop>
       <prop type="id">230_0</prop>
