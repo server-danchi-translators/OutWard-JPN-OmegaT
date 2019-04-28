@@ -32538,6 +32538,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I do indeed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024050Z" creationid="urakata" creationdate="20190428T024040Z">
+        <seg>ありがたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I do not look forward to this meeting.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T085732Z" creationid="pugnus" creationdate="20190417T085732Z">
@@ -66441,6 +66449,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for choosing to remain with us, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024235Z" creationid="urakata" creationdate="20190428T024155Z">
+        <seg>クリュプテイアに残ってくれてうれしいよ、[PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for saving me, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023754Z">
@@ -77041,6 +77057,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T092701Z" creationid="はぐくみ会" creationdate="20190403T061812Z">
         <seg>私は立ち上がろうとするが、再び意識が途絶えた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your continued aid is welcome.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024256Z" creationid="urakata" creationdate="20190428T024256Z">
+        <seg>これからもよろしく。</seg>
       </tuv>
     </tu>
     <tu>
