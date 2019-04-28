@@ -10915,6 +10915,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, I’ll go check on Cierzo and talk to Burac.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031429Z" creationid="urakata" creationdate="20190428T031429Z">
+        <seg>ええ、シエルゾに行って、ブラックの話を聞いてみます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, I’ll help you.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T095835Z" creationid="taman" creationdate="20190420T095835Z">
@@ -17305,6 +17313,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come back in a few days, and I will let you know if there is more you can do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031626Z" creationid="urakata" creationdate="20190428T031626Z">
+        <seg>頼みごとが出てくるかもしれないから、数日後に戻ってきて欲しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come back later, with the money this time!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035154Z" creationid="seto" creationdate="20190420T034956Z">
@@ -19229,6 +19245,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071036Z" creationid="hiru4" creationdate="20190402T070745Z">
         <seg>コスメティックスキル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could I ask you to go see Burac in Cierzo and help however you can, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031400Z" creationid="urakata" creationdate="20190428T031400Z">
+        <seg>シエルゾのブラックのところへ行って、助けてやってくれないか、[PlayerName]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -38246,6 +38270,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may be some time before the situation changes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031450Z" creationid="urakata" creationdate="20190428T031450Z">
+        <seg>状況が動くまでしばらくの猶予はあるはず。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It means you and your giants become part of the Collective, all of us work together and consult each other for major decisions.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T092136Z" creationid="pugnus" creationdate="20190422T092136Z">
@@ -52426,6 +52458,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_40</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031402Z" creationid="urakata" creationdate="20190428T031402Z">
+        <seg>Player_Rissa_BC_Bones_a_40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
@@ -56575,6 +56615,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T024821Z" creationid="urakata" creationdate="20190428T024821Z">
         <seg>Rissa_BC_Bones_39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_40</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031303Z" creationid="urakata" creationdate="20190428T031303Z">
+        <seg>Rissa_BC_Bones_40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_41</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031431Z" creationid="urakata" creationdate="20190428T031431Z">
+        <seg>Rissa_BC_Bones_41</seg>
       </tuv>
     </tu>
     <tu>
@@ -77522,6 +77578,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101437Z" creationid="pugnus" creationdate="20190404T043904Z">
         <seg>軍の衛生兵が私に水を飲ませてくれ、気が付いた。レバントの自宅に戻っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re free for now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T031507Z" creationid="urakata" creationdate="20190428T031507Z">
+        <seg>とりあえず自由にしていい。</seg>
       </tuv>
     </tu>
     <tu>
