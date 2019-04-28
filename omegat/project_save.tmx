@@ -34735,6 +34735,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm glad I confided this mission to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023703Z" creationid="urakata" creationdate="20190428T023703Z">
+        <seg>あなたに任せてよかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm glad you survived the wreck, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163736Z">
@@ -35279,6 +35287,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014921Z" creationid="pugnus" creationdate="20190425T014921Z">
         <seg>その謝罪の心が真実ならば、これ以上の滞在はしない方がよい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Krypteia ever needs me again, you know how to find me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T024032Z" creationid="urakata" creationdate="20190428T023918Z">
+        <seg>必要なら声をかけて下さい、いつでもクリュプテイアに手を貸しますよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52322,6 +52338,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Rissa_BC_Bones_a_35</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023824Z" creationid="urakata" creationdate="20190428T023824Z">
+        <seg>Player_Rissa_BC_Bones_a_35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_b_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225321Z" creationid="urakata" creationdate="20190426T225321Z">
@@ -56431,6 +56455,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023505Z" creationid="urakata" creationdate="20190428T023505Z">
         <seg>Rissa_BC_Bones_35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa_BC_Bones_36</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023919Z" creationid="urakata" creationdate="20190428T023919Z">
+        <seg>Rissa_BC_Bones_36</seg>
       </tuv>
     </tu>
     <tu>
@@ -76920,6 +76952,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071551Z" creationid="hiru4" creationdate="20190402T071551Z">
         <seg>材料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your actions made a great difference today, although no one in the Collective will ever know what you did for them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190428T023822Z" creationid="urakata" creationdate="20190428T023822Z">
+        <seg>今日あなたがしてくれたことでどれだけ助かったか。共同体の人々は君の献身をついぞ知ることはないだろうがね。</seg>
       </tuv>
     </tu>
     <tu>
