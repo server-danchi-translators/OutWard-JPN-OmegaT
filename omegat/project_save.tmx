@@ -41536,6 +41536,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Leave now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093501Z" creationid="pugnus" creationdate="20190429T093501Z">
+        <seg>立ち去りなさい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leave the Blue Chamber.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T095542Z" creationid="Light" creationdate="20190409T095542Z">
@@ -46828,6 +46836,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
         <seg> {1} はバッグの中にあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, &lt;color=#00CCFF&gt;&lt;b&gt;we won’t negotiate for the Blue Chamber&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093329Z" creationid="pugnus" creationdate="20190429T093329Z">
+        <seg>いいえ、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会と交渉はしません。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61131,6 +61147,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scourge take all the tribes!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093416Z" creationid="pugnus" creationdate="20190429T093416Z">
+        <seg>惨劇をすべての部族に！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scourge take you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093359Z" creationid="pugnus" creationdate="20190429T093359Z">
+        <seg>惨劇をあなたに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Screams rip from your throat as the corrupted ghosts plunder your life force greedily.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102805Z" creationid="pugnus" creationdate="20190406T004025Z">
@@ -73608,6 +73640,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
         <seg>今日はもう調理の必要はないな。ほら、お前も仕事に戻れ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don’t need them any longer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093442Z" creationid="pugnus" creationdate="20190429T093442Z">
+        <seg>これ以上はもう必要ありません。</seg>
       </tuv>
     </tu>
     <tu>
