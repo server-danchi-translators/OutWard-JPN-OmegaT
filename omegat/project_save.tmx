@@ -11652,6 +11652,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And you think the ghosts will protect you when Levant comes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T091634Z" creationid="pugnus" creationdate="20190429T091634Z">
+        <seg>そして、レバント来るときに、本当に死霊が守ってくれると思うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And you want me to join...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T012432Z" creationid="urakata" creationdate="20190427T012432Z">
@@ -75392,6 +75400,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Where are you going to get your tribute for the ghosts then?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T091517Z" creationid="pugnus" creationdate="20190429T091517Z">
+        <seg>死霊たちへの生贄はどこで手に入れるつもりですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Where can I find merchants and trainers?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T161248Z" creationid="Light" creationdate="20190405T161248Z">
@@ -79067,6 +79083,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T164617Z">
         <seg>あなたの名はきれいになり、血の代償から開放されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your own people?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T091539Z" creationid="pugnus" creationdate="20190429T091539Z">
+        <seg>あなたの民から選ぶのですか？</seg>
       </tuv>
     </tu>
     <tu>
