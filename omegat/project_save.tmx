@@ -15504,6 +15504,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But everyone in our village will be &lt;color=#00CCFF&gt;&lt;b&gt;glad to have peace&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T100401Z" creationid="pugnus" creationdate="20190429T100401Z">
+        <seg>でも、私たち誰もが&lt;color=#00CCFF&gt;&lt;b&gt;平和を嬉しく思ってるんだ&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But he has big ambition and fears losing power.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031742Z" creationid="pugnus" creationdate="20190422T031742Z">
@@ -73328,6 +73336,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084003Z" creationid="pugnus" creationdate="20190406T084003Z">
         <seg>戦争はもう始まっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>War with the desert people is a good sport, but we Ashborn prefer to work in harmony on our crafts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T100608Z" creationid="pugnus" creationdate="20190429T100608Z">
+        <seg>砂漠の民との戦争は私たちにとっては競技みたいなもんだ。だけど、早く工芸品と調和したり、仕事をしたりすることを望んでもいるよぉ。</seg>
       </tuv>
     </tu>
     <tu>
