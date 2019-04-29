@@ -23061,6 +23061,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't you dare tempt me, pup!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063137Z" creationid="pugnus" creationdate="20190429T063137Z">
+        <seg>子犬ちゃん！私を誘惑するでない！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Donate silver to Pigeoneye, the self-proclaimed leader of Levant’s slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T013849Z" creationid="urakata" creationdate="20190406T122410Z">
@@ -45106,8 +45114,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>My reputation means too much to me to stain it over this.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T062334Z" creationid="pugnus" creationdate="20190429T062334Z">
-        <seg>そのような評判は確かに多い。それらを私色に染め上げてやろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062824Z" creationid="pugnus" creationdate="20190429T062334Z">
+        <seg>そのような評判は確かに多い。それらに染まってやるのもよい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67465,6 +67473,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's a Tsar Stone!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062840Z" creationid="pugnus" creationdate="20190429T062840Z">
+        <seg>ツァーリの宝玉ではないか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That's a mistake.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013630Z" creationid="urakata" creationdate="20190427T013630Z">
@@ -75349,6 +75365,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T083316Z" creationid="urakata" creationdate="20190331T071251Z">
         <seg>死ぬ気で這いつくばり、何とか出口まで戻った。そして、また意識を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With just two more of those, I could make armor that could deflect even a Manticore’s strikes!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062951Z" creationid="pugnus" creationdate="20190429T062951Z">
+        <seg>あと二個で、マンティコアの攻撃でさえもそらすことができる鎧を作ることができる！</seg>
       </tuv>
     </tu>
     <tu>
