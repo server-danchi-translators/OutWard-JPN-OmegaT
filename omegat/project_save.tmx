@@ -15729,6 +15729,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call off your armies or this’ll be your last fight, Sagard!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064714Z" creationid="pugnus" creationdate="20190429T064714Z">
+        <seg>サガード、軍を止めるのです。さもなければこれがあなたの最後の戦いになるでしょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call off your armies, or I'll call them off for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T063927Z" creationid="pugnus" creationdate="20190429T063927Z">
@@ -32934,6 +32942,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T110853Z" creationid="urakata" creationdate="20190428T110853Z">
         <seg>わからないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't need to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064901Z" creationid="pugnus" creationdate="20190429T064901Z">
+        <seg>私は求めていません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77880,6 +77896,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T121218Z" creationid="pugnus" creationdate="20190404T114455Z">
         <seg>私はいったい何を考えているのだろうか、シリが私を持ち上げる。片手だけで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wouldn't bring such shame to the Aberdeen name!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064834Z" creationid="pugnus" creationdate="20190429T064834Z">
+        <seg>アバンディーンの名に、そのような恥をもたらすことはないだろう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wouldn't dare kill me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064743Z" creationid="pugnus" creationdate="20190429T064743Z">
+        <seg>私を殺さないでくれ。</seg>
       </tuv>
     </tu>
     <tu>
