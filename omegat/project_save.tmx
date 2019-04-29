@@ -15432,6 +15432,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But mark my words, I’ll be proven right one day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065912Z" creationid="pugnus" creationdate="20190429T065912Z">
+        <seg>しかし、私の言葉を覚えておくがよい。いつの日か正しいと証明されよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But maybe I don’t care.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011039Z" creationid="seto" creationdate="20190413T011039Z">
@@ -34339,6 +34347,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I respect that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065717Z" creationid="pugnus" creationdate="20190429T065717Z">
+        <seg>私はそれを尊重しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I said, that is enough!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T222157Z" creationid="seto" creationdate="20190404T222157Z">
@@ -34975,6 +34991,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T080804Z" creationid="taman" creationdate="20190411T080804Z">
         <seg>また近いうちに会いましょう、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll call off my armies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065751Z" creationid="pugnus" creationdate="20190429T065751Z">
+        <seg>軍隊をとめさせよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72300,6 +72324,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Very tempting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065550Z" creationid="pugnus" creationdate="20190429T065550Z">
+        <seg>とても...そそられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Very well, come back once you have something.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T174748Z" creationid="magur0w" creationdate="20190404T174748Z">
@@ -76858,6 +76890,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103037Z" creationid="pugnus" creationdate="20190406T004942Z">
         <seg>緩やかに意識を取り戻す。Soeranが私の傷を手当てしてくれている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You fight dirty, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065651Z" creationid="pugnus" creationdate="20190429T065628Z">
+        <seg>[PlayerName]、汚いぞ。</seg>
       </tuv>
     </tu>
     <tu>
