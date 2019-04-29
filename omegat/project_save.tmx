@@ -119,6 +119,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Hold out a Tsar Stone)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062752Z" creationid="pugnus" creationdate="20190429T062752Z">
+        <seg>(ツァーリの宝玉を差し出す。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Leave)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T061051Z" creationid="taman" creationdate="20190410T061051Z">
@@ -15564,6 +15572,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T063851Z" creationid="taman" creationdate="20190411T063814Z">
         <seg>神にこの身を捧げると誓ったとき、エラットが心の底から人を守りたいと願っていることは私も感じることができた…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But when Levant attacks again, everyone will remember that I was right to fear them!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062716Z" creationid="pugnus" creationdate="20190429T062716Z">
+        <seg>しかし、レバントが再び攻撃をしてきたとき、誰もが思い出すだろう！私が警告し、恐れていたと！</seg>
       </tuv>
     </tu>
     <tu>
@@ -39698,8 +39714,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I’ll call off my soldiers.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T062436Z" creationid="pugnus" creationdate="20190429T062436Z">
-        <seg>私は兵士たちを呼ぶことは無い。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T062534Z" creationid="pugnus" creationdate="20190429T062436Z">
+        <seg>私の兵士に攻撃を中止させよう。</seg>
       </tuv>
     </tu>
     <tu>
