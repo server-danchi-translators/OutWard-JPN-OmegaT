@@ -70008,6 +70008,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They feed on life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T091838Z" creationid="pugnus" creationdate="20190429T091724Z">
+        <seg>死霊は生命が欲しいだけの存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They have no conscience!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T075739Z" creationid="pugnus" creationdate="20190429T075739Z">
@@ -70358,6 +70366,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T142451Z" creationid="setom" creationdate="20190402T141218Z">
         <seg>何もねぇよりかは温まるはずだぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’ll let everyone kill each other and feast on the carnage!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T092059Z" creationid="pugnus" creationdate="20190429T092059Z">
+        <seg>放っておくだけで大虐殺を満喫できるのですから！</seg>
       </tuv>
     </tu>
     <tu>
