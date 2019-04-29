@@ -25087,6 +25087,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Estelle was the heart of this tribe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T081640Z" creationid="pugnus" creationdate="20190429T081640Z">
+        <seg>エステルは部族の中心でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethereal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114700Z" creationid="setom" creationdate="20190401T114700Z">
@@ -76981,6 +76989,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can't understand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T081504Z" creationid="pugnus" creationdate="20190429T081504Z">
+        <seg>あなたは本当に理解をしていませんね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You cannot boil water as the Waterskin is empty.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132401Z" creationid="hiru4" creationdate="20190403T062530Z">
@@ -78561,6 +78577,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035454Z" creationid="rkmad" creationdate="20190405T035454Z">
         <seg>あなたは村人達にとって、あなた自身が必要な存在であることを証明できたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T081447Z" creationid="pugnus" creationdate="20190429T081437Z">
+        <seg>あなたは...</seg>
       </tuv>
     </tu>
     <tu>
