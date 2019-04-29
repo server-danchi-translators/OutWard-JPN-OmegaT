@@ -14255,6 +14255,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Begone from here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093828Z" creationid="pugnus" creationdate="20190429T093828Z">
+        <seg>ここから出ていきなさい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beige Garb</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T095914Z" creationid="pugnus" creationdate="20190423T095914Z">
@@ -30480,6 +30488,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Haloo, my ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093942Z" creationid="pugnus" creationdate="20190429T093942Z">
+        <seg>こんにちは、我が同胞よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Halt, state your business!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T043434Z" creationid="Mad" creationdate="20190407T043434Z">
@@ -45508,6 +45524,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020544Z" creationid="weedssoul" creationdate="20190406T020544Z">
         <seg>私の提案をまだ受け入れることはできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My patience has its limits, Cierzo scum.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T093905Z" creationid="pugnus" creationdate="20190429T093905Z">
+        <seg>私の忍耐にも限界はあります。シエルゾの人間の屑よ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68666,6 +68690,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The desert people are no match for us!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T094313Z" creationid="pugnus" creationdate="20190429T094313Z">
+        <seg>砂漠の人々と我らが戦うことは無いだろう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The dimwitted creatures then grab spears and charge out, leaving you alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T094848Z" creationid="はぐくみ会" creationdate="20190403T085908Z">
@@ -69330,6 +69362,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T055641Z" creationid="pugnus" creationdate="20190418T055641Z">
         <seg>戦争は悲惨ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The war goes well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T094009Z" creationid="pugnus" creationdate="20190429T094009Z">
+        <seg>戦争はうまくいった。</seg>
       </tuv>
     </tu>
     <tu>
