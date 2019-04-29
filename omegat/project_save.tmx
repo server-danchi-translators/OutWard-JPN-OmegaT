@@ -32948,8 +32948,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I don't need to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T064901Z" creationid="pugnus" creationdate="20190429T064901Z">
-        <seg>私は求めていません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064952Z" creationid="pugnus" creationdate="20190429T064901Z">
+        <seg>私は殺しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39836,6 +39836,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064455Z" creationid="pugnus" creationdate="20190429T064455Z">
         <seg>イタチちゃん！私はお前の骨を全部折ってやる！楽しんで！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll just break enough of your bones to put an end to your career, miserable old man!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065221Z" creationid="pugnus" creationdate="20190429T065221Z">
+        <seg>惨めなご老人、あなたが仕事をできなくなるほど、あなたの骨を折ることにします！</seg>
       </tuv>
     </tu>
     <tu>
