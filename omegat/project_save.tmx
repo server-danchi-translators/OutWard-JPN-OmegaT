@@ -12678,6 +12678,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Au, I wonder how much the desert people will pay for good Ashborn goods once we have peace!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T101006Z" creationid="pugnus" creationdate="20190429T101006Z">
+        <seg>あぁ！もし戦争がおわり、平和になったならば、砂漠の人々はアッシュボーンの商品にいくら払ってくれるかなぁ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Au, cekta.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012932Z" creationid="pugnus" creationdate="20190425T012932Z">
@@ -35151,6 +35159,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045653Z" creationid="pugnus" creationdate="20190406T070739Z">
         <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;ベルクに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will speak with the Highmonk and tell him that the war will be over very soon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T100821Z" creationid="pugnus" creationdate="20190429T100821Z">
+        <seg>私は上級僧と話をしてくるよ。戦争がもうすぐ終わるって話してくるさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78469,6 +78485,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084834Z" creationid="pugnus" creationdate="20190406T084834Z">
         <seg>あなたは&lt;color=#00CCFF&gt;&lt;b&gt;時々、訪問しなさい&lt;/b&gt;&lt;/color&gt;、彼らが必要とする手助けがあるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should be the one to negotiate for us, I think, if we don't have a Highlord to do it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T100734Z" creationid="pugnus" creationdate="20190429T100734Z">
+        <seg>君が私たちのために交渉してくれないかね。上級王がいないのだから、それが一番だと私は思うのさ。</seg>
       </tuv>
     </tu>
     <tu>
