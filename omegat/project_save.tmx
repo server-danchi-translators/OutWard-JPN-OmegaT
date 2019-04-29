@@ -27943,6 +27943,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Giants think war with puny desert men is good sport, but we eager to get back to crafts and silks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T095052Z" creationid="pugnus" creationdate="20190429T095052Z">
+        <seg>巨人たちにとって砂漠の民との戦いは競技のようなものである。しかし、陶芸や機織りをする生活に戻りたいと感じていることも確かである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giants who cause minor transgressions must make amends to the person they wronged, and must create a porcelain item or an ash-silk item for the wronged party, depending on their trade.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T103336Z" creationid="pugnus" creationdate="20190425T103336Z">
@@ -70726,6 +70734,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T092003Z" creationid="pugnus" creationdate="20190422T092003Z">
         <seg>これは我に多くの力を与えるが、多くの仕事が増えるわけではないようであるな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This good thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T094839Z" creationid="pugnus" creationdate="20190429T094839Z">
+        <seg>良い考えだ。</seg>
       </tuv>
     </tu>
     <tu>
