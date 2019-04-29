@@ -8936,6 +8936,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We accept peace&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T095119Z" creationid="pugnus" creationdate="20190429T095119Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;我らは和平を受け入れよう。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We agree to declare peace with Levant&lt;/b&gt;&lt;/color&gt;, but you must get the Chamberlords to send us help.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T085855Z" creationid="pugnus" creationdate="20190429T085725Z">
@@ -34983,6 +34991,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022210Z" creationid="taman" creationdate="20190409T064844Z">
         <seg>そのそばに丘があるので、その頂上にある祭壇でアブラシダを燃やしてきてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I want you to speak for us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T095230Z" creationid="pugnus" creationdate="20190429T095219Z">
+        <seg>そなたから、我が民に話してはくれないか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78329,6 +78345,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You represent us well, yes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T095338Z" creationid="pugnus" creationdate="20190429T095338Z">
+        <seg>そなたは我らをよく理解している、そうであろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You say for real I get to be a leader in this Blue Room Collection?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T084940Z" creationid="pugnus" creationdate="20190422T084940Z">
@@ -78557,6 +78581,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084042Z" creationid="rkmad" creationdate="20190408T084042Z">
         <seg>考えうる限りの最大の力を発揮して、ありとあらゆる問題の解決に当たるだろうとね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You very good speaker.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T095253Z" creationid="pugnus" creationdate="20190429T095253Z">
+        <seg>そなたはとても良い話し手である。</seg>
       </tuv>
     </tu>
     <tu>
