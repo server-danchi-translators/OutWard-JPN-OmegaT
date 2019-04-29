@@ -14231,6 +14231,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Best of luck with that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T054900Z" creationid="pugnus" creationdate="20190429T054900Z">
+        <seg>幸運を祈ります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beware the Gold Lich</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T101050Z" creationid="pugnus" creationdate="20190415T101050Z">
@@ -67117,6 +67125,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
         <seg>ありがとう、 [PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you, this should help my dealings with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T054828Z" creationid="pugnus" creationdate="20190429T054828Z">
+        <seg>ありがとうございます。この情報は、彼らとの話し合いに役に立つはずです。</seg>
       </tuv>
     </tu>
     <tu>
