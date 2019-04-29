@@ -22909,6 +22909,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you really want everyone in the Collective to know that you don't honor your word, Sagard?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061713Z" creationid="pugnus" creationdate="20190429T061713Z">
+        <seg>サガード、あなたは本当に望んでいることをした方が良いです。青の議会の誰もが、あなたは自分の言葉に自信がないと知っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to continue?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064232Z" creationid="hiru4" creationdate="20190403T064118Z">
@@ -30452,6 +30460,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T034542Z" creationid="taman" creationdate="20190428T034524Z">
         <seg>気はたしかですか？！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you lost your senses, pup?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061353Z" creationid="pugnus" creationdate="20190429T061353Z">
+        <seg>お前は五感を失ったのか？気が違ったのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -77419,8 +77435,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You think one measly personal favor is worth ending a war?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T061231Z" creationid="pugnus" creationdate="20190429T061036Z">
-        <seg>お前は、たった一つのちっぽけな好意が、戦争を終わらせるとでも？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061238Z" creationid="pugnus" creationdate="20190429T061036Z">
+        <seg>たった一つのちっぽけな好意が、戦争を終わらせるとでも？</seg>
       </tuv>
     </tu>
     <tu>
