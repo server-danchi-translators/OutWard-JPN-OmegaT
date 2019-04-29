@@ -22949,6 +22949,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know what you're starting, you little weasel?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064039Z" creationid="pugnus" creationdate="20190429T064039Z">
+        <seg>お前は何をしているのかわかっているのか？いたずらのつもりか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you really want everyone in the Collective to know that you don't honor your word, Sagard?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T061713Z" creationid="pugnus" creationdate="20190429T061713Z">
@@ -48162,6 +48170,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, is the great Sagard Battleborn too pathetic to fight one puny little person?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064326Z" creationid="pugnus" creationdate="20190429T064326Z">
+        <seg>あぁ、偉大なるサガード・バトルボーンが哀れで卑劣な小人と戦うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, now they consider Highlord Cyr important?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T084447Z" creationid="pugnus" creationdate="20190422T084447Z">
@@ -49022,6 +49038,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T091349Z" creationid="pugnus" creationdate="20190417T090606Z">
         <seg>こんな日に、私が、この共同体の最も偉大な歴史家ではないことを願う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On second thought, never mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064115Z" creationid="pugnus" creationdate="20190429T064115Z">
+        <seg>考え直してください、気にしないで。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61912,6 +61936,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112617Z" creationid="Gaiden Shinji" creationdate="20190404T112617Z">
         <seg>スラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart choice, pup.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T064143Z" creationid="pugnus" creationdate="20190429T064143Z">
+        <seg>子犬ちゃん、賢い選択であるぞ。</seg>
       </tuv>
     </tu>
     <tu>
