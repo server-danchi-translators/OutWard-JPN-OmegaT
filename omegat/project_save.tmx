@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -69248,6 +69248,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They call them the "Earth Beasts", and many believe their appearance signaled the beginning of the destruction of Aurai, just as they believe the Scarlet Moon was destroyed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T053917Z" creationid="pugnus" creationdate="20190429T053917Z">
+        <seg>彼らはスカージのことを「大地の獣」と呼んでいます。そして、多くの巨人は「緋色の月」...彼らの故郷が破壊されたように、「大地の獣」の出現がオーライの破壊の始まりを示したと信じています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They can be bought from merchants or crafted, with a cooking pot, from salt and various food types.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112310Z">
@@ -73666,6 +73674,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T153800Z" creationid="taman" creationdate="20190410T153800Z">
         <seg>エラットとは何者なの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What about the defeat of the Scourge?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T053554Z" creationid="pugnus" creationdate="20190429T053554Z">
+        <seg>スカージ、災厄に敗北したことについてはどうでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
