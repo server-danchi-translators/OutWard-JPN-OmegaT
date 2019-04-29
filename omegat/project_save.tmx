@@ -9072,6 +9072,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A gem like this is worth any price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063505Z" creationid="pugnus" creationdate="20190429T063505Z">
+        <seg>この宝玉はとてつもない価値を持つ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A giant may be forgiven only twice, once in the name of the Dawn Weaver, and once in the name of the Dusk Father.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T104341Z" creationid="pugnus" creationdate="20190425T104341Z">
@@ -33674,6 +33682,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I just wanted to see your reaction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063643Z" creationid="pugnus" creationdate="20190429T063643Z">
+        <seg>私はあなたの反応を見たかったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I just woke up from a shipwreck!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214852Z" creationid="seto" creationdate="20190404T214852Z">
@@ -34903,6 +34919,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T080804Z" creationid="taman" creationdate="20190411T080804Z">
         <seg>また近いうちに会いましょう、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll call off my soldiers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063521Z" creationid="pugnus" creationdate="20190429T063521Z">
+        <seg>私の兵士に攻撃を中止させよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47806,6 +47830,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T052241Z" creationid="weedssoul" creationdate="20190406T035526Z">
         <seg> 私への貸しを返すときだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now hand it over!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063609Z" creationid="pugnus" creationdate="20190429T063609Z">
+        <seg>さぁ、それを引き渡すのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -77728,6 +77760,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T090150Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
         <seg>傷跡は長く残りそうだ...。私は自身の無謀さを呪い、これからはもっと慎重に行動すると誓った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You win.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063536Z" creationid="pugnus" creationdate="20190429T063536Z">
+        <seg>お前の勝ちだ。</seg>
       </tuv>
     </tu>
     <tu>
