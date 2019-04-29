@@ -34507,6 +34507,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think it'd be worth it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065324Z" creationid="pugnus" creationdate="20190429T065324Z">
+        <seg>ここで止めなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think this one’s going to last for a good day or two.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015043Z" creationid="rkmad" creationdate="20190404T014957Z">
@@ -35783,6 +35791,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T114531Z" creationid="weedssoul" creationdate="20190406T114531Z">
         <seg>海賊がそこを避けるのなら、我々の船にとってもそこは危険ということだ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it means I’ll be known as the one who took down Sagard Battleborn?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065521Z" creationid="pugnus" creationdate="20190429T065521Z">
+        <seg>私はサガード・バトルボーンを倒したものとして知られることになるでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -78169,6 +78185,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023822Z" creationid="urakata" creationdate="20190428T023822Z">
         <seg>今日あなたがしてくれたことでどれだけ助かったか。共同体の人々は君の献身をついぞ知ることはないだろうがね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your actions put the entire Collective in harm's way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T065257Z" creationid="pugnus" creationdate="20190429T065257Z">
+        <seg>あなたの行動は、青の議会全体を危機にさらします。</seg>
       </tuv>
     </tu>
     <tu>
