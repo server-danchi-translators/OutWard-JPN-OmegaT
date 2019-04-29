@@ -32362,6 +32362,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How many did you sacrifice to the undead?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T080320Z" creationid="pugnus" creationdate="20190429T080320Z">
+        <seg>あなたたちは、今まで何人の犠牲を死霊に払いましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How much?!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030807Z" creationid="weedssoul" creationdate="20190406T030807Z">
@@ -77993,6 +78001,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You talk about offering them life, while accusing us of murder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T080232Z" creationid="pugnus" creationdate="20190429T080232Z">
+        <seg>彼らに生贄を捧げると言っていますが、私たちは殺人を非難しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You thank your lucky stars that the ghost was trapped in its old memories, unable to reason and think...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T095359Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
@@ -78497,6 +78513,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T012101Z" creationid="pugnus" creationdate="20190422T012101Z">
         <seg>あなたは困難な道を、乗り越えてきてくれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You've enslaved yourselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T080127Z" creationid="pugnus" creationdate="20190429T080127Z">
+        <seg>あなたは自身を奴隷に貶めています。</seg>
       </tuv>
     </tu>
     <tu>
