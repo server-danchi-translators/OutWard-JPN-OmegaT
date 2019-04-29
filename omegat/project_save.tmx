@@ -70314,6 +70314,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Think about what you said.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T083933Z" creationid="pugnus" creationdate="20190429T083933Z">
+        <seg>あなたが言ったことの意味を考えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Third Clue: Find a place of claws and fangs, in a swamp’s poison.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121930Z" creationid="urakata" creationdate="20190406T121710Z">
@@ -71215,6 +71223,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T141903Z" creationid="Mad" creationdate="20190407T141903Z">
         <seg>オーライを守るためには、時には鉄の掟や刑罰が必要となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To protect your people from needlessly dying, you're going to sacrifice your people yourself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T084126Z" creationid="pugnus" creationdate="20190429T084126Z">
+        <seg>不必要な死から民を守るために、あなたは民の中から一人、殺そうとしています！</seg>
       </tuv>
     </tu>
     <tu>
