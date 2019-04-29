@@ -34451,6 +34451,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I say good.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073741Z" creationid="pugnus" creationdate="20190429T073741Z">
+        <seg>それでよいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I say yes.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012307Z" creationid="pugnus" creationdate="20190425T012307Z">
@@ -67697,6 +67705,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That the Blue Chamber suffers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073726Z" creationid="pugnus" creationdate="20190429T073726Z">
+        <seg>青の議会が苦しんでいることも。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That was a close call, no?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T042529Z" creationid="はぐくみ会" creationdate="20190403T235326Z">
@@ -73553,6 +73569,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105752Z" creationid="pugnus" creationdate="20190425T105752Z">
         <seg>彼らが初めてオーライに上陸したときに、私たちは使者を送ろうとしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want them to burn until they understand what it's like to lose those you care for.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T074150Z" creationid="pugnus" creationdate="20190429T074150Z">
+        <seg>あなたたちが、親しい者を失うことの気持ちを理解するまで、彼らを燃やし続けます。</seg>
       </tuv>
     </tu>
     <tu>
