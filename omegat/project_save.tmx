@@ -69224,6 +69224,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are, however, perplexed as to why it was stopped.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T054039Z" creationid="pugnus" creationdate="20190429T054039Z">
+        <seg>しかし、彼らは何故「大地の獣」が止められたのか分からず、困惑しているようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They believe in pushing progress to create an even better society.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130055Z" creationid="Light" creationdate="20190407T130055Z">
@@ -69349,6 +69357,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T113028Z" creationid="pugnus" creationdate="20190425T112642Z">
         <seg>彼らは自分たちの故郷や源流であると信じているものの破壊を決して忘れません。そして、考えが変わっていく速度は非常にゆっくりです。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They noticed the ray of light above Monsoon, but I doubt they understand what it, or the Vigils are.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T054326Z" creationid="pugnus" creationdate="20190429T054326Z">
+        <seg>巨人たちはモンスーンの上空の「光線」に気付き、そしてヴィジャルが何であるかを理解しているのではないかと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73680,8 +73696,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What about the defeat of the Scourge?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T053554Z" creationid="pugnus" creationdate="20190429T053554Z">
-        <seg>スカージ、災厄に敗北したことについてはどうでしょうか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T053948Z" creationid="pugnus" creationdate="20190429T053554Z">
+        <seg>スカージ、災厄についてはどうでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
