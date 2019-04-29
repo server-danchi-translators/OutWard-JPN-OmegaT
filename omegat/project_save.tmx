@@ -15729,6 +15729,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call off your armies, or I'll call them off for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063927Z" creationid="pugnus" creationdate="20190429T063927Z">
+        <seg>軍隊を止めてください、さもなければ、私が彼らを止めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call to Adventure</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T130043Z" creationid="seto" creationdate="20190415T130043Z">
@@ -38283,6 +38291,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is that a threat?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063954Z" creationid="pugnus" creationdate="20190429T063954Z">
+        <seg>それは、脅しか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is there anything I need to do to make it happen?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014727Z">
@@ -59499,6 +59515,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Satisfied?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063741Z" creationid="pugnus" creationdate="20190429T063741Z">
+        <seg>満足か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
@@ -73806,6 +73830,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well,you’ve seen it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063722Z" creationid="pugnus" creationdate="20190429T063722Z">
+        <seg>うむ、見たではないか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well-Earned Rest</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T011116Z" creationid="pugnus" creationdate="20190416T011116Z">
@@ -76965,6 +76997,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T214944Z" creationid="seto" creationdate="20190404T214944Z">
         <seg>払えないことは分かってるだろ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You know how priceless that gem is, don't you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T063827Z" creationid="pugnus" creationdate="20190429T063827Z">
+        <seg>お前はその宝玉がどれほど貴重であるか知っているのか？</seg>
       </tuv>
     </tu>
     <tu>
