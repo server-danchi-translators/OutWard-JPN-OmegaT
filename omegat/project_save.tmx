@@ -30160,6 +30160,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hah, I doubt that very much.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060746Z" creationid="pugnus" creationdate="20190429T060746Z">
+        <seg>ハッ！とうてい信じられぬな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hah, you think that now, but when they bleed the ground and kill the world, you realize you wrong!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T233404Z" creationid="pugnus" creationdate="20190424T233404Z">
@@ -34895,6 +34903,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T101824Z" creationid="seto" creationdate="20190410T101824Z">
         <seg>出発する前にどうにか準備するよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll make you change your mind, believe me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060718Z" creationid="pugnus" creationdate="20190429T060712Z">
+        <seg>私はあなたを心変わりさせます。私を信じてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77133,6 +77149,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103507Z" creationid="pugnus" creationdate="20190404T101734Z">
         <seg>気が付くと、私は死体の山に投げ込まれていた。悪臭が酷い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You owe me a favor, Sagard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060832Z" creationid="pugnus" creationdate="20190429T060832Z">
+        <seg>サガード、私に感謝するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
