@@ -78223,6 +78223,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’d attack me with words and not steel?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061819Z" creationid="pugnus" creationdate="20190429T061819Z">
+        <seg>お前は、鋼鉄ではなく、言葉で私を攻撃するのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’d be dead in a day.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T010956Z" creationid="seto" creationdate="20190413T010956Z">
