@@ -19419,8 +19419,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Couldn't they be the heart of another tribe?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T082411Z" creationid="pugnus" creationdate="20190429T082411Z">
-        <seg>彼らは他の部族の心になることはできませんか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T082648Z" creationid="pugnus" creationdate="20190429T082411Z">
+        <seg>彼らはエステルのように、他の部族にとって中心的な人物ではないと言いきれますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28642,8 +28642,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Good.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T011751Z">
-        <seg>いいわ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T082701Z" creationid="rkmad" creationdate="20190404T011751Z">
+        <seg>いいでしょう。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -69379,6 +69379,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T095809Z" creationid="taman" creationdate="20190420T095809Z">
         <seg>そのうち奴らはあたりにある全てのものを食らいつくすようになる。供物をささげてくれた人間さえも手にかけてしまうだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then they'll understand our suffering, they’ll understand that everything the Blue Chamber promises is a lie.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T083215Z" creationid="pugnus" creationdate="20190429T083215Z">
+        <seg>もうそうであれば、彼ら部族は私たちの苦しみを理解するでしょう。そして、青の議会が約束するすべてが嘘であると理解するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
