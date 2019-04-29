@@ -78711,6 +78711,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Your personal feud with Rissa is no reason to harm the rest of the tribes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T074258Z" creationid="pugnus" creationdate="20190429T074258Z">
+        <seg>あなたのリッサに対する個人的な感情は、他の部族に害を及ぼす理由にはならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your rest is interrupted by the faintest of unnatural sounds!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T104246Z" creationid="pugnus" creationdate="20190404T093824Z">
