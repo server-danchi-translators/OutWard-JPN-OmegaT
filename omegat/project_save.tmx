@@ -12156,6 +12156,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as we offer them life to drink, they have no reason to turn on us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T074946Z" creationid="pugnus" creationdate="20190429T074946Z">
+        <seg>私たちが霊たちに生贄を捧げている限り、彼らは守ってくれるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As long as you keep what you witnessed here a secret, you're free to go.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T024555Z" creationid="urakata" creationdate="20190428T024555Z">
@@ -78240,6 +78248,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T070303Z" creationid="pugnus" creationdate="20190429T070303Z">
         <seg>お前はきっとそこで差を生じさせたのだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You'd trust undead over living, breathing people?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T075628Z" creationid="pugnus" creationdate="20190429T075628Z">
+        <seg>あなたは生きている人より、死霊を信頼するのですか？</seg>
       </tuv>
     </tu>
     <tu>
