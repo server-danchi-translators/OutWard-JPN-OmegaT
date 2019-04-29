@@ -22821,6 +22821,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not be too forceful with them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T054926Z" creationid="pugnus" creationdate="20190429T054926Z">
+        <seg>あまり力を入れすぎないように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not cast us aside so easily.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020418Z" creationid="weedssoul" creationdate="20190406T020418Z">
@@ -67485,6 +67493,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T020803Z">
         <seg>アバディーンは、青の議会のなかでも最も古い一族の一つで、その名前には大きな意味があります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Ash Giants are slow to change, and have a forceful temper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T055014Z" creationid="pugnus" creationdate="20190429T055014Z">
+        <seg>灰の巨人は頑固で変化するのに時間が必要で、強い気性を持っています。</seg>
       </tuv>
     </tu>
     <tu>
