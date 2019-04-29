@@ -13967,6 +13967,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be thankful we have a truce.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T072544Z" creationid="pugnus" creationdate="20190429T072544Z">
+        <seg>私たちが攻撃をしないことに感謝してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be very careful in there.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T034933Z" creationid="pugnus" creationdate="20190422T034933Z">
@@ -73252,6 +73260,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have nothing but hatred for your people after what you've done to us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T072702Z" creationid="pugnus" creationdate="20190429T072702Z">
+        <seg>私たちはあなたたちを心底憎んでいます。あなたたちが私たちにしたことに対して。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We have plenty of free rooms for weary travellers!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052936Z" creationid="Mad" creationdate="20190407T052936Z">
@@ -75276,6 +75292,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173619Z" creationid="magur0w" creationdate="20190404T173619Z">
         <seg>何でまだここにいるんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why does someone from Cierzo dare come here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T072507Z" creationid="pugnus" creationdate="20190429T072507Z">
+        <seg>何故、シエルゾの者がここに来たのですか？</seg>
       </tuv>
     </tu>
     <tu>
