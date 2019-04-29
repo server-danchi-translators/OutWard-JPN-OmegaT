@@ -8936,6 +8936,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We agree to declare peace with Levant&lt;/b&gt;&lt;/color&gt;, but you must get the Chamberlords to send us help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T085855Z" creationid="pugnus" creationdate="20190429T085725Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私たちはレバントと和平を結ぶことに同意します。&lt;/b&gt;&lt;/color&gt; しかし、あなたは私たちのために、議会の議員の椅子を確保してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We will join Blue Chamber Collective&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012450Z" creationid="pugnus" creationdate="20190425T012450Z">
@@ -73352,6 +73360,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T055115Z" creationid="taman" creationdate="20190411T055047Z">
         <seg>エラットは常に正しいさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can't put our fates in the undead if their hunger grows out of control.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T085735Z" creationid="pugnus" creationdate="20190429T085637Z">
+        <seg>死霊の飢餓が制御不能になった場合、私たちの運命を死霊に任せることはできません。</seg>
       </tuv>
     </tu>
     <tu>
