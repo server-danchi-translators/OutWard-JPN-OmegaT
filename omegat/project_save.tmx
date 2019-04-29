@@ -315,6 +315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You don’t have a Tsar Stone to offer)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070738Z" creationid="pugnus" creationdate="20190429T070738Z">
+        <seg>(ツァーリの宝玉を持っていない。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You pick up the skull and take it with you.)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T124630Z" creationid="taman" creationdate="20190421T124630Z">
@@ -32114,6 +32122,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How could Rissa let that happen?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070504Z" creationid="pugnus" creationdate="20190429T070504Z">
+        <seg>リッサはどのようにして、それを起こすのだ？！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How did it go, human?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T040504Z" creationid="pugnus" creationdate="20190422T021721Z">
@@ -42800,6 +42816,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mark.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070614Z" creationid="pugnus" creationdate="20190429T070602Z">
+        <seg>私の。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Markus</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115126Z" creationid="Gaiden Shinji" creationdate="20190404T115126Z">
@@ -45316,6 +45340,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055931Z">
         <seg>私たち衛兵というのはシエルゾの最終防衛ラインだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070618Z" creationid="pugnus" creationdate="20190429T070607Z">
+        <seg>言葉を。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70594,6 +70626,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will be our doom, mark my words.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070555Z" creationid="pugnus" creationdate="20190429T070555Z">
+        <seg>これは、私たちの運命となる。私の言葉を記録するのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will keep you light on your feet and more effective in a fight.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T125205Z" creationid="weedssoul" creationdate="20190406T125059Z">
@@ -75813,6 +75853,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114032Z" creationid="Gaiden Shinji" creationdate="20190403T114032Z">
         <seg>ウールルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Words.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070629Z" creationid="pugnus" creationdate="20190429T070629Z">
+        <seg>記すのだ。</seg>
       </tuv>
     </tu>
     <tu>
