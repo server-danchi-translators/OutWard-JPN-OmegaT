@@ -22669,6 +22669,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did the Blue Chamber consult us before going to war?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073110Z" creationid="pugnus" creationdate="20190429T073110Z">
+        <seg>青の議会は、戦争を起こす前に私たちに相談しましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did they care when one of our own was poisoned?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073218Z" creationid="pugnus" creationdate="20190429T073218Z">
+        <seg>私たちの仲間が毒におかされた時に、彼らは気にしましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you see it?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T070111Z" creationid="taman" creationdate="20190410T065827Z">
@@ -73332,6 +73348,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We know it was Rissa’s doing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073349Z" creationid="pugnus" creationdate="20190429T073349Z">
+        <seg>リッサがやってくれたことは分かってはいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We let Levant gain a goddess?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T070420Z" creationid="pugnus" creationdate="20190429T070420Z">
@@ -75340,6 +75364,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T151047Z" creationid="weedssoul" creationdate="20190405T151047Z">
         <seg>なぜ彼が？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why should we?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T073024Z" creationid="pugnus" creationdate="20190429T073024Z">
+        <seg>何故私たちが？</seg>
       </tuv>
     </tu>
     <tu>
