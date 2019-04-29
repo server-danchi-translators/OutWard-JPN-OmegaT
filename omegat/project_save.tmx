@@ -35159,6 +35159,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm here to collect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061031Z" creationid="pugnus" creationdate="20190429T061031Z">
+        <seg>私がここに集めたのですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm here to kill you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T050630Z" creationid="Mad" creationdate="20190407T050630Z">
@@ -77155,8 +77163,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You owe me a favor, Sagard.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T060832Z" creationid="pugnus" creationdate="20190429T060832Z">
-        <seg>サガード、私に感謝するでしょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060919Z" creationid="pugnus" creationdate="20190429T060832Z">
+        <seg>サガード、あなたは私に借りがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77405,6 +77413,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044337Z" creationid="Mad" creationdate="20190407T044337Z">
         <seg>お前は馬鹿か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You think one measly personal favor is worth ending a war?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T061231Z" creationid="pugnus" creationdate="20190429T061036Z">
+        <seg>お前は、たった一つのちっぽけな好意が、戦争を終わらせるとでも？</seg>
       </tuv>
     </tu>
     <tu>
