@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -123,6 +123,14 @@
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T061051Z" creationid="taman" creationdate="20190410T061051Z">
         <seg>(立ち去る)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Myriade takes off at inhuman speed, his bones cracking loudly as he fades into the darkness...)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T002542Z" creationid="taman" creationdate="20190428T002542Z">
+        <seg>（ミリアドは人間離れした速度で駆け出すと、バキバキと大きな音をたてながら闇に消えていった……）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23863,6 +23871,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellinara taught me the spell she uses for work like this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T004103Z" creationid="taman" creationdate="20190428T004103Z">
+        <seg>エリナラに教えてもらった瘴気を浄化する魔法があるの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellinara told you to burn Greasy Fern here too, didn't she?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022337Z" creationid="taman" creationdate="20190410T065605Z">
@@ -30400,6 +30416,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you lost your mind?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034542Z" creationid="taman" creationdate="20190428T034524Z">
+        <seg>気はたしかですか？！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you picked up on any relevant gossip, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T180722Z" creationid="magur0w" creationdate="20190404T174552Z">
@@ -30788,6 +30812,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141508Z" creationid="weedssoul" creationdate="20190406T115149Z">
         <seg>いつも俺のことをバカだマヌケだって言うし。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He's been trying to keep the undead here in check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T002732Z" creationid="taman" creationdate="20190428T002732Z">
+        <seg>彼はここの不死者たちを管理していたようなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He's trying to help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T002814Z" creationid="taman" creationdate="20190428T002814Z">
+        <seg>私たちの味方だよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33138,6 +33178,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have an idea.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T033941Z" creationid="taman" creationdate="20190428T033919Z">
+        <seg>私にひとつ考えがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have an offer for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T224600Z" creationid="urakata" creationdate="20190426T224600Z">
@@ -34871,6 +34919,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll see you there!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T002207Z" creationid="taman" creationdate="20190428T002207Z">
+        <seg>先に行ってるぜ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll take any risk over being trapped here by my brother's idiocy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121844Z" creationid="Light" creationdate="20190407T121844Z">
@@ -34883,6 +34939,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132432Z" creationid="Light" creationdate="20190405T140219Z">
         <seg> 僕はこのことをリッサに伝えるよ、これで君は&lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;を得られるはずだよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll try to purify this altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003923Z" creationid="taman" creationdate="20190428T003923Z">
+        <seg>それまでに祭壇を浄化する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35003,6 +35067,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T052123Z" creationid="pugnus" creationdate="20190415T052123Z">
         <seg>刺客たちが他の人質を取りに来るかもしれないから、私はここに残るわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm going to trust your judgment on this one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003227Z" creationid="taman" creationdate="20190428T002912Z">
+        <seg>彼の件についてはあなたを信じるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38551,6 +38623,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It should be near the bottom of the ramp&lt;/b&gt;&lt;/color&gt;, where that nasty old Wendigo set up camp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T002131Z" creationid="taman" creationdate="20190428T002131Z">
+        <seg>傾斜の一番下を目指すといい、薄汚れたウェンディゴが野営地にしてるところだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It should be not too far from the village.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T032518Z" creationid="pugnus" creationdate="20190422T032518Z">
@@ -38751,6 +38831,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It'll pacify the ghosts while I cast the spell to cleanse it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034412Z" creationid="taman" creationdate="20190428T034412Z">
+        <seg>その力で私が魔法を唱えている間、不死者たちを鎮めます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's about time you let her go.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190405T094552Z">
@@ -38783,6 +38871,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's insane, but I can't think of anything else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034105Z" creationid="taman" creationdate="20190428T034105Z">
+        <seg>常軌を逸しているかもしれませんが、他に彼らを救える手はないです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's more than just a weapon to kill things with, it's a tool to rebuild what we've lost.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083602Z" creationid="rkmad" creationdate="20190408T083602Z">
@@ -38811,6 +38907,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T081050Z" creationid="taman" creationdate="20190420T081012Z">
         <seg>お世辞にもうまいとは言えないが、なんとか生きていくには十分だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's only a matter of time before they're beyond saving.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T033850Z" creationid="taman" creationdate="20190428T033850Z">
+        <seg>不死者たちを救える時間は限られている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44496,10 +44600,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of the memories that the ghosts have placed in this altar have been consumed by the Corruption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T004709Z" creationid="taman" creationdate="20190428T004204Z">
+        <seg>どうやら不死者たちが祭壇に刻んだ記憶は、ほとんどが瘴気によって失われているわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most other Ashborn know barely a few words in your tongue.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T023214Z" creationid="pugnus" creationdate="20190422T023214Z">
         <seg>他の「アッシュボーン」たちは、君たちの言葉をほんの少ししか知らないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most people would have finished him off purely on reflex.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003346Z" creationid="taman" creationdate="20190428T003146Z">
+        <seg>たいていの人は反射的にミリアドを殺してしまうんじゃないかしら。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67938,6 +68058,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>so far gone thatの意訳が正しいか怪しいので念のためメモ。</note>
+      <tuv lang="EN-US">
+        <seg>The ghosts are so far gone that they don't want to be purified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T011012Z" creationid="taman" creationdate="20190428T011012Z">
+        <seg>彼らは人を食らい続けたせいか浄化されることを拒んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The home city of all of the tribes, birthplace of our Blue Chamber Collective.</seg>
       </tuv>
@@ -68337,6 +68466,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T084530Z" creationid="taman" creationdate="20190421T084530Z">
         <seg>祭壇へつながる扉の封印も解除されているはずだ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The spell will take all of my concentration, so it has to be someone else who makes the sacrifice…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190429T023650Z" creationid="taman" creationdate="20190428T052203Z">
+        <seg>私は全神経を集中させ魔法を唱えます、頼めるのはあなたしかいないのです……</seg>
       </tuv>
     </tu>
     <tu>
@@ -69352,10 +69489,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They'll only drop their defenses if there's something to feed on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034937Z" creationid="taman" creationdate="20190428T034937Z">
+        <seg>生命をむさぼるとなれば、彼らの警戒もとけるはずです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They're a very traditionalist and peculiar bunch.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105545Z" creationid="pugnus" creationdate="20190425T105545Z">
         <seg>彼らは非常に伝統的で独特な部族です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're desperately addicted to fresh life now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034806Z" creationid="taman" creationdate="20190428T034806Z">
+        <seg>今の彼らは新鮮な命に死ぬほど飢えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69372,6 +69525,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T114907Z" creationid="pugnus" creationdate="20190422T114907Z">
         <seg>獣たちは、世界の終わりをもたらすものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're preventing me from even touching the altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T033428Z" creationid="taman" creationdate="20190428T033156Z">
+        <seg>それに彼らのせいで祭壇に触れることもできない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72659,6 +72820,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We have to do something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T033357Z" creationid="taman" creationdate="20190428T033357Z">
+        <seg>なんとかしなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We hoped you had better plan than that!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T233452Z" creationid="pugnus" creationdate="20190424T233452Z">
@@ -72824,6 +72993,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T055703Z" creationid="pugnus" creationdate="20190416T055703Z">
         <seg>私たちは「スカージ」に対抗できるだけの力を持っていなかったという理由だけで、権利まで失うべきではないと考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We still have time before the damage is permanent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003908Z" creationid="taman" creationdate="20190428T003908Z">
+        <seg>瘴気が完全に浸透するまで、まだ時間がかかるみたい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74009,6 +74186,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094353Z" creationid="rkmad" creationdate="20190405T094353Z">
         <seg>彼らはなぜ、シエルゾを去ると？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's the situation down here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003502Z" creationid="taman" creationdate="20190428T003502Z">
+        <seg>今の状況を教えてくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -77187,6 +77372,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You want me to give up some of my life to these things?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034512Z" creationid="taman" creationdate="20190428T034512Z">
+        <seg>こんなもののために私の生命を捧げろというのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You want to learn how to hunt?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T051834Z" creationid="Light" creationdate="20190408T051647Z">
@@ -77488,6 +77681,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T083821Z" creationid="taman" creationdate="20190421T083821Z">
         <seg>俺の骨を集めてくれるんだろ、なぁ！？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're really something.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T003434Z" creationid="taman" creationdate="20190428T003434Z">
+        <seg>あなたもたいしたものよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78898,6 +79099,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T133142Z" creationid="setom" creationdate="20190402T133117Z">
         <seg>[PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName], I need you to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your life into this altar&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190428T034252Z" creationid="taman" creationdate="20190428T034252Z">
+        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力をいただきます。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
