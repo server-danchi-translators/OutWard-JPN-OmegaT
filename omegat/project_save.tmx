@@ -32794,6 +32794,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can’t believe this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070344Z" creationid="pugnus" creationdate="20190429T070344Z">
+        <seg>信じることができぬのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can’t chat until it arrives.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T152608Z" creationid="taman" creationdate="20190414T151104Z">
@@ -33014,6 +33022,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003527Z" creationid="seto" creationdate="20190413T003527Z">
         <seg>私ではなく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don’t believe this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070331Z" creationid="pugnus" creationdate="20190429T070331Z">
+        <seg>私は信じない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73248,6 +73264,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T104907Z" creationid="pugnus" creationdate="20190422T104907Z">
         <seg>私たちは彼の記憶と、彼の犠牲を尊重しているのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We let Levant gain a goddess?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T070420Z" creationid="pugnus" creationdate="20190429T070420Z">
+        <seg>レバントに女神をもたらすだと？</seg>
       </tuv>
     </tu>
     <tu>
