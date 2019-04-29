@@ -34163,6 +34163,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I refuse to make peace with Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060437Z" creationid="pugnus" creationdate="20190429T060437Z">
+        <seg>私はレバントとの和平を拒否する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I remember thinking that we should have seen it by now, right before we hit the rock.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T050600Z">
@@ -46588,6 +46596,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T073501Z" creationid="Mad" creationdate="20190407T135200Z">
         <seg>気にしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not until we’ve broken their armies and replaced their king and queen with a lord loyal to the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060621Z" creationid="pugnus" creationdate="20190429T060621Z">
+        <seg>我らが彼奴等の軍隊を破壊し、彼奴等の王と王妃を青の議会に忠実な者と交換するまでは和平は無い。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61942,8 +61958,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>So, the little mouse from Cierzo sends her toy soldier to speak with me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T060214Z" creationid="pugnus" creationdate="20190429T060214Z">
-        <seg>ふむ、シエルゾから来た「小ネズミ」が、私と話すために彼女の「玩具の兵士」を送ってきた。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T060418Z" creationid="pugnus" creationdate="20190429T060214Z">
+        <seg>ふむ、シエルゾから来た「小ネズミ」が、私と話すために彼女の「玩具の兵士」を送ってきたか。</seg>
       </tuv>
     </tu>
     <tu>
