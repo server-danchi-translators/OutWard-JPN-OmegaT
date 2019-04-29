@@ -11780,6 +11780,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anyone who trespasses here forfeits their life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T080619Z" creationid="pugnus" creationdate="20190429T080619Z">
+        <seg>誰でも、ここに足を踏み入れれば自分の人生を失うのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anyone?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060217Z" creationid="Mad" creationdate="20190407T060217Z">
@@ -73769,6 +73777,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T005650Z" creationid="urakata" creationdate="20190427T005650Z">
         <seg>それ以後も記憶は追加されていった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We've taken people from other tribes in raids too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190429T080757Z" creationid="pugnus" creationdate="20190429T080757Z">
+        <seg>他の部族に襲撃をして、人々をここに連れてきています。</seg>
       </tuv>
     </tu>
     <tu>
