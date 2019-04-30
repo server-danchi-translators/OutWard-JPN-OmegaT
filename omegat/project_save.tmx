@@ -33243,6 +33243,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124926Z" creationid="urakata" creationdate="20190430T124857Z">
+        <seg>話してる余裕がないんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133408Z" creationid="Light" creationdate="20190405T133157Z">
@@ -34696,6 +34704,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105339Z" creationid="pugnus" creationdate="20190425T105339Z">
         <seg>私は灰の巨人の宗教的見解について理解する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need to pay attention and make sure no more ghosts sneak up on Gabriella!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125004Z" creationid="urakata" creationdate="20190430T125004Z">
+        <seg>またガブリエラに幽霊が襲い掛かるようなことが無いように注意してないといけないからね!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60422,6 +60438,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_47</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124828Z" creationid="urakata" creationdate="20190430T124828Z">
+        <seg>Roland_BC_Bones_47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125005Z" creationid="urakata" creationdate="20190430T125005Z">
+        <seg>Roland_BC_Bones_48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -68960,6 +68992,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022451Z" creationid="hiru4" creationdate="20190402T022451Z">
         <seg>テクスチャー品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank Elatt you made it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125023Z" creationid="urakata" creationdate="20190430T125023Z">
+        <seg>Elattに感謝を。やったんだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79824,6 +79864,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T100734Z" creationid="pugnus" creationdate="20190429T100734Z">
         <seg>君が私たちのために交渉してくれないかね。上級王がいないのだから、それが一番だと私は思うのさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should be the one to report on all the juicy details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124826Z" creationid="urakata" creationdate="20190430T124826Z">
+        <seg>良いところの報告は全部任せるよ。</seg>
       </tuv>
     </tu>
     <tu>
