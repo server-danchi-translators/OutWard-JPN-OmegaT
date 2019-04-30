@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>(Myriade takes off at inhuman speed, his bones cracking loudly as he fades into the darkness...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190428T002542Z" creationid="taman" creationdate="20190428T002542Z">
-        <seg>（ミリアドは人間離れした速度で駆け出すと、バキバキと大きな音をたてながら闇に消えていった……）</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T163514Z" creationid="taman" creationdate="20190428T002542Z">
+        <seg>（ミリアドは人間離れした速度で駆け出すと、バキバキと骨をきしませながら闇に消えていった……）</seg>
       </tuv>
     </tu>
     <tu>
@@ -367,6 +367,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T070738Z" creationid="pugnus" creationdate="20190429T070738Z">
         <seg>(ツァーリの宝玉を持っていない。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You feel the the Altar suck at your very spirit the moment you approach... )</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T163726Z" creationid="taman" creationdate="20190430T163726Z">
+        <seg>(祭壇You feel the the Altar suck at your very spirit the moment you approach... )</seg>
       </tuv>
     </tu>
     <tu>
@@ -82772,8 +82780,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName], I need you to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your life into this altar&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190428T034252Z" creationid="taman" creationdate="20190428T034252Z">
-        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力をいただきます。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T163600Z" creationid="taman" creationdate="20190428T034252Z">
+        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力を彼らに与えます。。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
