@@ -15927,8 +15927,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But what have I become?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T173959Z" creationid="taman" creationdate="20190430T173959Z">
-        <seg>でも、こんな体でも人間と呼べるのかしら？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T174603Z" creationid="taman" creationdate="20190430T173959Z">
+        <seg>でも、いったい私は何者なの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -36766,8 +36766,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I've lost parts of my body!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T174200Z" creationid="taman" creationdate="20190430T174200Z">
-        <seg>私は、体のI've lost parts of my body!</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T174726Z" creationid="taman" creationdate="20190430T174200Z">
+        <seg>私は、体の一部を失ったのよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -72833,6 +72833,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Think of the new limbs like a crutch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T174749Z" creationid="taman" creationdate="20190430T174749Z">
+        <seg>光の体は松葉杖のようなものだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Third Clue: Find a place of claws and fangs, in a swamp’s poison.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121930Z" creationid="urakata" creationdate="20190406T121710Z">
@@ -81478,8 +81486,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You're still you, Oliele, just with body parts made of light.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T174035Z" creationid="taman" creationdate="20190430T174035Z">
-        <seg>オリエルはオリエルだよ。ただ体の一部が光で構成されているというだけさ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T174651Z" creationid="taman" creationdate="20190430T174035Z">
+        <seg>オリエルはオリエルだよ。ただ体がほんの少し光で構成されているというだけさ。</seg>
       </tuv>
     </tu>
     <tu>
