@@ -42362,8 +42362,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Life's already beaten me with the damn stick, why should I care about the stupid carrot?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T070609Z" creationid="urakata" creationdate="20190430T065750Z">
-        <seg>そもそも人生がケツにムチを入れてるのに、ニンジンなんぞ気にかけていられるかってんだ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072637Z" creationid="urakata" creationdate="20190430T065750Z">
+        <seg>そもそも、既に人生がケツにムチを入れてるのに、ニンジンなんぞ気にかけていられるかってんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60208,6 +60208,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072132Z" creationid="urakata" creationdate="20190430T072132Z">
         <seg>Roland_BC_Bones_34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_66</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
+        <seg>Roland_BC_Bones_66</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_67</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072420Z" creationid="urakata" creationdate="20190430T072420Z">
+        <seg>Roland_BC_Bones_67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_68</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072421Z" creationid="urakata" creationdate="20190430T072421Z">
+        <seg>Roland_BC_Bones_68</seg>
       </tuv>
     </tu>
     <tu>
