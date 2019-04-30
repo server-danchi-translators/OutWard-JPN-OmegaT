@@ -126,6 +126,40 @@
       </tuv>
     </tu>
     <tu>
+      <note>enduranceの全体訳が決まっていないため仮訳で保留。</note>
+      <tuv lang="EN-US">
+        <seg>(Give up Endurance)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T164626Z" creationid="taman" creationdate="20190430T164626Z">
+        <seg>(耐久力を差し出す)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Give up Health)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T164310Z" creationid="taman" creationdate="20190430T164310Z">
+        <seg>(体力を差し出す)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Give up Stamina)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T164319Z" creationid="taman" creationdate="20190430T164319Z">
+        <seg>(スタミナを差し出す)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>strengthがゲーム内でどういう表現がされているか、またほかの訳がどうやって翻訳されているか確認。</note>
+      <tuv lang="EN-US">
+        <seg>(Give up Strength)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T164518Z" creationid="taman" creationdate="20190430T164518Z">
+        <seg>(力を差し出す)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>(He is barely conscious)</seg>
       </tuv>
