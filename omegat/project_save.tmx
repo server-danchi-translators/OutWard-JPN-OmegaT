@@ -55,6 +55,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As the brilliant light fades, Roland remains, his eyes glowing with a strange, fey light.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133306Z" creationid="urakata" creationdate="20190430T133306Z">
+        <seg>(すさまじい光が収まると、ローランドの目は異様な光を発していた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As the memories fade and you return to your senses, you look up at the Vigil crystal and briefly see a swarm of ghosts trapped within the crystal with the Scourge Beast, endlessly stabbing it with their ghostly weapons.)</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032522Z" creationid="taman" creationdate="20190410T044425Z">
@@ -60966,6 +60974,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_64</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133102Z" creationid="urakata" creationdate="20190430T133102Z">
+        <seg>Roland_BC_Bones_64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -71550,6 +71566,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052613Z" creationid="Mad" creationdate="20190407T052548Z">
         <seg>それなら、君は最高の場所にたどり着いたと言っても過言ではないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, a woman’s scream breaks the air, and red energy rushes past you)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133100Z" creationid="urakata" creationdate="20190430T133100Z">
+        <seg>女の叫びが空をつんざき、赤い力が脇を通り抜けた)</seg>
       </tuv>
     </tu>
     <tu>
