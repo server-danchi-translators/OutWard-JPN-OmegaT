@@ -24100,6 +24100,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elatt...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172503Z" creationid="taman" creationdate="20190430T172503Z">
+        <seg>エラット……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt’s Temple</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112521Z" creationid="Gaiden Shinji" creationdate="20190404T112521Z">
@@ -50077,6 +50085,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171602Z" creationid="weedssoul" creationdate="20190405T163137Z">
         <seg>Oliele はおそらく鍛冶屋のところにいるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172529Z" creationid="taman" creationdate="20190430T172529Z">
+        <seg>オリエル！</seg>
       </tuv>
     </tu>
     <tu>
@@ -77157,6 +77173,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What did you do to me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172518Z" creationid="taman" creationdate="20190430T172518Z">
+        <seg>一体わたしに何をしたの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What did you do?!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T022915Z" creationid="urakata" creationdate="20190428T022915Z">
@@ -77551,8 +77575,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190428T102705Z" creationid="urakata" creationdate="20190428T102705Z">
-        <seg>何を...</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172455Z" creationid="urakata" creationdate="20190428T102705Z">
+        <seg>何が……</seg>
       </tuv>
     </tu>
     <tu>
