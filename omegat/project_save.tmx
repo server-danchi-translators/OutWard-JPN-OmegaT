@@ -40335,8 +40335,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>It's insane, but I can't think of anything else.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190428T034105Z" creationid="taman" creationdate="20190428T034105Z">
-        <seg>常軌を逸しているかもしれませんが、他に彼らを救える手はないです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T171443Z" creationid="taman" creationdate="20190428T034105Z">
+        <seg>常軌を逸しているかもしれませんが、彼らを救える手はこれしかありません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80973,8 +80973,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You want me to give up some of my life to these things?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190428T034512Z" creationid="taman" creationdate="20190428T034512Z">
-        <seg>こんなもののために私の生命を捧げろというのですか？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T171631Z" creationid="taman" creationdate="20190428T034512Z">
+        <seg>こんなもののために私の命を捧げろというのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82848,8 +82848,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName], I need you to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your life into this altar&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T163600Z" creationid="taman" creationdate="20190428T034252Z">
-        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力を彼らに与えます。。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T171408Z" creationid="taman" creationdate="20190428T034252Z">
+        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力を彼らに与えます。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
