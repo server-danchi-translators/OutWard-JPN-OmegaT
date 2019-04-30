@@ -14368,6 +14368,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before she...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132638Z" creationid="urakata" creationdate="20190430T132638Z">
+        <seg>逃げ出す前に...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before you do, I found this stone on a dead ash giant.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T233924Z" creationid="pugnus" creationdate="20190424T233924Z">
@@ -31777,6 +31785,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her here forever... &lt;color=#00CCFF&gt;&lt;b&gt;Kill her&lt;/b&gt;&lt;/color&gt;...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132631Z" creationid="urakata" creationdate="20190430T132631Z">
+        <seg>捕まえておくことは... &lt;color=#00CCFF&gt;&lt;b&gt;殺せ&lt;/b&gt;&lt;/color&gt;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Her loyalty to our cause isn’t certain.”</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T044835Z" creationid="pugnus" creationdate="20190416T044835Z">
@@ -33107,6 +33123,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am Jarinda.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132359Z" creationid="urakata" creationdate="20190430T132359Z">
+        <seg>私はJarinda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am a Watcher of the Ley Line.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025109Z" creationid="seto" creationdate="20190407T025109Z">
@@ -33175,6 +33199,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
         <seg>すまない、 [PlayerName], ここはもう君の家ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132403Z" creationid="urakata" creationdate="20190430T132403Z">
+        <seg>私は...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33311,6 +33343,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T024534Z" creationid="rkmad" creationdate="20190404T080603Z">
         <seg>私を家から追い出そうとするなんて信じられないですよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can't hold...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132611Z" creationid="urakata" creationdate="20190430T132545Z">
+        <seg>だがずっと...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34055,6 +34095,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T085604Z" creationid="pugnus" creationdate="20190408T085604Z">
         <seg>このことは秘密だよ。私はすごく良いものを持ってるんだ。君が他のどこにも見つけれないような...すごいものをね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have her...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132446Z" creationid="urakata" creationdate="20190430T132446Z">
+        <seg>捕まえたぞ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35616,6 +35664,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045653Z" creationid="pugnus" creationdate="20190406T070739Z">
         <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;ベルクに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I will not... allow it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132801Z" creationid="urakata" creationdate="20190430T132801Z">
+        <seg>ダメだ...やらせない!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60862,6 +60918,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_61</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132431Z" creationid="urakata" creationdate="20190430T132431Z">
+        <seg>Roland_BC_Bones_61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_62</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132639Z" creationid="urakata" creationdate="20190430T132639Z">
+        <seg>Roland_BC_Bones_62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -75423,6 +75495,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We are...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132354Z" creationid="urakata" creationdate="20190430T132354Z">
+        <seg>我々は...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We bear the heaviest responsibility in this tribe.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060143Z">
@@ -77791,6 +77871,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T161633Z" creationid="Light" creationdate="20190405T161633Z">
         <seg>この町で重要な人物はいますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why am I in this... body?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132430Z" creationid="urakata" creationdate="20190430T132430Z">
+        <seg>なぜ...私はこの体に入っているんだ?</seg>
       </tuv>
     </tu>
     <tu>
