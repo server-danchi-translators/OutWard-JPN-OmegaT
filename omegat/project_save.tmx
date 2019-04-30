@@ -12582,6 +12582,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At that price, I’ll keep it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190430T025903Z" creationid="seto" creationdate="20190430T025903Z">
+        <seg>その値段なら、自分で持っておくよ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At what price...There must be a better way…</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T065831Z" creationid="taman" creationdate="20190411T065627Z">
@@ -31440,6 +31448,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190430T025907Z" creationid="seto" creationdate="20190430T025907Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190430T025908Z" creationid="seto" creationdate="20190430T025908Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helen_Turnbull_NE_Call_To_Advent_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015254Z" creationid="seto" creationdate="20190407T015254Z">
@@ -40356,6 +40380,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142425Z" creationid="weedssoul" creationdate="20190406T060352Z">
         <seg>悪いが忙しいんでね。また今度な。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m all ears, what can you tell me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190430T030023Z" creationid="seto" creationdate="20190430T030023Z">
+        <seg>どうしたの？詳しく教えてちょうだい</seg>
       </tuv>
     </tu>
     <tu>
@@ -52519,6 +52551,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T072752Z" creationid="seto" creationdate="20190411T072752Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190430T025906Z" creationid="seto" creationdate="20190430T025906Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_21</seg>
       </tuv>
     </tu>
     <tu>
