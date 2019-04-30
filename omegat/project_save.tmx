@@ -47,6 +47,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As Roland plants his mana sword into the air around the altar, a violent burst of blue energy blinds you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133008Z" creationid="urakata" creationdate="20190430T133008Z">
+        <seg>(ローランドがマナの剣を祭壇近くの中空に突きさし、目もくらむ青い力の強烈な波が生じた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As the memories fade and you return to your senses, you look up at the Vigil crystal and briefly see a swarm of ghosts trapped within the crystal with the Scourge Beast, endlessly stabbing it with their ghostly weapons.)</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032522Z" creationid="taman" creationdate="20190410T044425Z">
@@ -34780,6 +34788,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I must endure!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132808Z" creationid="urakata" creationdate="20190430T132808Z">
+        <seg>耐えるんだ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I must survive!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132815Z" creationid="urakata" creationdate="20190430T132815Z">
+        <seg>生き残るんだ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need Gabriella and Julius on their current assignments, and most everyone else with even a small amount of tact is doing essential work for the war effort.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T063841Z" creationid="pugnus" creationdate="20190418T063737Z">
@@ -60930,6 +60954,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T132639Z" creationid="urakata" creationdate="20190430T132639Z">
         <seg>Roland_BC_Bones_62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_63</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132815Z" creationid="urakata" creationdate="20190430T132815Z">
+        <seg>Roland_BC_Bones_63</seg>
       </tuv>
     </tu>
     <tu>
