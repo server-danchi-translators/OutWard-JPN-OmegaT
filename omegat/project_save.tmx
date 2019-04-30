@@ -28347,8 +28347,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Go home, Roland, you’re not cut out for this stuff.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T133832Z" creationid="urakata" creationdate="20190430T133832Z">
-        <seg>帰れよ、ローランド、こういうの向いてないぞ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133850Z" creationid="urakata" creationdate="20190430T133832Z">
+        <seg>うちに帰れよ、ローランド、こういうの向いてないぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39673,6 +39673,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022813Z" creationid="はぐくみ会" creationdate="20190403T091422Z">
         <seg>それは私の腕をつかみ、引きずりながらゴーストパスを通る。脱出を試みるのならば、武器を手に取るしかない...。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It happens.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133859Z" creationid="urakata" creationdate="20190430T133859Z">
+        <seg>そんなこともあるさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55417,6 +55425,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130425Z" creationid="urakata" creationdate="20190430T130425Z">
         <seg>Player_Roland_BC_Bones_b_52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_65</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133835Z" creationid="urakata" creationdate="20190430T133835Z">
+        <seg>Player_Roland_BC_Bones_b_65</seg>
       </tuv>
     </tu>
     <tu>
