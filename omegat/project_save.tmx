@@ -23133,6 +23133,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know how to use it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063344Z" creationid="urakata" creationdate="20190430T063344Z">
+        <seg>どうやって使うんだ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to spies here in Vendavel?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Mad" creationdate="20190407T044545Z">
@@ -31840,6 +31848,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey...[PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063454Z" creationid="urakata" creationdate="20190430T063454Z">
+        <seg>おい...[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s a Kazite, [PlayerName], he was born on a ship.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T235048Z" creationid="setom" creationdate="20190402T165629Z">
@@ -32538,6 +32554,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How hard can it be to use?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063445Z" creationid="urakata" creationdate="20190430T063445Z">
+        <seg>難しいところなんてあるか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How important is it to eat, drink and sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061952Z" creationid="Light" creationdate="20190406T061952Z">
@@ -32990,6 +33014,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T110320Z" creationid="pugnus" creationdate="20190406T110320Z">
         <seg>私は自分自身を守ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can make a blade whenever I need one!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063249Z" creationid="urakata" creationdate="20190430T063249Z">
+        <seg>必要になればいつでも作れるんだ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39194,6 +39226,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T091033Z" creationid="pugnus" creationdate="20190422T091033Z">
         <seg>それは、あなたが議員になることを意味し、すべての部族に影響を与える、重要な問題を決定できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It might be made of Mana, but it's still a sword.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063418Z" creationid="urakata" creationdate="20190430T063418Z">
+        <seg>マナで出来ちゃあいるが、剣には変わりない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54299,6 +54339,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063251Z" creationid="urakata" creationdate="20190430T063251Z">
+        <seg>Player_Roland_BC_Bones_a_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -59488,6 +59536,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063156Z" creationid="urakata" creationdate="20190430T063156Z">
         <seg>Roland_BC_Bones_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063345Z" creationid="urakata" creationdate="20190430T063345Z">
+        <seg>Roland_BC_Bones_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063448Z" creationid="urakata" creationdate="20190430T063448Z">
+        <seg>Roland_BC_Bones_12</seg>
       </tuv>
     </tu>
     <tu>
@@ -68322,6 +68386,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's a sword made of Mana?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063300Z" creationid="urakata" creationdate="20190430T063300Z">
+        <seg>マナの剣?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That's a trade secret, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T050823Z">
@@ -68342,6 +68414,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T150442Z" creationid="taman" creationdate="20190410T070851Z">
         <seg>恐ろしい話だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's kind of impressive for a new mage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063329Z" creationid="urakata" creationdate="20190430T063329Z">
+        <seg>初心者魔法使いとしては大したものなんじゃないか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -69367,6 +69447,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The pointy end goes into the bad guys.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063431Z" creationid="urakata" creationdate="20190430T063431Z">
+        <seg>尖ってる方を悪い奴に向けるんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The primary characteristics are its &lt;color=#00CCFF&gt;&lt;b&gt;immense size and red color&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045708Z">
@@ -70052,6 +70140,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T063701Z" creationid="Light" creationdate="20190406T063616Z">
         <seg>じゃあ、いくぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's &lt;color=#00CCFF&gt;&lt;b&gt;somewhere I want to go&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063600Z" creationid="urakata" creationdate="20190430T063600Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;行きたいところが有ってさ&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75965,6 +76061,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190421T035340Z" creationid="pugnus" creationdate="20190409T020617Z">
         <seg>Discipline Boonを発動している間、衝撃耐性及び、すべてのダメージへの抵抗が15増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While we're back here in the Chersonese...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063523Z" creationid="urakata" creationdate="20190430T063523Z">
+        <seg>Chersoneseでのことなんだが...</seg>
       </tuv>
     </tu>
     <tu>
