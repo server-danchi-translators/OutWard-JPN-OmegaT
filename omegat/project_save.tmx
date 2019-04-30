@@ -39735,6 +39735,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's my dad's old compass.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070129Z" creationid="urakata" creationdate="20190430T070129Z">
+        <seg>親父の古いコンパスだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's my fault Yzan's got a Blood Price to pay.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130500Z" creationid="Light" creationdate="20190407T130422Z">
@@ -59876,6 +59884,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070054Z" creationid="urakata" creationdate="20190430T070054Z">
+        <seg>Roland_BC_Bones_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
@@ -66900,6 +66916,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060039Z" creationid="pugnus" creationdate="20190418T060032Z">
         <seg>強力な味方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stupid shrimp would’ve killed us if it wasn't for that old gate warden saving us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070343Z" creationid="urakata" creationdate="20190430T070343Z">
+        <seg>あの年寄りの門衛が助けてくれなきゃ、エビに殺されてた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77990,6 +78014,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can imagine how that ended up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070235Z" creationid="urakata" creationdate="20190430T070235Z">
+        <seg>どうなるか明らかだよな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can learn new crafting recipes by finding a recipe scroll.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112147Z">
@@ -80404,6 +80436,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115756Z" creationid="Gaiden Shinji" creationdate="20190404T115756Z">
         <seg>イザン・アルジャンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan and I took it when we were kids to run around outside.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070201Z" creationid="urakata" creationdate="20190430T070201Z">
+        <seg>子供のころイザンと一緒に外を歩くときに使ってたんだ。</seg>
       </tuv>
     </tu>
     <tu>
