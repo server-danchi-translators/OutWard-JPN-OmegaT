@@ -10787,6 +10787,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All I can do is just push ahead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065412Z" creationid="urakata" creationdate="20190430T065412Z">
+        <seg>とにかく進むしかない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All I can hope to do is try to guide and shape you into someone who acts with the Blue Chamber’s needs in mind.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T170157Z">
@@ -32176,6 +32184,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hope.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065557Z" creationid="urakata" creationdate="20190430T065557Z">
+        <seg>希望か。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hopefully I can find enough iron that I buy my way out of this damn pit...</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015135Z" creationid="rkmad" creationdate="20190404T015037Z">
@@ -42208,6 +42224,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Life's already beaten me with the damn stick, why should I care about the stupid carrot?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065750Z" creationid="urakata" creationdate="20190430T065750Z">
+        <seg>人生はいつでも棒でぶちのめしてくるのに、なんでニンジンなんぞ気にかけなきゃいけないんだよ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Life’s going to be really quiet here without Yzan, Oliele and Rissa.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T061506Z" creationid="Light" creationdate="20190408T061506Z">
@@ -48971,6 +48995,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065552Z" creationid="urakata" creationdate="20190430T065552Z">
+        <seg>よし。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, you wound me!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T235838Z" creationid="pugnus" creationdate="20190416T235838Z">
@@ -54563,6 +54595,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065414Z" creationid="urakata" creationdate="20190430T065414Z">
+        <seg>Player_Roland_BC_Bones_b_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -59652,6 +59692,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland, get your chin up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065425Z" creationid="urakata" creationdate="20190430T065425Z">
+        <seg>ローランド、顔上げろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland, you complete moron.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T111058Z" creationid="urakata" creationdate="20190428T111058Z">
@@ -59808,6 +59856,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T065204Z" creationid="urakata" creationdate="20190430T065204Z">
         <seg>Roland_BC_Bones_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065546Z" creationid="urakata" creationdate="20190430T065546Z">
+        <seg>Roland_BC_Bones_20</seg>
       </tuv>
     </tu>
     <tu>
@@ -69599,6 +69655,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The little carrot you dangle in front of a horse to make it keep going.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065631Z" creationid="urakata" creationdate="20190430T065631Z">
+        <seg>馬を歩かせるために目の前につるすちっぽけなニンジン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lowest of the low when it comes to weaponry, though it can easily be crafted with Wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062656Z" creationid="setom" creationdate="20190402T062656Z">
@@ -70476,6 +70540,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T094053Z" creationid="setom" creationdate="20190402T170525Z">
         <seg>それでもまだ食い足りねぇならそこらへんに生えてるギャベリーも食っとけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's always hope if you keep at it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065545Z" creationid="urakata" creationdate="20190430T065545Z">
+        <seg>それさえ忘れなきゃ、いつだって希望はある。</seg>
       </tuv>
     </tu>
     <tu>
