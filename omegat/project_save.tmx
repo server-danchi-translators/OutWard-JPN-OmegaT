@@ -23518,6 +23518,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t let it get to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133908Z" creationid="urakata" creationdate="20190430T133908Z">
+        <seg>くよくよすんな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don’t take too long.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085846Z" creationid="pugnus" creationdate="20190422T085837Z">
@@ -27168,6 +27176,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133935Z" creationid="urakata" creationdate="20190430T133935Z">
+        <seg>Gabriella_BC_Bones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -28347,8 +28363,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Go home, Roland, you’re not cut out for this stuff.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T133850Z" creationid="urakata" creationdate="20190430T133832Z">
-        <seg>うちに帰れよ、ローランド、こういうの向いてないぞ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T134017Z" creationid="urakata" creationdate="20190430T133832Z">
+        <seg>うちに帰れよ、ローランド、お前こういうの向いてないんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41114,6 +41130,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll see you in Berg, yeah?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133934Z" creationid="urakata" creationdate="20190430T133934Z">
+        <seg>ベルクでまた会おう、な?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll see you.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T062336Z" creationid="taman" creationdate="20190410T062336Z">
@@ -41942,6 +41966,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T032520Z">
         <seg> 選んだ先が厳しいというのは、選んではいけないという理由にはならない。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just do better next time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133917Z" creationid="urakata" creationdate="20190430T133917Z">
+        <seg>次はがんばろう。</seg>
       </tuv>
     </tu>
     <tu>
