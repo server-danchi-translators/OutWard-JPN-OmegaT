@@ -26680,6 +26680,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the first time in my life, it really feels like I did.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124130Z" creationid="urakata" creationdate="20190430T124130Z">
+        <seg>何かへの貢献を実感するなんて人生で初めてだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forest Hives</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111855Z" creationid="Gaiden Shinji" creationdate="20190404T111855Z">
@@ -28869,6 +28877,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T114459Z" creationid="taman" creationdate="20190414T114459Z">
         <seg>見事使命を果たしましたね。 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124029Z" creationid="urakata" creationdate="20190430T124029Z">
+        <seg>よくやった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60322,6 +60338,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T111545Z" creationid="urakata" creationdate="20190430T111545Z">
         <seg>Roland_BC_Bones_44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_45</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124031Z" creationid="urakata" creationdate="20190430T124031Z">
+        <seg>Roland_BC_Bones_45</seg>
       </tuv>
     </tu>
     <tu>
