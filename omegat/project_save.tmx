@@ -8864,6 +8864,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I'll see you back in Berg&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070851Z" creationid="urakata" creationdate="20190430T070851Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;ベルクで会おう&lt;/b&gt;&lt;/color&gt;、[PlayerName]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;It's in the frozen cave back near the entrance.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T160430Z" creationid="taman" creationdate="20190421T160430Z">
@@ -35823,6 +35831,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm going to go report to Gabriella once I’ve caught my breath.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070833Z" creationid="urakata" creationdate="20190430T070833Z">
+        <seg>一息ついたらガブリエラに報告に行くよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm going to miss you, Yzan.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125222Z" creationid="Light" creationdate="20190407T125222Z">
@@ -39306,6 +39322,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T064819Z" creationid="taman" creationdate="20190411T064819Z">
         <seg>おかげでスカージが襲ってくる心配もない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It looks broken, it’s probably not even worth 10 silvers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070715Z" creationid="urakata" creationdate="20190430T070715Z">
+        <seg>壊れてるみたいだ。銀10枚にもなるまいよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59940,6 +59964,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070716Z" creationid="urakata" creationdate="20190430T070716Z">
+        <seg>Roland_BC_Bones_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070758Z" creationid="urakata" creationdate="20190430T070758Z">
+        <seg>Roland_BC_Bones_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
@@ -68574,6 +68614,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T070504Z" creationid="urakata" creationdate="20190430T070504Z">
         <seg>改めて、探すのを手伝ってくれてありがとう[PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thanks for helping me find it again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070757Z" creationid="urakata" creationdate="20190430T070757Z">
+        <seg>改めて、探すのを手伝ってくれてありがとう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77439,6 +77487,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T164840Z" creationid="taman" creationdate="20190413T164840Z">
         <seg>うわさで耳にしたことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yeah, but to me it's worth a lot more than that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070737Z" creationid="urakata" creationdate="20190430T070737Z">
+        <seg>そうだな、でもカネの問題じゃないんだ。</seg>
       </tuv>
     </tu>
     <tu>
