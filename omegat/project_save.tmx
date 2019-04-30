@@ -24075,6 +24075,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elatt told me it wasn't my time...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172820Z" creationid="taman" creationdate="20190430T172820Z">
+        <seg>エラットが私はまだその時ではないと……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt's Champions are the pinnacle of the missionary's path.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084748Z" creationid="rkmad" creationdate="20190408T084748Z">
@@ -31429,6 +31437,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He saved me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172954Z" creationid="taman" creationdate="20190430T172954Z">
+        <seg>彼が助けてくれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He speaks for the Dawn Weaver, who weaved the fabric of Ashborn society, and so he decides what is part of Ashborn society, and what is not.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T030813Z" creationid="pugnus" creationdate="20190422T030813Z">
@@ -33991,6 +34007,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I felt them get consumed…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172801Z" creationid="taman" creationdate="20190430T172801Z">
+        <seg>瘴気に侵されるのを感じた……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found a clue in the slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110804Z" creationid="seto" creationdate="20190409T110804Z">
@@ -35564,6 +35588,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130012Z" creationid="urakata" creationdate="20190430T130012Z">
         <seg>たぶん...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I thought I was going to die...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172717Z" creationid="taman" creationdate="20190430T172717Z">
+        <seg>私、本当に死ぬかと思ったわ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -46630,10 +46662,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My arms...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172738Z" creationid="taman" creationdate="20190430T172738Z">
+        <seg>私の目が……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My contact near the Abrassar border said he saw suspicious folk moving about.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T073316Z" creationid="pugnus" creationdate="20190415T073316Z">
         <seg>「アブラサールとの国境付近にて、不審な人々が動き回っている」と、私の密偵から連絡があったわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My eyes...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172727Z" creationid="taman" creationdate="20190430T172727Z">
+        <seg>私の腕が……</seg>
       </tuv>
     </tu>
     <tu>
@@ -70477,6 +70525,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T094836Z" creationid="taman" creationdate="20190420T094701Z">
         <seg>現在、暴発した瘴気が祭壇を覆い、俺たちが刻んだ記憶は失われ続けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Corruption lashed back against me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172642Z" creationid="taman" creationdate="20190430T172642Z">
+        <seg>瘴気が私に襲い掛かってきたのよ！</seg>
       </tuv>
     </tu>
     <tu>
