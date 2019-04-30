@@ -159,6 +159,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Roland stares ahead, empty and cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131415Z" creationid="urakata" creationdate="20190430T131415Z">
+        <seg>(ローランドは力なく冷たくなっても前を見つめていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Smash Myriade's skull and open the barrier to the altar)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T131420Z" creationid="taman" creationdate="20190421T131420Z">
@@ -32129,6 +32137,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>His spirit has almost completely left his body, and it is starting to shut down.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131456Z" creationid="urakata" creationdate="20190430T131456Z">
+        <seg>彼の魂は体を離れ、消え始めた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>His spirit has merged with the Ancestral Memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054709Z" creationid="urakata" creationdate="20190427T054709Z">
@@ -60714,6 +60730,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130618Z" creationid="urakata" creationdate="20190430T130618Z">
         <seg>Roland_BC_Bones_55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_56</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131241Z" creationid="urakata" creationdate="20190430T131241Z">
+        <seg>Roland_BC_Bones_56</seg>
       </tuv>
     </tu>
     <tu>
