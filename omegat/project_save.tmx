@@ -26599,6 +26599,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the first time in my life, I can actually reshape my future.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063154Z" creationid="urakata" creationdate="20190430T063154Z">
+        <seg>生きてきて初めて、未来を変えられる力を得たのを感じる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forest Hives</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111855Z" creationid="Gaiden Shinji" creationdate="20190404T111855Z">
@@ -32522,6 +32530,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How does it feel?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063047Z" creationid="urakata" creationdate="20190430T063047Z">
+        <seg>どんな感じだ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How important is it to eat, drink and sleep?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T061952Z" creationid="Light" creationdate="20190406T061952Z">
@@ -33482,6 +33498,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I feel worn and empty... but also full of power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063118Z" creationid="urakata" creationdate="20190430T063118Z">
+        <seg>くたくたで空っぽだ...が、同時に力に満ちている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found a clue in the slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110804Z" creationid="seto" creationdate="20190409T110804Z">
@@ -34279,6 +34303,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022920Z" creationid="weedssoul" creationdate="20190406T072941Z">
         <seg>ゴーストパスの近くの谷にいる隠者の老人のもとまで旅をしたことがある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I made it myself out of my own Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063233Z" creationid="urakata" creationdate="20190430T063233Z">
+        <seg>自分のマナで作ったものだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35547,6 +35579,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054527Z" creationid="urakata" creationdate="20190427T054527Z">
         <seg>どういうことかわからないな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm already able to use Magic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063210Z" creationid="urakata" creationdate="20190430T063210Z">
+        <seg>もう魔法を使うことすらできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54267,6 +54307,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063007Z" creationid="urakata" creationdate="20190430T063007Z">
+        <seg>Player_Roland_BC_Bones_b_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -59428,6 +59476,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063049Z" creationid="urakata" creationdate="20190430T063049Z">
+        <seg>Roland_BC_Bones_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063156Z" creationid="urakata" creationdate="20190430T063156Z">
+        <seg>Roland_BC_Bones_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
@@ -61520,6 +61584,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T022954Z" creationid="pugnus" creationdate="20190408T022954Z">
         <seg>気になるものはあるかい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See this sword?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063222Z" creationid="urakata" creationdate="20190430T063222Z">
+        <seg>この剣が見えるか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -78278,6 +78350,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T130821Z" creationid="はぐくみ会" creationdate="20190404T004705Z">
         <seg>命が大事なら、今すぐ逃げた方がいい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have gained a ton of magical power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063040Z" creationid="urakata" creationdate="20190430T063040Z">
+        <seg>かなりの魔法の力を得たのは間違いない。</seg>
       </tuv>
     </tu>
     <tu>
