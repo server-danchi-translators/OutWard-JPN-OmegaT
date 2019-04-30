@@ -11476,6 +11476,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And it feels blunt half the time I swing it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071943Z" creationid="urakata" creationdate="20190430T071943Z">
+        <seg>振ってみると2回に1回はナマクラになるし。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And maybe I will finally be rich!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T022141Z" creationid="pugnus" creationdate="20190422T022141Z">
@@ -35435,6 +35443,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wonder...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072039Z" creationid="urakata" creationdate="20190430T072022Z">
+        <seg>そうしたら...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I won’t force you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T165515Z">
@@ -43840,6 +43856,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maybe we can find someone to make you a tool that makes it easier to focus that thing?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072125Z" creationid="urakata" creationdate="20190430T072125Z">
+        <seg>もっとマナの集中がしやすくなる道具を作ってくれる人を探したらいいんじゃないか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maybe we should train together, eh?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141736Z" creationid="weedssoul" creationdate="20190406T072424Z">
@@ -45956,6 +45980,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T164932Z" creationid="weedssoul" creationdate="20190405T164840Z">
         <seg>私の「血の代償」は、まだ銀貨数千枚分も残っている！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Mana reserves are huge, but I can’t seem to focus them properly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072015Z" creationid="urakata" creationdate="20190430T072015Z">
+        <seg>マナの量は膨大なんだが、うまく集中させられないんだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54703,6 +54735,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071539Z" creationid="urakata" creationdate="20190430T071539Z">
         <seg>Player_Roland_BC_Bones_a_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072016Z" creationid="urakata" creationdate="20190430T072016Z">
+        <seg>Player_Roland_BC_Bones_a_32</seg>
       </tuv>
     </tu>
     <tu>
