@@ -191,6 +191,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The Trinket glows steadily within the lantern...You feel safer with it around, almost like what’s left of Roland’s soul is trying to protect you from harm.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131933Z" creationid="urakata" creationdate="20190430T131933Z">
+        <seg>(装身具はランタンの中で揺らぐことなく光っている...身に着けていると安心できた。ローランドの魂のかけらが、外敵から守ってくれているかのようだった。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The Trinket you made for him falls from his hand, blazing with fragments of Roland’s soul.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131647Z" creationid="urakata" creationdate="20190430T131647Z">
@@ -319,6 +327,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T112731Z" creationid="pugnus" creationdate="20190422T112731Z">
         <seg>(神聖伝道団から得た知識を使用し、シリを安心させる)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(With a jerk of a motion, he grips your arm, and then falls to the ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T132141Z" creationid="urakata" creationdate="20190430T132141Z">
+        <seg>(彼はぐっと君の腕をつかみ、地に伏した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60762,6 +60778,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131505Z" creationid="urakata" creationdate="20190430T131505Z">
         <seg>Roland_BC_Bones_57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_57-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131811Z" creationid="urakata" creationdate="20190430T131811Z">
+        <seg>Roland_BC_Bones_57-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_58</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131933Z" creationid="urakata" creationdate="20190430T131933Z">
+        <seg>Roland_BC_Bones_58</seg>
       </tuv>
     </tu>
     <tu>
