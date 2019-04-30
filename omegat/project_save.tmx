@@ -35156,6 +35156,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think I might be able to use my mana sword to cut her spirit out of that mess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130131Z" creationid="urakata" creationdate="20190430T130131Z">
+        <seg>たぶんマナの剣で混ざりあってる状態から、魂を分離できるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think I want to learn one for a different weapon, give me a minute Burac.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063516Z">
@@ -35232,6 +35240,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T102748Z" creationid="pugnus" creationdate="20190422T102748Z">
         <seg>我は、そなたらは亡命者を部族に戻すことを許すべきだと考える。さもなければ、追放した者、亡命した者はただの無駄となるからである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130012Z" creationid="urakata" creationdate="20190430T130012Z">
+        <seg>たぶん...</seg>
       </tuv>
     </tu>
     <tu>
@@ -40013,6 +40029,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T033850Z" creationid="taman" creationdate="20190428T033850Z">
         <seg>不死者たちを救える時間は限られている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's risky but if I jam the blade in just the right spot, we have a chance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130200Z" creationid="urakata" creationdate="20190430T130200Z">
+        <seg>危険はあるけど、正しい箇所に刃を突っ込めば成功の目はある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50233,6 +50257,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074358Z" creationid="weedssoul" creationdate="20190406T074358Z">
         <seg>狩りに加えて、食料を探し出すことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once I start cutting, memories and ghosts will start pouring out of that storm!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130243Z" creationid="urakata" creationdate="20190430T130243Z">
+        <seg>切り始めたら、記憶と亡霊が嵐の中から吹き出し始める!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60542,6 +60574,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_52</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125944Z" creationid="urakata" creationdate="20190430T125944Z">
+        <seg>Roland_BC_Bones_52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_52-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130201Z" creationid="urakata" creationdate="20190430T130201Z">
+        <seg>Roland_BC_Bones_52-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -64613,6 +64661,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083515Z" creationid="totochan" creationdate="20190402T083515Z">
         <seg>スタミナ消費</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stand back!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130207Z" creationid="urakata" creationdate="20190430T130207Z">
+        <seg>下がって!</seg>
       </tuv>
     </tu>
     <tu>
