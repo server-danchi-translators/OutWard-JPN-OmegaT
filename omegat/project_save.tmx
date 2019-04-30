@@ -31761,6 +31761,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here goes nothing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131238Z" creationid="urakata" creationdate="20190430T131238Z">
+        <seg>何も起きやしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, I found some pearlbird eggs the other day, have one.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014724Z" creationid="rkmad" creationdate="20190404T014724Z">
@@ -34404,6 +34412,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know exactly what I have to do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130602Z" creationid="urakata" creationdate="20190430T130602Z">
+        <seg>何をすればいいかは完璧にわかってる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know exactly what you should wear, dear!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T085205Z" creationid="pugnus" creationdate="20190408T085205Z">
@@ -36228,6 +36244,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T015017Z" creationid="urakata" creationdate="20190427T015017Z">
         <seg>興味がありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not sure... but it's the best shot we've got.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130658Z" creationid="urakata" creationdate="20190430T130658Z">
+        <seg>うまくいくかはわからないけど...今はこれに賭けるしかない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49085,6 +49109,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now stand back, and let me work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130617Z" creationid="urakata" creationdate="20190430T130617Z">
+        <seg>もう下がって、始めさせてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now you know why Elatt doesn't celebrate his victory against the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T083644Z" creationid="taman" creationdate="20190411T083644Z">
@@ -60678,6 +60710,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_55</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130618Z" creationid="urakata" creationdate="20190430T130618Z">
+        <seg>Roland_BC_Bones_55</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -64757,6 +64797,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130207Z" creationid="urakata" creationdate="20190430T130207Z">
         <seg>下がって!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stand back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130705Z" creationid="urakata" creationdate="20190430T130705Z">
+        <seg>下がれ。</seg>
       </tuv>
     </tu>
     <tu>
