@@ -200,11 +200,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>31,32の流れはゲーム内で念のため確認しておいたほうがよい。
+実際に動きを伴っているなら矛盾しないように翻訳したい。</note>
       <tuv lang="EN-US">
         <seg>(Oliele's eyes are red bleeding voids, her arms covered in quivering red lumps, her veins green and glowing...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T170341Z" creationid="taman" creationdate="20190430T170341Z">
-        <seg>(赤く染まったオリエルの目からは闇が噴出し、両腕は真っ赤に腫れ上がりヒクヒクとうごめいている。Oliele's eyes are red bleeding voids, her arms covered in quivering red lumps, her veins green and glowing...)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T171105Z" creationid="taman" creationdate="20190430T170341Z">
+        <seg>(赤く染まったオリエルの両目からは闇がこぼれ落ち、両腕は真っ赤に腫れ上がりヒクヒクとうごめいている。彼女の血管が緑色に発光するのが見えた……)</seg>
       </tuv>
     </tu>
     <tu>
