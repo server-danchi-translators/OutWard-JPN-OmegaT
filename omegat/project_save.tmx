@@ -27135,6 +27135,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gahh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064637Z" creationid="urakata" creationdate="20190430T064637Z">
+        <seg>うーん...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gain Discipline if you blocked an attack this way.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T120036Z" creationid="pugnus" creationdate="20190408T120036Z">
@@ -33598,6 +33606,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T075937Z" creationid="taman" creationdate="20190420T075631Z">
         <seg>俺はこの場所を不死者たちの家にしたんだ。彼らが奪われた人生をもう一度すごせるようにしたかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I gave up so much of my life to the Ley Line that my body is as frail as a spiderweb.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064733Z" creationid="urakata" creationdate="20190430T064733Z">
+        <seg>レイラインに生命力を捧げすぎて、蜘蛛の巣並みにヘロヘロだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41028,6 +41044,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T125354Z" creationid="Mad" creationdate="20190407T134253Z">
         <seg>私は無事に神聖伝道団に加わることができて、エラットと対話をしたわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve made a terrible mistake...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064744Z" creationid="urakata" creationdate="20190430T064653Z">
+        <seg>こりゃしくじったな...</seg>
       </tuv>
     </tu>
     <tu>
@@ -59720,6 +59744,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064343Z" creationid="urakata" creationdate="20190430T064343Z">
         <seg>Roland_BC_Bones_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064623Z" creationid="urakata" creationdate="20190430T064623Z">
+        <seg>Roland_BC_Bones_18</seg>
       </tuv>
     </tu>
     <tu>
