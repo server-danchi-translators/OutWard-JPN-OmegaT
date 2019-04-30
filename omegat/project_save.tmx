@@ -11997,6 +11997,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you can handle this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130424Z" creationid="urakata" creationdate="20190430T130424Z">
+        <seg>一人でやれるのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete {1} character?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063938Z" creationid="hiru4" creationdate="20190403T063938Z">
@@ -15805,6 +15813,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T164247Z" creationid="Light" creationdate="20190405T164247Z">
         <seg>でも、あの難破事故があって...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But you're going to get caught in that!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130301Z" creationid="urakata" creationdate="20190430T130301Z">
+        <seg>でも、そんなことしたら飲み込まれるぞ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23386,6 +23402,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T023419Z" creationid="seto" creationdate="20190404T220313Z">
         <seg>乱暴はしないでくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't mess this up, Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130504Z" creationid="urakata" creationdate="20190430T130504Z">
+        <seg>しくじるなよ、ローランド。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33143,6 +33167,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T110320Z" creationid="pugnus" creationdate="20190406T110320Z">
         <seg>私は自分自身を守ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can handle this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130534Z" creationid="urakata" creationdate="20190430T130534Z">
+        <seg>できるさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49245,6 +49277,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh great.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130438Z" creationid="urakata" creationdate="20190430T130438Z">
+        <seg>凄いぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh what I wouldn’t give to curl up in the archives and never come out…</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T091459Z" creationid="pugnus" creationdate="20190417T091459Z">
@@ -54997,6 +55037,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_52</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130244Z" creationid="urakata" creationdate="20190430T130244Z">
+        <seg>Player_Roland_BC_Bones_a_52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_53</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130412Z" creationid="urakata" creationdate="20190430T130412Z">
+        <seg>Player_Roland_BC_Bones_a_53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -55073,6 +55129,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124332Z" creationid="urakata" creationdate="20190430T124332Z">
         <seg>Player_Roland_BC_Bones_b_44</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_52</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130425Z" creationid="urakata" creationdate="20190430T130425Z">
+        <seg>Player_Roland_BC_Bones_b_52</seg>
       </tuv>
     </tu>
     <tu>
@@ -58254,6 +58318,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa said if we lose these Ancestral Memories, the whole Collective will suffer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130411Z" creationid="urakata" creationdate="20190430T130411Z">
+        <seg>この父祖の記憶を失えば、共同体全体が危険にさらされるってリッサが言ってた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa told me you can handle yourself in the wild.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T071818Z" creationid="pugnus" creationdate="20190415T071444Z">
@@ -60586,6 +60658,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130201Z" creationid="urakata" creationdate="20190430T130201Z">
         <seg>Roland_BC_Bones_52-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_53</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130302Z" creationid="urakata" creationdate="20190430T130302Z">
+        <seg>Roland_BC_Bones_53</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_54</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130505Z" creationid="urakata" creationdate="20190430T130505Z">
+        <seg>Roland_BC_Bones_54</seg>
       </tuv>
     </tu>
     <tu>
@@ -78253,6 +78341,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yeah, I am... but I don't see any other option.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130333Z" creationid="urakata" creationdate="20190430T130333Z">
+        <seg>分ってるさ...でも他にどうしようもない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yeah, I'm sure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130529Z" creationid="urakata" creationdate="20190430T130529Z">
+        <seg>わかってるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yeah, I've heard about them.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T164840Z" creationid="taman" creationdate="20190413T164840Z">
@@ -78295,8 +78399,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yeah.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T035422Z" creationid="weedssoul" creationdate="20190406T035422Z">
-        <seg>ああ、そうだ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T130519Z" creationid="weedssoul" creationdate="20190406T035422Z">
+        <seg>わかってる。</seg>
       </tuv>
     </tu>
     <tu>
