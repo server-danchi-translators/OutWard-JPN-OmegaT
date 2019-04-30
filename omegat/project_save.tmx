@@ -35587,10 +35587,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll never amount to anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065012Z" creationid="urakata" creationdate="20190430T065012Z">
+        <seg>自分には何の価値もない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll never forget this!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133146Z" creationid="Light" creationdate="20190405T133146Z">
         <seg>この恩は忘れないよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll never shake this Blood Price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064937Z" creationid="urakata" creationdate="20190430T064937Z">
+        <seg>血の代償を厄介払いするのは無理そうだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41364,6 +41380,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T061735Z" creationid="pugnus" creationdate="20190418T061735Z">
         <seg>私たちの中に、数人の灰の巨人がいるだけでレバントの攻撃を止めるには十分かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just whine?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065142Z" creationid="urakata" creationdate="20190430T065142Z">
+        <seg>愚痴をこぼすだけか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54479,6 +54503,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064020Z" creationid="urakata" creationdate="20190430T064020Z">
         <seg>Player_Roland_BC_Bones_a_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065015Z" creationid="urakata" creationdate="20190430T065015Z">
+        <seg>Player_Roland_BC_Bones_a_18</seg>
       </tuv>
     </tu>
     <tu>
@@ -75363,6 +75395,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T072705Z" creationid="pugnus" creationdate="20190415T072705Z">
         <seg>あなたは何をしているの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are you going to do about it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065030Z" creationid="urakata" creationdate="20190430T065030Z">
+        <seg>それでどうするんだよ?</seg>
       </tuv>
     </tu>
     <tu>
