@@ -161,8 +161,8 @@
       <tuv lang="EN-US">
         <seg>(Roland stares ahead, empty and cold.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T131415Z" creationid="urakata" creationdate="20190430T131415Z">
-        <seg>(ローランドは力なく冷たくなっても前を見つめていた。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131503Z" creationid="urakata" creationdate="20190430T131415Z">
+        <seg>(ローランドは力なく冷たくなっても前を見つめている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -187,6 +187,14 @@
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T040619Z" creationid="taman" creationdate="20190410T033627Z">
         <seg>(祭壇は悲しみや苦痛、そして使命感で満ちている)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The Trinket you made for him falls from his hand, blazing with fragments of Roland’s soul.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131647Z" creationid="urakata" creationdate="20190430T131647Z">
+        <seg>(彼のために作った装身具が、ローランドの魂のかけらを燃やしながら手から零れ落ちた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32139,8 +32147,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>His spirit has almost completely left his body, and it is starting to shut down.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T131456Z" creationid="urakata" creationdate="20190430T131456Z">
-        <seg>彼の魂は体を離れ、消え始めた。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131515Z" creationid="urakata" creationdate="20190430T131456Z">
+        <seg>彼の魂は体を離れ、消え始めた。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39361,6 +39369,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T182142Z" creationid="magur0w" creationdate="20190404T182142Z">
         <seg>彼女もあなたを強く信頼しているように見える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It burns at the touch, so you place it inside a fallen lantern for safekeeping)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131810Z" creationid="urakata" creationdate="20190430T131810Z">
+        <seg>触ると熱かったので、落ちていたランタンの中に大切にしまい込んだ。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -60738,6 +60754,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131241Z" creationid="urakata" creationdate="20190430T131241Z">
         <seg>Roland_BC_Bones_56</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_57</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T131505Z" creationid="urakata" creationdate="20190430T131505Z">
+        <seg>Roland_BC_Bones_57</seg>
       </tuv>
     </tu>
     <tu>
