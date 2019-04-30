@@ -11011,6 +11011,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, fine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063654Z" creationid="urakata" creationdate="20190430T063654Z">
+        <seg>わかったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, you just come back when you have more of this stuff, it's real good!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T062058Z" creationid="Mad" creationdate="20190407T062058Z">
@@ -12200,6 +12208,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T111957Z" creationid="pugnus" creationdate="20190422T111957Z">
         <seg>小さきヒトが「夕暮れの父」や「夜明けの織り手」よりも、小さいとエラットを理解しているのならば...我らはそれを受け入れようぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As long as it's not far.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063806Z" creationid="urakata" creationdate="20190430T063806Z">
+        <seg>遠くなければ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33274,6 +33290,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't have time for side trips, Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063637Z" creationid="urakata" creationdate="20190430T063637Z">
+        <seg>寄り道してる時間はないぞ、ローランド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't know about that...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014103Z" creationid="pugnus" creationdate="20190425T014103Z">
@@ -35375,6 +35399,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061343Z" creationid="Mad" creationdate="20190407T061343Z">
         <seg>すぐに持ってきてやる！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'd feel better if you came along.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063619Z" creationid="urakata" creationdate="20190430T063619Z">
+        <seg>一緒に来てくれたら助かるんだが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43508,6 +43540,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011735Z" creationid="seto" creationdate="20190413T011634Z">
         <seg>まずはエトーに&lt;color=#00CCFF&gt;&lt;b&gt;戦い方&lt;/b&gt;&lt;/color&gt;を押してくれるよう頼みこむよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe I'll come back some other time, if I survive all this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063747Z" creationid="urakata" creationdate="20190430T063747Z">
+        <seg>これを生き抜けたら、後で来るとしよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54347,6 +54387,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063621Z" creationid="urakata" creationdate="20190430T063621Z">
+        <seg>Player_Roland_BC_Bones_a_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -54359,6 +54407,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063007Z" creationid="urakata" creationdate="20190430T063007Z">
         <seg>Player_Roland_BC_Bones_b_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063758Z" creationid="urakata" creationdate="20190430T063758Z">
+        <seg>Player_Roland_BC_Bones_b_12</seg>
       </tuv>
     </tu>
     <tu>
@@ -59552,6 +59608,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063448Z" creationid="urakata" creationdate="20190430T063448Z">
         <seg>Roland_BC_Bones_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063646Z" creationid="urakata" creationdate="20190430T063646Z">
+        <seg>Roland_BC_Bones_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063807Z" creationid="urakata" creationdate="20190430T063807Z">
+        <seg>Roland_BC_Bones_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -74478,6 +74550,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We're going back to Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063754Z" creationid="urakata" creationdate="20190430T063645Z">
+        <seg>ベルクに帰るんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We're not far from home.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T101922Z" creationid="setom" creationdate="20190402T164723Z">
@@ -75795,6 +75875,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060908Z" creationid="Mad" creationdate="20190407T060908Z">
         <seg>俺たちがシエルゾに攻め込んだ暁には、あいつの頭を門にでも飾ってやるさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When we were kids, Yzan and I went into the &lt;color=#00CCFF&gt;&lt;b&gt;Starfish cave on the beach near Cierzo&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T063910Z" creationid="urakata" creationdate="20190430T063910Z">
+        <seg>子供のころ、イザンと一緒に&lt;color=#00CCFF&gt;&lt;b&gt;シエルゾ近くのヒトデ洞窟&lt;/b&gt;&lt;/color&gt;に行ったんだが</seg>
       </tuv>
     </tu>
     <tu>
