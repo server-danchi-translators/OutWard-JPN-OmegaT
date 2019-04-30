@@ -33763,6 +33763,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I guess you did, didn't you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124511Z" creationid="urakata" creationdate="20190430T124511Z">
+        <seg>まあ確かにそうだよな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I guess you weren’t as much of an asset as we hoped, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T105328Z" creationid="pugnus" creationdate="20190406T104341Z">
@@ -35028,6 +35036,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I shouldn't have...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124533Z" creationid="urakata" creationdate="20190430T124533Z">
+        <seg>調子に乗った...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I still have things I need to do first.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172702Z" creationid="magur0w" creationdate="20190404T172702Z">
@@ -36180,6 +36196,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T040334Z" creationid="weedssoul" creationdate="20190406T040010Z">
         <seg>すまない。面白くない冗談だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124517Z" creationid="urakata" creationdate="20190430T124517Z">
+        <seg>ごめん。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42318,6 +42342,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060407Z" creationid="Mad" creationdate="20190407T060318Z">
         <seg>さあ、血を流そうじゃないか、友よ！ハーッハッハッハ！！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's just go &lt;color=#00CCFF&gt;&lt;b&gt;report this to Gabriella&lt;/b&gt;&lt;/color&gt; and get on with stopping whatever is going on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124648Z" creationid="urakata" creationdate="20190430T124648Z">
+        <seg>とにかく帰って&lt;color=#00CCFF&gt;&lt;b&gt;このことをガブリエラに報告&lt;/b&gt;&lt;/color&gt;して、他の任務に取り掛かろうか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60370,6 +60402,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124031Z" creationid="urakata" creationdate="20190430T124031Z">
         <seg>Roland_BC_Bones_45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_46</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124431Z" creationid="urakata" creationdate="20190430T124431Z">
+        <seg>Roland_BC_Bones_46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_46_B</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124650Z" creationid="urakata" creationdate="20190430T124650Z">
+        <seg>Roland_BC_Bones_46_B</seg>
       </tuv>
     </tu>
     <tu>
@@ -81010,6 +81058,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’re the one who really handled that fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124727Z" creationid="urakata" creationdate="20190430T124727Z">
+        <seg>実際には君だけが戦闘をしてたんだから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’ve already rented a room for the day!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060658Z" creationid="Light" creationdate="20190408T060658Z">
@@ -84293,6 +84349,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T065234Z" creationid="urakata" creationdate="20190430T065234Z">
         <seg>そうだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Blue_Chamber_Questline.xml</prop>
+      <prop type="id">1199_0</prop>
+      <tuv lang="EN-US">
+        <seg>I...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124451Z" creationid="urakata" creationdate="20190430T124451Z">
+        <seg>俺…</seg>
       </tuv>
     </tu>
     <tu>
