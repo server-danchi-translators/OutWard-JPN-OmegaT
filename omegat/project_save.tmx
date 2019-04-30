@@ -34878,8 +34878,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I really don't like the look of this mess.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T125207Z" creationid="urakata" creationdate="20190430T125119Z">
-        <seg>こんなことになってしまったのはつらいけど。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125719Z" creationid="urakata" creationdate="20190430T125119Z">
+        <seg>でも見てくれ、ひどいことになってる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39941,6 +39941,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T012114Z" creationid="urakata" creationdate="20190427T012114Z">
         <seg>長いこと掛かってもすべての子孫を絶やすことはできなかったんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's hard to tell where she ends and where the Ancestral Memories begin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125943Z" creationid="urakata" creationdate="20190430T125943Z">
+        <seg>どこまであの女で、どこからが父祖の記憶かよくわからない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60526,6 +60534,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_51</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125800Z" creationid="urakata" creationdate="20190430T125800Z">
+        <seg>Roland_BC_Bones_51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -62942,6 +62958,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She's already done serious damage to them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125829Z" creationid="urakata" creationdate="20190430T125829Z">
+        <seg>もうだいぶ被害が出てる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sheathe</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145826Z" creationid="Horizon" creationdate="20190403T145826Z">
@@ -63859,6 +63883,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T120221Z">
         <seg>お金はあるかい？なんでも揃ってるよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So many of the Memories are tainted with red...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125904Z" creationid="urakata" creationdate="20190430T125857Z">
+        <seg>かなりの記憶が赤に浸食されてる...</seg>
       </tuv>
     </tu>
     <tu>
@@ -69078,8 +69110,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank Elatt you made it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T125023Z" creationid="urakata" creationdate="20190430T125023Z">
-        <seg>Elattに感謝を。やったんだな。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125646Z" creationid="urakata" creationdate="20190430T125023Z">
+        <seg>Elattに感謝を。無事だったか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69430,8 +69462,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>That woman's spirit is still being resisted by the rest of the memories.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T125635Z" creationid="urakata" creationdate="20190430T125635Z">
-        <seg>あの女の魂は</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125739Z" creationid="urakata" creationdate="20190430T125635Z">
+        <seg>あの女の魂は他の記憶の抵抗にあってる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75419,6 +75451,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T012454Z" creationid="pugnus" creationdate="20190422T012454Z">
         <seg>近い将来、大きな問題となるかもしれません...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We might be able to do something about this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125800Z" creationid="urakata" creationdate="20190430T125800Z">
+        <seg>その間になんとかできるはずだ。</seg>
       </tuv>
     </tu>
     <tu>
