@@ -33315,6 +33315,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I did all the work!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124430Z" creationid="urakata" creationdate="20190430T124430Z">
+        <seg>お前何もしてないだろ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I did not want to spring this on you, but...</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T164335Z" creationid="weedssoul" creationdate="20190405T164335Z">
@@ -42286,6 +42294,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T082310Z" creationid="rkmad" creationdate="20190408T082310Z">
         <seg>ふむ、どれどれ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let's &lt;color=#00CCFF&gt;&lt;b&gt;rip a trophy off this thing and show Gabriella&lt;/b&gt;&lt;/color&gt;, eh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124330Z" creationid="urakata" creationdate="20190430T124330Z">
+        <seg>じゃあ&lt;color=#00CCFF&gt;&lt;b&gt;倒した証拠を取ってガブリエラに見せる&lt;/b&gt;&lt;/color&gt;としようか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54905,6 +54921,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T111542Z" creationid="urakata" creationdate="20190430T111542Z">
         <seg>Player_Roland_BC_Bones_b_37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_44</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124332Z" creationid="urakata" creationdate="20190430T124332Z">
+        <seg>Player_Roland_BC_Bones_b_44</seg>
       </tuv>
     </tu>
     <tu>
@@ -68996,6 +69020,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thanks for everything, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124139Z" creationid="urakata" creationdate="20190430T124139Z">
+        <seg>いろいろありがとう、[PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thanks for giving us a hand!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T155055Z" creationid="taman" creationdate="20190421T154751Z">
@@ -75137,8 +75169,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We killed a damn shell horror!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T111613Z" creationid="urakata" creationdate="20190430T111613Z">
-        <seg>shell horrorの野郎を殺したんだ!</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124356Z" creationid="urakata" creationdate="20190430T111613Z">
+        <seg>俺たちがshell horrorの野郎を殺したんだ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76277,6 +76309,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T052759Z" creationid="pugnus" creationdate="20190416T052759Z">
         <seg>「旧」レバントとは、どういう意味ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you mean "we"?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T124408Z" creationid="urakata" creationdate="20190430T124408Z">
+        <seg>「達」ってなんだ?</seg>
       </tuv>
     </tu>
     <tu>
