@@ -16042,6 +16042,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you hear them?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125235Z" creationid="urakata" creationdate="20190430T125235Z">
+        <seg>聞こえないか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can you see them?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125240Z" creationid="urakata" creationdate="20190430T125240Z">
+        <seg>見えないか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you teach me about crafting and managing my inventory?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T123103Z" creationid="weedssoul" creationdate="20190406T122116Z">
@@ -32443,6 +32459,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How bad is it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125310Z" creationid="urakata" creationdate="20190430T125300Z">
+        <seg>これの何が悪いんだ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can I earn a Tribal Favor so quickly?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T082105Z" creationid="rkmad" creationdate="20190404T082105Z">
@@ -34848,6 +34872,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T062836Z" creationid="taman" creationdate="20190420T062836Z">
         <seg>祭壇から邪悪なものが抜け出さないよう、俺様が魔法で扉を封印したんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I really don't like the look of this mess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125207Z" creationid="urakata" creationdate="20190430T125119Z">
+        <seg>こんなことになってしまったのはつらいけど。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47595,6 +47627,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No, Roland, I can't.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125251Z" creationid="urakata" creationdate="20190430T125251Z">
+        <seg>ローランド、わからないよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No, no, I think you’re sick!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052112Z" creationid="Mad" creationdate="20190407T052112Z">
@@ -54901,6 +54941,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_48</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125241Z" creationid="urakata" creationdate="20190430T125241Z">
+        <seg>Player_Roland_BC_Bones_a_48</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -60454,6 +60502,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_49</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125301Z" creationid="urakata" creationdate="20190430T125301Z">
+        <seg>Roland_BC_Bones_49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Bones_66</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072417Z" creationid="urakata" creationdate="20190430T072417Z">
@@ -62746,6 +62802,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T122913Z" creationid="weedssoul" creationdate="20190406T122913Z">
         <seg>私のような商人にとって、情報の共有は必須だからね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She already added her entire spirit to the Ancestral Memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125151Z" creationid="urakata" creationdate="20190430T125151Z">
+        <seg>彼女はもう父祖の記憶に魂すべてを捧げてしまった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71772,6 +71836,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They're in agony!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125228Z" creationid="urakata" creationdate="20190430T125209Z">
+        <seg>皆苦しんでる!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They're like any monster, as long as you know how to fight them, they aren't a problem.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T115043Z" creationid="pugnus" creationdate="20190422T115043Z">
@@ -78868,6 +78940,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T124820Z" creationid="rkmad" creationdate="20190404T083913Z">
         <seg>私の手に負えなかった問題に対して、私に責任を負わせることが許されるのか！？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can't see it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T125323Z" creationid="urakata" creationdate="20190430T125323Z">
+        <seg>わからない?</seg>
       </tuv>
     </tu>
     <tu>
