@@ -28345,6 +28345,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go home, Roland, you’re not cut out for this stuff.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133832Z" creationid="urakata" creationdate="20190430T133832Z">
+        <seg>帰れよ、ローランド、こういうの向いてないぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go in Monsoon’s temple and talk to Oliele.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T103924Z" creationid="Light" creationdate="20190409T103924Z">
@@ -33499,6 +33507,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I couldn’t...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133403Z" creationid="urakata" creationdate="20190430T133403Z">
+        <seg>無理で...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I decide what is allowed in Ashborn society and what is not.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014239Z" creationid="pugnus" creationdate="20190425T014239Z">
@@ -35640,6 +35656,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073750Z" creationid="weedssoul" creationdate="20190406T073750Z">
         <seg>私は一度もあの味を再現できたことがない！!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was scared, alright?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133412Z" creationid="urakata" creationdate="20190430T133412Z">
+        <seg>怖かったんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41490,10 +41514,26 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m sorry that I didn’t help you, I just...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133350Z" creationid="urakata" creationdate="20190430T133350Z">
+        <seg>何もできなくてすまなかった、ただ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m sorry you feel that way.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014804Z" creationid="pugnus" creationdate="20190425T014804Z">
         <seg>あなたを怒らせてしまい、申し訳ありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sorry!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133446Z" creationid="urakata" creationdate="20190430T133446Z">
+        <seg>許してくれよ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -42670,6 +42710,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124648Z" creationid="urakata" creationdate="20190430T124648Z">
         <seg>とにかく帰って&lt;color=#00CCFF&gt;&lt;b&gt;このことをガブリエラに報告&lt;/b&gt;&lt;/color&gt;して、他の任務に取り掛かろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s just go report to Gabriella.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133509Z" creationid="urakata" creationdate="20190430T133509Z">
+        <seg>それじゃあガブリエラに報告しよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s just...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133456Z" creationid="urakata" creationdate="20190430T133456Z">
+        <seg>それじゃ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -55269,6 +55325,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_65</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133510Z" creationid="urakata" creationdate="20190430T133510Z">
+        <seg>Player_Roland_BC_Bones_a_65</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -60978,6 +61042,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133102Z" creationid="urakata" creationdate="20190430T133102Z">
         <seg>Roland_BC_Bones_64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_65</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133307Z" creationid="urakata" creationdate="20190430T133307Z">
+        <seg>Roland_BC_Bones_65</seg>
       </tuv>
     </tu>
     <tu>
@@ -71866,6 +71938,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There, I said it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133438Z" creationid="urakata" creationdate="20190430T133438Z">
+        <seg>ほら、なあ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There, you can buy active skills and passive buffs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112544Z">
@@ -80923,6 +81003,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064743Z" creationid="pugnus" creationdate="20190429T064743Z">
         <seg>私を殺さないでくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You wouldn’t have been any help anyway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T133526Z" creationid="urakata" creationdate="20190430T133526Z">
+        <seg>確かに何の役にも立たなかったな。</seg>
       </tuv>
     </tu>
     <tu>
