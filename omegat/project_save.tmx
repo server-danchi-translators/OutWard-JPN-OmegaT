@@ -34891,6 +34891,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I suppose...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064302Z" creationid="urakata" creationdate="20190430T064154Z">
+        <seg>そうだな...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I suppose...I can only keep on hoping that this cruelty was necessary.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T071417Z" creationid="taman" creationdate="20190411T071417Z">
@@ -39262,6 +39270,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It means a lot to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064404Z" creationid="urakata" creationdate="20190430T064404Z">
+        <seg>大事なことなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It means you and your giants become part of the Collective, all of us work together and consult each other for major decisions.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T092136Z" creationid="pugnus" creationdate="20190422T092136Z">
@@ -39322,6 +39338,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T113901Z" creationid="pugnus" creationdate="20190422T112309Z">
         <seg>「大地の獣」が姿を現したのは、我らアッシュボーンにとってはそんなに昔のことではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It probably got destroyed or stolen years ago anyway.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064220Z" creationid="urakata" creationdate="20190430T064220Z">
+        <seg>これだけ経ってるんだから壊れたか拾われたかしただろうし</seg>
       </tuv>
     </tu>
     <tu>
@@ -39675,6 +39699,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T081050Z" creationid="taman" creationdate="20190420T081012Z">
         <seg>お世辞にもうまいとは言えないが、なんとか生きていくには十分だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's not that far out of the way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064341Z" creationid="urakata" creationdate="20190430T064341Z">
+        <seg>そんなに道は逸れないはずだし。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40412,6 +40444,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T072244Z" creationid="pugnus" creationdate="20190429T064455Z">
         <seg>イタチちゃん！お前の骨を全部折ってやる！楽しんで！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll head back to Berg and to report to Gabriella, then.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064257Z" creationid="urakata" creationdate="20190430T064257Z">
+        <seg>もうベルクに帰ってガブリエラに報告しよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54443,6 +54483,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064304Z" creationid="urakata" creationdate="20190430T064304Z">
+        <seg>Player_Roland_BC_Bones_b_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -56271,6 +56319,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142155Z" creationid="weedssoul" creationdate="20190406T055417Z">
         <seg>やあ、友よ！訓練士に来たのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Really?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064349Z" creationid="urakata" creationdate="20190430T064349Z">
+        <seg>本当か?</seg>
       </tuv>
     </tu>
     <tu>
@@ -59648,6 +59704,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063807Z" creationid="urakata" creationdate="20190430T063807Z">
         <seg>Roland_BC_Bones_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064148Z" creationid="urakata" creationdate="20190430T064148Z">
+        <seg>Roland_BC_Bones_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064343Z" creationid="urakata" creationdate="20190430T064343Z">
+        <seg>Roland_BC_Bones_17</seg>
       </tuv>
     </tu>
     <tu>
@@ -66793,6 +66865,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sure, why not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064319Z" creationid="urakata" creationdate="20190430T064319Z">
+        <seg>いいよ、行こう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sutherland Family Altar</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020922Z" creationid="pugnus" creationdate="20190423T020922Z">
@@ -68266,6 +68346,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thanks, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064354Z" creationid="urakata" creationdate="20190430T064354Z">
+        <seg>ありがとう、[PlayerName].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thanks.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103930Z" creationid="urakata" creationdate="20190428T103930Z">
@@ -69055,6 +69143,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T123258Z" creationid="pugnus" creationdate="20190404T100746Z">
         <seg>レバンティン宮殿のざわめきが、私を目覚めさせる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cave I'm talking about is the one right &lt;color=#00CCFF&gt;&lt;b&gt;near Cierzo's back door, on the beach where the tunnel from the storage tunnel comes out.&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064622Z" creationid="urakata" creationdate="20190430T064622Z">
+        <seg>洞窟は&lt;color=#00CCFF&gt;&lt;b&gt;シエルゾの裏門のすぐ近く、物置のトンネルの出口がある浜にある&lt;/b&gt;&lt;/color&gt;やつだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74273,6 +74369,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T033357Z" creationid="taman" creationdate="20190428T033357Z">
         <seg>なんとかしなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have work to do!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T064147Z" creationid="urakata" creationdate="20190430T064147Z">
+        <seg>まだ仕事が有るんだからな!</seg>
       </tuv>
     </tu>
     <tu>
