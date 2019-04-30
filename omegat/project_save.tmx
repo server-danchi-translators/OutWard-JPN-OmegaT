@@ -19537,6 +19537,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could you ask him for me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072301Z" creationid="urakata" creationdate="20190430T072301Z">
+        <seg>依頼しておいてくれないか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could you prepare me a Cierzo Ceviche like your parents used to?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T234430Z" creationid="weedssoul" creationdate="20190406T073820Z">
@@ -35445,8 +35453,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I wonder...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T072039Z" creationid="urakata" creationdate="20190430T072022Z">
-        <seg>そうしたら...</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072131Z" creationid="urakata" creationdate="20190430T072022Z">
+        <seg>だったら...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36155,6 +36163,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T230657Z" creationid="urakata" creationdate="20190426T230657Z">
         <seg>もし我々のことを聞いたことがあったとしても、どういう集団で、何をしているかについては勘違いしていると思うね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm sure there's &lt;color=#00CCFF&gt;&lt;b&gt;a smith somewhere in this city&lt;/b&gt;&lt;/color&gt; skilled enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072246Z" creationid="urakata" creationdate="20190430T072246Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;この町の鍛冶屋&lt;/b&gt;&lt;/color&gt;に、それだけの腕が有る人が居るはずだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54819,6 +54835,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_d_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072302Z" creationid="urakata" creationdate="20190430T072302Z">
+        <seg>Player_Roland_BC_Bones_d_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_a_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003233Z" creationid="seto" creationdate="20190413T003233Z">
@@ -60176,6 +60200,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071740Z" creationid="urakata" creationdate="20190430T071740Z">
         <seg>Roland_BC_Bones_32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_34</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T072132Z" creationid="urakata" creationdate="20190430T072132Z">
+        <seg>Roland_BC_Bones_34</seg>
       </tuv>
     </tu>
     <tu>
