@@ -49,8 +49,8 @@
       <tuv lang="EN-US">
         <seg>(A burst of light floods the room.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T171227Z" creationid="taman" creationdate="20190430T171227Z">
-        <seg>(光の奔流が部屋全体に流れ込む。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190430T171751Z" creationid="taman" creationdate="20190430T171227Z">
+        <seg>(突如、光の奔流が部屋全体に流れ込んできた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12357,6 +12357,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T054731Z" creationid="pugnus" creationdate="20190429T054346Z">
         <seg>人間が「大地の獣」を呼び出し、それを止めることに成功したと、迷信的な巨人は考えているようです。そして、巨人たちは自分たちの生活を続けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As it fades Oliele stands before you, her eyes and arms replaced with pure light)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190430T172434Z" creationid="taman" creationdate="20190430T172434Z">
+        <seg>光が消えると目の前のオリエルが立ち上がる。彼女の目と腕はまばゆい光を放っていた)</seg>
       </tuv>
     </tu>
     <tu>
