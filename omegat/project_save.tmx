@@ -40832,6 +40832,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m going to keep training too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071522Z" creationid="urakata" creationdate="20190430T071522Z">
+        <seg>訓練をするしかないな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m here about work.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T042823Z">
@@ -54683,6 +54691,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071529Z" creationid="urakata" creationdate="20190430T071529Z">
+        <seg>Player_Roland_BC_Bones_a_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071539Z" creationid="urakata" creationdate="20190430T071539Z">
+        <seg>Player_Roland_BC_Bones_a_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Bones_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103715Z" creationid="urakata" creationdate="20190428T103715Z">
@@ -54727,6 +54751,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T070523Z" creationid="urakata" creationdate="20190430T070523Z">
         <seg>Player_Roland_BC_Bones_b_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071523Z" creationid="urakata" creationdate="20190430T071523Z">
+        <seg>Player_Roland_BC_Bones_b_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_b_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071541Z" creationid="urakata" creationdate="20190430T071541Z">
+        <seg>Player_Roland_BC_Bones_b_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_c_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071543Z" creationid="urakata" creationdate="20190430T071543Z">
+        <seg>Player_Roland_BC_Bones_c_26</seg>
       </tuv>
     </tu>
     <tu>
@@ -60048,6 +60096,46 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071257Z" creationid="urakata" creationdate="20190430T071257Z">
         <seg>Roland_BC_Bones_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071525Z" creationid="urakata" creationdate="20190430T071525Z">
+        <seg>Roland_BC_Bones_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071537Z" creationid="urakata" creationdate="20190430T071537Z">
+        <seg>Roland_BC_Bones_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_30</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071540Z" creationid="urakata" creationdate="20190430T071540Z">
+        <seg>Roland_BC_Bones_30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_31</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071542Z" creationid="urakata" creationdate="20190430T071542Z">
+        <seg>Roland_BC_Bones_31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_32</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071740Z" creationid="urakata" creationdate="20190430T071740Z">
+        <seg>Roland_BC_Bones_32</seg>
       </tuv>
     </tu>
     <tu>
@@ -76239,6 +76327,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What's wrong with your Mana?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071739Z" creationid="urakata" creationdate="20190430T071609Z">
+        <seg>マナに何か問題あるのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102705Z" creationid="urakata" creationdate="20190428T102705Z">
@@ -77695,6 +77791,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T072121Z" creationid="taman" creationdate="20190409T072121Z">
         <seg>どうしました、[PlayerName]？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, but... it bends a lot while I have it out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071813Z" creationid="urakata" creationdate="20190430T071813Z">
+        <seg>ああ、だけど...抜くとひどく曲がるんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79858,6 +79962,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T165025Z" creationid="Light" creationdate="20190405T165025Z">
         <seg>名前も故郷も捨てて、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're able to summon that sword just fine.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071650Z" creationid="urakata" creationdate="20190430T071650Z">
+        <seg>剣の召喚はできるだろ。</seg>
       </tuv>
     </tu>
     <tu>
