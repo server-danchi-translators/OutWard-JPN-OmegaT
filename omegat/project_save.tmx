@@ -42226,8 +42226,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Life's already beaten me with the damn stick, why should I care about the stupid carrot?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T065750Z" creationid="urakata" creationdate="20190430T065750Z">
-        <seg>人生はいつでも棒でぶちのめしてくるのに、なんでニンジンなんぞ気にかけなきゃいけないんだよ?</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070052Z" creationid="urakata" creationdate="20190430T065750Z">
+        <seg>そもそも人生がケツにムチを入れてるのに、ニンジンなんぞ気にかけていられるか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48997,8 +48997,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh, right.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T065552Z" creationid="urakata" creationdate="20190430T065552Z">
-        <seg>よし。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065758Z" creationid="urakata" creationdate="20190430T065552Z">
+        <seg>なるほどね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54559,6 +54559,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T065015Z" creationid="urakata" creationdate="20190430T065015Z">
         <seg>Player_Roland_BC_Bones_a_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Bones_a_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065809Z" creationid="urakata" creationdate="20190430T065809Z">
+        <seg>Player_Roland_BC_Bones_a_19</seg>
       </tuv>
     </tu>
     <tu>
@@ -63249,6 +63257,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T112440Z" creationid="pugnus" creationdate="20190406T112440Z">
         <seg>それで、現在はどうだろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, what was it we were looking for?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T065854Z" creationid="urakata" creationdate="20190430T065854Z">
+        <seg>それで、何をしようとしてたんだっけ?</seg>
       </tuv>
     </tu>
     <tu>
