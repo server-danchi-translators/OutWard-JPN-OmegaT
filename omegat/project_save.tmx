@@ -26935,6 +26935,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella chewed me out over letting a rock mantis get the better of me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071103Z" creationid="urakata" creationdate="20190430T071103Z">
+        <seg>ロックマンティスにやられたことで、ガブリエラにだいぶ絞られたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella should be near the food stand along the road.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T015716Z">
@@ -34935,6 +34943,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T055151Z" creationid="urakata" creationdate="20190427T055151Z">
         <seg>構成員と話し合う必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I should really pay more attention to my surroundings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071124Z" creationid="urakata" creationdate="20190430T071124Z">
+        <seg>もっと周りに気を付けないといけないな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59980,6 +59996,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T070852Z" creationid="urakata" creationdate="20190430T070852Z">
+        <seg>Roland_BC_Bones_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Bones_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071126Z" creationid="urakata" creationdate="20190430T071126Z">
+        <seg>Roland_BC_Bones_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002636Z" creationid="seto" creationdate="20190413T002636Z">
@@ -70708,6 +70740,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133705Z" creationid="taman" creationdate="20190421T131834Z">
         <seg>手がマナクリスタルに当たったぜ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's no way I'm ready to take down a shell horror!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190430T071151Z" creationid="urakata" creationdate="20190430T071151Z">
+        <seg>shell horrorを相手にするなんてとんでもないな!</seg>
       </tuv>
     </tu>
     <tu>
