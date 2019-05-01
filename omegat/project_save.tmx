@@ -23490,6 +23490,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know where I can find him?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051456Z" creationid="urakata" creationdate="20190501T051456Z">
+        <seg>ユリウスはどこですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you really want everyone in the Collective to know that you don't honor your word, Sagard?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T061713Z" creationid="pugnus" creationdate="20190429T061713Z">
@@ -27488,6 +27496,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T051113Z" creationid="urakata" creationdate="20190501T051113Z">
         <seg>Gabriella_BC_Bones_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051456Z" creationid="urakata" creationdate="20190501T051456Z">
+        <seg>Gabriella_BC_Bones_14</seg>
       </tuv>
     </tu>
     <tu>
@@ -38288,6 +38304,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the meantime, Roland, come with me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051411Z" creationid="urakata" creationdate="20190501T051411Z">
+        <seg>ローランド、その間に私についてきなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In twenty years, he can come back and beg for forgiveness from Dusk Father or Dawn Weaver.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T033957Z" creationid="pugnus" creationdate="20190422T033957Z">
@@ -42514,6 +42538,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114858Z" creationid="Gaiden Shinji" creationdate="20190404T114858Z">
         <seg>ジュリアス・サザーランド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Julius has been &lt;color=#00CCFF&gt;&lt;b&gt;staying at the inn&lt;/b&gt;&lt;/color&gt; during his investigation, if you can’t find him out and about, he’ll probably be there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051603Z" creationid="urakata" creationdate="20190501T051603Z">
+        <seg>ユリウスは捜査の間は&lt;color=#00CCFF&gt;&lt;b&gt;宿にいました&lt;/b&gt;&lt;/color&gt;。このあたりで見つからなけらば、宿にいるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53958,6 +53990,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T050207Z" creationid="urakata" creationdate="20190501T050207Z">
         <seg>Player_Gabriella_BC_Bones_a_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051437Z" creationid="urakata" creationdate="20190501T051437Z">
+        <seg>Player_Gabriella_BC_Bones_a_13</seg>
       </tuv>
     </tu>
     <tu>
@@ -77050,6 +77090,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063754Z" creationid="urakata" creationdate="20190430T063645Z">
         <seg>ベルクに帰るんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're going to the Necropolis to prepare for the initiation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051435Z" creationid="urakata" creationdate="20190501T051435Z">
+        <seg>ネクロポリスで叙任の準備を行います。</seg>
       </tuv>
     </tu>
     <tu>
