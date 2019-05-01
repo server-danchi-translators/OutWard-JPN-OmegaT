@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12157,6 +12157,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064441Z" creationid="hiru4" creationdate="20190403T064441Z">
         <seg>再開しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you trying to kill us?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045205Z" creationid="urakata" creationdate="20190501T045205Z">
+        <seg>私たちを殺したいんですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27356,6 +27364,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045206Z" creationid="urakata" creationdate="20190501T045206Z">
+        <seg>Gabriella_BC_Bones_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045330Z" creationid="urakata" creationdate="20190501T045330Z">
+        <seg>Gabriella_BC_Bones_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -29477,6 +29501,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green shell horror, kill it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045444Z" creationid="urakata" creationdate="20190501T045327Z">
+        <seg>Green shell horrorを殺す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greetings, [PlayerName], how are you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T092752Z" creationid="rkmad" creationdate="20190405T092732Z">
@@ -31137,6 +31169,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T052928Z" creationid="urakata" creationdate="20190427T015147Z">
         <seg>気は変わった、[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you even fought one before?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045356Z" creationid="urakata" creationdate="20190501T045356Z">
+        <seg>そもそもshell horrorと戦ったことはありますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -37356,6 +37396,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113015Z" creationid="weedssoul" creationdate="20190406T113015Z">
         <seg>あの死の難破を生き抜いたあなたなら、きっと次の「血の代償」の支払いもできるはずよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can't handle it, I don't see how you could handle anything the Scarlet Lady will throw at us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045306Z" creationid="urakata" creationdate="20190501T045306Z">
+        <seg>それができない程度であれば、緋色の貴婦人が仕掛けてくることに対処できるとは思えませんね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53710,6 +53758,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045136Z" creationid="urakata" creationdate="20190501T045136Z">
         <seg>Player_Gabriella_BC_Bones_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045307Z" creationid="urakata" creationdate="20190501T045307Z">
+        <seg>Player_Gabriella_BC_Bones_b_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -81721,6 +81777,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T083142Z" creationid="rkmad" creationdate="20190408T083142Z">
         <seg>あなたがたは、二人共チャンピオンなのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're either foolishly overconfident, or you've been up to things even I haven't heard about.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045438Z" creationid="urakata" creationdate="20190501T045438Z">
+        <seg>自信過剰か、</seg>
       </tuv>
     </tu>
     <tu>
