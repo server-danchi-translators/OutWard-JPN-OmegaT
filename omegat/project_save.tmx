@@ -36644,6 +36644,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm not me anymore!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043559Z" creationid="taman" creationdate="20190501T043559Z">
+        <seg>もう以前のような私じゃないのよ！I'm not me anymore!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm not sure... but it's the best shot we've got.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130658Z" creationid="urakata" creationdate="20190430T130658Z">
@@ -36776,6 +36784,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171504Z" creationid="setom" creationdate="20190402T171504Z">
         <seg>もしかしたらハイエナに出くわしちまったんじゃねぇかって心配なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043453Z" creationid="taman" creationdate="20190501T043453Z">
+        <seg>私は……</seg>
       </tuv>
     </tu>
     <tu>
@@ -43426,6 +43442,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T112248Z" creationid="weedssoul" creationdate="20190406T112248Z">
         <seg>気をつけてね、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>このあたりで文節がとびとびになっているのでゲーム内の進行でもう一度確認したい。</note>
+      <tuv lang="EN-US">
+        <seg>Look at me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043443Z" creationid="taman" creationdate="20190501T043443Z">
+        <seg>私を見て！</seg>
       </tuv>
     </tu>
     <tu>
