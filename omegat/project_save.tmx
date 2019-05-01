@@ -24073,6 +24073,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each village provides me with troops that I have to organize into something cohesive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T122020Z" creationid="urakata" creationdate="20190501T122020Z">
+        <seg>各村ごとに隊員をよこすんだが、こいつらを一丸となって行動できるようにするのが私の仕事だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ease the burdens of any one of them, and you will have proven to me that you are ready to join us.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T150342Z" creationid="Mad" creationdate="20190407T150342Z">
@@ -41894,6 +41902,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s a nightmare only discipline can solve!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T122112Z" creationid="urakata" creationdate="20190501T122112Z">
+        <seg>自制心でしか解決できない悪夢だよ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s a pity we couldn’t find them in time.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T073726Z" creationid="pugnus" creationdate="20190415T073726Z">
@@ -42795,8 +42811,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m the Chamberlord of Berg and handle the Collective’s armies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T121830Z" creationid="urakata" creationdate="20190501T121830Z">
-        <seg>私はベルクの議員かつ共同体軍の統括者だ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121849Z" creationid="urakata" creationdate="20190501T121830Z">
+        <seg>私はベルクの議員かつ共同体軍団の統括者だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49591,6 +49607,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T022715Z" creationid="setom" creationdate="20190331T112557Z">
         <seg>貨幣や銀貨にも重量があることを心に留めておきましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note the plural there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121904Z" creationid="urakata" creationdate="20190501T121904Z">
+        <seg>団というところが重要でね。</seg>
       </tuv>
     </tu>
     <tu>
