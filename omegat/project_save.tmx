@@ -11562,8 +11562,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>And a leg and a ribcage!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190421T155227Z" creationid="taman" creationdate="20190421T155227Z">
-        <seg>足も胸もちゃんとついてるし！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T070145Z" creationid="taman" creationdate="20190421T155227Z">
+        <seg>足助けと胸助けも感謝する！</seg>
       </tuv>
     </tu>
     <tu>
@@ -36714,12 +36714,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <note>And a leg and a ribcage!
 
 ↑のセリフを受けて、聞かなかったことにするという意味がよくわからない。
-ゲーム内で要確認。</note>
+ゲーム内で要確認。
+
+thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だった。</note>
       <tuv lang="EN-US">
         <seg>I'll pretend I didn't hear that.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T065832Z">
-        <seg>最後のは聞かなかったことにするよ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T070322Z">
+        <seg>最後の冗談は聞かなかったことにするよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70839,8 +70841,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thanks for giving us a hand!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T065916Z" creationid="taman" creationdate="20190421T154751Z">
-        <seg>手を貸してくれてありがとな！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T070000Z" creationid="taman" creationdate="20190421T154751Z">
+        <seg>手助けしてくれてありがとな！</seg>
       </tuv>
     </tu>
     <tu>
