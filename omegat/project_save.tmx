@@ -34558,6 +34558,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I got taken by surprise...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090351Z" creationid="seto" creationdate="20190501T090351Z">
+        <seg>不意を討たれたんだ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I guess Ellinara sent you to check on me?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155515Z" creationid="taman" creationdate="20190414T155515Z">
@@ -36099,6 +36107,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T065324Z" creationid="pugnus" creationdate="20190429T065324Z">
         <seg>ここで止めなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think they're remnants that frayed off the Ancestral Memories.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090157Z" creationid="seto" creationdate="20190501T090157Z">
+        <seg>恐らくだが、父祖の記憶の残骸だろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37688,6 +37704,15 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T065309Z" creationid="taman" creationdate="20190501T065309Z">
         <seg>昔の俺様が経験したような悲劇を防げるなら進んでこの身を差し出すぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>あいうえお</note>
+      <tuv lang="EN-US">
+        <seg>If it wasn't for Roland...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090621Z" creationid="seto" creationdate="20190501T090621Z">
+        <seg>もしローランドはいなかったら…</seg>
       </tuv>
     </tu>
     <tu>
@@ -71100,6 +71125,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060618Z" creationid="Mad" creationdate="20190407T060618Z">
         <seg>ああ！？あのクソ野郎のブラックか。畜生、あいつは俺を追放しやがって……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That damned Lich worshipper must have already started to corrupt them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090319Z" creationid="seto" creationdate="20190501T090319Z">
+        <seg>あの忌々しいリッチ信者たちが瘴気に侵させたに違いない。</seg>
       </tuv>
     </tu>
     <tu>
