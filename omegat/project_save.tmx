@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12751,6 +12751,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T193927Z" creationid="totochan" creationdate="20190402T193927Z">
         <seg>最低でも一つの材料が作成を開始するために必要とされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At least one of you knows what they're doing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044310Z" creationid="urakata" creationdate="20190501T044310Z">
+        <seg>二人のうち少なくとも一人は自分のやることを分かっているわけですからね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36432,6 +36440,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023703Z" creationid="urakata" creationdate="20190428T023703Z">
         <seg>あなたに任せてよかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm glad Rissa sent you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044207Z" creationid="urakata" creationdate="20190501T044127Z">
+        <seg>リッサが送ったのがあなたで良かった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60835,6 +60851,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland told me how you bailed him out at the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044053Z" creationid="urakata" creationdate="20190501T044053Z">
+        <seg>ローランドがコンフラックス山であなたの助力を受けたことを話してくれました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland, a Lich?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054841Z" creationid="urakata" creationdate="20190427T054841Z">
@@ -63669,8 +63693,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She already added her entire spirit to the Ancestral Memories.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T125151Z" creationid="urakata" creationdate="20190430T125151Z">
-        <seg>彼女はもう父祖の記憶に魂すべてを捧げてしまった。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044004Z" creationid="urakata" creationdate="20190430T125151Z">
+        <seg>あの女はもう父祖の記憶に魂すべてを注ぎ込んでしまった。</seg>
       </tuv>
     </tu>
     <tu>
