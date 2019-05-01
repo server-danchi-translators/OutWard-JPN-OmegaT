@@ -56953,6 +56953,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>前後の文脈が飛びすぎて、pleaseの訳が不自然に聞こえる懸念あり。</note>
+      <tuv lang="EN-US">
+        <seg>Please, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T062125Z" creationid="taman" creationdate="20190501T062125Z">
+        <seg>お願い、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Please, come to Monsoon to settle this conflict.</seg>
       </tuv>
@@ -75645,6 +75654,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless we get the ghosts to lower their guard, I can’t purify the altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T062202Z" creationid="taman" creationdate="20190501T062202Z">
+        <seg>不死者たちの警戒をとかないと祭壇を浄化することはできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless you have something important to say to me, I have no time for anyone who serves that freak in the temple.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155020Z" creationid="taman" creationdate="20190414T155020Z">
@@ -83036,6 +83053,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="Light" creationdate="20190407T125052Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;ケルソネソスから南東&lt;/b&gt;&lt;/color&gt;に移動して、&lt;color=#00CCFF&gt;&lt;b&gt;Enmerkarの森を東に抜ける&lt;/b&gt;&lt;/color&gt;必要がある、そして最後に&lt;color=#00CCFF&gt;&lt;b&gt;アブラサール砂漠を南&lt;/b&gt;&lt;/color&gt;だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll have to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your own life into it&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T062313Z" creationid="taman" creationdate="20190501T062313Z">
+        <seg>あなたの &lt;color=#00CCFF&gt;&lt;b&gt;命を祭壇に注いでほしいの。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
