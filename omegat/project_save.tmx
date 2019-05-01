@@ -32767,6 +32767,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can I trust what I see if they're not my own eyes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041755Z" creationid="taman" creationdate="20190501T041755Z">
+        <seg>自分の目でもないHow can I trust what I see if they're not my own eyes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can he allow this?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T160718Z" creationid="taman" creationdate="20190410T155833Z">
@@ -46752,8 +46760,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>My eyes...</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T172727Z" creationid="taman" creationdate="20190430T172727Z">
-        <seg>私の腕が……</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041506Z" creationid="taman" creationdate="20190430T172727Z">
+        <seg>私の目が……</seg>
       </tuv>
     </tu>
     <tu>
@@ -72740,6 +72748,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T115043Z" creationid="pugnus" creationdate="20190422T115043Z">
         <seg>あなたがそれらと戦う方法を知っている限り、彼らは只の怪物と同じです。彼らは問題ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They're not mine anymore...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041510Z" creationid="taman" creationdate="20190501T041500Z">
+        <seg>これはもう私の目じゃない……</seg>
       </tuv>
     </tu>
     <tu>
