@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27340,6 +27340,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_01_B</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044312Z" creationid="urakata" creationdate="20190501T044312Z">
+        <seg>Gabriella_BC_Bones_01_B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044750Z" creationid="urakata" creationdate="20190501T044750Z">
+        <seg>Gabriella_BC_Bones_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -35272,6 +35288,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need you to prove you can stare death in the face and come out on top.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044748Z" creationid="urakata" creationdate="20190501T044748Z">
+        <seg>死の顔を拝んで、何よりも無事に出てくるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I never have paid much mind to politics.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T031859Z" creationid="rkmad" creationdate="20190405T031859Z">
@@ -37644,6 +37668,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T021139Z" creationid="pugnus" creationdate="20190425T021139Z">
         <seg>そなたが同盟の話をしたいのなら、たとえそれがそなたにとって危険を意味するとしても、我らに善意を持っていることを証明する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want me to accept this, you need to prove you can handle a serious fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044411Z" creationid="urakata" creationdate="20190501T044411Z">
+        <seg>私に首肯させたいのであれば、激しい先頭にも耐えうることを示さなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72283,6 +72315,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T065545Z" creationid="urakata" creationdate="20190430T065545Z">
         <seg>それさえ忘れなきゃ、いつだって希望はある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There's an &lt;color=#00CCFF&gt;&lt;b&gt;old temple&lt;/b&gt;&lt;/color&gt; that belonged to the Cabal of Winds in Enmerkar that's been a lair for Scourge Beasts since they emerged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T044946Z" creationid="urakata" creationdate="20190501T044946Z">
+        <seg>災厄の獣が出現してからねぐらにしている、風の一党の&lt;color=#00CCFF&gt;&lt;b&gt;古い寺院&lt;/b&gt;&lt;/color&gt;がエンメルカルにあります。</seg>
       </tuv>
     </tu>
     <tu>
