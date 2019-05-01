@@ -37535,6 +37535,17 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>このセリフがどこで登場するかによって訳が変わってくる。命を捧げろとエリナラに言われたあとなら、それを防ぐために、またミリアドが経験した瘴気がいたらした悲劇を回避する意味の二つの解釈がある。old myriadeだけでは判断できない。
+
+命を差し出す＝体がバラバラになるという結末にはならないだろうからやはり後者の解釈でよい。</note>
+      <tuv lang="EN-US">
+        <seg>If it prevents you from ending up like ol’ Myriade, I'll do it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T065309Z" creationid="taman" creationdate="20190501T065309Z">
+        <seg>昔の俺様が経験したような悲劇を防げるなら進んでこの身を差し出すぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>If it's not dealt with, those ghosts will lose what little humanity they have left!</seg>
       </tuv>
