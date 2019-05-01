@@ -8988,6 +8988,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I'll be back in about two days&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050351Z" creationid="urakata" creationdate="20190501T050351Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;二日で戻ります&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I'll see you back in Berg&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T070851Z" creationid="urakata" creationdate="20190430T070851Z">
@@ -23130,6 +23138,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you bring back proof?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050207Z" creationid="urakata" creationdate="20190501T050207Z">
+        <seg>証を持ってきたでしょうね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you kill that green horror yet?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045910Z" creationid="urakata" creationdate="20190501T045910Z">
@@ -27424,6 +27440,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045932Z" creationid="urakata" creationdate="20190501T045932Z">
         <seg>Gabriella_BC_Bones_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050146Z" creationid="urakata" creationdate="20190501T050146Z">
+        <seg>Gabriella_BC_Bones_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050222Z" creationid="urakata" creationdate="20190501T050222Z">
+        <seg>Gabriella_BC_Bones_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -35168,6 +35200,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I must have lost it...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050222Z" creationid="urakata" creationdate="20190501T050222Z">
+        <seg>どこかに落としてきたらしくて...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I must survive!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T132815Z" creationid="urakata" creationdate="20190430T132815Z">
@@ -36340,6 +36380,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133123Z" creationid="Light" creationdate="20190405T133123Z">
         <seg>僕はしばらく休める場所を探すよ、そして君の賛歌を歌いながら家に帰るさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll go check, myself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050331Z" creationid="urakata" creationdate="20190501T050331Z">
+        <seg>私自ら調べてきます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53834,10 +53882,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050207Z" creationid="urakata" creationdate="20190501T050207Z">
+        <seg>Player_Gabriella_BC_Bones_a_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Gabriella_BC_Bones_b_02</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045307Z" creationid="urakata" creationdate="20190501T045307Z">
         <seg>Player_Gabriella_BC_Bones_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_b_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050135Z" creationid="urakata" creationdate="20190501T050135Z">
+        <seg>Player_Gabriella_BC_Bones_b_06</seg>
       </tuv>
     </tu>
     <tu>
@@ -79618,6 +79682,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, the monster is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050146Z" creationid="urakata" creationdate="20190501T050146Z">
+        <seg>ええ、殺しましたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, we do, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225446Z" creationid="urakata" creationdate="20190426T225446Z">
@@ -80418,6 +80490,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T164802Z" creationid="hiru4" creationdate="20190403T062649Z">
         <seg>胃が受け付けませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You couldn't have brought back a chunk of the monster?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050310Z" creationid="urakata" creationdate="20190501T050310Z">
+        <seg>肉のかけらも持ち帰ってこなかったのですか?</seg>
       </tuv>
     </tu>
     <tu>
