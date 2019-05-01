@@ -28876,6 +28876,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go catch up with him and stop her!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094939Z" creationid="seto" creationdate="20190501T094939Z">
+        <seg>早く追いついて、彼女を止めてくれ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go chase your own dreams!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121443Z" creationid="Light" creationdate="20190407T121443Z">
@@ -29523,6 +29531,7 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>ホントに関門であってるか分からず</note>
       <tuv lang="EN-US">
         <seg>Good work on the barrier, [PlayerName].</seg>
       </tuv>
