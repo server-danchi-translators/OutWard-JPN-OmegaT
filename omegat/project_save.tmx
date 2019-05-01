@@ -8932,6 +8932,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Don’t forget to take Roland with you&lt;/b&gt;&lt;/color&gt;, he’s being tested too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045846Z" creationid="urakata" creationdate="20190501T045846Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;ローランドを連れて行くのを忘れないこと&lt;/b&gt;&lt;/color&gt;、彼も試練を受けているのですから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Follow them through the tunnel&lt;/b&gt;&lt;/color&gt;, and turn Enmerkar upside down until you bring &lt;color=#00CCFF&gt;&lt;b&gt;Rissa home safely&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T054825Z" creationid="pugnus" creationdate="20190415T054514Z">
@@ -17798,6 +17806,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come back here when that monster is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045809Z" creationid="urakata" creationdate="20190501T045809Z">
+        <seg>仕事を終えたら戻ってきなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come back in a few days, and I will let you know if there is more you can do.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031626Z" creationid="urakata" creationdate="20190428T031626Z">
@@ -23114,6 +23130,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you kill that green horror yet?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045910Z" creationid="urakata" creationdate="20190501T045910Z">
+        <seg>green horrorは殺しましたか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you see it?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T070111Z" creationid="taman" creationdate="20190410T065827Z">
@@ -27384,6 +27408,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045646Z" creationid="urakata" creationdate="20190501T045646Z">
         <seg>Gabriella_BC_Bones_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045848Z" creationid="urakata" creationdate="20190501T045848Z">
+        <seg>Gabriella_BC_Bones_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045932Z" creationid="urakata" creationdate="20190501T045932Z">
+        <seg>Gabriella_BC_Bones_07</seg>
       </tuv>
     </tu>
     <tu>
@@ -48696,6 +48736,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045918Z" creationid="urakata" creationdate="20190501T045918Z">
+        <seg>まだです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notably, the toxic effect of the Hallowed Marsh’s waters cannot be cured by this potion.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142038Z">
@@ -53774,6 +53822,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045136Z" creationid="urakata" creationdate="20190501T045136Z">
         <seg>Player_Gabriella_BC_Bones_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045910Z" creationid="urakata" creationdate="20190501T045910Z">
+        <seg>Player_Gabriella_BC_Bones_a_06</seg>
       </tuv>
     </tu>
     <tu>
@@ -77173,6 +77229,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, get on it already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045946Z" creationid="urakata" creationdate="20190501T045946Z">
+        <seg>そうですか、さっさと済ませなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, given the work you have to do to get that position, I’m sure he does.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T100510Z" creationid="pugnus" creationdate="20190417T100510Z">
@@ -77394,6 +77458,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T100140Z" creationid="pugnus" creationdate="20190417T100140Z">
         <seg>私たちは信頼している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re working on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045931Z" creationid="urakata" creationdate="20190501T045931Z">
+        <seg>準備中なんです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82515,6 +82587,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124727Z" creationid="urakata" creationdate="20190430T124727Z">
         <seg>実際には君だけが戦闘をしてたんだから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re wasting my precious investigation time!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050133Z" creationid="urakata" creationdate="20190501T050133Z">
+        <seg>報告することがないのなら、私の捜査の邪魔はしないで頂きたいものですね!</seg>
       </tuv>
     </tu>
     <tu>
