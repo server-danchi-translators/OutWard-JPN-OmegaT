@@ -34609,6 +34609,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found this on a hunter’s corpse not too far out from town.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115218Z" creationid="urakata" creationdate="20190501T115218Z">
+        <seg>街からそれほど遠くないことろで、狩人の亡骸からこれを見つけたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I gave those victims a home here, where they can live the lives that were stolen from them.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T075937Z" creationid="taman" creationdate="20190420T075631Z">
@@ -41926,10 +41934,26 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s still got his blood on it, but...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115239Z" creationid="urakata" creationdate="20190501T115239Z">
+        <seg>狩人の血が付いたまんまだけど...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s still hopeless, but at least I can survive like this, even if it’s just barely.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012427Z" creationid="seto" creationdate="20190413T012427Z">
         <seg>まだ絶望的だろうけど、でも少なくとも生きてくことはできる、かろうじでもよぉ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s still usable!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115252Z" creationid="urakata" creationdate="20190501T115252Z">
+        <seg>使えるんじゃないか!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56755,6 +56779,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_a_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115304Z" creationid="urakata" creationdate="20190501T115304Z">
+        <seg>Player_Roland_BC_Prequest_a_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Roland_BC_Prequest_b_03</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004043Z" creationid="seto" creationdate="20190413T004043Z">
@@ -56767,6 +56799,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011352Z" creationid="seto" creationdate="20190413T011352Z">
         <seg>Player_Roland_BC_Prequest_b_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Roland_BC_Prequest_b_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115319Z" creationid="urakata" creationdate="20190501T115319Z">
+        <seg>Player_Roland_BC_Prequest_b_14</seg>
       </tuv>
     </tu>
     <tu>
@@ -71211,6 +71251,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thanks, Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115319Z" creationid="urakata" creationdate="20190501T115319Z">
+        <seg>ありがとう、ローランド。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thanks, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T044342Z" creationid="urakata" creationdate="20190430T064354Z">
@@ -82460,6 +82508,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should look after yourself Roland, keep it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115348Z" creationid="urakata" creationdate="20190501T115348Z">
+        <seg>自分の身を守ることを考えなよ、ローランド。これは取っておけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should look for Trainers whenever you visit a new town.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063750Z">
@@ -87295,6 +87351,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011011Z" creationid="seto" creationdate="20190413T011011Z">
         <seg>もしかしたらな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">304_0</prop>
+      <tuv lang="EN-US">
+        <seg>Oh!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115257Z" creationid="urakata" creationdate="20190501T115106Z">
+        <seg>そうだ!</seg>
       </tuv>
     </tu>
     <tu>
