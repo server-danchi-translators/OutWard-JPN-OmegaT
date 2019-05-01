@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12699,6 +12699,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ask around.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051625Z" creationid="urakata" creationdate="20190501T051625Z">
+        <seg>聞いてみなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask innkeepers found in each city for information or directions.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114229Z">
@@ -23146,6 +23154,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you find Julius?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051743Z" creationid="urakata" creationdate="20190501T051743Z">
+        <seg>ユリウスはいましたか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you kill that green horror yet?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045910Z" creationid="urakata" creationdate="20190501T045910Z">
@@ -27504,6 +27520,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T051456Z" creationid="urakata" creationdate="20190501T051456Z">
         <seg>Gabriella_BC_Bones_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051636Z" creationid="urakata" creationdate="20190501T051636Z">
+        <seg>Gabriella_BC_Bones_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -32465,6 +32489,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T235048Z" creationid="setom" creationdate="20190402T165629Z">
         <seg>あいつはカジートだぜ、 [PlayerName]。 しかも船で生まれたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051858Z" creationid="urakata" creationdate="20190501T051858Z">
+        <seg>死にました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42568,8 +42600,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Julius has been &lt;color=#00CCFF&gt;&lt;b&gt;staying at the inn&lt;/b&gt;&lt;/color&gt; during his investigation, if you can’t find him out and about, he’ll probably be there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T051603Z" creationid="urakata" creationdate="20190501T051603Z">
-        <seg>ユリウスは捜査の間は&lt;color=#00CCFF&gt;&lt;b&gt;宿にいました&lt;/b&gt;&lt;/color&gt;。このあたりで見つからなけらば、宿にいるでしょう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051633Z" creationid="urakata" creationdate="20190501T051603Z">
+        <seg>ユリウスは捜査の間は&lt;color=#00CCFF&gt;&lt;b&gt;宿にいました&lt;/b&gt;&lt;/color&gt;。外で見つからなけらば、宿にいるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54022,6 +54054,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T051437Z" creationid="urakata" creationdate="20190501T051437Z">
         <seg>Player_Gabriella_BC_Bones_a_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051743Z" creationid="urakata" creationdate="20190501T051743Z">
+        <seg>Player_Gabriella_BC_Bones_a_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -70441,6 +70481,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank the Ancestors!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051908Z" creationid="urakata" creationdate="20190501T051655Z">
+        <seg>なんてこと!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you again, [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T132849Z" creationid="Light" creationdate="20190405T132849Z">
@@ -77130,6 +77178,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T051435Z" creationid="urakata" creationdate="20190501T051435Z">
         <seg>ネクロポリスで叙任の準備を行います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We're in a bad spot right now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T051733Z" creationid="urakata" creationdate="20190501T051733Z">
+        <seg>ここにとどまっていては危険です!</seg>
       </tuv>
     </tu>
     <tu>
