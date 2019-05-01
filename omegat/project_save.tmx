@@ -33753,6 +33753,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I almost didn’t make it to Berg in one piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115642Z" creationid="urakata" creationdate="20190501T115642Z">
+        <seg>危なくベルクに五体満足で帰れないところだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I already gave Rissa every silver I had.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T003231Z" creationid="seto" creationdate="20190413T003231Z">
@@ -35346,6 +35354,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know this should go to my Blood Price Payment, but... you lost your home because of me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115511Z" creationid="urakata" creationdate="20190501T115511Z">
+        <seg>ホントだったら血の代償の支払いに充ててるんだが...俺のせいで家がなくなったんだってな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know which one I'd rather do.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025915Z" creationid="weedssoul" creationdate="20190406T025915Z">
@@ -36094,6 +36110,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172702Z" creationid="magur0w" creationdate="20190404T172702Z">
         <seg>最初にやらなければならないことがまだある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I stumbled on a small cache of gems the other day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115426Z" creationid="urakata" creationdate="20190501T115426Z">
+        <seg>この間、宝石が隠してあるのを偶然見つけたんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41850,6 +41874,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T041748Z" creationid="weedssoul" creationdate="20190406T041652Z">
         <seg>奴らは帯電している。奴と戦うなら、稲妻の攻撃に耐性を持ったポーションや防具を使うんだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s good to see you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115620Z" creationid="urakata" creationdate="20190501T115620Z">
+        <seg>会えてよかった!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62589,6 +62621,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115349Z" creationid="urakata" creationdate="20190501T115349Z">
+        <seg>Roland_BC_Prequest_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115558Z" creationid="urakata" creationdate="20190501T115558Z">
+        <seg>Roland_BC_Prequest_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_19</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012442Z" creationid="seto" creationdate="20190413T012442Z">
@@ -82248,6 +82296,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190414T104356Z" creationid="seto" creationdate="20190410T101221Z">
         <seg>外に行く前に、最低でも&lt;color=#00CCFF&gt;&lt;b&gt;武器&lt;/b&gt;&lt;/color&gt;を装備して &lt;color=#00CCFF&gt;&lt;b&gt;waterskin&lt;/b&gt;&lt;/color&gt;と&lt;color=#00CCFF&gt;&lt;b&gt;バックパック&lt;/b&gt;&lt;/color&gt;を用意するんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need this more than me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115558Z" creationid="urakata" creationdate="20190501T115558Z">
+        <seg>俺より君の方が物入りだろう。</seg>
       </tuv>
     </tu>
     <tu>
