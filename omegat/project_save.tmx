@@ -31333,6 +31333,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Half of the runts I have to work with don't even know how to craft a simple Fire Rag!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T122225Z" creationid="urakata" creationdate="20190501T122225Z">
+        <seg>私が面倒を見なけりゃならん役立たずどもの半分は、単純なFire Ragの作り方すらわからんのだ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Half the ship came apart before I was able to run aground.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025723Z" creationid="weedssoul" creationdate="20190406T025723Z">
@@ -63359,6 +63367,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T122113Z" creationid="urakata" creationdate="20190501T122113Z">
+        <seg>Sagard_BC_Prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
@@ -65427,6 +65443,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021627Z" creationid="hiru4" creationdate="20190402T021627Z">
         <seg>通知を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show me that you can &lt;color=#00CCFF&gt;&lt;b&gt;make any kind of rag that will enhance a weapon&lt;/b&gt;&lt;/color&gt;, and maybe I'll consider lending my weight to Rissa's adoption announcement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T122820Z" creationid="urakata" creationdate="20190501T122820Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;何でもいいから、武器の効果を増すragを作って&lt;/b&gt;&lt;/color&gt;見せてくれ。できたら、リッサの養子縁組の宣伝に力を貸してやらんでもない。</seg>
       </tuv>
     </tu>
     <tu>
