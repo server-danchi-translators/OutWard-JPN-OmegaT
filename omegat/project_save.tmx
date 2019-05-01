@@ -11191,6 +11191,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, I'll spread the word that you have my approval.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121014Z" creationid="urakata" creationdate="20190501T121001Z">
+        <seg>よかろう、私が認めたということを広めてやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, I’ll go check on Cierzo and talk to Burac.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031429Z" creationid="urakata" creationdate="20190428T031429Z">
@@ -35117,6 +35125,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T014423Z">
         <seg>ベルクで会えることを願っています、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I hope to see you join our troops and show some of those runts what it means to be part of Berg’s army.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121230Z" creationid="urakata" creationdate="20190501T121230Z">
+        <seg>君がわが軍に入って、出来損ないどもに、ベルク軍の一員であるということがどういうことか、教えてくれることを楽しみにしているよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78590,6 +78606,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T024143Z" creationid="weedssoul" creationdate="20190406T024143Z">
         <seg>ああ、最悪だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, well, look at that, you're not completely useless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T120919Z" creationid="urakata" creationdate="20190501T120904Z">
+        <seg>おやおや、どうやら、全くの役立たずというわけでもないようだな。</seg>
       </tuv>
     </tu>
     <tu>
