@@ -42705,6 +42705,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m not too impressed, but I’ve been wrong before.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121445Z" creationid="urakata" creationdate="20190501T121326Z">
+        <seg>褒めるほどでもないが、私は以前判断をまちがったからな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m on duty and have no time for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T093646Z" creationid="pugnus" creationdate="20190417T093646Z">
@@ -57005,6 +57013,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Sagard_BC_Prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121231Z" creationid="urakata" creationdate="20190501T121231Z">
+        <seg>Player_Sagard_BC_Prequest_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_ShivSlave_Vendavel_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114900Z" creationid="seto" creationdate="20190404T114900Z">
@@ -63291,6 +63307,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T120838Z" creationid="urakata" creationdate="20190501T120838Z">
         <seg>Sagard_BC_Prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121233Z" creationid="urakata" creationdate="20190501T121233Z">
+        <seg>Sagard_BC_Prequest_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -82322,6 +82346,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132032Z" creationid="hiru4" creationdate="20190403T052652Z">
         <seg>スキルを学ぶためにエラット神聖伝道団のメンバーでなければなりません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must be the one Rissa wants to adopt into her bloodline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121338Z" creationid="urakata" creationdate="20190501T121306Z">
+        <seg>リッサが一族に迎え入れようとしているのは君か。</seg>
       </tuv>
     </tu>
     <tu>
