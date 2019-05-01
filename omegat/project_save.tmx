@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -79406,6 +79406,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T172512Z" creationid="magur0w" creationdate="20190404T171724Z">
         <seg>あぁ、すぐに会えるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I've purified the Corruption afflicting the altar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T045426Z" creationid="taman" creationdate="20190501T045426Z">
+        <seg>大丈夫よ、祭壇を侵していた瘴気は無事浄化できたわ。</seg>
       </tuv>
     </tu>
     <tu>
