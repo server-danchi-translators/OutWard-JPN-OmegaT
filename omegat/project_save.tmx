@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35352,6 +35352,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T051749Z" creationid="taman" creationdate="20190501T051749Z">
+        <seg>私には時間が必要なの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to be more efficient.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091942Z" creationid="rkmad" creationdate="20190405T091942Z">
@@ -36612,6 +36620,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll see you there… whenever I get there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T051711Z" creationid="taman" creationdate="20190501T051711Z">
+        <seg>向こうについたら……また会いましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll take any risk over being trapped here by my brother's idiocy.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121844Z" creationid="Light" creationdate="20190407T121844Z">
@@ -37096,6 +37112,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T043453Z" creationid="taman" creationdate="20190501T043453Z">
         <seg>私は……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm… going to &lt;color=#00CCFF&gt;&lt;b&gt;go back to Monsoon&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T051508Z" creationid="taman" creationdate="20190501T051508Z">
+        <seg>それじゃあ……&lt;color=#00CCFF&gt;&lt;b&gt;私はモンスーンに戻るね。&lt;/b&gt;&lt;/color&gt;, [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74168,6 +74192,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T005619Z" creationid="urakata" creationdate="20190427T005619Z">
         <seg>そこで、構成員の記憶を祭壇に納めて、「父祖の記憶」を作ったわけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time to get used to… the new me, I guess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T051858Z" creationid="taman" creationdate="20190501T051858Z">
+        <seg>慣れるまでの時間が、その……新しい私にね。</seg>
       </tuv>
     </tu>
     <tu>
