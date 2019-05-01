@@ -12176,6 +12176,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you going to make it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093550Z" creationid="seto" creationdate="20190501T093537Z">
+        <seg>良くなりそうですが？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you interested, or not?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051404Z" creationid="Light" creationdate="20190406T051404Z">
@@ -27675,6 +27683,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093538Z" creationid="seto" creationdate="20190501T093538Z">
+        <seg>Gabriella_BC_Bones_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -31864,6 +31880,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T172954Z" creationid="taman" creationdate="20190430T172954Z">
         <seg>彼が助けてくれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He sensed them coming and drove them off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093425Z" creationid="seto" creationdate="20190501T093420Z">
+        <seg>奴らが来るのを感じ取って、追い払ってくれたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54473,6 +54497,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_b_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093427Z" creationid="seto" creationdate="20190501T093427Z">
+        <seg>Player_Gabriella_BC_Bones_b_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Gabriella_BC_Mix_Legacy_a_02</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051937Z" creationid="seto" creationdate="20190406T051937Z">
@@ -72249,6 +72281,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023455Z">
         <seg>個人は、一族や部族の前では無力です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The injury isn't fatal but I won't be lifting a sword for a while.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093651Z" creationid="seto" creationdate="20190501T093651Z">
+        <seg>致命傷ではないようだ。だがしばらくは剣を持ち上げられんな。</seg>
       </tuv>
     </tu>
     <tu>
