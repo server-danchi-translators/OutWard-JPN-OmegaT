@@ -34859,8 +34859,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I have combat strategies to prepare for when those desert rats in Levant inevitably come after us.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T123434Z" creationid="urakata" creationdate="20190501T123434Z">
-        <seg>レバントの砂漠ネズミどもが来るはずだ。私は奴らを迎え撃つ戦術を練らねばならん。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123521Z" creationid="urakata" creationdate="20190501T123434Z">
+        <seg>レバントの砂漠ネズミどもが来るはずだ。私は奴らを迎え撃つ戦略を練らねばならん。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42050,6 +42050,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042625Z" creationid="Light" creationdate="20190406T042625Z">
         <seg>悪い癖よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s only a matter of time before they get too big for their bloomers and try to take what isn’t theirs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T124239Z" creationid="urakata" creationdate="20190501T124239Z">
+        <seg>食うに困って他人の物に手を出さざるを得ない規模になるのは時間の問題でしかない。</seg>
       </tuv>
     </tu>
     <tu>
