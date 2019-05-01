@@ -27275,6 +27275,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free time is hard to come by for a Chamberlord of such a big city and I intend to enjoy every moment I can snatch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T124531Z" creationid="urakata" creationdate="20190501T124531Z">
+        <seg>これだけ大きな街の議員をやっていると、自由時間というのは貴重でね。捻出できた時間をできうる限り楽しみたいんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fresh</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071746Z" creationid="hiru4" creationdate="20190402T071746Z">
@@ -63439,6 +63447,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T124240Z" creationid="urakata" creationdate="20190501T124240Z">
+        <seg>Sagard_BC_Prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
@@ -76493,6 +76509,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T062202Z" creationid="taman" creationdate="20190501T062202Z">
         <seg>不死者たちの警戒をとかないと祭壇を浄化することはできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless we’re under attack or you’re here to drink with me, I don’t have much to say to you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T124410Z" creationid="urakata" creationdate="20190501T124347Z">
+        <seg>どこかから攻撃を受けているとか、私と酒を酌み交わしたいというのでなければ、話すことはあまりないぞ。</seg>
       </tuv>
     </tu>
     <tu>
