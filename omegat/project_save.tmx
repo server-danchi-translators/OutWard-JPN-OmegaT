@@ -33551,6 +33551,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can't just casually shrug this off!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041443Z" creationid="taman" creationdate="20190501T041443Z">
+        <seg>そんな簡単に切り替えられないわよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can't just leave when it's in such pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T165205Z">
@@ -80272,6 +80280,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have body parts crafted by a literal god, Oliele.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041213Z" creationid="taman" creationdate="20190501T041213Z">
+        <seg>君の体は文字通り神によって作られているんだよオリエル。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have evidence of a plot against the Holy Mission?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T125326Z" creationid="pugnus" creationdate="20190409T050300Z">
@@ -80884,6 +80900,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084834Z" creationid="pugnus" creationdate="20190406T084834Z">
         <seg>あなたは&lt;color=#00CCFF&gt;&lt;b&gt;時々、訪問しなさい&lt;/b&gt;&lt;/color&gt;、彼らが必要とする手助けがあるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should be excited!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T041328Z" creationid="taman" creationdate="20190501T041328Z">
+        <seg>喜ばしいことじゃないか！</seg>
       </tuv>
     </tu>
     <tu>
