@@ -36646,8 +36646,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I'm not me anymore!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T043559Z" creationid="taman" creationdate="20190501T043559Z">
-        <seg>もう以前のような私じゃないのよ！I'm not me anymore!</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043614Z" creationid="taman" creationdate="20190501T043559Z">
+        <seg>もう以前のような私じゃないのよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -77370,6 +77370,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T182624Z" creationid="taman" creationdate="20190410T160615Z">
         <seg>私が信じると決めた神は本当に正しいの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What did he do to me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043854Z" creationid="taman" creationdate="20190501T043854Z">
+        <seg>一体、彼は私に何をしたというの？</seg>
       </tuv>
     </tu>
     <tu>
