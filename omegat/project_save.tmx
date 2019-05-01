@@ -24113,6 +24113,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074031Z" creationid="taman" creationdate="20190501T074031Z">
+        <seg>違う？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ehhh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074039Z" creationid="taman" creationdate="20190501T074039Z">
+        <seg>違うって？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Either find a safe spot or spend time on guard duty to lower the chances of ambush.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112035Z">
@@ -31132,6 +31148,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hah, thank you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074011Z" creationid="taman" creationdate="20190501T074011Z">
+        <seg>ふー、サンキュー。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hah, you think that now, but when they bleed the ground and kill the world, you realize you wrong!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T233404Z" creationid="pugnus" creationdate="20190424T233404Z">
@@ -31280,6 +31304,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012119Z" creationid="seto" creationdate="20190413T012119Z">
         <seg>待ってくれよ…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Har har, you're killing me, Myriade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074319Z" creationid="taman" creationdate="20190501T074319Z">
+        <seg>はは、冗談はそこまでだミリアド。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40788,6 +40820,15 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T100128Z" creationid="pugnus" creationdate="20190409T020923Z">
         <seg>空腹度、喉の渇き、睡眠欲求の進みを緩やかにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>どの文節からつながっているか不明なためゲーム内で一度要確認。</note>
+      <tuv lang="EN-US">
+        <seg>It was a JOINT effort!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074025Z" creationid="taman" creationdate="20190501T074025Z">
+        <seg>ナイスな協力プレイだったな！</seg>
       </tuv>
     </tu>
     <tu>
