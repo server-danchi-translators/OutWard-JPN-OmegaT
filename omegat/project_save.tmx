@@ -27643,6 +27643,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085441Z" creationid="seto" creationdate="20190501T085441Z">
+        <seg>Gabriella_BC_Bones_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -31862,8 +31870,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>He tried to shank Sagard Battleborn on account of a girl in red who said she really needed to get into the Necropolis, or her mistress would kill her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T085205Z" creationid="seto" creationdate="20190501T085205Z">
-        <seg>ネクロポリスに入るためには、赤い服の少女がどうしても必要だった。だから彼はサガード・バトルボーンを刃物で刺そうとしたんだ。そうでもしないと彼女は愛人に殺されてしまうからね。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085439Z" creationid="seto" creationdate="20190501T085205Z">
+        <seg>ネクロポリスに入るためには、赤い服の少女がどうしても必要だったんです。だから彼はサガード・バトルボーンを刃物で刺そうとしたんです。そうでもしないと彼女はご主人様に殺されてしまうから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32630,8 +32638,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>He’s dead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T051858Z" creationid="urakata" creationdate="20190501T051858Z">
-        <seg>死にました。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085236Z" creationid="urakata" creationdate="20190501T051858Z">
+        <seg>彼は死にましたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44249,6 +44257,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T123248Z" creationid="Light" creationdate="20190406T123248Z">
         <seg>鍛冶屋ラウドハンマー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lovely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085506Z" creationid="seto" creationdate="20190501T085506Z">
+        <seg>なんと愛らしい。</seg>
       </tuv>
     </tu>
     <tu>
