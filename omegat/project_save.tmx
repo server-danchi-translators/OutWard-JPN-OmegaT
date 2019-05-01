@@ -34857,6 +34857,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have combat strategies to prepare for when those desert rats in Levant inevitably come after us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123434Z" creationid="urakata" creationdate="20190501T123434Z">
+        <seg>レバントの砂漠ネズミどもが来るはずだ。私は奴らを迎え撃つ戦術を練らねばならん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have delayed for too long already.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T165429Z">
@@ -47606,6 +47614,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T151013Z" creationid="Horizon" creationdate="20190403T151013Z">
         <seg>前後に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move along.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123216Z" creationid="urakata" creationdate="20190501T123216Z">
+        <seg>立ち止まるな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63403,6 +63419,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T122823Z" creationid="urakata" creationdate="20190501T122823Z">
         <seg>Sagard_BC_Prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123056Z" creationid="urakata" creationdate="20190501T123056Z">
+        <seg>Sagard_BC_Prequest_06</seg>
       </tuv>
     </tu>
     <tu>
@@ -83980,6 +84004,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’ll need an alchemy set if you want to make it, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123054Z" creationid="urakata" creationdate="20190501T123054Z">
+        <seg>ただし、作るには錬金術キットが必要だぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’re a healer, right?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130043Z" creationid="weedssoul" creationdate="20190406T130043Z">
@@ -87667,6 +87699,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115257Z" creationid="urakata" creationdate="20190501T115106Z">
         <seg>そうだ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">390_0</prop>
+      <tuv lang="EN-US">
+        <seg>Move along.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T123238Z" creationid="urakata" creationdate="20190501T123238Z">
+        <seg>さあ行け。</seg>
       </tuv>
     </tu>
     <tu>
