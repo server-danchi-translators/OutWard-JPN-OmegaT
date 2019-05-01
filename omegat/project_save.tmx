@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32953,8 +32953,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>How can I trust what I see if they're not my own eyes?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T042852Z" creationid="taman" creationdate="20190501T041755Z">
-        <seg>他人の目を通して見たものなんかの何を信用しろというの？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T045455Z" creationid="taman" creationdate="20190501T041755Z">
+        <seg>他人の目を通して見たものなんかの何を信用できるというの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -70520,6 +70520,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>文節41でmass of corruptionと言っているので、massは瘴気を指していると思うがfleshyというのがよくわからない。</note>
+      <tuv lang="EN-US">
+        <seg>That fleshy mass is no longer malignant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T050611Z" creationid="taman" creationdate="20190501T045846Z">
+        <seg>あの肥大した瘴気が悪影響を及ぼすことはもうないわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>That gives you &lt;color=#00CCFF&gt;&lt;b&gt;5 days to pay back all 150 silver coins&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
@@ -77013,6 +77022,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We've averted the crisis for now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T050652Z" creationid="taman" creationdate="20190501T050652Z">
+        <seg>とりあえず最悪のケースは回避できたと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We've been adding to it ever since.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T005650Z" creationid="urakata" creationdate="20190427T005650Z">
@@ -77610,6 +77627,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T053948Z" creationid="pugnus" creationdate="20190429T053554Z">
         <seg>スカージ、災厄についてはどうでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What about when the Corruption builds up again?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T050956Z" creationid="taman" creationdate="20190501T050956Z">
+        <seg>また瘴気復活するようなことがあったらどうなる？</seg>
       </tuv>
     </tu>
     <tu>
@@ -79684,8 +79709,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yes, I've purified the Corruption afflicting the altar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T045426Z" creationid="taman" creationdate="20190501T045426Z">
-        <seg>大丈夫よ、祭壇を侵していた瘴気は無事浄化できたわ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T045856Z" creationid="taman" creationdate="20190501T045426Z">
+        <seg>大丈夫よ、祭壇を侵していた瘴気は無事浄化できたから。</seg>
       </tuv>
     </tu>
     <tu>
