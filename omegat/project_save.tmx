@@ -36631,6 +36631,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'll keep my fellow undead on a tight leash from now on.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074756Z" creationid="taman" creationdate="20190501T074535Z">
+        <seg>これからは不死者たちを首輪できつくしばっておくさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'll leave you to your work, thanks for the chat.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T042257Z">
@@ -69207,8 +69215,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop!</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T074509Z" creationid="taman" creationdate="20190501T074344Z">
-        <seg>真面目に！</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074623Z" creationid="taman" creationdate="20190501T074344Z">
+        <seg>冗談はやめてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -80429,6 +80437,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T022503Z" creationid="pugnus" creationdate="20190425T022503Z">
         <seg>そなたは珍しい根を持ってきたか！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You ain’t no fun.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T074638Z" creationid="taman" creationdate="20190501T074527Z">
+        <seg>ジョークが分からないやつだな。</seg>
       </tuv>
     </tu>
     <tu>
