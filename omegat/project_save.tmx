@@ -27699,6 +27699,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094711Z" creationid="seto" creationdate="20190501T094711Z">
+        <seg>Gabriella_BC_Bones_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -29512,6 +29520,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021126Z" creationid="pugnus" creationdate="20190422T021126Z">
         <seg>幸運をいのるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good work on the barrier, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094740Z" creationid="seto" creationdate="20190501T094740Z">
+        <seg>関門ではいい仕事をしてくれたな、[PlayerName].</seg>
       </tuv>
     </tu>
     <tu>
@@ -61843,6 +61859,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland went up ahead to &lt;color=#00CCFF&gt;&lt;b&gt;deal with the altar and our unwelcome guest&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094922Z" creationid="seto" creationdate="20190501T094922Z">
+        <seg>ローランドなら&lt;color=#00CCFF&gt;&lt;b&gt;祭壇と、歓迎されざる客人に対処する&lt;/b&gt;&lt;/color&gt;ため先に進んだぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland, a Lich?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054841Z" creationid="urakata" creationdate="20190427T054841Z">
@@ -72270,8 +72294,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The ghosts are in a blind fury and sealed the way deeper.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T094400Z" creationid="seto" creationdate="20190501T094140Z">
-        <seg>亡霊たちは激しい怒りを抱きながら、より深いところに封印されている。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094704Z" creationid="seto" creationdate="20190501T094140Z">
+        <seg>亡霊たちはより深いところに封印され、怒りで盲目的になっている。</seg>
       </tuv>
     </tu>
     <tu>
