@@ -42707,8 +42707,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m not too impressed, but I’ve been wrong before.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T121445Z" creationid="urakata" creationdate="20190501T121326Z">
-        <seg>褒めるほどでもないが、私は以前判断をまちがったからな。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121730Z" creationid="urakata" creationdate="20190501T121326Z">
+        <seg>大した器とも思えないが、私は以前判断をまちがったからな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42789,6 +42789,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123939Z" creationid="urakata" creationdate="20190406T123939Z">
         <seg>これが最後の出資だし、スラムで何かできるようになるはずだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m the Chamberlord of Berg and handle the Collective’s armies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121830Z" creationid="urakata" creationdate="20190501T121830Z">
+        <seg>私はベルクの議員かつ共同体軍の統括者だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63319,6 +63327,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121523Z" creationid="urakata" creationdate="20190501T121523Z">
+        <seg>Sagard_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
@@ -65996,6 +66012,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T120221Z">
         <seg>お金はあるかい？なんでも揃ってるよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So long as you’re working with the Blue Chamber’s goals in mind, we shouldn't have a problem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T121528Z" creationid="urakata" creationdate="20190501T121520Z">
+        <seg>君が青の議会の目標を念頭に置いて働く限りは、何も問題はないさ。</seg>
       </tuv>
     </tu>
     <tu>
