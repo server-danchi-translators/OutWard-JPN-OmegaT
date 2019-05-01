@@ -71604,6 +71604,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The altar we’ve bound our memories to is smothered by the Corruption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T063324Z" creationid="taman" creationdate="20190501T063324Z">
+        <seg>祭壇に刻まれた俺たちの記憶は瘴気に飲み込まれちまってる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The alternative skill has already been learned.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132010Z" creationid="hiru4" creationdate="20190403T052451Z">
