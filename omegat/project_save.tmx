@@ -12528,6 +12528,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As soon as we got this far, ghosts started pouring out from the bottom of the necropolis.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090134Z" creationid="seto" creationdate="20190501T090134Z">
+        <seg>ここにきてすぐに、ネクロポリスの底から霊たちが湧き出て来たんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As such, I wield much power within the town of Cierzo, but only so long as my decisions are accepted.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T033112Z" creationid="rkmad" creationdate="20190405T033037Z">
@@ -27651,6 +27659,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085946Z" creationid="seto" creationdate="20190501T085946Z">
+        <seg>Gabriella_BC_Bones_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -33888,8 +33904,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I can see where that story is going.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T085544Z" creationid="seto" creationdate="20190501T085541Z">
-        <seg>その話のオチは分かるぞ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085840Z" creationid="seto" creationdate="20190501T085541Z">
+        <seg>その話の流れはもう分かるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54376,6 +54392,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085913Z" creationid="seto" creationdate="20190501T085913Z">
+        <seg>Player_Gabriella_BC_Bones_a_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Gabriella_BC_Bones_b_02</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045307Z" creationid="urakata" creationdate="20190501T045307Z">
@@ -71970,6 +71994,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The damn fool let himself be manipulated by the enemy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085912Z" creationid="seto" creationdate="20190501T085912Z">
+        <seg>その愚か者は敵に操られていたのだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The delicious fish, the sea breeze!</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T065952Z" creationid="weedssoul" creationdate="20190406T065952Z">
@@ -78734,6 +78766,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What happened to you two?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085928Z" creationid="seto" creationdate="20190501T085928Z">
+        <seg>二人に何があったのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What happened to you?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T092339Z" creationid="pugnus" creationdate="20190417T082708Z">
@@ -83435,6 +83475,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031507Z" creationid="urakata" creationdate="20190428T031507Z">
         <seg>とりあえず自由にしていい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re injured.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085945Z" creationid="seto" creationdate="20190501T085945Z">
+        <seg>怪我をしているみたいですが。</seg>
       </tuv>
     </tu>
     <tu>
