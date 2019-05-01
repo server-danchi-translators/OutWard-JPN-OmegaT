@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36080,6 +36080,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want to be alone, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061451Z" creationid="taman" creationdate="20190501T061451Z">
+        <seg>一人になりたいの、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want to be certain before hostilities start and my information network is shut off from me.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T055408Z" creationid="pugnus" creationdate="20190415T055341Z">
@@ -41994,6 +42002,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071522Z" creationid="urakata" creationdate="20190430T071522Z">
         <seg>訓練をするしかないな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m going to need you to lay your hands on the altar and focus your thoughts on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061653Z" creationid="taman" creationdate="20190501T061653Z">
+        <seg>両手を祭壇に重ねて意識を集中させてほしいの。</seg>
       </tuv>
     </tu>
     <tu>
