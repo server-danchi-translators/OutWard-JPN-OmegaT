@@ -27667,6 +27667,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090641Z" creationid="seto" creationdate="20190501T090641Z">
+        <seg>Gabriella_BC_Bones_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -37707,7 +37715,6 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
     </tu>
     <tu>
-      <note>あいうえお</note>
       <tuv lang="EN-US">
         <seg>If it wasn't for Roland...</seg>
       </tuv>
@@ -54421,6 +54428,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190501T085913Z" creationid="seto" creationdate="20190501T085913Z">
         <seg>Player_Gabriella_BC_Bones_a_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090622Z" creationid="seto" creationdate="20190501T090622Z">
+        <seg>Player_Gabriella_BC_Bones_a_17</seg>
       </tuv>
     </tu>
     <tu>
@@ -76617,6 +76632,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T134232Z" creationid="urakata" creationdate="20190406T134232Z">
         <seg>塔の機構によって材料がたまるまで1週間待つ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wait, Roland saved you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T090640Z" creationid="seto" creationdate="20190501T090640Z">
+        <seg>待ってくれ、ローランドがあなたを助けたのか？</seg>
       </tuv>
     </tu>
     <tu>
