@@ -27691,6 +27691,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093720Z" creationid="seto" creationdate="20190501T093720Z">
+        <seg>Gabriella_BC_Bones_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -37074,6 +37082,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T070833Z" creationid="urakata" creationdate="20190430T070833Z">
         <seg>一息ついたらガブリエラに報告に行くよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm going to have to count on you and Roland to stop her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T093719Z" creationid="seto" creationdate="20190501T093719Z">
+        <seg>君とローランドが彼女を止めるのを当てにしておくよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72232,6 +72248,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T095334Z" creationid="はぐくみ会" creationdate="20190403T091808Z">
         <seg>幽霊は私の腕を離し、向きを変え、昔はそこにあったであろう「扉」を閉める動作をし、空中で「鍵」をひねるように動かす。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ghosts are in a blind fury and sealed the way deeper.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T094140Z" creationid="seto" creationdate="20190501T094140Z">
+        <seg>亡霊たちは激しい怒りを抱きながら、より深いところに封印されている。。</seg>
       </tuv>
     </tu>
     <tu>
