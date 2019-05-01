@@ -27460,6 +27460,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050352Z" creationid="urakata" creationdate="20190501T050352Z">
+        <seg>Gabriella_BC_Bones_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050607Z" creationid="urakata" creationdate="20190501T050607Z">
+        <seg>Gabriella_BC_Bones_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -39932,6 +39948,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T141052Z" creationid="Mad" creationdate="20190407T141052Z">
         <seg>我々に何か、あなたの助けになれる事がございますかな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is this enough to convince you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050606Z" creationid="urakata" creationdate="20190501T050606Z">
+        <seg>これでよろしいですか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53906,6 +53930,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_b_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050536Z" creationid="urakata" creationdate="20190501T050536Z">
+        <seg>Player_Gabriella_BC_Bones_b_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Gabriella_BC_Mix_Legacy_a_02</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051937Z" creationid="seto" creationdate="20190406T051937Z">
@@ -56886,6 +56918,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
         <seg>[InputAction_LockToggle]でカメラを敵にロックでき、攻撃がより当てやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pretty solid work, for both of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050534Z" creationid="urakata" creationdate="20190501T050534Z">
+        <seg>ふたりとも、すばらしい仕事ぶりです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77253,6 +77293,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, I've confirmed that thing is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050413Z" creationid="urakata" creationdate="20190501T050413Z">
+        <seg>さて、あれが死んでいることは確認できました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, Roland did.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102632Z" creationid="urakata" creationdate="20190427T055237Z">
@@ -79546,6 +79594,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yeah, here’s a piece of its chitin.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050558Z" creationid="urakata" creationdate="20190501T050558Z">
+        <seg>ええ、これはキチン質のかけらです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yeah, it was my fault the boat got wrecked.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130330Z" creationid="Light" creationdate="20190407T130330Z">
@@ -79686,6 +79742,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T050146Z" creationid="urakata" creationdate="20190501T050146Z">
         <seg>ええ、殺しましたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, this is from that monster alright, I can smell the blood on it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050651Z" creationid="urakata" creationdate="20190501T050651Z">
+        <seg>よろしい、これはあの怪物のものです。血の匂いで分かります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81109,6 +81173,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T130821Z" creationid="はぐくみ会" creationdate="20190404T004705Z">
         <seg>命が大事なら、今すぐ逃げた方がいい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must have done a bang up job on the thing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T050847Z" creationid="urakata" creationdate="20190501T050847Z">
+        <seg>アレに対して、目にもの見せるいい仕事をしたようですね。</seg>
       </tuv>
     </tu>
     <tu>
