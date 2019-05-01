@@ -15093,6 +15093,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bone_Lich_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053814Z" creationid="seto" creationdate="20190501T053814Z">
+        <seg>Bone_Lich_BC_Bones_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bony spurs harvested from lesser horrors, used to craft weapons.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T044046Z">
@@ -76631,8 +76639,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We are Whispering Bones.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T053711Z" creationid="seto" creationdate="20190501T053711Z">
-        <seg>我らは囁き骸骨</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053821Z" creationid="seto" creationdate="20190501T053711Z">
+        <seg>我らは囁き骸骨…</seg>
       </tuv>
     </tu>
     <tu>
@@ -77178,6 +77186,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173400Z" creationid="magur0w" creationdate="20190404T173400Z">
         <seg>まだ時間はあるが、あまりぐずぐずするなよ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We thank you for saving us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053808Z" creationid="seto" creationdate="20190501T053808Z">
+        <seg>救ってくれて…礼を言う</seg>
       </tuv>
     </tu>
     <tu>
@@ -79027,8 +79043,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Whispering Bones</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T053653Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
-        <seg>ささやく骸骨</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053717Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
+        <seg>囁き骸骨</seg>
       </tuv>
     </tu>
     <tu>
