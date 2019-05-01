@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31856,6 +31856,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021923Z" creationid="pugnus" creationdate="20190422T021923Z">
         <seg>彼は同盟を交渉するために、私に数日で戻ってくるように言いました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He tried to shank Sagard Battleborn on account of a girl in red who said she really needed to get into the Necropolis, or her mistress would kill her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T085205Z" creationid="seto" creationdate="20190501T085205Z">
+        <seg>ネクロポリスに入るためには、赤い服の少女がどうしても必要だった。だから彼はサガード・バトルボーンを刃物で刺そうとしたんだ。そうでもしないと彼女は愛人に殺されてしまうからね。</seg>
       </tuv>
     </tu>
     <tu>
