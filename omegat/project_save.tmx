@@ -9044,6 +9044,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Stand back&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061906Z" creationid="taman" creationdate="20190501T061906Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;後ろに下がって&lt;/b&gt;&lt;/color&gt;、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Take the road to the south east of the Chersonese&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="weedssoul" creationdate="20190406T014531Z">
@@ -11171,6 +11179,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T064036Z">
         <seg>オーケー、町の外に出してやろう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alright, I’ll start the spell.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061849Z" creationid="taman" creationdate="20190501T061849Z">
+        <seg>準備はいい、魔法を唱えるわよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26172,6 +26188,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Far back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061916Z" creationid="taman" creationdate="20190501T061916Z">
+        <seg>もっと後ろまで。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Farewell.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T163641Z">
@@ -37404,6 +37428,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T155430Z">
         <seg>我々がみなそのように身勝手に振る舞っていたら、部族ではいられないでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If both of us work on it it’s far more likely that things will go smoothly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T061830Z" creationid="taman" creationdate="20190501T061830Z">
+        <seg>二人で力を合わせれば祭壇を浄化できる確率が一層、高くなるわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72996,6 +73028,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T134642Z" creationid="setom" creationdate="20190402T134624Z">
         <seg>お前が渡ってきたあの壊れた橋のそばに水が湧いてる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s no telling what the Corruption will do once the spell hits it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T062012Z" creationid="taman" creationdate="20190501T062012Z">
+        <seg>浄化魔法がぶつかったら瘴気がどうなるか私にも予想がつかないわ。</seg>
       </tuv>
     </tu>
     <tu>
