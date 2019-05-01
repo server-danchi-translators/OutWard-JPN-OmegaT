@@ -55250,6 +55250,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Religion_BC_Giants_b_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052440Z" creationid="seto" creationdate="20190501T052440Z">
+        <seg>Player_Religion_BC_Giants_b_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Religion_BC_Giants_c_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052448Z" creationid="seto" creationdate="20190501T052448Z">
+        <seg>Player_Religion_BC_Giants_c_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Rissa_BC_Bones_a_04</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225055Z" creationid="urakata" creationdate="20190426T225055Z">
@@ -58367,6 +58383,38 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T224245Z" creationid="urakata" creationdate="20190426T224245Z">
         <seg>Religion_BC_Giants_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052443Z" creationid="seto" creationdate="20190501T052443Z">
+        <seg>Religion_BC_Giants_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052445Z" creationid="seto" creationdate="20190501T052445Z">
+        <seg>Religion_BC_Giants_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052450Z" creationid="seto" creationdate="20190501T052450Z">
+        <seg>Religion_BC_Giants_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Religion_BC_Giants_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052454Z" creationid="seto" creationdate="20190501T052454Z">
+        <seg>Religion_BC_Giants_09</seg>
       </tuv>
     </tu>
     <tu>
@@ -85682,8 +85730,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>value</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T021610Z" creationid="setom" creationdate="20190401T034004Z">
-        <seg>値</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T052502Z" creationid="setom" creationdate="20190401T034004Z">
+        <seg>value</seg>
       </tuv>
     </tu>
     <tu>
