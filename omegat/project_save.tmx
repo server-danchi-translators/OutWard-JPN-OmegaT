@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35880,6 +35880,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I want you to &lt;color=#00CCFF&gt;&lt;b&gt;go kill it&lt;/b&gt;&lt;/color&gt; for me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045134Z" creationid="urakata" creationdate="20190501T045134Z">
+        <seg>あなたには&lt;color=#00CCFF&gt;&lt;b&gt;あれを殺して&lt;/b&gt;&lt;/color&gt;頂きたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I want you to &lt;color=#00CCFF&gt;&lt;b&gt;go there and burn a Greasy Fern at the altar atop the hill beside it&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022210Z" creationid="taman" creationdate="20190409T064844Z">
@@ -53694,6 +53702,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T092949Z" creationid="seto" creationdate="20190418T092949Z">
         <seg>Player_Elinara_HM_Questions_c_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Gabriella_BC_Bones_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045136Z" creationid="urakata" creationdate="20190501T045136Z">
+        <seg>Player_Gabriella_BC_Bones_a_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -71566,6 +71582,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The other day I saw a &lt;color=#00CCFF&gt;&lt;b&gt;distinctive bright green shell horror&lt;/b&gt;&lt;/color&gt; enter the place.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045101Z" creationid="urakata" creationdate="20190501T045101Z">
+        <seg>以前あそこに行ったとき、&lt;color=#00CCFF&gt;&lt;b&gt;目立つ明るい緑のshell horror&lt;/b&gt;&lt;/color&gt;を見かけました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The pointy end goes into the bad guys.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063431Z" creationid="urakata" creationdate="20190430T063431Z">
@@ -81400,6 +81424,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T092709Z" creationid="pugnus" creationdate="20190422T092709Z">
         <seg>そなたは青の議会の法律に、我らを従わせたいのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want us to slay a shell horror?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045153Z" creationid="urakata" creationdate="20190501T045153Z">
+        <seg>shell horrorを殺す?</seg>
       </tuv>
     </tu>
     <tu>
