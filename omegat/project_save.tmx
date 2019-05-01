@@ -33815,6 +33815,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't know, but it looks powerful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043006Z" creationid="taman" creationdate="20190501T043006Z">
+        <seg>わからない、でも君の体からはすごい力を感じるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't know.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T110853Z" creationid="urakata" creationdate="20190428T110853Z">
@@ -70324,6 +70332,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T040846Z" creationid="taman" creationdate="20190501T040846Z">
         <seg>その事実だけで十分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's an amazing blessing he gave you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T043405Z" creationid="taman" creationdate="20190501T043405Z">
+        <seg>君はエラットから偉大な祝福を与えられたのじゃないのかい。</seg>
       </tuv>
     </tu>
     <tu>
