@@ -33823,6 +33823,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don't know anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T044527Z" creationid="taman" creationdate="20190501T044527Z">
+        <seg>何もわからない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don't know how long I have...</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T135115Z" creationid="Light" creationdate="20190405T135115Z">
@@ -39708,6 +39716,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T063954Z" creationid="pugnus" creationdate="20190429T063954Z">
         <seg>それは、脅しか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the altar taken care of?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T044742Z" creationid="taman" creationdate="20190501T044742Z">
+        <seg>ところで祭壇は浄化されたのだろうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -71482,6 +71498,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T104831Z" creationid="pugnus" creationdate="20190425T104831Z">
         <seg>巨大社会全体で、絶対に許されることの無い唯一の犯罪がある。シルク織り職人や磁器職人の殺人だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only thing I can do is just... keep moving forward, I guess.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T044720Z" creationid="taman" creationdate="20190501T044720Z">
+        <seg>できることは……進み続けることだけ、だから。</seg>
       </tuv>
     </tu>
     <tu>
