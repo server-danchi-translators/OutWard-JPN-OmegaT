@@ -42024,8 +42024,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’s still hopeless, but at least I can survive like this, even if it’s just barely.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190413T012427Z" creationid="seto" creationdate="20190413T012427Z">
-        <seg>まだ絶望的だろうけど、でも少なくとも生きてくことはできる、かろうじでもよぉ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T120742Z" creationid="seto" creationdate="20190413T012427Z">
+        <seg>まだ絶望的だろうけど、でも少なくとも生きてくことはできる、かろうじてでもよぉ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63267,6 +63267,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T052633Z" creationid="seto" creationdate="20190406T052633Z">
         <seg>Sagard_BC_Mix_Legacy_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T120838Z" creationid="urakata" creationdate="20190501T120838Z">
+        <seg>Sagard_BC_Prequest_01</seg>
       </tuv>
     </tu>
     <tu>
