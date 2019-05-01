@@ -24091,6 +24091,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elatt saved me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T040719Z" creationid="taman" creationdate="20190501T040719Z">
+        <seg>エラットが私を救ってくれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt told me it wasn't my time...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T172820Z" creationid="taman" creationdate="20190430T172820Z">
@@ -35444,6 +35452,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124533Z" creationid="urakata" creationdate="20190430T124533Z">
         <seg>調子に乗った...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I shouldn't worry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T040705Z" creationid="taman" creationdate="20190501T040705Z">
+        <seg>何も心配することはない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70268,6 +70284,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T050823Z">
         <seg>秘密よ 、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's all that matters.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190501T040846Z" creationid="taman" creationdate="20190501T040846Z">
+        <seg>その事実だけで十分。</seg>
       </tuv>
     </tu>
     <tu>
