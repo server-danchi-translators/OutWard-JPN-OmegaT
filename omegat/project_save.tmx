@@ -27380,6 +27380,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045646Z" creationid="urakata" creationdate="20190501T045646Z">
+        <seg>Gabriella_BC_Bones_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -34595,6 +34603,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085534Z" creationid="pugnus" creationdate="20190422T085534Z">
         <seg>議論が新たな理解につながることを願う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I hope for your sake it's not the former.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045638Z" creationid="urakata" creationdate="20190501T045638Z">
+        <seg>前者でないことを祈ります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71026,6 +71042,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Temple is up &lt;color=#00CCFF&gt;&lt;b&gt;on the mountain in the South-West&lt;/b&gt;&lt;/color&gt; of Enmerkar forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045738Z" creationid="urakata" creationdate="20190501T045738Z">
+        <seg>寺院はエンメルカルの森の&lt;color=#00CCFF&gt;&lt;b&gt;南西の山の上&lt;/b&gt;&lt;/color&gt;です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Vigils are a necessary evil.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032317Z" creationid="taman" creationdate="20190413T062413Z">
@@ -81524,6 +81548,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will know it when you see it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045749Z" creationid="urakata" creationdate="20190501T045749Z">
+        <seg>見ればわかるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will likely be following the missionary's path.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084617Z" creationid="rkmad" creationdate="20190408T084617Z">
@@ -81783,8 +81815,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You're either foolishly overconfident, or you've been up to things even I haven't heard about.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T045438Z" creationid="urakata" creationdate="20190501T045438Z">
-        <seg>自信過剰か、</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T045607Z" creationid="urakata" creationdate="20190501T045438Z">
+        <seg>自信過剰の愚者か、私が聞いていない戦闘の経験があるのでしょう。</seg>
       </tuv>
     </tu>
     <tu>
