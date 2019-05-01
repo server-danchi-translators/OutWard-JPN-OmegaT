@@ -12185,6 +12185,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are... you still in there?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053257Z" creationid="seto" creationdate="20190501T053257Z">
+        <seg>ま…まだそこにいるのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Aren't you?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T182844Z" creationid="taman" creationdate="20190410T182844Z">
@@ -15073,6 +15081,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112200Z">
         <seg>水を煮たり生肉を炙ったりするだけならば、必要ありません。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bone_Lich_BC_Bones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053305Z" creationid="seto" creationdate="20190501T053305Z">
+        <seg>Bone_Lich_BC_Bones_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -53426,6 +53442,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Bone_Lich_BC_Bones_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053150Z" creationid="seto" creationdate="20190501T053150Z">
+        <seg>Player_Bone_Lich_BC_Bones_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Burac_TutorialGate_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T100853Z" creationid="seto" creationdate="20190410T100853Z">
@@ -62511,6 +62535,46 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102533Z" creationid="seto" creationdate="20190405T102533Z">
         <seg>Sagard_BC_ANC_PEACE_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053303Z" creationid="seto" creationdate="20190501T053303Z">
+        <seg>Sagard_BC_Bones_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053303Z" creationid="seto" creationdate="20190501T053303Z">
+        <seg>Sagard_BC_Bones_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053304Z" creationid="seto" creationdate="20190501T053304Z">
+        <seg>Sagard_BC_Bones_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053304Z" creationid="seto" creationdate="20190501T053304Z">
+        <seg>Sagard_BC_Bones_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053305Z" creationid="seto" creationdate="20190501T053305Z">
+        <seg>Sagard_BC_Bones_11</seg>
       </tuv>
     </tu>
     <tu>
@@ -77286,6 +77350,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053320Z" creationid="seto" creationdate="20190501T053320Z">
+        <seg>我らは…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weak attack that excels at knocking back enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T132941Z" creationid="rkmad" creationdate="20190403T065550Z">
@@ -86333,6 +86405,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124451Z" creationid="urakata" creationdate="20190430T124451Z">
         <seg>俺…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Blue_Chamber_Questline.xml</prop>
+      <prop type="id">1454_0</prop>
+      <tuv lang="EN-US">
+        <seg>I...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053337Z" creationid="seto" creationdate="20190501T053337Z">
+        <seg>我は……</seg>
       </tuv>
     </tu>
     <tu>
