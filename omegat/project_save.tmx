@@ -76629,6 +76629,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We are Whispering Bones.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053711Z" creationid="seto" creationdate="20190501T053711Z">
+        <seg>我らは囁き骸骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We are all bound together, no matter our origins or our chosen path.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023150Z">
@@ -79019,8 +79027,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Whispering Bones</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115953Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
-        <seg>ささやく骨</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053653Z" creationid="Gaiden Shinji" creationdate="20190404T115953Z">
+        <seg>ささやく骸骨</seg>
       </tuv>
     </tu>
     <tu>
@@ -86413,8 +86421,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>I...</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190501T053337Z" creationid="seto" creationdate="20190501T053337Z">
-        <seg>我は……</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190501T053518Z" creationid="seto" creationdate="20190501T053337Z">
+        <seg>我は...</seg>
       </tuv>
     </tu>
     <tu>
