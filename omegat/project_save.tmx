@@ -15868,6 +15868,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But I’d rather practice fighting than rely on these tricky things.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T120014Z" creationid="urakata" creationdate="20190501T120014Z">
+        <seg>でも、罠を仕掛けるよりは、戦闘訓練をしたいなあ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But even without them, I see our chances improving considerably.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T020028Z" creationid="pugnus" creationdate="20190422T020028Z">
@@ -31725,6 +31733,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He gave me some stuff to make traps and told me to use them and my brain if I’m not good at fighting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115909Z" creationid="urakata" creationdate="20190501T115909Z">
+        <seg>それに、罠を仕掛けるのにいる物をくれて、腕に自信がなけりゃ、罠と頭を使えって教えてくれたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He has agreed.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013105Z" creationid="urakata" creationdate="20190427T013105Z">
@@ -37720,6 +37736,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T010029Z" creationid="pugnus" creationdate="20190406T090347Z">
         <seg>嫌な予感がする。きっと何か問題が起こる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a passing hunter hadn’t saved me...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115733Z" creationid="urakata" creationdate="20190501T115733Z">
+        <seg>通りすがりの狩人が助けてくれなかったら...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62637,6 +62661,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roland_BC_Prequest_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115734Z" creationid="urakata" creationdate="20190501T115734Z">
+        <seg>Roland_BC_Prequest_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Roland_BC_Prequest_19</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012442Z" creationid="seto" creationdate="20190413T012442Z">
@@ -66082,6 +66114,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T061200Z" creationid="weedssoul" creationdate="20190406T061200Z">
         <seg>剣や爪以外の攻撃をしてくる敵もいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some metal golem dog things nearly got me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190501T115715Z" creationid="urakata" creationdate="20190501T115715Z">
+        <seg>鉄のゴーレム犬かなんかにやられそうになってさ!</seg>
       </tuv>
     </tu>
     <tu>
