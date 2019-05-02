@@ -66577,6 +66577,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Say Hello to my Big Friend!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T100349Z" creationid="pugnus" creationdate="20190502T100349Z">
+        <seg>こんにちは、私の巨大なお友達！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Say, why don't I show you?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T055021Z" creationid="Mad" creationdate="20190407T055021Z">
