@@ -18147,6 +18147,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Circle of Life</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103043Z" creationid="pugnus" creationdate="20190502T103043Z">
+        <seg>生命の輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>City Hall</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112447Z" creationid="Gaiden Shinji" creationdate="20190404T112447Z">
@@ -60857,6 +60865,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Put it Out!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T102954Z" creationid="pugnus" creationdate="20190502T102954Z">
+        <seg>明かりを消せ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put out your light when sneaking!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112137Z">
@@ -61877,6 +61893,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T030237Z" creationid="pugnus" creationdate="20190502T030237Z">
         <seg>チュートリアルについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ready for Summer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103103Z" creationid="pugnus" creationdate="20190502T103103Z">
+        <seg>夏への準備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ready for Winter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103121Z" creationid="pugnus" creationdate="20190502T103121Z">
+        <seg>冬への準備</seg>
       </tuv>
     </tu>
     <tu>
@@ -73763,6 +73795,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T035828Z">
         <seg> 25銀貨持っていけ。 それで、体裁を整えるんだな。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take my Hand!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103013Z" creationid="pugnus" creationdate="20190502T103013Z">
+        <seg>私の手を掴んで！</seg>
       </tuv>
     </tu>
     <tu>
