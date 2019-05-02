@@ -9036,6 +9036,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Go to the Enmerkar forest, and make your way to Berg.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T161700Z" creationid="taman" creationdate="20190502T161700Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;エンメルカルの森に入るとバーグという町があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I doubt they will be hiding here in Enmerkar for much longer&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045634Z" creationid="pugnus" creationdate="20190406T074412Z">
