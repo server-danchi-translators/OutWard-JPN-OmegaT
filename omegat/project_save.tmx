@@ -45027,6 +45027,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Magical summoned sword.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013034Z" creationid="pugnus" creationdate="20190502T013034Z">
+        <seg>魔法により召喚された剣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Main Hand</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095434Z" creationid="setom" creationdate="20190401T120248Z">
@@ -63522,8 +63530,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Runic Heal Amplified</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013002Z" creationid="pugnus" creationdate="20190502T013002Z">
-        <seg>ルーンの増幅した治癒</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013223Z" creationid="pugnus" creationdate="20190502T013002Z">
+        <seg>ルーンの治癒（強）</seg>
       </tuv>
     </tu>
     <tu>
@@ -63540,6 +63548,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T012714Z" creationid="pugnus" creationdate="20190502T012714Z">
         <seg>ルーンのランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runic Lantern Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013130Z" creationid="pugnus" creationdate="20190502T013130Z">
+        <seg>ルーンの強ランタン</seg>
       </tuv>
     </tu>
     <tu>
