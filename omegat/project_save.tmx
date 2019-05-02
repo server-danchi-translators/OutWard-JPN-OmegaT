@@ -16573,6 +16573,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camp outside while it snows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T094159Z" creationid="pugnus" creationdate="20190502T094159Z">
+        <seg>雪が降っているときに野外で野営する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Campfires are used to cook, disinfect water, brew potions and to keep warm.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142701Z">
@@ -21133,8 +21141,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Tripwire Trap</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Tripwire Trap</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093944Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>クラフト：トリップワイヤートラップ</seg>
       </tuv>
     </tu>
     <tu>
@@ -61684,6 +61692,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T061734Z" creationid="seto" creationdate="20190406T061606Z">
         <seg>スタミナを毎秒[E1V1]回復。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recover an item you stored in a Legacy Chest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T094349Z" creationid="pugnus" creationdate="20190502T094349Z">
+        <seg>引継ぎ用チェストに保管していたアイテムを戻す。</seg>
       </tuv>
     </tu>
     <tu>
