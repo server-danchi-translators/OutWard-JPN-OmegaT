@@ -9100,6 +9100,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Lockwell has her locked up in a room in his home&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T171329Z" creationid="taman" creationdate="20190502T171329Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;今はロックウェルが自宅の部屋に彼女を閉じ込めています。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T162833Z">
@@ -54125,6 +54133,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T165741Z" creationid="taman" creationdate="20190502T165741Z">
         <seg>オリエルからはゼフィリアンは行方が分からなくなり、あなたが彼を探しに向かったと聞きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele was arrested as soon as she returned here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T171147Z" creationid="taman" creationdate="20190502T171147Z">
+        <seg>オリエルが帰還したとたん捕まえられました。</seg>
       </tuv>
     </tu>
     <tu>
