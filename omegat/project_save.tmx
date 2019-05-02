@@ -32756,6 +32756,46 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Health Recovery 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065450Z" creationid="pugnus" creationdate="20190502T065450Z">
+        <seg>体力回復1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Recovery 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065501Z" creationid="pugnus" creationdate="20190502T065501Z">
+        <seg>体力回復2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Recovery 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065513Z" creationid="pugnus" creationdate="20190502T065513Z">
+        <seg>体力回復3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Recovery 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065539Z" creationid="pugnus" creationdate="20190502T065539Z">
+        <seg>体力回復4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Health Recovery 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065547Z" creationid="pugnus" creationdate="20190502T065547Z">
+        <seg>体力回復5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heat Defense</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083536Z" creationid="totochan" creationdate="20190402T083536Z">
@@ -46584,6 +46624,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115149Z" creationid="setom" creationdate="20190401T115149Z">
         <seg>最大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max Health decreases 3 times faster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T065706Z" creationid="pugnus" creationdate="20190502T065706Z">
+        <seg>体力の最大値が3倍速で減少する。</seg>
       </tuv>
     </tu>
     <tu>
