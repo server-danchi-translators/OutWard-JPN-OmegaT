@@ -16597,6 +16597,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can catch a Cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081112Z" creationid="pugnus" creationdate="20190502T081112Z">
+        <seg>風邪をひくかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can hit the target twice and inflict the Confusion status effect.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T070938Z" creationid="rkmad" creationdate="20190403T070838Z">
@@ -49364,6 +49372,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Movement Speed [E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081143Z" creationid="pugnus" creationdate="20190502T081143Z">
+        <seg>移動速度[E2V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Movement, Stamina Cost and Hot Weather penalties from heavy armors is reduced.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T032411Z" creationid="hiru4" creationdate="20190403T071250Z">
@@ -49877,6 +49893,22 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Needs: Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081124Z" creationid="pugnus" creationdate="20190502T081124Z">
+        <seg>欲求：寒気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs: Hot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081328Z" creationid="pugnus" creationdate="20190502T081328Z">
+        <seg>欲求：熱い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Needs: Hungry</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074418Z" creationid="pugnus" creationdate="20190502T065848Z">
@@ -49889,6 +49921,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074157Z" creationid="pugnus" creationdate="20190502T032654Z">
         <seg>欲求：疲労</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs: Very Cold</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081246Z" creationid="pugnus" creationdate="20190502T081246Z">
+        <seg>欲求：とても寒い</seg>
       </tuv>
     </tu>
     <tu>
@@ -69388,6 +69428,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stamina Cost of actions +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081313Z" creationid="pugnus" creationdate="20190502T081313Z">
+        <seg>スタミナ消費量+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina Cost of actions -[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074444Z" creationid="pugnus" creationdate="20190502T070402Z">
@@ -72746,6 +72794,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T070054Z" creationid="totochan" creationdate="20190403T133841Z">
         <seg>毎秒[E1V1]の炎ダメージを受ける。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take [E1V1] Frost Damage per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081229Z" creationid="pugnus" creationdate="20190502T081229Z">
+        <seg>毎秒[E1V1]の氷ダメージを受ける。</seg>
       </tuv>
     </tu>
     <tu>
