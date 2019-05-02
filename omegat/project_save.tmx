@@ -19861,6 +19861,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T022645Z" creationid="pugnus" creationdate="20190502T022645Z">
+        <seg>寒気</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cool Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T022710Z" creationid="pugnus" creationdate="20190502T022710Z">
+        <seg>寒気（強）または悪寒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cool Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132213Z" creationid="hiru4" creationdate="20190403T060612Z">
@@ -21201,6 +21217,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T062552Z" creationid="hiru4" creationdate="20190403T062552Z">
         <seg>バックパックにはランタンスロットがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T022720Z" creationid="pugnus" creationdate="20190502T022720Z">
+        <seg>呪い</seg>
       </tuv>
     </tu>
     <tu>
@@ -66459,8 +66483,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleep: Cierzo</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T134153Z" creationid="totochan" creationdate="20190403T134153Z">
-        <seg>睡眠：Cierzo</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T022626Z" creationid="totochan" creationdate="20190403T134153Z">
+        <seg>睡眠:シエルゾ</seg>
       </tuv>
     </tu>
     <tu>
