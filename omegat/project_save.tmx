@@ -495,6 +495,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You lay your hands on the Altar and focus as Oliele does her work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T054307Z" creationid="taman" creationdate="20190502T054307Z">
+        <seg>(祭壇に手を重ね意識を集中させるとオリエルが魔法を唱え始める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You pick up the skull and take it with you.)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T124630Z" creationid="taman" creationdate="20190421T124630Z">
@@ -43516,6 +43524,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’m not ready for this, I need a minute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T054226Z" creationid="taman" creationdate="20190502T054226Z">
+        <seg>心の準備ができていない、少し時間が必要だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’m not ready just yet, I’m still preparing.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085732Z" creationid="pugnus" creationdate="20190422T085732Z">
@@ -44824,6 +44840,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124648Z" creationid="urakata" creationdate="20190430T124648Z">
         <seg>とにかく帰って&lt;color=#00CCFF&gt;&lt;b&gt;このことをガブリエラに報告&lt;/b&gt;&lt;/color&gt;して、他の任務に取り掛かろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s get to work, then.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T054103Z" creationid="taman" creationdate="20190502T054103Z">
+        <seg>じゃあ、早速とりかかろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83436,6 +83460,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T054044Z" creationid="taman" creationdate="20190502T053136Z">
         <seg>祭壇に込められた不死者たちの感情はいびつに歪み、ただ無心で他者を渇望していた……)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can feel the memories begin to fill with rage...)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T054415Z" creationid="taman" creationdate="20190502T054415Z">
+        <seg>不死者の記憶が怒りに満ちるのを感じた……)</seg>
       </tuv>
     </tu>
     <tu>
