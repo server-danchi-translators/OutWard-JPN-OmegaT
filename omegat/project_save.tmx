@@ -12568,6 +12568,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as you can assure us that you can maintain the peace, very well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003001Z" creationid="pugnus" creationdate="20190502T003001Z">
+        <seg>あなたが平和を維持することができると証明すれば、上手にことは運ぶでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As long as you keep what you witnessed here a secret, you're free to go.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T024555Z" creationid="urakata" creationdate="20190428T024555Z">
@@ -72768,6 +72776,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The entirety of the Blue Chamber collective stands united on this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003131Z" creationid="pugnus" creationdate="20190502T003131Z">
+        <seg>青の議会全体が、統一しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The entrance faces the city wall.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T161048Z">
@@ -78399,6 +78415,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004731Z" creationid="seto" creationdate="20190413T004536Z">
         <seg>何世代掛かってでも代償を払うんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will treat this discussion as if it was with the entire Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003045Z" creationid="pugnus" creationdate="20190502T003045Z">
+        <seg>私たちはこの議論を青の議会全体に関するものとして扱うわ。</seg>
       </tuv>
     </tu>
     <tu>
