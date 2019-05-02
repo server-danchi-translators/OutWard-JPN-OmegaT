@@ -18141,8 +18141,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cold Weather Def +[E1V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064326Z" creationid="totochan" creationdate="20190403T140308Z">
-        <seg>冷気耐性+[E3V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064431Z" creationid="totochan" creationdate="20190403T140308Z">
+        <seg>冷気耐性 +[E3V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -27957,6 +27957,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T083710Z" creationid="pugnus" creationdate="20190424T083710Z">
         <seg>ギャベリータルティーヌ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gaberry Wine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064733Z" creationid="pugnus" creationdate="20190502T064733Z">
+        <seg>ギャベリーワイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -39521,6 +39529,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impact Resistance [E3V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064657Z" creationid="pugnus" creationdate="20190502T064657Z">
+        <seg>衝撃耐性 [E3V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Important landmarks have icons, and hovering your cursor on them will show their names.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113406Z">
@@ -45846,8 +45862,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mana cost [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064421Z" creationid="pugnus" creationdate="20190502T064421Z">
-        <seg>マナ消費[E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064643Z" creationid="pugnus" creationdate="20190502T064421Z">
+        <seg>消費マナ [E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54747,6 +54763,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T013614Z" creationid="pugnus" creationdate="20190502T013614Z">
         <seg>物理抵抗 +[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Resistance [E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064514Z" creationid="pugnus" creationdate="20190502T064514Z">
+        <seg>物理抵抗 [E2V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68446,8 +68470,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stamina Cost of actions -[E2V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064323Z" creationid="pugnus" creationdate="20190502T064323Z">
-        <seg>スタミナ消費-[E2V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064426Z" creationid="pugnus" creationdate="20190502T064323Z">
+        <seg>スタミナ消費 -[E2V1]%.</seg>
       </tuv>
     </tu>
     <tu>
