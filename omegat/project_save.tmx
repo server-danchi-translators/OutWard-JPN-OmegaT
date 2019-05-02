@@ -23603,8 +23603,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Do you expect us to just disarm ourselves and hand over our weapons to the enemy?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T003724Z" creationid="pugnus" creationdate="20190502T003724Z">
-        <seg>あなたは私たちが武装解除して、敵に武器を手渡すつもりですか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003745Z" creationid="pugnus" creationdate="20190502T003724Z">
+        <seg>あなたは私たちに武装解除させ、敵に武器を手渡すつもりですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -41418,6 +41418,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062620Z">
         <seg>いくらか金がかかってしまうがね。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will prevent future conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003926Z" creationid="pugnus" creationdate="20190502T003926Z">
+        <seg>それは将来の紛争を防ぐでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65672,6 +65680,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should we really arm you, knowing that your people may want revenge for their fallen kin?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T004126Z" creationid="pugnus" creationdate="20190502T004126Z">
+        <seg>あなたたちは彼ら「堕落した血縁」に対する復讐を望んでいます。それを知って、私たちがあなたたちを武装させると考えていますか？本当に？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should we someday eradicate them, it will mean an end to the suffering of those spirits.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T065652Z" creationid="taman" creationdate="20190411T170749Z">
@@ -78018,6 +78034,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We don't want your disarmament.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003815Z" creationid="pugnus" creationdate="20190502T003815Z">
+        <seg>私たちは、あなたたちの軍縮は望んでいません、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We don’t need any more food for today, shoo!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T012157Z" creationid="rkmad" creationdate="20190404T011951Z">
@@ -78367,6 +78391,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T055703Z" creationid="pugnus" creationdate="20190416T055703Z">
         <seg>私たちは「スカージ」に対抗できるだけの力を持っていなかったという理由だけで、権利まで失うべきではないと考えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We simply wish to be on equal military footing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003900Z" creationid="pugnus" creationdate="20190502T003900Z">
+        <seg>私たちは平等な軍事的基盤を築くことを望んでいます。</seg>
       </tuv>
     </tu>
     <tu>
