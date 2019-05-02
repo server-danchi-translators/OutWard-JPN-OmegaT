@@ -53614,6 +53614,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Palace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024234Z" creationid="pugnus" creationdate="20190502T024234Z">
+        <seg>宮殿</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palace Door</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120258Z" creationid="Gaiden Shinji" creationdate="20190404T120258Z">
@@ -71662,6 +71670,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Temple</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024154Z" creationid="pugnus" creationdate="20190502T024154Z">
+        <seg>寺院</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tender fruit, boiled to reveal its anti-poison properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T084814Z" creationid="pugnus" creationdate="20190424T084814Z">
@@ -77730,6 +77746,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vigil Pylon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024408Z" creationid="pugnus" creationdate="20190502T024408Z">
+        <seg>ヴィジャルパイロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vigil Tomb</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032337Z" creationid="seto" creationdate="20190418T092645Z">
@@ -78230,6 +78254,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045159Z" creationid="seto" creationdate="20190406T045159Z">
         <seg>水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Purifier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024138Z" creationid="pugnus" creationdate="20190502T024138Z">
+        <seg>浄水器</seg>
       </tuv>
     </tu>
     <tu>
