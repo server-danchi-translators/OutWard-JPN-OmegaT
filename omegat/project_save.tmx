@@ -14050,6 +14050,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Backstab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103712Z" creationid="pugnus" creationdate="20190502T103712Z">
+        <seg>バックスタブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backstabbing someone with one of these isn't too hard, here, let me show you...</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T055359Z" creationid="rkmad" creationdate="20190404T055359Z">
@@ -54816,6 +54824,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opportunist Stab</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104204Z" creationid="pugnus" creationdate="20190502T104204Z">
+        <seg>日和見主義者、都合のいい時を知っている人 Stab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OptionMenu_Audio_DialogueVolume</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095309Z" creationid="setom" creationdate="20190402T095309Z">
@@ -62628,8 +62644,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Dagger attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190403T072743Z">
-        <seg>必要:Dagger 手に持った短剣による一撃。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103844Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>必要：短剣 手に持った短剣による一撃。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62668,8 +62684,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013836Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要:ランタン 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103723Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要：ランタン 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62748,8 +62764,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Rage Boon, Melee Weapon Jumping attack that creates a shockwave upon landing, with high Impact and Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T103658Z" creationid="Horizon" creationdate="20190403T133647Z">
-        <seg>必要:猛威の恩恵の発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103729Z" creationid="Horizon" creationdate="20190403T133647Z">
+        <seg>必要：猛威の恩恵の発動と近接武器 着地時に衝撃波を引き起こすジャンピングアタック、強い衝撃とダメージを与える。 </seg>
       </tuv>
     </tu>
     <tu>
