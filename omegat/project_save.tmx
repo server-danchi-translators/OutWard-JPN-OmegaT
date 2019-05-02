@@ -44707,6 +44707,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Join the Blue Chamber faction.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091851Z" creationid="pugnus" creationdate="20190502T091851Z">
+        <seg>青の議会に参加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Joined the Blue Chamber Collective.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T014049Z" creationid="Light" creationdate="20190404T134839Z">
@@ -55999,6 +56007,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placed a Runic Trap on the ground, which deals Ethereal Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091635Z" creationid="pugnus" creationdate="20190502T091635Z">
+        <seg>エーテル属性のダメージを与えるルーンの罠を地面に設置する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plague Doctor</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020642Z" creationid="pugnus" creationdate="20190423T020642Z">
@@ -65817,6 +65833,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Runic Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091547Z" creationid="pugnus" creationdate="20190502T091547Z">
+        <seg>ルーンの罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Runic magic is versatile and intricate, letting you summon weapons, place arcane traps on the ground and far more.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T051946Z" creationid="Light" creationdate="20190408T051946Z">
@@ -69985,6 +70009,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113529Z" creationid="setom" creationdate="20190401T113529Z">
         <seg>チュートリアル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start a new character.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091829Z" creationid="pugnus" creationdate="20190502T091823Z">
+        <seg>新しいキャラクターで始める。</seg>
       </tuv>
     </tu>
     <tu>
