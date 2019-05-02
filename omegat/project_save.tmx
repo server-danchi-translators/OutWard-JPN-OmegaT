@@ -27073,6 +27073,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110802Z" creationid="pugnus" creationdate="20190502T110802Z">
+        <seg>執行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exit Shop</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064515Z" creationid="hiru4" creationdate="20190403T064515Z">
@@ -45236,6 +45244,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Juggernaut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111018Z" creationid="pugnus" creationdate="20190502T111018Z">
+        <seg>絶対的な力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Julius Sutherland</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114858Z" creationid="Gaiden Shinji" creationdate="20190404T114858Z">
@@ -62572,16 +62588,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Axe High Damage and Impact strike that deals twice its Damage against knocked down foes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040126Z" creationid="rkmad" creationdate="20190404T060052Z">
-        <seg>必要:2-Handed Axe 高いダメージと衝撃を与える両手斧の一撃。 相手がノックダウンしている場合、2倍のダメージを与えることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110827Z" creationid="rkmad" creationdate="20190404T060052Z">
+        <seg>必要：両手持ちの斧 高いダメージと衝撃を与える両手斧の一撃。 相手がノックダウンしている場合、2倍のダメージを与えることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Bludgeon Slow but powerful melee attack that inflicts Confusion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040131Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-Handed Bludgeon 速度は無いが、混乱を与える強力な攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111034Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：両手持ちの棍棒 速度は無いが、混乱を与える強力な攻撃。</seg>
       </tuv>
     </tu>
     <tu>
