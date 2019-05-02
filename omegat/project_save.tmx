@@ -8968,6 +8968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Become a mage&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232240Z" creationid="urakata" creationdate="20190502T232240Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;魔法使いになる&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Bring the Ash Giants to our side by any means possible&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T065728Z" creationid="pugnus" creationdate="20190418T065728Z">
@@ -23419,6 +23427,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damian_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232149Z" creationid="urakata" creationdate="20190502T232149Z">
+        <seg>Damian_HM_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dammit, I'm losing two friends in one day.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
@@ -24843,6 +24859,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133908Z" creationid="urakata" creationdate="20190430T133908Z">
         <seg>くよくよすんな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t offer your free will to Elatt, he’ll gobble it right up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232130Z" creationid="urakata" creationdate="20190502T232130Z">
+        <seg>自由意思をエラットに捧げることはするな。あっという間に飲み込まれるぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47066,6 +47090,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T134654Z" creationid="pugnus" creationdate="20190409T045851Z">
         <seg>覆面をした男がそうだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look, you want to do something to help me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232210Z" creationid="urakata" creationdate="20190502T232210Z">
+        <seg>そうだ、何か助けが必要だとか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -87393,7 +87425,7 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You just remember my warning.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T231931Z" creationid="urakata" creationdate="20190502T231931Z">
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232148Z" creationid="urakata" creationdate="20190502T231931Z">
         <seg>警告はしたぞ。</seg>
       </tuv>
     </tu>
