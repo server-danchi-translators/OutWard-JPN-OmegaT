@@ -33517,6 +33517,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, by way of thanks, do you want to know how to make a Warrior's Elixir?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075059Z" creationid="urakata" creationdate="20190502T075059Z">
+        <seg>そうだ、返礼ついでに、Warrior's Elixirの作り方を知りたくないか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, do me a solid and bring me another pickaxe would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014520Z" creationid="rkmad" creationdate="20190404T014520Z">
@@ -35896,6 +35904,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have that discipline potion for you, Zephyrien.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074854Z" creationid="urakata" creationdate="20190502T074854Z">
+        <seg>規律のポーションを持ってきましたよ、ゼフィリアン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have this ledger I need delivered to the Pleel’s general store.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035851Z" creationid="weedssoul" creationdate="20190406T122810Z">
@@ -37149,6 +37165,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T040705Z" creationid="taman" creationdate="20190501T040705Z">
         <seg>何も心配することはない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I sometimes feel like can't even make it through the day without at least one of these!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075008Z" creationid="urakata" creationdate="20190502T075008Z">
+        <seg>これがなかったら一日も耐えられないだろうな、と思う時もあるぐらいなんだ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55127,6 +55151,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perfect, this'll be a big help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074912Z" creationid="urakata" creationdate="20190502T074912Z">
+        <seg>いいぞ、たすかるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perform attacks with [InputAction_Attack1] and special attacks with [InputAction_Attack2].</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074411Z" creationid="setom" creationdate="20190401T074257Z">
@@ -58843,6 +58875,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012556Z" creationid="seto" creationdate="20190413T012556Z">
         <seg>Player_Sorean_HM_prequest_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sorean_HM_prequest_d_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074828Z" creationid="urakata" creationdate="20190502T074828Z">
+        <seg>Player_Sorean_HM_prequest_d_14</seg>
       </tuv>
     </tu>
     <tu>
@@ -68790,6 +68830,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T074710Z" creationid="urakata" creationdate="20190502T074710Z">
         <seg>Sorean_HM_prequest_14-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074854Z" creationid="urakata" creationdate="20190502T074854Z">
+        <seg>Sorean_HM_prequest_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075012Z" creationid="urakata" creationdate="20190502T075012Z">
+        <seg>Sorean_HM_prequest_16</seg>
       </tuv>
     </tu>
     <tu>
@@ -85327,6 +85383,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015146Z" creationid="rkmad" creationdate="20190404T014744Z">
         <seg>こんな所で生き残りたいなら、少しでも良い食事をとる必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to put Larva eggs, Krimp nuts, Crystal powder and water into an alchemy set and steam it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075155Z" creationid="urakata" creationdate="20190502T075155Z">
+        <seg>幼虫の卵、くりんぷなっつ、クリスタルパウダーと水を錬金術キットに入れて蒸すんだ!</seg>
       </tuv>
     </tu>
     <tu>
