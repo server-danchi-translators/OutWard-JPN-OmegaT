@@ -63554,8 +63554,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Runic Lantern Amplified</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013130Z" creationid="pugnus" creationdate="20190502T013130Z">
-        <seg>ルーンの強ランタン</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013428Z" creationid="pugnus" creationdate="20190502T013130Z">
+        <seg>ルーンのランタン（強）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runic Protection Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013514Z" creationid="pugnus" creationdate="20190502T013514Z">
+        <seg>ルーンの保護（強）</seg>
       </tuv>
     </tu>
     <tu>
