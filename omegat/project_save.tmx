@@ -471,6 +471,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You feel the warmth of a campfire fill you… Elatt speaks in your mind)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T041908Z" creationid="taman" creationdate="20190502T041908Z">
+        <seg>(かがり火のぬくもりを感じる・・・・・エラットが頭の中に語りかけてきた)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You pick up the skull and take it with you.)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T124630Z" creationid="taman" creationdate="20190421T124630Z">
@@ -80058,6 +80066,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well done, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T041921Z" creationid="taman" creationdate="20190502T041921Z">
+        <seg>よくやりましたね、 [PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well done.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040145Z" creationid="rkmad" creationdate="20190405T035843Z">
@@ -83014,6 +83030,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T082956Z" creationid="pugnus" creationdate="20190422T062944Z">
         <seg>であろうそなたは、悩み、そして変わるであろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You brought peace to the tormented spirits under the Chersonese and established future safeguards for that region's safety.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T042419Z" creationid="taman" creationdate="20190502T042419Z">
+        <seg>あなたはチェルソネスで苦しむ不死者たちを救い、かの地に久遠の平和をもたらすことに成功しました。</seg>
       </tuv>
     </tu>
     <tu>
