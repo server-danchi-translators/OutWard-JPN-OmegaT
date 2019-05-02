@@ -43925,8 +43925,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m on a case, and my mark might get away if you draw attention!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T071408Z" creationid="urakata" creationdate="20190502T071408Z">
-        <seg>今は任務中だ。目立つと目標人物!</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071431Z" creationid="urakata" creationdate="20190502T071408Z">
+        <seg>今は任務中だ。目立つと目標の人物に逃げられてしまう!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44399,6 +44399,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T071110Z" creationid="urakata" creationdate="20190502T071110Z">
         <seg>Julius_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Julius_BC_Prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071433Z" creationid="urakata" creationdate="20190502T071433Z">
+        <seg>Julius_BC_Prequest_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -84787,6 +84795,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You know how to unlock your control over Mana, right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071517Z" creationid="urakata" creationdate="20190502T071510Z">
+        <seg>マナの制御ができるようになる方法は知っているな?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You know it, right?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T121749Z" creationid="Light" creationdate="20190406T121749Z">
@@ -85063,6 +85079,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T052134Z" creationid="Mad" creationdate="20190407T052134Z">
         <seg>すぐに我々の医者に診て貰う必要があるんじゃないか！？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to travel to the &lt;color=#00CCFF&gt;&lt;b&gt;Conflux Mountain in the Chersonese&lt;/b&gt;&lt;/color&gt;, and venture to the &lt;color=#00CCFF&gt;&lt;b&gt;Ley Line&lt;/b&gt;&lt;/color&gt; deep below it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071621Z" creationid="urakata" creationdate="20190502T071621Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Chersoneseのコンフラックス山&lt;/b&gt;&lt;/color&gt;へ行き、地下深くの&lt;color=#00CCFF&gt;&lt;b&gt;レイライン&lt;/b&gt;&lt;/color&gt;を探すのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86531,8 +86555,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re blowing my cover.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T071142Z" creationid="urakata" creationdate="20190502T071142Z">
-        <seg>君のせいで潜入がばれてしまう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071416Z" creationid="urakata" creationdate="20190502T071142Z">
+        <seg>君のせいで潜入がばれるところだぞ。</seg>
       </tuv>
     </tu>
     <tu>
