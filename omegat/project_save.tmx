@@ -16629,6 +16629,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call to Elements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112954Z" creationid="pugnus" creationdate="20190502T112954Z">
+        <seg>精霊への呼び声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camera Sensitivity</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T025330Z" creationid="hiru4" creationdate="20190402T022122Z">
@@ -19125,16 +19133,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Consumes your Cool boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T130004Z" creationid="rkmad" creationdate="20190403T071626Z">
-        <seg>このスペルを使用した際、 Cool Boon は失われる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112907Z" creationid="rkmad" creationdate="20190403T071626Z">
+        <seg>このスペルを使用した際、 冷気の恩恵は失われる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Consumes your Warm boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T130015Z" creationid="pugnus" creationdate="20190408T125904Z">
-        <seg>この呪文を使用した際、Warm Boonを失う。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112937Z" creationid="pugnus" creationdate="20190408T125904Z">
+        <seg>この呪文を使用した際、温暖の恩恵を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25321,6 +25329,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elemental Discharge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T113033Z" creationid="pugnus" creationdate="20190502T113033Z">
+        <seg>元素の撃ち出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elemental Immunity</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063257Z" creationid="totochan" creationdate="20190403T140001Z">
@@ -27909,6 +27925,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T085529Z" creationid="Light" creationdate="20190407T085353Z">
         <seg>火を注入された植物を、さらに火で焼いたもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire/Reload</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T113122Z" creationid="pugnus" creationdate="20190502T113122Z">
+        <seg>装填／発砲</seg>
       </tuv>
     </tu>
     <tu>
@@ -41078,6 +41102,22 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T063933Z" creationid="setom" creationdate="20190402T063933Z">
         <seg>全ての霊体の敵を脆弱にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infuse Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112917Z" creationid="pugnus" creationdate="20190502T112917Z">
+        <seg>炎の注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infuse Frost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112847Z" creationid="pugnus" creationdate="20190502T112847Z">
+        <seg>氷の注入</seg>
       </tuv>
     </tu>
     <tu>
@@ -62764,8 +62804,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Cool Boon Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125820Z" creationid="rkmad" creationdate="20190403T071555Z">
-        <seg>必要:Cool Boonの発動 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112858Z" creationid="rkmad" creationdate="20190403T071555Z">
+        <seg>必要：冷気の恩恵の発動 構えている近接武器へ一時的に氷の力を付与し、敵に追加ダメージと鈍足効果を与える。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62804,8 +62844,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Infused Weapon Shoot a projectile of the element that is infused on your weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T114533Z">
-        <seg>必要:属性付与された武器 武器に付与されている属性を撃ち出す。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T113053Z" creationid="Light" creationdate="20190406T114533Z">
+        <seg>必要：属性付与された武器 武器に付与されている属性を撃ち出す。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62868,8 +62908,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Pistol, Bullet Load the equipped pistol with a bullet, or fires if it is already loaded.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T130413Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Pistol,Bullet 装備されたピストルに弾丸を装填する。すでに装填されていた場合は発砲する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T113228Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：ピストル、銃弾 装備されたピストルに弾丸を装填する。すでに装填されていた場合は発砲する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62940,8 +62980,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Warm Boon Temporarily adds Fire damage to your melee weapon and inflicts Burning on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125838Z" creationid="Light" creationdate="20190406T114232Z">
-        <seg>必要:Warm Boonの発動 構えている近接武器へ一時的な火炎の力を付与する。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112929Z" creationid="Light" creationdate="20190406T114232Z">
+        <seg>必要：温暖の恩恵の発動 構えている近接武器へ一時的な火炎の力を付与する。 </seg>
       </tuv>
     </tu>
     <tu>
