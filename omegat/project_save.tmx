@@ -62708,24 +62708,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Green rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040038Z" creationid="pugnus" creationdate="20190406T024346Z">
-        <seg>必要:Lexicon Green Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105229Z" creationid="pugnus" creationdate="20190406T024346Z">
+        <seg>必要：緑のルーンの辞書 これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Purple rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040032Z" creationid="pugnus" creationdate="20190406T024238Z">
-        <seg>必要:Lexicon Purple Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105134Z" creationid="pugnus" creationdate="20190406T024238Z">
+        <seg>必要：紫のルーンの辞書 これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Red rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040027Z" creationid="pugnus" creationdate="20190406T024200Z">
-        <seg>必要:Lexicon Red Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105027Z" creationid="pugnus" creationdate="20190406T024200Z">
+        <seg>必要：赤のルーンの辞書 これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -66358,6 +66358,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T104724Z" creationid="pugnus" creationdate="20190502T104724Z">
         <seg>ルーン「Dez」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rune: Egoth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105056Z" creationid="pugnus" creationdate="20190502T105056Z">
+        <seg>ルーン「Egoth」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rune: Fal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105149Z" creationid="pugnus" creationdate="20190502T105149Z">
+        <seg>ルーン「Fal」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rune: Shim</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105040Z" creationid="pugnus" creationdate="20190502T105040Z">
+        <seg>ルーン「Shim」</seg>
       </tuv>
     </tu>
     <tu>
