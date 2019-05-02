@@ -16949,6 +16949,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carry on, missionary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T051704Z" creationid="taman" creationdate="20190502T051704Z">
+        <seg>行きなさい、伝道師よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cast a Fire Sigil then use Spark while standing inside the sigil.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080449Z" creationid="setom" creationdate="20190402T080449Z">
@@ -19025,6 +19033,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115022Z" creationid="setom" creationdate="20190401T115016Z">
         <seg>コンティニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Continue your good work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T051748Z" creationid="taman" creationdate="20190502T051748Z">
+        <seg>これからも善行を積むのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41767,8 +41783,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It must be cleansed before it becomes a serious threat to the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="taman" creationdate="20190414T113307Z">
-        <seg>ケルソネソスに被害をもたらす前に、瘴気を浄化しなくてはなりません。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T051957Z" creationid="taman" creationdate="20190414T113307Z">
+        <seg>チェルソネスに被害をもたらす前に、瘴気を浄化しなくてはなりません。</seg>
       </tuv>
     </tu>
     <tu>
