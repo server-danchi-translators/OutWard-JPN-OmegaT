@@ -17893,6 +17893,46 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>City – Berg</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025928Z" creationid="pugnus" creationdate="20190502T025928Z">
+        <seg>ベルク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City – Cierzo</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025923Z" creationid="pugnus" creationdate="20190502T025923Z">
+        <seg>シエルゾ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City – Giants’ Village</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025955Z" creationid="pugnus" creationdate="20190502T025955Z">
+        <seg>巨人たちの村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City – Levant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025934Z" creationid="pugnus" creationdate="20190502T025934Z">
+        <seg>レバント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>City – Monsoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025943Z" creationid="pugnus" creationdate="20190502T025943Z">
+        <seg>モンスーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Claim the treasure inside the old docks.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T122309Z" creationid="urakata" creationdate="20190406T122309Z">
@@ -43926,6 +43966,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T102637Z" creationid="pugnus" creationdate="20190417T102627Z">
         <seg>カジート・スペルブレード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kazite Trainers</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030200Z" creationid="pugnus" creationdate="20190502T030200Z">
+        <seg>カジートの仕込み手たち</seg>
       </tuv>
     </tu>
     <tu>
