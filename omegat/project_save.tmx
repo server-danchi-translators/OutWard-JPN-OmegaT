@@ -377,8 +377,8 @@
       <tuv lang="EN-US">
         <seg>(This fallen note seems to contain orders for the attack on Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T075815Z" creationid="pugnus" creationdate="20190415T075815Z">
-        <seg>(この落とされたメモは、ベルクへの攻撃の命令が書かれている。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190415T075815Z">
+        <seg>(この落とされたメモは、バーグへの攻撃の命令が書かれている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9078,8 +9078,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I'll see you back in Berg&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T070851Z" creationid="urakata" creationdate="20190430T070851Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;ベルクで会おう&lt;/b&gt;&lt;/color&gt;、[PlayerName]</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T070851Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;バーグで会おう&lt;/b&gt;&lt;/color&gt;、[PlayerName]</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,8 +11545,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>An army of ghosts just ran screaming through Berg!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190428T022907Z" creationid="urakata" creationdate="20190428T022907Z">
-        <seg>さっき、亡霊の集団がベルク中を飛び回って大騒ぎだったんだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065440Z" creationid="urakata" creationdate="20190428T022907Z">
+        <seg>さっき、亡霊の集団がバーグ中を飛び回って大騒ぎだったんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12338,8 +12338,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Are you planning to pass by Berg sometime soon?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T035743Z" creationid="weedssoul" creationdate="20190406T122351Z">
-        <seg>すぐにでもベルクに向かうつもりか？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065414Z" creationid="weedssoul" creationdate="20190406T122351Z">
+        <seg>すぐにでもバーグに向かうつもりか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -14853,16 +14853,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Berg</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114443Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
-        <seg>ベルク</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
+        <seg>バーグ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Berg Streets</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T034336Z" creationid="Gaiden Shinji" creationdate="20190404T112638Z">
-        <seg>ベルクストリート</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190404T112638Z">
+        <seg>バーグストリート</seg>
       </tuv>
     </tu>
     <tu>
@@ -14877,16 +14877,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Berg’s Guard</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120011Z" creationid="Gaiden Shinji" creationdate="20190404T120011Z">
-        <seg>ベルク ガード</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190404T120011Z">
+        <seg>バーグ ガード</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Berg’s smith can craft pieces of Copal Armor and Petrified Wood Armor, if Copal or Petrified Wood is brought to her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001639Z" creationid="urakata" creationdate="20190331T092853Z">
-        <seg>ベルクの鍛冶屋へコーパルか石化樹を持ち込むと「コーパルの鎧」の部品と、「石化樹の鎧」を作れる</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065425Z" creationid="urakata" creationdate="20190331T092853Z">
+        <seg>バーグの鍛冶屋へコーパルか石化樹を持ち込むと「コーパルの鎧」の部品と、「石化樹の鎧」を作れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -15670,8 +15670,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring a Cold Stone, which can be crafted using an Alchemy Kit, to Vay the Alchemist in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T013302Z" creationid="urakata" creationdate="20190406T114201Z">
-        <seg>ベルクの錬金術師ヴァイに、錬金術キットで作ったコールドストーンを持っていく</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065425Z" creationid="urakata" creationdate="20190406T114201Z">
+        <seg>バーグの錬金術師ヴァイに、錬金術キットで作ったコールドストーンを持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,8 +16358,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But when there is a council meeting, you should come to Berg to help decide on matters that affect all the tribes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T091545Z" creationid="pugnus" creationdate="20190422T091545Z">
-        <seg>しかし、青の議会の会議があるときは、ベルクに来てください。すべての部族に影響を与える問題について、決定しなければならないのです。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065440Z" creationid="pugnus" creationdate="20190422T091545Z">
+        <seg>しかし、青の議会の会議があるときは、バーグに来てください。すべての部族に影響を与える問題について、決定しなければならないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17197,8 +17197,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Chamberlords of the Blue Chamber are headed to Berg for a council meeting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T063218Z" creationid="taman" creationdate="20190502T063218Z">
-        <seg>青の議会の上院議員たちが評議会のためベルクに向かったらしいの。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065414Z" creationid="taman" creationdate="20190502T063218Z">
+        <seg>青の議会の上院議員たちが評議会のためバーグに向かったらしいの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17805,8 +17805,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Chef Iasu, in Berg, is looking for a Manticore Tail.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T061003Z" creationid="urakata" creationdate="20190406T115226Z">
-        <seg>ベルクのシェフ、イアスはマンティコアの尾を探している</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065426Z" creationid="urakata" creationdate="20190406T115226Z">
+        <seg>バーグのシェフ、イアスはマンティコアの尾を探している</seg>
       </tuv>
     </tu>
     <tu>
@@ -18077,8 +18077,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>City – Berg</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T025928Z" creationid="pugnus" creationdate="20190502T025928Z">
-        <seg>ベルク</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065422Z" creationid="pugnus" creationdate="20190502T025928Z">
+        <seg>バーグ</seg>
       </tuv>
     </tu>
     <tu>
@@ -19749,16 +19749,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Convince Sagard Battleborn, in Berg’s inn, to make peace.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T043414Z" creationid="Light" creationdate="20190409T094927Z">
-        <seg>ベルクの宿屋にいるサガード・バトルボーンに平和にしてもらう</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065432Z" creationid="Light" creationdate="20190409T094927Z">
+        <seg>バーグの宿屋にいるサガード・バトルボーンに平和にしてもらう</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Convince Sagard, in Berg’s inn, to oppose the war.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T105425Z" creationid="Light" creationdate="20190409T105425Z">
-        <seg>ベルクの宿にいるサガードに戦争に反対するよう説得する</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065435Z" creationid="Light" creationdate="20190409T105425Z">
+        <seg>バーグの宿にいるサガードに戦争に反対するよう説得する</seg>
       </tuv>
     </tu>
     <tu>
@@ -20333,8 +20333,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Could you &lt;color=#00CCFF&gt;&lt;b&gt;check the Inn&lt;/b&gt;&lt;/color&gt; to see if they’ve arrived in Berg, yet?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T044922Z" creationid="magur0w" creationdate="20190404T180309Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;ベルクに着いているか確認してくれないか？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="magur0w" creationdate="20190404T180309Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宿を調べて&lt;/b&gt;&lt;/color&gt;バーグに着いているか確認してくれないか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22077,8 +22077,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cyril Turnbull is here in Berg, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T011056Z" creationid="pugnus" creationdate="20190422T011056Z">
-        <seg>シリル・ターンブルはここ、ベルクにいます。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065440Z" creationid="pugnus" creationdate="20190422T011056Z">
+        <seg>シリル・ターンブルはここ、バーグにいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23189,8 +23189,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Days later, you return to your senses, neatly tucked into your bed at your home in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T101810Z" creationid="Horizon" creationdate="20190404T072453Z">
-        <seg>数日後、意識を取り戻すと私はベルクの自宅にあるベッドの上にいた。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065436Z" creationid="Horizon" creationdate="20190404T072453Z">
+        <seg>数日後、意識を取り戻すと私はバーグの自宅にあるベッドの上にいた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24017,8 +24017,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Do a small task for Sagard, Julius, or Gabriella in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T133936Z" creationid="Light" creationdate="20190404T134411Z">
-        <seg>ベルクでサガール、ユリウス、またはガブリエラの依頼をこなす</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065426Z" creationid="Light" creationdate="20190404T134411Z">
+        <seg>バーグでサガール、ユリウス、またはガブリエラの依頼をこなす</seg>
       </tuv>
     </tu>
     <tu>
@@ -27107,8 +27107,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Find Julius inside Berg’s Inn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T021439Z" creationid="Light" creationdate="20190409T094501Z">
-        <seg>ベルクの宿でユリウスを見つける</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065431Z" creationid="Light" creationdate="20190409T094501Z">
+        <seg>バーグの宿でユリウスを見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -28187,8 +28187,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Gabriella Sullivan and Julius Sutherland are close allies of mine, and Sagard Battleborn wields an especially large degree of power as the Chamberlord of Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T043401Z" creationid="weedssoul" creationdate="20190406T015522Z">
-        <seg>ガブリエラ・サリバンとユリウス・サザーランドは私もよく知っている人で、サガード・バトルボーンはベルクの上院議員で特に強大な権力を持っています。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065418Z" creationid="weedssoul" creationdate="20190406T015522Z">
+        <seg>ガブリエラ・サリバンとユリウス・サザーランドは私もよく知っている人で、サガード・バトルボーンはバーグの上院議員で特に強大な権力を持っています。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -29612,8 +29612,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Give Horror Chitin, a Tribal Favor or a Coralhorn Bow to Gabriella, in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T013228Z" creationid="Light" creationdate="20190409T105319Z">
-        <seg>ベルクで、ガブリエラにホラーキチン、部族の好意、コーラルホーンの弓を贈る</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065435Z" creationid="Light" creationdate="20190409T105319Z">
+        <seg>バーグで、ガブリエラにホラーキチン、部族の好意、コーラルホーンの弓を贈る</seg>
       </tuv>
     </tu>
     <tu>
@@ -29628,8 +29628,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Give a Tribal Favor or a sum of silver to Rissa, in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T104707Z" creationid="Light" creationdate="20190409T104707Z">
-        <seg>ベルクでリッサに部族の好意または銀貨を渡す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065434Z" creationid="Light" creationdate="20190409T104707Z">
+        <seg>バーグでリッサに部族の好意または銀貨を渡す</seg>
       </tuv>
     </tu>
     <tu>
@@ -29788,8 +29788,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Go to Berg’s inn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T055949Z" creationid="Light" creationdate="20190409T055949Z">
-        <seg>ベルクの宿屋に行く</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065428Z" creationid="Light" creationdate="20190409T055949Z">
+        <seg>バーグの宿屋に行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -29836,8 +29836,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Go to the Blue Chamber in Berg, then talk to Rissa.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T055929Z" creationid="Light" creationdate="20190409T055929Z">
-        <seg>ベルクの青の議会に行き、リッサと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065428Z" creationid="Light" creationdate="20190409T055929Z">
+        <seg>バーグの青の議会に行き、リッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -29868,16 +29868,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Go to the city of Berg, in the Enmerkar Forest, to warn someone in a position of authority.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T054302Z" creationid="Light" creationdate="20190409T054302Z">
-        <seg>エンメルカルの森のベルクに行き、権威のある誰かに警告する</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065427Z" creationid="Light" creationdate="20190409T054302Z">
+        <seg>エンメルカルの森のバーグに行き、権威のある誰かに警告する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Go to the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T104633Z" creationid="Light" creationdate="20190409T104633Z">
-        <seg>エンメルカルの森の中、ベルクへ行く</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065434Z" creationid="Light" creationdate="20190409T104633Z">
+        <seg>エンメルカルの森の中、バーグへ行く</seg>
       </tuv>
     </tu>
     <tu>
@@ -34849,8 +34849,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I almost didn’t make it to Berg in one piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T115642Z" creationid="urakata" creationdate="20190501T115642Z">
-        <seg>危なくベルクに五体満足で帰れないところだった。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065418Z" creationid="urakata" creationdate="20190501T115642Z">
+        <seg>危なくバーグに五体満足で帰れないところだった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36298,16 +36298,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I hope to see you in Berg, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T014423Z">
-        <seg>ベルクで会えることを願っています、[PlayerName]。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065417Z" creationid="weedssoul" creationdate="20190406T014423Z">
+        <seg>バーグで会えることを願っています、[PlayerName]。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I hope to see you join our troops and show some of those runts what it means to be part of Berg’s army.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T121230Z" creationid="urakata" creationdate="20190501T121230Z">
-        <seg>君がわが軍に入って、出来損ないどもに、ベルク軍の一員であるということがどういうことか、教えてくれることを楽しみにしているよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065419Z" creationid="urakata" creationdate="20190501T121230Z">
+        <seg>君がわが軍に入って、出来損ないどもに、バーグ軍の一員であるということがどういうことか、教えてくれることを楽しみにしているよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37859,8 +37859,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I will make my way &lt;color=#00CCFF&gt;&lt;b&gt;back to Berg&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T045653Z" creationid="pugnus" creationdate="20190406T070739Z">
-        <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;ベルクに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="pugnus" creationdate="20190406T070739Z">
+        <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;バーグに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39314,8 +39314,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If we don't do something, this could destroy Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T132234Z" creationid="urakata" creationdate="20190430T132234Z">
-        <seg>何もしなければ、ベルクは滅亡していた。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T132234Z">
+        <seg>何もしなければ、バーグは滅亡していた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39330,8 +39330,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you are able, &lt;color=#00CCFF&gt;&lt;b&gt;I’d like you to meet me there&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T164035Z">
-        <seg>もし可能なら、&lt;color=#00CCFF&gt;&lt;b&gt;ベルクで会いましょう。 &lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065417Z" creationid="weedssoul" creationdate="20190405T164035Z">
+        <seg>もし可能なら、&lt;color=#00CCFF&gt;&lt;b&gt;バーグで会いましょう。 &lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39835,8 +39835,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you wish to commit to the protection of the Blue Chamber Collective, meet me there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T014500Z">
-        <seg>青の議会の恩恵を得たいなら、ベルクで私のところまで来なさい。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065418Z" creationid="weedssoul" creationdate="20190406T014500Z">
+        <seg>青の議会の恩恵を得たいなら、バーグで私のところまで来なさい。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40171,8 +40171,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>In Enmerkar, head East and past the stone city of Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T062126Z" creationid="Light" creationdate="20190408T062126Z">
-        <seg>エンメルカルを東に抜けて、石の町ベルクを通るのよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065415Z" creationid="Light" creationdate="20190408T062126Z">
+        <seg>エンメルカルを東に抜けて、石の町バーグを通るのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40283,8 +40283,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>In your state, you will never catch up to him...It would seem that the one who led the assault on Berg has gotten away.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T102334Z" creationid="pugnus" creationdate="20190404T114118Z">
-        <seg>今の私の状態では、敵に追いつくことは不可能だ...ベルクを襲撃した者たちは逃げ出したようだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065437Z" creationid="pugnus" creationdate="20190404T114118Z">
+        <seg>今の私の状態では、敵に追いつくことは不可能だ...バーグを襲撃した者たちは逃げ出したようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43610,8 +43610,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’s the &lt;color=#00CCFF&gt;&lt;b&gt;largest building in Berg, up near the fountain&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T133021Z" creationid="magur0w" creationdate="20190404T164124Z">
-        <seg>青の議会は&lt;color=#00CCFF&gt;&lt;b&gt;ベルクで一番大きい建物で噴水の近くにある。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="magur0w" creationdate="20190404T164124Z">
+        <seg>青の議会は&lt;color=#00CCFF&gt;&lt;b&gt;バーグで一番大きい建物で噴水の近くにある。&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43739,8 +43739,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I’d rather hunt manticores outside Berg than stand here as a... decorative diplomat!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190417T000907Z" creationid="pugnus" creationdate="20190416T234125Z">
-        <seg>私はここで、装飾的な外交官として立っているよりも...ベルクの外でマンティコアと戦いたい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065440Z" creationid="pugnus" creationdate="20190416T234125Z">
+        <seg>私はここで、装飾的な外交官として立っているよりも...バーグの外でマンティコアと戦いたい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43795,8 +43795,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I’ll head back to Berg and to report to Gabriella, then.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T064257Z" creationid="urakata" creationdate="20190430T064257Z">
-        <seg>もうベルクに帰ってガブリエラに報告しよう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T064257Z">
+        <seg>もうバーグに帰ってガブリエラに報告しよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43853,8 +43853,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’ll see you in Berg, yeah?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T133934Z" creationid="urakata" creationdate="20190430T133934Z">
-        <seg>ベルクでまた会おう、な?</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T133934Z">
+        <seg>バーグでまた会おう、な?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43901,8 +43901,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m Berg’s mistress of the hunt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T124741Z" creationid="urakata" creationdate="20190501T124741Z">
-        <seg>私がベルクの狩猟管理者です。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065419Z" creationid="urakata" creationdate="20190501T124741Z">
+        <seg>私がバーグの狩猟管理者です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44053,8 +44053,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m going to &lt;color=#00CCFF&gt;&lt;b&gt;Berg&lt;/b&gt;&lt;/color&gt;, the main settlement in the &lt;color=#00CCFF&gt;&lt;b&gt;Enmerkar region&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T163851Z">
-        <seg>私はこれから、&lt;color=#00CCFF&gt;&lt;b&gt;エンメルカル地方&lt;/b&gt;&lt;/color&gt; の主要な開拓地である&lt;color=#00CCFF&gt;&lt;b&gt;ベルク&lt;/b&gt;&lt;/color&gt; に向かう。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065416Z" creationid="weedssoul" creationdate="20190405T163851Z">
+        <seg>私はこれから、&lt;color=#00CCFF&gt;&lt;b&gt;エンメルカル地方&lt;/b&gt;&lt;/color&gt; の主要な開拓地である&lt;color=#00CCFF&gt;&lt;b&gt;バーグ&lt;/b&gt;&lt;/color&gt; に向かう。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -44381,8 +44381,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’m the Chamberlord of Berg and handle the Collective’s armies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T121849Z" creationid="urakata" creationdate="20190501T121830Z">
-        <seg>私はベルクの議員かつ共同体軍団の統括者だ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065419Z" creationid="urakata" creationdate="20190501T121830Z">
+        <seg>私はバーグの議員かつ共同体軍団の統括者だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45453,8 +45453,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Ledger to Berg</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T000050Z" creationid="pugnus" creationdate="20190415T102158Z">
-        <seg>ベルクへの台帳</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065435Z" creationid="pugnus" creationdate="20190415T102158Z">
+        <seg>バーグへの台帳</seg>
       </tuv>
     </tu>
     <tu>
@@ -47566,8 +47566,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Meet Oliele at the Blue Chamber, in the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T103102Z" creationid="Light" creationdate="20190409T103102Z">
-        <seg>エンメルカルの森の中、ベルクにある青の議会でオリエルと会う</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065433Z" creationid="Light" creationdate="20190409T103102Z">
+        <seg>エンメルカルの森の中、バーグにある青の議会でオリエルと会う</seg>
       </tuv>
     </tu>
     <tu>
@@ -52857,8 +52857,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Ogoi the Kazite Assassin, in Berg, is looking for 2 Beast Golem scraps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T060829Z" creationid="urakata" creationdate="20190406T115055Z">
-        <seg>ベルクにいるカジートのアサシン、オゴイはビーストゴーレムのスクラップを2つ探している</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065426Z" creationid="urakata" creationdate="20190406T115055Z">
+        <seg>バーグにいるカジートのアサシン、オゴイはビーストゴーレムのスクラップを2つ探している</seg>
       </tuv>
     </tu>
     <tu>
@@ -62499,8 +62499,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Return to Berg’s blacksmith to collect your armor piece.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001834Z" creationid="urakata" creationdate="20190406T113627Z">
-        <seg>完成した鎧の部品を受取りにベルクの鍛冶屋へ戻る</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065425Z" creationid="urakata" creationdate="20190406T113627Z">
+        <seg>完成した鎧の部品を受取りにバーグの鍛冶屋へ戻る</seg>
       </tuv>
     </tu>
     <tu>
@@ -62523,8 +62523,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Return to Gabriella in Berg, and report that you’ve killed the green shell horror.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T043034Z" creationid="Light" creationdate="20190409T094709Z">
-        <seg>ベルクのガブリエラのもとへ行き、グリーンシェルホラーを倒したことを報告する</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065432Z" creationid="Light" creationdate="20190409T094709Z">
+        <seg>バーグのガブリエラのもとへ行き、グリーンシェルホラーを倒したことを報告する</seg>
       </tuv>
     </tu>
     <tu>
@@ -62723,8 +62723,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rissa, in the city of Berg, will have a task for you in 3 days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190416T111006Z" creationid="Light" creationdate="20190409T055831Z">
-        <seg>3日後にベルクのリッサに話しかける</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065428Z" creationid="Light" creationdate="20190409T055831Z">
+        <seg>3日後にバーグのリッサに話しかける</seg>
       </tuv>
     </tu>
     <tu>
@@ -67755,8 +67755,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She seems none too pleased, but life in Berg will go on.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T102717Z" creationid="pugnus" creationdate="20190406T003026Z">
-        <seg>彼女は決して嬉しいようには見えない。しかし、ベルクでの生活は続くだろう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065437Z" creationid="pugnus" creationdate="20190406T003026Z">
+        <seg>彼女は決して嬉しいようには見えない。しかし、バーグでの生活は続くだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67835,8 +67835,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She’s in Berg, trying to figure out who ordered the attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T044959Z" creationid="magur0w" creationdate="20190404T182028Z">
-        <seg>彼女はベルクにいる。攻撃を命じた者を見つけ出そうとしている。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="magur0w" creationdate="20190404T182028Z">
+        <seg>彼女はバーグにいる。攻撃を命じた者を見つけ出そうとしている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68083,8 +68083,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Should a Chamberlord call a meeting, we gather in the city of Berg, the birthplace of our Collective, and hold a discussion, then a vote.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T032948Z" creationid="rkmad" creationdate="20190405T032933Z">
-        <seg>議会の主催者が招集をかけたとき、私を含めた代表者達は議会の発祥であるベルクの街に集まります。そして、様々な物事を議論し、投票を行うのです。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065420Z" creationid="rkmad" creationdate="20190405T032933Z">
+        <seg>議会の主催者が招集をかけたとき、私を含めた代表者達は議会の発祥であるバーグの街に集まります。そして、様々な物事を議論し、投票を行うのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73080,8 +73080,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take all 4 Blue Skulls in the Necropolis under Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T094920Z" creationid="urakata" creationdate="20190406T140141Z">
-        <seg>ベルクの地下にあるネクロポリスから青いどくろ4つすべてを取ってくる</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065426Z" creationid="urakata" creationdate="20190406T140141Z">
+        <seg>バーグの地下にあるネクロポリスから青いどくろ4つすべてを取ってくる</seg>
       </tuv>
     </tu>
     <tu>
@@ -73136,8 +73136,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take the time to get used to the Enmerkar region and buy the equipment you need here in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T050107Z" creationid="pugnus" creationdate="20190406T085503Z">
-        <seg>エンメルカルに慣れるように過ごし、ベルクで必要なものを揃えなさい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190406T085503Z">
+        <seg>エンメルカルに慣れるように過ごし、バーグで必要なものを揃えなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73376,9 +73376,9 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Gabriella, in the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T093921Z" creationid="Light" creationdate="20190409T093921Z">
+      <tuv lang="JA" changeid="seto" changedate="20190502T065429Z" creationid="Light" creationdate="20190409T093921Z">
         <seg>67/5000
-エンメルカルの森のベルクでガブリエラと話す</seg>
+エンメルカルの森のバーグでガブリエラと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -73529,8 +73529,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Rissa in Berg, then commit to the faction.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T132445Z" creationid="urakata" creationdate="20190407T033449Z">
-        <seg>ベルクのリッサと話して仲間になる</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065427Z" creationid="urakata" creationdate="20190407T033449Z">
+        <seg>バーグのリッサと話して仲間になる</seg>
       </tuv>
     </tu>
     <tu>
@@ -73545,8 +73545,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Rissa in the Necropolis or in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T094600Z" creationid="Light" creationdate="20190409T094600Z">
-        <seg>ネクロポリスまたはベルクでリッサと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065431Z" creationid="Light" creationdate="20190409T094600Z">
+        <seg>ネクロポリスまたはバーグでリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -73561,16 +73561,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Rissa, in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T060153Z" creationid="Light" creationdate="20190409T060153Z">
-        <seg>ベルクでリッサと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065429Z" creationid="Light" creationdate="20190409T060153Z">
+        <seg>バーグでリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T055909Z" creationid="Light" creationdate="20190409T055909Z">
-        <seg>エンメルカルの森にあるベルクでリッサと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065428Z" creationid="Light" creationdate="20190409T055909Z">
+        <seg>エンメルカルの森にあるバーグでリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -73585,8 +73585,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Sagard Battleborn, in Berg’s inn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T043117Z" creationid="Light" creationdate="20190409T094746Z">
-        <seg>ベルクの宿でサガード・バトルボーンと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065432Z" creationid="Light" creationdate="20190409T094746Z">
+        <seg>バーグの宿でサガード・バトルボーンと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -73649,8 +73649,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to the owner of the General Store in Berg to deliver a business ledger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001919Z" creationid="urakata" creationdate="20190406T114538Z">
-        <seg>ベルクの雑貨屋の主に話しかけて帳簿を渡す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065426Z" creationid="urakata" creationdate="20190406T114538Z">
+        <seg>バーグの雑貨屋の主に話しかけて帳簿を渡す</seg>
       </tuv>
     </tu>
     <tu>
@@ -75459,8 +75459,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The chamber is in the city of Berg, inside the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T095458Z" creationid="Light" creationdate="20190409T095458Z">
-        <seg>部屋は、エンメルカルの森のベルクにある</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065433Z" creationid="Light" creationdate="20190409T095458Z">
+        <seg>部屋は、エンメルカルの森のバーグにある</seg>
       </tuv>
     </tu>
     <tu>
@@ -76864,8 +76864,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There's trouble in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T163405Z">
-        <seg>ベルクで問題があったそうです。 </seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065416Z" creationid="weedssoul" creationdate="20190405T163405Z">
+        <seg>バーグで問題があったそうです。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -77065,8 +77065,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They blasted a tunnel under Berg to get in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T053106Z" creationid="pugnus" creationdate="20190415T053106Z">
-        <seg>彼らはベルクの地下にトンネルを開け、侵入してきたようだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190415T053106Z">
+        <seg>彼らはバーグの地下にトンネルを開け、侵入してきたようだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77169,8 +77169,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They likely have their whole army on the road for Berg as we speak!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T051340Z" creationid="pugnus" creationdate="20190416T051340Z">
-        <seg>こうしているうちにも、奴らはおそらく、ベルクへと進軍しているのだ！</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190416T051340Z">
+        <seg>こうしているうちにも、奴らはおそらく、バーグへと進軍しているのだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -78532,8 +78532,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190416T110935Z" creationid="urakata" creationdate="20190407T031758Z">
-        <seg>青の議会に参加するためにベルクの東地区にいるリッサと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065427Z" creationid="urakata" creationdate="20190407T031758Z">
+        <seg>青の議会に参加するためにバーグの東地区にいるリッサと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -80245,8 +80245,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wait 24 hours for the armor piece to be crafted in Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190410T001817Z" creationid="urakata" creationdate="20190331T141910Z">
-        <seg>ベルクで鎧の部品が完成するまで24時間待つ</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065425Z" creationid="urakata" creationdate="20190331T141910Z">
+        <seg>バーグで鎧の部品が完成するまで24時間待つ</seg>
       </tuv>
     </tu>
     <tu>
@@ -80845,8 +80845,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We cannot risk the use of explosives so close to Berg until the final step.”</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T090947Z" creationid="pugnus" creationdate="20190415T090947Z">
-        <seg>最後の段階まで、ベルクの近くで爆薬を使用することはできない。”</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190415T090947Z">
+        <seg>最後の段階まで、バーグの近くで爆薬を使用することはできない。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -81518,8 +81518,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We're going back to Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T063754Z" creationid="urakata" creationdate="20190430T063645Z">
-        <seg>ベルクに帰るんだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T063645Z">
+        <seg>バーグに帰るんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83199,8 +83199,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When you next awake, you are being carried by a hunter from Berg, on his way back to the city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095612Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
-        <seg>私が次に目を覚ましたとき、私はベルクに住む猟師によって運ばれていた。彼は街に帰る途中だ。
+      <tuv lang="JA" changeid="seto" changedate="20190502T065436Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
+        <seg>私が次に目を覚ましたとき、私はバーグに住む猟師によって運ばれていた。彼は街に帰る途中だ。
 </seg>
       </tuv>
     </tu>
@@ -83248,8 +83248,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When your eyes open, you find yourself wrapped up in a bed at the inn in Berg, having been unconscious for days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095512Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
-        <seg>私は自分がベルクの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
+      <tuv lang="JA" changeid="seto" changedate="20190502T065436Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
+        <seg>私は自分がバーグの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
 </seg>
       </tuv>
     </tu>
@@ -84928,8 +84928,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You awaken in one of the beds in Berg's inn, suffering from a broken rib.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T102510Z" creationid="Horizon" creationdate="20190404T074843Z">
-        <seg>私はベルクにある宿屋のベッドで目を覚ました。折れた肋骨が痛む。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065437Z" creationid="Horizon" creationdate="20190404T074843Z">
+        <seg>私はバーグにある宿屋のベッドで目を覚ました。折れた肋骨が痛む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88547,8 +88547,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Confront Jager Sullivan in the City of Berg, in the Enmerkar Forest.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T102438Z" creationid="Light" creationdate="20190409T054403Z">
-        <seg>[任意]エンメルカルの森にいる、ベルクのイェーガーサリバンに立ち向かう</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065427Z" creationid="Light" creationdate="20190409T054403Z">
+        <seg>[任意]エンメルカルの森にいる、バーグのイェーガーサリバンに立ち向かう</seg>
       </tuv>
     </tu>
     <tu>
@@ -88571,8 +88571,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Find a smith in Berg to make a trinket for Roland.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T094040Z">
-        <seg>[任意]ローランドの装具を作るためにベルクで鍛冶屋を見つける</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065430Z" creationid="Light" creationdate="20190409T094040Z">
+        <seg>[任意]ローランドの装具を作るためにバーグで鍛冶屋を見つける</seg>
       </tuv>
     </tu>
     <tu>
@@ -88635,16 +88635,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Taleron, in Berg, needs Blue Sand, a Mana Stone, and either an Emerald or a Ruby to make Roland’s focus tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T021258Z" creationid="Light" creationdate="20190409T094143Z">
-        <seg>[任意]ベルクのタレロンは、ローランドの装備を作るために青い砂、マナストーン、そしてエメラルドかルビーを必要としている</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065431Z" creationid="Light" creationdate="20190409T094143Z">
+        <seg>[任意]バーグのタレロンは、ローランドの装備を作るために青い砂、マナストーン、そしてエメラルドかルビーを必要としている</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Talk to Roland, in Berg, about focusing his magical power.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190409T093959Z">
-        <seg>[任意]魔法の力を集中させることについて、ベルクでローランドと話す</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190502T065430Z" creationid="Light" creationdate="20190409T093959Z">
+        <seg>[任意]魔法の力を集中させることについて、バーグでローランドと話す</seg>
       </tuv>
     </tu>
     <tu>
