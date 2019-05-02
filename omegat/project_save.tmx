@@ -23122,6 +23122,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Deal +[E2V1]% Fire Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070050Z" creationid="pugnus" creationdate="20190502T070050Z">
+        <seg>炎属性のダメージが+[E2V1]%増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>deal withが「始末する」か「と取引する」かは文脈を見ないと不明</note>
       <tuv lang="EN-US">
         <seg>Deal with Balira, the Witch Warlord.</seg>
@@ -39617,6 +39625,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immolate</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070216Z" creationid="pugnus" creationdate="20190502T070216Z">
+        <seg>焼き討ち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immune to Damage, but vulnerable to Impact.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T064215Z" creationid="pugnus" creationdate="20190502T064215Z">
@@ -39677,6 +39693,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T064657Z" creationid="pugnus" creationdate="20190502T064657Z">
         <seg>衝撃耐性 [E3V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070258Z" creationid="pugnus" creationdate="20190502T070258Z">
+        <seg>衝撃上昇</seg>
       </tuv>
     </tu>
     <tu>
@@ -71952,8 +71976,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take [E1V1] Fire Damage per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T061821Z" creationid="totochan" creationdate="20190403T133841Z">
-        <seg>毎秒[E1V1]の炎ダメージを受ける</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070054Z" creationid="totochan" creationdate="20190403T133841Z">
+        <seg>毎秒[E1V1]の炎ダメージを受ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80472,6 +80496,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T103407Z" creationid="pugnus" creationdate="20190406T015921Z">
         <seg>広範囲で高い衝撃力を持つ弱い攻撃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon Impact +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070240Z" creationid="pugnus" creationdate="20190502T070240Z">
+        <seg>武器の衝撃力+[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
