@@ -11551,6 +11551,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancient Ruins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024724Z" creationid="pugnus" creationdate="20190502T024724Z">
+        <seg>古代遺跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ancient forest of giant trees, with vicious arcane monsters prowling about.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114432Z" creationid="Gaiden Shinji" creationdate="20190403T114432Z">
@@ -14118,6 +14126,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112214Z" creationid="Gaiden Shinji" creationdate="20190403T110457Z">
         <seg>射手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandit Camp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024657Z" creationid="pugnus" creationdate="20190502T024657Z">
+        <seg>盗賊の野営地</seg>
       </tuv>
     </tu>
     <tu>
@@ -18361,6 +18377,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114527Z" creationid="Gaiden Shinji" creationdate="20190403T114527Z">
         <seg>コンフラックスチャンバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflux Mountain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024841Z" creationid="pugnus" creationdate="20190502T024841Z">
+        <seg>コンフラックス山</seg>
       </tuv>
     </tu>
     <tu>
@@ -27483,6 +27507,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fort</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024824Z" creationid="pugnus" creationdate="20190502T024824Z">
+        <seg>砦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fortunately, they ignore you as you free yourself from the stake and arm yourself for another round!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102312Z" creationid="pugnus" creationdate="20190404T113343Z">
@@ -29104,6 +29136,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="JA" changeid="pugnus" changedate="20190425T103336Z" creationid="pugnus" creationdate="20190425T103336Z">
         <seg>軽犯罪を起こした巨人は、その罪の重さにより、被害者もしくは相当する相手に対し、磁器またはアッシュシルクを作成する必要がある。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giants’ Ruins</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024911Z" creationid="pugnus" creationdate="20190502T024911Z">
+        <seg>巨人の遺跡群</seg>
       </tuv>
     </tu>
     <tu>
@@ -63764,6 +63804,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111746Z" creationid="Gaiden Shinji" creationdate="20190404T111746Z">
         <seg>前哨基地跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ruins of Old Levant</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024931Z" creationid="pugnus" creationdate="20190502T024931Z">
+        <seg>旧レバントの遺跡</seg>
       </tuv>
     </tu>
     <tu>
