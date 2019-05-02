@@ -59575,6 +59575,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Basic Attacks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031718Z" creationid="pugnus" creationdate="20190502T031718Z">
+        <seg>攻撃の基本について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Basic Combat</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T030251Z" creationid="pugnus" creationdate="20190502T030251Z">
@@ -59615,6 +59623,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Crafting a Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031837Z" creationid="pugnus" creationdate="20190502T031837Z">
+        <seg>キャンプファイヤーの作成について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Deploying a Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031801Z" creationid="pugnus" creationdate="20190502T031801Z">
+        <seg>キャンプファイヤーの配置について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Fireballs</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T030638Z" creationid="pugnus" creationdate="20190502T030638Z">
@@ -59639,6 +59663,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Hunger and Thirst</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031916Z" creationid="pugnus" creationdate="20190502T031916Z">
+        <seg>空腹と渇きについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Illnesses</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031652Z" creationid="pugnus" creationdate="20190502T031652Z">
@@ -59651,6 +59683,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031335Z" creationid="pugnus" creationdate="20190502T031335Z">
         <seg>耐久性について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Item Weight</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032003Z" creationid="pugnus" creationdate="20190502T032003Z">
+        <seg>アイテムの重量について読む</seg>
       </tuv>
     </tu>
     <tu>
@@ -59675,6 +59715,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031122Z" creationid="pugnus" creationdate="20190502T031122Z">
         <seg>負の影響について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Predator Leap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031939Z" creationid="pugnus" creationdate="20190502T031939Z">
+        <seg>猛獣の跳躍について読む</seg>
       </tuv>
     </tu>
     <tu>
