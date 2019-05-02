@@ -9558,6 +9558,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abandoned Docks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025449Z" creationid="pugnus" creationdate="20190502T025449Z">
+        <seg>放棄された桟橋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abandoned Shed</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111224Z" creationid="Gaiden Shinji" creationdate="20190404T111224Z">
@@ -44962,6 +44970,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lonely Tower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025335Z" creationid="pugnus" creationdate="20190502T025335Z">
+        <seg>孤立した塔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>LongTravel_RequiredTravelRation</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T021941Z" creationid="setom" creationdate="20190402T021941Z">
@@ -53826,6 +53842,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130627Z" creationid="Gaiden Shinji" creationdate="20190403T114316Z">
         <seg>パラジウム鉱脈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Parched Shipwrecks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025600Z" creationid="pugnus" creationdate="20190502T025600Z">
+        <seg>干あがった難破船</seg>
       </tuv>
     </tu>
     <tu>
