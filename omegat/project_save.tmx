@@ -45483,6 +45483,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Regen [E2V1] per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032607Z" creationid="pugnus" creationdate="20190502T032607Z">
+        <seg>マナの回復毎秒 [E2V1]％</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana Stone</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114237Z" creationid="Gaiden Shinji" creationdate="20190403T114237Z">
@@ -48349,8 +48357,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Movement, Stamina Cost and Hot Weather penalties from heavy armors is reduced.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T071250Z" creationid="hiru4" creationdate="20190403T071250Z">
-        <seg>重装備によるペナルティは移動、スタミナ、体温</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032411Z" creationid="hiru4" creationdate="20190403T071250Z">
+        <seg>重装備によるペナルティ（移動、スタミナ、体温）の軽減。</seg>
       </tuv>
     </tu>
     <tu>
