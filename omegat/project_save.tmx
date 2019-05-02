@@ -20443,6 +20443,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cordon Bleu</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101805Z" creationid="pugnus" creationdate="20190502T101805Z">
+        <seg>料理の名人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrupted Ghosts surge from the Altar, their emergence blasting you away.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103724Z" creationid="pugnus" creationdate="20190404T094720Z">
@@ -25605,6 +25613,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T100207Z" creationid="pugnus" creationdate="20190409T031239Z">
         <seg>より複雑な圧力版による罠を展開できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encyclopedic!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101920Z" creationid="pugnus" creationdate="20190502T101920Z">
+        <seg>百科事典！</seg>
       </tuv>
     </tu>
     <tu>
@@ -67862,6 +67878,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T092725Z" creationid="pugnus" creationdate="20190423T092725Z">
         <seg>学者の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Science, Troglodyte!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101858Z" creationid="pugnus" creationdate="20190502T101858Z">
+        <seg>科学、隠者！</seg>
       </tuv>
     </tu>
     <tu>
