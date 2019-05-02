@@ -26225,6 +26225,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethereal Damage and Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064953Z" creationid="pugnus" creationdate="20190502T064945Z">
+        <seg>エーテルダメージ＆耐性 [E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethereal Resistance +[E4V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133211Z" creationid="totochan" creationdate="20190403T133211Z">
@@ -46428,10 +46436,26 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Marsh High Poison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064901Z" creationid="pugnus" creationdate="20190502T064901Z">
+        <seg>沼の猛毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Marsh Misc.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112133Z" creationid="seto" creationdate="20190404T103307Z">
         <seg>マーシュ周辺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marsh Poison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064838Z" creationid="pugnus" creationdate="20190502T064838Z">
+        <seg>沼の毒</seg>
       </tuv>
     </tu>
     <tu>
