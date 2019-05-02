@@ -78755,6 +78755,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Things aren't well here in Monsoon either...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T170919Z" creationid="taman" creationdate="20190502T170919Z">
+        <seg>もう一つ、ここモンスーンでも不穏な空気が流れています……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Things have gotten really bad while I was in pieces.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T062659Z" creationid="taman" creationdate="20190501T062659Z">
@@ -81532,6 +81540,8 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ゼフィリアンが死んだことはプレイヤーは知っているはずでは？
+その場にいたはず・・・</note>
       <tuv lang="EN-US">
         <seg>Wait, Zephyrien is dead?</seg>
       </tuv>
