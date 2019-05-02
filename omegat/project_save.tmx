@@ -60865,6 +60865,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Puncture</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110643Z" creationid="pugnus" creationdate="20190502T110643Z">
+        <seg>穿刺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pungent Paste</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T071135Z" creationid="pugnus" creationdate="20190424T071135Z">
@@ -62556,8 +62564,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Sword Close combat attack which deals high Damage and Impact, and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040120Z" creationid="rkmad" creationdate="20190403T074144Z">
-        <seg>必要:1-Handed Sword 敵を刺し貫き高いダメージと衝撃を与え、Pain状態に陥れる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110736Z" creationid="rkmad" creationdate="20190403T074144Z">
+        <seg>必要：片手持ち剣 敵を刺し貫き高いダメージと衝撃を与え、疼痛に陥れる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62620,8 +62628,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040113Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Discipline Boonの発動と、近接武器。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110548Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：規律の恩恵の発動と、近接武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80742,8 +80750,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Using the skill consumes the Discipline boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035538Z" creationid="pugnus" creationdate="20190408T123951Z">
-        <seg>この攻撃を行うと、DisciplineBoonを消費する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110559Z" creationid="pugnus" creationdate="20190408T123951Z">
+        <seg>この攻撃を行うと、規律の恩恵を消費する。</seg>
       </tuv>
     </tu>
     <tu>
