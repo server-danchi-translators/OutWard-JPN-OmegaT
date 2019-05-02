@@ -23577,6 +23577,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not forget, Simeon, Levant started this war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T004306Z" creationid="pugnus" creationdate="20190502T004306Z">
+        <seg>シメオン、忘れないでください。レバントがこの戦争を始めたのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not interact with her, she is not aware of our full plans and I want to keep it that way.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T044734Z" creationid="pugnus" creationdate="20190416T044734Z">
@@ -31681,6 +31689,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T052928Z" creationid="urakata" creationdate="20190427T015147Z">
         <seg>気は変わった、[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you dealt with the one behind the attack on our city?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T004411Z" creationid="pugnus" creationdate="20190502T004411Z">
+        <seg>あなたたちは、私たちの町への攻撃の背後にあるものに対処しましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42163,6 +42179,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115620Z" creationid="urakata" creationdate="20190501T115620Z">
         <seg>会えてよかった!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s hard to believe you’re negotiating in good faith, Lady Aberdeen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T004215Z" creationid="pugnus" creationdate="20190502T004215Z">
+        <seg>アバンディーンさん、あなたが誠意を持っているとは信じることができません。</seg>
       </tuv>
     </tu>
     <tu>
