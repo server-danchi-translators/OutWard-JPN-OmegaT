@@ -27569,6 +27569,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Finish all 3 quest lines.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092846Z" creationid="pugnus" creationdate="20190502T092846Z">
+        <seg>３つのクエストラインをすべて終了する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114706Z" creationid="setom" creationdate="20190401T114706Z">
@@ -28829,6 +28837,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T120036Z" creationid="pugnus" creationdate="20190408T120036Z">
         <seg>この方法で攻撃をブロックすることにより、あなたはDiscipline(規律)を得るだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gain Mana from the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093007Z" creationid="pugnus" creationdate="20190502T093007Z">
+        <seg>コンフラックス山からマナを得る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45583,6 +45599,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T125259Z" creationid="weedssoul" creationdate="20190406T125259Z">
         <seg>バックパックとポケットを効果的に使い分ける方法は必ず学ばなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Leave Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092934Z" creationid="pugnus" creationdate="20190502T092934Z">
+        <seg>シエルゾを離れる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79991,6 +80015,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T021746Z" creationid="setom" creationdate="20190402T081152Z">
         <seg>Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけ猛獣の跳躍が使えるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use a Breakthrough Point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093107Z" creationid="pugnus" creationdate="20190502T093107Z">
+        <seg>突破口を使用する。</seg>
       </tuv>
     </tu>
     <tu>
