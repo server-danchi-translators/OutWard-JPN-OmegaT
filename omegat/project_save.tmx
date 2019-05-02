@@ -20255,8 +20255,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Crafting: Coralhorn Bow</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Coralhorn Bow</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014357Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>クラフト:コーラルホーンの弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -20415,8 +20415,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Crafting: Horror Bow</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Horror Bow</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014343Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>クラフト:戦慄の弓</seg>
       </tuv>
     </tu>
     <tu>
@@ -25987,6 +25987,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evasion Shot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014234Z" creationid="pugnus" creationdate="20190502T014234Z">
+        <seg>回避撃ち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even gods make mistakes.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T164645Z" creationid="taman" creationdate="20190411T164645Z">
@@ -27103,6 +27111,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114535Z" creationid="Gaiden Shinji" creationdate="20190404T114535Z">
         <seg>ファイブアイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Flamethrower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014255Z" creationid="pugnus" creationdate="20190502T014255Z">
+        <seg>炎投げつけ</seg>
       </tuv>
     </tu>
     <tu>
@@ -54118,6 +54134,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Piercing Shot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014539Z" creationid="pugnus" creationdate="20190502T014539Z">
+        <seg>徹甲撃ち</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pigeoneye</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115328Z" creationid="Gaiden Shinji" creationdate="20190404T115328Z">
@@ -59802,24 +59826,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="pugnus" creationdate="20190406T015338Z">
-        <seg>必要: Bow 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014403Z" creationid="pugnus" creationdate="20190406T015338Z">
+        <seg>必要: 弓 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Horizon" creationdate="20190403T135301Z">
-        <seg>必要:Bow 後方にジャンプしながら矢を撃つ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014315Z" creationid="Horizon" creationdate="20190403T135301Z">
+        <seg>必要:弓 後方にジャンプしながら矢を撃つ。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Strong shot that goes through enemies and hits other foes behind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Horizon" creationdate="20190403T135727Z">
-        <seg>必要:Bow 敵を貫通して後ろにいる他の敵に命中する強いショット。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014412Z" creationid="Horizon" creationdate="20190403T135727Z">
+        <seg>必要:弓 敵を貫通して後ろにいる他の敵に命中する強いショット。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -66557,6 +66581,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120052Z" creationid="Gaiden Shinji" creationdate="20190404T120052Z">
         <seg>スマグラーのメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sniper Shot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014307Z" creationid="pugnus" creationdate="20190502T014307Z">
+        <seg>狙撃</seg>
       </tuv>
     </tu>
     <tu>
