@@ -81477,6 +81477,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wait, Zephyrien is dead?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T162913Z" creationid="taman" creationdate="20190502T162913Z">
+        <seg>待ってくださいゼフィリアンが亡くなったとは何ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wait, the Krypteia actually exist?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225419Z" creationid="urakata" creationdate="20190426T225419Z">
