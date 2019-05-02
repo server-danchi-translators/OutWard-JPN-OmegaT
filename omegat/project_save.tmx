@@ -13236,8 +13236,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Auraian</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T023753Z" creationid="pugnus" creationdate="20190502T023753Z">
-        <seg>アウライ人</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T072032Z" creationid="pugnus" creationdate="20190502T023753Z">
+        <seg>オーライ人</seg>
       </tuv>
     </tu>
     <tu>
@@ -72152,8 +72152,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032913Z" creationid="setom" creationdate="20190401T115754Z">
-        <seg>取る:</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071537Z" creationid="setom" creationdate="20190401T115754Z">
+        <seg>取る</seg>
       </tuv>
     </tu>
     <tu>
@@ -80758,8 +80758,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapons are held in this hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190402T145555Z" creationid="totochan" creationdate="20190402T145555Z">
-        <seg>武器を手に持っています。Weapons are held in this hand.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071758Z" creationid="totochan" creationdate="20190402T145555Z">
+        <seg>武器を手に持っています。</seg>
       </tuv>
     </tu>
     <tu>
