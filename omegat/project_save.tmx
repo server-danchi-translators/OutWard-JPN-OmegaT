@@ -12280,6 +12280,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apex Predator</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101627Z" creationid="pugnus" creationdate="20190502T101627Z">
+        <seg>最上位の捕食者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apparently, the rabble there has found some solid leadership and is planning to attack Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031300Z" creationid="urakata" creationdate="20190428T031300Z">
@@ -26965,6 +26973,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074111Z" creationid="hiru4" creationdate="20190403T070648Z">
         <seg>例外：受信ループが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exceptional Skill</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101353Z" creationid="pugnus" creationdate="20190502T101353Z">
+        <seg>優れた技術</seg>
       </tuv>
     </tu>
     <tu>
@@ -67846,6 +67862,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T092725Z" creationid="pugnus" creationdate="20190423T092725Z">
         <seg>学者の杖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scourge Slayer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T101534Z" creationid="pugnus" creationdate="20190502T101534Z">
+        <seg>厄災を討つ者</seg>
       </tuv>
     </tu>
     <tu>
