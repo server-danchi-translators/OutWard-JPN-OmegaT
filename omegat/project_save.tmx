@@ -59591,6 +59591,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Character Needs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031553Z" creationid="pugnus" creationdate="20190502T031553Z">
+        <seg>キャラクターの欲求について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Cold Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031535Z" creationid="pugnus" creationdate="20190502T031535Z">
+        <seg>寒い気温について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Cooking</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031037Z" creationid="pugnus" creationdate="20190502T031037Z">
@@ -59615,6 +59631,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Hot Temperatures</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031523Z" creationid="pugnus" creationdate="20190502T031523Z">
+        <seg>熱い気温について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Illnesses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031652Z" creationid="pugnus" creationdate="20190502T031652Z">
+        <seg>病気について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Item Durability</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031335Z" creationid="pugnus" creationdate="20190502T031335Z">
@@ -59627,6 +59659,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T012014Z" creationid="pugnus" creationdate="20190502T012014Z">
         <seg>ランタンについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Locking on Enemies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T031612Z" creationid="pugnus" creationdate="20190502T031612Z">
+        <seg>敵のロックオンについて読む</seg>
       </tuv>
     </tu>
     <tu>
