@@ -28049,6 +28049,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flash Onslaught</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110532Z" creationid="pugnus" creationdate="20190502T110532Z">
+        <seg>閃光の突撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flash Trap</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T024500Z" creationid="pugnus" creationdate="20190423T024500Z">
@@ -62235,8 +62243,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Reduces the weapon’s durability by 10.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T123533Z" creationid="pugnus" creationdate="20190408T123533Z">
-        <seg>武器の耐久度が10低下する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110346Z" creationid="pugnus" creationdate="20190408T123533Z">
+        <seg>武器の耐久度が１０低下する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62540,8 +62548,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040108Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-Handed Bludgeon 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110339Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：片手持ち棍棒 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
       </tuv>
     </tu>
     <tu>
