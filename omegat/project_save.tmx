@@ -10705,8 +10705,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy is used to create consumable items with very potent properties, such as potions that heal instantly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T013035Z" creationid="hiru4" creationdate="20190403T013035Z">
-        <seg>Alchemyは即座に回復する非常に強力な性質を持つ薬等の消耗品を作るのに使われます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071219Z" creationid="hiru4" creationdate="20190403T013035Z">
+        <seg>錬金術は即座に回復する非常に強力な性質を持つ薬等の消耗品を作るのに使われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18165,8 +18165,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cold Weather Def +[E1V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064431Z" creationid="totochan" creationdate="20190403T140308Z">
-        <seg>冷気耐性 +[E3V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071008Z" creationid="totochan" creationdate="20190403T140308Z">
+        <seg>冷気耐性+[E3V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -33911,8 +33911,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Hot Weather Def +[E1V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140501Z" creationid="totochan" creationdate="20190403T140501Z">
-        <seg>高温耐性 +[E1V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071018Z" creationid="totochan" creationdate="20190403T140501Z">
+        <seg>高温耐性+[E1V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -46102,8 +46102,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mana Regen [E2V1] per second.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T032750Z" creationid="pugnus" creationdate="20190502T032607Z">
-        <seg>マナの回復毎秒[E2V1]％</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070947Z" creationid="pugnus" creationdate="20190502T032607Z">
+        <seg>マナの回復毎秒[E2V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -55443,6 +55443,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T125011Z" creationid="pugnus" creationdate="20190423T124559Z">
         <seg>板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071058Z" creationid="pugnus" creationdate="20190502T071058Z">
+        <seg>プレイヤー</seg>
       </tuv>
     </tu>
     <tu>
