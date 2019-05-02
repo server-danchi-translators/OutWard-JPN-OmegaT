@@ -53230,6 +53230,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Resistances +[E3V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013653Z" creationid="pugnus" creationdate="20190502T013653Z">
+        <seg>その他の抵抗 +[E3V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other items can help manage your temperature, such as potions, tents or meals.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091909Z" creationid="setom" creationdate="20190402T091909Z">
@@ -53966,10 +53974,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physical Protection +[E2V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013630Z" creationid="pugnus" creationdate="20190502T013630Z">
+        <seg>物理防御 +[E2V1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Physical Resistance</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113625Z" creationid="setom" creationdate="20190401T113606Z">
         <seg>物理耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013614Z" creationid="pugnus" creationdate="20190502T013614Z">
+        <seg>物理抵抗 +[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58347,6 +58371,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020802Z" creationid="hiru4" creationdate="20190402T020802Z">
         <seg>防御力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection +[E2V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013717Z" creationid="pugnus" creationdate="20190502T013717Z">
+        <seg>防御力 +[E2V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -63556,6 +63588,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T013428Z" creationid="pugnus" creationdate="20190502T013130Z">
         <seg>ルーンのランタン（強）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runic Protection</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013534Z" creationid="pugnus" creationdate="20190502T013534Z">
+        <seg>ルーンの保護</seg>
       </tuv>
     </tu>
     <tu>
@@ -75717,6 +75757,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T092153Z" creationid="pugnus" creationdate="20190423T092153Z">
         <seg>三たび鍛えた斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Throw Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013814Z" creationid="pugnus" creationdate="20190502T013814Z">
+        <seg>ランタン投げつけ</seg>
       </tuv>
     </tu>
     <tu>
