@@ -9718,6 +9718,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ace Detective</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095921Z" creationid="pugnus" creationdate="20190502T095921Z">
+        <seg>最高の探偵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Achievement_ACandleSnuffedout_6_Desc</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T044822Z" creationid="seto" creationdate="20190406T044822Z">
@@ -23083,6 +23091,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damage control</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T100303Z" creationid="pugnus" creationdate="20190502T100303Z">
+        <seg>損害拡大防止対策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>DamageType_Decay</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114540Z" creationid="setom" creationdate="20190401T114540Z">
@@ -28013,6 +28029,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T081607Z">
         <seg> これで、5日間だけは村のみんなはあなたに手出しすることは出来ないでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For All Aurai</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095843Z" creationid="pugnus" creationdate="20190502T095843Z">
+        <seg>オーライのすべてに</seg>
       </tuv>
     </tu>
     <tu>
@@ -55249,8 +55273,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Origin Story</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T095812Z" creationid="pugnus" creationdate="20190502T095812Z">
-        <seg>起源の物語</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095825Z" creationid="pugnus" creationdate="20190502T095812Z">
+        <seg>物語の起源</seg>
       </tuv>
     </tu>
     <tu>
