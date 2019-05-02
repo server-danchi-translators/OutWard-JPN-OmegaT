@@ -59567,10 +59567,66 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Basic Combat</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030251Z" creationid="pugnus" creationdate="20190502T030251Z">
+        <seg>戦闘の基本について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Blocking</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030324Z" creationid="pugnus" creationdate="20190502T030324Z">
+        <seg>ブロッキングについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Lanterns</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T012014Z" creationid="pugnus" creationdate="20190502T012014Z">
         <seg>ランタンについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Quickslots</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030433Z" creationid="pugnus" creationdate="20190502T030433Z">
+        <seg>クイックスロットについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030406Z" creationid="pugnus" creationdate="20190502T030406Z">
+        <seg>スキルについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Weapon Skills</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030420Z" creationid="pugnus" creationdate="20190502T030420Z">
+        <seg>武器のスキルについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about the Stability Bar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030346Z" creationid="pugnus" creationdate="20190502T030346Z">
+        <seg>スタビリティーバーについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about the Tutorial</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030237Z" creationid="pugnus" creationdate="20190502T030237Z">
+        <seg>チュートリアルについて読む</seg>
       </tuv>
     </tu>
     <tu>
