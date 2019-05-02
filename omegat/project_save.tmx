@@ -62684,8 +62684,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Infused Weapon, Shield Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="pugnus" creationdate="20190406T021446Z">
-        <seg>必要:付与された武器と、盾 盾に武器を打ち付けることで、武器に付与されたエレメントを爆発させる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104652Z" creationid="pugnus" creationdate="20190406T021446Z">
+        <seg>必要：付与された武器と、盾 盾に武器を打ち付けることで、武器に付与されたエレメントを爆発させる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62700,8 +62700,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lexicon Blue rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040020Z" creationid="pugnus" creationdate="20190406T024002Z">
-        <seg>必要:Lexicon Blue Rune これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104948Z" creationid="pugnus" creationdate="20190406T024002Z">
+        <seg>必要：青のルーンの辞書 これ自体では何もできないが、正しい順序で他のルーンと組み合わせることで、コンボ効果を生じることができる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62788,8 +62788,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Shield Rush forward to hit foes with your shield for high Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014951Z" creationid="rkmad" creationdate="20190403T070631Z">
-        <seg>必要: 盾 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104643Z" creationid="rkmad" creationdate="20190403T070631Z">
+        <seg>必要： 盾 盾を構えて前方に突進し、ぶつかった相手に強い衝撃を与える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66350,6 +66350,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134716Z" creationid="totochan" creationdate="20190403T134716Z">
         <seg>ルーンの効果なし、正しいルーンを組み合わせてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rune: Dez</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104724Z" creationid="pugnus" creationdate="20190502T104724Z">
+        <seg>ルーン「Dez」</seg>
       </tuv>
     </tu>
     <tu>
