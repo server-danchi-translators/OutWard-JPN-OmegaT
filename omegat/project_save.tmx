@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32739,6 +32739,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Half the marsh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T160201Z" creationid="taman" creationdate="20190502T071152Z">
+        <seg>沼の半分ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Half the ship came apart before I was able to run aground.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T025723Z" creationid="weedssoul" creationdate="20190406T025723Z">
@@ -53500,6 +53508,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T094955Z" creationid="pugnus" creationdate="20190502T094955Z">
         <seg>水源地から「ホタルパウダー」を入手する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obviously we would like to come to a fair arrangement, but Sirroco are being highly aggressive in their demands, and Damian Lockwell is rejecting the discussion completely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T155848Z" creationid="taman" creationdate="20190502T071825Z">
+        <seg>我々は公平な取引に持ち込みたいと考えていますが、相手方はこの要求を押し通すつもりです。そしてダミアンロックウェルはシロッコと交渉の場を設ける気は一切ないようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75753,6 +75769,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That sounds unreasonable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T071438Z" creationid="taman" creationdate="20190502T071438Z">
+        <seg>なんとも道理から外れた要求ではないですか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That the Blue Chamber suffers.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T073726Z" creationid="pugnus" creationdate="20190429T073726Z">
@@ -78473,6 +78497,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They're demanding we give up half our land so they can settle here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T071248Z" creationid="taman" creationdate="20190502T071118Z">
+        <seg>彼らは部族の人間が住めるよう領地の半分を差し出すよう我々に要求しているのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They're desperately addicted to fresh life now.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T034806Z" creationid="taman" creationdate="20190428T034806Z">
@@ -78646,6 +78678,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114221Z">
         <seg>料理鍋や罠なども大いに助けとなるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Things may get heated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T155814Z" creationid="taman" creationdate="20190502T155814Z">
+        <seg>ことはThings may get heated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81304,6 +81344,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T101330Z" creationid="totochan" creationdate="20190402T082921Z">
         <seg>音声音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Volcanic eruptions have put their primary settlement, Caldera, in grave danger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T070952Z" creationid="taman" creationdate="20190502T070138Z">
+        <seg>火山が噴火し彼らの居住区であったカルデラは非常に危険な状態に陥っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86242,8 +86290,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can feel the memories begin to fill with rage...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T054415Z" creationid="taman" creationdate="20190502T054415Z">
-        <seg>不死者の記憶が怒りに満ちるのを感じた……)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T070915Z" creationid="taman" creationdate="20190502T054415Z">
+        <seg>不死者の記憶から怒りの声が聞こえる……)</seg>
       </tuv>
     </tu>
     <tu>
