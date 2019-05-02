@@ -9108,6 +9108,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Show me that you can make a Fang Weapon&lt;/b&gt;&lt;/color&gt; from the remains of your enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T065707Z" creationid="urakata" creationdate="20190502T065600Z">
+        <seg>倒した敵を材料に、&lt;color=#00CCFF&gt;&lt;b&gt;Fang Weaponを作って見せてほしいのです&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;So we put it in the old storage shed.&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T032441Z" creationid="pugnus" creationdate="20190422T032349Z">
@@ -28433,6 +28441,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T065734Z" creationid="urakata" creationdate="20190502T065734Z">
+        <seg>Gabriella_BC_Prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gahh...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064637Z" creationid="urakata" creationdate="20190430T064637Z">
@@ -33225,6 +33241,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012201Z" creationid="seto" creationdate="20190413T012201Z">
         <seg>ここは、大したところじゃないけど、でも少しでも助けが必要なんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, let me hold it for a moment...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T065757Z" creationid="urakata" creationdate="20190502T065757Z">
+        <seg>どれ、少し見せてください...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39080,6 +39104,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you don't know how, the local blacksmith can teach you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T065733Z" creationid="urakata" creationdate="20190502T065733Z">
+        <seg>作り方がわからなければ、地元の鍛冶屋に聞いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you don't milk it often enough, it'll just build up until you have a major problem.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T094443Z" creationid="taman" creationdate="20190420T092040Z">
@@ -41445,6 +41477,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113308Z" creationid="Mad" creationdate="20190406T113308Z">
         <seg>じゃあ聞くけれど、リッサの下で――シエルゾの中で過ごす人生のほうが素晴らしいの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is that a Fang Weapon?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T065742Z" creationid="urakata" creationdate="20190502T065742Z">
+        <seg>Fang Weaponですか?</seg>
       </tuv>
     </tu>
     <tu>
