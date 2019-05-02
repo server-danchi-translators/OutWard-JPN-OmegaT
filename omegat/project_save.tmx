@@ -29316,6 +29316,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give Oliele the blessing instead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T050431Z" creationid="taman" creationdate="20190502T050431Z">
+        <seg>祝福は私ではなくオリエルにGive Oliele the blessing instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give a Tribal Favor or a sum of silver to Rissa, in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T104707Z" creationid="Light" creationdate="20190409T104707Z">
@@ -72922,8 +72930,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank you for your blessing.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T050110Z" creationid="taman" creationdate="20190502T050110Z">
-        <seg>祝福を授けていただきありがとうございます。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T050730Z" creationid="taman" creationdate="20190502T050110Z">
+        <seg>謹んで祝福をお受けいたします。</seg>
       </tuv>
     </tu>
     <tu>
