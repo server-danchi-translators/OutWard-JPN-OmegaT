@@ -18061,6 +18061,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colossal Hive</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025701Z" creationid="pugnus" creationdate="20190502T025701Z">
+        <seg>巨大巣箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Combined bread and alpha meat, which keep the meat’s combat-enhancing properties.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T070534Z" creationid="pugnus" creationdate="20190424T070534Z">
@@ -76225,10 +76233,42 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To Abrassar</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025836Z" creationid="pugnus" creationdate="20190502T025836Z">
+        <seg>アブラサールへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Chersonese</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025827Z" creationid="pugnus" creationdate="20190502T025827Z">
+        <seg>ケルソネソスへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Continue</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021349Z" creationid="hiru4" creationdate="20190402T021349Z">
         <seg>コンティニュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Enmerkar Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025811Z" creationid="pugnus" creationdate="20190502T025811Z">
+        <seg>エンメルカルの森へ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To Hallowed Marsh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T025845Z" creationid="pugnus" creationdate="20190502T025845Z">
+        <seg>聖なる沼へ</seg>
       </tuv>
     </tu>
     <tu>
