@@ -12103,6 +12103,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anyone that opposes our treaty will be dealt with severely, I assure you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T002844Z" creationid="pugnus" creationdate="20190502T002844Z">
+        <seg>私たちの条約に反対する人は誰であっても厳しく対処しましょう。私はあなたを保証してあげるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anyone who goes to nibble on tasty Montcalm Tribe tribute treats are no longer welcome to bind their memories here.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T081055Z" creationid="taman" creationdate="20190501T081055Z">
@@ -37737,6 +37745,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I've heard of at least one tribe refusing to even speak about peace with us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T002640Z" creationid="pugnus" creationdate="20190502T002640Z">
+        <seg>少なくとも、一つの部族が私たちと平和についての議論をすることさえ拒否していると聞いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I've heard of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T062003Z" creationid="pugnus" creationdate="20190417T062003Z">
@@ -53074,6 +53090,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T014839Z" creationid="pugnus" creationdate="20190423T014807Z">
         <seg>メロン農家ウント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our current state is none of your concern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T002736Z" creationid="pugnus" creationdate="20190502T002736Z">
+        <seg>私たちの置かれている状況は、あなたの関心ごとではないでしょう。</seg>
       </tuv>
     </tu>
     <tu>
