@@ -27369,6 +27369,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feral Strikes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111813Z" creationid="pugnus" creationdate="20190502T111813Z">
+        <seg>野生の攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Field of View</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T022317Z" creationid="hiru4" creationdate="20190402T022317Z">
@@ -29107,8 +29115,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Gain Discipline if you blocked an attack this way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T120036Z" creationid="pugnus" creationdate="20190408T120036Z">
-        <seg>この方法で攻撃をブロックすることにより、あなたはDiscipline(規律)を得るだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111650Z" creationid="pugnus" creationdate="20190408T120036Z">
+        <seg>この方法で攻撃をブロックすることにより、あなたは規律を得るだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41036,8 +41044,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Inflicts Pain and Cripple.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T121539Z" creationid="pugnus" creationdate="20190408T121539Z">
-        <seg>敵を痛みにより、足腰がたたない状態にする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111924Z" creationid="pugnus" creationdate="20190408T121539Z">
+        <seg>敵を痛みにより、足腰がたたず、不自由な状態にする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41724,8 +41732,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Instantly restores your stability and assume a bracing stance which defends against 90% of incoming Damage and Impact.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T115815Z" creationid="pugnus" creationdate="20190408T115815Z">
-        <seg>衝撃に備える姿勢を取ることで、90%のダメージと衝撃を防ぎ、即座にあなたのstabilityは回復される。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111641Z" creationid="pugnus" creationdate="20190408T115815Z">
+        <seg>衝撃に備える姿勢を取ることで、90%のダメージと衝撃を防ぎ、即座にあなたのスタビリティーは回復される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60529,6 +60537,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pommel Counter</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111714Z" creationid="pugnus" creationdate="20190502T111714Z">
+        <seg>柄頭での反撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Popu... popular!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031214Z" creationid="pugnus" creationdate="20190422T031214Z">
@@ -62588,8 +62604,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Axe Low blow that reduces the target's mobility.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040209Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:1-Handed Axe 目標の機動力を低下させる攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111901Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：片手持ち戦斧 目標の機動力を低下させる攻撃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62628,8 +62644,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 2-Handed Sword Counter an attack with a high Impact strike using the sword’s pommel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040157Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:2-Handed Sword 両手剣の柄頭を使った、強い衝撃を与えるカウンター攻撃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111732Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：両手持ちの剣 両手剣の柄頭を使った、強い衝撃を与えるカウンター攻撃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62828,8 +62844,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Melee Weapon, Rage Boon Attack twice, consuming your Rage boon in the process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040202Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Rage Boonの発動と、近接武器 レイジブーンを消費して2回の攻撃をする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111833Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：猛威の恩恵の発動と、近接武器 猛威の恩恵を消費して2回の攻撃をする。</seg>
       </tuv>
     </tu>
     <tu>
