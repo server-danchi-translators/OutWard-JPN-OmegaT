@@ -59583,6 +59583,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Fireballs</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030638Z" creationid="pugnus" creationdate="20190502T030638Z">
+        <seg>火球について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Lanterns</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T012014Z" creationid="pugnus" creationdate="20190502T012014Z">
@@ -59599,10 +59607,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Resting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030747Z" creationid="pugnus" creationdate="20190502T030700Z">
+        <seg>休憩について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T030406Z" creationid="pugnus" creationdate="20190502T030406Z">
         <seg>スキルについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Read about Spell Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T030556Z" creationid="pugnus" creationdate="20190502T030556Z">
+        <seg>呪文の必要条件について読む</seg>
       </tuv>
     </tu>
     <tu>
