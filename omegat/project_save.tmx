@@ -16871,8 +16871,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Causes the Cripple status effect on the target.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T135403Z" creationid="Horizon" creationdate="20190403T135403Z">
-        <seg>ターゲットにCripple状態の効果を与えます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014056Z" creationid="Horizon" creationdate="20190403T135403Z">
+        <seg>ターゲットに不自由状態の効果を与えます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20993,6 +20993,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T094819Z" creationid="pugnus" creationdate="20190423T094819Z">
         <seg>深紅の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crippled</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014126Z" creationid="pugnus" creationdate="20190502T014126Z">
+        <seg>不自由</seg>
       </tuv>
     </tu>
     <tu>
@@ -59898,8 +59906,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Lantern Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035003Z" creationid="Horizon" creationdate="20190403T133329Z">
-        <seg>必要:Lantern 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013836Z" creationid="Horizon" creationdate="20190403T133329Z">
+        <seg>必要:ランタン 装備しているランタンを敵に投げつける。 落下地点が5秒間、燃え上がる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -60010,8 +60018,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Horizon" creationdate="20190403T134941Z">
-        <seg>必要:TorchかLantern トーチやランタンから炎を撃ち出し、Burning効果をもたらす。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T013857Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要:トーチかランタン トーチやランタンから炎を撃ち出し、炎上効果をもたらす。 </seg>
       </tuv>
     </tu>
     <tu>
