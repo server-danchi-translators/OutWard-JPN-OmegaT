@@ -20603,6 +20603,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft a cooking recipe with 4 ingredients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093529Z" creationid="pugnus" creationdate="20190502T093529Z">
+        <seg>４つの材料で料理レシピを作成する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft an alchemy recipe with 4 ingredients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093551Z" creationid="pugnus" creationdate="20190502T093551Z">
+        <seg>４つの材料で錬金術レシピを作成する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft me something.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T063909Z">
@@ -25685,6 +25701,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032905Z" creationid="hiru4" creationdate="20190403T063128Z">
         <seg>装備:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Equip an entire set of Tsar Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093703Z" creationid="pugnus" creationdate="20190502T093703Z">
+        <seg>ツァーリの鎧一式を装備する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45275,6 +45299,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill a Manticore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093439Z" creationid="pugnus" creationdate="20190502T093439Z">
+        <seg>「マンティコア」を倒す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kill a Shell Horror.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T093420Z" creationid="pugnus" creationdate="20190502T093420Z">
@@ -45599,6 +45631,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T093548Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
         <seg>彼女の肩を借り、足を引き摺りながらシエルゾに戻ってきた。私は死にかけたが、まだ生きている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn 50 new recipes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093630Z" creationid="pugnus" creationdate="20190502T093630Z">
+        <seg>新しいレシピを５０学ぶ。</seg>
       </tuv>
     </tu>
     <tu>
