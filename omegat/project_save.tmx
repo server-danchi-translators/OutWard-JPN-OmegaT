@@ -12900,8 +12900,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Assign the Enrage and Predator Leap skills to your quickslots.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T080535Z" creationid="setom" creationdate="20190402T080535Z">
-        <seg>EnrageとPredator Leapのスキルをクイックスロットに割り当ててください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T021708Z" creationid="setom" creationdate="20190402T080535Z">
+        <seg>Enrageと猛獣の跳躍のスキルをクイックスロットに割り当ててください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58223,6 +58223,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Predator Leap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T021627Z" creationid="pugnus" creationdate="20190502T021627Z">
+        <seg>猛獣の跳躍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prepare yourself.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T150810Z" creationid="taman" creationdate="20190414T145907Z">
@@ -77228,8 +77236,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Use Enrage to gain the Rage boon and only then you can use Predator Leap, since the leap requires having Rage active on you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T081152Z" creationid="setom" creationdate="20190402T081152Z">
-        <seg>Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけPredator Leapが使えるようになります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T021746Z" creationid="setom" creationdate="20190402T081152Z">
+        <seg>Enrageを使ってRageの恵みを得てください。Rageが有効になっている間だけ猛獣の跳躍が使えるようになります。</seg>
       </tuv>
     </tu>
     <tu>
