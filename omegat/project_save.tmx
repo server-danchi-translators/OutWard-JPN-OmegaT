@@ -27409,6 +27409,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083701Z" creationid="pugnus" creationdate="20190502T083701Z">
+        <seg>吹き込む炎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Resistance +[E2V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T082139Z" creationid="seto" creationdate="20190406T043545Z">
@@ -30591,6 +30599,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T154532Z" creationid="taman" creationdate="20190421T154336Z">
         <seg>待ってました、さぁ元に戻るぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater Fire Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084046Z" creationid="pugnus" creationdate="20190502T084046Z">
+        <seg>吹き込む大炎</seg>
       </tuv>
     </tu>
     <tu>
@@ -81520,6 +81536,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051659Z" creationid="seto" creationdate="20190406T051659Z">
         <seg>Weapon filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon inflicts Extreme Poison to enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083642Z" creationid="pugnus" creationdate="20190502T083642Z">
+        <seg>武器は敵に極度の毒を与える。</seg>
       </tuv>
     </tu>
     <tu>
