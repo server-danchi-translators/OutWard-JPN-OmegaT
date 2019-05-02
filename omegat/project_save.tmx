@@ -27761,6 +27761,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Followed by a summoned ghost who will fight as an ally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091536Z" creationid="pugnus" creationdate="20190502T091536Z">
+        <seg>仲間として戦う霊を召喚する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Food</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113756Z" creationid="setom" creationdate="20190401T113756Z">
@@ -67713,6 +67721,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shatter Bullet Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091323Z" creationid="pugnus" creationdate="20190502T091323Z">
+        <seg>込められた散弾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She already added her entire spirit to the Ancestral Memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T044004Z" creationid="urakata" creationdate="20190430T125151Z">
@@ -72954,6 +72970,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140229Z" creationid="weedssoul" creationdate="20190406T032234Z">
         <seg>苦しみは誰の為にもならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Summoned Ghost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091457Z" creationid="pugnus" creationdate="20190502T091452Z">
+        <seg>召喚された霊</seg>
       </tuv>
     </tu>
     <tu>
@@ -83185,6 +83209,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T090957Z" creationid="pugnus" creationdate="20190502T090957Z">
         <seg>撃たれた場合、氷属性のダメージを与え、敵の動きを鈍くし、不自由な状態にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When shot, will inflict high Impact and Pain on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091422Z" creationid="pugnus" creationdate="20190502T091422Z">
+        <seg>命中すると、高い衝撃と痛みを敵に与える。</seg>
       </tuv>
     </tu>
     <tu>
