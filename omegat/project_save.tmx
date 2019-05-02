@@ -18555,18 +18555,50 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complete the first quest of the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092459Z" creationid="pugnus" creationdate="20190502T092459Z">
+        <seg>青の議会の最初の任務を完了する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complete the first quest of the Holy Mission, while keeping the Lighthouse.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T092113Z" creationid="pugnus" creationdate="20190502T092113Z">
-        <seg>自宅の灯台を維持しながら、神聖伝道団の最初の任務を完了した。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092358Z" creationid="pugnus" creationdate="20190502T092113Z">
+        <seg>自宅の灯台を維持しながら、神聖伝道団の最初の任務を完了する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the fourth quest of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092415Z" creationid="pugnus" creationdate="20190502T092301Z">
+        <seg>神聖伝道団の４つ目の任務を完了する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the parallel quest of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092427Z" creationid="pugnus" creationdate="20190502T092347Z">
+        <seg>神聖伝道団の平行任務を完了する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Complete the second quest of the Holy Mission.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T092154Z" creationid="pugnus" creationdate="20190502T092154Z">
-        <seg>神聖伝道団の２つ目の任務を完了。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092405Z" creationid="pugnus" creationdate="20190502T092154Z">
+        <seg>神聖伝道団の２つ目の任務を完了する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete the third quest of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T092410Z" creationid="pugnus" creationdate="20190502T092225Z">
+        <seg>神聖伝道団の３つ目の任務を完了する。</seg>
       </tuv>
     </tu>
     <tu>
