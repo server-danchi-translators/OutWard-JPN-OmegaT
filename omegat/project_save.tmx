@@ -33525,6 +33525,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, if you ever want to gain the power of magic, we have our own path to the Ley Line under the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074325Z" creationid="urakata" creationdate="20190502T074325Z">
+        <seg>そうだ、魔法の力を体得したいなら、コンフラックス山の地下へつながっている、神聖伝道団専用の通路があるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, nice seeing you, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T160712Z">
@@ -34836,6 +34844,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T110320Z" creationid="pugnus" creationdate="20190406T110320Z">
         <seg>私は自分自身を守ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can definitely tell you’ve got the spirit for it, but one needs discipline to walk the martial path of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074514Z" creationid="urakata" creationdate="20190502T074514Z">
+        <seg>君には勤まると思うが、神聖伝道団の軍事部門に入るには自制心が必要だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39349,6 +39365,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T020717Z" creationid="pugnus" creationdate="20190425T020717Z">
         <seg>何か必要なものがあれば、ゴールドベリーだけに話すのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you need backup, I could take you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074343Z" creationid="urakata" creationdate="20190502T074343Z">
+        <seg>助けが要るなら、連れて行ってやろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68674,6 +68698,30 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074344Z" creationid="urakata" creationdate="20190502T074344Z">
+        <seg>Sorean_HM_prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_13_Z</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074011Z" creationid="urakata" creationdate="20190502T074011Z">
+        <seg>Sorean_HM_prequest_13_Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074515Z" creationid="urakata" creationdate="20190502T074515Z">
+        <seg>Sorean_HM_prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorobor Banker</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120220Z" creationid="Gaiden Shinji" creationdate="20190404T120220Z">
@@ -75401,6 +75449,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T105346Z" creationid="Light" creationdate="20190409T105346Z">
         <seg>エンメルカルの南西部の寺院には脅威がいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The three Pillars demand self-sacrifice…it's not for the faint of heart!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074007Z" creationid="urakata" creationdate="20190502T074007Z">
+        <seg>三つの柱は献身を求めている---根性なしには無理なことだ!</seg>
       </tuv>
     </tu>
     <tu>
