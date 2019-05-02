@@ -69580,6 +69580,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stamina burns [E3V1]% faster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082352Z" creationid="pugnus" creationdate="20190502T082352Z">
+        <seg>スタミナの燃焼が[E3V1]%速くなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stand back!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130207Z" creationid="urakata" creationdate="20190430T130207Z">
@@ -81428,6 +81436,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weapon Impact +[E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082249Z" creationid="pugnus" creationdate="20190502T082249Z">
+        <seg>武器の衝撃力+[E2V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapon Physical Damage +[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
@@ -83635,6 +83651,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132207Z" creationid="hiru4" creationdate="20190403T060413Z">
         <seg>風の祭壇は、この地域で活性化されていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082510Z" creationid="pugnus" creationdate="20190502T082510Z">
+        <seg>突風</seg>
       </tuv>
     </tu>
     <tu>
