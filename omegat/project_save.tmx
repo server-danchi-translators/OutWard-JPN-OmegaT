@@ -19149,8 +19149,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Consumes: Fire Stone Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T124759Z" creationid="pugnus" creationdate="20190408T124733Z">
-        <seg>消費:Fire Stone 地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112544Z" creationid="pugnus" creationdate="20190408T124733Z">
+        <seg>消費：火の石 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62652,8 +62652,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Activated Wind Altar Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040310Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Activated Wind Altar 地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112509Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：有効な風の祭壇 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69055,6 +69055,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005255Z" creationid="seto" creationdate="20190413T005255Z">
         <seg>黙れ、自分の人生なんか諦めろ、そして他のやつらの為に生きろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sigil of Fire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112521Z" creationid="pugnus" creationdate="20190502T112521Z">
+        <seg>火の印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sigil of Wind</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112423Z" creationid="pugnus" creationdate="20190502T112423Z">
+        <seg>風の印</seg>
       </tuv>
     </tu>
     <tu>
