@@ -18365,6 +18365,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Conjure</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014904Z" creationid="pugnus" creationdate="20190502T014904Z">
+        <seg>魔力で呼び出す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connect an additional gamepad to enable split-screen.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064902Z" creationid="hiru4" creationdate="20190403T064902Z">
@@ -45203,6 +45211,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Push</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014656Z" creationid="pugnus" creationdate="20190502T014656Z">
+        <seg>マナ押し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana Stone</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114237Z" creationid="Gaiden Shinji" creationdate="20190403T114237Z">
@@ -45223,6 +45239,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083522Z" creationid="totochan" creationdate="20190402T083522Z">
         <seg>マナ消費</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Ward</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014708Z" creationid="pugnus" creationdate="20190502T014708Z">
+        <seg>マナの言葉</seg>
       </tuv>
     </tu>
     <tu>
@@ -58471,6 +58495,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Push Kick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014608Z" creationid="pugnus" creationdate="20190502T014608Z">
+        <seg>押し蹴り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Put Out</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063347Z" creationid="hiru4" creationdate="20190403T063347Z">
@@ -66587,8 +66619,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sniper Shot</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014307Z" creationid="pugnus" creationdate="20190502T014307Z">
-        <seg>狙撃</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014552Z" creationid="pugnus" creationdate="20190502T014307Z">
+        <seg>狙い撃ち</seg>
       </tuv>
     </tu>
     <tu>
@@ -70553,6 +70585,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020922Z" creationid="pugnus" creationdate="20190423T020922Z">
         <seg>サザーランドの家族祭壇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sweep Kick</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T014642Z" creationid="pugnus" creationdate="20190502T014642Z">
+        <seg>掃き蹴り</seg>
       </tuv>
     </tu>
     <tu>
