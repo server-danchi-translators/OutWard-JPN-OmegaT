@@ -19117,8 +19117,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Consumes your Blessed boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125941Z" creationid="pugnus" creationdate="20190408T125437Z">
-        <seg>この呪文を使用した際、Blessed Boonを失う。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112758Z" creationid="pugnus" creationdate="20190408T125437Z">
+        <seg>この呪文を使用した際、祝福の恩恵を失う。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19141,16 +19141,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Consumes: Cold Stone Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T124851Z" creationid="pugnus" creationdate="20190408T124851Z">
-        <seg>消費:Cold Stone 地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112700Z" creationid="pugnus" creationdate="20190408T124851Z">
+        <seg>消費：コールドストーン 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Consumes: Fire Stone Create a magic circle on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T112544Z" creationid="pugnus" creationdate="20190408T124733Z">
-        <seg>消費：火の石 地面に魔法の輪を作る。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112626Z" creationid="pugnus" creationdate="20190408T124733Z">
+        <seg>消費：ファイヤーストーン 地面に魔法の輪を作る。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41082,6 +41082,22 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Infuse Light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112734Z" creationid="pugnus" creationdate="20190502T112734Z">
+        <seg>光の注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infuse Wind</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112814Z" creationid="pugnus" creationdate="20190502T112814Z">
+        <seg>風の注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120240Z" creationid="setom" creationdate="20190401T120240Z">
@@ -62660,8 +62676,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Activated Wind Altar Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125643Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Activated Wind Altar 3分間、近接武器による攻撃速度と衝撃を向上させる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112830Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：有効な風の祭壇 3分間、近接武器による攻撃速度と衝撃を向上させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62692,8 +62708,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Blessed Boon Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T125405Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Blessed Boonの発動 構えている近接武器へ一時的に稲妻の力を付与する。この武器は便利な光源となるだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112751Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：祝福の恩恵の発動 構えている近接武器へ一時的に稲妻の力を付与する。この武器は便利な光源となるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69067,6 +69083,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sigil of Ice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112640Z" creationid="pugnus" creationdate="20190502T112640Z">
+        <seg>氷の印</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sigil of Wind</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T112423Z" creationid="pugnus" creationdate="20190502T112423Z">
@@ -70335,6 +70359,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013035Z" creationid="urakata" creationdate="20190427T013035Z">
         <seg>話からすると私以外にも声をかけてるんですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T112709Z" creationid="pugnus" creationdate="20190502T112709Z">
+        <seg>火花</seg>
       </tuv>
     </tu>
     <tu>
