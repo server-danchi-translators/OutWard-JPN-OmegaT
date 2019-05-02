@@ -12079,6 +12079,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any faction opposed to peace, no matter how small, could reignite conflict easily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T002516Z" creationid="pugnus" creationdate="20190502T002516Z">
+        <seg>たとえどんなに小さな集団であろうとも、平和に反対し容易に紛争を再燃させる可能性があるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any system that forces pain upon anyone innocent has no right to exist.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140359Z" creationid="weedssoul" creationdate="20190406T032256Z">
@@ -72043,6 +72051,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T121320Z" creationid="weedssoul" creationdate="20190406T121320Z">
         <seg>そう言えるだけでも、遠征を共にした人達のほとんどよりましだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's not reassuring to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T002311Z" creationid="pugnus" creationdate="20190502T002311Z">
+        <seg>それは私に決して安息をもたらさないのよ。</seg>
       </tuv>
     </tu>
     <tu>
