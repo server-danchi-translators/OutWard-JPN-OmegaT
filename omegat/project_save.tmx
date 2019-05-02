@@ -26429,8 +26429,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Fear not.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T010901Z" creationid="pugnus" creationdate="20190502T010901Z">
-        <seg>怖がることはないのよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T011124Z" creationid="pugnus" creationdate="20190502T010901Z">
+        <seg>怖れることはないのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65428,6 +65428,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T012238Z" creationid="urakata" creationdate="20190427T012238Z">
         <seg>向こうも長年のうちに子孫を増やして隠す手口が巧妙になってきていてね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She has sought progress and improvement with a zeal that rivals any I’ve ever seen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T011234Z" creationid="pugnus" creationdate="20190502T011234Z">
+        <seg>彼女は今まで見たことの無い熱意で進歩と改善を求めてきました。</seg>
       </tuv>
     </tu>
     <tu>
