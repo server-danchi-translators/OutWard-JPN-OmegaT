@@ -14124,8 +14124,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bah, if you bend your knee to Elatt, you soon won't have a mind to keep it in.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T231020Z" creationid="urakata" creationdate="20190502T230915Z">
-        <seg>ハッ、まあエラットに膝を屈した時点で、すぐに何かを留める心自体がなくなりますがね。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231108Z" creationid="urakata" creationdate="20190502T230915Z">
+        <seg>ハッ、まあエラットに膝を屈した時点で、すぐに何かを留める心自体がなくなるがね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23395,6 +23395,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damian_HM_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231148Z" creationid="urakata" creationdate="20190502T231148Z">
+        <seg>Damian_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dammit, I'm losing two friends in one day.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
@@ -24679,6 +24687,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't bother sweet-talking me, I don't care.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231230Z" creationid="urakata" creationdate="20190502T231230Z">
+        <seg>おだてるのはやめてくれ、効果はないぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't commit to what you don't understand.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T142502Z" creationid="Mad" creationdate="20190407T142502Z">
@@ -24715,6 +24731,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103759Z" creationid="urakata" creationdate="20190428T103759Z">
         <seg>これ以上危ないことはするなよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't make that mistake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231120Z" creationid="urakata" creationdate="20190502T231120Z">
+        <seg>判断を誤らないことだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38854,8 +38878,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I'll keep what you said in mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T231026Z" creationid="urakata" creationdate="20190502T230729Z">
-        <seg>あなたの言ったことには心に留めておきましょう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231059Z" creationid="urakata" creationdate="20190502T230729Z">
+        <seg>あなたの言ったことには心に留めておこう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,6 +40519,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190404T125323Z" creationid="rkmad" creationdate="20190404T085524Z">
         <seg>それを理解したなら、負債を支払うために動き出しなさい。 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you value your free will, just stay as far away from that... "thing" as you can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231343Z" creationid="urakata" creationdate="20190502T231343Z">
+        <seg>自由意思というものを貴ぶならば、あの...「あれ」とは縁を断つことだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57733,6 +57765,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T230653Z" creationid="urakata" creationdate="20190502T230653Z">
         <seg>Player_Damian_HM_prequest_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Damian_HM_prequest_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231121Z" creationid="urakata" creationdate="20190502T231121Z">
+        <seg>Player_Damian_HM_prequest_b_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -77323,6 +77363,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045101Z" creationid="urakata" creationdate="20190501T045101Z">
         <seg>以前あそこに行ったとき、&lt;color=#00CCFF&gt;&lt;b&gt;目立つ明るい緑のshell horror&lt;/b&gt;&lt;/color&gt;を見かけました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The people of Monsoon owe you a lot.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231147Z" creationid="urakata" creationdate="20190502T231147Z">
+        <seg>モンスーンの人たちはあなたに大きな借りがある。</seg>
       </tuv>
     </tu>
     <tu>
