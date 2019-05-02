@@ -12696,6 +12696,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as you're joining us to help people, that's good enough for me, really.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072912Z" creationid="urakata" creationdate="20190502T072912Z">
+        <seg>本当のことを言えば、皆を助けるために仲間になってくれるというなら、私にとってはそれで十分なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As soon as the mourning period is over, though, I'm leaving.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T165313Z">
@@ -42504,6 +42512,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's also very dangerous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072935Z" creationid="urakata" creationdate="20190502T072935Z">
+        <seg>ただ、危険もある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's amazing.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084555Z" creationid="rkmad" creationdate="20190408T084122Z">
@@ -68594,6 +68610,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072915Z" creationid="urakata" creationdate="20190502T072915Z">
+        <seg>Sorean_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorean_HM_prequest_06_Z</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012548Z" creationid="seto" creationdate="20190413T012548Z">
@@ -85786,6 +85810,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021113Z" creationid="pugnus" creationdate="20190422T021113Z">
         <seg>君は、&lt;color=#00CCFF&gt;&lt;b&gt;私たちの上級王シリと話さなければならない。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need to lay your life on the line daily.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T073038Z" creationid="urakata" creationdate="20190502T073038Z">
+        <seg>日常的に命を懸けてもらうことになる。</seg>
       </tuv>
     </tu>
     <tu>
