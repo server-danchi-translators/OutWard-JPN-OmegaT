@@ -52670,6 +52670,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online region</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T024007Z" creationid="pugnus" creationdate="20190502T024007Z">
+        <seg>オンラインの地域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only by sharing our burdens as family can we hope to survive in Aurai.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023010Z">
@@ -76486,6 +76494,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095234Z" creationid="setom" creationdate="20190402T095234Z">
         <seg>TrainerMenu_YourResources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tramon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023928Z" creationid="pugnus" creationdate="20190502T023928Z">
+        <seg>トラモン</seg>
       </tuv>
     </tu>
     <tu>
