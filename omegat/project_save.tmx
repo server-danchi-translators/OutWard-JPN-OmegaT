@@ -19147,6 +19147,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Considering all the nasty animals crawling in the swamp, this recipe might save your life!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T233208Z" creationid="urakata" creationdate="20190502T233208Z">
+        <seg>危ない動物が沼をうろついている現状、このレシピを知っていれば命が助かるかもしれないぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumable filter status</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051702Z" creationid="seto" creationdate="20190406T051702Z">
@@ -34240,6 +34248,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063046Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;スキル&lt;/b&gt;&lt;/color&gt;を教えてやろう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here, a gift from one mage to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T233009Z" creationid="urakata" creationdate="20190502T233009Z">
+        <seg>さあ、魔法使いから魔法使いへの贈り物だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70374,8 +70390,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>So, you're a fellow mage, are you?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T232831Z" creationid="urakata" creationdate="20190502T232831Z">
-        <seg>そうすると、魔法使い同士ということになるのかな?</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232846Z" creationid="urakata" creationdate="20190502T232831Z">
+        <seg>そうすると、君とは魔法使い同士ということになるのかな?</seg>
       </tuv>
     </tu>
     <tu>
@@ -83626,8 +83642,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Well, don't say I didn't warn you...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T232840Z" creationid="urakata" creationdate="20190502T232840Z">
-        <seg>...</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232948Z" creationid="urakata" creationdate="20190502T232840Z">
+        <seg>忠告は聞いてくれたということだな...</seg>
       </tuv>
     </tu>
     <tu>
