@@ -45275,6 +45275,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kill a Shell Horror.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093420Z" creationid="pugnus" creationdate="20190502T093420Z">
+        <seg>「恐るべき甲羅」を倒す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Kill the Wendigo inside the Corrupted Tomb, on the other side of the Ghost Pass, to the north-east of the Chersonese.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T014656Z" creationid="urakata" creationdate="20190408T130827Z">
@@ -45591,6 +45599,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T093548Z" creationid="はぐくみ会" creationdate="20190403T063622Z">
         <seg>彼女の肩を借り、足を引き摺りながらシエルゾに戻ってきた。私は死にかけたが、まだ生きている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Learn all the skills and passives you can from one Skill Tree.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093326Z" creationid="pugnus" creationdate="20190502T093326Z">
+        <seg>１つのスキルツリーから習得できるスキルとパッシブをすべて学ぶ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60452,6 +60468,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T071135Z" creationid="pugnus" creationdate="20190424T071135Z">
         <seg>激辛ペースト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Purchase a house in one of the cities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T093356Z" creationid="pugnus" creationdate="20190502T093356Z">
+        <seg>いずれかの町で家を購入する。</seg>
       </tuv>
     </tu>
     <tu>
