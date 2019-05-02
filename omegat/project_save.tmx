@@ -12552,6 +12552,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a fellow mage, I think you’ll appreciate this recipe quite a bit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071941Z" creationid="urakata" creationdate="20190502T071941Z">
+        <seg>いまや魔法使い同士となったわけだ、このレシピは役に立つと思うぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a fruit, these berries restore stamina over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T141940Z">
@@ -44411,6 +44419,22 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Julius_BC_Prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071622Z" creationid="urakata" creationdate="20190502T071622Z">
+        <seg>Julius_BC_Prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Julius_BC_Prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071819Z" creationid="urakata" creationdate="20190502T071819Z">
+        <seg>Julius_BC_Prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just because a choice is hard doesn't mean you can't take it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T032520Z">
@@ -74417,6 +74441,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Sutherlands will approve of your adoption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071750Z" creationid="urakata" creationdate="20190502T071750Z">
+        <seg>サザーランド家は君の養子縁組を認める。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Temple is up &lt;color=#00CCFF&gt;&lt;b&gt;on the mountain in the South-West&lt;/b&gt;&lt;/color&gt; of Enmerkar forest.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045738Z" creationid="urakata" creationdate="20190501T045738Z">
@@ -80892,6 +80924,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome, [PlayerName] Aberdeen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071818Z" creationid="urakata" creationdate="20190502T071818Z">
+        <seg>歓迎するよ、[PlayerName]・アバディーン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well done on bringing Rissa back.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T073058Z" creationid="pugnus" creationdate="20190415T073058Z">
@@ -81152,6 +81192,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T120919Z" creationid="urakata" creationdate="20190501T120904Z">
         <seg>おやおや、どうやら、全くの役立たずというわけでもないようだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, well, well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071636Z" creationid="urakata" creationdate="20190502T071636Z">
+        <seg>さて、さて、さて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83405,6 +83453,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012019Z" creationid="pugnus" creationdate="20190425T012019Z">
         <seg>うむ、我は「夜明けの織り手」が、この同盟に対しアッシュボーンに何を求めているかを知っている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I think you'll be helpful to us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071724Z" creationid="urakata" creationdate="20190502T071724Z">
+        <seg>よし、君ならモノになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86055,6 +86111,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You've unlocked the power of Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071652Z" creationid="urakata" creationdate="20190502T071652Z">
+        <seg>マナの力を開放したようだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T081447Z" creationid="pugnus" creationdate="20190429T081437Z">
@@ -86180,6 +86244,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T024256Z" creationid="urakata" creationdate="20190428T024256Z">
         <seg>これからもよろしく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your control is strong, too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T071703Z" creationid="urakata" creationdate="20190502T071703Z">
+        <seg>制御能力も強い。</seg>
       </tuv>
     </tu>
     <tu>
