@@ -14122,6 +14122,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bah, if you bend your knee to Elatt, you soon won't have a mind to keep it in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231020Z" creationid="urakata" creationdate="20190502T230915Z">
+        <seg>ハッ、まあエラットに膝を屈した時点で、すぐに何かを留める心自体がなくなりますがね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bah, we have plenty swill inside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T055005Z" creationid="Mad" creationdate="20190407T055005Z">
@@ -23375,6 +23383,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T230009Z" creationid="urakata" creationdate="20190502T230009Z">
         <seg>Damian_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damian_HM_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T230731Z" creationid="urakata" creationdate="20190502T230731Z">
+        <seg>Damian_HM_prequest_04</seg>
       </tuv>
     </tu>
     <tu>
@@ -38838,8 +38854,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I'll keep what you said in mind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T230729Z" creationid="urakata" creationdate="20190502T230729Z">
-        <seg>あなたの言ったことには注意しておきましょう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T231026Z" creationid="urakata" creationdate="20190502T230729Z">
+        <seg>あなたの言ったことには心に留めておきましょう。</seg>
       </tuv>
     </tu>
     <tu>
