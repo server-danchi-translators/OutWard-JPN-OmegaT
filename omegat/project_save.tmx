@@ -30627,6 +30627,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greater Lightning Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084848Z" creationid="pugnus" creationdate="20190502T084848Z">
+        <seg>大雷電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greater Poison Imbue</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T083606Z" creationid="pugnus" creationdate="20190502T083606Z">
@@ -45731,6 +45739,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lightning Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084708Z" creationid="pugnus" creationdate="20190502T084708Z">
+        <seg>帯電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like I expected.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T053210Z" creationid="pugnus" creationdate="20190415T053210Z">
@@ -49791,8 +49807,16 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mystic Fire Imbue</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T084203Z" creationid="pugnus" creationdate="20190502T084203Z">
-        <seg>吹き込む秘法の火炎</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084635Z" creationid="pugnus" creationdate="20190502T084203Z">
+        <seg>秘法の焼夷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mystic Frost Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084542Z" creationid="pugnus" creationdate="20190502T084542Z">
+        <seg>秘法の吹雪</seg>
       </tuv>
     </tu>
     <tu>
@@ -81568,6 +81592,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T084315Z" creationid="pugnus" creationdate="20190502T084315Z">
         <seg>武器に氷属性のダメージを付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon deals some Lightning Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084729Z" creationid="pugnus" creationdate="20190502T084729Z">
+        <seg>武器に雷属性のダメージを付与する。</seg>
       </tuv>
     </tu>
     <tu>
