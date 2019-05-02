@@ -74861,6 +74861,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The tribes of Sirocco want to migrate most of their population to the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T064006Z" creationid="taman" creationdate="20190502T064006Z">
+        <seg>シロッコ族が部族のほとんどの人間をこの聖なる沼に移民させたいと考えているそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The undead hiding in the shadows, or being so close to a hostile tribe that would kill us on sight…</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T135128Z" creationid="taman" creationdate="20190419T135128Z">
@@ -79791,6 +79799,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T084046Z" creationid="pugnus" creationdate="20190406T084046Z">
         <seg>できる限り、準備をする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need a presence there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T063414Z" creationid="taman" creationdate="20190502T063414Z">
+        <seg>そこで私たちも出席する必要があると感じています。</seg>
       </tuv>
     </tu>
     <tu>
