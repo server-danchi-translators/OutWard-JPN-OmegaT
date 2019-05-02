@@ -15484,6 +15484,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bones of my Enemy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103336Z" creationid="pugnus" creationdate="20190502T103336Z">
+        <seg>私の敵の骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bony spurs harvested from lesser horrors, used to craft weapons.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T044046Z">
@@ -34369,6 +34377,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115119Z" creationid="setom" creationdate="20190401T115119Z">
         <seg>長押し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hold my Mead and Watch This</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T103302Z" creationid="pugnus" creationdate="20190502T103302Z">
+        <seg>私の蜂蜜酒を持ち、これを見よ。</seg>
       </tuv>
     </tu>
     <tu>
