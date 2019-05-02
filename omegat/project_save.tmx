@@ -307,6 +307,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The altar pulses with Corruption.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T052526Z" creationid="taman" creationdate="20190502T052526Z">
+        <seg>(祭壇は瘴気によって振動している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The arm waves at you.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T152542Z" creationid="taman" creationdate="20190421T152542Z">
@@ -35220,8 +35228,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T045414Z" creationid="taman" creationdate="20190502T044752Z">
-        <seg>しかし適切な対策を怠れば瘴気は再び無意味にもチェルソネスを包んでしまうしょう。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T052330Z" creationid="taman" creationdate="20190502T044752Z">
+        <seg>しかし適切な対策を怠れば瘴気は再び無意味にもチェルソネスを覆ってしまうでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83420,6 +83428,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074823Z" creationid="weedssoul" creationdate="20190406T074823Z">
         <seg>川の水を沸かすことで、病気にかからない綺麗な水にすることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can feel the emotions within being tainted with the mindless desire to consume…)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T053136Z" creationid="taman" creationdate="20190502T053136Z">
+        <seg>祭壇に込められた負の感情がただ無心でYou can feel the emotions within being tainted with the mindless desire to consume…)</seg>
       </tuv>
     </tu>
     <tu>
