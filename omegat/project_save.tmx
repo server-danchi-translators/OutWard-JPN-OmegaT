@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38414,6 +38414,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133412Z" creationid="urakata" creationdate="20190430T133412Z">
         <seg>怖かったんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was told to introduce myself to you, and that you need some kind of help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T225243Z" creationid="urakata" creationdate="20190502T225243Z">
+        <seg>あなたが何かお困りだということで、私が対応するよう指示が有ったのです。</seg>
       </tuv>
     </tu>
     <tu>
