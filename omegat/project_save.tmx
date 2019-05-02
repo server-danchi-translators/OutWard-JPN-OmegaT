@@ -15131,6 +15131,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking an attack with this shield emits an explosion of Decay Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090418Z" creationid="pugnus" creationdate="20190502T090418Z">
+        <seg>この盾で攻撃を防御すると、腐敗属性の爆発がおきる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T110921Z">
@@ -23374,6 +23382,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decay Shield Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085711Z" creationid="pugnus" creationdate="20190502T085711Z">
+        <seg>盾に染み込む腐敗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decrafting using the “Manual Recipe” of the Survival Crafting menu.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T135325Z" creationid="weedssoul" creationdate="20190405T135325Z">
@@ -30615,6 +30631,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T154532Z" creationid="taman" creationdate="20190421T154336Z">
         <seg>待ってました、さぁ元に戻るぞ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater Decay Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085553Z" creationid="pugnus" creationdate="20190502T085521Z">
+        <seg>染み込む大腐敗</seg>
       </tuv>
     </tu>
     <tu>
@@ -81584,6 +81608,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141815Z" creationid="hiru4" creationdate="20190403T071357Z">
         <seg>武器の物理的ダメージ+%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon deals some Decay Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085546Z" creationid="pugnus" creationdate="20190502T085546Z">
+        <seg>武器に腐敗ダメージを付与する。</seg>
       </tuv>
     </tu>
     <tu>
