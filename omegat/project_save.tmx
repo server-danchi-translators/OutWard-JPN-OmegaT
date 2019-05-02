@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18141,8 +18141,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cold Weather Def +[E1V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="totochan" changedate="20190403T140308Z" creationid="totochan" creationdate="20190403T140308Z">
-        <seg>冷気耐性 +[E3V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064326Z" creationid="totochan" creationdate="20190403T140308Z">
+        <seg>冷気耐性+[E3V1].</seg>
       </tuv>
     </tu>
     <tu>
@@ -27685,6 +27685,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124130Z" creationid="urakata" creationdate="20190430T124130Z">
         <seg>何かへの貢献を実感するなんて人生で初めてだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Force Bubble</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064235Z" creationid="pugnus" creationdate="20190502T064235Z">
+        <seg>力の泡</seg>
       </tuv>
     </tu>
     <tu>
@@ -39457,6 +39465,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Immune to Damage, but vulnerable to Impact.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064215Z" creationid="pugnus" creationdate="20190502T064215Z">
+        <seg>ダメージは受けることは無いが、衝撃には弱くなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Immune to Frost, Fire, Lightning, Decay and Ethereal Damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063210Z" creationid="totochan" creationdate="20190403T135834Z">
@@ -45824,6 +45840,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T014708Z" creationid="pugnus" creationdate="20190502T014708Z">
         <seg>マナの言葉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana cost [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064421Z" creationid="pugnus" creationdate="20190502T064421Z">
+        <seg>マナ消費[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67410,6 +67434,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep: Fur Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064349Z" creationid="pugnus" creationdate="20190502T064349Z">
+        <seg>睡眠:毛皮のテント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep_Title_LocalPlayer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095139Z" creationid="setom" creationdate="20190402T095139Z">
@@ -68408,6 +68440,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021108Z" creationid="hiru4" creationdate="20190402T021108Z">
         <seg>消費スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost of actions -[E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T064323Z" creationid="pugnus" creationdate="20190502T064323Z">
+        <seg>スタミナ消費-[E2V1]%.</seg>
       </tuv>
     </tu>
     <tu>
