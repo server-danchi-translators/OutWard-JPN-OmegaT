@@ -23481,6 +23481,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discipline</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023039Z" creationid="pugnus" creationdate="20190502T023039Z">
+        <seg>鍛錬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discipline Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023049Z" creationid="pugnus" creationdate="20190502T023049Z">
+        <seg>鍛錬（強）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132125Z" creationid="hiru4" creationdate="20190403T060356Z">
@@ -24013,6 +24029,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085846Z" creationid="pugnus" creationdate="20190422T085837Z">
         <seg>時間を掛けるのでは無いぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doomed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023133Z" creationid="pugnus" creationdate="20190502T023133Z">
+        <seg>運命</seg>
       </tuv>
     </tu>
     <tu>
