@@ -12264,6 +12264,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you certain?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T050951Z" creationid="taman" creationdate="20190502T050951Z">
+        <seg>本当にいいのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you familiar with the Montcalm tribe in the Chersonese?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T165209Z" creationid="taman" creationdate="20190413T164549Z">
@@ -29318,8 +29326,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Give Oliele the blessing instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T050431Z" creationid="taman" creationdate="20190502T050431Z">
-        <seg>祝福は私ではなくオリエルにGive Oliele the blessing instead.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T050740Z" creationid="taman" creationdate="20190502T050431Z">
+        <seg>祝福は私ではなくオリエルに与えてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36919,6 +36927,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T065324Z" creationid="pugnus" creationdate="20190429T065324Z">
         <seg>ここで止めなければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think she'll need it more than I will.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T050943Z" creationid="taman" creationdate="20190502T050943Z">
+        <seg>私より彼女のほうが神の加護を必要としているでしょうから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82814,6 +82830,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T063622Z" creationid="taman" creationdate="20190409T063622Z">
         <seg>そのとおりです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, give it to her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T051154Z" creationid="taman" creationdate="20190502T051154Z">
+        <seg>はい、彼女にお願いします。</seg>
       </tuv>
     </tu>
     <tu>
