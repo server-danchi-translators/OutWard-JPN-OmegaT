@@ -24651,6 +24651,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elemental Vulnerability</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023250Z" creationid="pugnus" creationdate="20190502T023250Z">
+        <seg>要素ごとの脆弱性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elinara_HM_Questions_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T131834Z" creationid="seto" creationdate="20190415T131834Z">
@@ -33475,6 +33483,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113653Z" creationid="setom" creationdate="20190401T113653Z">
         <seg>高温耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot Weather Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023345Z" creationid="pugnus" creationdate="20190502T023345Z">
+        <seg>暑さ対策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hot and Cold Weather Def [E1V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023445Z" creationid="pugnus" creationdate="20190502T023445Z">
+        <seg>高温と冷気への耐性 [E1V1]。</seg>
       </tuv>
     </tu>
     <tu>
