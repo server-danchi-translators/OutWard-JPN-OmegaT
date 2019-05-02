@@ -36277,8 +36277,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I see their point.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T005231Z" creationid="pugnus" creationdate="20190502T005231Z">
-        <seg>私は彼らの論点を見ましょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005251Z" creationid="pugnus" creationdate="20190502T005231Z">
+        <seg>私は彼らの論点に注目します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77874,6 +77874,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We allowed this war to erupt under our watch.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005405Z" creationid="pugnus" creationdate="20190502T005405Z">
+        <seg>私たちの監視下にありながら、この戦争が起こることを許したのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We already hear about your fight with desert men, and will help.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012607Z" creationid="pugnus" creationdate="20190425T012607Z">
@@ -78362,6 +78370,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We need assistance in rebuilding our kingdom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005557Z" creationid="pugnus" creationdate="20190502T005557Z">
+        <seg>私たちは王国の再建のために援助を望みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We need medical supplies to patch our men up.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095232Z" creationid="rkmad" creationdate="20190403T095232Z">
@@ -78374,6 +78390,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T003614Z" creationid="pugnus" creationdate="20190502T003614Z">
         <seg>私たちは、それらの武器が必要なのです。アブラサールの獣のために！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need to be active to prevent further violence.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005439Z" creationid="pugnus" creationdate="20190502T005439Z">
+        <seg>さらなる暴力を防ぐためには、積極的に取り組む必要がありますわよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78439,6 +78463,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T080214Z" creationid="pugnus" creationdate="20190406T080214Z">
         <seg>私たちはもっと重要なことに集中するべきじゃないかしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We should have been more vigilant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005323Z" creationid="pugnus" creationdate="20190502T005323Z">
+        <seg>私たちはもっと用心深かった筈です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78535,6 +78567,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004731Z" creationid="seto" creationdate="20190413T004536Z">
         <seg>何世代掛かってでも代償を払うんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will share our weapons with the Blue Chamber.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005516Z" creationid="pugnus" creationdate="20190502T005516Z">
+        <seg>私たちは、青の議会と武器を共有しますわ。</seg>
       </tuv>
     </tu>
     <tu>
