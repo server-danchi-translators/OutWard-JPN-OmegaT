@@ -26297,10 +26297,18 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethereal Damage and Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075306Z" creationid="pugnus" creationdate="20190502T075306Z">
+        <seg>エーテルダメージ＆耐性+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethereal Damage and Resistance [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064953Z" creationid="pugnus" creationdate="20190502T064945Z">
-        <seg>エーテルダメージ＆耐性 [E1V1]%</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074338Z" creationid="pugnus" creationdate="20190502T064945Z">
+        <seg>エーテルダメージ＆耐性[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -32870,40 +32878,40 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Health Recovery 1</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065450Z" creationid="pugnus" creationdate="20190502T065450Z">
-        <seg>体力回復1</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074544Z" creationid="pugnus" creationdate="20190502T065450Z">
+        <seg>体力回復１</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Health Recovery 2</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065501Z" creationid="pugnus" creationdate="20190502T065501Z">
-        <seg>体力回復2</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074548Z" creationid="pugnus" creationdate="20190502T065501Z">
+        <seg>体力回復２</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Health Recovery 3</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065513Z" creationid="pugnus" creationdate="20190502T065513Z">
-        <seg>体力回復3</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074552Z" creationid="pugnus" creationdate="20190502T065513Z">
+        <seg>体力回復３</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Health Recovery 4</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065539Z" creationid="pugnus" creationdate="20190502T065539Z">
-        <seg>体力回復4</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074556Z" creationid="pugnus" creationdate="20190502T065539Z">
+        <seg>体力回復４</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Health Recovery 5</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065547Z" creationid="pugnus" creationdate="20190502T065547Z">
-        <seg>体力回復5</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074600Z" creationid="pugnus" creationdate="20190502T065547Z">
+        <seg>体力回復５</seg>
       </tuv>
     </tu>
     <tu>
@@ -33983,8 +33991,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Hot Weather Def +[E4V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070328Z" creationid="pugnus" creationdate="20190502T070328Z">
-        <seg>高温耐性+[E4V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074433Z" creationid="pugnus" creationdate="20190502T070328Z">
+        <seg>高温耐性+[E4V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -39857,6 +39865,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Impact Resistance +[E4V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075419Z" creationid="pugnus" creationdate="20190502T075419Z">
+        <seg>衝撃耐性+[E4V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impact Resistance Up</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T033326Z" creationid="pugnus" creationdate="20190502T033326Z">
@@ -39875,8 +39891,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Impact Resistance [E3V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064657Z" creationid="pugnus" creationdate="20190502T064657Z">
-        <seg>衝撃耐性 [E3V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074326Z" creationid="pugnus" creationdate="20190502T064657Z">
+        <seg>衝撃耐性[E3V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -46300,6 +46316,46 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Ratio Recovery 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074537Z" creationid="pugnus" creationdate="20190502T074537Z">
+        <seg>マナの回復１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Ratio Recovery 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074632Z" creationid="pugnus" creationdate="20190502T074632Z">
+        <seg>マナの回復２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Ratio Recovery 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074701Z" creationid="pugnus" creationdate="20190502T074701Z">
+        <seg>マナの回復４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Ratio Recovery 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074711Z" creationid="pugnus" creationdate="20190502T074711Z">
+        <seg>マナの回復５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mana Recovery 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074641Z" creationid="pugnus" creationdate="20190502T074641Z">
+        <seg>マナの回復３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana Regen [E2V1] per second.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T070947Z" creationid="pugnus" creationdate="20190502T032607Z">
@@ -46342,8 +46398,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mana cost [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064643Z" creationid="pugnus" creationdate="20190502T064421Z">
-        <seg>消費マナ [E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074322Z" creationid="pugnus" creationdate="20190502T064421Z">
+        <seg>消費マナ[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -48716,6 +48772,22 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075320Z" creationid="pugnus" creationdate="20190502T075320Z">
+        <seg>霞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mist Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075356Z" creationid="pugnus" creationdate="20190502T075356Z">
+        <seg>増幅された霞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mist Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T073824Z" creationid="hiru4" creationdate="20190403T062056Z">
@@ -49743,8 +49815,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Needs: Hungry</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065848Z" creationid="pugnus" creationdate="20190502T065848Z">
-        <seg>欲求:空腹</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074418Z" creationid="pugnus" creationdate="20190502T065848Z">
+        <seg>欲求：空腹</seg>
       </tuv>
     </tu>
     <tu>
@@ -49759,8 +49831,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Needs: Very Hungry</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T065825Z" creationid="pugnus" creationdate="20190502T065825Z">
-        <seg>欲求:とても空腹</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074408Z" creationid="pugnus" creationdate="20190502T065825Z">
+        <seg>欲求：空腹の限度</seg>
       </tuv>
     </tu>
     <tu>
@@ -54903,6 +54975,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Passive Mana Regen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075233Z" creationid="pugnus" creationdate="20190502T075233Z">
+        <seg>パッシブ：マナの雨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passive Skills</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T070735Z" creationid="hiru4" creationdate="20190402T070735Z">
@@ -55321,8 +55401,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical Resistance [E2V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064514Z" creationid="pugnus" creationdate="20190502T064514Z">
-        <seg>物理抵抗 [E2V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074317Z" creationid="pugnus" creationdate="20190502T064514Z">
+        <seg>物理抵抗[E2V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -68028,8 +68108,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleep: Berg</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T022255Z" creationid="pugnus" creationdate="20190502T022255Z">
-        <seg>睡眠:ベルク</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075446Z" creationid="pugnus" creationdate="20190502T022255Z">
+        <seg>睡眠：ベルク</seg>
       </tuv>
     </tu>
     <tu>
@@ -68044,32 +68124,40 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sleep: Cierzo</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T022626Z" creationid="totochan" creationdate="20190403T134153Z">
-        <seg>睡眠:シエルゾ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075507Z" creationid="totochan" creationdate="20190403T134153Z">
+        <seg>睡眠：シエルゾ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sleep: Fur Tent</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064349Z" creationid="pugnus" creationdate="20190502T064349Z">
-        <seg>睡眠:毛皮のテント</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074308Z" creationid="pugnus" creationdate="20190502T064349Z">
+        <seg>睡眠：毛皮のテント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sleep: Levant</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070347Z" creationid="pugnus" creationdate="20190502T070347Z">
-        <seg>睡眠:レバント</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074439Z" creationid="pugnus" creationdate="20190502T070347Z">
+        <seg>睡眠：レバント</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sleep: Luxury Tent</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070516Z" creationid="pugnus" creationdate="20190502T070516Z">
-        <seg>睡眠:贅沢なテント</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074449Z" creationid="pugnus" creationdate="20190502T070516Z">
+        <seg>睡眠：贅沢なテント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep: Monsoon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075435Z" creationid="pugnus" creationdate="20190502T075435Z">
+        <seg>睡眠：モンスーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -69134,16 +69222,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stamina Cost of actions -[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070402Z" creationid="pugnus" creationdate="20190502T070402Z">
-        <seg>スタミナ消費-[E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074444Z" creationid="pugnus" creationdate="20190502T070402Z">
+        <seg>スタミナ消費-[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Stamina Cost of actions -[E2V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T064426Z" creationid="pugnus" creationdate="20190502T064323Z">
-        <seg>スタミナ消費 -[E2V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074303Z" creationid="pugnus" creationdate="20190502T064323Z">
+        <seg>スタミナ消費-[E2V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -77077,6 +77165,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102741Z" creationid="Light" creationdate="20190409T102741Z">
         <seg>このダンジョンには、破損した祭壇へのアクセスをブロックする障壁の原因が含まれている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This effect is constant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T074806Z" creationid="pugnus" creationdate="20190502T074806Z">
+        <seg>この効果は絶えず持続される。</seg>
       </tuv>
     </tu>
     <tu>
