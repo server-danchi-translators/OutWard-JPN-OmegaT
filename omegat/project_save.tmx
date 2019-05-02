@@ -315,6 +315,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The blast of Corruption from the altar seems to have stunned Myriade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T041456Z" creationid="taman" creationdate="20190502T041456Z">
+        <seg>(瘴気の爆発に巻き込まれたのかミリアドは気絶しているようだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The leg stretches, as if to say "Here I am".</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T160628Z" creationid="taman" creationdate="20190421T152758Z">
@@ -37407,6 +37415,13 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T050052Z" creationid="pugnus" creationdate="20190416T045923Z">
         <seg>私は彼ら「砂ネズミたち」を、カリシア女王とシメオン王を信頼したい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ゲーム内で確認しないと流れがわからない。
+問題は解決したあとで、i 'll be back with your missing parts.というのは変。</note>
+      <tuv lang="EN-US">
+        <seg>I'll be back with your missing parts.</seg>
       </tuv>
     </tu>
     <tu>
