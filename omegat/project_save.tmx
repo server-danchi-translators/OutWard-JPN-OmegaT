@@ -12192,6 +12192,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are we even discussing terms with the full authority of the Blue Chamber Collective?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T001504Z" creationid="pugnus" creationdate="20190502T001504Z">
+        <seg>青の議会の権限や法について議論したのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you familiar with the Montcalm tribe in the Chersonese?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T165209Z" creationid="taman" creationdate="20190413T164549Z">
@@ -75715,8 +75723,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Too much blood has been spilled!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T001114Z" creationid="pugnus" creationdate="20190502T001114Z">
-        <seg>多量の血が流れた！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T001600Z" creationid="pugnus" creationdate="20190502T001114Z">
+        <seg>多量の血が流れたじゃないの！</seg>
       </tuv>
     </tu>
     <tu>
