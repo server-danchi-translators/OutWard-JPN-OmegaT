@@ -30595,6 +30595,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greater Poison Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083606Z" creationid="pugnus" creationdate="20190502T083606Z">
+        <seg>染み込む猛毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Green Dancer</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T121358Z" creationid="pugnus" creationdate="20190422T121358Z">
@@ -59672,6 +59680,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poison Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083527Z" creationid="pugnus" creationdate="20190502T083527Z">
+        <seg>染み込む毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poisoned</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T075753Z" creationid="pugnus" creationdate="20190502T075753Z">
@@ -81504,6 +81520,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051659Z" creationid="seto" creationdate="20190406T051659Z">
         <seg>Weapon filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon inflicts Poison to enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083555Z" creationid="pugnus" creationdate="20190502T083555Z">
+        <seg>武器は敵に毒を与える。</seg>
       </tuv>
     </tu>
     <tu>
