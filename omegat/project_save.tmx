@@ -32491,6 +32491,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He has been watching you, [PlayerName], and would like to speak with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072331Z" creationid="urakata" creationdate="20190502T072331Z">
+        <seg>[PlayerName]、エラットは君を見守っておられる。君とのお目通りをご希望だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He has chosen to exile himself from Cierzo forever rather than do his duty to the tribe and bear the Blood Price.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T154804Z">
@@ -35740,6 +35748,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135307Z" creationid="Light" creationdate="20190407T050823Z">
         <seg>手元に残ったのは、出直すのに足りるだけのわずかなものだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have called on Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072231Z" creationid="urakata" creationdate="20190502T072231Z">
+        <seg>エラットに拝謁した。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44487,6 +44503,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T233259Z" creationid="pugnus" creationdate="20190416T233259Z">
         <seg>彼女の人生を終わらせるには、たった１発で十分だったのに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just point me at the problem, and Soeran or I will take care of it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072618Z" creationid="urakata" creationdate="20190502T072618Z">
+        <seg>困りごとを教えてくれれば、セーランと私が解決して進ぜよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59356,6 +59380,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112659Z">
         <seg>強力な武器やポーションが作成でき、他に強力な罠にも使えるでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pray to the altar at the back of the temple, and heed his wisdom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072515Z" creationid="urakata" creationdate="20190502T072515Z">
+        <seg>寺院の裏の祭壇で祈りなさい。そして彼の知恵を心に留めるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83433,6 +83465,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yep, you'll do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072632Z" creationid="urakata" creationdate="20190502T072632Z">
+        <seg>よし、なかなかの腕だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045038Z" creationid="seto" creationdate="20190406T045038Z">
@@ -84903,6 +84943,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T061100Z" creationid="Light" creationdate="20190408T061100Z">
         <seg>あなた、リッサが養子に迎えるって言ってた人じゃない？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You look like you can handle a good scrap.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072729Z" creationid="urakata" creationdate="20190502T072729Z">
+        <seg>貴重なスクラップの扱いも心得ているようだな。</seg>
       </tuv>
     </tu>
     <tu>
