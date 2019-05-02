@@ -13010,6 +13010,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At what cost, though?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T042614Z" creationid="taman" creationdate="20190502T042614Z">
+        <seg>しかし犠牲になった人がいますよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At what price...There must be a better way…</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T065831Z" creationid="taman" creationdate="20190411T065627Z">
@@ -80863,6 +80871,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054551Z" creationid="urakata" creationdate="20190427T054551Z">
         <seg>ここで何が起きた?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happened to Oliele?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T042721Z" creationid="taman" creationdate="20190502T042721Z">
+        <seg>オリエルに一体何が起きたのですか？</seg>
       </tuv>
     </tu>
     <tu>
