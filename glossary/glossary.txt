@@ -50,7 +50,6 @@ Mushroom Shield	キノコの盾	ItemID2300150
 Conflux Mountain	コンフラックス山	最初のマップの中央にある紫の山
 Alchemist	錬金術師
 Chersonese	チェルソネス	既存翻訳部分より
-Chersonese	ケールサニース	ギリシャ語で「乾いた島」=半島のこと
 Conflux	合流点	「カナメ」とか「辻」とか真ん中を感じさせる言葉かな
 Corrupted Tombs	退廃の墓地	Chersoneseの地名
 Enmerkar	エンメルカル	シュメール人の王。ギルガメシュの3代前にあたる。伝説上の人物？
@@ -514,3 +513,4 @@ Speed Up	速度上昇
 Impact Resistance	衝撃耐性
 Fire Damage and Resistance	炎ダメージ＆耐性
 Cold Weather Def	冷気耐性
+Chersonese	ケールサニース	ギリシャ語で「乾いた島」=半島のこと チェルソネスとケルソネスの２つが候補に挙がっているがどちらを正とするのか？
