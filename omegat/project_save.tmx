@@ -8970,8 +8970,8 @@
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Become a mage&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T232240Z" creationid="urakata" creationdate="20190502T232240Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;魔法使いになる&lt;/b&gt;&lt;/color&gt;。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232420Z" creationid="urakata" creationdate="20190502T232240Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;魔法使いになって欲しい&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,6 +16536,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T010252Z" creationid="urakata" creationdate="20190427T010252Z">
         <seg>子孫に自分の命を結び付けることで、不死身となったんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By being in tune with life's vibrations, you'll resist that... "thing's" influence far better than a normal person.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232552Z" creationid="urakata" creationdate="20190502T232552Z">
+        <seg>生命の揺らぎに同調することで、あの...「アレ」からの干渉に普通よりずっと抵抗しやすくなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47096,8 +47104,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Look, you want to do something to help me?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T232210Z" creationid="urakata" creationdate="20190502T232210Z">
-        <seg>そうだ、何か助けが必要だとか?</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T232410Z" creationid="urakata" creationdate="20190502T232210Z">
+        <seg>そうだ、協力してくれるのであれば、</seg>
       </tuv>
     </tu>
     <tu>
