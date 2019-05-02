@@ -15139,6 +15139,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking an attack with this shield emits an explosion of Ethereal Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090528Z" creationid="pugnus" creationdate="20190502T090528Z">
+        <seg>この盾で攻撃を防御すると、エーテル属性の爆発がおこる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocking an attack with this shield emits an explosion of Fire Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090621Z" creationid="pugnus" creationdate="20190502T090621Z">
+        <seg>この盾で攻撃を防御すると、炎属性の爆発がおこる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T110921Z">
@@ -26385,6 +26401,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ethereal Shield Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090454Z" creationid="pugnus" creationdate="20190502T090454Z">
+        <seg>盾に染み込むエーテル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ethereal Trap</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T022823Z" creationid="pugnus" creationdate="20190423T022823Z">
@@ -27445,6 +27469,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T082139Z" creationid="seto" creationdate="20190406T043545Z">
         <seg>炎耐性+[E2V1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Shield Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090551Z" creationid="pugnus" creationdate="20190502T090551Z">
+        <seg>盾より噴き出す炎</seg>
       </tuv>
     </tu>
     <tu>
