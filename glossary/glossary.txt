@@ -499,7 +499,6 @@ Rest	休憩
 Sleep	睡眠
 Repair	修理
 Negative Effect	負の影響
-Backpack	背負い袋
 Inventory	インベントリー	詳細目録，一覧表，財産資産目録，在庫品目（録）1a U目録［明細表］作成2 UC((米))在庫品，品ぞろえ，在庫総額，棚卸し資産2a U((主に米))（年度ごとの）在庫調べ，棚卸し
 Durability	耐久性
 Temperature	気温
@@ -528,3 +527,9 @@ Torche	たいまつ
 Makeshift	間に合わせの
 Makeshift Torche	間に合わせのたいまつ
 Occupied	占領した
+Backpack	バックパック
+Backpack	バックパック	ポーチよりはるかに大きい収納用の装備。バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。
+Discipline	規律
+Discipline Boon	規律の恩恵
+Wind Altar	風の祭壇
+Rage	猛威	(抑えがたい)激怒、憤怒、激しさ、猛烈、猛威、熱望、渇望、大流行(のもの)
