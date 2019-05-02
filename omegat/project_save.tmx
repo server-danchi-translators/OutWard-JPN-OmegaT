@@ -18909,8 +18909,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Conjure</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014925Z" creationid="pugnus" creationdate="20190502T014904Z">
-        <seg>呼び出す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104636Z" creationid="pugnus" creationdate="20190502T014904Z">
+        <seg>祈願</seg>
       </tuv>
     </tu>
     <tu>
@@ -23119,6 +23119,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T105044Z" creationid="seto" creationdate="20190404T105044Z">
         <seg>DS_74_ThirstTuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dagger Slash</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104343Z" creationid="pugnus" creationdate="20190502T104343Z">
+        <seg>ダガー・スラッシュ</seg>
       </tuv>
     </tu>
     <tu>
@@ -62580,24 +62588,24 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Bow Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014403Z" creationid="pugnus" creationdate="20190406T015338Z">
-        <seg>必要: 弓 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104455Z" creationid="pugnus" creationdate="20190406T015338Z">
+        <seg>必要： 弓 射程が長く、非常に強い矢を放つが、中距離戦での使用はおすすめできない。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Shoot an arrow while jumping backwards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014315Z" creationid="Horizon" creationdate="20190403T135301Z">
-        <seg>必要:弓 後方にジャンプしながら矢を撃つ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104451Z" creationid="Horizon" creationdate="20190403T135301Z">
+        <seg>必要：弓 後方にジャンプしながら矢を撃つ。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Bow Strong shot that goes through enemies and hits other foes behind.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014412Z" creationid="Horizon" creationdate="20190403T135727Z">
-        <seg>必要:弓 敵を貫通して後ろにいる他の敵に命中する強いショット。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104500Z" creationid="Horizon" creationdate="20190403T135727Z">
+        <seg>必要：弓 敵を貫通して後ろにいる他の敵に命中する強いショット。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62644,16 +62652,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Dagger attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T103844Z" creationid="rkmad" creationdate="20190403T072743Z">
-        <seg>必要：短剣 手に持った短剣による一撃。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104325Z" creationid="rkmad" creationdate="20190403T072743Z">
+        <seg>必要：ダガー 手に持った短剣による一撃。 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Required: Dagger Simple attack with the dagger.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190403T070405Z">
-        <seg>必要:Dagger 手に持った短剣による一撃。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104350Z" creationid="rkmad" creationdate="20190403T070405Z">
+        <seg>必要：ダガー 手に持った短剣による一撃。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62796,8 +62804,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013857Z" creationid="Horizon" creationdate="20190403T134941Z">
-        <seg>必要:トーチかランタン トーチやランタンから炎を撃ち出し、炎上効果をもたらす。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104417Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要：たいまつかランタン たいまつやランタンから炎を撃ち出し、炎上効果をもたらす。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -78852,8 +78860,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This skill lowers the durability of the torch or lantern used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T140002Z" creationid="Horizon" creationdate="20190403T135008Z">
-        <seg>このスキルは使用されるトーチやランタンの耐久性を低下させる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T104442Z" creationid="Horizon" creationdate="20190403T135008Z">
+        <seg>このスキルは、たいまつやランタンの耐久性を低下させる。</seg>
       </tuv>
     </tu>
     <tu>
