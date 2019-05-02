@@ -17100,6 +17100,20 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
     </tu>
     <tu>
+      <note>上院議員という言葉に違和感あり。chamberlord自体が造語のような感じがするが他のチャプターでどういう扱いをされているか要確認。部族長のような感じもするが複数形になっているので違う気もする。
+
+ここでは仮に上院議員としておく。
+
+Bergはベルクなのか？音ではバーグだと感じる。
+一応ベルクとバーグの2種類の発音がある。前者はドイツ語。ゲーム内で発音している箇所があれば、そこで判断したい。仮でベルクにしておく。</note>
+      <tuv lang="EN-US">
+        <seg>Chamberlords of the Blue Chamber are headed to Berg for a council meeting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T063218Z" creationid="taman" creationdate="20190502T063218Z">
+        <seg>青の議会の上院議員たちが評議会のためベルクに向かったらしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Change</seg>
       </tuv>
@@ -26365,8 +26379,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Even someone as tough as me uses them when facing down the undead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T054937Z" creationid="taman" creationdate="20190502T054937Z">
-        <seg>俺のようにガタイがいい男でも不死者と出くわすとなればSpritual Varnishを使うってもんだ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T061245Z" creationid="taman" creationdate="20190502T054937Z">
+        <seg>俺のようなタフガイでも不死者と出くわすとなればSpritual Varnishを使うってもんだ。</seg>
       </tuv>
     </tu>
     <tu>
