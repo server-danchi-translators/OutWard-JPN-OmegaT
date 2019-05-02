@@ -49869,6 +49869,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moon Swipe</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111118Z" creationid="pugnus" creationdate="20190502T111118Z">
+        <seg>月の強打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Morbid shield made by the deranged gravekeeper Cremeuh, to reward you for robbing graves.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T095553Z" creationid="pugnus" creationdate="20190410T100044Z">
@@ -62740,8 +62748,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Halberd, Staff Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035621Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Halberd,Staff 大きなダメージを与えるダブルアタック。そして、RageBoonまたはDisciplineBoonの状態であればさらに攻撃力は高まる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111157Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：斧槍、杖 大きなダメージを与えるダブルアタック。そして、猛威の恩恵または規律の恩恵の状態であればさらに攻撃力は高まる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62852,8 +62860,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Shield Block an elemental attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T113652Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Shield エレメンタルによる攻撃を防御する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111238Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：盾 エレメンタルによる攻撃を防御する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68674,6 +68682,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shield Infusion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111223Z" creationid="pugnus" creationdate="20190502T111223Z">
+        <seg>注入される盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shield depicting a fictional creature of great power; one that is common in street theatre and children’s books.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T144150Z" creationid="weedssoul" creationdate="20190405T144150Z">
@@ -69031,6 +69047,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T101348Z" creationid="pugnus" creationdate="20190415T101348Z">
         <seg>スラム街のための銀貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simeon's Gambit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111344Z" creationid="pugnus" creationdate="20190502T111344Z">
+        <seg>シメオンの策</seg>
       </tuv>
     </tu>
     <tu>
