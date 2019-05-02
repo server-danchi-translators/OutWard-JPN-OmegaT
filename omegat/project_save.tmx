@@ -23857,6 +23857,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't you dare speak about this any further.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T004504Z" creationid="pugnus" creationdate="20190502T004504Z">
+        <seg>あなたはもうこれ以上、話さないでください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't you dare tempt me, pup!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T063137Z" creationid="pugnus" creationdate="20190429T063137Z">
@@ -73136,6 +73144,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T084400Z" creationid="pugnus" creationdate="20190422T084331Z">
         <seg>青の議会の指導者たちは、皆が上級王シリを非常に重要だと考えています。青の議会はあなたを、すべての巨人の王として招待したいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mastermind has been dealt with, and I will not bear anyone twisting that knife further!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T005040Z" creationid="pugnus" creationdate="20190502T005040Z">
+        <seg>首謀者はすでに罰を受けました。さらに追い打ちを掛けるようなことは誰であろうと我慢しません！</seg>
       </tuv>
     </tu>
     <tu>
