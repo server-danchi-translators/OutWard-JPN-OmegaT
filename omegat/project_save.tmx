@@ -20619,6 +20619,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Counterstrike</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105901Z" creationid="pugnus" creationdate="20190502T105901Z">
+        <seg>逆襲の一撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crabeye</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113715Z" creationid="Gaiden Shinji" creationdate="20190403T113715Z">
@@ -46853,6 +46861,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mace Infusion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T110312Z" creationid="pugnus" creationdate="20190502T110312Z">
+        <seg>吹き込む槌矛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Machete</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032007Z" creationid="pugnus" creationdate="20190423T032007Z">
@@ -62580,8 +62596,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon Completely block a physical attack, striking the attacker and dealing high Damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="pugnus" creationdate="20190406T030533Z">
-        <seg>必要:近接武器 物理的な攻撃を完全に防御し、反撃する。 敵に高いダメージを与える。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105906Z" creationid="pugnus" creationdate="20190406T030533Z">
+        <seg>必要：近接武器 物理的な攻撃を完全に防御し、反撃する。 敵に高いダメージを与える。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -62668,8 +62684,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Dagger Counter a physical attack with a strong dagger strike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="pugnus" creationdate="20190406T030722Z">
-        <seg>必要:Dagger 短剣による強い攻撃により、物理的な攻撃にカウンターを試みる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105955Z" creationid="pugnus" creationdate="20190406T030722Z">
+        <seg>必要：ダガー 短剣による強い攻撃により、物理的な攻撃にカウンターを試みる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -68366,6 +68382,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T000543Z" creationid="pugnus" creationdate="20190502T000543Z">
         <seg>青の議会は準備が整いました！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Serpent's Parry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105943Z" creationid="pugnus" creationdate="20190502T105943Z">
+        <seg>蛇の受け流し</seg>
       </tuv>
     </tu>
     <tu>
