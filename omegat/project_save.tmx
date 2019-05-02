@@ -18053,6 +18053,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Weather Def +[E2V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033452Z" creationid="pugnus" creationdate="20190502T033452Z">
+        <seg>冷気耐性+[E2V1].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Weather Def +[E3V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141917Z" creationid="totochan" creationdate="20190403T134119Z">
@@ -27135,6 +27143,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T000348Z" creationid="pugnus" creationdate="20190411T000231Z">
         <seg>ファイア・ビートル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Damage and Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033419Z" creationid="pugnus" creationdate="20190502T033419Z">
+        <seg>炎ダメージ＆耐性+[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39252,6 +39268,22 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T103301Z" creationid="setom" creationdate="20190401T113705Z">
         <seg>衝撃耐性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033318Z" creationid="pugnus" creationdate="20190502T033318Z">
+        <seg>衝撃耐性+[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impact Resistance Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033326Z" creationid="pugnus" creationdate="20190502T033326Z">
+        <seg>衝撃耐性上昇</seg>
       </tuv>
     </tu>
     <tu>
@@ -67909,6 +67941,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083504Z" creationid="totochan" creationdate="20190402T083504Z">
         <seg>速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Speed Up</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033246Z" creationid="pugnus" creationdate="20190502T033246Z">
+        <seg>速度上昇</seg>
       </tuv>
     </tu>
     <tu>
