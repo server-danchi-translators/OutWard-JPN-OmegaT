@@ -16613,6 +16613,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can't.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044922Z" creationid="taman" creationdate="20190502T044922Z">
+        <seg>何も、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114847Z" creationid="setom" creationdate="20190401T114847Z">
@@ -35164,8 +35172,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>I fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T044752Z" creationid="taman" creationdate="20190502T044752Z">
-        <seg>しかしI fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T045414Z" creationid="taman" creationdate="20190502T044752Z">
+        <seg>しかし適切な対策を怠れば瘴気は再び無意味にもチェルソネスを包んでしまうしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38263,6 +38271,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T174726Z" creationid="taman" creationdate="20190430T174200Z">
         <seg>私は、体の一部を失ったのよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044847Z" creationid="taman" creationdate="20190502T044847Z">
+        <seg>俺は、</seg>
       </tuv>
     </tu>
     <tu>
@@ -46613,6 +46629,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memory.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044916Z" creationid="taman" creationdate="20190502T044901Z">
+        <seg>記憶が、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115154Z" creationid="setom" creationdate="20190401T115154Z">
@@ -47897,6 +47921,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115142Z" creationid="Gaiden Shinji" creationdate="20190404T115142Z">
         <seg>ミシェル・アバディーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044910Z" creationid="taman" creationdate="20190502T044910Z">
+        <seg>頭が、</seg>
       </tuv>
     </tu>
     <tu>
@@ -53860,6 +53892,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T144352Z" creationid="taman" creationdate="20190419T144352Z">
         <seg>こっちこい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044853Z" creationid="taman" creationdate="20190502T044853Z">
+        <seg>ああ、</seg>
       </tuv>
     </tu>
     <tu>
@@ -67531,6 +67571,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, any luck?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044838Z" creationid="taman" creationdate="20190502T044838Z">
+        <seg>成果はあったか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, interested in this house?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T034743Z" creationid="seto" creationdate="20190420T034622Z">
@@ -75958,6 +76006,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T174749Z" creationid="taman" creationdate="20190430T174749Z">
         <seg>光の体は松葉杖のようなものだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Think.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T045006Z" creationid="taman" creationdate="20190502T045006Z">
+        <seg>考えられない。</seg>
       </tuv>
     </tu>
     <tu>
