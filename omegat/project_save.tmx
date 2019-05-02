@@ -23336,8 +23336,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Decay Damage and Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T075827Z" creationid="pugnus" creationdate="20190502T075827Z">
-        <seg>腐敗ダメージ＆耐性+[E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075949Z" creationid="pugnus" creationdate="20190502T075827Z">
+        <seg>腐敗ダメージ＆耐性+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -54657,8 +54657,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Other Resistances +[E3V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013653Z" creationid="pugnus" creationdate="20190502T013653Z">
-        <seg>その他の抵抗 +[E3V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080121Z" creationid="pugnus" creationdate="20190502T013653Z">
+        <seg>その他の抵抗+[E3V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -55449,8 +55449,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical Protection +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013630Z" creationid="pugnus" creationdate="20190502T013630Z">
-        <seg>物理防御 +[E2V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080115Z" creationid="pugnus" creationdate="20190502T013630Z">
+        <seg>物理防御+[E2V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -55465,8 +55465,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical Resistance +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013614Z" creationid="pugnus" creationdate="20190502T013614Z">
-        <seg>物理抵抗 +[E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080058Z" creationid="pugnus" creationdate="20190502T013614Z">
+        <seg>物理抵抗+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -59616,6 +59616,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possessed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075849Z" creationid="pugnus" creationdate="20190502T075849Z">
+        <seg>所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessed Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075935Z" creationid="pugnus" creationdate="20190502T075935Z">
+        <seg>増幅された所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Possessed Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T073538Z" creationid="hiru4" creationdate="20190403T062034Z">
@@ -59938,8 +59954,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Protection +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T013717Z" creationid="pugnus" creationdate="20190502T013717Z">
-        <seg>防御力 +[E2V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080103Z" creationid="pugnus" creationdate="20190502T013717Z">
+        <seg>防御力+[E2V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -60628,6 +60644,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T031913Z" creationid="pugnus" creationdate="20190423T031913Z">
         <seg>輝狼の剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080013Z" creationid="pugnus" creationdate="20190502T080013Z">
+        <seg>猛威</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rage Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080023Z" creationid="pugnus" creationdate="20190502T080023Z">
+        <seg>増幅された猛威</seg>
       </tuv>
     </tu>
     <tu>
@@ -81166,8 +81198,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapon Impact +[E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070240Z" creationid="pugnus" creationdate="20190502T070240Z">
-        <seg>武器の衝撃力+[E1V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075942Z" creationid="pugnus" creationdate="20190502T070240Z">
+        <seg>武器の衝撃力+[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
