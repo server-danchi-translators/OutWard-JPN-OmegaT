@@ -55,6 +55,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A voice like a thunderstorm rolls through everyone’s head.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T000747Z" creationid="pugnus" creationdate="20190502T000747Z">
+        <seg>(雷鳴のような轟きで、皆の頭の中に声が広がる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Agony rips through you as the Ghosts greedily feed on your very essence!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T165404Z" creationid="taman" creationdate="20190430T165404Z">
@@ -33353,6 +33361,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can we be sure that they even want peace?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T000640Z" creationid="pugnus" creationdate="20190502T000640Z">
+        <seg>彼らが平和を望んでいると、どうして確かめることができるのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can you be so sure?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T152341Z" creationid="weedssoul" creationdate="20190405T152341Z">
@@ -65099,6 +65115,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T150544Z" creationid="weedssoul" creationdate="20190405T150544Z">
         <seg>終わりのない踊り、あるいは戦いへと誘う官能的なマスク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Seriously, the Blue Chamber took their sweet-ass time getting ready!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T000543Z" creationid="pugnus" creationdate="20190502T000543Z">
+        <seg>青の議会は準備が整いました！</seg>
       </tuv>
     </tu>
     <tu>
