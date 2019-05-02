@@ -18237,8 +18237,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cold Weather Def [E1V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T043504Z" creationid="seto" creationdate="20190406T043504Z">
-        <seg>冷気耐性[E1V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082133Z" creationid="seto" creationdate="20190406T043504Z">
+        <seg>冷気耐性[E1V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -27411,8 +27411,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Fire Resistance +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T043545Z" creationid="seto" creationdate="20190406T043545Z">
-        <seg>炎耐性+[E2V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082139Z" creationid="seto" creationdate="20190406T043545Z">
+        <seg>炎耐性+[E2V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -27995,8 +27995,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Frost Resistance [E3V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T043527Z" creationid="seto" creationdate="20190406T043527Z">
-        <seg>氷耐性[E3V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082136Z" creationid="seto" creationdate="20190406T043527Z">
+        <seg>氷耐性[E3V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -34031,8 +34031,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Hot Weather Def +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T055408Z" creationid="totochan" creationdate="20190403T134424Z">
-        <seg>高温耐性 +[E2V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082031Z" creationid="totochan" creationdate="20190403T134424Z">
+        <seg>高温耐性+[E2V1]</seg>
       </tuv>
     </tu>
     <tu>
@@ -80219,6 +80219,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Warm Amplified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082018Z" creationid="pugnus" creationdate="20190502T082018Z">
+        <seg>増幅された温暖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Warm Boon is required.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T072952Z" creationid="hiru4" creationdate="20190403T061258Z">
@@ -80423,6 +80431,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045159Z" creationid="seto" creationdate="20190406T045159Z">
         <seg>水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Water Effect</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082129Z" creationid="pugnus" creationdate="20190502T082129Z">
+        <seg>水の効果</seg>
       </tuv>
     </tu>
     <tu>
@@ -81977,6 +81993,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T090604Z" creationid="pugnus" creationdate="20190423T090604Z">
         <seg>ヴェルリグの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T082156Z" creationid="pugnus" creationdate="20190502T082156Z">
+        <seg>水濡れ</seg>
       </tuv>
     </tu>
     <tu>
