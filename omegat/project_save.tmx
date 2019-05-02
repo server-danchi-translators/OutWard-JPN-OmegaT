@@ -23601,6 +23601,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you expect us to just disarm ourselves and hand over our weapons to the enemy?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003724Z" creationid="pugnus" creationdate="20190502T003724Z">
+        <seg>あなたは私たちが武装解除して、敵に武器を手渡すつもりですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you have a death wish?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T111114Z" creationid="urakata" creationdate="20190428T111114Z">
@@ -78282,6 +78290,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We need those weapons just to deal with the beasts of Abrassar!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003614Z" creationid="pugnus" creationdate="20190502T003614Z">
+        <seg>私たちは、それらの武器が必要なのです。アブラサールの獣のために！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We need to investigate.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T051423Z" creationid="pugnus" creationdate="20190415T051423Z">
@@ -83366,6 +83382,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T171631Z" creationid="taman" creationdate="20190428T034512Z">
         <seg>こんなもののために私の命を捧げろというのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to cripple us?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003515Z" creationid="pugnus" creationdate="20190502T003515Z">
+        <seg>あなたは私たちを不自由にしたいのですか？</seg>
       </tuv>
     </tu>
     <tu>
