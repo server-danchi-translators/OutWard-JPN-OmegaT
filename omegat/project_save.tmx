@@ -23951,6 +23951,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Divine Light Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084939Z" creationid="pugnus" creationdate="20190502T084939Z">
+        <seg>神聖な光の神話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Divine heroes walk among us, and for a brief moment, you were one of them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103929Z" creationid="pugnus" creationdate="20190404T080227Z">
@@ -81592,6 +81600,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T084315Z" creationid="pugnus" creationdate="20190502T084315Z">
         <seg>武器に氷属性のダメージを付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon deals some Lightning Damage and emits light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085146Z" creationid="pugnus" creationdate="20190502T085146Z">
+        <seg>武器は雷属性のダメージを与え、光を発する。</seg>
       </tuv>
     </tu>
     <tu>
