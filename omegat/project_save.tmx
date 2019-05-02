@@ -59127,6 +59127,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Lanterns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T012014Z" creationid="pugnus" creationdate="20190502T012014Z">
+        <seg>ランタンについて読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ready to continue your training?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142155Z" creationid="weedssoul" creationdate="20190406T055417Z">
