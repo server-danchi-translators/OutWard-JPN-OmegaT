@@ -9244,6 +9244,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Candle Snuffed out</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095734Z" creationid="pugnus" creationdate="20190502T095734Z">
+        <seg>消えた蝋燭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Iocal mage keeps demanding more Cold Stones to make Ice Sigils.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235329Z" creationid="pugnus" creationdate="20190408T011835Z">
@@ -55239,6 +55247,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Origin Story</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095812Z" creationid="pugnus" creationdate="20190502T095812Z">
+        <seg>起源の物語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ornate Bone Shield</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T100124Z" creationid="pugnus" creationdate="20190410T100124Z">
@@ -74255,6 +74271,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tears of light</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095711Z" creationid="pugnus" creationdate="20190502T095711Z">
+        <seg>光の涙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teleport</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113200Z" creationid="Gaiden Shinji" creationdate="20190404T113200Z">
@@ -75693,6 +75717,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T070847Z" creationid="hiru4" creationdate="20190403T070847Z">
         <seg>PhotonCloudは送信されたAppIdを拒否しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Power of Faith</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095648Z" creationid="pugnus" creationdate="20190502T095648Z">
+        <seg>信仰の力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Power of Family</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095613Z" creationid="pugnus" creationdate="20190502T095613Z">
+        <seg>家族の力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Power of Freedom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095624Z" creationid="pugnus" creationdate="20190502T095624Z">
+        <seg>自由の力</seg>
       </tuv>
     </tu>
     <tu>
