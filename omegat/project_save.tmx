@@ -30619,6 +30619,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greater Ethereal Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085227Z" creationid="pugnus" creationdate="20190502T085227Z">
+        <seg>吹き付ける大エーテル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greater Fire Imbue</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T084046Z" creationid="pugnus" creationdate="20190502T084046Z">
@@ -81580,6 +81588,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weapon deals some Ethereal Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085258Z" creationid="pugnus" creationdate="20190502T085258Z">
+        <seg>武器にエーテル属性のダメージを付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapon deals some Fire Damage and inflicts Burning on enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T063315Z">
@@ -81624,6 +81640,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051659Z" creationid="seto" creationdate="20190406T051659Z">
         <seg>Weapon filter status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon has increased attack speed and impact, but is more tiring to swing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T085452Z" creationid="pugnus" creationdate="20190502T085452Z">
+        <seg>武器は攻撃速度と衝撃力を増すが、振るためのスタミナ消費量も増加する。</seg>
       </tuv>
     </tu>
     <tu>
