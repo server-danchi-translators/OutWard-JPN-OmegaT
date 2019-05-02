@@ -49895,8 +49895,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Needs: Cold</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T081124Z" creationid="pugnus" creationdate="20190502T081124Z">
-        <seg>欲求：寒気</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081338Z" creationid="pugnus" creationdate="20190502T081124Z">
+        <seg>欲求：寒い</seg>
       </tuv>
     </tu>
     <tu>
@@ -49929,6 +49929,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T081246Z" creationid="pugnus" creationdate="20190502T081246Z">
         <seg>欲求：とても寒い</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs: Very Hot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081421Z" creationid="pugnus" creationdate="20190502T081421Z">
+        <seg>欲求：とても暑い</seg>
       </tuv>
     </tu>
     <tu>
@@ -68338,6 +68346,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep: Simple Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081504Z" creationid="pugnus" creationdate="20190502T081504Z">
+        <seg>睡眠：質素なテント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep_Title_LocalPlayer</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095139Z" creationid="setom" creationdate="20190402T095139Z">
@@ -69432,6 +69448,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T081313Z" creationid="pugnus" creationdate="20190502T081313Z">
         <seg>スタミナ消費量+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost of actions +[E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081406Z" creationid="pugnus" creationdate="20190502T081406Z">
+        <seg>スタミナ消費量+[E2V1]%</seg>
       </tuv>
     </tu>
     <tu>
