@@ -22955,6 +22955,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damian_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075832Z" creationid="urakata" creationdate="20190502T075832Z">
+        <seg>Damian_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dammit, I'm losing two friends in one day.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
@@ -30619,6 +30627,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greetings, traveler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075256Z" creationid="urakata" creationdate="20190502T075256Z">
+        <seg>ごきげんよう、旅人よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grilled Marshmelon</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T084651Z" creationid="pugnus" creationdate="20190424T084651Z">
@@ -38169,6 +38185,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm a busy man, visitor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075856Z" creationid="urakata" creationdate="20190502T075856Z">
+        <seg>お客人、私は忙しいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm afraid I don't understand.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054527Z" creationid="urakata" creationdate="20190427T054527Z">
@@ -39351,6 +39375,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If you don’t have business with me, move along.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075920Z" creationid="urakata" creationdate="20190502T075920Z">
+        <seg>特に私に用が有るのでなければ、失礼しますよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Spiritual Varnishがまだ訳されていないので保留。後ほど統一したい。</note>
       <tuv lang="EN-US">
         <seg>If you ever find yourself facing ghosts, some Spiritual Varnish will make things a lot easier.</seg>
@@ -39501,6 +39533,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T164526Z">
         <seg>もし、あなたが私と共にくると誓うのであれば、 私があなたの残りの「血の代償」を精算し、アバディーンの血統にあなたを迎え入れましょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you see any Scourge, let me know and I’ll clear them out, no problem!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075831Z" creationid="urakata" creationdate="20190502T075831Z">
+        <seg>災厄に出くわしたら教えてくださいよ、俺が始末しますから安心して!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43220,6 +43260,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130133Z" creationid="Light" creationdate="20190407T130133Z">
         <seg>抑圧的な部族法や先祖の悪行に答えることなく、自分の意図したとおりのことができる場所だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a real help when you’re preparing for a big fight.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075237Z" creationid="urakata" creationdate="20190502T075237Z">
+        <seg>手ごわい相手と戦う時には役に立つぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52631,6 +52679,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, a visitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075748Z" creationid="urakata" creationdate="20190502T075736Z">
+        <seg>お、お客か!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, and Helen Turnbull is looking for curious objects, see her up on the raised deck near the inn.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T162130Z">
@@ -56419,6 +56475,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093020Z" creationid="seto" creationdate="20190418T093020Z">
         <seg>Player_Damian_HM_Questions_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Damian_HM_prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075921Z" creationid="urakata" creationdate="20190502T075921Z">
+        <seg>Player_Damian_HM_prequest_a_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -68598,6 +68662,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115530Z" creationid="Gaiden Shinji" creationdate="20190404T115530Z">
         <seg>ソラン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soeran_HM_Initial_1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075238Z" creationid="urakata" creationdate="20190502T075238Z">
+        <seg>Soeran_HM_Initial_1</seg>
       </tuv>
     </tu>
     <tu>
@@ -81292,6 +81364,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to the city of Monsoon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075745Z" creationid="urakata" creationdate="20190502T075745Z">
+        <seg>モンスーンへようこそ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to your new home, my friend.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035210Z" creationid="seto" creationdate="20190420T035210Z">
@@ -84261,6 +84341,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are welcome to find sanctuary with me for as long as you need to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075724Z" creationid="urakata" creationdate="20190502T075724Z">
+        <seg>あなたが必要とされるのならば喜んで、安住の地を探すお手伝いを致します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You awake from the verge of death, corpses piled on top of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T094156Z" creationid="はぐくみ会" creationdate="20190403T083832Z">
@@ -85517,8 +85605,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You need to put Larva eggs, Krimp nuts, Crystal powder and water into an alchemy set and steam it!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T075155Z" creationid="urakata" creationdate="20190502T075155Z">
-        <seg>幼虫の卵、くりんぷなっつ、クリスタルパウダーと水を錬金術キットに入れて蒸すんだ!</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075211Z" creationid="urakata" creationdate="20190502T075155Z">
+        <seg>幼虫の卵、クリンプナッツ、クリスタルパウダーと水を錬金術キットに入れて蒸すんだ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -87829,6 +87917,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T150649Z" creationid="Mad" creationdate="20190407T150649Z">
         <seg>我々の中でもっとも強き者であるゼフィリアンは、ポーションを生成できる者を必要としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien_HM_Initial_1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T075725Z" creationid="urakata" creationdate="20190502T075725Z">
+        <seg>Zephyrien_HM_Initial_1</seg>
       </tuv>
     </tu>
     <tu>
