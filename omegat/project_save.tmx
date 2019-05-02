@@ -35162,6 +35162,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044752Z" creationid="taman" creationdate="20190502T044752Z">
+        <seg>しかしI fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I feel comfortable enough leaving her safety in your hands while I work on finding out who ordered this attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T071845Z" creationid="pugnus" creationdate="20190415T071624Z">
@@ -74139,6 +74147,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The job is done, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044357Z" creationid="taman" creationdate="20190502T044357Z">
+        <seg>使命は達成されました、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The journey was a lot harder than I thought it would be.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T134053Z" creationid="Mad" creationdate="20190407T134053Z">
@@ -83100,8 +83116,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You brought peace to the tormented spirits under the Chersonese and established future safeguards for that region's safety.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T042419Z" creationid="taman" creationdate="20190502T042419Z">
-        <seg>あなたはチェルソネスで苦しむ不死者たちを救い、かの地に久遠の平和をもたらすことに成功しました。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T044343Z" creationid="taman" creationdate="20190502T042419Z">
+        <seg>あなたはチェルソネスで苦しむ不死者たちを救い、かの地に未来へつながる平和をもたらすことに成功しました。</seg>
       </tuv>
     </tu>
     <tu>
