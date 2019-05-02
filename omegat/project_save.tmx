@@ -34037,6 +34037,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hot Weather Def +[E3V1].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083201Z" creationid="pugnus" creationdate="20190502T083201Z">
+        <seg>高温耐性+[E3V1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hot Weather Def +[E4V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074433Z" creationid="pugnus" creationdate="20190502T070328Z">
@@ -46486,8 +46494,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mana cost of abilities [E1V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T083015Z" creationid="pugnus" creationdate="20190502T083015Z">
-        <seg>消費マナを[E1V1]%に抑える</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083021Z" creationid="pugnus" creationdate="20190502T083015Z">
+        <seg>消費マナを[E1V1]%に抑える。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68386,10 +68394,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sleep: Mage Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083133Z" creationid="pugnus" creationdate="20190502T083133Z">
+        <seg>睡眠：大きなテント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sleep: Monsoon</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T075435Z" creationid="pugnus" creationdate="20190502T075435Z">
         <seg>睡眠：モンスーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sleep: Plant Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T083401Z" creationid="pugnus" creationdate="20190502T083401Z">
+        <seg>睡眠：草花のテント</seg>
       </tuv>
     </tu>
     <tu>
