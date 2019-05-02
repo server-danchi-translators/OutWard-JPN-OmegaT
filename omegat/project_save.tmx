@@ -23326,6 +23326,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decay Damage and Resistance +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075827Z" creationid="pugnus" creationdate="20190502T075827Z">
+        <seg>腐敗ダメージ＆耐性+[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decay Damage and Resistance [E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T074050Z" creationid="totochan" creationdate="20190403T134536Z">
@@ -39867,8 +39875,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Impact Resistance +[E4V1]%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T075419Z" creationid="pugnus" creationdate="20190502T075419Z">
-        <seg>衝撃耐性+[E4V1]%.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075551Z" creationid="pugnus" creationdate="20190502T075419Z">
+        <seg>衝撃耐性+[E4V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -54791,6 +54799,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075743Z" creationid="pugnus" creationdate="20190502T075743Z">
+        <seg>痛覚</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pain wracks your body as you wake up from your injury.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T082007Z" creationid="urakata" creationdate="20190331T072041Z">
@@ -55395,6 +55411,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T013614Z" creationid="pugnus" creationdate="20190502T013614Z">
         <seg>物理抵抗 +[E1V1]%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Physical Resistance [E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075555Z" creationid="pugnus" creationdate="20190502T075544Z">
+        <seg>物理抵抗[E1V1]%</seg>
       </tuv>
     </tu>
     <tu>
@@ -59475,6 +59499,14 @@ Notification_Need_Fatigue_Tired</seg>
         <seg>Poison</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T033102Z" creationid="pugnus" creationdate="20190502T033102Z">
+        <seg>毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisoned</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T075753Z" creationid="pugnus" creationdate="20190502T075753Z">
         <seg>毒</seg>
       </tuv>
     </tu>
