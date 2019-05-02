@@ -54089,6 +54089,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele said that he’d gone missing and you went to look for him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T165741Z" creationid="taman" creationdate="20190502T165741Z">
+        <seg>オリエルからはゼフィリアンは行方が分からなくなり、あなたが彼を探しに向かったと聞きました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele will likely be at the blacksmith’s shop.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171602Z" creationid="weedssoul" creationdate="20190405T163137Z">
@@ -76171,6 +76179,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cardinal announced that Zephyrien was killed, but didn’t give any details.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T165538Z" creationid="taman" creationdate="20190502T165538Z">
+        <seg>ゼフィリアンの訃報を知らせてくれたのはブラマク卿ですが、詳しい話は聞かせてくれないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Chamberlady, Rissa Aberdeen is usually in her manor on top of the hill when she’s staying in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T161831Z">
@@ -83955,6 +83971,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T042721Z" creationid="taman" creationdate="20190502T042721Z">
         <seg>オリエルに一体何が起きたのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What happened to him?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T165611Z" creationid="taman" creationdate="20190502T165611Z">
+        <seg>一体、彼に何があったのですか？</seg>
       </tuv>
     </tu>
     <tu>
