@@ -12554,8 +12554,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>As a fellow mage, I think you’ll appreciate this recipe quite a bit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T071941Z" creationid="urakata" creationdate="20190502T071941Z">
-        <seg>いまや魔法使い同士となったわけだ、このレシピは役に立つと思うぞ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072000Z" creationid="urakata" creationdate="20190502T071941Z">
+        <seg>同じ魔法使いとしては、このレシピは役に立つと思うぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43212,6 +43212,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035401Z" creationid="pugnus" creationdate="20190408T023138Z">
         <seg>古い石切り場が盗賊だらけになってしまっているのを見るたびに悲しくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s saved my skin more than once.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T072044Z" creationid="urakata" creationdate="20190502T072044Z">
+        <seg>これに助けられたのは一度では利かない。</seg>
       </tuv>
     </tu>
     <tu>
