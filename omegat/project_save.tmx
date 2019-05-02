@@ -15155,6 +15155,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocking an attack with this shield emits an explosion of Frost Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090705Z" creationid="pugnus" creationdate="20190502T090705Z">
+        <seg>この盾で攻撃を防御すると、氷属性の爆発がおこる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blocking an attack with this shield emits an explosion of Lightning Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090737Z" creationid="pugnus" creationdate="20190502T090737Z">
+        <seg>この盾で攻撃を防御すると、雷属性の爆発がおこる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blocking prevents all damage from melee attacks, but costs stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T110921Z">
@@ -15207,6 +15223,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021545Z" creationid="hiru4" creationdate="20190402T021545Z">
         <seg>血液</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blood Bullet Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091055Z" creationid="pugnus" creationdate="20190502T091055Z">
+        <seg>込められた血の弾丸</seg>
       </tuv>
     </tu>
     <tu>
@@ -28041,6 +28065,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost Bullet Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090819Z" creationid="pugnus" creationdate="20190502T090819Z">
+        <seg>装填された盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost Damage and Resistance +[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T055441Z" creationid="totochan" creationdate="20190403T134303Z">
@@ -28069,6 +28101,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T082136Z" creationid="seto" creationdate="20190406T043527Z">
         <seg>氷耐性[E3V1]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Frost Shield Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090640Z" creationid="pugnus" creationdate="20190502T090640Z">
+        <seg>盾より噴き出す氷</seg>
       </tuv>
     </tu>
     <tu>
@@ -45815,6 +45855,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T084708Z" creationid="pugnus" creationdate="20190502T084708Z">
         <seg>帯電</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lightning Shield Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090723Z" creationid="pugnus" creationdate="20190502T090723Z">
+        <seg>帯電する盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -83121,6 +83169,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T145848Z" creationid="setom" creationdate="20190401T081403Z">
         <seg>スタビリティーが50％以下でノックバックし、0％になればノックダウンします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When shot, will deal Decay Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T091235Z" creationid="pugnus" creationdate="20190502T091235Z">
+        <seg>命中すると、腐敗ダメージを与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When shot, will deal Frost Damage and inflict Slow Down and Cripple on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T090957Z" creationid="pugnus" creationdate="20190502T090957Z">
+        <seg>撃たれた場合、氷属性のダメージを与え、敵の動きを鈍くし、不自由な状態にする。</seg>
       </tuv>
     </tu>
     <tu>
