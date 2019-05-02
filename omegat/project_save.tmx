@@ -15253,8 +15253,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blocks an attack, restoring your Stability and giving you the Discipline boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T035643Z" creationid="pugnus" creationdate="20190408T115219Z">
-        <seg>攻撃を遮断し、あなたのStabilityを回復し、DisciplineBoonが発動される。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111625Z" creationid="pugnus" creationdate="20190408T115219Z">
+        <seg>攻撃を遮断し、あなたのスタビリティーを回復し、規律の恩恵が発動される。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15584,6 +15584,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112453Z">
         <seg>弓は最も基本的な遠距離攻撃です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brace</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111603Z" creationid="pugnus" creationdate="20190502T111603Z">
+        <seg>身体の引き締め</seg>
       </tuv>
     </tu>
     <tu>
@@ -56200,6 +56208,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Perfect Strike</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111417Z" creationid="pugnus" creationdate="20190502T111417Z">
+        <seg>完全なる攻撃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Perfect!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051844Z" creationid="Light" creationdate="20190406T051844Z">
@@ -62644,8 +62660,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Any Melee Weapon, Discipline Boon Lunging attack that ignores all defenses and inflicts Pain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040147Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Discipline Boonの発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111429Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：規律の恩恵の発動と、近接武器 すべての防御を無視して、苦痛を与える突進。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62876,8 +62892,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Spear Deflect a melee attack and counter with a powerful strike.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T114103Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要:Spear 敵の近接攻撃をそらし、カウンターを仕掛ける。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T111352Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：槍 敵の近接攻撃をそらし、カウンターを仕掛ける。</seg>
       </tuv>
     </tu>
     <tu>
