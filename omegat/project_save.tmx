@@ -83058,11 +83058,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ここは本当に新しいアビリティなどがもらえたりするのか？言葉上の報酬なら力ではなく、加護としたほうが、残念感が減ると思う。
+
+ゲーム内で要確認。</note>
       <tuv lang="EN-US">
         <seg>You are filled with new strength)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T050356Z" creationid="taman" creationdate="20190502T050356Z">
-        <seg>新しい力を授かった。)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T051513Z" creationid="taman" creationdate="20190502T050356Z">
+        <seg>新しい力を授かった)</seg>
       </tuv>
     </tu>
     <tu>
