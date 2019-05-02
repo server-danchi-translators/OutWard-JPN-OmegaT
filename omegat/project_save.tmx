@@ -20503,8 +20503,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Crafting: Old Lantern</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Old Lantern</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T011615Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>クラフト:古いランタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -88284,8 +88284,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Coil Lantern</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190412T094659Z" creationid="seto" creationdate="20190412T094659Z">
-        <seg>Coil Lantern</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T011917Z" creationid="seto" creationdate="20190412T094659Z">
+        <seg>コイルランタン</seg>
       </tuv>
     </tu>
     <tu>
