@@ -46238,8 +46238,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Manual Recipe allows you to brew concoctions whose recipe you don’t know yet.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T012901Z" creationid="hiru4" creationdate="20190403T012901Z">
-        <seg>マニュアルレシピを使用すると、まだレシピを知らないレシピの発見と製造ができます。.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071227Z" creationid="hiru4" creationdate="20190403T012901Z">
+        <seg>マニュアルレシピを使用すると、まだレシピを知らないレシピの発見と製造ができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46262,8 +46262,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Manual recipe allows the discovery of new crafting recipes, such as weapons made from monster parts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T012617Z" creationid="hiru4" creationdate="20190403T012617Z">
-        <seg>マニュアルレシピにより、モンスターの部位を使って新しい武器の製造レシピの発見が可能.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071238Z" creationid="hiru4" creationdate="20190403T012617Z">
+        <seg>マニュアルレシピにより、モンスターの部位を使って新しい武器の製造レシピの発見が可能です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50453,6 +50453,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071519Z" creationid="pugnus" creationdate="20190502T071519Z">
+        <seg>いいえ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No Breakthrough Point remaining.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T052809Z" creationid="hiru4" creationdate="20190403T052809Z">
@@ -52203,6 +52211,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034401Z" creationid="pugnus" creationdate="20190423T034401Z">
         <seg>黒曜石のメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occupied</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071514Z" creationid="pugnus" creationdate="20190502T071514Z">
+        <seg>占領した</seg>
       </tuv>
     </tu>
     <tu>
@@ -54345,8 +54361,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Otherwise, survival crafting is used to make essentials items such as Makeshift Torches, if one ever loses his lantern in a cave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T013832Z" creationid="hiru4" creationdate="20190403T013832Z">
-        <seg>洞窟で明かりを失った時、サバイバルクラフトを用いてMakeshift Torchesのような必需品を作るのに使われます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T071439Z" creationid="hiru4" creationdate="20190403T013832Z">
+        <seg>洞窟で明かりを失った時、サバイバルクラフトを用いて「間に合わせのたいまつ」のような必需品を作るのに使われます。</seg>
       </tuv>
     </tu>
     <tu>
