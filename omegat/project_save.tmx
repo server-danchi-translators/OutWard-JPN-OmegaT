@@ -18173,8 +18173,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cold Weather Def +[E2V1].</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T033452Z" creationid="pugnus" creationdate="20190502T033452Z">
-        <seg>冷気耐性+[E2V1].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070833Z" creationid="pugnus" creationdate="20190502T033452Z">
+        <seg>冷気耐性+[E2V1]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46044,6 +46044,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mana Cost Reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070739Z" creationid="pugnus" creationdate="20190502T070739Z">
+        <seg>消費マナ削減</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mana Mantis</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T000409Z" creationid="pugnus" creationdate="20190411T000409Z">
@@ -60596,6 +60604,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T061723Z" creationid="hiru4" creationdate="20190403T132811Z">
         <seg>体力を毎秒[E1V1]回復。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recover [E1V1] Mana per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T070810Z" creationid="pugnus" creationdate="20190502T070810Z">
+        <seg>マナを毎秒[E1V1]回復。</seg>
       </tuv>
     </tu>
     <tu>
