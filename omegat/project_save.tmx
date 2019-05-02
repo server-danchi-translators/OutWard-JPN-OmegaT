@@ -22923,6 +22923,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damages you deal: [E2V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081629Z" creationid="pugnus" creationdate="20190502T081629Z">
+        <seg>受けるダメージが [E2V1]増加する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Damian Lockwell</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114056Z" creationid="Gaiden Shinji" creationdate="20190404T114056Z">
@@ -49917,6 +49925,22 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Needs: Refreshed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081947Z" creationid="pugnus" creationdate="20190502T081947Z">
+        <seg>欲求：リフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs: Thirsty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081715Z" creationid="pugnus" creationdate="20190502T081715Z">
+        <seg>欲求：渇き</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Needs: Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074157Z" creationid="pugnus" creationdate="20190502T032654Z">
@@ -49945,6 +49969,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074408Z" creationid="pugnus" creationdate="20190502T065825Z">
         <seg>欲求：空腹の限度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needs: Very Thirsty</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081811Z" creationid="pugnus" creationdate="20190502T081811Z">
+        <seg>欲求：とても渇いた</seg>
       </tuv>
     </tu>
     <tu>
@@ -87085,6 +87117,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T130404Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
         <seg>致命傷は、フードを被った男によって包帯をされていた。彼は振り向くことなく、山の壁沿いの扉に入り、静かに去って行く...。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your max Stamina decreases 3 times faster.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T081607Z" creationid="pugnus" creationdate="20190502T081607Z">
+        <seg>スタミナの最大値が3倍速で減少する。</seg>
       </tuv>
     </tu>
     <tu>
