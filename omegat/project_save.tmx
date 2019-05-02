@@ -23791,6 +23791,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discipline...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074555Z" creationid="urakata" creationdate="20190502T074525Z">
+        <seg>規律...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disease: Acute Cold</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134844Z" creationid="totochan" creationdate="20190403T134844Z">
@@ -34850,8 +34858,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I can definitely tell you’ve got the spirit for it, but one needs discipline to walk the martial path of the Holy Mission.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T074514Z" creationid="urakata" creationdate="20190502T074514Z">
-        <seg>君には勤まると思うが、神聖伝道団の軍事部門に入るには自制心が必要だ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074604Z" creationid="urakata" creationdate="20190502T074514Z">
+        <seg>君には勤まると思うが、神聖伝道団の軍事部門に入るには規律が必要だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35204,6 +35212,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064510Z" creationid="pugnus" creationdate="20190429T064510Z">
         <seg>信じられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I don't care if you brew it or buy it, personally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074827Z" creationid="urakata" creationdate="20190502T074827Z">
+        <seg>私としては、自作でも市販品でもどっちでもいい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36605,6 +36621,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T063841Z" creationid="pugnus" creationdate="20190418T063737Z">
         <seg>ガブリエラとユリウスは現在就いている任務で必要とされていますし、他のほとんどの人は戦争に備えて必要不可欠な仕事をしています。そう、あなた以外は、必要とされている人員ばかりなのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need a discipline potion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074621Z" creationid="urakata" creationdate="20190502T074621Z">
+        <seg>規律のポーションが必要なんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39176,6 +39200,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can’t find one for me, it’s pretty easy to brew.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074752Z" creationid="urakata" creationdate="20190502T074752Z">
+        <seg>入手できなければ、自分で作ってもいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you change your mind, you know where to find me.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T034908Z" creationid="seto" creationdate="20190420T034908Z">
@@ -39204,6 +39236,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T022228Z" creationid="hiru4" creationdate="20190403T065009Z">
         <seg>よろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you could &lt;color=#00CCFF&gt;&lt;b&gt;bring me one, I'd be in your debt&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074709Z" creationid="urakata" creationdate="20190502T074709Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;都合してくれたら、恩に着るよ。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43493,6 +43533,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T072244Z" creationid="pugnus" creationdate="20190429T064455Z">
         <seg>イタチちゃん！お前の骨を全部折ってやる！楽しんで！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll give you the recipe scroll.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074803Z" creationid="urakata" creationdate="20190502T074803Z">
+        <seg>レシピの巻物を渡そう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49409,6 +49457,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T015539Z" creationid="rkmad" creationdate="20190404T015416Z">
         <seg>でも、私の短剣は壊れてしまった・・・。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My stocks are low...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074630Z" creationid="urakata" creationdate="20190502T074630Z">
+        <seg>手持ちが少なくてな...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62073,6 +62129,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right, that reminds me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074540Z" creationid="urakata" creationdate="20190502T074540Z">
+        <seg>それで思い出した!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T103811Z" creationid="urakata" creationdate="20190428T103811Z">
@@ -68718,6 +68782,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T074515Z" creationid="urakata" creationdate="20190502T074515Z">
         <seg>Sorean_HM_prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorean_HM_prequest_14-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T074710Z" creationid="urakata" creationdate="20190502T074710Z">
+        <seg>Sorean_HM_prequest_14-b</seg>
       </tuv>
     </tu>
     <tu>
