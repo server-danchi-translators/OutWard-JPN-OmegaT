@@ -24442,6 +24442,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elatt!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T010707Z" creationid="pugnus" creationdate="20190502T010707Z">
+        <seg>エラット！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt's Champions are the pinnacle of the missionary's path.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T084748Z" creationid="rkmad" creationdate="20190408T084748Z">
@@ -32855,6 +32863,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T010641Z" creationid="pugnus" creationdate="20190502T010641Z">
+        <seg>もし！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, do me a solid and bring me another pickaxe would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014520Z" creationid="rkmad" creationdate="20190404T014520Z">
@@ -35751,6 +35767,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T094647Z" creationid="rkmad" creationdate="20190405T094647Z">
         <seg>それに、私は二度と娘に会えないかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I may not be long for this world, but I need to know that my kingdom will be left in capable hands.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T010630Z" creationid="pugnus" creationdate="20190502T010630Z">
+        <seg>私はもうこの世界に長くはいられない。しかし、王国が有能な手に委ねられることを知っておく必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83203,6 +83227,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T095338Z" creationid="pugnus" creationdate="20190429T095338Z">
         <seg>そなたは我らをよく理解している、そうであろう？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You said you could save her!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T010744Z" creationid="pugnus" creationdate="20190502T010744Z">
+        <seg>あなたは彼女を救えると約束した！</seg>
       </tuv>
     </tu>
     <tu>
