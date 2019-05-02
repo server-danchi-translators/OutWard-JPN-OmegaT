@@ -26011,6 +26011,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even the Ash Giants wish for an end to this conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003251Z" creationid="pugnus" creationdate="20190502T003251Z">
+        <seg>灰の巨人ですら、この対立の終結を望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even though the payment was late, you've proven you can survive in Aurai.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T091232Z" creationid="rkmad" creationdate="20190405T091232Z">
@@ -38180,6 +38188,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130951Z" creationid="weedssoul" creationdate="20190406T130951Z">
         <seg>もしこれらの選択を取ることができないなら、長期間寝るんだ。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If we are to make peace, we require war reparations for the villages that were destroyed, as well as half your store of firearms and the knowledge to make more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003401Z" creationid="pugnus" creationdate="20190502T003401Z">
+        <seg>私たちが平和を築くのであれば、私たちは戦争で破壊された村のために、賠償を要求します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72778,8 +72794,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The entirety of the Blue Chamber collective stands united on this.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T003131Z" creationid="pugnus" creationdate="20190502T003131Z">
-        <seg>青の議会全体が、統一しています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003139Z" creationid="pugnus" creationdate="20190502T003131Z">
+        <seg>青の議会全体で統一しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78427,6 +78443,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We wish for an end to the war.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003206Z" creationid="pugnus" creationdate="20190502T003206Z">
+        <seg>私たちは戦争の終結を願います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We wondered why such a light had chosen to fly over a human city.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T105248Z" creationid="pugnus" creationdate="20190422T105248Z">
@@ -79776,6 +79800,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071739Z" creationid="urakata" creationdate="20190430T071609Z">
         <seg>マナに何か問題あるのか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What, why?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T003437Z" creationid="pugnus" creationdate="20190502T003437Z">
+        <seg>なに？なぜ？</seg>
       </tuv>
     </tu>
     <tu>
