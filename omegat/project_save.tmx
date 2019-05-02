@@ -32683,6 +32683,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have each boon active on you at the same time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095257Z" creationid="pugnus" creationdate="20190502T095257Z">
+        <seg>２つ以上の「恩恵」を同時に付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have lots of water, sleep and food, and eventually you will beat back the disease.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T131142Z" creationid="weedssoul" creationdate="20190406T131142Z">
@@ -61364,6 +61372,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T234324Z" creationid="pugnus" creationdate="20190423T234324Z">
         <seg>生の鮭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reach 20 Cold Weather Def.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095100Z" creationid="pugnus" creationdate="20190502T095100Z">
+        <seg>冷気耐性が２０に達する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reach 20 Hot Weather Def.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T095039Z" creationid="pugnus" creationdate="20190502T095039Z">
+        <seg>高温耐性が２０に達する。</seg>
       </tuv>
     </tu>
     <tu>
