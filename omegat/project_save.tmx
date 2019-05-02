@@ -898,8 +898,8 @@
       <tuv lang="EN-US">
         <seg>13 – Using Predator Leap</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T012517Z" creationid="pugnus" creationdate="20190502T012517Z">
-        <seg>13 – 捕食者飛び跳ねを使う</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T073929Z" creationid="pugnus" creationdate="20190502T012517Z">
+        <seg>13 – 猛獣の跳躍を使う</seg>
       </tuv>
     </tu>
     <tu>
@@ -15101,8 +15101,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Blessed Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132210Z" creationid="hiru4" creationdate="20190403T060423Z">
-        <seg>Blessed Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T072551Z" creationid="hiru4" creationdate="20190403T060423Z">
+        <seg>祝福の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -20141,8 +20141,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cool Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132213Z" creationid="hiru4" creationdate="20190403T060612Z">
-        <seg>Cool Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T072730Z" creationid="hiru4" creationdate="20190403T060612Z">
+        <seg>冷気の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -48622,8 +48622,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mist Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132226Z" creationid="hiru4" creationdate="20190403T062056Z">
-        <seg>Mist Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T073824Z" creationid="hiru4" creationdate="20190403T062056Z">
+        <seg>霞の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -59322,8 +59322,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Possessed Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132220Z" creationid="hiru4" creationdate="20190403T062034Z">
-        <seg>Possessed Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T073538Z" creationid="hiru4" creationdate="20190403T062034Z">
+        <seg>所有の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -60338,8 +60338,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rage Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132117Z" creationid="hiru4" creationdate="20190403T054254Z">
-        <seg>Rage Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T072507Z" creationid="hiru4" creationdate="20190403T054254Z">
+        <seg>猛威の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
@@ -79597,8 +79597,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Warm Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132215Z" creationid="hiru4" creationdate="20190403T061258Z">
-        <seg>Warm Boonが必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T072952Z" creationid="hiru4" creationdate="20190403T061258Z">
+        <seg>温暖の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
