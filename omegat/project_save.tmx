@@ -46350,8 +46350,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mana Cost Reduction</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T070739Z" creationid="pugnus" creationdate="20190502T070739Z">
-        <seg>消費マナ削減</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080544Z" creationid="pugnus" creationdate="20190502T070739Z">
+        <seg>消費マナの削減</seg>
       </tuv>
     </tu>
     <tu>
@@ -69412,6 +69412,46 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stamina Recovery 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080625Z" creationid="pugnus" creationdate="20190502T080625Z">
+        <seg>スタミナ回復１</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Recovery 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080637Z" creationid="pugnus" creationdate="20190502T080637Z">
+        <seg>スタミナ回復２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Recovery 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080649Z" creationid="pugnus" creationdate="20190502T080649Z">
+        <seg>スタミナ回復３</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Recovery 4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080706Z" creationid="pugnus" creationdate="20190502T080656Z">
+        <seg>スタミナ回復４</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Recovery 5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080713Z" creationid="pugnus" creationdate="20190502T080713Z">
+        <seg>スタミナ回復５</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina Regen [E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T134812Z" creationid="totochan" creationdate="20190403T134812Z">
@@ -72257,6 +72297,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
         <seg>ステルス+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stealth increased by 25%</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080908Z" creationid="pugnus" creationdate="20190502T080908Z">
+        <seg>隠密が25%増加する</seg>
       </tuv>
     </tu>
     <tu>
