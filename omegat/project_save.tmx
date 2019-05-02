@@ -13122,6 +13122,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Auraian</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023753Z" creationid="pugnus" creationdate="20190502T023753Z">
+        <seg>アウライ人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authentication failed.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071220Z" creationid="hiru4" creationdate="20190403T071220Z">
@@ -79215,6 +79223,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T143143Z" creationid="setom" creationdate="20190402T141133Z">
         <seg>ちゃんと着とけよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weather Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T023500Z" creationid="pugnus" creationdate="20190502T023500Z">
+        <seg>天候対策</seg>
       </tuv>
     </tu>
     <tu>
