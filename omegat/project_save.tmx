@@ -24875,6 +24875,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enough squabbling!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T001146Z" creationid="pugnus" creationdate="20190502T001146Z">
+        <seg>だまらっしゃい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enough talk about the past.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034952Z" creationid="rkmad" creationdate="20190405T034952Z">
@@ -65736,6 +65744,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sit, and reach a peaceful conclusion like adults!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T001259Z" creationid="pugnus" creationdate="20190502T001259Z">
+        <seg>座るのだ、そして、平和的な結論を導き出すのだ。大人のように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skill</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115431Z" creationid="setom" creationdate="20190401T115431Z">
@@ -75693,6 +75709,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031646Z" creationid="pugnus" creationdate="20190422T031617Z">
         <seg>彼は新しい考えを恐れているよ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too much blood has been spilled!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T001114Z" creationid="pugnus" creationdate="20190502T001114Z">
+        <seg>多量の血が流れた！</seg>
       </tuv>
     </tu>
     <tu>
