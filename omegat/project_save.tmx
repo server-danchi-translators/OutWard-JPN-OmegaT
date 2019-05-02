@@ -17253,6 +17253,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chakram Dance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105506Z" creationid="pugnus" creationdate="20190502T105506Z">
+        <seg>舞い踊るチャクラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chakram Pierce</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105401Z" creationid="pugnus" creationdate="20190502T105401Z">
+        <seg>貫通するチャクラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chakram spells are necessary to use this off-hand weapon.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142339Z" creationid="weedssoul" creationdate="20190406T142339Z">
@@ -24145,8 +24161,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Discipline is required to cast this spell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T132025Z" creationid="pugnus" creationdate="20190406T025624Z">
-        <seg>この呪文を唱えるにはDiscipline(鍛錬)を必要とする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105454Z" creationid="pugnus" creationdate="20190406T025624Z">
+        <seg>この呪文を唱えるには規律を必要とする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62612,8 +62628,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Chakram, Discipline Boon Launch the disc forward, possibly hitting the enemy twice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T040043Z" creationid="pugnus" creationdate="20190406T024414Z">
-        <seg>必要:Discipline Boonの発動とChakram 円盤は前に進み、前方の敵に最大２回攻撃をする。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T105424Z" creationid="pugnus" creationdate="20190406T024414Z">
+        <seg>必要：規律の恩恵の発動とチャクラム 円盤は前に進み、前方の敵に最大２回攻撃をする。 </seg>
       </tuv>
     </tu>
     <tu>
