@@ -68378,6 +68378,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slow Down</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080219Z" creationid="pugnus" creationdate="20190502T080219Z">
+        <seg>鈍重</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Slum Criminal</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120203Z" creationid="Gaiden Shinji" creationdate="20190404T120203Z">
@@ -69340,6 +69348,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stability Up 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080332Z" creationid="pugnus" creationdate="20190502T080332Z">
+        <seg>スタビリティー上昇２</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stamina</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114319Z" creationid="setom" creationdate="20190401T114319Z">
@@ -69352,6 +69368,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021108Z" creationid="hiru4" creationdate="20190402T021108Z">
         <seg>消費スタミナ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stamina Cost Reduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T080405Z" creationid="pugnus" creationdate="20190502T080405Z">
+        <seg>消費スタミナの削減</seg>
       </tuv>
     </tu>
     <tu>
