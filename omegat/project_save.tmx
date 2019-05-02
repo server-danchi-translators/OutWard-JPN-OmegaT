@@ -23371,6 +23371,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Damian_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T230009Z" creationid="urakata" creationdate="20190502T230009Z">
+        <seg>Damian_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dammit, I'm losing two friends in one day.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
@@ -33451,6 +33459,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He puts just a little bit of his soul inside you, and it just grows and grows until you're not you anymore.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T230048Z" creationid="urakata" creationdate="20190502T230008Z">
+        <seg>エラットは自分の魂のほんのひとかけらを埋め込むんだ。かけらはだんだんと育ち、やがて宿主の人格が消滅する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He remembers what it was like to wear flesh like we do.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132720Z" creationid="weedssoul" creationdate="20190406T132638Z">
@@ -36525,6 +36541,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T104127Z" creationid="urakata" creationdate="20190428T104127Z">
         <seg>マナの儀式がこんなに痛いなんて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I had to watch as someone I loved drifted further and further away, and then left forever without even bothering to say goodbye, all for this supposed "god".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T230355Z" creationid="urakata" creationdate="20190502T230355Z">
+        <seg>愛する人が徐々に変わっていき、さよならも言わずに永遠に去っていった。全て、この「神様」らしき奴のためにだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87289,8 +87313,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You listen to me, visitor, you can't trust Elatt.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T225729Z" creationid="urakata" creationdate="20190502T225632Z">
-        <seg>よく聞けよ、お客人、あんたにはエラットへの信仰は無理だ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190502T225856Z" creationid="urakata" creationdate="20190502T225632Z">
+        <seg>よく聞けよ、お客人、エラットを信用してはいけない。</seg>
       </tuv>
     </tu>
     <tu>
