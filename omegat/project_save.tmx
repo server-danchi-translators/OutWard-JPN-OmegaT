@@ -28001,6 +28001,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Frost Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084222Z" creationid="pugnus" creationdate="20190502T084222Z">
+        <seg>吹き付ける氷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Frost Resistance [E3V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T082136Z" creationid="seto" creationdate="20190406T043527Z">
@@ -30607,6 +30615,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T084046Z" creationid="pugnus" creationdate="20190502T084046Z">
         <seg>吹き込む大炎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Greater Frost Imbue</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084352Z" creationid="pugnus" creationdate="20190502T084352Z">
+        <seg>吹き付ける大氷</seg>
       </tuv>
     </tu>
     <tu>
@@ -81540,6 +81556,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Weapon deals some Frost Damage and inflicts Slow Down on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084449Z" creationid="pugnus" creationdate="20190502T084449Z">
+        <seg>武器に氷属性のダメージを付与し、敵の動きを鈍くする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapon deals some Frost Damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084315Z" creationid="pugnus" creationdate="20190502T084315Z">
+        <seg>武器に氷属性のダメージを付与する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Weapon filter status</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051659Z" creationid="seto" creationdate="20190406T051659Z">
@@ -90333,6 +90365,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015209Z" creationid="seto" creationdate="20190407T015209Z">
         <seg>thinking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>too long?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T084510Z" creationid="pugnus" creationdate="20190502T084510Z">
+        <seg>長すぎる?</seg>
       </tuv>
     </tu>
     <tu>
