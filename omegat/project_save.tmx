@@ -25287,6 +25287,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Elatt's breath, why?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T170121Z" creationid="taman" creationdate="20190502T170121Z">
+        <seg>エラットの加護が、何故？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Elatt's name?微妙。</note>
       <tuv lang="EN-US">
         <seg>Elatt's name… I understand.</seg>
@@ -83993,8 +84001,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What happened to him?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T165611Z" creationid="taman" creationdate="20190502T165611Z">
-        <seg>一体、彼に何があったのですか？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T170214Z" creationid="taman" creationdate="20190502T165611Z">
+        <seg>彼に何があったのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -84957,6 +84965,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T090336Z" creationid="pugnus" creationdate="20190429T090336Z">
         <seg>何故レバントは私たちを攻撃するのでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why would someone do this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190502T170443Z" creationid="taman" creationdate="20190502T170200Z">
+        <seg>一体、誰がこんな仕業を？</seg>
       </tuv>
     </tu>
     <tu>
