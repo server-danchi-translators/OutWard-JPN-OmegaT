@@ -31861,6 +31861,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Handle this by connecting again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032155Z" creationid="pugnus" creationdate="20190502T032155Z">
+        <seg>再度接続して対処してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hang on, let me patch that up.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102931Z" creationid="urakata" creationdate="20190428T102920Z">
@@ -59631,6 +59639,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Read about Defences</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032015Z" creationid="pugnus" creationdate="20190502T032015Z">
+        <seg>防御について読む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Read about Deploying a Campfire</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T031801Z" creationid="pugnus" creationdate="20190502T031801Z">
@@ -73194,8 +73210,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Authentication ticket expired.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T070915Z" creationid="hiru4" creationdate="20190403T070915Z">
-        <seg>認証チケットが期限切れです。再度接続して対処してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032210Z" creationid="hiru4" creationdate="20190403T070915Z">
+        <seg>認証チケットが期限切れです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75932,6 +75948,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T035743Z">
         <seg>これで全部だ。  お前がどうやって漕ぐのかも知らない小さな漁船を除けばな。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an optional experimental version of Outward.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032254Z" creationid="pugnus" creationdate="20190502T032254Z">
+        <seg>これはOutwardのオプションの、実験的なバージョンです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79439,6 +79463,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T173400Z" creationid="magur0w" creationdate="20190404T173400Z">
         <seg>まだ時間はあるが、あまりぐずぐずするなよ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We strongly recommend making a backup of the "SaveGames" folder located in the game's installation folder, as bugs and experimental features could break them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032312Z" creationid="pugnus" creationdate="20190502T032312Z">
+        <seg>バグや実験的な機能によってそれらが壊れる可能性があるため、ゲームのインストールフォルダにある "SaveGames"フォルダのバックアップを作成することを強くお勧めします。</seg>
       </tuv>
     </tu>
     <tu>
