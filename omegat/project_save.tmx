@@ -53087,6 +53087,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obtain Firefly Powder from the source.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T094955Z" creationid="pugnus" creationdate="20190502T094955Z">
+        <seg>水源地から「ホタルパウダー」を入手する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Occupied</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T071514Z" creationid="pugnus" creationdate="20190502T071514Z">
@@ -61644,6 +61652,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064349Z" creationid="urakata" creationdate="20190430T064349Z">
         <seg>本当か?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reanimate another player.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T094756Z" creationid="pugnus" creationdate="20190502T094756Z">
+        <seg>他のプレイヤーを蘇生する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80159,6 +80175,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T070121Z" creationid="urakata" creationdate="20190502T070121Z">
         <seg>うまく使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the Throw Lantern skill 5 times.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T094649Z" creationid="pugnus" creationdate="20190502T094649Z">
+        <seg>「ランタン投げつけ」の技術を５回こなす。</seg>
       </tuv>
     </tu>
     <tu>
