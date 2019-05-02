@@ -18085,6 +18085,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Weather Defense</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033015Z" creationid="pugnus" creationdate="20190502T033015Z">
+        <seg>寒さ対策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold seaside mountains, teeming with wildlife and many bandit clans.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115037Z" creationid="Gaiden Shinji" creationdate="20190403T115037Z">
@@ -26451,6 +26459,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extreme Poison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033201Z" creationid="pugnus" creationdate="20190502T033201Z">
+        <seg>猛毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabulous Palladium Shield</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T095424Z" creationid="pugnus" creationdate="20190423T095424Z">
@@ -27167,6 +27183,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T085529Z" creationid="Light" creationdate="20190407T085353Z">
         <seg>火を注入された植物を、さらに火で焼いたもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fireflies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032959Z" creationid="pugnus" creationdate="20190502T032959Z">
+        <seg>ホタル</seg>
       </tuv>
     </tu>
     <tu>
@@ -45403,6 +45427,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Makes you more visible to enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T032936Z" creationid="pugnus" creationdate="20190502T032936Z">
+        <seg>敵から発見しやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Makeshift Leather Attire</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T123821Z" creationid="pugnus" creationdate="20190423T123821Z">
@@ -48343,6 +48375,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T020911Z" creationid="hiru4" creationdate="20190402T020911Z">
         <seg>移動速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Movement Speed +[E1V1]%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033214Z" creationid="pugnus" creationdate="20190502T033214Z">
+        <seg>移動速度+[E1V1]%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58419,6 +58459,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120044Z" creationid="setom" creationdate="20190401T120044Z">
         <seg>ポケットの重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poison</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033102Z" creationid="pugnus" creationdate="20190502T033102Z">
+        <seg>毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -71273,6 +71321,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113144Z" creationid="Gaiden Shinji" creationdate="20190404T113144Z">
         <seg>回収する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take [E1V1] Decay Damage per second.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190502T033056Z" creationid="pugnus" creationdate="20190502T033056Z">
+        <seg>毎秒[E1V1]の腐敗ダメージを受ける。</seg>
       </tuv>
     </tu>
     <tu>
