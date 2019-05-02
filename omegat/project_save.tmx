@@ -39385,11 +39385,12 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
     </tu>
     <tu>
+      <note>ゼフィリアンでいいのか？軽く調べたところ特に参考になる資料はなかったためゲーム内の音で確認かな？</note>
       <tuv lang="EN-US">
         <seg>I've already sent Zephyrien and Oliele to Berg to watch over our representative, Mathias.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T160654Z" creationid="taman" creationdate="20190502T160654Z">
-        <seg>我々の代表であるマティアスを見守るためI've already sent Zephyrien and Oliele to Berg to watch over our representative, Mathias.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T161011Z" creationid="taman" creationdate="20190502T160654Z">
+        <seg>我々の代表であるマティアスを見守るため、すでにゼフィリアンとオリエルにはバーグへ向かってもらっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78692,8 +78693,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Things may get heated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T160229Z" creationid="taman" creationdate="20190502T155814Z">
-        <seg>熱量は高くなる一方でしょう。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190502T160742Z" creationid="taman" creationdate="20190502T155814Z">
+        <seg>このままでは熱量は増すばかりです。</seg>
       </tuv>
     </tu>
     <tu>
