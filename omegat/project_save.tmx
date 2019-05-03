@@ -18523,6 +18523,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cold Stone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042811Z" creationid="pugnus" creationdate="20190503T042811Z">
+        <seg>コールドストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cold Weather Def +[E1V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T071008Z" creationid="totochan" creationdate="20190403T140308Z">
@@ -19319,6 +19327,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T112626Z" creationid="pugnus" creationdate="20190408T124733Z">
         <seg>消費：ファイヤーストーン 地面に魔法の輪を作る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consuming this powder restores mana, burnt mana and burnt stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043103Z" creationid="pugnus" creationdate="20190503T043103Z">
+        <seg>この粉末を消費すると、マナとスタミナが回復する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28441,6 +28457,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Stone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042710Z" creationid="pugnus" creationdate="20190503T042710Z">
+        <seg>ファイヤーストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire, Frost, Lightning, Decay and Ethereal Resistance +[E1V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074125Z" creationid="totochan" creationdate="20190403T140025Z">
@@ -35828,6 +35852,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132014Z" creationid="magur0w" creationdate="20190404T125851Z">
         <seg>しかし、この地域の敵意と、エラット神聖伝道団の本拠地であるという事実を考えると...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it burns maximum health until one sleeps again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043253Z" creationid="pugnus" creationdate="20190503T043253Z">
+        <seg>しかし、睡眠をとるまで体力の最大値が減少し続ける。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63490,6 +63522,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refined mana crystal used to craft powerful equipment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042959Z" creationid="pugnus" creationdate="20190503T042959Z">
+        <seg>洗練されたマナクリスタルは強力な装備品を作るために使われる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Refreshed</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114120Z" creationid="setom" creationdate="20190401T114120Z">
@@ -81249,6 +81289,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115841Z" creationid="setom" creationdate="20190401T115841Z">
         <seg>転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmuted Mana Stone, using an Alchemy Kit to merge the stone and a pinch of Blue Sand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042905Z" creationid="pugnus" creationdate="20190503T042905Z">
+        <seg>錬金術キットを使用し、石と青い砂を融合させたマナストーン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transmuted Mana Stone, using an Alchemy Kit to merge the stone and oil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042911Z" creationid="pugnus" creationdate="20190503T042801Z">
+        <seg>錬金術キットを使用し、石と油を融合させたマナストーン。</seg>
       </tuv>
     </tu>
     <tu>
