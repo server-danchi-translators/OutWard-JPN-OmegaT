@@ -19389,6 +19389,31 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concoction which instantly restores health and max health.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075817Z" creationid="pugnus" creationdate="20190503T075817Z">
+        <seg>即座に体力とその最大値を回復する調合。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction which instantly restores mana and max mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075928Z" creationid="pugnus" creationdate="20190503T075928Z">
+        <seg>即座にマナとその最大値を回復する調合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction which instantly restores stamina and max stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080003Z" creationid="pugnus" creationdate="20190503T080003Z">
+        <seg>即座にスタミナとその最大値を回復する調合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114934Z" creationid="setom" creationdate="20190401T114934Z">
@@ -32537,6 +32562,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great Astral Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075901Z" creationid="pugnus" creationdate="20190503T075901Z">
+        <seg>星の水薬（大）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great Endurance Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075939Z" creationid="pugnus" creationdate="20190503T075939Z">
+        <seg>持久力の水薬（大）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Great Life Potion</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T075747Z" creationid="pugnus" creationdate="20190503T075747Z">
@@ -44504,6 +44545,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T161817Z">
         <seg>それにより、苦しんでいる人たちは、暴力ではなく公平な補償を得ることができます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also closes Bleeding wounds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075848Z" creationid="pugnus" creationdate="20190503T075848Z">
+        <seg>また、出血状態も治療する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63116,6 +63165,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poison Rag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080043Z" creationid="pugnus" creationdate="20190503T080043Z">
+        <seg>有毒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poisoned</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T075753Z" creationid="pugnus" creationdate="20190502T075753Z">
@@ -63240,6 +63297,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T034900Z" creationid="pugnus" creationdate="20190503T034900Z">
         <seg>水薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Potion that grants permanent bonuses to the one who drinks it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080034Z" creationid="pugnus" creationdate="20190503T080034Z">
+        <seg>これを飲む人に永久的なボーナスを与える水薬。</seg>
       </tuv>
     </tu>
     <tu>
