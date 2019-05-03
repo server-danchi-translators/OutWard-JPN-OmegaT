@@ -26322,6 +26322,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050857Z" creationid="urakata" creationdate="20190503T050857Z">
+        <seg>Ellat_HM_prequest_18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051008Z" creationid="urakata" creationdate="20190503T051008Z">
+        <seg>Ellat_HM_prequest_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -41417,6 +41433,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T164526Z">
         <seg>もし、あなたが私と共にくると誓うのであれば、 私があなたの残りの「血の代償」を精算し、アバディーンの血統にあなたを迎え入れましょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you prove your dedication to the cause, we shall speak again, as I bestow upon you new tools for your work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051122Z" creationid="urakata" creationdate="20190503T051122Z">
+        <seg>我が信念に対する献身を示せば、それを助ける力を授けるために、また会うことになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59172,6 +59196,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_a_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050804Z" creationid="urakata" creationdate="20190503T050804Z">
+        <seg>Player_Ellat_HM_prequest_a_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Ellat_HM_prequest_b_02</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041330Z" creationid="urakata" creationdate="20190503T041330Z">
@@ -71631,6 +71663,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So we aren't going to speak like this again?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050856Z" creationid="urakata" creationdate="20190503T050856Z">
+        <seg>あなたとこのように話す機会はこれで最後ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So we lost everything?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135108Z" creationid="weedssoul" creationdate="20190406T025930Z">
@@ -81511,6 +81551,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To continue to protect Aurai, I must see the larger view.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051007Z" creationid="urakata" creationdate="20190503T051007Z">
+        <seg>オーライを守り続けるためには、視野を広く持つ必要があるのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To cook in the wild, you must craft Campfire Kits.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T082523Z" creationid="setom" creationdate="20190402T082523Z">
@@ -81619,6 +81667,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T130828Z">
         <seg>しかし、野生の中で自分で作るには、原料と料理鍋が必要だ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To narrow my focus to any precise place or person blinds me to events going on everywhere else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050939Z" creationid="urakata" creationdate="20190503T050939Z">
+        <seg>特定の場所や人に対して集中していると、ほかの場所で起きていることに目が行き届かなくなる。</seg>
       </tuv>
     </tu>
     <tu>
