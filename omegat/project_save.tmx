@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25210,6 +25210,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you think you could look into it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T052826Z" creationid="taman" creationdate="20190503T052826Z">
+        <seg>もしよかったら彼らの捜索をお願いできるかしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to continue?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064232Z" creationid="hiru4" creationdate="20190403T064118Z">
@@ -37710,6 +37718,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I fear it may be something more sinister…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T052810Z" creationid="taman" creationdate="20190503T052810Z">
+        <seg>悪意のあるものが裏で糸を引いているかもしれませんね……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T052330Z" creationid="taman" creationdate="20190502T044752Z">
@@ -46296,6 +46312,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T042354Z">
         <seg>私は知的好奇心を満たすものに常に興味があるわ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m aware that there is an active bandit gang along the Pilgrim Road, but with this latest disappearance...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T052739Z" creationid="taman" creationdate="20190503T052739Z">
+        <seg>巡礼者の道では盗賊が頻繁に現れることは聞いていますがこうも最近、失踪事件が続くとなると…….</seg>
       </tuv>
     </tu>
     <tu>
@@ -72529,6 +72553,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115715Z" creationid="urakata" creationdate="20190501T115715Z">
         <seg>鉄のゴーレム犬かなんかにやられそうになってさ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some more of our people went missing in the swamp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T052031Z" creationid="taman" creationdate="20190503T052031Z">
+        <seg>我々の仲間が他にも数名、沼で行方不明になっているそうです。</seg>
       </tuv>
     </tu>
     <tu>
