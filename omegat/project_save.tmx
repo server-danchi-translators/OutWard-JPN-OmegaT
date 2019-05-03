@@ -26751,6 +26751,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elinara_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123319Z" creationid="urakata" creationdate="20190503T123319Z">
+        <seg>Elinara_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elite Desert Tunic</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T121939Z" creationid="pugnus" creationdate="20190423T121939Z">
@@ -40252,6 +40260,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think I’ve tried every alchemical combination of ingredients in Aurai by this point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123237Z" creationid="urakata" creationdate="20190503T123224Z">
+        <seg>もはやオーライの素材についていえば、すべての錬金術的な組み合わせは試したと思うんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think he replaced whatever the Corruption took with light.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T173603Z" creationid="taman" creationdate="20190430T173603Z">
@@ -42481,6 +42497,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T135729Z" creationid="setom" creationdate="20190402T082925Z">
         <seg>火打石と打ち金を持っているなら、キャンプファイヤーに火をつけることができます、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you have any problems at all, or see a Scourge Beast of any kind, please let us know, and we will take care of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123510Z" creationid="urakata" creationdate="20190503T123510Z">
+        <seg>困っていることが有ったり、災厄の獣を見かけたら、何でも知らせてくださいね。なんでも力になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46610,6 +46634,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041144Z" creationid="urakata" creationdate="20190503T041144Z">
         <seg>しゃがれているが優しい声だ。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s hard to accept there may be no more discoveries!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123313Z" creationid="urakata" creationdate="20190503T123313Z">
+        <seg>これ以上新発見がないと認めるのはつらいものだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52814,6 +52846,54 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T122208Z" creationid="urakata" creationdate="20190503T122208Z">
         <seg>Mofat_HM_prequest_06_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123122Z" creationid="urakata" creationdate="20190503T123122Z">
+        <seg>Mofat_HM_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123314Z" creationid="urakata" creationdate="20190503T123314Z">
+        <seg>Mofat_HM_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123315Z" creationid="urakata" creationdate="20190503T123315Z">
+        <seg>Mofat_HM_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123316Z" creationid="urakata" creationdate="20190503T123316Z">
+        <seg>Mofat_HM_prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123317Z" creationid="urakata" creationdate="20190503T123317Z">
+        <seg>Mofat_HM_prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123318Z" creationid="urakata" creationdate="20190503T123318Z">
+        <seg>Mofat_HM_prequest_12</seg>
       </tuv>
     </tu>
     <tu>
@@ -87595,6 +87675,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075745Z" creationid="urakata" creationdate="20190502T075745Z">
         <seg>モンスーンへようこそ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the city of Monsoon, home of Elatt, the god of discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123401Z" creationid="urakata" creationdate="20190503T123401Z">
+        <seg>規律の神、エラットのお膝元、モンスーンの街へようこそ。</seg>
       </tuv>
     </tu>
     <tu>
