@@ -129,8 +129,8 @@
       <tuv lang="EN-US">
         <seg>(As you reach out to Elatt, you see a a flash of a strange skeleton in a cave in the Chersonese...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T051631Z" creationid="urakata" creationdate="20190503T051631Z">
-        <seg>(エラットに近づこうとすると、Chersoneseにある洞窟にある、奇妙な骸骨の像が瞬いた...)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085126Z" creationid="urakata" creationdate="20190503T051631Z">
+        <seg>(エラットに近づこうとすると、ケルソネソスの洞窟にある、奇妙な骸骨の像が瞬いた...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15892,6 +15892,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bone Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085150Z" creationid="pugnus" creationdate="20190503T084949Z">
+        <seg>ホネホネピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bone_Lich_BC_Bones_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190501T053305Z" creationid="seto" creationdate="20190501T053305Z">
@@ -21609,8 +21617,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Bone Pistol</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T041536Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>作成：骨ピストル</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085145Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：ホネホネピストル</seg>
       </tuv>
     </tu>
     <tu>
@@ -33038,6 +33046,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114851Z" creationid="seto" creationdate="20190404T114851Z">
         <seg>GuideSlave_Vendavel_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gun that needs the Fire/Reload skill to shoot a ethereal bullet, inflicting Haunted on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085513Z" creationid="pugnus" creationdate="20190503T085513Z">
+        <seg>呪われた銃。命中した敵に呪いをもたらす。元素の弾丸の射撃には「装填／発砲」スキルが必要。
+</seg>
       </tuv>
     </tu>
     <tu>
