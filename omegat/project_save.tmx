@@ -42749,8 +42749,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Improvised blade made from scrap.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T135121Z" creationid="weedssoul" creationdate="20190406T135121Z">
-        <seg>スクラップから作られた即席の刃。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083230Z" creationid="weedssoul" creationdate="20190406T135121Z">
+        <seg>鉄くずから作られた即席の刃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48159,6 +48159,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lantern of Souls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083313Z" creationid="pugnus" creationdate="20190503T083313Z">
+        <seg>魂のランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lanterns burn out while they are lit, and can be refilled by using Crafting.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T085417Z" creationid="setom" creationdate="20190402T085417Z">
@@ -49372,6 +49380,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T122536Z">
         <seg>魔法はマスターするのに忍耐を必要とするものです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Magical lamp that protects against elemental damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083410Z" creationid="pugnus" creationdate="20190503T083410Z">
+        <seg>エレメンタルダメージより守る魔法のランタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71926,6 +71942,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T055418Z" creationid="pugnus" creationdate="20190503T055418Z">
         <seg>輝く力できらめき輝く宝石。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shiv Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083248Z" creationid="pugnus" creationdate="20190503T083248Z">
+        <seg>折りたたみダガー</seg>
       </tuv>
     </tu>
     <tu>
