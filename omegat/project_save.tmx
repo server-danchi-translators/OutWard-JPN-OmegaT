@@ -10688,8 +10688,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Advanced bag that slows down the decay of the food it contains.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T090241Z" creationid="pugnus" creationdate="20190503T090241Z">
-        <seg>食物の腐敗を遅らせる高度なバッグ。
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="pugnus" creationdate="20190503T090241Z">
+        <seg>食物の腐敗を遅らせる高度な。
 </seg>
       </tuv>
     </tu>
@@ -14429,32 +14429,32 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bag</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T120126Z" creationid="setom" creationdate="20190401T120126Z">
-        <seg>バッグ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="setom" creationdate="20190401T120126Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bag Content</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T120134Z" creationid="setom" creationdate="20190401T120134Z">
-        <seg>バッグの中身</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="setom" creationdate="20190401T120134Z">
+        <seg>の中身</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bag Overweight</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T132752Z" creationid="totochan" creationdate="20190402T194447Z">
-        <seg>バッグが一杯です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="totochan" creationdate="20190402T194447Z">
+        <seg>が一杯です</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bag Weight</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190401T120015Z" creationid="setom" creationdate="20190401T120015Z">
-        <seg>バッグの重量</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="setom" creationdate="20190401T120015Z">
+        <seg>の重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -14469,16 +14469,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bag with a ring of bright glowstone, which negates the need for a lantern.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T090135Z" creationid="pugnus" creationdate="20190503T090135Z">
-        <seg>ランタンの必要性を否定する、鮮やかな輝きのあるリングが入ったバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="pugnus" creationdate="20190503T090135Z">
+        <seg>ランタンの必要性を否定する、鮮やかな輝きのあるリングが入った。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bag with a small carrying capacity, specially made to not interfere with the dodge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T083734Z" creationid="Light" creationdate="20190407T083734Z">
-        <seg>ドッジロールを邪魔しないように作られた、小さなバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091657Z" creationid="Light" creationdate="20190407T083734Z">
+        <seg>ドッジロールを邪魔しないように作られた、小さな鞄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17817,8 +17817,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Cavernous bag with a large carrying capacity, but which slows you down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091415Z" creationid="pugnus" creationdate="20190503T091415Z">
-        <seg>大容量の帆布製バックパックですが、速度が遅くなる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091422Z" creationid="pugnus" creationdate="20190503T091415Z">
+        <seg>大容量の帆布製バックパックだが、速度が遅くなる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21571,6 +21571,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T025233Z" creationid="pugnus" creationdate="20190416T010912Z">
         <seg>作成：ツァーリの鎧と朧げな鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craftable bag with improved carrying capacity, a lantern slot and which does not restrict your dodge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091543Z" creationid="pugnus" creationdate="20190503T091543Z">
+        <seg>改善された収容量、ランタンスロットを持ち、そしてなにより、ドッジロールを制限しない作成できる鞄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28577,8 +28585,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Exquisite bag, used by northern Wolf-Knights.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T090936Z" creationid="pugnus" creationdate="20190503T090641Z">
-        <seg>北部の狼騎士団によって使用される絶妙なバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="pugnus" creationdate="20190503T090641Z">
+        <seg>北部の狼騎士団によって使用される絶妙な。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42279,8 +42287,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you get into a fight, however, it's usually best to drop the bag.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T124447Z" creationid="weedssoul" creationdate="20190406T124447Z">
-        <seg>しかし、戦闘になったときは、バッグを下ろしたほうがいい。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091648Z" creationid="weedssoul" creationdate="20190406T124447Z">
+        <seg>しかし、戦闘になったときは、鞄を下ろしたほうがいい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52812,8 +52820,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Move to Bag</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T063009Z" creationid="hiru4" creationdate="20190403T063009Z">
-        <seg>バッグに入れる</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="hiru4" creationdate="20190403T063009Z">
+        <seg>に入れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -53445,8 +53453,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Needlessly ornate bag with an enormous carrying capacity, once used by the spice merchant Mefino.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T085900Z" creationid="pugnus" creationdate="20190503T085830Z">
-        <seg>かつて香辛料商人メフィノによって使用されていた、膨大な収容力を持つ不必要に華やかなバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091721Z" creationid="pugnus" creationdate="20190503T085830Z">
+        <seg>かつて香辛料商人メフィノによって使用されていた、膨大な収容力を持つ不必要に華やかな鞄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54629,8 +54637,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>No {1} in inventory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190404T131929Z" creationid="hiru4" creationdate="20190403T051604Z">
-        <seg> {1} はバッグの中にあります</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="hiru4" creationdate="20190403T051604Z">
+        <seg> {1} はの中にあります</seg>
       </tuv>
     </tu>
     <tu>
@@ -70403,6 +70411,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scaled Satchel</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091454Z" creationid="pugnus" creationdate="20190503T091454Z">
+        <seg>鱗のカバン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scarab Mask</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T115457Z" creationid="pugnus" creationdate="20190423T115408Z">
@@ -77836,8 +77852,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take/Drop Bag</seg>
       </tuv>
-      <tuv lang="JA" changeid="Horizon" changedate="20190403T145728Z" creationid="Horizon" creationdate="20190403T145728Z">
-        <seg>バッグを拾う/落とす</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="Horizon" creationdate="20190403T145728Z">
+        <seg>を拾う/落とす</seg>
       </tuv>
     </tu>
     <tu>
@@ -84646,8 +84662,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unequip (to Bag)</seg>
       </tuv>
-      <tuv lang="JA" changeid="hiru4" changedate="20190403T063100Z" creationid="hiru4" creationdate="20190403T063100Z">
-        <seg>未装備（バッグ）</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="hiru4" creationdate="20190403T063100Z">
+        <seg>未装備（）</seg>
       </tuv>
     </tu>
     <tu>
