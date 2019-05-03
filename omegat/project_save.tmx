@@ -10943,6 +10943,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alchemical torch that cools the wielder even in sweltering temperatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082912Z" creationid="pugnus" creationdate="20190503T082912Z">
+        <seg>錬金術にて作り出された、持つ者を冷やす松明。暖気対策にどうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alchemy Kit</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T081653Z" creationid="pugnus" creationdate="20190503T081653Z">
@@ -21769,8 +21777,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Ice-Flame Torch</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T040146Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>作成：アイスフレイムたいまつ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：アイスフレイム松明</seg>
       </tuv>
     </tu>
     <tu>
@@ -29753,8 +29761,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For example, some wood and linen cloth can be made into a torch if you need light.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082710Z" creationid="weedssoul" creationdate="20190406T123324Z">
-        <seg>例えば光が必要な時はいくつかの木と亜麻布で、たいまつを作ることができる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="weedssoul" creationdate="20190406T123324Z">
+        <seg>例えば光が必要な時はいくつかの木と亜麻布で、松明を作ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41461,8 +41469,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Ice-Flame Torch</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082820Z" creationid="pugnus" creationdate="20190503T082820Z">
-        <seg>アイスフレイムたいまつ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083145Z" creationid="pugnus" creationdate="20190503T082820Z">
+        <seg>氷灯の松明</seg>
       </tuv>
     </tu>
     <tu>
@@ -42813,8 +42821,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>In cold climates, campfires and torches can warm you up.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082606Z" creationid="setom" creationdate="20190402T084838Z">
-        <seg>寒気の中では「キャンプファイヤー」や「たいまつ」で温まってください。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="setom" creationdate="20190402T084838Z">
+        <seg>寒気の中では「キャンプファイヤー」や「松明」で温まってください。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -49490,8 +49498,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Makeshift Torch</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082353Z" creationid="weedssoul" creationdate="20190406T134741Z">
-        <seg>間に合わせのたいまつ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="weedssoul" creationdate="20190406T134741Z">
+        <seg>間に合わせの松明</seg>
       </tuv>
     </tu>
     <tu>
@@ -49786,8 +49794,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Many places are very dark, requiring lanterns or torches to light your way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112747Z">
-        <seg>多くの場所は真っ暗で、ランタンやたいまつで道を明るくする必要がでてきます。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="setom" creationdate="20190331T112747Z">
+        <seg>多くの場所は真っ暗で、ランタンや松明で道を明るくする必要がでてきます。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -58278,8 +58286,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Otherwise, survival crafting is used to make essentials items such as Makeshift Torches, if one ever loses his lantern in a cave.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T071439Z" creationid="hiru4" creationdate="20190403T013832Z">
-        <seg>洞窟で明かりを失った時、サバイバルクラフトを用いて「間に合わせのたいまつ」のような必需品を作るのに使われます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="hiru4" creationdate="20190403T013832Z">
+        <seg>洞窟で明かりを失った時、サバイバルクラフトを用いて「間に合わせの松明」のような必需品を作るのに使われます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65922,8 +65930,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Torch or Lantern Shoots fire from the torch or lantern, which also inflicts the Burning status effect.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T104417Z" creationid="Horizon" creationdate="20190403T134941Z">
-        <seg>必要：たいまつかランタン たいまつやランタンから炎を撃ち出し、炎上効果をもたらす。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="Horizon" creationdate="20190403T134941Z">
+        <seg>必要：松明かランタン 松明やランタンから炎を撃ち出し、炎上効果をもたらす。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -81075,8 +81083,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then, put out any lit lanterns or torches and crouch down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082630Z" creationid="weedssoul" creationdate="20190406T062136Z">
-        <seg>そして、たいまつやランタンの火を消し、しゃがむ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="weedssoul" creationdate="20190406T062136Z">
+        <seg>そして、松明やランタンの火を消し、しゃがむ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82688,8 +82696,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This skill lowers the durability of the torch or lantern used.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T104442Z" creationid="Horizon" creationdate="20190403T135008Z">
-        <seg>このスキルは、たいまつやランタンの耐久性を低下させる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="Horizon" creationdate="20190403T135008Z">
+        <seg>このスキルは、松明やランタンの耐久性を低下させる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83258,8 +83266,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To save fuel, you can close and light lanterns or torches.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113206Z">
-        <seg>燃料を節約するために、必要に応じてランタンやたいまつを消すことができます。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="setom" creationdate="20190331T113206Z">
+        <seg>燃料を節約するために、必要に応じてランタンや松明を消すことができます。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -83371,8 +83379,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Torch that shines weakly, held in the off hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082401Z" creationid="weedssoul" creationdate="20190406T134821Z">
-        <seg>弱々しく光るたいまつ。左手に持つ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="weedssoul" creationdate="20190406T134821Z">
+        <seg>弱々しく光る松明。左手に持つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88040,8 +88048,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When the cold rolls in, you should dress warmly and use campfires or torches for warmth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T082644Z" creationid="Light" creationdate="20190406T062816Z">
-        <seg>特に、寒いときは暖かい服を着て、たいまつやキャンプファイヤーで暖を取ると良い。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083008Z" creationid="Light" creationdate="20190406T062816Z">
+        <seg>特に、寒いときは暖かい服を着て、松明やキャンプファイヤーで暖を取ると良い。 </seg>
       </tuv>
     </tu>
     <tu>
