@@ -33059,6 +33059,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gun that needs the Fire/Reload skill to shoot a fiery bullet, inflicting Burning on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085624Z" creationid="pugnus" creationdate="20190503T085624Z">
+        <seg>燃えるような銃。火炎の弾丸の射撃には「装填／発砲」スキルが必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HAH!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T060248Z" creationid="Mad" creationdate="20190407T060248Z">
@@ -56096,6 +56104,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034401Z" creationid="pugnus" creationdate="20190423T034401Z">
         <seg>黒曜石のメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Obsidian Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085525Z" creationid="pugnus" creationdate="20190503T085525Z">
+        <seg>黒曜石のピストル</seg>
       </tuv>
     </tu>
     <tu>
