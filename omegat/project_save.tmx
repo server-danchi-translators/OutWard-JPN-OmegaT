@@ -15739,6 +15739,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boiled Azure Shrimp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061430Z" creationid="pugnus" creationdate="20190503T061430Z">
+        <seg>茹でた紺碧のエビ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boiled Cactus Fruit</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T084902Z" creationid="pugnus" creationdate="20190424T084902Z">
@@ -20544,6 +20552,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T065529Z" creationid="pugnus" creationdate="20190424T065529Z">
         <seg>調理肉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cooked crustacean coveted for its mana-restoring qualities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061519Z" creationid="pugnus" creationdate="20190503T061519Z">
+        <seg>調理された紺碧の甲殻類は、マナ回復特性を持つ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29769,6 +29785,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T141402Z" creationid="totochan" creationdate="20190402T193251Z">
         <seg>フルスクリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fungal Cleanser</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061311Z" creationid="pugnus" creationdate="20190503T061311Z">
+        <seg>真菌クリーナー</seg>
       </tuv>
     </tu>
     <tu>
@@ -44300,8 +44324,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It also grants the Warm boon and an increase in stealth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T061237Z" creationid="weedssoul" creationdate="20190407T064657Z">
-        <seg>温暖の恩恵を付与し、ステルスも高める。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061250Z" creationid="weedssoul" creationdate="20190407T064657Z">
+        <seg>温暖の恩恵を付与し、隠密性も高める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76336,6 +76360,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stringy Salad</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061339Z" creationid="pugnus" creationdate="20190503T061339Z">
+        <seg>スジスジサラダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Striped Garb</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T100206Z" creationid="pugnus" creationdate="20190423T100206Z">
@@ -82773,6 +82805,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114124Z">
         <seg>罠はとても便利です。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Travel Ration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061547Z" creationid="pugnus" creationdate="20190503T061547Z">
+        <seg>旅糧</seg>
       </tuv>
     </tu>
     <tu>
