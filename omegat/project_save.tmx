@@ -111,6 +111,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see a a flash of a strange skeleton in a cave in the Chersonese...)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051631Z" creationid="urakata" creationdate="20190503T051631Z">
+        <seg>(エラットに近づこうとすると、Chersoneseにある洞窟にある、奇妙な骸骨の像が瞬いた...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see the Blue Chamber in Berg, with diplomats starting to gather for a meeting...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051736Z" creationid="urakata" creationdate="20190503T051736Z">
+        <seg>(エラットに近づこうとすると、バーグの青の議会で、大使たちが会議のために集合する光景が見えた。...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Ask for guidance.)</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041007Z" creationid="urakata" creationdate="20190503T041007Z">
@@ -499,6 +515,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T090400Z" creationid="pugnus" creationdate="20190415T090329Z">
         <seg>(私はバルタザールの目を閉じ、進んだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You do not hear Elatt’s voice from the altar, but you feel connected to it somehow, like a spider’s thread links you to it.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051453Z" creationid="urakata" creationdate="20190503T051453Z">
+        <seg>(祭壇からエラットの声は聞こえないが、蜘蛛の糸のように、なにかがつながっていることを感じた。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26398,6 +26422,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T051358Z" creationid="urakata" creationdate="20190503T051358Z">
         <seg>Ellat_HM_prequest_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_22</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051501Z" creationid="urakata" creationdate="20190503T051501Z">
+        <seg>Ellat_HM_prequest_22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051632Z" creationid="urakata" creationdate="20190503T051632Z">
+        <seg>Ellat_HM_prequest_23</seg>
       </tuv>
     </tu>
     <tu>
@@ -89902,6 +89942,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124512Z" creationid="weedssoul" creationdate="20190406T124512Z">
         <seg>わかってると思うが、バックパックを背負っていると、ドッジロールが遅くなってしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You sense... worry.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051825Z" creationid="urakata" creationdate="20190503T051825Z">
+        <seg>不安を感じた。)</seg>
       </tuv>
     </tu>
     <tu>
