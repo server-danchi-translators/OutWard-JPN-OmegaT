@@ -26370,6 +26370,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051123Z" creationid="urakata" creationdate="20190503T051123Z">
+        <seg>Ellat_HM_prequest_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_21</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051358Z" creationid="urakata" creationdate="20190503T051358Z">
+        <seg>Ellat_HM_prequest_21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -28270,6 +28286,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T051938Z" creationid="pugnus" creationdate="20190416T051938Z">
         <seg>最後に、私の言葉を伝える者よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051144Z" creationid="urakata" creationdate="20190503T051144Z">
+        <seg>ようやくか...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38980,6 +39004,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I sense the potential of a great mage within you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051228Z" creationid="urakata" creationdate="20190503T051228Z">
+        <seg>お前から強力な魔法使いの力を感じ取れるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I sent Oliele on a mission before you left for the Vigil, and I would feel better if you joined her.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032413Z" creationid="taman" creationdate="20190413T161626Z">
@@ -41471,8 +41503,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you prove your dedication to the cause, we shall speak again, as I bestow upon you new tools for your work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T051122Z" creationid="urakata" creationdate="20190503T051122Z">
-        <seg>我が信念に対する献身を示せば、それを助ける力を授けるために、また会うことになるだろう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051136Z" creationid="urakata" creationdate="20190503T051122Z">
+        <seg>我が信念に対する献身を示せば、お前の仕事を助ける力を授けるために、また会うことになるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70862,6 +70894,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Should you wish to open yourself up to Mana, seek our entrance to the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051327Z" creationid="urakata" creationdate="20190503T051327Z">
+        <seg>マナに触れられるようになるには、コンフラックス山への入り口を探すのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Should your backpack be hit, it’ll damage the items inside.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124622Z" creationid="weedssoul" creationdate="20190406T124622Z">
@@ -91932,6 +91972,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T050244Z" creationid="urakata" creationdate="20190503T050244Z">
         <seg>ゼフィリアンはたいていあそこで鍛錬しているから、マナの力を体得できるレイラインへ案内してくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien often travels there and will glady help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051357Z" creationid="urakata" creationdate="20190503T051357Z">
+        <seg>ゼフィリアンはよく行っているようだし、喜んで助けてくれるだろう。</seg>
       </tuv>
     </tu>
     <tu>
