@@ -15852,6 +15852,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bolt Rag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080409Z" creationid="pugnus" creationdate="20190503T080409Z">
+        <seg>電気布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bolt Varnish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080437Z" creationid="pugnus" creationdate="20190503T080437Z">
+        <seg>電気樹脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bone_Lich_BC_Bones_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190501T053305Z" creationid="seto" creationdate="20190501T053305Z">
@@ -29175,6 +29191,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fire Rag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080624Z" creationid="pugnus" creationdate="20190503T080624Z">
+        <seg>火炎布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fire Resistance +[E2V1].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T082139Z" creationid="seto" creationdate="20190406T043545Z">
@@ -29195,6 +29219,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T042710Z" creationid="pugnus" creationdate="20190503T042710Z">
         <seg>ファイヤーストーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fire Varnish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080638Z" creationid="pugnus" creationdate="20190503T080638Z">
+        <seg>火炎樹脂</seg>
       </tuv>
     </tu>
     <tu>
@@ -72877,8 +72909,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Fire element when rubbed on a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143447Z" creationid="weedssoul" creationdate="20190406T143319Z">
-        <seg>武器に使うと、炎属性を付与する汚れた布</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080631Z" creationid="weedssoul" creationdate="20190406T143319Z">
+        <seg>武器に使うと、炎属性を付与する汚れた布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72893,8 +72925,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Lightning element when rubbed on a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190407T063427Z">
-        <seg>近接武器をこすると稲妻属性を付与する汚れた布。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080529Z" creationid="Light" creationdate="20190407T063427Z">
+        <seg>近接武器をこすると雷属性を付与する汚れた布。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -81844,10 +81876,19 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thick fluid that confers the Lightning element when applied to a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080616Z" creationid="pugnus" creationdate="20190503T080518Z">
+        <seg>近接武器に適用したときに、雷属性を付与する厚みのある流体樹脂。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thick fluid that envenoms a weapon when applied to it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T080401Z" creationid="pugnus" creationdate="20190503T080401Z">
-        <seg>これを使用した際、武器に毒を付与する厚みのある流体樹脂。
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080507Z" creationid="pugnus" creationdate="20190503T080401Z">
+        <seg>武器に毒を付与する厚みのある流体樹脂。
 </seg>
       </tuv>
     </tu>
