@@ -15830,8 +15830,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring Monsoon’s alchemist 5 raw Marshmelons and 1 Phytosaur Horn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T033338Z" creationid="Light" creationdate="20190409T100900Z">
-        <seg>モンスーンの錬金術師にraw Marshmelons5つとPhytosaur Hornの角を1つ持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T023816Z" creationid="Light" creationdate="20190409T100900Z">
+        <seg>モンスーンの錬金術師に「マーシュメロン5つ」と「フィトサウルスの角を1つ」持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -56659,8 +56659,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pass though a cave known as The Slide, north-west of the shipwrecks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T100256Z" creationid="Light" creationdate="20190409T100256Z">
-        <seg>難破船の北西にあるThe Slideという洞窟を通過する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T023715Z" creationid="Light" creationdate="20190409T100256Z">
+        <seg>難破船の北西にある、「すべり穴」という洞窟を通過する</seg>
       </tuv>
     </tu>
     <tu>
