@@ -12360,6 +12360,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arcane Syntax</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021105Z" creationid="pugnus" creationdate="20190503T021105Z">
+        <seg>秘密の構文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are we even discussing terms with the full authority of the Blue Chamber Collective?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T001644Z" creationid="pugnus" creationdate="20190502T001504Z">
@@ -42565,8 +42573,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Internalized Lexicon</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T020937Z" creationid="pugnus" creationdate="20190503T020937Z">
-        <seg>生ける辞書</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020947Z" creationid="pugnus" creationdate="20190503T020937Z">
+        <seg>生ける大辞典</seg>
       </tuv>
     </tu>
     <tu>
@@ -61306,6 +61314,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Plate Training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021150Z" creationid="pugnus" creationdate="20190503T021150Z">
+        <seg>圧力版訓練</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pretty solid work, for both of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T050534Z" creationid="urakata" creationdate="20190501T050534Z">
@@ -67143,6 +67159,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T013428Z" creationid="pugnus" creationdate="20190502T013130Z">
         <seg>ルーンのランタン（強）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runic Prefix</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021133Z" creationid="pugnus" creationdate="20190503T021133Z">
+        <seg>ルーンの接頭語</seg>
       </tuv>
     </tu>
     <tu>
@@ -74171,6 +74195,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133940Z" creationid="totochan" creationdate="20190403T133940Z">
         <seg>ステルス+[E1V1]%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stealth Training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021115Z" creationid="pugnus" creationdate="20190503T021115Z">
+        <seg>隠密訓練</seg>
       </tuv>
     </tu>
     <tu>
