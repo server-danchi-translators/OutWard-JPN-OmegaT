@@ -14445,16 +14445,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bag Overweight</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="totochan" creationdate="20190402T194447Z">
-        <seg>が一杯です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091833Z" creationid="totochan" creationdate="20190402T194447Z">
+        <seg>鞄が一杯です</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bag Weight</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="setom" creationdate="20190401T120015Z">
-        <seg>の重量</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091803Z" creationid="setom" creationdate="20190401T120015Z">
+        <seg>鞄の重量</seg>
       </tuv>
     </tu>
     <tu>
@@ -52820,8 +52820,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Move to Bag</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="hiru4" creationdate="20190403T063009Z">
-        <seg>に入れる</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091848Z" creationid="hiru4" creationdate="20190403T063009Z">
+        <seg>鞄に入れる</seg>
       </tuv>
     </tu>
     <tu>
@@ -77852,8 +77852,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take/Drop Bag</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="Horizon" creationdate="20190403T145728Z">
-        <seg>を拾う/落とす</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091931Z" creationid="Horizon" creationdate="20190403T145728Z">
+        <seg>鞄を拾う/落とす</seg>
       </tuv>
     </tu>
     <tu>
@@ -84662,8 +84662,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unequip (to Bag)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T091621Z" creationid="hiru4" creationdate="20190403T063100Z">
-        <seg>未装備（）</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091906Z" creationid="hiru4" creationdate="20190403T063100Z">
+        <seg>未装備（鞄）</seg>
       </tuv>
     </tu>
     <tu>
