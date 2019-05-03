@@ -48527,6 +48527,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manticore Tail</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045516Z" creationid="pugnus" creationdate="20190503T045516Z">
+        <seg>マンティコアの尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mantis Granite</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T044242Z" creationid="pugnus" creationdate="20190503T044228Z">
@@ -57851,6 +57859,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phytosaur Horn</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045730Z" creationid="pugnus" creationdate="20190503T045730Z">
+        <seg>フィトサウルスの角</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phytosaur Spear</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T091212Z" creationid="pugnus" creationdate="20190423T091212Z">
@@ -62016,6 +62032,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T075753Z" creationid="pugnus" creationdate="20190502T075753Z">
         <seg>毒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisonous bones of large herbivores, used to craft spears.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045755Z" creationid="pugnus" creationdate="20190503T045755Z">
+        <seg>槍を作るために使用される、大型の草食動物の有毒な骨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72054,6 +72078,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spiked tail, filled with venom, used to craft powerful weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045617Z" creationid="pugnus" creationdate="20190503T045617Z">
+        <seg>毒で満たされた棘を持つ尾。強力な武器を作成できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spikes that must be placed in a Tripwire Trap, inflicting damage to enemies that step on it.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142104Z" creationid="weedssoul" creationdate="20190406T142104Z">
@@ -81001,6 +81033,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054923Z" creationid="urakata" creationdate="20190427T054923Z">
         <seg>これは...これは大変なことだぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thorny Cartilage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045506Z" creationid="pugnus" creationdate="20190503T045506Z">
+        <seg>とげとげ軟骨</seg>
       </tuv>
     </tu>
     <tu>
