@@ -21447,8 +21447,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Fang Shield</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Fang Shield</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055807Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：牙の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -72816,6 +72816,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T072415Z" creationid="pugnus" creationdate="20190424T072415Z">
         <seg>かなりの量のスタミナとたくさんの体力を回復できる、チェルソネスの特別料理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Special dish of the Hallowed Marsh that immediately heals wounds, unlike most food.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060028Z" creationid="pugnus" creationdate="20190503T060028Z">
+        <seg>大部分の食料とは異なる、即座に傷を治す聖なる沼の特別な料理。</seg>
       </tuv>
     </tu>
     <tu>
