@@ -16093,6 +16093,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brass-Wolf Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090957Z" creationid="pugnus" creationdate="20190503T090957Z">
+        <seg>狼騎士団のバックパック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bread</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045205Z" creationid="seto" creationdate="20190406T045205Z">
@@ -28561,8 +28569,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Exquisite bag, used by northern Wolf-Knights.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T090641Z" creationid="pugnus" creationdate="20190503T090641Z">
-        <seg>北部のオオカミ騎士団によって使用される絶妙なバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090936Z" creationid="pugnus" creationdate="20190503T090641Z">
+        <seg>北部の狼騎士団によって使用される絶妙なバッグ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45364,8 +45372,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It protects the items it carries and its wearer.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T090742Z" creationid="pugnus" creationdate="20190503T090742Z">
-        <seg>装備者と収納した品を保護する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090813Z" creationid="pugnus" creationdate="20190503T090742Z">
+        <seg>装備者と収納した品を保護する力があると言われる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54723,6 +54731,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nomad Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T091023Z" creationid="pugnus" creationdate="20190503T091023Z">
+        <seg>遊牧民のバックパック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nomad’s Oasis</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T025225Z" creationid="pugnus" creationdate="20190502T025225Z">
@@ -58658,6 +58674,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T090537Z" creationid="pugnus" creationdate="20190503T090537Z">
         <seg>装備者による元素ダメージを１０％増加させる、強力なハーブで満たされたバックパック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pack that increase the Physical Damage you deal by 10%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090915Z" creationid="pugnus" creationdate="20190503T090915Z">
+        <seg>装備者による物理ダメージを１０％増加させる。</seg>
       </tuv>
     </tu>
     <tu>
