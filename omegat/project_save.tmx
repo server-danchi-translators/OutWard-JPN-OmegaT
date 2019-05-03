@@ -12399,6 +12399,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062902Z" creationid="pugnus" creationdate="20190503T062902Z">
+        <seg>解毒剤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antique Field</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111327Z" creationid="Gaiden Shinji" creationdate="20190404T111327Z">
@@ -15479,6 +15487,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T072551Z" creationid="hiru4" creationdate="20190403T060423Z">
         <seg>祝福の恩恵が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blessed Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T063006Z" creationid="pugnus" creationdate="20190503T063006Z">
+        <seg>祝福の水薬</seg>
       </tuv>
     </tu>
     <tu>
@@ -20953,6 +20969,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T072730Z" creationid="hiru4" creationdate="20190403T060612Z">
         <seg>冷気の恩恵が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cool Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062956Z" creationid="pugnus" creationdate="20190503T062956Z">
+        <seg>冷気の水薬</seg>
       </tuv>
     </tu>
     <tu>
@@ -34101,6 +34125,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111452Z" creationid="Gaiden Shinji" creationdate="20190404T111452Z">
         <seg>ハロードマーシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hallowed Marsh Antidote</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062819Z" creationid="pugnus" creationdate="20190503T062819Z">
+        <seg>聖なる沼の解毒剤</seg>
       </tuv>
     </tu>
     <tu>
@@ -51766,6 +51798,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mist Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T063001Z" creationid="pugnus" creationdate="20190503T063001Z">
+        <seg>霞の水薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mixed Legacies</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T012848Z" creationid="pugnus" creationdate="20190416T012539Z">
@@ -54369,8 +54409,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Notably, the toxic effect of the Hallowed Marsh’s waters cannot be cured by this potion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142038Z">
-        <seg>だが、Hallowed Marshの毒性は、このポーションでは解決できない。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062919Z" creationid="Light" creationdate="20190406T142038Z">
+        <seg>だが、聖なる沼の毒性は、このポーションでは解決できない。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -76517,8 +76557,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Strange brew that neutralizes the Hallowed Marsh’s poison, but not other toxins.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T085944Z" creationid="Light" creationdate="20190407T085944Z">
-        <seg>Hallowed Marshの毒を中和する奇妙な醸造物だが、他の毒は中和しない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062853Z" creationid="Light" creationdate="20190407T085944Z">
+        <seg>聖なる沼の毒を中和する奇妙な醸造物だが、他の毒は中和しない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84602,6 +84642,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T072952Z" creationid="hiru4" creationdate="20190403T061258Z">
         <seg>温暖の恩恵が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warm Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062950Z" creationid="pugnus" creationdate="20190503T062950Z">
+        <seg>温暖の水薬</seg>
       </tuv>
     </tu>
     <tu>
