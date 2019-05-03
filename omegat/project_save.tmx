@@ -21276,6 +21276,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crafting monster weapons often requires this material, as iron is often insufficient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055220Z" creationid="pugnus" creationdate="20190503T055220Z">
+        <seg>多くの場合、鉄が不十分であるため、モンスターの武器を製作する際にこの材料が必要となる。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting: Ammolite Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
@@ -31340,6 +31349,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glittering powder used by blacksmiths to craft armors made of blue steel alloy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055012Z" creationid="pugnus" creationdate="20190503T055012Z">
+        <seg>鍛冶屋が青いスチール合金製の装甲を作るために使用するきらびやかな砂。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go Back to Main Menu</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T023429Z" creationid="hiru4" creationdate="20190402T023429Z">
@@ -31584,6 +31602,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113455Z" creationid="Gaiden Shinji" creationdate="20190404T113455Z">
         <seg>ゴールドベリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gold Ingot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055240Z" creationid="pugnus" creationdate="20190503T055240Z">
+        <seg>金のインゴット</seg>
       </tuv>
     </tu>
     <tu>
@@ -44077,6 +44103,15 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Irregular lump of high quality metal, used to craft exotic arms and armors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055142Z" creationid="pugnus" creationdate="20190503T055142Z">
+        <seg>異国情緒あふれる武器や防具を製作するために使用される、高品質の金属の不規則な塊。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is 50 silvers a fair price?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073435Z" creationid="weedssoul" creationdate="20190406T073435Z">
@@ -44459,6 +44494,15 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060827Z" creationid="pugnus" creationdate="20190418T060827Z">
         <seg>これは、値打ちのある賭けです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is also highly prized as a alchemical ingredient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055039Z" creationid="pugnus" creationdate="20190503T055039Z">
+        <seg>それはまた錬金術の原料として非常に高く評価されている。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -57936,6 +57980,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T034334Z" creationid="pugnus" creationdate="20190423T034334Z">
         <seg>パラジウムのメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Palladium Scrap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055059Z" creationid="pugnus" creationdate="20190503T055059Z">
+        <seg>パラジウムの屑</seg>
       </tuv>
     </tu>
     <tu>
