@@ -1,4 +1,4 @@
-Tsar	ツァーリ	ロシア等スラヴ圏の君主
+﻿Tsar	ツァーリ	ロシア等スラヴ圏の君主
 Blue Sand	青い砂	用語テストで入力
 Cierzo	シエルゾ	Cierzoシエルゾはスペインの北から吹く猛烈なからっ風
 Monsoon	モンスーン	Monsoonモンスーンは季節によって向きの変わる風(季節風)
@@ -527,8 +527,8 @@ Makeshift Torche	間に合わせのたいまつ
 Occupied	占領した
 Backpack	バックパック
 Backpack	バックパック	ポーチよりはるかに大きい収納用の装備。バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。
-Discipline	規律
-Discipline Boon	規律の恩恵
+
+Discipline Boon	鍛錬の恩恵
 Wind Altar	風の祭壇
 Rage	猛威	(抑えがたい)激怒、憤怒、激しさ、猛烈、猛威、熱望、渇望、大流行(のもの)
 Rage Boon	猛威の恩恵
@@ -538,8 +538,8 @@ Cool	冷気	涼しい、冷たい、冷える 冷淡な、さめた、無愛想�
 Cool Boon	冷気の恩恵
 Warm	温暖	暖かい、温暖な、(人為的に熱して)温かい、保温のいい、ほてる、熱くなる、体をぽかぽかさせる、軽く汗をかかせる、熱心な、熱烈な
 Warm Boon	温暖の恩恵
-Possessed	所有する	取りつかれた、狂気の、夢中になった、…に取りつかれて、気が狂って、…を所有して、自らの心を…の状態に保つ、女性と肉体関係をもつ
-Possessed Boon	所有の恩恵
+Possessed	憑依	取りつかれた、狂気の、夢中になった、…に取りつかれて、気が狂って、…を所有して、自らの心を…の状態に保つ、女性と肉体関係をもつ
+Possessed Boon	憑依の恩恵
 Mist	霞	1.霧、かすみ、もや◆視界が2km未満の地面の雲（cloud）がもや（mist）であり、さらに1km未満の濃い雲を霧（fog）と呼ぶ。2.霧状のもの、霧のようなもの、霧雨、蒸気、噴霧3.不明瞭に［ぼんやり］させるもの、はっきしないこと［もの］4.目のかすみ5.懸濁液　自動1.霧［かすみ・もや］がかかる、霧雨が降る2.〔窓ガラスなどが〕曇る3.〔目が〕かすむ　他動1.～を霧で覆う、〔霧吹きで植物などに〕水を霧状にして吹き付ける2.〔窓ガラスなどなどを〕曇らせる3.不明瞭にする、ぼんやりさせる、ぼやけさせる4.〔目を〕かすませる
 Mist Boon	霞の恩恵
 three Pillars	三つの柱	Holy Mission of Ellatの３つの中心教義。1.誰も苦しませるな。(他者への献身)2.完璧な者は居ない。(自己研鑽)3.自分だけは安全と思うな。(結束、自制心)
@@ -549,7 +549,7 @@ Passive Mana Regen	パッシブ：マナの雨
 Mist Amplified	増幅された霞
 Hex	まじない	まじない,のろい,ジンクス
 Pain	痛覚	痛み、痛覚、疼痛
-Possessed Amplified	増幅された所有
+Possessed Amplified	増幅された憑依
 Slow Down	鈍重
 Stability Up	スタビリティー上昇
 Stamina Recovery	スタミナ回復
@@ -651,12 +651,12 @@ Endurance Potion	持久力の水薬
 Antidote	解毒剤
 Life Potion	生命の水薬
 Rage Potion	猛威の水薬
-Discipline Potion	規律の水薬
+Discipline Potion	鍛錬の水薬
 Warm Potion	温暖の水薬
 Cool Potion	冷気の水薬
 Mist Potion	霞の水薬
 Blessed Potion	祝福の水薬
-Possessed Potion	所有の水薬
+Possessed Potion	憑依の水薬
 Stealth Potion	隠密の水薬
 Weather Def.	お天気タエール	錬金術：お天気タエール
 Elemental Res.	エレ・メンタール	錬金術：エレ・メンタール
@@ -709,8 +709,7 @@ Coil Lantern	コイルランタン	高度な電源コイルを燃料とするこ
 Ornate	華やか
 Wood	木材
 Scaled Satchel	鱗のカバン
-Possessed boon	憑依の恩恵
-Possessed	憑依
+
 Seared Root	根菜サラダ	火を注入された植物を、さらに火で焼いたもの。その熱でゆっくりと風邪を治すだろう。
 Grilled Woolshroom	焼きウールルーム	ウールルームを調理したもので、食べると自分の足音が消える。
 Toast	トースト	焼きたてパンのスライス。それは腹を満たすだけ。
@@ -718,4 +717,3 @@ Fungal Cleanser	真菌クリーナー	毒や病気を取り除く薬用キノコ
 Boiled Azure Shrimp	茹でた紺碧のエビ
 Roasted Krimp Nut	焼きクリンプナッツ	新陳代謝を高めるローストナッツ。
 Grilled Crabeye Seed	焼きクラベイの種	調理することでより毒性が高くなった種。リネンと合わせると武器に毒属性を付与するアイテムになる
-Discipline Boon	鍛錬の恩恵
