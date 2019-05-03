@@ -10686,6 +10686,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Advanced bag that slows down the decay of the food it contains.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090241Z" creationid="pugnus" creationdate="20190503T090241Z">
+        <seg>食物の腐敗を遅らせる高度なバッグ。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adventurer Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T100349Z" creationid="pugnus" creationdate="20190423T100323Z">
@@ -58625,6 +58634,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T095244Z" creationid="rkmad" creationdate="20190403T095125Z">
         <seg>ああ、そこのあなた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pack filled with potent herbs that increase the Elemental Damage you deal by 10%.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090537Z" creationid="pugnus" creationdate="20190503T090537Z">
+        <seg>装備者による元素ダメージを１０％増加させる、強力なハーブで満たされたバックパック。</seg>
       </tuv>
     </tu>
     <tu>
