@@ -18797,6 +18797,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cierzo Town Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093355Z" creationid="pugnus" creationdate="20190503T093355Z">
+        <seg>シエルゾの町の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cierzo has been devastated.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T014509Z" creationid="urakata" creationdate="20190408T130020Z">
@@ -24460,6 +24468,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T115223Z" creationid="Gaiden Shinji" creationdate="20190403T115223Z">
         <seg>デッドルート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dead Roots Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093254Z" creationid="pugnus" creationdate="20190503T093254Z">
+        <seg>デッドルートキー</seg>
       </tuv>
     </tu>
     <tu>
@@ -57486,6 +57502,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ominous effigy of an undead ruler.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093452Z" creationid="pugnus" creationdate="20190503T093452Z">
+        <seg>死霊の支配者の、不名誉な力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045118Z" creationid="seto" creationdate="20190406T045118Z">
@@ -70511,6 +70535,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T102856Z" creationid="weedssoul" creationdate="20190406T143706Z">
         <seg>鉱石から見つかるコガネムシ。樹脂には衝撃耐性を高める効果がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scarlet Lich's Idol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093422Z" creationid="pugnus" creationdate="20190503T093422Z">
+        <seg>緋色のリッチの聖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -85052,6 +85084,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used as an offering, this could garner the favor of an ancient power, and with it, unique rewards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093602Z" creationid="pugnus" creationdate="20190503T093602Z">
+        <seg>供物として使われると、これは古代の権力の恩恵を得ることができ、それとともに、特異な報酬を得ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using the skill consumes the Discipline boon.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T110559Z" creationid="pugnus" creationdate="20190408T123951Z">
@@ -85148,10 +85188,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vendavel Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093308Z" creationid="pugnus" creationdate="20190503T093308Z">
+        <seg>ベンダバールの鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vendavel Medic</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T012635Z" creationid="pugnus" creationdate="20190423T012635Z">
         <seg>ベンダバールの医師</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vendavel Prison Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093340Z" creationid="pugnus" creationdate="20190503T093340Z">
+        <seg>ベンダバール刑務所の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -85328,6 +85384,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032350Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
         <seg>ヴィジャル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vigil Lock Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093237Z" creationid="pugnus" creationdate="20190503T093237Z">
+        <seg>ヴィジャルロックキー</seg>
       </tuv>
     </tu>
     <tu>
