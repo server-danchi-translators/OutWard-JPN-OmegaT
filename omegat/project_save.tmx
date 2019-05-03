@@ -14924,8 +14924,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Basic gun that needs the Fire/Reload skill to shoot.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T141801Z">
-        <seg>射撃にはFireとReloadスキルが必要。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084245Z" creationid="Light" creationdate="20190406T141801Z">
+        <seg>標準的な銃。射撃には「装填／発砲」スキルが必要。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -17394,6 +17394,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T125603Z" creationid="pugnus" creationdate="20190423T125603Z">
         <seg>蝋燭の板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannon Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084152Z" creationid="pugnus" creationdate="20190503T084152Z">
+        <seg>カノンピストル</seg>
       </tuv>
     </tu>
     <tu>
@@ -29607,6 +29615,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Flintlock Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084101Z" creationid="pugnus" creationdate="20190503T084101Z">
+        <seg>フリントロック式ピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Flooded Cellar</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111147Z" creationid="Gaiden Shinji" creationdate="20190404T111147Z">
@@ -35320,6 +35336,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T054751Z" creationid="pugnus" creationdate="20190424T054751Z">
         <seg>砂漠の果実が活気を与え、太陽から身を守ることができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy gun that needs the Fire/Reload skill to shoot a bullet, inflicting Confusion on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084430Z" creationid="pugnus" creationdate="20190503T084430Z">
+        <seg>大きな銃。敵に混乱をもたらす。射撃には「装填／発砲」スキルが必要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43191,6 +43215,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T063933Z" creationid="setom" creationdate="20190402T063933Z">
         <seg>全ての霊体の敵を脆弱にする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inflicts bleeding on enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084040Z" creationid="pugnus" creationdate="20190503T084040Z">
+        <seg>敵を出血させる。</seg>
       </tuv>
     </tu>
     <tu>
