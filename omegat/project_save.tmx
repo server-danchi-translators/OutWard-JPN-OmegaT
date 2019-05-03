@@ -26282,6 +26282,30 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_16-b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T045607Z" creationid="urakata" creationdate="20190503T045607Z">
+        <seg>Ellat_HM_prequest_16-b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_16-c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050145Z" creationid="urakata" creationdate="20190503T050145Z">
+        <seg>Ellat_HM_prequest_16-c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_17</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050351Z" creationid="urakata" creationdate="20190503T050351Z">
+        <seg>Ellat_HM_prequest_17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -26318,6 +26342,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022337Z" creationid="taman" creationdate="20190410T065605Z">
         <seg>ここでアブラシダを燃やすようエリナラに言われたんでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellinara will give you tasks on my behalf.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050507Z" creationid="urakata" creationdate="20190503T050507Z">
+        <seg>エリナラは私の名代として指示をだす。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36370,6 +36402,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am certain you will be called to visit the Chersonese on a mission soon enough.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050350Z" creationid="urakata" creationdate="20190503T050350Z">
+        <seg>近いうちに任務でChersoneseへ派遣されることになるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am done with this Krypteia work.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T024405Z" creationid="urakata" creationdate="20190428T024330Z">
@@ -38856,6 +38896,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T053109Z" creationid="Light" creationdate="20190405T135945Z">
         <seg> 本当に君のおかげだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I shall grant you the power to bind light to your weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T045644Z" creationid="urakata" creationdate="20190503T045644Z">
+        <seg>武器に光を宿す力を与えよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43987,6 +44035,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="JA" changeid="Light" changedate="20190407T092620Z" creationid="はぐくみ会" creationdate="20190403T061556Z">
         <seg>それは2本足で歩く、巨大な獣だった。その身体には赤く脈動をする血管が覆っている。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a spell, so if you wish to make use of it, you should head to the Holy Mission’s entrance on the Conflux Mountain in the Chersonese the next time your travels take you there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050302Z" creationid="urakata" creationdate="20190503T050141Z">
+        <seg>呪文であるから、使うに際しては、なにか用のついでにでも、神聖伝道団のChersoneseのコンフラックス山へ通じる出入り口に行きなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91620,6 +91676,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115808Z" creationid="Gaiden Shinji" creationdate="20190404T115808Z">
         <seg>ゼフィリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien often trains there, and may guide your through the path to the Ley Line, where you can gain the power of Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T050244Z" creationid="urakata" creationdate="20190503T050244Z">
+        <seg>ゼフィリアンはたいていあそこで鍛錬しているから、マナの力を体得できるレイラインへ案内してくれるだろう。</seg>
       </tuv>
     </tu>
     <tu>
