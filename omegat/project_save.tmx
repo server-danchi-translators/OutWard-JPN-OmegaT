@@ -73269,6 +73269,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skill Storage Tablet</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T234037Z" creationid="pugnus" creationdate="20190503T234037Z">
+        <seg>技術保管書板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skill: {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071501Z" creationid="hiru4" creationdate="20190402T071501Z">
@@ -77851,8 +77859,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stone tablet which can be imprinted with a skill, which can then be passed down as a legacy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T233938Z" creationid="pugnus" creationdate="20190503T233755Z">
-        <seg>遺産として受け継がれる技術にて刻印することができる石の書版。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T234341Z" creationid="pugnus" creationdate="20190503T233755Z">
+        <seg>スキルを刻印することができる石の書板。これは遺産として受け継がれる。</seg>
       </tuv>
     </tu>
     <tu>
