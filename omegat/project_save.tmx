@@ -12279,6 +12279,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Antler of a Coralhorn male, used to craft strong bows.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043728Z" creationid="pugnus" creationdate="20190503T043728Z">
+        <seg>雄のコーラルホーンの枝角。強力な弓を作成するのに適している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any Ingredient</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114443Z" creationid="setom" creationdate="20190401T114443Z">
@@ -25203,6 +25211,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T092426Z" creationid="pugnus" creationdate="20190423T092426Z">
         <seg>夢見の斧槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dried shell with few uses but that can be sold at a good price.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T044012Z" creationid="pugnus" creationdate="20190503T043959Z">
+        <seg>ほとんど使用されることの無い乾燥した殻。しかし、良い価格で販売することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42707,6 +42723,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insect Husk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043841Z" creationid="pugnus" creationdate="20190503T043841Z">
+        <seg>虫の殻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inside Job</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T100616Z" creationid="pugnus" creationdate="20190502T100616Z">
@@ -48354,6 +48378,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085725Z" creationid="pugnus" creationdate="20190423T085725Z">
         <seg>マンティコアのグレートメイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mantis Granite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T044228Z" creationid="pugnus" creationdate="20190503T044228Z">
+        <seg>蟷螂の堅い爪</seg>
       </tuv>
     </tu>
     <tu>
@@ -80039,6 +80071,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T075646Z" creationid="pugnus" creationdate="20190429T075646Z">
         <seg>彼らは怪物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thick Oil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043816Z" creationid="pugnus" creationdate="20190503T043816Z">
+        <seg>濃い油</seg>
       </tuv>
     </tu>
     <tu>
