@@ -31947,6 +31947,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Green Horror Chitin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045134Z" creationid="pugnus" creationdate="20190503T045134Z">
+        <seg>緑色をした戦慄の甲羅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Green Mushroom</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113651Z" creationid="Gaiden Shinji" creationdate="20190403T113651Z">
@@ -54725,6 +54733,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T090821Z" creationid="Light" creationdate="20190406T125438Z">
         <seg>カジートトレーナーのオ－ダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Odd remnants of a unique Shell Horror, proving the beast was slain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045025Z" creationid="pugnus" creationdate="20190503T045025Z">
+        <seg>獣が殺害されたことを証明する、独特のシェルホラーの奇妙な名残。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -80391,6 +80408,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T122417Z" creationid="pugnus" creationdate="20190416T233407Z">
         <seg>これはあまりにも不必要な、残虐な行為だ。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chitin is too unstable to be of use for crafting weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045046Z" creationid="pugnus" creationdate="20190503T045046Z">
+        <seg>このキチンはあまりにも不安定で武器を作るのには使えません。</seg>
       </tuv>
     </tu>
     <tu>
