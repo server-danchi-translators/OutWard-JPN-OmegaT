@@ -14955,6 +14955,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beast Golem Scraps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045324Z" creationid="pugnus" creationdate="20190503T045324Z">
+        <seg>ビーストゴーレムのスクラップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beasts went running past village to attack marsh city!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T061740Z" creationid="pugnus" creationdate="20190422T061740Z">
@@ -28501,6 +28509,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T061833Z" creationid="pugnus" creationdate="20190429T061833Z">
         <seg>いいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finely wrought blades from a beast golem’s jaw, used to craft weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045413Z" creationid="pugnus" creationdate="20190503T045413Z">
+        <seg>武器を作るために使用される、ビーストゴーレムの顎から細かく鍛造された刃。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -54747,8 +54764,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Odd remnants of a unique Shell Horror, proving the beast was slain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T045025Z" creationid="pugnus" creationdate="20190503T045025Z">
-        <seg>獣が殺害されたことを証明する、独特のシェルホラーの奇妙な名残。
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045157Z" creationid="pugnus" creationdate="20190503T045025Z">
+        <seg>獣が殺害されたことを証明する、独特の恐るべき甲羅の奇妙な名残。
 </seg>
       </tuv>
     </tu>
@@ -80422,8 +80439,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This chitin is too unstable to be of use for crafting weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T045046Z" creationid="pugnus" creationdate="20190503T045046Z">
-        <seg>このキチンはあまりにも不安定で武器を作るのには使えません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T045255Z" creationid="pugnus" creationdate="20190503T045046Z">
+        <seg>この甲羅はあまりにも不安定であり、武器を作ることはできない。</seg>
       </tuv>
     </tu>
     <tu>
