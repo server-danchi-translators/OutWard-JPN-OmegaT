@@ -28559,6 +28559,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exquisite bag, used by northern Wolf-Knights.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090641Z" creationid="pugnus" creationdate="20190503T090641Z">
+        <seg>北部のオオカミ騎士団によって使用される絶妙なバッグ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extreme Bleeding</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T133439Z" creationid="totochan" creationdate="20190403T133439Z">
@@ -45350,6 +45358,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064220Z" creationid="urakata" creationdate="20190430T064220Z">
         <seg>これだけ経ってるんだから壊れたか拾われたかしただろうし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It protects the items it carries and its wearer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090742Z" creationid="pugnus" creationdate="20190503T090742Z">
+        <seg>装備者と収納した品を保護する。</seg>
       </tuv>
     </tu>
     <tu>
