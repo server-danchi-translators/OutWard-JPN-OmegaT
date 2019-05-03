@@ -16253,6 +16253,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Broad Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083715Z" creationid="pugnus" creationdate="20190503T083715Z">
+        <seg>幅広の短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broken Golem Rapier</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T071308Z" creationid="pugnus" creationdate="20190423T071308Z">
@@ -45226,8 +45234,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It restores mana and increases your resistance against elemental damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T070823Z" creationid="pugnus" creationdate="20190424T070823Z">
-        <seg>マナを回復させ、エレメンタルダメージへの耐性を高める。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083457Z" creationid="pugnus" creationdate="20190424T070823Z">
+        <seg>マナを回復させ、元素ダメージへの耐性を高める。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48671,6 +48679,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lexicon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083542Z" creationid="pugnus" creationdate="20190503T083542Z">
+        <seg>辞書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Leyline Connection</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T020416Z" creationid="pugnus" creationdate="20190503T020416Z">
@@ -49386,8 +49402,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Magical lamp that protects against elemental damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T083410Z" creationid="pugnus" creationdate="20190503T083410Z">
-        <seg>エレメンタルダメージより守る魔法のランタン。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083457Z" creationid="pugnus" creationdate="20190503T083410Z">
+        <seg>元素ダメージより守る魔法のランタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55973,8 +55989,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Obsidian Elemental</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190411T001325Z" creationid="pugnus" creationdate="20190411T001325Z">
-        <seg>オブシディアンエレメンタル</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083509Z" creationid="pugnus" creationdate="20190411T001325Z">
+        <seg>黒曜石の元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -65215,6 +65231,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Red Lady's Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083740Z" creationid="pugnus" creationdate="20190503T083740Z">
+        <seg>緋色の貴婦人の短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Red Light Clothes</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T121319Z" creationid="pugnus" creationdate="20190423T121319Z">
@@ -65642,8 +65666,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: 1-Handed Bludgeon Block an elemental attack, infusing your weapon with that element.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T110339Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要：片手持ち棍棒 敵のエレメンタル攻撃を防御し、そのエレメンタルを奪い、武器に付与する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083457Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：片手持ち棍棒 敵の元素攻撃を防御し、その元素を奪い、武器に付与する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65922,8 +65946,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Required: Shield Block an elemental attack.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T111238Z" creationid="Light" creationdate="20190406T114536Z">
-        <seg>必要：盾 エレメンタルによる攻撃を防御する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083457Z" creationid="Light" creationdate="20190406T114536Z">
+        <seg>必要：盾 元素による攻撃を防御する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69285,6 +69309,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T135037Z">
         <seg>包帯などの基本的な生産レシピで、一般的に使用される布のロール。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rondel Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083641Z" creationid="pugnus" creationdate="20190503T083641Z">
+        <seg>ロンデルダガー</seg>
       </tuv>
     </tu>
     <tu>
@@ -88145,8 +88177,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When you next block, an elemental explosion will burst from you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190408T113802Z" creationid="pugnus" creationdate="20190408T113802Z">
-        <seg>吸収したエレメンタルは、次の防御時に攻撃してきた者に対して炸裂する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083457Z" creationid="pugnus" creationdate="20190408T113802Z">
+        <seg>吸収した元素は、次の防御時に攻撃してきた者に対して炸裂する。</seg>
       </tuv>
     </tu>
     <tu>
