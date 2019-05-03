@@ -11976,6 +11976,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And &lt;color=#00CCFF&gt;&lt;b&gt;I could really use some Firefly powder&lt;/b&gt;&lt;/color&gt; for one of my experiments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121429Z" creationid="urakata" creationdate="20190503T121429Z">
+        <seg>だから、&lt;color=#00CCFF&gt;&lt;b&gt;蛍の粉を手に入れて&lt;/b&gt;&lt;/color&gt;実験に使いたいんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And I can't let you out in this state.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T102038Z" creationid="seto" creationdate="20190410T101932Z">
@@ -16057,6 +16065,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T061758Z" creationid="pugnus" creationdate="20190503T061758Z">
         <seg>捕食者のブイヨンスープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bourlamaque sent you to help me, didn't he?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121140Z" creationid="urakata" creationdate="20190503T121140Z">
+        <seg>ブラマクが私のために君を遣わしたのだろ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -32638,6 +32654,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021126Z" creationid="pugnus" creationdate="20190422T021126Z">
         <seg>幸運をいのるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good timing too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121200Z" creationid="urakata" creationdate="20190503T121200Z">
+        <seg>ちょうど良かった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52690,6 +52714,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121103Z" creationid="urakata" creationdate="20190503T121103Z">
+        <seg>Mofat_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Molten Forge Golem</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110736Z" creationid="Gaiden Shinji" creationdate="20190403T110736Z">
@@ -53206,6 +53238,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T041506Z" creationid="taman" creationdate="20190430T172727Z">
         <seg>私の目が……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My eyesight isn't what it used to be.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121227Z" creationid="urakata" creationdate="20190503T121227Z">
+        <seg>視力も若いころのようにはいかないからね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85826,6 +85866,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T015007Z" creationid="pugnus" creationdate="20190423T014958Z">
         <seg>流浪の傭兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wandering around at night in the marsh is getting very difficult for me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121307Z" creationid="urakata" creationdate="20190503T121307Z">
+        <seg>夜になって、沼地を歩き回るのはすごく大変なんだ。</seg>
       </tuv>
     </tu>
     <tu>
