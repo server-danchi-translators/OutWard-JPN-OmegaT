@@ -22141,6 +22141,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crudely cooked mushroom that, when eaten, muffles the sound of one’s footsteps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060725Z" creationid="pugnus" creationdate="20190503T060725Z">
+        <seg>ウールルームを調理したもので、食べると自分の足音が消える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crumbling fungus that barely provides nutrition.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T084130Z" creationid="pugnus" creationdate="20190424T084130Z">
@@ -24613,6 +24621,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T141937Z" creationid="weedssoul" creationdate="20190406T141937Z">
         <seg>互換性のあるアイテムを装着する必要のあるデバイス。敵によって作動する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diadème de Gibier</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060905Z" creationid="pugnus" creationdate="20190503T060905Z">
+        <seg>王冠のジビエ</seg>
       </tuv>
     </tu>
     <tu>
@@ -72860,6 +72876,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Special dish of Abrassar, allowing one to run fast and without pause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060945Z" creationid="pugnus" creationdate="20190503T060945Z">
+        <seg>アブラサールの特別料理。走る速度が増す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special dish of Enmerkar that is unequaled in healing wounds over time.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T064636Z" creationid="weedssoul" creationdate="20190407T064636Z">
@@ -82434,6 +82458,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T125204Z" creationid="はぐくみ会" creationdate="20190403T095947Z">
         <seg>ホッとしたことに、傭兵の集団はレバントの門まで、無事私を送ってくれた。無償で。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Toast</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060747Z" creationid="pugnus" creationdate="20190503T060747Z">
+        <seg>トースト</seg>
       </tuv>
     </tu>
     <tu>
