@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15307,6 +15307,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bitter Spicy Tea</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061852Z" creationid="pugnus" creationdate="20190503T061852Z">
+        <seg>深く香ばしいお茶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitterness solves nothing, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T155125Z">
@@ -15896,6 +15904,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T090241Z" creationid="pugnus" creationdate="20190417T090016Z">
         <seg>この、双方の問題はとても見苦しい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bouillon du Predateur</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061758Z" creationid="pugnus" creationdate="20190503T061758Z">
+        <seg>捕食者のブイヨンスープ</seg>
       </tuv>
     </tu>
     <tu>
@@ -32540,6 +32556,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075256Z" creationid="urakata" creationdate="20190502T075256Z">
         <seg>ごきげんよう、旅人よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grilled Crabeye Seed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061724Z" creationid="pugnus" creationdate="20190503T061724Z">
+        <seg>焼きクラベイの種</seg>
       </tuv>
     </tu>
     <tu>
@@ -67659,6 +67683,23 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Roasted Krimp Nut</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061625Z" creationid="pugnus" creationdate="20190503T061614Z">
+        <seg>焼きクリンプナッツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roasted nut that increases the metabolism.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061646Z" creationid="pugnus" creationdate="20190503T061646Z">
+        <seg>新陳代謝を高めるローストナッツ。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Robed Man</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T110600Z" creationid="pugnus" creationdate="20190410T110600Z">
@@ -72921,6 +72962,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013035Z" creationid="urakata" creationdate="20190427T013035Z">
         <seg>話からすると私以外にも声をかけてるんですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soup which restores stamina and increases the physical damage one deals to foes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061823Z" creationid="pugnus" creationdate="20190503T061823Z">
+        <seg>スタミナを回復させ、敵に与える物理的ダメージを増加させるスープ。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -84719,6 +84769,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021217Z" creationid="hiru4" creationdate="20190402T021217Z">
         <seg>防水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waterskin</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061840Z" creationid="pugnus" creationdate="20190503T061840Z">
+        <seg>水袋</seg>
       </tuv>
     </tu>
     <tu>
