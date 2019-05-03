@@ -11465,8 +11465,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alpha Coralhorn</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190411T000827Z" creationid="pugnus" creationdate="20190411T000827Z">
-        <seg>アルファ・コーラルホーン</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065904Z" creationid="pugnus" creationdate="20190411T000827Z">
+        <seg>アルファコーラルホーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,8 +11489,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alpha Tuanosaur</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T120113Z" creationid="pugnus" creationdate="20190422T120113Z">
-        <seg>アルファ・トゥアノサウルス</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065933Z" creationid="pugnus" creationdate="20190422T120113Z">
+        <seg>アルファトゥアノサウルス</seg>
       </tuv>
     </tu>
     <tu>
@@ -13180,24 +13180,24 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ash Giant</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110656Z" creationid="Gaiden Shinji" creationdate="20190403T110656Z">
-        <seg>アッシュジャイアント</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065708Z" creationid="Gaiden Shinji" creationdate="20190403T110656Z">
+        <seg>灰の巨人</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Ash Giant Elite</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110704Z" creationid="Gaiden Shinji" creationdate="20190403T110704Z">
-        <seg>アッシュジャイアントエリート</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065720Z" creationid="Gaiden Shinji" creationdate="20190403T110704Z">
+        <seg>灰の巨人の精鋭</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Ash Giant Priest</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110713Z" creationid="Gaiden Shinji" creationdate="20190403T110713Z">
-        <seg>アッシュジャイアントプリースト</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065734Z" creationid="Gaiden Shinji" creationdate="20190403T110713Z">
+        <seg>灰の巨人の僧侶</seg>
       </tuv>
     </tu>
     <tu>
@@ -71375,8 +71375,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Shell Horror</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110833Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
-        <seg>シェルホラー</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065757Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
+        <seg>恐るべき甲羅</seg>
       </tuv>
     </tu>
     <tu>
