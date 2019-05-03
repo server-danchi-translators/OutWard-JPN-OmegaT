@@ -18013,24 +18013,24 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Charge – Incendiary</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T090443Z" creationid="pugnus" creationdate="20190424T090309Z">
-        <seg>チャージ:焼夷</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042542Z" creationid="pugnus" creationdate="20190424T090309Z">
+        <seg>チャージ：焼夷</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Charge – Nerve Gas</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T091101Z" creationid="pugnus" creationdate="20190424T091101Z">
-        <seg>チャージ:神経ガス</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042555Z" creationid="pugnus" creationdate="20190424T091101Z">
+        <seg>チャージ：神経ガス</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Charge – Toxic</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T090438Z" creationid="pugnus" creationdate="20190424T090438Z">
-        <seg>チャージ:有毒</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042548Z" creationid="pugnus" creationdate="20190424T090438Z">
+        <seg>チャージ：有毒</seg>
       </tuv>
     </tu>
     <tu>
@@ -43215,6 +43215,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T033724Z" creationid="pugnus" creationdate="20190423T033724Z">
         <seg>鉄の戦斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iron Scrap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042627Z" creationid="pugnus" creationdate="20190503T042627Z">
+        <seg>鉄くず</seg>
       </tuv>
     </tu>
     <tu>
