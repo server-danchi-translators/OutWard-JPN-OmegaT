@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -111,10 +111,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see Oliele in the slums of the Kingdom of Levant...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051917Z" creationid="urakata" creationdate="20190503T051917Z">
+        <seg>(エラットに近づこうとすると、オリエルがレバント王国のスラムにいる光景が見えた...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As you reach out to Elatt, you see a a flash of a strange skeleton in a cave in the Chersonese...)</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T051631Z" creationid="urakata" creationdate="20190503T051631Z">
         <seg>(エラットに近づこうとすると、Chersoneseにある洞窟にある、奇妙な骸骨の像が瞬いた...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see both Enmerkar and Abrassar, as if from very high up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052135Z" creationid="urakata" creationdate="20190503T052135Z">
+        <seg>(エラットに近づこうとすると、高いところから見下ろしているように、エンメルカルとアブラサールの両方が見えた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26438,6 +26454,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T051632Z" creationid="urakata" creationdate="20190503T051632Z">
         <seg>Ellat_HM_prequest_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_24</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T051826Z" creationid="urakata" creationdate="20190503T051826Z">
+        <seg>Ellat_HM_prequest_24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_25</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052045Z" creationid="urakata" creationdate="20190503T052045Z">
+        <seg>Ellat_HM_prequest_25</seg>
       </tuv>
     </tu>
     <tu>
@@ -89990,6 +90022,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124512Z" creationid="weedssoul" creationdate="20190406T124512Z">
         <seg>わかってると思うが、バックパックを背負っていると、ドッジロールが遅くなってしまう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You sense... equal parts curiosity and concern.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052054Z" creationid="urakata" creationdate="20190503T052044Z">
+        <seg>好奇心と懸念を半々に感じた。)</seg>
       </tuv>
     </tu>
     <tu>
