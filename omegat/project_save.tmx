@@ -25941,6 +25941,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drink this potion too often and you'll find yourself thinking in slow motion!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122049Z" creationid="urakata" creationdate="20190503T122049Z">
+        <seg>この薬をあんまりしょっちゅう飲んでると、頭の回転が鈍くなりかねないからね!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drink {1}</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T125412Z" creationid="setom" creationdate="20190403T125412Z">
@@ -25969,6 +25977,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111958Z">
         <seg>何でも拾ってはなりません、役に立たないアイテムは捨てましょう。 荷重が増えるほど動きが鈍くなってしまいます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Drop your guard for an instant and you’ll either be lizard food, or end up swimming in toxic water.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122159Z" creationid="urakata" creationdate="20190503T122159Z">
+        <seg>気を抜いたとたんにトカゲの餌か、毒水の中で泳ぐ羽目になるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46654,6 +46670,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s never safe out there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122125Z" creationid="urakata" creationdate="20190503T122121Z">
+        <seg>あそこに安全な場所はないからね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s nice to see a familiar face.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T135359Z" creationid="Mad" creationdate="20190407T135359Z">
@@ -52766,6 +52790,30 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T121730Z" creationid="urakata" creationdate="20190503T121730Z">
         <seg>Mofat_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122050Z" creationid="urakata" creationdate="20190503T122050Z">
+        <seg>Mofat_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_06_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122200Z" creationid="urakata" creationdate="20190503T122200Z">
+        <seg>Mofat_HM_prequest_06_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_06_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122208Z" creationid="urakata" creationdate="20190503T122208Z">
+        <seg>Mofat_HM_prequest_06_b</seg>
       </tuv>
     </tu>
     <tu>
@@ -66110,6 +66158,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T091846Z">
         <seg>[PlayerName]、忘れないで。 &lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。  対価を支払うための150シルバーを集めるか、村人の信頼を得るかのどちらをするにしてもです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, moderation is the key.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122004Z" creationid="urakata" creationdate="20190503T122004Z">
+        <seg>覚えておくんだよ、節度が重要だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86222,6 +86278,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Watch yourself out in the Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T122107Z" creationid="urakata" creationdate="20190503T122107Z">
+        <seg>沼地じゃ気を付けるんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Water</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045159Z" creationid="seto" creationdate="20190406T045159Z">
@@ -86874,6 +86938,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T051423Z" creationid="pugnus" creationdate="20190415T051423Z">
         <seg>私たちは、調査する必要がありますね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We need to talk about that trouble in the swamp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T123120Z" creationid="urakata" creationdate="20190503T123120Z">
+        <seg>沼地の騒動について相談したいんだが。</seg>
       </tuv>
     </tu>
     <tu>
