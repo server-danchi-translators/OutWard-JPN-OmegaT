@@ -18604,6 +18604,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chimera Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084625Z" creationid="pugnus" creationdate="20190503T084625Z">
+        <seg>キメラピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chitin Desert Tunic</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T052226Z" creationid="pugnus" creationdate="20190423T121924Z">
@@ -31660,6 +31668,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T102210Z" creationid="pugnus" creationdate="20190502T102210Z">
         <seg>先祖からの贈り物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gilded gun that needs the Fire/Reload skill to shoot a superior bullet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084600Z" creationid="pugnus" creationdate="20190503T084600Z">
+        <seg>金色の銃。射撃には「装填／発砲」スキルが必要。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -58348,6 +58364,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ornate Pistol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084511Z" creationid="pugnus" creationdate="20190503T084511Z">
+        <seg>装飾の華やかなピストル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other Resistances +[E3V1]%.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T080121Z" creationid="pugnus" creationdate="20190502T013653Z">
@@ -63691,6 +63715,14 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T075715Z" creationid="pugnus" creationdate="20190503T075715Z">
         <seg>一時的にあなたの武器の影響力を高め、あなたに憑依の恩恵と規律の恩恵を与える強力な薬。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful gun that inflicts vulnerability to Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084943Z" creationid="pugnus" creationdate="20190503T084943Z">
+        <seg>強力な銃。命中した敵の火、氷、稲妻、腐敗、そしてエーテルに対しての耐性を減少させることができる。</seg>
       </tuv>
     </tu>
     <tu>
