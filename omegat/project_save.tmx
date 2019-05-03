@@ -13298,6 +13298,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assassin Elixir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074927Z" creationid="pugnus" creationdate="20190503T074927Z">
+        <seg>暗殺者の錬金薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assassin Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032504Z" creationid="pugnus" creationdate="20190423T032504Z">
@@ -34313,6 +34321,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Has no effect on Bleeding, Poison, Disease and Burning.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075100Z" creationid="pugnus" creationdate="20190503T075100Z">
+        <seg>出血、中毒、病気、やけどには効果はない。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hastily built from broken planks, it grants the ability to block arrows, at least.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T074815Z" creationid="setom" creationdate="20190402T074815Z">
@@ -35639,6 +35656,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T011300Z" creationid="pugnus" creationdate="20190416T011300Z">
         <seg>勇ましい調停者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hex Cleaner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075108Z" creationid="pugnus" creationdate="20190503T075108Z">
+        <seg>まじないプイプイ</seg>
       </tuv>
     </tu>
     <tu>
@@ -63251,6 +63276,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powerful concoction that temporarily increases your movement speed, stealth and coats your equipped melee weapon with poison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075004Z" creationid="pugnus" creationdate="20190503T075004Z">
+        <seg>移動速度と隠密性を一時的に向上させ、装備された近接武器を毒でコーティングする強力な水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful weapons and potions can be crafted from these, or can be used to arm powerful traps.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112659Z">
@@ -76555,6 +76588,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stoneflesh Elixir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075131Z" creationid="pugnus" creationdate="20190503T075131Z">
+        <seg>ストーンフレッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stop Cyrene from escaping.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102215Z" creationid="Light" creationdate="20190409T102215Z">
@@ -76655,6 +76696,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T062853Z" creationid="Light" creationdate="20190407T085944Z">
         <seg>聖なる沼の毒を中和する奇妙な醸造物だが、他の毒は中和しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Strange brew that removes most negative effects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075027Z" creationid="pugnus" creationdate="20190503T075027Z">
+        <seg>ほとんどの悪影響を取り除く奇妙な醸造。</seg>
       </tuv>
     </tu>
     <tu>
