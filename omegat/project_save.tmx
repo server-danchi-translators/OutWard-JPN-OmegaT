@@ -32184,6 +32184,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Golem Elixir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075636Z" creationid="pugnus" creationdate="20190503T075636Z">
+        <seg>ゴーレム薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Golem Rapier</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T071247Z" creationid="pugnus" creationdate="20190423T071247Z">
@@ -32525,6 +32533,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T120705Z" creationid="pugnus" creationdate="20190422T120705Z">
         <seg>アブラシダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Great Life Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075747Z" creationid="pugnus" creationdate="20190503T075747Z">
+        <seg>生命の水薬（大）</seg>
       </tuv>
     </tu>
     <tu>
@@ -63268,6 +63284,15 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powerful concoction that restores stamina and burnt stamina, and provides protection from hot and freezing environments.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075611Z" creationid="pugnus" creationdate="20190503T075611Z">
+        <seg>スタミナを回復し、暖気や寒気から保護する強力な調合。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful concoction that temporarily grants moderate resistance against Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T074746Z" creationid="pugnus" creationdate="20190503T074020Z">
@@ -63296,6 +63321,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T075004Z" creationid="pugnus" creationdate="20190503T075004Z">
         <seg>移動速度と隠密性を一時的に向上させ、装備された近接武器を毒でコーティングする強力な水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful concoction that temporarily increases your weapon’s Impact and gives you the Possessed and the Discipline boons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075715Z" creationid="pugnus" creationdate="20190503T075715Z">
+        <seg>一時的にあなたの武器の影響力を高め、あなたに憑依の恩恵と規律の恩恵を与える強力な薬。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -76921,6 +76955,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064319Z" creationid="urakata" creationdate="20190430T064319Z">
         <seg>いいよ、行こう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Survivor Elixir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075456Z" creationid="pugnus" creationdate="20190503T075456Z">
+        <seg>生存者の薬</seg>
       </tuv>
     </tu>
     <tu>
