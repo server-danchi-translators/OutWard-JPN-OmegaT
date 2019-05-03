@@ -37122,6 +37122,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How old are we talking?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120937Z" creationid="urakata" creationdate="20190503T120937Z">
+        <seg>おいくつなんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How should I protect myself?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142757Z" creationid="weedssoul" creationdate="20190406T071837Z">
@@ -37695,6 +37703,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T070435Z" creationid="urakata" creationdate="20190430T070435Z">
         <seg>なんでわざわざ探しに来たのかわかったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can still remember a time before the Scourge, when Elatt and I would journey across Aurai without that threat hanging over us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T121102Z" creationid="urakata" creationdate="20190503T121102Z">
+        <seg>災厄が起きる前に、何の危険もなくエラットとオーライを旅していたことをいまだに思い出せるよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39124,6 +39140,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I knew Elatt before he was a grown man.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120953Z" creationid="urakata" creationdate="20190503T120953Z">
+        <seg>エラットが成人する前からの知り合いなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I knew Elatt was only the god of discipline, not the force that created all of Aurai...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T153700Z" creationid="taman" creationdate="20190410T153040Z">
@@ -39432,6 +39456,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T010921Z" creationid="seto" creationdate="20190413T010739Z">
         <seg>俺が外の世界に飛び出せば、デカいことしてたかも知れねぇのに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I miss the good old days when I could wallop a Scourge Beast with a mere quarterstaff!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120922Z" creationid="urakata" creationdate="20190503T120922Z">
+        <seg>ただの六尺棒で災厄の獣をぶちのめしたあの頃が懐かしいよ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -52650,6 +52682,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120937Z" creationid="urakata" creationdate="20190503T120937Z">
+        <seg>Mofat_HM_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Molten Forge Golem</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110736Z" creationid="Gaiden Shinji" creationdate="20190403T110736Z">
@@ -61842,6 +61882,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093014Z" creationid="seto" creationdate="20190418T093014Z">
         <seg>Player_Mofat_HM_Questions_b_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Mofat_HM_prequest_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120923Z" creationid="urakata" creationdate="20190503T120923Z">
+        <seg>Player_Mofat_HM_prequest_a_01</seg>
       </tuv>
     </tu>
     <tu>
