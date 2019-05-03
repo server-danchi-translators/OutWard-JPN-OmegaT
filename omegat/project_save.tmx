@@ -41339,6 +41339,22 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ice Rag</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080807Z" creationid="pugnus" creationdate="20190503T080807Z">
+        <seg>氷結布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ice Varnish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080828Z" creationid="pugnus" creationdate="20190503T080828Z">
+        <seg>氷結樹脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ice Witch</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110607Z" creationid="Gaiden Shinji" creationdate="20190403T110559Z">
@@ -72917,8 +72933,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Soiled cloth that confers the Frost element when rubbed on a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143442Z" creationid="weedssoul" creationdate="20190406T143339Z">
-        <seg>武器に使うと、氷属性を付与する汚れた布</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080809Z" creationid="weedssoul" creationdate="20190406T143339Z">
+        <seg>武器に使うと、氷属性を付与する汚れた布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80584,6 +80600,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The weapon will also inflict Burning to enemies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080757Z" creationid="pugnus" creationdate="20190503T080757Z">
+        <seg>この近接武器は、敵を燃やすことができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The weapon will also inflict Slow Down to enemies.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T143521Z" creationid="weedssoul" creationdate="20190406T143521Z">
@@ -81868,10 +81892,18 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thick fluid that confers the Fire element when applied to a melee weapon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080956Z" creationid="pugnus" creationdate="20190503T080702Z">
+        <seg>近接武器に使うと、炎属性を付与する濃度の高い流体樹脂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thick fluid that confers the Frost element when applied to a melee weapon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T143502Z" creationid="weedssoul" creationdate="20190406T143434Z">
-        <seg>武器に使うと、氷属性を付与する濃度の高い液体。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080910Z" creationid="weedssoul" creationdate="20190406T143434Z">
+        <seg>近接武器に使うと、氷属性を付与する濃度の高い流体樹脂。</seg>
       </tuv>
     </tu>
     <tu>
