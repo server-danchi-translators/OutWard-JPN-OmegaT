@@ -20485,8 +20485,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cool</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T022645Z" creationid="pugnus" creationdate="20190502T022645Z">
-        <seg>寒気</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T015452Z" creationid="pugnus" creationdate="20190502T022645Z">
+        <seg>冷気</seg>
       </tuv>
     </tu>
     <tu>
@@ -48130,6 +48130,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045311Z" creationid="seto" creationdate="20190406T045311Z">
         <seg>Map_Windmill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marathoner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T015521Z" creationid="pugnus" creationdate="20190503T015521Z">
+        <seg>長距離走者</seg>
       </tuv>
     </tu>
     <tu>
@@ -83404,6 +83412,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T023500Z" creationid="pugnus" creationdate="20190502T023500Z">
         <seg>天候対策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weather Tolerance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T015651Z" creationid="pugnus" creationdate="20190503T015651Z">
+        <seg>天候への寛容さ</seg>
       </tuv>
     </tu>
     <tu>
