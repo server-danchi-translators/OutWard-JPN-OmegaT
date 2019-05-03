@@ -34933,6 +34933,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have a flask of my own personal brew, on me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T235329Z" creationid="pugnus" creationdate="20190503T235329Z">
+        <seg>さぁ、これを持っていくんだ。私の作った醸造を！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have a good day.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T034830Z" creationid="seto" creationdate="20190420T034830Z">
@@ -92339,6 +92347,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T060919Z" creationid="pugnus" creationdate="20190429T060832Z">
         <seg>サガード、あなたは私に借りがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You owe me one, pal!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T235406Z" creationid="pugnus" creationdate="20190503T235406Z">
+        <seg>あなたは私に一つ、借りを作ったね！</seg>
       </tuv>
     </tu>
     <tu>
