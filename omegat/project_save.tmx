@@ -24743,6 +24743,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do good in my name, and I shall do good by you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T045303Z" creationid="urakata" creationdate="20190503T045132Z">
+        <seg>我が名において善行を為せ、私はお前を通して善行を為すのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not be too forceful with them.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T054926Z" creationid="pugnus" creationdate="20190429T054926Z">
@@ -39324,8 +39332,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I welcome you into my heart, [PlayerName] and grant you the title of Missionary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T044716Z" creationid="urakata" creationdate="20190503T044716Z">
-        <seg>[PlayerName]よ、</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T045045Z" creationid="urakata" creationdate="20190503T044716Z">
+        <seg>[PlayerName]よ、お前を私の心に迎え入れ、伝道師として認めよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87408,8 +87416,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yes, I commit myself to your cause.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T044951Z" creationid="urakata" creationdate="20190503T044454Z">
-        <seg>あなたの目的に献身します。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T045006Z" creationid="urakata" creationdate="20190503T044454Z">
+        <seg>あなたの目的を実現するため献身します。</seg>
       </tuv>
     </tu>
     <tu>
