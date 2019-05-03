@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13178,6 +13178,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Assortment of fangs, used to craft equipment by binding them to iron weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043523Z" creationid="pugnus" creationdate="20190503T043523Z">
+        <seg>捕食者の牙。武器に縛り付けることにより、武器の威力を増すことができるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At attention Zephyrien, we have a guest!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T081531Z" creationid="rkmad" creationdate="20190408T081531Z">
@@ -20671,6 +20679,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190411T000655Z" creationid="pugnus" creationdate="20190411T000655Z">
         <seg>コーラルホーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coralhorn Antler</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043625Z" creationid="pugnus" creationdate="20190503T043625Z">
+        <seg>コーラルホーンの大角</seg>
       </tuv>
     </tu>
     <tu>
@@ -61862,6 +61878,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T035013Z" creationid="pugnus" creationdate="20190423T035013Z">
         <seg>祈りの大剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Predator Bones</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T043515Z" creationid="pugnus" creationdate="20190503T043515Z">
+        <seg>捕食者の骨</seg>
       </tuv>
     </tu>
     <tu>
