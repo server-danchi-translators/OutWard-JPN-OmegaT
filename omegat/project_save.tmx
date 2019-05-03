@@ -10622,6 +10622,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventurer’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051448Z" creationid="pugnus" creationdate="20190503T051448Z">
+        <seg>冒険家の死体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a third transgression, the giant may never return to their colony and is considered dead to them.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105108Z" creationid="pugnus" creationdate="20190425T104443Z">
@@ -16048,6 +16056,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T071308Z" creationid="pugnus" creationdate="20190423T071308Z">
         <seg>壊れたゴーレムレイピア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Broken Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051420Z" creationid="pugnus" creationdate="20190503T051420Z">
+        <seg>壊れたテント</seg>
       </tuv>
     </tu>
     <tu>
@@ -35527,6 +35543,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hollowed Trunk</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051410Z" creationid="pugnus" creationdate="20190503T051410Z">
+        <seg>中空のトランク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Holy Mission of Elatt</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T131956Z" creationid="pugnus" creationdate="20190406T115353Z">
@@ -47251,6 +47275,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T051241Z" creationid="pugnus" creationdate="20190503T051241Z">
         <seg>キッチン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Knight’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051456Z" creationid="pugnus" creationdate="20190503T051456Z">
+        <seg>騎士の死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -68958,6 +68990,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scavenger’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051611Z" creationid="pugnus" creationdate="20190503T051611Z">
+        <seg>ゴミ漁りの死体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scene_Abrassar_Dungeon1</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033432Z" creationid="seto" creationdate="20190406T033432Z">
@@ -71907,6 +71947,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T120224Z" creationid="Gaiden Shinji" creationdate="20190404T120224Z">
         <seg>ソルジャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soldier’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051504Z" creationid="pugnus" creationdate="20190503T051504Z">
+        <seg>兵隊の死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -82184,6 +82232,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trog Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051343Z" creationid="pugnus" creationdate="20190503T051343Z">
+        <seg>トログのチェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trog Infiltration</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114929Z" creationid="Gaiden Shinji" creationdate="20190403T114929Z">
@@ -87684,6 +87740,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T115021Z" creationid="pugnus" creationdate="20190423T115021Z">
         <seg>労働者のブーツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Worker’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051437Z" creationid="pugnus" creationdate="20190503T051437Z">
+        <seg>労働者の死体</seg>
       </tuv>
     </tu>
     <tu>
