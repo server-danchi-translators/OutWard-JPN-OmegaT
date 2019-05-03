@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You call out to Elatt, but you do not hear his voice...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044322Z" creationid="urakata" creationdate="20190503T044322Z">
+        <seg>(エラットに呼びかけたが、答えがない...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You close Balthazar’s eyes and move on.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T090400Z" creationid="pugnus" creationdate="20190415T090329Z">
@@ -26193,6 +26201,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044046Z" creationid="urakata" creationdate="20190503T044046Z">
+        <seg>Ellat_HM_prequest_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_14</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044304Z" creationid="urakata" creationdate="20190503T044304Z">
+        <seg>Ellat_HM_prequest_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -36617,6 +36641,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I confess that I'm disappointed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044212Z" creationid="urakata" creationdate="20190503T044212Z">
+        <seg>それでも残念には思っているが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I continue to train every day so that someday I can fill Eto’s boots and protect Cierzo!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T090836Z" creationid="weedssoul" creationdate="20190406T072415Z">
@@ -40086,6 +40118,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T043614Z" creationid="taman" creationdate="20190501T043559Z">
         <seg>もう以前のような私じゃないのよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm not ready for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044046Z" creationid="urakata" creationdate="20190503T044046Z">
+        <seg>まだ私には早いですね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51494,6 +51534,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My offer stands, should you change your mind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044303Z" creationid="urakata" creationdate="20190503T044303Z">
+        <seg>気が変われば決めるのは後でも良い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My offer still stands.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020544Z" creationid="weedssoul" creationdate="20190406T020544Z">
@@ -55745,6 +55793,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On second thought...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044032Z" creationid="urakata" creationdate="20190503T044032Z">
+        <seg>よく考えてみましたが...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On that note, I have work for you.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T161418Z" creationid="taman" creationdate="20190413T161418Z">
@@ -58813,6 +58869,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T042603Z" creationid="urakata" creationdate="20190503T042603Z">
         <seg>Player_Ellat_HM_prequest_b_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_b_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044017Z" creationid="urakata" creationdate="20190503T044017Z">
+        <seg>Player_Ellat_HM_prequest_b_11</seg>
       </tuv>
     </tu>
     <tu>
@@ -77094,6 +77158,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T012858Z" creationid="pugnus" creationdate="20190422T083615Z">
         <seg>もう、聞くべきことは無い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is your right.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044103Z" creationid="urakata" creationdate="20190503T044103Z">
+        <seg>それもお前の自由だ。</seg>
       </tuv>
     </tu>
     <tu>
