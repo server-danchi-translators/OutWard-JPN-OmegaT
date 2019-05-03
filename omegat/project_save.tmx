@@ -16348,6 +16348,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But be warned, to accept my blessing is to become the mortal enemy of all Scourgekind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T043032Z" creationid="urakata" creationdate="20190503T043032Z">
+        <seg>ただ、気を付けてもらいたい。私の祝福を受けるということは、災厄の獣たちの天敵となるということだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But even without them, I see our chances improving considerably.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T020028Z" creationid="pugnus" creationdate="20190422T020028Z">
@@ -79638,6 +79646,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103218Z" creationid="pugnus" creationdate="20190404T105356Z">
         <seg>彼らは将来、モンスーンにとって危険な存在となるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They will seek your destruction everywhere.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T043110Z" creationid="urakata" creationdate="20190503T043110Z">
+        <seg>どこに行っても、やつらに命を狙われると思うことだ。</seg>
       </tuv>
     </tu>
     <tu>
