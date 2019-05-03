@@ -10959,6 +10959,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alchemist Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090159Z" creationid="pugnus" creationdate="20190503T090159Z">
+        <seg>錬金術師の背嚢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alchemy Kit</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T081653Z" creationid="pugnus" creationdate="20190503T081653Z">
@@ -14446,6 +14454,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T053758Z" creationid="pugnus" creationdate="20190503T053758Z">
         <seg>遥か昔、死霊の魔法使いにより集められた、秘儀のタリスマンを包含する背負い袋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bag with a ring of bright glowstone, which negates the need for a lantern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090135Z" creationid="pugnus" creationdate="20190503T090135Z">
+        <seg>ランタンの必要性を否定する、鮮やかな輝きのあるリングが入ったバッグ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31789,6 +31805,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="JA" changeid="pugnus" changedate="20190503T055012Z" creationid="pugnus" creationdate="20190503T055012Z">
         <seg>鍛冶屋が青いスチール合金製の装甲を作るために使用するきらびやかな砂。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glowstone Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090107Z" creationid="pugnus" creationdate="20190503T090107Z">
+        <seg>輝石のバックパック</seg>
       </tuv>
     </tu>
     <tu>
@@ -50827,8 +50851,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mefino’s Trade Backpack</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T085847Z" creationid="pugnus" creationdate="20190503T085847Z">
-        <seg>メフィノの</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085917Z" creationid="pugnus" creationdate="20190503T085847Z">
+        <seg>メフィノの行商用背嚢</seg>
       </tuv>
     </tu>
     <tu>
@@ -53380,8 +53404,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Needlessly ornate bag with an enormous carrying capacity, once used by the spice merchant Mefino.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T085830Z" creationid="pugnus" creationdate="20190503T085830Z">
-        <seg>かつてスパイス商人メフィノによって使用されていた、膨大な収容力を持つ不必要に華やかなバッグ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085900Z" creationid="pugnus" creationdate="20190503T085830Z">
+        <seg>かつて香辛料商人メフィノによって使用されていた、膨大な収容力を持つ不必要に華やかなバッグ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64044,6 +64068,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T104113Z" creationid="setom" creationdate="20190402T104113Z">
         <seg>Prologue_4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prospector Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T090049Z" creationid="pugnus" creationdate="20190503T090037Z">
+        <seg>プロ探検家ご用達背嚢</seg>
       </tuv>
     </tu>
     <tu>
