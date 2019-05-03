@@ -27561,10 +27561,26 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fast Maintenance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020656Z" creationid="pugnus" creationdate="20190503T020656Z">
+        <seg>迅速な整備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fear not.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T011124Z" creationid="pugnus" creationdate="20190502T010901Z">
         <seg>怖れることはないのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feather Dodge</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020629Z" creationid="pugnus" creationdate="20190503T020629Z">
+        <seg>羽根の身躱し</seg>
       </tuv>
     </tu>
     <tu>
@@ -28523,8 +28539,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For example, a boon that increases your Fire Resistance by 20 would increase it by 30 instead.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T025347Z" creationid="pugnus" creationdate="20190409T025347Z">
-        <seg>たとえば、火への抵抗を20増加させるBoonは、代わりに30増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020758Z" creationid="pugnus" creationdate="20190409T025347Z">
+        <seg>たとえば、火への抵抗を20増加させる恩恵は、代わりに30増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35608,6 +35624,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hunter's Eye</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020822Z" creationid="pugnus" creationdate="20190503T020808Z">
+        <seg>猟師の眼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hurts.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T104113Z" creationid="urakata" creationdate="20190428T104113Z">
@@ -42535,6 +42559,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033537Z" creationid="seto" creationdate="20190406T033537Z">
         <seg>Interaction_Skin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Internalized Lexicon</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020937Z" creationid="pugnus" creationdate="20190503T020937Z">
+        <seg>生ける辞書</seg>
       </tuv>
     </tu>
     <tu>
@@ -69067,6 +69099,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shamanic Resonance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020740Z" creationid="pugnus" creationdate="20190503T020732Z">
+        <seg>精霊との共鳴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sharing information is essential for merchants like us.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T122913Z" creationid="weedssoul" creationdate="20190406T122913Z">
@@ -77165,8 +77205,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The effects of boons on you are increased.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T100150Z" creationid="pugnus" creationdate="20190409T025150Z">
-        <seg>Boonの効果が増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020751Z" creationid="pugnus" creationdate="20190409T025150Z">
+        <seg>各恩恵の効果が増加する。</seg>
       </tuv>
     </tu>
     <tu>
