@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You feel your spirit grow in strength.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044529Z" creationid="urakata" creationdate="20190503T044529Z">
+        <seg>(魂が強くなるのを感じる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You lay your hands on the Altar and focus as Oliele does her work.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T054307Z" creationid="taman" creationdate="20190502T054307Z">
@@ -26217,6 +26225,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044455Z" creationid="urakata" creationdate="20190503T044455Z">
+        <seg>Ellat_HM_prequest_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_16</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044549Z" creationid="urakata" creationdate="20190503T044549Z">
+        <seg>Ellat_HM_prequest_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -39290,6 +39314,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I welcome you into my heart, [PlayerName] and grant you the title of Missionary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044716Z" creationid="urakata" creationdate="20190503T044716Z">
+        <seg>[PlayerName]よ、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I will chase the Levantine dream and make it my own.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T121603Z" creationid="Light" creationdate="20190407T121603Z">
@@ -44606,6 +44638,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135851Z" creationid="weedssoul" creationdate="20190406T031224Z">
         <seg>先祖の肩代わりをさせられるなど不公平だ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's warm, like being close to a campfire.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044546Z" creationid="urakata" creationdate="20190503T044546Z">
+        <seg>焚火の近くにいるように暖かい。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58917,6 +58957,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041636Z" creationid="urakata" creationdate="20190503T041636Z">
         <seg>Player_Ellat_HM_prequest_c_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_c_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044410Z" creationid="urakata" creationdate="20190503T044410Z">
+        <seg>Player_Ellat_HM_prequest_c_11</seg>
       </tuv>
     </tu>
     <tu>
@@ -79064,6 +79112,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then it is done.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044606Z" creationid="urakata" creationdate="20190503T044606Z">
+        <seg>これで事は為った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then maybe they need a new Highlord, one who actually cares about what they want!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T015344Z" creationid="pugnus" creationdate="20190425T015344Z">
@@ -86715,6 +86771,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Will you pledge yourself to the Holy Mission?)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044409Z" creationid="urakata" creationdate="20190503T044409Z">
+        <seg>神聖伝道団への帰依を誓いますか?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Will you pledge yourself to the continued survival of the Blue Chamber Collective, and join clan Aberdeen, [PlayerName]?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T021455Z">
@@ -87313,6 +87377,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021604Z" creationid="weedssoul" creationdate="20190406T021604Z">
         <seg>はい。議会の良き一員となることを約束します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I commit myself to your cause.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044951Z" creationid="urakata" creationdate="20190503T044454Z">
+        <seg>あなたの目的に献身します。</seg>
       </tuv>
     </tu>
     <tu>
