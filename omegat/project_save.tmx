@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48440,8 +48440,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Mantis Granite</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T044228Z" creationid="pugnus" creationdate="20190503T044228Z">
-        <seg>蟷螂の堅い爪</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T044242Z" creationid="pugnus" creationdate="20190503T044228Z">
+        <seg>蟷螂の堅い鎌</seg>
       </tuv>
     </tu>
     <tu>
@@ -49008,8 +49008,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Massive claw of a rock mantis, used to craft weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T145356Z">
-        <seg>カマキリの巨大な爪。 武器を作るのに用いられる。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T044248Z" creationid="Light" creationdate="20190406T145356Z">
+        <seg>カマキリの巨大な鎌。 武器を作るのに用いられる。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -54637,6 +54637,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T155848Z" creationid="taman" creationdate="20190502T071825Z">
         <seg>我々は公平な取引に持ち込みたいと考えていますが、相手方はこの要求を押し通すつもりです。そしてダミアンロックウェルはシロッコと交渉の場を設ける気は一切ないようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Occult Remains</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T044641Z" creationid="pugnus" creationdate="20190503T044641Z">
+        <seg>名状しがたき残留</seg>
       </tuv>
     </tu>
     <tu>
