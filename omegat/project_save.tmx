@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11315,6 +11315,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T101627Z" creationid="seto" creationdate="20190404T215023Z">
         <seg>Orochiで稼いだ金は全部海の底にあるんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All we can be sure of is that she has not left the Hallowed Marsh region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T045645Z" creationid="taman" creationdate="20190503T045645Z">
+        <seg>唯一、確かなことはオリエルがまだ聖なる沼のどこかにいるということだけ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34806,6 +34814,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Her location is shielded from his sight, probably by Lockwell's magic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T045501Z" creationid="taman" creationdate="20190503T045501Z">
+        <seg>彼女はエラットに居場所が突き止められないように守られている、おそらくロックウェルが魔法を使っているはずよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Her loyalty to our cause isn’t certain.”</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T044835Z" creationid="pugnus" creationdate="20190416T044835Z">
@@ -37343,6 +37359,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064733Z" creationid="urakata" creationdate="20190430T064733Z">
         <seg>レイラインに生命力を捧げすぎて、蜘蛛の巣並みにヘロヘロだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I got Oliele out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T050640Z" creationid="taman" creationdate="20190503T050640Z">
+        <seg>オリエルを逃がしました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40856,6 +40880,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014554Z" creationid="pugnus" creationdate="20190425T014554Z">
         <seg>我が否定すれば、どう思おうが、否定されるのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If she's not in Lockwell's house, and he refuses to say anything, you'll have to &lt;color=#00CCFF&gt;&lt;b&gt;ask around, see if anyone has seen anything&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T050105Z" creationid="taman" creationdate="20190503T050105Z">
+        <seg>オリエルがいなくなりロックウェルが何も話さないなら &lt;color=#00CCFF&gt;&lt;b&gt;彼女の行方を知っている人がいないか聞きこむしか手はないわ。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47979,6 +48011,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T140031Z" creationid="Horizon" creationdate="20190403T135440Z">
         <seg>このスキルを使用するには、敵をロックオンする必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lockwell refuses to say anything.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T045142Z" creationid="taman" creationdate="20190503T045142Z">
+        <seg>ロックウェルは何もしゃべろうとしない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55376,6 +55416,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103045Z" creationid="pugnus" creationdate="20190406T005625Z">
         <seg>オリエルは完全に消滅した。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele is gone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T044958Z" creationid="taman" creationdate="20190503T044958Z">
+        <seg>オリエルがいなくなった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72095,6 +72143,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Speak to him not as a member of the Holy Mission, but rather as a concerned friend and maybe you can reach him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T044948Z" creationid="taman" creationdate="20190503T044948Z">
+        <seg>協会の一員としてではなく、彼女を心配する友人として説けば彼も聞く耳をもってくれるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Special Attack</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T144645Z" creationid="Horizon" creationdate="20190403T144645Z">
@@ -77870,6 +77926,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Cardinal asked Elatt to look for her, and even he can't find her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T045314Z" creationid="taman" creationdate="20190503T045314Z">
+        <seg>ブラマク卿はエラットに彼女を探すようお願いしたそうですが、エラットの力をもってしても見つけることはできなかったそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Chamberlady, Rissa Aberdeen is usually in her manor on top of the hill when she’s staying in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T161831Z">
@@ -80826,6 +80890,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T090524Z" creationid="rkmad" creationdate="20190405T090524Z">
         <seg>教訓として受け入れなさい、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is serious trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T045205Z" creationid="taman" creationdate="20190503T045205Z">
+        <seg>非常に困った事態になったわね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85920,6 +85992,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T090741Z" creationid="pugnus" creationdate="20190422T090741Z">
         <seg>何を求めているのだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What news, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T050630Z" creationid="taman" creationdate="20190503T050630Z">
+        <seg>何か分かりましたか、 [PlayerName]？</seg>
       </tuv>
     </tu>
     <tu>
