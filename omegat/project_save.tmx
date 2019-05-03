@@ -24890,6 +24890,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discipline Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T073854Z" creationid="pugnus" creationdate="20190503T073854Z">
+        <seg>規律の水薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discipline is required to cast this spell.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T064554Z" creationid="pugnus" creationdate="20190406T025624Z">
@@ -26193,6 +26201,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063132Z" creationid="totochan" creationdate="20190403T140041Z">
         <seg>元素耐性 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elemental Resistance Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T073921Z" creationid="pugnus" creationdate="20190503T073921Z">
+        <seg>元素耐性の水薬</seg>
       </tuv>
     </tu>
     <tu>
@@ -31146,6 +31162,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091549Z" creationid="setom" creationdate="20190403T091549Z">
         <seg>GenericMessage_Warning_Title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gep's Drink</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T073809Z" creationid="pugnus" creationdate="20190503T073809Z">
+        <seg>ゲップさんの飲み物</seg>
       </tuv>
     </tu>
     <tu>
