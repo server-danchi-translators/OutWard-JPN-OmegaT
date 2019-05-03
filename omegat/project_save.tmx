@@ -44241,6 +44241,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also gives the Possessed boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060110Z" creationid="pugnus" creationdate="20190503T060110Z">
+        <seg>それはまた、憑依の恩恵を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also grants the Warm boon and an increase in stealth.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T064657Z" creationid="weedssoul" creationdate="20190407T064657Z">
@@ -49720,6 +49728,22 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T113956Z" creationid="Gaiden Shinji" creationdate="20190403T113956Z">
         <seg>マーシュメロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marshmelon Jelly</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060236Z" creationid="pugnus" creationdate="20190503T060236Z">
+        <seg>マーシュメロンゼリー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Marshmelon Tartine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060351Z" creationid="pugnus" creationdate="20190503T060351Z">
+        <seg>マーシュメロンタルティーヌ</seg>
       </tuv>
     </tu>
     <tu>
@@ -69250,6 +69274,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Savage Stew</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060212Z" creationid="pugnus" creationdate="20190503T060212Z">
+        <seg>サベージシチュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115328Z" creationid="setom" creationdate="20190401T115328Z">
@@ -79035,6 +79067,15 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The concentrated melon confers an immense stamina recovery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060328Z" creationid="pugnus" creationdate="20190503T060328Z">
+        <seg>濃縮メロンは、絶大なスタミナ回復をもたらす。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The consequences would have been final!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023504Z" creationid="urakata" creationdate="20190428T023504Z">
@@ -82585,6 +82626,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115841Z" creationid="setom" creationdate="20190401T115841Z">
         <seg>転送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translucent spread of delicious fruit jam.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T060305Z" creationid="pugnus" creationdate="20190503T060305Z">
+        <seg>おいしいフルーツジャムの、半透明の広がり。
+</seg>
       </tuv>
     </tu>
     <tu>
