@@ -9525,6 +9525,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A great hunter’s knife that emits light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T052555Z" creationid="pugnus" creationdate="20190503T052555Z">
+        <seg>光を放つ、偉大なハンターナイフ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A human, in my village?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T082611Z" creationid="pugnus" creationdate="20190422T062211Z">
@@ -18381,8 +18389,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Chitin Desert Tunic</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190423T121924Z" creationid="pugnus" creationdate="20190423T121924Z">
-        <seg>キチンの砂漠の上着</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T052226Z" creationid="pugnus" creationdate="20190423T121924Z">
+        <seg>キチン素材の砂漠用上着</seg>
       </tuv>
     </tu>
     <tu>
@@ -20900,6 +20908,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051711Z" creationid="pugnus" creationdate="20190503T051711Z">
+        <seg>死体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corrupted Ghosts surge from the Altar, their emergence blasting you away.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T103724Z" creationid="pugnus" creationdate="20190404T094720Z">
@@ -21286,8 +21302,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Chitin Desert Tunic</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Chitin Desert Tunic</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T052101Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：キチン素材の砂漠用上着</seg>
       </tuv>
     </tu>
     <tu>
@@ -46919,6 +46935,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Junk Pile</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051753Z" creationid="pugnus" creationdate="20190503T051753Z">
+        <seg>ゴミの山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just because a choice is hard doesn't mean you can't take it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T032520Z">
@@ -48412,6 +48436,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T113755Z" creationid="pugnus" creationdate="20190423T113755Z">
         <seg>遺跡荒らしの覆面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looter’s Corpse</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051701Z" creationid="pugnus" creationdate="20190503T051701Z">
+        <seg>応援団の死体</seg>
       </tuv>
     </tu>
     <tu>
@@ -76059,6 +76091,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Supply Cache</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T052402Z" creationid="pugnus" creationdate="20190503T052402Z">
+        <seg>生活用品保存場所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sure, I'll help.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T122452Z" creationid="taman" creationdate="20190421T122452Z">
@@ -92252,6 +92292,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T094342Z" creationid="pugnus" creationdate="20190423T094342Z">
         <seg>ツォルンの悪魔の盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhorn’s Glowstone Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T052516Z" creationid="pugnus" creationdate="20190503T052516Z">
+        <seg>ソールンのグロウストーンダガー</seg>
       </tuv>
     </tu>
     <tu>
