@@ -58492,16 +58492,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pearlbird</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190411T001555Z" creationid="pugnus" creationdate="20190411T001555Z">
-        <seg>パールバード</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065518Z" creationid="pugnus" creationdate="20190411T001555Z">
+        <seg>真珠鳥</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Pearlbird Cutthroat</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T120241Z" creationid="pugnus" creationdate="20190422T120241Z">
-        <seg>首切りパールバード</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065526Z" creationid="pugnus" creationdate="20190422T120241Z">
+        <seg>首切り真珠鳥</seg>
       </tuv>
     </tu>
     <tu>
@@ -58516,8 +58516,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pearlbird Nest</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190411T001809Z" creationid="Gaiden Shinji" creationdate="20190403T113639Z">
-        <seg>パールバードの巣</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065504Z" creationid="Gaiden Shinji" creationdate="20190403T113639Z">
+        <seg>真珠鳥の巣</seg>
       </tuv>
     </tu>
     <tu>
@@ -76469,8 +76469,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stone Titan Caves</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T111616Z" creationid="Gaiden Shinji" creationdate="20190404T111616Z">
-        <seg>ストーンタイタン洞窟</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065629Z" creationid="Gaiden Shinji" creationdate="20190404T111616Z">
+        <seg>石巨人洞窟</seg>
       </tuv>
     </tu>
     <tu>
@@ -78977,8 +78977,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Butcher of Men</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T120644Z" creationid="pugnus" creationdate="20190422T120644Z">
-        <seg>男の肉屋さん</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065427Z" creationid="pugnus" creationdate="20190422T120644Z">
+        <seg>お肉屋さんの男の人</seg>
       </tuv>
     </tu>
     <tu>
