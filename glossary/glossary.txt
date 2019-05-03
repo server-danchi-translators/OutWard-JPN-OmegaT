@@ -516,9 +516,7 @@ Immolate	焼き討ち	…を焼き殺す，焼き打ちする
 Luxury	贅沢
 Luxury Tent	贅沢なテント
 Alchemy	錬金術
-Torche	たいまつ
 Makeshift	間に合わせの
-Makeshift Torche	間に合わせのたいまつ
 Occupied	占領した
 Backpack	バックパック
 Backpack	バックパック	ポーチよりはるかに大きい収納用の装備。バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。
@@ -662,7 +660,6 @@ Warrior Elixir	戦士の万能薬
 Survivor Elixir	生存者の薬
 Golem Elixir	ゴーレム薬
 Dark Varnish	暗黒樹脂	錬金術：暗黒樹脂
-Ice-Flame Torch	アイスフレイムたいまつ
 Great Life Potion	生命の水薬（大）	錬金術：生命の水薬（大）
 Great Astral Potion	星の水薬（大）
 Great Endurance Potion	持久力の水薬（大）
@@ -720,3 +717,6 @@ Gep's Drink	ゲップさんの飲み物	適度な量の体力、スタミナ、�
 Elemental Resistance Potion	元素耐性の水薬
 Weather Defense Potion	テンコーキニナラーズ	暖気と寒気を和らげることができる水薬
 Glowstone	輝石	油を燃やす代わりに輝石を使い、半永久的に使用できるランタン。
+Torche	松明
+Makeshift Torche	間に合わせの松明
+Ice-Flame Torch	氷灯の松明
