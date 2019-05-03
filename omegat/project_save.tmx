@@ -16320,8 +16320,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring an ancient tablet to the Soroborean Caravanner.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T101110Z" creationid="Light" creationdate="20190409T101110Z">
-        <seg>古代のタブレットをソロボレアンの商人に持っていく</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T234425Z" creationid="Light" creationdate="20190409T101110Z">
+        <seg>古代の書板をソロボレアンの商人に持っていく</seg>
       </tuv>
     </tu>
     <tu>
@@ -31746,8 +31746,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Get the tablet translated by Soroborean Caravans found in any city or by Mofat in Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T024910Z" creationid="Light" creationdate="20190409T103832Z">
-        <seg>ソロボレアンの商人またはモンスーンのモファットによって翻訳されたタブレットを入手する</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T234433Z" creationid="Light" creationdate="20190409T103832Z">
+        <seg>ソロボレアンの商人またはモンスーンのモファットによって翻訳された書板を入手する</seg>
       </tuv>
     </tu>
     <tu>
@@ -73271,8 +73271,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Skill Storage Tablet</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T234037Z" creationid="pugnus" creationdate="20190503T234037Z">
-        <seg>技術保管書板</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T234352Z" creationid="pugnus" creationdate="20190503T234037Z">
+        <seg>スキル保管書板</seg>
       </tuv>
     </tu>
     <tu>
