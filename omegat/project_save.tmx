@@ -14691,6 +14691,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bandit Camp Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093157Z" creationid="pugnus" creationdate="20190503T093157Z">
+        <seg>盗賊の野営地の鍵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bandit Captain</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112703Z" creationid="Gaiden Shinji" creationdate="20190403T110509Z">
@@ -26125,6 +26133,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effigy of a ancient undead mage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093052Z" creationid="pugnus" creationdate="20190503T093043Z">
+        <seg>古代の死霊術師の力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Egg</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045202Z" creationid="seto" creationdate="20190406T045202Z">
@@ -27187,6 +27203,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T073511Z" creationid="Gaiden Shinji" creationdate="20190404T112108Z">
         <seg>エンメルカル周辺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enmerkar Tomb Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093221Z" creationid="pugnus" creationdate="20190503T093221Z">
+        <seg>エンメルカルの墓の鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -47549,6 +47573,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T235626Z" creationid="pugnus" creationdate="20190410T235626Z">
         <seg>ジェイドリッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jade Lich's Idol</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093011Z" creationid="pugnus" creationdate="20190503T093011Z">
+        <seg>ジェイドリッチの聖像</seg>
       </tuv>
     </tu>
     <tu>
@@ -81046,6 +81078,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T135117Z" creationid="weedssoul" creationdate="20190406T030000Z">
         <seg>香辛料も、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The statue’s underside has grooves that might fit on some device.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T093143Z" creationid="pugnus" creationdate="20190503T093143Z">
+        <seg>聖像の裏側には、いくつかの装置に合うであろう溝が刻まれている...</seg>
       </tuv>
     </tu>
     <tu>
