@@ -14973,8 +14973,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Be wary of the Montcalm tribe in the north and the Kazite pirates near the coast.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T061152Z">
-        <seg>Montcalm族は北の方でKazite族は浜辺の近くだ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T053858Z" creationid="Light" creationdate="20190406T061152Z">
+        <seg>モンカルム族は北の方でカジート族は浜辺の近くだ。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40887,8 +40887,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I've heard rumors of a Scourge Beast, a shell horror specifically, near the Ghost Pass.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060754Z">
-        <seg>あそこには恐怖の殻と言われるScourge Beastがいるという噂だ。 ゴーストパスの近くだ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T053912Z" creationid="Light" creationdate="20190406T060754Z">
+        <seg>あそこには恐怖の殻と言われるスカージの獣がいるという噂だ。 ゴーストパスの近くだ。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -51700,6 +51700,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114757Z" creationid="Gaiden Shinji" creationdate="20190403T114757Z">
         <seg>モントカームクランフォート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Montcalm Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T053840Z" creationid="pugnus" creationdate="20190503T053840Z">
+        <seg>モンカルムの鍵</seg>
       </tuv>
     </tu>
     <tu>
