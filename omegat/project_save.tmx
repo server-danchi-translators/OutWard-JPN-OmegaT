@@ -77849,6 +77849,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stone tablet which can be imprinted with a skill, which can then be passed down as a legacy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T233938Z" creationid="pugnus" creationdate="20190503T233755Z">
+        <seg>遺産として受け継がれる技術にて刻印することができる石の書版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stoneflesh Elixir</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T075131Z" creationid="pugnus" creationdate="20190503T075131Z">
