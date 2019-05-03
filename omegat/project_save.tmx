@@ -24868,32 +24868,32 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Discipline</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T023039Z" creationid="pugnus" creationdate="20190502T023039Z">
-        <seg>鍛錬</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T064441Z" creationid="pugnus" creationdate="20190502T023039Z">
+        <seg>規律</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Discipline Amplified</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T023049Z" creationid="pugnus" creationdate="20190502T023049Z">
-        <seg>鍛錬（強）</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T064500Z" creationid="pugnus" creationdate="20190502T023049Z">
+        <seg>規律（強）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Discipline Boon is required.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T063602Z" creationid="hiru4" creationdate="20190403T060356Z">
-        <seg>鍛錬の恩恵が必要です</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T064317Z" creationid="hiru4" creationdate="20190403T060356Z">
+        <seg>規律の恩恵が必要です</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Discipline is required to cast this spell.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T105454Z" creationid="pugnus" creationdate="20190406T025624Z">
-        <seg>この呪文を唱えるには規律を必要とする。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T064554Z" creationid="pugnus" creationdate="20190406T025624Z">
+        <seg>この呪文を唱えるには規律の恩恵を必要とする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,8 +30432,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Gain Discipline if you blocked an attack this way.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T111650Z" creationid="pugnus" creationdate="20190408T120036Z">
-        <seg>この方法で攻撃をブロックすることにより、あなたは規律を得るだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T064546Z" creationid="pugnus" creationdate="20190408T120036Z">
+        <seg>この方法で攻撃をブロックすることにより、あなたは規律の恩恵を得るだろう。</seg>
       </tuv>
     </tu>
     <tu>
