@@ -19309,6 +19309,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concoction that provides relief from warm and cold temperatures.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074430Z" creationid="pugnus" creationdate="20190503T074430Z">
+        <seg>暖気と寒気を和らげることができる水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concoction that temporarily increases your Decay Damage and Resistances.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T142737Z" creationid="weedssoul" creationdate="20190406T142737Z">
@@ -48183,8 +48191,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Legendary brew that temporarily grants immunity to Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T074230Z" creationid="pugnus" creationdate="20190503T074230Z">
-        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して、耐性を一時的に与える伝説の調合。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074308Z" creationid="pugnus" creationdate="20190503T074230Z">
+        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して、耐性を一時的に与える伝説の醸造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86059,6 +86067,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T023500Z" creationid="pugnus" creationdate="20190502T023500Z">
         <seg>天候対策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weather Defense Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074543Z" creationid="pugnus" creationdate="20190503T074332Z">
+        <seg>テンコーキニナラーズ</seg>
       </tuv>
     </tu>
     <tu>
