@@ -15027,6 +15027,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bed</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051230Z" creationid="pugnus" creationdate="20190503T051230Z">
+        <seg>ベッド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before I change my mind.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T045138Z" creationid="Mad" creationdate="20190407T045138Z">
@@ -16112,6 +16120,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132105Z" creationid="hiru4" creationdate="20190403T053719Z">
         <seg>弾丸が必要です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bundle of goods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051037Z" creationid="pugnus" creationdate="20190503T051037Z">
+        <seg>商品の束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18275,6 +18291,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051251Z" creationid="pugnus" creationdate="20190503T051251Z">
+        <seg>チェスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chest Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T101417Z" creationid="totochan" creationdate="20190402T083912Z">
@@ -19168,6 +19192,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020800Z" creationid="pugnus" creationdate="20190423T020800Z">
         <seg>コンフラックス山の衛兵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conflux Supplies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051156Z" creationid="pugnus" creationdate="20190503T051156Z">
+        <seg>コンフラックスの品々</seg>
       </tuv>
     </tu>
     <tu>
@@ -47183,6 +47215,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Kitchen</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051241Z" creationid="pugnus" creationdate="20190503T051241Z">
+        <seg>キッチン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Krimp</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T120731Z" creationid="pugnus" creationdate="20190422T120731Z">
@@ -57160,6 +57200,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T100124Z" creationid="pugnus" creationdate="20190410T100124Z">
         <seg>骨による華やかな盾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ornate Chest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051320Z" creationid="pugnus" creationdate="20190503T051320Z">
+        <seg>華やかなチェスト</seg>
       </tuv>
     </tu>
     <tu>
@@ -70919,6 +70967,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Silver</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051221Z" creationid="pugnus" creationdate="20190503T051221Z">
+        <seg>銀貨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Silver Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T130558Z" creationid="pugnus" creationdate="20190423T130558Z">
@@ -71875,6 +71931,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T112711Z" creationid="pugnus" creationdate="20190406T112711Z">
         <seg>誰かが青の議会に攻撃を仕掛けてきた。会議中だというのに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Someone else may have a use for these supplies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T051132Z" creationid="pugnus" creationdate="20190503T051132Z">
+        <seg>他の誰かの所有物の可能性がある。</seg>
       </tuv>
     </tu>
     <tu>
