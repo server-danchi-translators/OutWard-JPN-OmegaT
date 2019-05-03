@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35928,6 +35928,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the Scourge can sense it and will be driven to attack you, as they are driven to kill me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T044016Z" creationid="urakata" creationdate="20190503T044016Z">
+        <seg>しかし、災厄はそれを嗅ぎ取って、私に対するのと同じようにお前に襲い掛かってくるようになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, they can knock you down too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113107Z">
@@ -41015,6 +41023,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T053911Z" creationid="urakata" creationdate="20190427T053911Z">
         <seg>あなたもマナを開放するのがまだなら、いい機会だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you join me, I will grant you a small portion of my essence, which will empower you to better protect others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T043905Z" creationid="urakata" creationdate="20190503T043905Z">
+        <seg>帰依すると、皆を守る力を与えるために、お前に私のほんの一部を託す。</seg>
       </tuv>
     </tu>
     <tu>
