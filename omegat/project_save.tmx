@@ -10913,8 +10913,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Fire Stone</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Fire Stone</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032139Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：ファイヤーストーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -20957,16 +20957,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Assassin Claymore</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Assassin Claymore</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032320Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：暗殺者の大剣</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crafting: Assassin Sword</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Assassin Sword</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032309Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：暗殺者の剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -21029,16 +21029,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Crescent Greataxe</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Crescent Greataxe</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032405Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：三日月の大戦斧</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crafting: Crescent Scythe</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Crescent Scythe</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032420Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：三日月の大鎌</seg>
       </tuv>
     </tu>
     <tu>
@@ -21173,24 +21173,24 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Horror Axe</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Horror Axe</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032216Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：戦慄の戦斧</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crafting: Horror Bow</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T014343Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:戦慄の弓</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032158Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：戦慄の弓</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crafting: Horror Shield</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Horror Shield</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032226Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：戦慄の盾</seg>
       </tuv>
     </tu>
     <tu>
@@ -21245,16 +21245,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Manticore Greatmace</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Manticore Greatmace</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032247Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：マンティコアのグレートメイス</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crafting: Mantis Greatpick</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Mantis Greatpick</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T032346Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：蟷螂の大ツルハシ</seg>
       </tuv>
     </tu>
     <tu>
