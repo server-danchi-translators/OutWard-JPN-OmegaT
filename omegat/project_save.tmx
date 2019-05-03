@@ -12528,6 +12528,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor Training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021201Z" creationid="pugnus" creationdate="20190503T021201Z">
+        <seg>重装備訓練</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor piece that has the largest influence on defense.</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190402T083953Z" creationid="totochan" creationdate="20190402T083953Z">
@@ -26025,6 +26033,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enrage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021258Z" creationid="pugnus" creationdate="20190503T021258Z">
+        <seg>激怒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T112705Z" creationid="setom" creationdate="20190401T115057Z">
@@ -28413,6 +28429,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T124503Z" creationid="Horizon" creationdate="20190404T075844Z">
         <seg>視野角(分割画面)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021346Z" creationid="pugnus" creationdate="20190503T021346Z">
+        <seg>集中</seg>
       </tuv>
     </tu>
     <tu>
@@ -31237,32 +31261,32 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Grants the Blessed boon, which increases your Lightning Damage and Lightning Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T040300Z" creationid="pugnus" creationdate="20190406T032508Z">
-        <seg>Blessed boonを付与する。あなたによる稲妻属性のダメージと、あなたの稲妻に対する抵抗を増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021458Z" creationid="pugnus" creationdate="20190406T032508Z">
+        <seg>祝福の恩恵を付与する。あなたによる稲妻属性のダメージと、あなたの稲妻に対する抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Grants the Cool boon, which increases your Frost Damage and Frost Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T043216Z" creationid="rkmad" creationdate="20190403T072045Z">
-        <seg>このスペルを使用した際、氷属性のダメージと耐性を増加させるCool Boonをあなたに付与します。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021422Z" creationid="rkmad" creationdate="20190403T072045Z">
+        <seg>このスペルを使用した際、氷属性のダメージと耐性を増加させる冷気の恩恵をあなたに付与します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Grants the Discipline boon, which increases the Physical Damage of your attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T040846Z" creationid="pugnus" creationdate="20190406T040755Z">
-        <seg>Discipline boonを付与する。あなたの物理的な攻撃のダメージを増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021354Z" creationid="pugnus" creationdate="20190406T040755Z">
+        <seg>規律の恩恵を付与する。あなたの物理的な攻撃のダメージを増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Grants the Mist boon, which increases your Ethereal Damage and Ethereal Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T040247Z" creationid="pugnus" creationdate="20190406T032911Z">
-        <seg>Mist boonを付与する。あなたによるエーテル属性のダメージと、あなたのエーテルに対する抵抗を増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021448Z" creationid="pugnus" creationdate="20190406T032911Z">
+        <seg>霞の恩恵を付与する。あなたによるエーテル属性のダメージと、あなたのエーテルに対する抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31277,16 +31301,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Grants the Rage boon, which increases the Impact of your attacks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T041210Z" creationid="pugnus" creationdate="20190406T041210Z">
-        <seg>Rage boonを付与する。あなたの攻撃の衝撃力を増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021306Z" creationid="pugnus" creationdate="20190406T041210Z">
+        <seg>猛威の恩恵を付与する。あなたの攻撃の衝撃力を増加する。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Grants the Warm boon, which increases your Fire Damage and Fire Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190406T040430Z" creationid="pugnus" creationdate="20190406T035945Z">
-        <seg>Warm boonを付与する。あなたによる炎属性のダメージと、あなたの炎に対する抵抗を増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021405Z" creationid="pugnus" creationdate="20190406T035945Z">
+        <seg>温暖の恩恵を付与する。あなたによる炎属性のダメージと、あなたの炎に対する抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61310,6 +61334,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073942Z" creationid="setom" creationdate="20190401T073942Z">
         <seg>[InputAction_LockToggle]でカメラを敵にロックでき、攻撃がより当てやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pressure Plate Expertise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021224Z" creationid="pugnus" creationdate="20190503T021224Z">
+        <seg>圧力版の達人</seg>
       </tuv>
     </tu>
     <tu>
