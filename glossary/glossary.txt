@@ -1,4 +1,4 @@
-﻿Tsar	ツァーリ	ロシア等スラヴ圏の君主
+Tsar	ツァーリ	ロシア等スラヴ圏の君主
 Blue Sand	青い砂	用語テストで入力
 Cierzo	シエルゾ	Cierzoシエルゾはスペインの北から吹く猛烈なからっ風
 Monsoon	モンスーン	Monsoonモンスーンは季節によって向きの変わる風(季節風)
@@ -49,9 +49,7 @@ Shark Cartilage	鮫の軟骨	ItemID6600170
 Mushroom Shield	キノコの盾	ItemID2300150
 Conflux Mountain	コンフラックス山	最初のマップの中央にある紫の山
 Alchemist	錬金術師
-Chersonese	チェルソネス	既存翻訳部分より
 Conflux	合流点	「カナメ」とか「辻」とか真ん中を感じさせる言葉かな
-Corrupted Tombs	退廃の墓地	Chersoneseの地名
 Enmerkar	エンメルカル	シュメール人の王。ギルガメシュの3代前にあたる。伝説上の人物？
 Hallowed Marsh	聖なる沼	沼？沢？
 Light Spire	光の塔	Hallowed Marshにある。Gold Mask Lichが居る。
@@ -510,7 +508,6 @@ Speed Up	速度上昇
 Impact Resistance	衝撃耐性
 Fire Damage and Resistance	炎ダメージ＆耐性
 Cold Weather Def	冷気耐性
-Chersonese	ケールサニース	ギリシャ語で「乾いた島」=半島のこと チェルソネスとケルソネスの２つが候補に挙がっているがどちらを正とするのか？
 Force Bubble	力の泡
 Physical Resistance	物理抵抗
 Mana cost	消費マナ
@@ -527,7 +524,6 @@ Makeshift Torche	間に合わせのたいまつ
 Occupied	占領した
 Backpack	バックパック
 Backpack	バックパック	ポーチよりはるかに大きい収納用の装備。バックパックは所持品の容量を増やしますが、回避行動が鈍くなります。
-
 Discipline Boon	規律の恩恵
 Wind Altar	風の祭壇
 Rage	猛威	(抑えがたい)激怒、憤怒、激しさ、猛烈、猛威、熱望、渇望、大流行(のもの)
@@ -709,7 +705,6 @@ Coil Lantern	コイルランタン	高度な電源コイルを燃料とするこ
 Ornate	華やか
 Wood	木材
 Scaled Satchel	鱗のカバン
-
 Seared Root	根菜サラダ	火を注入された植物を、さらに火で焼いたもの。その熱でゆっくりと風邪を治すだろう。
 Grilled Woolshroom	焼きウールルーム	ウールルームを調理したもので、食べると自分の足音が消える。
 Toast	トースト	焼きたてパンのスライス。それは腹を満たすだけ。
@@ -718,3 +713,4 @@ Boiled Azure Shrimp	茹でた紺碧のエビ
 Roasted Krimp Nut	焼きクリンプナッツ	新陳代謝を高めるローストナッツ。
 Grilled Crabeye Seed	焼きクラベイの種	調理することでより毒性が高くなった種。リネンと合わせると武器に毒属性を付与するアイテムになる
 Crescent Shark	三日月鮫
+Corrupted Tombs	退廃の墓地	ケルソネソスの地名
