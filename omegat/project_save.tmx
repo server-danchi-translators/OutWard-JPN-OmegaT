@@ -79,6 +79,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(An Altar to Elatt is placed here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052648Z" creationid="urakata" creationdate="20190503T052648Z">
+        <seg>(エラットの祭壇はここに置かれている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As Roland plants his mana sword into the air around the altar, a violent burst of blue energy blinds you.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133008Z" creationid="urakata" creationdate="20190430T133008Z">
@@ -123,6 +131,14 @@
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T051631Z" creationid="urakata" creationdate="20190503T051631Z">
         <seg>(エラットに近づこうとすると、Chersoneseにある洞窟にある、奇妙な骸骨の像が瞬いた...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see a campsite near a mountain along the Pilgrim Road.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052612Z" creationid="urakata" creationdate="20190503T052612Z">
+        <seg>(エラットに近づこうとすると、巡礼者の道沿いの野営地が見えた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -559,6 +575,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(You feel like this is a major turning point in your life... &lt;color=#00CCFF&gt;&lt;b&gt;Will you dedicate yourself to the Holy Mission of Elatt&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052520Z" creationid="urakata" creationdate="20190503T052520Z">
+        <seg>(これが人生の大きな転換点であると感じる... &lt;color=#00CCFF&gt;&lt;b&gt;エラット神聖伝道団に身を捧げますか&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(You feel the the Altar suck at your very spirit the moment you approach... )</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T165508Z" creationid="taman" creationdate="20190430T163726Z">
@@ -620,6 +644,14 @@
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T171241Z" creationid="taman" creationdate="20190410T052341Z">
         <seg>(クリスタルからは切り裂くような苦悶の叫びが聞こえる……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(You sense nothing from the altar.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052534Z" creationid="urakata" creationdate="20190503T052534Z">
+        <seg>(祭壇から何も感じない。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26506,6 +26538,38 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052417Z" creationid="urakata" creationdate="20190503T052417Z">
+        <seg>Ellat_HM_prequest_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052521Z" creationid="urakata" creationdate="20190503T052521Z">
+        <seg>Ellat_HM_prequest_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_29</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052534Z" creationid="urakata" creationdate="20190503T052534Z">
+        <seg>Ellat_HM_prequest_29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_30</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052627Z" creationid="urakata" creationdate="20190503T052627Z">
+        <seg>Ellat_HM_prequest_30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093143Z" creationid="seto" creationdate="20190412T093143Z">
@@ -41801,6 +41865,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065418Z" creationid="weedssoul" creationdate="20190406T014500Z">
         <seg>青の議会の恩恵を得たいなら、バーグで私のところまで来なさい。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to speak to him, this would be the place to do it.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052715Z" creationid="urakata" creationdate="20190503T052715Z">
+        <seg>エラットに呼びかけるのであれば、ここであろう。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -90086,6 +90158,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T052216Z" creationid="urakata" creationdate="20190503T052216Z">
         <seg>燃えるような義憤を感じた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You sense... confusion and concern.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052626Z" creationid="urakata" creationdate="20190503T052626Z">
+        <seg>戸惑いと懸念を感じた。)</seg>
       </tuv>
     </tu>
     <tu>
