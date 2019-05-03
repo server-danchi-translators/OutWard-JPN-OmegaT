@@ -10937,8 +10937,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Great Astral Potion</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Great Astral Potion</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T040340Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：星の水薬（大）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10953,8 +10953,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Great Life Potion</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Great Life Potion</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T040423Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：生命の水薬（大）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21005,8 +21005,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Bullets</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Bullets</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T040224Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：弾丸</seg>
       </tuv>
     </tu>
     <tu>
@@ -21165,8 +21165,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Golem Rapier</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Golem Rapier</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T040206Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：ゴーレムレイピア</seg>
       </tuv>
     </tu>
     <tu>
