@@ -11919,6 +11919,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancient artifact of the Scarlet Lady.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083838Z" creationid="pugnus" creationdate="20190503T083838Z">
+        <seg>緋色の貴婦人の古代の遺物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ancient forest of giant trees, with vicious arcane monsters prowling about.</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114432Z" creationid="Gaiden Shinji" creationdate="20190403T114432Z">
@@ -21482,6 +21490,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T025233Z" creationid="pugnus" creationdate="20190416T010912Z">
         <seg>作成：ツァーリの鎧と朧げな鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craftable dagger that inflicts Extreme Poison.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083934Z" creationid="pugnus" creationdate="20190503T083934Z">
+        <seg>敵に猛毒を与える作成可能な短剣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49720,6 +49736,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manticore Dagger</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083850Z" creationid="pugnus" creationdate="20190503T083850Z">
+        <seg>マンティコアの短剣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Manticore Greatmace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T085725Z" creationid="pugnus" creationdate="20190423T085725Z">
@@ -65233,8 +65257,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Red Lady's Dagger</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T083740Z" creationid="pugnus" creationdate="20190503T083740Z">
-        <seg>緋色の貴婦人の短剣</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T083800Z" creationid="pugnus" creationdate="20190503T083740Z">
+        <seg>赤色婦人の短剣</seg>
       </tuv>
     </tu>
     <tu>
@@ -82898,6 +82922,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054923Z" creationid="urakata" creationdate="20190427T054923Z">
         <seg>これは...これは大変なことだぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thorn Chakram</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T084022Z" creationid="pugnus" creationdate="20190503T084022Z">
+        <seg>いばらのチャクラム</seg>
       </tuv>
     </tu>
     <tu>
