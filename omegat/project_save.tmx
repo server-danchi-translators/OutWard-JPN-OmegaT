@@ -63173,6 +63173,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Poison Varnish</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080050Z" creationid="pugnus" creationdate="20190503T080050Z">
+        <seg>有毒樹脂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poisoned</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T075753Z" creationid="pugnus" creationdate="20190502T075753Z">
@@ -81832,6 +81840,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T143502Z" creationid="weedssoul" creationdate="20190406T143434Z">
         <seg>武器に使うと、氷属性を付与する濃度の高い液体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thick fluid that envenoms a weapon when applied to it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T080401Z" creationid="pugnus" creationdate="20190503T080401Z">
+        <seg>これを使用した際、武器に毒を付与する厚みのある流体樹脂。
+</seg>
       </tuv>
     </tu>
     <tu>
