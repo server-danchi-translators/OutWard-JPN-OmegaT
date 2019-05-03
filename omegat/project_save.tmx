@@ -10873,8 +10873,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Charge – Nerve Gas</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144535Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:Charge – Nerve Gas</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042224Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：罠用装填品「神経ガス」</seg>
       </tuv>
     </tu>
     <tu>
@@ -20453,8 +20453,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cooking: Savage Stew</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T141310Z" creationid="Light" creationdate="20190406T141310Z">
-        <seg>料理:Savage Stew</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042323Z" creationid="Light" creationdate="20190406T141310Z">
+        <seg>料理：獰猛シチュー</seg>
       </tuv>
     </tu>
     <tu>
@@ -47337,6 +47337,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125305Z" creationid="Light" creationdate="20190407T125305Z">
         <seg>お互いにな、友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linen Cloth</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T042511Z" creationid="pugnus" creationdate="20190503T042511Z">
+        <seg>リネン布</seg>
       </tuv>
     </tu>
     <tu>
