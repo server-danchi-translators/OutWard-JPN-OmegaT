@@ -22160,8 +22160,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crescent Shark</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190411T000548Z" creationid="pugnus" creationdate="20190411T000548Z">
-        <seg>クレセント・シャーク</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065330Z" creationid="pugnus" creationdate="20190411T000548Z">
+        <seg>三日月鮫</seg>
       </tuv>
     </tu>
     <tu>
@@ -58654,6 +58654,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T164813Z" creationid="taman" creationdate="20190411T164813Z">
         <seg>神も完全ではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pet Crescent Shark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065208Z" creationid="pugnus" creationdate="20190503T065208Z">
+        <seg>ペット：三日月鮫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pet Pearlbird</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T065146Z" creationid="pugnus" creationdate="20190503T065146Z">
+        <seg>ペット：真珠鳥</seg>
       </tuv>
     </tu>
     <tu>
