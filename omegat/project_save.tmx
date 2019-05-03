@@ -19301,6 +19301,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concoction that increases your Impact Resistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074848Z" creationid="pugnus" creationdate="20190503T074848Z">
+        <seg>服薬した者の衝撃耐性を高める水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concoction that instantly cures infections, protects against the cold and restores burnt Stamina.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132829Z">
@@ -19311,8 +19319,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Concoction that provides relief from warm and cold temperatures.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T074430Z" creationid="pugnus" creationdate="20190503T074430Z">
-        <seg>暖気と寒気を和らげることができる水薬。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074718Z" creationid="pugnus" creationdate="20190503T074430Z">
+        <seg>暖気と寒気を和らげることができる水薬。あくまで気温のみに効力を発揮する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48191,8 +48199,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Legendary brew that temporarily grants immunity to Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T074308Z" creationid="pugnus" creationdate="20190503T074230Z">
-        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して、耐性を一時的に与える伝説の醸造。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074751Z" creationid="pugnus" creationdate="20190503T074230Z">
+        <seg>火、氷、稲妻、腐敗、そしてエーテルのダメージに対して、耐性を一時的に与える伝説の醸造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54491,6 +54499,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T111927Z">
         <seg>しかし、燃料なしには火が点かないことには注意しましょう。 そうすれば火が消えることはありません。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that it has no effect on Fire and Frost damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074649Z" creationid="pugnus" creationdate="20190503T074649Z">
+        <seg>それは炎と氷のダメージには影響を与えないことに注意するべきだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63229,8 +63245,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Powerful concoction that temporarily grants moderate resistance against Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T074020Z" creationid="pugnus" creationdate="20190503T074020Z">
-        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して中程度の耐性を一時的に与える強力な調合。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074746Z" creationid="pugnus" creationdate="20190503T074020Z">
+        <seg>火、氷、稲妻、腐敗、そしてエーテルのダメージに対して中程度の耐性を一時的に与える強力な調合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73438,6 +73454,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T100050Z" creationid="pugnus" creationdate="20190409T015935Z">
         <seg>全力疾走時のスタミナ消費を低減し、40%で済ませる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stability Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074807Z" creationid="pugnus" creationdate="20190503T074807Z">
+        <seg>体幹タモッツ</seg>
       </tuv>
     </tu>
     <tu>
