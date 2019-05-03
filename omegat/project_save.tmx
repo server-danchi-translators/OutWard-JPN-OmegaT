@@ -11439,6 +11439,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, how do you do it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041721Z" creationid="urakata" creationdate="20190503T041721Z">
+        <seg>それで、どういうタネなんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, you just come back when you have more of this stuff, it's real good!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T062058Z" creationid="Mad" creationdate="20190407T062058Z">
@@ -24831,6 +24839,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you wish to check for yourself?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041755Z" creationid="urakata" creationdate="20190503T041755Z">
+        <seg>中を確かめてみるか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you wish to proceed?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T081712Z" creationid="totochan" creationdate="20190402T193223Z">
@@ -26021,6 +26037,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041349Z" creationid="urakata" creationdate="20190503T041349Z">
         <seg>Ellat_HM_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041742Z" creationid="urakata" creationdate="20190503T041742Z">
+        <seg>Ellat_HM_prequest_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -27341,6 +27365,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T104028Z" creationid="pugnus" creationdate="20190404T092152Z">
         <seg>現在でも、私の視野は永遠に暗いままだ。そして、現在でも私の行為の影響はオーライにとって重要な歴史となっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even one good deed is worth more than a thousand words of worship.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041636Z" creationid="urakata" creationdate="20190503T041636Z">
+        <seg>一つの善行が崇拝を示す千の言葉に勝るのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35824,6 +35856,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Huh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041820Z" creationid="urakata" creationdate="20190503T041820Z">
+        <seg>ふっ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Human, you keep us waiting very long!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T090045Z" creationid="pugnus" creationdate="20190422T090045Z">
@@ -43243,6 +43283,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there a sorcerer hiding inside the altar?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041740Z" creationid="urakata" creationdate="20190503T041740Z">
+        <seg>祭壇に魔法使いが隠れてるとか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is there anything I need to do to make it happen?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014727Z">
@@ -44246,6 +44294,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190407T145724Z" creationid="taman" creationdate="20190407T145724Z">
         <seg>では最初の使命を与えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's totally solid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041833Z" creationid="urakata" creationdate="20190503T041833Z">
+        <seg>そんなややこしいことはせん。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55705,6 +55761,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only their dedication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041554Z" creationid="urakata" creationdate="20190503T041554Z">
+        <seg>求めるのは献身のみだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only then will you be ready for your first mission.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T071408Z" creationid="taman" creationdate="20190409T070923Z">
@@ -58441,10 +58505,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_a_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041756Z" creationid="urakata" creationdate="20190503T041756Z">
+        <seg>Player_Ellat_HM_prequest_a_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Ellat_HM_prequest_b_02</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041330Z" creationid="urakata" creationdate="20190503T041330Z">
         <seg>Player_Ellat_HM_prequest_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_c_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041636Z" creationid="urakata" creationdate="20190503T041636Z">
+        <seg>Player_Ellat_HM_prequest_c_02</seg>
       </tuv>
     </tu>
     <tu>
