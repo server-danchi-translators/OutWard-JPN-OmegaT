@@ -26189,6 +26189,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elemental Immunity Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074111Z" creationid="pugnus" creationdate="20190503T074111Z">
+        <seg>元素免疫薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elemental Resistance</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T063201Z" creationid="totochan" creationdate="20190403T140017Z">
@@ -48173,6 +48181,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legendary brew that temporarily grants immunity to Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074230Z" creationid="pugnus" creationdate="20190503T074230Z">
+        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して、耐性を一時的に与える伝説の調合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lemme feel for 'em...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T123142Z" creationid="taman" creationdate="20190421T123142Z">
@@ -63199,6 +63215,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132754Z" creationid="totochan" creationdate="20190402T194458Z">
         <seg>ポケットが一杯です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful concoction that temporarily grants moderate resistance against Fire, Frost, Lightning, Decay and Ethereal damage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T074020Z" creationid="pugnus" creationdate="20190503T074020Z">
+        <seg>火、霜、稲妻、腐敗、そしてエーテルのダメージに対して中程度の耐性を一時的に与える強力な調合。</seg>
       </tuv>
     </tu>
     <tu>
