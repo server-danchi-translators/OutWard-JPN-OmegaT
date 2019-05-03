@@ -24943,6 +24943,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doom</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021520Z" creationid="pugnus" creationdate="20190503T021520Z">
+        <seg>運命</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Doomed</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T023133Z" creationid="pugnus" creationdate="20190502T023133Z">
@@ -30273,6 +30281,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ghostly Sensitivity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021724Z" creationid="pugnus" creationdate="20190503T021724Z">
+        <seg>悪霊の感受性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giant Book</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115946Z" creationid="Gaiden Shinji" creationdate="20190404T115946Z">
@@ -31293,8 +31309,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Grants the Possessed boon, which increases your Decay Damage and Decay Resistance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T095820Z" creationid="pugnus" creationdate="20190406T032255Z">
-        <seg>Possessed boonを付与する。腐敗によるダメージと抵抗を増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021508Z" creationid="pugnus" creationdate="20190406T032255Z">
+        <seg>所有の恩恵を付与する。腐敗によるダメージと抵抗を増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41309,8 +41325,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Increases the Etheral, Lightning and Decay damage you deal by 10%.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190409T095848Z" creationid="rkmad" creationdate="20190404T062935Z">
-        <seg>あなたが与えるエーテル、稲妻、Decayのダメージが10％増加する。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021624Z" creationid="rkmad" creationdate="20190404T062935Z">
+        <seg>あなたが与えるエーテル、稲妻、腐敗のダメージが10％増加する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56393,6 +56409,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Painful Sacrifice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021805Z" creationid="pugnus" creationdate="20190503T021805Z">
+        <seg>痛みを伴う生贄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Palace</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T024234Z" creationid="pugnus" creationdate="20190502T024234Z">
@@ -67267,6 +67291,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sacrifice</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021748Z" creationid="pugnus" creationdate="20190503T021748Z">
+        <seg>犠牲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sacrifice some of your stamina on the altar.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T102411Z" creationid="Light" creationdate="20190409T102411Z">
@@ -71186,6 +71218,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T081958Z">
         <seg>クリスタルに閉じ込められた戦士たちの亡霊がスカージを何度も突き刺していました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spiritual Communion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T021601Z" creationid="pugnus" creationdate="20190503T021601Z">
+        <seg>霊との交感</seg>
       </tuv>
     </tu>
     <tu>
