@@ -21687,8 +21687,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Crafting: Scaled Satchel</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T144232Z" creationid="Light" creationdate="20190406T141345Z">
-        <seg>クラフト:Scaled Satchel</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055546Z" creationid="Light" creationdate="20190406T141345Z">
+        <seg>作成：鱗のカバン</seg>
       </tuv>
     </tu>
     <tu>
@@ -69130,6 +69130,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Salt</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055304Z" creationid="pugnus" creationdate="20190503T055304Z">
+        <seg>塩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Salt Crystal</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130739Z" creationid="Gaiden Shinji" creationdate="20190403T114325Z">
@@ -71126,6 +71134,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T140231Z" creationid="weedssoul" creationdate="20190406T140231Z">
         <seg>マナの回復効果のあるきらめく魚。しかし生で食べると病気になる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shimmering gem that glimmers with shining power.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055418Z" creationid="pugnus" creationdate="20190503T055418Z">
+        <seg>輝く力できらめき輝く宝石。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -82924,6 +82941,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tsar Stone</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055336Z" creationid="pugnus" creationdate="20190503T055336Z">
+        <seg>ツァーリの宝玉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tsar Sword</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032745Z" creationid="pugnus" creationdate="20190423T032745Z">
@@ -88095,6 +88120,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T053820Z" creationid="Light" creationdate="20190408T053712Z">
         <seg>種から生まれた不思議なテント。熱から身を守り、渇きと空腹を満たす。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wood</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T055326Z" creationid="pugnus" creationdate="20190503T055326Z">
+        <seg>木材</seg>
       </tuv>
     </tu>
     <tu>
