@@ -39364,6 +39364,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I made the trip to the Conflux Mountain and opened myself to Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120422Z" creationid="urakata" creationdate="20190503T120422Z">
+        <seg>コンフラックス山に行って、マナに触れられるようになったの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I make arrangements for the talk.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T085357Z" creationid="pugnus" creationdate="20190422T085357Z">
@@ -52594,6 +52602,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mofat_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120309Z" creationid="urakata" creationdate="20190503T120309Z">
+        <seg>Mofat_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Molten Forge Golem</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T110736Z" creationid="Gaiden Shinji" creationdate="20190403T110736Z">
@@ -56502,6 +56518,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, I didn’t tell you, did I?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120341Z" creationid="urakata" creationdate="20190503T120341Z">
+        <seg>あっ、言ってなかったっけ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, a visitor!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075748Z" creationid="urakata" creationdate="20190502T075736Z">
@@ -57338,6 +57362,38 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T093156Z" creationid="seto" creationdate="20190412T093156Z">
         <seg>Oliele_HM_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120258Z" creationid="urakata" creationdate="20190503T120258Z">
+        <seg>Oliele_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120305Z" creationid="urakata" creationdate="20190503T120305Z">
+        <seg>Oliele_HM_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120306Z" creationid="urakata" creationdate="20190503T120306Z">
+        <seg>Oliele_HM_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oliele_HM_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T120307Z" creationid="urakata" creationdate="20190503T120307Z">
+        <seg>Oliele_HM_prequest_09</seg>
       </tuv>
     </tu>
     <tu>
