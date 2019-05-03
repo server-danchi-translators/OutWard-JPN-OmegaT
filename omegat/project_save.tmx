@@ -13346,6 +13346,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Astral Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062039Z" creationid="pugnus" creationdate="20190503T062039Z">
+        <seg>星の水薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At attention Zephyrien, we have a guest!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T081531Z" creationid="rkmad" creationdate="20190408T081531Z">
@@ -16008,6 +16016,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T141956Z">
         <seg>ほとんどの毒を中和する。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Brew that restores a moderate amount of health, stamina and mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062150Z" creationid="pugnus" creationdate="20190503T062150Z">
+        <seg>適度な量の体力、スタミナ、マナを回復させる醸造
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -19248,6 +19265,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132542Z">
         <seg>風邪を治しマナの最大値を回復させる。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Concoction that helps with the heat and indigestion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061933Z" creationid="pugnus" creationdate="20190503T061933Z">
+        <seg>暑さと消化不良に役立つ調合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26800,6 +26825,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091703Z" creationid="hiru4" creationdate="20190403T065148Z">
         <seg>分割画面終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Endurance Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062049Z" creationid="pugnus" creationdate="20190503T062049Z">
+        <seg>持久力の水薬</seg>
       </tuv>
     </tu>
     <tu>
@@ -44418,6 +44451,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also restores burnt Stamina.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062007Z" creationid="pugnus" creationdate="20190503T062007Z">
+        <seg>また、スタミナも回復する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It also restores maximum health, which is lowered by taking damage, and maximum stamina, which is lowered by performing strenuous actions.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T090520Z" creationid="setom" creationdate="20190402T090520Z">
@@ -48284,6 +48325,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Life Potion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062033Z" creationid="pugnus" creationdate="20190503T062033Z">
+        <seg>生命の水薬</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Life's already beaten me with the damn stick, why should I care about the stupid carrot?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072637Z" creationid="urakata" creationdate="20190430T065750Z">
@@ -51605,6 +51654,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mineral Tea</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T062023Z" creationid="pugnus" creationdate="20190503T062023Z">
+        <seg>鉱石茶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mineral component used by the blacksmiths of Berg to craft an unusual set of armor.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T054944Z" creationid="pugnus" creationdate="20190503T054919Z">
@@ -52786,6 +52843,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T025330Z" creationid="pugnus" creationdate="20190415T101535Z">
         <seg>要求：鮫の軟骨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needle Tea</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061917Z" creationid="pugnus" creationdate="20190503T061917Z">
+        <seg>はりはり茶</seg>
       </tuv>
     </tu>
     <tu>
@@ -72730,6 +72795,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T160039Z" creationid="taman" creationdate="20190411T155647Z">
         <seg>そうですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soothing Tea</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T061907Z" creationid="pugnus" creationdate="20190503T061907Z">
+        <seg>ほっこり茶</seg>
       </tuv>
     </tu>
     <tu>
