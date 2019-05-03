@@ -63276,6 +63276,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powerful concoction that temporarily increases the Physical Damage and Impact your attacks deal dealt and grants the Discipline boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075434Z" creationid="pugnus" creationdate="20190503T075434Z">
+        <seg>一時的に攻撃による物理的攻撃力と衝撃力を増加させ、規律の恩恵を与える強力な水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Powerful concoction that temporarily increases your Impact Resistance and the Physical Damage your attacks deal and grants the Rage boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075243Z" creationid="pugnus" creationdate="20190503T075243Z">
+        <seg>一時的に衝撃耐性と物理的攻撃力を増加させ、猛威の恩恵を与える強力な水薬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerful concoction that temporarily increases your movement speed, stealth and coats your equipped melee weapon with poison.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T075004Z" creationid="pugnus" creationdate="20190503T075004Z">
@@ -84963,6 +84979,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T033511Z" creationid="seto" creationdate="20190406T033511Z">
         <seg>Warp_Monsoon_Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warrior Elixir</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T075304Z" creationid="pugnus" creationdate="20190503T075304Z">
+        <seg>戦士の万能薬</seg>
       </tuv>
     </tu>
     <tu>
