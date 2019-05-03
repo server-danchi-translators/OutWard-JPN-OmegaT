@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(A voice speaks in your head.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041052Z" creationid="urakata" creationdate="20190503T041052Z">
+        <seg>(頭の中で声が響く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Agony rips through you as the Ghosts greedily feed on your very essence!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T165404Z" creationid="taman" creationdate="20190430T165404Z">
@@ -99,6 +107,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T022403Z" creationid="taman" creationdate="20190410T034947Z">
         <seg>(アブラシダの香りを吸い込むと、祭壇に秘められた先人の記憶と共に陰惨な光景が頭に入り込んでくる)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Ask for guidance.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041007Z" creationid="urakata" creationdate="20190503T041007Z">
+        <seg>(導きを求める。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,6 +240,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Offer a prayer to Elatt.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T040956Z" creationid="urakata" creationdate="20190503T040956Z">
+        <seg>(エラットに祈りをささげる。)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>31,32の流れはゲーム内で念のため確認しておいたほうがよい。
 実際に動きを伴っているなら矛盾しないように翻訳したい。</note>
       <tuv lang="EN-US">
@@ -231,6 +255,14 @@
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T171105Z" creationid="taman" creationdate="20190430T170341Z">
         <seg>(赤く染まったオリエルの両目からは闇がこぼれ落ち、両腕は真っ赤に腫れ上がりヒクヒクとうごめいている。彼女の血管が緑色に発光するのが見えた……)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Pray to catch Elatt’s attention.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T040938Z" creationid="urakata" creationdate="20190503T040938Z">
+        <seg>(エラットに呼びかけるために祈っている。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25593,6 +25625,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elatt, I want to join the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041038Z" creationid="urakata" creationdate="20190503T041038Z">
+        <seg>エラットよ、私は神聖伝道団に参加したいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elatt, being a master of Magic, sacrificed his very humanity and became Living Thought, guiding us to the uneasy stalemate we’ve known for most of this century.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T131924Z" creationid="weedssoul" creationdate="20190406T132038Z">
@@ -25917,6 +25957,54 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T124945Z" creationid="pugnus" creationdate="20190423T124449Z">
         <seg>精鋭の板金兜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041038Z" creationid="urakata" creationdate="20190503T041038Z">
+        <seg>Ellat_HM_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_01_a</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T040903Z" creationid="urakata" creationdate="20190503T040903Z">
+        <seg>Ellat_HM_prequest_01_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_01_b</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T040939Z" creationid="urakata" creationdate="20190503T040939Z">
+        <seg>Ellat_HM_prequest_01_b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_01_c</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T040956Z" creationid="urakata" creationdate="20190503T040956Z">
+        <seg>Ellat_HM_prequest_01_c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_01_d</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041007Z" creationid="urakata" creationdate="20190503T041007Z">
+        <seg>Ellat_HM_prequest_01_d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041145Z" creationid="urakata" creationdate="20190503T041145Z">
+        <seg>Ellat_HM_prequest_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -35864,6 +35952,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am Elatt, god of discipline.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041228Z" creationid="urakata" creationdate="20190503T041228Z">
+        <seg>われはエラット、規律の神だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am Highlord Cyr, the leader of this village.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T083059Z" creationid="pugnus" creationdate="20190422T081646Z">
@@ -44594,6 +44690,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s gruff, but kind.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041144Z" creationid="urakata" creationdate="20190503T041144Z">
+        <seg>しゃがれているが優しい声だ。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s hard to believe you’re negotiating in good faith, Lady Aberdeen.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T004215Z" creationid="pugnus" creationdate="20190502T004215Z">
@@ -45209,6 +45313,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T061653Z" creationid="taman" creationdate="20190501T061653Z">
         <seg>両手を祭壇に重ねて意識を集中させてほしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m hearing voices in my head!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041239Z" creationid="urakata" creationdate="20190503T041239Z">
+        <seg>頭の中で声がする!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58261,6 +58373,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T092949Z" creationid="seto" creationdate="20190418T092949Z">
         <seg>Player_Elinara_HM_Questions_c_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041228Z" creationid="urakata" creationdate="20190503T041228Z">
+        <seg>Player_Ellat_HM_prequest_a_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -83924,6 +84044,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T071818Z" creationid="urakata" creationdate="20190502T071818Z">
         <seg>歓迎するよ、[PlayerName]・アバディーン。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041154Z" creationid="urakata" creationdate="20190503T041154Z">
+        <seg>よく来た[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
