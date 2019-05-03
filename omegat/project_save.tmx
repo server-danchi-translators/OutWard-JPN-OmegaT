@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27722,6 +27722,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if you managed to resolve things with Lockwell, I wouldn't trust the man's word at this point.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T051505Z" creationid="taman" creationdate="20190503T051505Z">
+        <seg>たとえこの問題がロックウェルと無事に解決したといっても、今の状態ではあの男の言葉を信じることなんてできない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even in peaceful times, the Giants would be an incredible boon to the collective.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T062326Z" creationid="pugnus" creationdate="20190418T062326Z">
@@ -45847,6 +45855,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll let you know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T051729Z" creationid="taman" creationdate="20190503T051729Z">
+        <seg>また進展があれば知らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll miss it too.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T105842Z" creationid="Mad" creationdate="20190406T105731Z">
@@ -53925,6 +53941,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100429Z" creationid="はぐくみ会" creationdate="20190403T112648Z">
         <seg>私が気を失っている間、傷つけられた様子はない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nothing yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T051934Z" creationid="taman" creationdate="20190503T051544Z">
+        <seg>残念ですがまだ何も。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70678,6 +70702,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She's running away to Abrassar for a while.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T050700Z" creationid="taman" creationdate="20190503T050700Z">
+        <seg>しばらくアブラサールに身を隠すようです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sheathe</seg>
       </tuv>
       <tuv lang="JA" changeid="Horizon" changedate="20190403T145826Z" creationid="Horizon" creationdate="20190403T145826Z">
@@ -77516,6 +77548,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you for looking out for her.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T051532Z" creationid="taman" creationdate="20190503T051532Z">
+        <seg>オリエルを探し出してくれてありがとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thank you for saving me, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T023754Z">
@@ -77785,6 +77825,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T045522Z" creationid="magur0w" creationdate="20190404T184313Z">
         <seg>あなたが考えている以上に、あの人は私たちにとって、非常に貴重で、価値があった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That may be for the best.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T050721Z" creationid="taman" creationdate="20190503T050721Z">
+        <seg>それが最善の選択かもしれないわ。</seg>
       </tuv>
     </tu>
     <tu>
