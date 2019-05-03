@@ -29343,6 +29343,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fireflies trapped in the glass, and not oil, makes this lantern glow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082312Z" creationid="pugnus" creationdate="20190503T082312Z">
+        <seg>油ではなく閉じ込められたホタルがこのランタンを輝かせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firefly Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082326Z" creationid="pugnus" creationdate="20190503T082326Z">
+        <seg>ホタルのランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Firefly Powder</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114003Z" creationid="Gaiden Shinji" creationdate="20190403T114003Z">
@@ -44781,6 +44797,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It burns out quickly, but warms up the wielder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082529Z" creationid="pugnus" creationdate="20190503T082529Z">
+        <seg>それはすぐに燃え尽きるが、燃えている間は持つ者を温めてくれる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It came at grave cost.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T154100Z" creationid="taman" creationdate="20190411T154100Z">
@@ -49458,8 +49482,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Makeshift Torch</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134741Z" creationid="weedssoul" creationdate="20190406T134741Z">
-        <seg>即席のトーチ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082353Z" creationid="weedssoul" creationdate="20190406T134741Z">
+        <seg>間に合わせのたいまつ</seg>
       </tuv>
     </tu>
     <tu>
@@ -64369,8 +64393,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Quasi-eternal lamp that shines with glowstone instead of burning oil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T081937Z" creationid="pugnus" creationdate="20190503T081937Z">
-        <seg>油を燃やす代わりにグロウストーンで輝く半永久的に使用できるランタン。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082234Z" creationid="pugnus" creationdate="20190503T081937Z">
+        <seg>油を燃やす代わりに輝石を使い、半永久的に使用できるランタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83339,8 +83363,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Torch that shines weakly, held in the off hand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T134843Z" creationid="weedssoul" creationdate="20190406T134821Z">
-        <seg>弱々しく光るトーチ。左手に持つ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T082401Z" creationid="weedssoul" creationdate="20190406T134821Z">
+        <seg>弱々しく光るたいまつ。左手に持つ。</seg>
       </tuv>
     </tu>
     <tu>
