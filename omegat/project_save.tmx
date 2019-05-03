@@ -10849,8 +10849,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Cold Stone</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T102249Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:コールドストーン</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025301Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：コールドストーン</seg>
       </tuv>
     </tu>
     <tu>
@@ -10865,8 +10865,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alchemy: Crystal Powder</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T102326Z" creationid="Light" creationdate="20190406T144535Z">
-        <seg>錬金術:クリスタルパウダー</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025257Z" creationid="Light" creationdate="20190406T144535Z">
+        <seg>錬金術：クリスタルパウダー</seg>
       </tuv>
     </tu>
     <tu>
@@ -51321,32 +51321,32 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Need: Beast Golem Scraps</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125847Z" creationid="pugnus" creationdate="20190415T101629Z">
-        <seg>要求:ビーストゴーレムのスクラップ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025323Z" creationid="pugnus" creationdate="20190415T101629Z">
+        <seg>要求：ビーストゴーレムのスクラップ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Cierzo Ceviche</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125835Z" creationid="pugnus" creationdate="20190415T101651Z">
-        <seg>要求:シエルゾセビチェ</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025319Z" creationid="pugnus" creationdate="20190415T101651Z">
+        <seg>要求：シエルゾセビチェ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Manticore Tail</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125851Z" creationid="pugnus" creationdate="20190415T101552Z">
-        <seg>要求:マンティコアの尾</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025327Z" creationid="pugnus" creationdate="20190415T101552Z">
+        <seg>要求：マンティコアの尾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Need: Shark Cartilage</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T125822Z" creationid="pugnus" creationdate="20190415T101535Z">
-        <seg>要求:鮫の軟骨</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T025330Z" creationid="pugnus" creationdate="20190415T101535Z">
+        <seg>要求：鮫の軟骨</seg>
       </tuv>
     </tu>
     <tu>
