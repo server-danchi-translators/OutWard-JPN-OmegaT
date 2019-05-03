@@ -9653,6 +9653,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A trick so impressive I lost my physical form, becoming Living Thought.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042039Z" creationid="urakata" creationdate="20190503T041928Z">
+        <seg>体を失っても、生ける思考として存在し続けるという、出来のいい仕掛けさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T123432Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -26049,6 +26057,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041931Z" creationid="urakata" creationdate="20190503T041907Z">
+        <seg>Ellat_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_09</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012606Z" creationid="seto" creationdate="20190413T012606Z">
@@ -35858,8 +35874,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Huh...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T041820Z" creationid="urakata" creationdate="20190503T041820Z">
-        <seg>ふっ...</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041851Z" creationid="urakata" creationdate="20190503T041820Z">
+        <seg>へえ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36141,6 +36157,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="JA" changeid="pugnus" changedate="20190502T002213Z" creationid="pugnus" creationdate="20190502T002213Z">
         <seg>私は、平和を拒否する少数派を罰することを保証するわ。罰する際に、条約に違反する行為が必要だったとしても。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I assure you, I am the genuine article.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042230Z" creationid="urakata" creationdate="20190503T042230Z">
+        <seg>信用してもらいたい、正真正銘の本物だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40522,6 +40546,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this is a trick, it's very impressive.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041927Z" creationid="urakata" creationdate="20190503T041853Z">
+        <seg>仕掛けが有るんなら、すごく出来が良いですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this sounds too nasty for you, try getting there from the Chersonese.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="Light" creationdate="20190408T063253Z">
@@ -44300,8 +44332,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It's totally solid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T041833Z" creationid="urakata" creationdate="20190503T041833Z">
-        <seg>そんなややこしいことはせん。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041905Z" creationid="urakata" creationdate="20190503T041833Z">
+        <seg>真に迫ってますね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93798,6 +93830,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T123238Z" creationid="urakata" creationdate="20190501T123238Z">
         <seg>さあ行け。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_neutral.xml</prop>
+      <prop type="id">636_0</prop>
+      <tuv lang="EN-US">
+        <seg>Indeed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041946Z" creationid="urakata" creationdate="20190503T041946Z">
+        <seg>違いない。</seg>
       </tuv>
     </tu>
     <tu>
