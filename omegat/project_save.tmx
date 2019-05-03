@@ -30002,8 +30002,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Foul liquid that should be avoided at all costs, since it is almost certain to cause Indigestion.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190403T080422Z" creationid="rkmad" creationdate="20190403T080258Z">
-        <seg>あなたこんな汚い水を口にすれば、間違いなく病気にかかるだろう。絶対に飲んではならない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T092759Z" creationid="rkmad" creationdate="20190403T080258Z">
+        <seg>汚水。汚れた水。こんな汚い水を口にすれば、間違いなく病気にかかるだろう。絶対に飲んではならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34648,6 +34648,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012119Z" creationid="seto" creationdate="20190413T012119Z">
         <seg>待ってくれよ…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hangman's Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T092913Z" creationid="pugnus" creationdate="20190503T092852Z">
+        <seg>ハングマンの鍵</seg>
       </tuv>
     </tu>
     <tu>
@@ -56690,6 +56698,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T091513Z" creationid="magur0w" creationdate="20190404T115004Z">
         <seg>旧レバント人はスカージの前にアブラサールに住んでいた部族の名残だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Levant's Key</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T092927Z" creationid="pugnus" creationdate="20190503T092927Z">
+        <seg>旧レバント人の鍵</seg>
       </tuv>
     </tu>
     <tu>
