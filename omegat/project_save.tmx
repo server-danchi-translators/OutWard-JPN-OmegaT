@@ -26009,6 +26009,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041240Z" creationid="urakata" creationdate="20190503T041240Z">
+        <seg>Ellat_HM_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041349Z" creationid="urakata" creationdate="20190503T041349Z">
+        <seg>Ellat_HM_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ellat_HM_prequest_09</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012606Z" creationid="seto" creationdate="20190413T012606Z">
@@ -35600,6 +35616,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How else did you think I'd speak with you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041329Z" creationid="urakata" creationdate="20190503T041329Z">
+        <seg>他にどうやって話すと思っていたのだ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How hard can it be to use?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063445Z" creationid="urakata" creationdate="20190430T063445Z">
@@ -35954,8 +35978,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I am Elatt, god of discipline.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190503T041228Z" creationid="urakata" creationdate="20190503T041228Z">
-        <seg>われはエラット、規律の神だ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041528Z" creationid="urakata" creationdate="20190503T041228Z">
+        <seg>私はエラット、規律の神だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35972,6 +35996,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T132359Z" creationid="urakata" creationdate="20190430T132359Z">
         <seg>私はJarinda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am Living Thought.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041308Z" creationid="urakata" creationdate="20190503T041308Z">
+        <seg>私はいわば生ける思考だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36461,6 +36493,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T085732Z" creationid="pugnus" creationdate="20190417T085732Z">
         <seg>私はこの会議に期待していない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I do not require reverence from my followers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041542Z" creationid="urakata" creationdate="20190503T041509Z">
+        <seg>私は信者に崇拝を求めない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44058,6 +44098,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's an honor to hear your voice!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041349Z" creationid="urakata" creationdate="20190503T041349Z">
+        <seg>あなたの声を聴けて光栄です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's awfully convenient for him that we have to depend on him to hold off the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T231628Z" creationid="urakata" creationdate="20190502T231628Z">
@@ -51122,6 +51170,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T035602Z" creationid="pugnus" creationdate="20190422T035602Z">
         <seg>私の小さな友達よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My lord!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041338Z" creationid="urakata" creationdate="20190503T041338Z">
+        <seg>わが主よ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58381,6 +58437,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041228Z" creationid="urakata" creationdate="20190503T041228Z">
         <seg>Player_Ellat_HM_prequest_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041330Z" creationid="urakata" creationdate="20190503T041330Z">
+        <seg>Player_Ellat_HM_prequest_b_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -78696,6 +78760,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There is no need for you to speak to me like that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041410Z" creationid="urakata" creationdate="20190503T041410Z">
+        <seg>そんな仰々しい話し方をする必要はないぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is no shame in taking time to set up camp when you are exhausted.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T061919Z">
@@ -84340,6 +84412,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T071636Z" creationid="urakata" creationdate="20190502T071636Z">
         <seg>さて、さて、さて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, yes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T041248Z" creationid="urakata" creationdate="20190503T041248Z">
+        <seg>ああ、そうだろう。</seg>
       </tuv>
     </tu>
     <tu>
