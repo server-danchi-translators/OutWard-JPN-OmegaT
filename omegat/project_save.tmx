@@ -10943,6 +10943,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alchemy Kit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081653Z" creationid="pugnus" creationdate="20190503T081653Z">
+        <seg>錬金術キット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alchemy is used to create consumable items with very potent properties, such as potions that heal instantly.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T071219Z" creationid="hiru4" creationdate="20190403T013035Z">
@@ -20726,6 +20734,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cooking Pot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081640Z" creationid="pugnus" creationdate="20190503T081640Z">
+        <seg>料理鍋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cooking with a single ingredient only requires a lit campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190402T083035Z">
@@ -28426,6 +28442,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063309Z" creationid="hiru4" creationdate="20190403T063309Z">
         <seg>スタックを調べる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explorer Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081814Z" creationid="pugnus" creationdate="20190503T081814Z">
+        <seg>冒険者のランタン</seg>
       </tuv>
     </tu>
     <tu>
@@ -56300,6 +56324,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Old Lantern</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081821Z" creationid="pugnus" creationdate="20190503T081821Z">
+        <seg>古いランタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Legion Gladius</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T032229Z" creationid="pugnus" creationdate="20190423T032229Z">
@@ -63607,6 +63639,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pressure Plate Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081741Z" creationid="pugnus" creationdate="20190503T081730Z">
+        <seg>圧力版式罠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pretty solid work, for both of you.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T050534Z" creationid="urakata" creationdate="20190501T050534Z">
@@ -64315,6 +64355,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T090729Z" creationid="pugnus" creationdate="20190423T090729Z">
         <seg>六尺棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quasi-eternal lamp that shines with glowstone instead of burning oil.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081937Z" creationid="pugnus" creationdate="20190503T081937Z">
+        <seg>油を燃やす代わりにグロウストーンで輝く半永久的に使用できるランタン。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83558,6 +83606,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T015035Z" creationid="pugnus" creationdate="20190422T015035Z">
         <seg>我々との連絡をかろうじて保っていた部族からの救援要請が届いています。そして、彼らはレバントとの戦いを望んでいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tripwire Trap</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081707Z" creationid="pugnus" creationdate="20190503T081707Z">
+        <seg>トリップワイヤートラップ</seg>
       </tuv>
     </tu>
     <tu>
