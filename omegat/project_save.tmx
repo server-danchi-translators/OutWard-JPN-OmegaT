@@ -74496,6 +74496,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Survivor's Resilience</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020503Z" creationid="pugnus" creationdate="20190503T020503Z">
+        <seg>生存者の回復力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sutherland Family Altar</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T020922Z" creationid="pugnus" creationdate="20190423T020922Z">
@@ -74508,6 +74516,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T014642Z" creationid="pugnus" creationdate="20190502T014642Z">
         <seg>掃き蹴り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Swift Foot</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020558Z" creationid="pugnus" creationdate="20190503T020558Z">
+        <seg>俊敏</seg>
       </tuv>
     </tu>
     <tu>
@@ -83668,6 +83684,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T051426Z" creationid="Mad" creationdate="20190407T051426Z">
         <seg>ん？ ここに何か用事があってやってきたのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well of Mana</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T020526Z" creationid="pugnus" creationdate="20190503T020526Z">
+        <seg>マナの井戸</seg>
       </tuv>
     </tu>
     <tu>
