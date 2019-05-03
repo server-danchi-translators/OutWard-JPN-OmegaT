@@ -29035,6 +29035,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Firefly powder</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T054521Z" creationid="pugnus" creationdate="20190503T054521Z">
+        <seg>ホタルパウダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First Clue: Find a boat’s cabin, buried in the sand.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T121558Z" creationid="urakata" creationdate="20190406T121558Z">
@@ -82720,6 +82728,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trophy-laden bag of the great hunter Zhorn, who used it to trek across vast distances.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T054812Z" creationid="pugnus" creationdate="20190503T054812Z">
+        <seg>長距離のトレッキングに使用した、空前絶後の偉大な伝説の狩猟家ソールンのトロフィーが満載されているバックパック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trust me, [PlayerName], I wouldn’t be doing this to you otherwise.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T083637Z">
@@ -92484,6 +92500,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T052516Z" creationid="pugnus" creationdate="20190503T052516Z">
         <seg>ソールンのグロウストーンダガー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zhorn’s Hunting Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T054605Z" creationid="pugnus" creationdate="20190503T054605Z">
+        <seg>ソールンの狩猟用背嚢</seg>
       </tuv>
     </tu>
     <tu>
