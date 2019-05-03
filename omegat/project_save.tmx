@@ -135,6 +135,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As you reach out to Elatt, you see flashes of every region, as Elatt watches over Aurai.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052358Z" creationid="urakata" creationdate="20190503T052219Z">
+        <seg>(エラットに近づこうとすると、エラットがオーライを見守るように、すべての地の光景が瞬いた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As you reach out to Elatt, you see the Blue Chamber in Berg, with diplomats starting to gather for a meeting...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T051736Z" creationid="urakata" creationdate="20190503T051736Z">
@@ -26470,6 +26478,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T052045Z" creationid="urakata" creationdate="20190503T052045Z">
         <seg>Ellat_HM_prequest_25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052221Z" creationid="urakata" creationdate="20190503T052221Z">
+        <seg>Ellat_HM_prequest_26</seg>
       </tuv>
     </tu>
     <tu>
@@ -90026,10 +90042,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You sense... burning righteous fury.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052216Z" creationid="urakata" creationdate="20190503T052216Z">
+        <seg>燃えるような義憤を感じた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You sense... equal parts curiosity and concern.)</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T052054Z" creationid="urakata" creationdate="20190503T052044Z">
         <seg>好奇心と懸念を半々に感じた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You sense... satisfaction.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T052416Z" creationid="urakata" creationdate="20190503T052416Z">
+        <seg>満足を感じた。)</seg>
       </tuv>
     </tu>
     <tu>
