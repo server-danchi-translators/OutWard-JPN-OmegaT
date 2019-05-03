@@ -51400,6 +51400,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mineral component used by the blacksmiths of Berg to craft an unusual set of armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T054944Z" creationid="pugnus" creationdate="20190503T054919Z">
+        <seg>バーグの鍛冶屋が珍しい装甲を作るために使用する鉱石化した樹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mineral ores require a mining pick and fishing spots need a fishing harpoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T114002Z">
@@ -58334,8 +58342,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Petrified Wood</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114343Z" creationid="Gaiden Shinji" creationdate="20190403T114336Z">
-        <seg>化石の木</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T054840Z" creationid="Gaiden Shinji" creationdate="20190403T114336Z">
+        <seg>化石樹</seg>
       </tuv>
     </tu>
     <tu>
