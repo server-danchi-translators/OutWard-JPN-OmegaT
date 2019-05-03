@@ -24831,6 +24831,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you think I have a place the Holy Mission?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042711Z" creationid="urakata" creationdate="20190503T042711Z">
+        <seg>私は神聖伝道団に参加できるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to continue?</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T064232Z" creationid="hiru4" creationdate="20190403T064118Z">
@@ -26061,6 +26069,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041931Z" creationid="urakata" creationdate="20190503T041907Z">
         <seg>Ellat_HM_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042359Z" creationid="urakata" creationdate="20190503T042359Z">
+        <seg>Ellat_HM_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ellat_HM_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042712Z" creationid="urakata" creationdate="20190503T042712Z">
+        <seg>Ellat_HM_prequest_08</seg>
       </tuv>
     </tu>
     <tu>
@@ -33715,6 +33739,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He disappoints me, but he is free to come to his own conclusions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042440Z" creationid="urakata" creationdate="20190503T042440Z">
+        <seg>残念ではあるが、どんな結論を出すのも彼の勝手だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He doesn't give Cierzo a backwards glance.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T130001Z" creationid="Light" creationdate="20190407T130001Z">
@@ -36068,6 +36100,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025109Z" creationid="seto" creationdate="20190407T025109Z">
         <seg>私はLey Lineの監視人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am aware.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042415Z" creationid="urakata" creationdate="20190503T042415Z">
+        <seg>そうだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38510,6 +38550,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T143030Z" creationid="Mad" creationdate="20190407T143030Z">
         <seg>わかりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I sense a certain potential in you...If you wish, I will accept you into my Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042916Z" creationid="urakata" creationdate="20190503T042916Z">
+        <seg>見込みはありそうだ...望むのなら神聖伝道団に迎え入れよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52767,6 +52815,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No tricks here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042241Z" creationid="urakata" creationdate="20190503T042241Z">
+        <seg>タネも仕掛けもなし。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No way.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T065332Z" creationid="taman" creationdate="20190501T065332Z">
@@ -55809,6 +55865,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only he has the power to change his views of me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042637Z" creationid="urakata" creationdate="20190503T042601Z">
+        <seg>彼だけが、彼の中の私の姿を変容させるに足る力を持っていたのに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only their dedication.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041554Z" creationid="urakata" creationdate="20190503T041554Z">
@@ -58553,6 +58617,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042243Z" creationid="urakata" creationdate="20190503T042243Z">
+        <seg>Player_Ellat_HM_prequest_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Ellat_HM_prequest_a_05</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041756Z" creationid="urakata" creationdate="20190503T041756Z">
@@ -58565,6 +58637,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041330Z" creationid="urakata" creationdate="20190503T041330Z">
         <seg>Player_Ellat_HM_prequest_b_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Ellat_HM_prequest_b_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042603Z" creationid="urakata" creationdate="20190503T042603Z">
+        <seg>Player_Ellat_HM_prequest_b_03</seg>
       </tuv>
     </tu>
     <tu>
@@ -88867,6 +88947,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T165005Z">
         <seg>今すぐ行くべきです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should know, Damian Lockwell is paranoid about you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190503T042358Z" creationid="urakata" creationdate="20190503T042358Z">
+        <seg>ご存知でしょうけど、ダミアン・ロックウェルはあなたにだいぶ恨みがあるようです。</seg>
       </tuv>
     </tu>
     <tu>
