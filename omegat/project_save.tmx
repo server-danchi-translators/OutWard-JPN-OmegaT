@@ -11391,6 +11391,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alpha Tuanosaur Tail</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T050215Z" creationid="pugnus" creationdate="20190503T050215Z">
+        <seg>アルファ・トゥアノサウルスの尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Already better!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133246Z" creationid="taman" creationdate="20190421T124704Z">
@@ -18423,6 +18431,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T103043Z" creationid="pugnus" creationdate="20190502T103043Z">
         <seg>生命の輪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Circular tail bone of an apex predator, used to craft powerful axes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T050236Z" creationid="pugnus" creationdate="20190503T050236Z">
+        <seg>強力な戦斧を作るために使用される、頂点の捕食者の円形の尾骨。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -54738,6 +54755,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Obsidian Shard</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T050327Z" creationid="pugnus" creationdate="20190503T050327Z">
+        <seg>黒曜石の破片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Obtain Firefly Powder from the source.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T094955Z" creationid="pugnus" creationdate="20190502T094955Z">
@@ -82875,6 +82900,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T014459Z" creationid="urakata" creationdate="20190408T125955Z">
         <seg>ベンダバールの将軍たちがこれからシエルゾに攻撃を仕掛ける…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Venomous tongue of a giant insect, used to craft swords.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T050056Z" creationid="pugnus" creationdate="20190503T050056Z">
+        <seg>刀を作るために使用される巨大な昆虫の毒舌。</seg>
       </tuv>
     </tu>
     <tu>
