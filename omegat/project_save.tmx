@@ -10694,6 +10694,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventurer Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085700Z" creationid="pugnus" creationdate="20190503T085700Z">
+        <seg>冒険者のバックパック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adventurer Boots</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T100400Z" creationid="pugnus" creationdate="20190423T100400Z">
@@ -12828,6 +12836,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T120120Z" creationid="setom" creationdate="20190401T120120Z">
         <seg>鎧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Arrow</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085634Z" creationid="pugnus" creationdate="20190503T085634Z">
+        <seg>矢</seg>
       </tuv>
     </tu>
     <tu>
@@ -50809,6 +50825,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mefino’s Trade Backpack</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085847Z" creationid="pugnus" creationdate="20190503T085847Z">
+        <seg>メフィノの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Melee weapons can make normal attacks and special attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113952Z">
@@ -53350,6 +53374,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T061917Z" creationid="pugnus" creationdate="20190503T061917Z">
         <seg>はりはり茶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Needlessly ornate bag with an enormous carrying capacity, once used by the spice merchant Mefino.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T085830Z" creationid="pugnus" creationdate="20190503T085830Z">
+        <seg>かつてスパイス商人メフィノによって使用されていた、膨大な収容力を持つ不必要に華やかなバッグ。</seg>
       </tuv>
     </tu>
     <tu>
