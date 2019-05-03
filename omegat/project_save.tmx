@@ -17134,6 +17134,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Campfire</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081359Z" creationid="pugnus" creationdate="20190503T081359Z">
+        <seg>キャンプファイヤー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Campfire Kit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081420Z" creationid="pugnus" creationdate="20190503T081420Z">
+        <seg>キャンプファイヤーキット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Campfires are used to cook, disinfect water, brew potions and to keep warm.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T142701Z">
@@ -59292,6 +59308,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Plant Tent</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081348Z" creationid="pugnus" creationdate="20190503T081348Z">
+        <seg>草花のテント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Plant_Cactus</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T130523Z" creationid="setom" creationdate="20190403T130523Z">
@@ -64275,6 +64299,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110658Z" creationid="seto" creationdate="20190409T110658Z">
         <seg>QName_Neut_Vendavel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quality tent that, when slept in, helps the efficiency of one’s spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190503T081337Z" creationid="pugnus" creationdate="20190503T081337Z">
+        <seg>良品質テントは、眠っているときに自分の呪文の効率を高めるのに役立つ。</seg>
       </tuv>
     </tu>
     <tu>
