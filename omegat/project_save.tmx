@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36979,8 +36979,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I don’t want to believe Sirocco would stoop so low, but I don’t see anyone else with motive to attack the Holy Mission.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T170627Z" creationid="taman" creationdate="20190502T170627Z">
-        <seg>シロッコ族がそこまで地に落ちたとは考えたくはありませんが、協会を襲うような動機を持つ人を私は知りません。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190503T043714Z" creationid="taman" creationdate="20190502T170627Z">
+        <seg>シロッコ族がそこまで地に落ちたとは考えたくはありませんが、協会を襲うような動機を持つ人を私は他に知りません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37854,6 +37854,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T053517Z" creationid="urakata" creationdate="20190427T014912Z">
         <seg>あなたに信頼がおけるという判断は自分ながら慧眼だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I knew she was trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T043923Z" creationid="taman" creationdate="20190503T043923Z">
+        <seg>彼女は以前からトラブルの種でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77078,6 +77086,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102854Z" creationid="urakata" creationdate="20190428T102854Z">
         <seg>あのロック・マンティスにやられるところだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That seems suspicious.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190503T043738Z" creationid="taman" creationdate="20190503T043738Z">
+        <seg>確かに怪しいですね。</seg>
       </tuv>
     </tu>
     <tu>
