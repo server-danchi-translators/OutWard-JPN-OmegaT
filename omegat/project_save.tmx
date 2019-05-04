@@ -12859,6 +12859,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor (6 Tsar Stones, 1000 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074820Z" creationid="pugnus" creationdate="20190504T074820Z">
+        <seg>鎧(6ツァーリの宝玉、1000銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor Penalties Reduction</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071338Z" creationid="hiru4" creationdate="20190403T071338Z">
@@ -16073,8 +16081,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Boots (2 Blue Sand, 200 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064043Z" creationid="weedssoul" creationdate="20190406T064043Z">
-        <seg>Boots (2 青い砂, 200 銀貨)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074632Z" creationid="weedssoul" creationdate="20190406T064043Z">
+        <seg>ブーツ(2青い砂、200銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16097,8 +16105,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Boots (2 Petrified Wood, 140 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T074416Z" creationid="pugnus" creationdate="20190415T235548Z">
-        <seg>靴(2石化樹、140銀貨)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074648Z" creationid="pugnus" creationdate="20190415T235548Z">
+        <seg>ブーツ(2石化樹、140銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots (2 Tsar Stones, 300 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074846Z" creationid="pugnus" creationdate="20190504T074846Z">
+        <seg>ブーツ(2ツァーリの宝玉、300銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36087,6 +36103,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T074553Z" creationid="weedssoul" creationdate="20190406T064020Z">
         <seg>兜(3青い砂、250銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helmet (3 Tsar Stones, 500 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074755Z" creationid="pugnus" creationdate="20190504T074755Z">
+        <seg>兜(3ツァーリの宝玉、 500銀貨)</seg>
       </tuv>
     </tu>
     <tu>
