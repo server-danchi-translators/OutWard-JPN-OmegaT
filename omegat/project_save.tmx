@@ -487,6 +487,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This merchant is dead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080011Z" creationid="pugnus" creationdate="20190504T080011Z">
+        <seg>(商人は死んでいた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Use the gossip you heard from Gold Belly to smooth things over)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T092804Z" creationid="pugnus" creationdate="20190422T092804Z">
@@ -28941,6 +28949,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>F... food...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080120Z" creationid="pugnus" creationdate="20190504T080120Z">
+        <seg>た... 食べ物を...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fabled book used to cast runic spells with greater efficiency.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T052732Z" creationid="pugnus" creationdate="20190503T052732Z">
@@ -47331,6 +47347,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T072244Z" creationid="pugnus" creationdate="20190429T064455Z">
         <seg>イタチちゃん！お前の骨を全部折ってやる！楽しんで！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll get these supplies to town and tell the big boss to reward you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075953Z" creationid="pugnus" creationdate="20190504T075953Z">
+        <seg>これらの物資を町に渡したら、上司に君への報酬を交渉するよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -94491,6 +94515,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124727Z" creationid="urakata" creationdate="20190430T124727Z">
         <seg>実際には君だけが戦闘をしてたんだから</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re too late to do anything for him.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080059Z" creationid="pugnus" creationdate="20190504T080059Z">
+        <seg>遅すぎたのだ。もはや旅糧を必要とすることは無いだろう。)</seg>
       </tuv>
     </tu>
     <tu>
