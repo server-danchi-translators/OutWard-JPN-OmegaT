@@ -10905,6 +10905,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, and use the open terrain to your advantage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084047Z" creationid="pugnus" creationdate="20190504T084036Z">
+        <seg>あぁ、そして開けた場所を使うことを提案します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, excellent!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T095917Z" creationid="seto" creationdate="20190410T095917Z">
@@ -78484,8 +78492,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stock up on water at a fountain before leaving the city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T083833Z" creationid="pugnus" creationdate="20190504T083833Z">
-        <seg>また、町を出発する前に、必ず水を補給してください。噴水で補給できますから。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083840Z" creationid="pugnus" creationdate="20190504T083833Z">
+        <seg>また町を出発する前に、必ず水を補給してください。噴水で補給できますから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92131,6 +92139,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T110002Z" creationid="setom" creationdate="20190402T164815Z">
         <seg>こっから灯台が見えるだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can spot trouble way in advance out here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084126Z" creationid="pugnus" creationdate="20190504T084126Z">
+        <seg>そうすれば、</seg>
       </tuv>
     </tu>
     <tu>
