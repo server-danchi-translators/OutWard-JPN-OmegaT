@@ -9198,8 +9198,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;I doubt they will be hiding here in Enmerkar for much longer&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T045634Z" creationid="pugnus" creationdate="20190406T074412Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私は、彼らがここ、エンメルカルに長いこと身を隠しているのじゃないかと疑っているの。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095435Z" creationid="pugnus" creationdate="20190406T074412Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私は、彼らがここ、エンメルカルに長いこと身を隠しているのじゃないかと疑っているの&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,8 +9270,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Rissa might be in grave danger&lt;/b&gt;&lt;/color&gt;!)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T044938Z" creationid="magur0w" creationdate="20190404T181121Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;リッサは深刻な危機に直面しているかもしれない&lt;/b&gt;&lt;/color&gt;!)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095148Z" creationid="magur0w" creationdate="20190404T181121Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;リッサは深刻な危機に直面しているかもしれない&lt;/b&gt;&lt;/color&gt;！)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35630,8 +35630,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>He is incredibly valuable to the Collective, and his health is not what it used to be.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T045305Z" creationid="magur0w" creationdate="20190404T183257Z">
-        <seg>彼はこの集まりにとって非常に価値がある、彼の健康はもう過去のものだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095343Z" creationid="magur0w" creationdate="20190404T183257Z">
+        <seg>彼はこの集まりにとって非常に価値がある、そして彼の体調はあまりよくないの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41276,8 +41276,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I will make my way &lt;color=#00CCFF&gt;&lt;b&gt;back to Berg&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="pugnus" creationdate="20190406T070739Z">
-        <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;バーグに戻る。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095426Z" creationid="pugnus" creationdate="20190406T070739Z">
+        <seg>私は自分の道を行く。&lt;color=#00CCFF&gt;&lt;b&gt;バーグに戻る&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64826,8 +64826,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Please find him, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T182532Z" creationid="magur0w" creationdate="20190404T182532Z">
-        <seg>彼を見つけてくれ、 [PlayerName].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095231Z" creationid="magur0w" creationdate="20190404T182532Z">
+        <seg>彼を見つけてくれ、 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80652,8 +80652,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank you, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="magur0w" changedate="20190404T181138Z" creationid="magur0w" creationdate="20190404T181138Z">
-        <seg>ありがとう、 [PlayerName].</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T095157Z" creationid="magur0w" creationdate="20190404T181138Z">
+        <seg>ありがとう、 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
