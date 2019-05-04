@@ -36211,6 +36211,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, for your effort.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073435Z" creationid="pugnus" creationdate="20190504T073435Z">
+        <seg>これをどうぞ、感謝の気持ちよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, hold the fort while I’m gone!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061125Z" creationid="Mad" creationdate="20190407T061125Z">
@@ -36320,6 +36328,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T022113Z" creationid="rkmad" creationdate="20190404T022009Z">
         <seg>望んでいた通り、短剣を持ってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here’s your well-earned reward!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073517Z" creationid="pugnus" creationdate="20190504T073517Z">
+        <seg>これが君が稼いだ報酬だよ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -66545,6 +66561,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember, never go out in winter without proper attire!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073648Z" creationid="pugnus" creationdate="20190504T073648Z">
+        <seg>覚えておいて、「適切な服装無しでは外に出ちゃダメ絶対」だよ。特に冬場はね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember, take care of yourself and don’t be a tool for others, or you’ll end with missing limbs like me.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140858Z" creationid="weedssoul" creationdate="20190406T034040Z">
@@ -79998,6 +80022,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T013029Z" creationid="rkmad" creationdate="20190405T035744Z">
         <seg>あなたの努力に、まずは感謝を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you so much!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073355Z" creationid="pugnus" creationdate="20190504T073355Z">
+        <seg>本当に！ありがとう！</seg>
       </tuv>
     </tu>
     <tu>
