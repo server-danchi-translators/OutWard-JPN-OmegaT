@@ -9712,8 +9712,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>A quick check confirms the worst.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T100648Z" creationid="はぐくみ会" creationdate="20190404T001005Z">
-        <seg>素早く荷物の確認をする...。最悪の事態だ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094715Z" creationid="はぐくみ会" creationdate="20190404T001005Z">
+        <seg>素早く荷物の確認をする...最悪の事態だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13276,9 +13276,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T100118Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
-        <seg>命の恩人を探し、あたりを見回す...。群衆の中に、白く輝く鎧をまとう誰かが消えて行った。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094613Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
+        <seg>命の恩人を探し、あたりを見回す...。群衆の中に、白く輝く鎧をまとう誰かが消えて行った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13301,8 +13300,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>As you pull yourself up you notice a trio of ghosts guarding you...yet they soon vanish as if they were never there...It would seem that the Ancestral Memories sent you aid in your time of need.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T100525Z" creationid="はぐくみ会" creationdate="20190403T233838Z">
-        <seg>私が起き上がると、三人の霊が私を守っていることに気付く...。 彼らはすぐに消えた。まるでそこには誰もいなかったように...。 先祖の霊が私を保護したのだろうか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094658Z" creationid="はぐくみ会" creationdate="20190403T233838Z">
+        <seg>私が起き上がると、三人の霊が私を守っていることに気付く...彼らはすぐに消えた。まるでそこには誰もいなかったように...先祖の霊が私を保護したのだろうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -46088,9 +46087,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It is pure luck that brings a mercenary company to your aid.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190407T124849Z" creationid="はぐくみ会" creationdate="20190403T095902Z">
-        <seg>傭兵会社が私を助けてくれたのは、ただ運がよかっただけだ。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094551Z" creationid="はぐくみ会" creationdate="20190403T095902Z">
+        <seg>傭兵会社が私を助けてくれたのは、ただ運がよかっただけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66999,9 +66997,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Relief floods you as you recognize where you are.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="はぐくみ会" creationdate="20190403T103811Z">
-        <seg>自分がどこにいるかを認識し、私は助かったのだと安堵した。 
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094621Z" creationid="はぐくみ会" creationdate="20190403T103811Z">
+        <seg>自分がどこにいるかを認識し、私は助かったのだと安堵した。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -81232,9 +81229,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Ash Giants, not knowing what to do with your unconscious body, dumped you outside their village.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190413T113259Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
-        <seg>灰の巨人は私を村の外へ捨てたのだ。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094605Z" creationid="はぐくみ会" creationdate="20190403T102131Z">
+        <seg>灰の巨人は私を村の外へ捨てたのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82091,9 +82087,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The innkeeper has used money from your own pouch to pay for your treatment, but at least you’re still alive.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T134904Z" creationid="はぐくみ会" creationdate="20190403T102535Z">
-        <seg>宿屋の主人は私の治療のために、私の財布からお金を使っているが、少なくとも私はまだ生きている。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094610Z" creationid="はぐくみ会" creationdate="20190403T102535Z">
+        <seg>宿屋の主人は私の治療のために、私の財布からお金を使っているが、少なくとも私はまだ生きている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89241,9 +89236,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Well, you live to fight another day!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095747Z" creationid="はぐくみ会" creationdate="20190403T095440Z">
-        <seg>さて、私は生きる、また戦うために！
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094549Z" creationid="はぐくみ会" creationdate="20190403T095440Z">
+        <seg>さて、私は生きる、また戦うために！</seg>
       </tuv>
     </tu>
     <tu>
@@ -90298,9 +90292,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When you next awake, you are being carried by a hunter from Berg, on his way back to the city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190502T065436Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
-        <seg>私が次に目を覚ましたとき、私はバーグに住む猟師によって運ばれていた。彼は街に帰る途中だ。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094538Z" creationid="はぐくみ会" creationdate="20190403T094651Z">
+        <seg>私が次に目を覚ましたとき、私はバーグに住む猟師によって運ばれていた。彼は街に帰る途中だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90347,9 +90340,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When your eyes open, you find yourself wrapped up in a bed at the inn in Berg, having been unconscious for days.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190502T065436Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
-        <seg>私は自分がバーグの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094535Z" creationid="はぐくみ会" creationdate="20190403T094220Z">
+        <seg>私は自分がバーグの宿のベッドに包まれているのに気づく。どのくらいの日数、気を失っていたのだろうか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91092,9 +91084,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With a yelp, you jump out of your bed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
-        <seg>小さな悲鳴とともに、ベッドから飛び出す。 
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094616Z" creationid="はぐくみ会" creationdate="20190403T103302Z">
+        <seg>小さな悲鳴とともに、ベッドから飛び出す。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -92096,9 +92087,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You awake to the familiar scent of your old home at the Lighthouse in Cierzo, warm and tucked into your bed, your backpack propped up beside you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095434Z" creationid="はぐくみ会" creationdate="20190403T093013Z">
-        <seg>私はシエルゾの灯台で古い家の懐かしい香りに目を覚ました。暖かいベッドに横になっている。私のバックパックは傍に置かれていた。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094528Z" creationid="はぐくみ会" creationdate="20190403T093013Z">
+        <seg>私はシエルゾの灯台で古い家の懐かしい香りに目を覚ました。暖かいベッドに横になっている。私のバックパックは傍に置かれていた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92769,8 +92759,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You don’t know why they’ve taken you prisoner, but given that they tried to set you on fire...You clearly don’t want to find out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T101934Z" creationid="pugnus" creationdate="20190404T111226Z">
-        <seg>なぜ彼らが私を捕虜にしたのかはわからない。もしかしたら、私を同じように火にかけようとしているのかも...。いや、あまり考えたくはない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094814Z" creationid="pugnus" creationdate="20190404T111226Z">
+        <seg>なぜ彼らが私を捕虜にしたのかはわからない。もしかしたら、私を同じように火にかけようとしているのかも...いや、あまり考えたくはない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92857,8 +92847,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You got lucky…</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T100432Z" creationid="はぐくみ会" creationdate="20190403T112735Z">
-        <seg>幸運だ...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094646Z" creationid="はぐくみ会" creationdate="20190403T112735Z">
+        <seg>幸運だ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -93633,8 +93623,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You see one of the Vigil crystals up above...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190414T235031Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
-        <seg>私の上にヴィジャルクリスタルの1つを見つける...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094630Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
+        <seg>私の上にヴィジャルクリスタルの1つを見つける...</seg>
       </tuv>
     </tu>
     <tu>
@@ -93873,8 +93863,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You thank your lucky stars that the ghost was trapped in its old memories, unable to reason and think...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095359Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
-        <seg>私は幸運の星たちに感謝する。あの幽霊が古い思い出に閉じ込められており、推論も思考もできないことに...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094524Z" creationid="はぐくみ会" creationdate="20190403T092648Z">
+        <seg>私は幸運の星たちに感謝する。あの幽霊が古い思い出に閉じ込められており、推論も思考もできないことに...</seg>
       </tuv>
     </tu>
     <tu>
@@ -93961,9 +93951,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wake up in the marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095850Z" creationid="はぐくみ会" creationdate="20190403T101958Z">
-        <seg>私は湿地で目を覚ました。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094602Z" creationid="はぐくみ会" creationdate="20190403T101958Z">
+        <seg>私は沼地で目を覚ました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94755,9 +94744,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your life-threatening injuries have been bandaged by a hooded man, who silently turns to leave, entering a door along the mountain wall without a backwards glance...</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190407T130404Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
-        <seg>致命傷は、フードを被った男によって包帯をされていた。彼は振り向くことなく、山の壁沿いの扉に入り、静かに去って行く...。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094638Z" creationid="はぐくみ会" creationdate="20190403T111001Z">
+        <seg>致命傷は、フードを被った男によって包帯をされていた。彼は振り向くことなく、山の壁沿いの扉に入り、静かに去って行く...</seg>
       </tuv>
     </tu>
     <tu>
@@ -95068,8 +95056,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re not sure how long you’ve been unconscious...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095448Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
-        <seg>どれだけ長く気を失っていたのか...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T094531Z" creationid="はぐくみ会" creationdate="20190403T093207Z">
+        <seg>どれだけ長く気を失っていたのか...</seg>
       </tuv>
     </tu>
     <tu>
