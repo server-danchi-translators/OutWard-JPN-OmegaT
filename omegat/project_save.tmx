@@ -21546,6 +21546,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could you find and rescue him with a Travel Ration?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075145Z" creationid="pugnus" creationdate="20190504T075145Z">
+        <seg>彼を見つけて、旅糧を与えて救ってもらえないかね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could you prepare me a Cierzo Ceviche like your parents used to?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T234430Z" creationid="weedssoul" creationdate="20190406T073820Z">
@@ -40894,6 +40902,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133412Z" creationid="urakata" creationdate="20190430T133412Z">
         <seg>怖かったんだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was supposed to meet a trader today.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075022Z" creationid="pugnus" creationdate="20190504T075022Z">
+        <seg>私は今日貿易業者に会うことになっていたんだ。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -80102,6 +80119,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102814Z" creationid="urakata" creationdate="20190428T102814Z">
         <seg>ありがとう、大きな借りができたな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you, I’ll reward you for your service.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075247Z" creationid="pugnus" creationdate="20190504T075247Z">
+        <seg>恩に着るよ、君の仕事に対して、こちらも報いなきゃね。</seg>
       </tuv>
     </tu>
     <tu>
