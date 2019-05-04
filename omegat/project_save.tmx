@@ -10969,6 +10969,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, you’re [PlayerName], right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081956Z" creationid="pugnus" creationdate="20190504T081956Z">
+        <seg>あぁ、君が[PlayerName]、そうでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah...</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T095445Z" creationid="pugnus" creationdate="20190422T095445Z">
@@ -45045,6 +45053,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interested?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081736Z" creationid="pugnus" creationdate="20190504T081736Z">
+        <seg>興味...あるかな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Internalized Lexicon</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T020947Z" creationid="pugnus" creationdate="20190503T020937Z">
@@ -47355,6 +47371,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T131701Z" creationid="Mad" creationdate="20190406T112845Z">
         <seg>[PlayerName]、これで本当にさよならね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s up for sale, if you can afford it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081931Z" creationid="pugnus" creationdate="20190504T081931Z">
+        <seg>元男爵は大売り出し中だよ！君に...買う余裕があればね！</seg>
       </tuv>
     </tu>
     <tu>
@@ -88454,6 +88478,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T123401Z" creationid="urakata" creationdate="20190503T123401Z">
         <seg>規律の神、エラットのお膝元、モンスーンの街へようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the home of the, er, former baron!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081827Z" creationid="pugnus" creationdate="20190504T081827Z">
+        <seg>ようこそ！我が家へ！元男爵の家へ！</seg>
       </tuv>
     </tu>
     <tu>
