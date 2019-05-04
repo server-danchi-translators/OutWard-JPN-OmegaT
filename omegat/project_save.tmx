@@ -37880,6 +37880,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I came here to harvest Beast Golem Scraps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T071525Z" creationid="pugnus" creationdate="20190504T071525Z">
+        <seg>私は、ビーストゴーレムのスクラップを集めに来ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can craft equipment from Hackmanite or Tsar Stones you bring me.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035308Z" creationid="pugnus" creationdate="20190408T023836Z">
@@ -38979,8 +38987,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I have items useful for hunters... whether you hunt beasts or men.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T071404Z" creationid="pugnus" creationdate="20190504T071404Z">
-        <seg>私は、狩人が欲しがる品々を持っています...あなたが獣か人、どちらを狩るかにかかわらずね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T071445Z" creationid="pugnus" creationdate="20190504T071404Z">
+        <seg>私は、狩人に役立つ品々を持っています...あなたが獣か人か、どちらを狩るかにかかわらずね。</seg>
       </tuv>
     </tu>
     <tu>
