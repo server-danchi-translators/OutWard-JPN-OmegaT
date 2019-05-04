@@ -47358,6 +47358,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s the rounded building to either side of the star-plaza, with the lady and coralhorn deer statues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083023Z" creationid="pugnus" creationdate="20190504T083023Z">
+        <seg>それは女性とサンゴ礁の鹿の像がある星の広場にある、丸みを帯びた建物ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s time to beat a hasty retreat, before the insects grow hungry!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101401Z" creationid="はぐくみ会" creationdate="20190404T014739Z">
@@ -81793,6 +81801,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The inn is close to the western entrance of the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T082828Z" creationid="pugnus" creationdate="20190504T082828Z">
+        <seg>宿は町の西側の入り口近くにありますよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The inn is the first building South of the gate.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035716Z" creationid="Light" creationdate="20190405T161021Z">
@@ -88514,6 +88530,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to the Heroic Kingdom of Levant, home to all those who seek to become legend!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T082735Z" creationid="pugnus" creationdate="20190504T082735Z">
+        <seg>伝説になろうとしているすべての人々の本拠地、レバントの勇王国へようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the city of Monsoon!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075745Z" creationid="urakata" creationdate="20190502T075745Z">
@@ -89333,8 +89357,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What do you need?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T043016Z" creationid="weedssoul" creationdate="20190406T021636Z">
-        <seg>何が必要なの？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T082747Z" creationid="weedssoul" creationdate="20190406T021636Z">
+        <seg>さて、何が必要なの？</seg>
       </tuv>
     </tu>
     <tu>
