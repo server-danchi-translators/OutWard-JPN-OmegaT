@@ -54543,6 +54543,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Need information, traveller?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T090947Z" creationid="pugnus" creationdate="20190504T090947Z">
+        <seg>情報が必要ですか、旅行者さん？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Need some gear?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063703Z" creationid="weedssoul" creationdate="20190406T063703Z">
@@ -82973,9 +82981,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Then, bring me 2 Beast Golem Scraps and I’ll reward you greatly.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T071917Z" creationid="pugnus" creationdate="20190504T071917Z">
-        <seg>私に2つのビーストゴーレムのスクラップを持ってきて欲しいな、お礼は弾みますよ。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091134Z" creationid="pugnus" creationdate="20190504T071917Z">
+        <seg>私に2つのビーストゴーレムのスクラップを持ってきて欲しいな、お礼は弾みますよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86045,6 +86052,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn south when you reach the small blue auditorium, and walk up the hill.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091022Z" creationid="pugnus" creationdate="20190504T091022Z">
+        <seg>小さな青い講堂に着いたら南に曲がり、丘を上ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tutorial</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T115825Z" creationid="setom" creationdate="20190401T115825Z">
@@ -88185,9 +88200,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We protect the ancestral city of Berg.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T072043Z" creationid="pugnus" creationdate="20190504T072043Z">
-        <seg>私たちは祖先の町、バーグを守ります。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091143Z" creationid="pugnus" creationdate="20190504T072043Z">
+        <seg>私たちは祖先の町、バーグを守ります。</seg>
       </tuv>
     </tu>
     <tu>
