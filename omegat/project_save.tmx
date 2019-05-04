@@ -45222,8 +45222,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Is something troubling you?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T072143Z" creationid="pugnus" creationdate="20190504T072143Z">
-        <seg>何か、悩みごとでも？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T072153Z" creationid="pugnus" creationdate="20190504T072143Z">
+        <seg>何か、心配ごとでも？</seg>
       </tuv>
     </tu>
     <tu>
@@ -46912,6 +46912,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T153321Z" creationid="taman" creationdate="20190414T152548Z">
         <seg>とても大事なものじゃ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s just along the main road.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T072231Z" creationid="pugnus" creationdate="20190504T072231Z">
+        <seg>メインの通りにありますよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49828,6 +49836,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T134654Z" creationid="pugnus" creationdate="20190409T045851Z">
         <seg>覆面をした男がそうだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look for the sign with the moon and star.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T072306Z" creationid="pugnus" creationdate="20190504T072306Z">
+        <seg>月と星のサインを探してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -81780,6 +81796,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190404T110606Z" creationid="pugnus" creationdate="20190404T110606Z">
         <seg>酷い痛みと、焼けつく肉のにおいが目を覚ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The smith is next to the entrance on a raised stone platform, and the other traders are down the main street.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T072518Z" creationid="pugnus" creationdate="20190504T072518Z">
+        <seg>鍛冶屋は、石台の入口の隣にいて、他の商人たちはメイン通りに沿っているよ。
+</seg>
       </tuv>
     </tu>
     <tu>
