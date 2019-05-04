@@ -19360,6 +19360,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Come back later!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085208Z" creationid="pugnus" creationdate="20190504T085208Z">
+        <seg>また後で、戻ってきてね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Come back later, with the money this time!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035154Z" creationid="seto" creationdate="20190420T034956Z">
@@ -37944,6 +37952,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I always enjoy my visits to Monsoon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085328Z" creationid="pugnus" creationdate="20190504T085328Z">
+        <seg>私はいつもモンスーンへの訪問を楽しんでいます！
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I always loved the ceviche your parents made.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073659Z" creationid="weedssoul" creationdate="20190406T073659Z">
@@ -38163,8 +38180,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I can craft you armor parts from the palladium you bring me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T084543Z" creationid="pugnus" creationdate="20190504T084543Z">
-        <seg>パラジウムを持ってきたら、装甲部品を作ることができますよ。
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085041Z" creationid="pugnus" creationdate="20190504T084543Z">
+        <seg>パラジウムを持ってきたら、装甲部品を作ることができますわよ。
 </seg>
       </tuv>
     </tu>
@@ -48030,6 +48047,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T072920Z" creationid="pugnus" creationdate="20190406T072837Z">
         <seg>私はもろい花じゃない。あなたも知っているでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m not done crafting your armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085140Z" creationid="pugnus" creationdate="20190504T085140Z">
+        <seg>まぁだ鎧はできあがって無いわよぉ？</seg>
       </tuv>
     </tu>
     <tu>
@@ -83035,8 +83060,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There you go!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T063701Z" creationid="Light" creationdate="20190406T063616Z">
-        <seg>じゃあ、いくぞ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085257Z" creationid="Light" creationdate="20190406T063616Z">
+        <seg>じゃあ、いくわよ！</seg>
       </tuv>
     </tu>
     <tu>
