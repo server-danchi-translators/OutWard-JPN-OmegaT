@@ -12829,8 +12829,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Armor (5 Blue Sand, 400 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064031Z" creationid="weedssoul" creationdate="20190406T064031Z">
-        <seg>Armor (5 青い砂, 400 銀貨)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074610Z" creationid="weedssoul" creationdate="20190406T064031Z">
+        <seg>鎧(5青い砂、 400銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12853,8 +12853,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Armor (5 Petrified Wood, 250 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T235542Z" creationid="pugnus" creationdate="20190415T235542Z">
-        <seg>鎧 (5 Petrified Wood, 250 silver)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074355Z" creationid="pugnus" creationdate="20190415T235542Z">
+        <seg>鎧(5石化樹、250銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16097,8 +16097,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Boots (2 Petrified Wood, 140 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T235548Z" creationid="pugnus" creationdate="20190415T235548Z">
-        <seg>靴 (2 Petrified Wood, 140 silver)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074416Z" creationid="pugnus" creationdate="20190415T235548Z">
+        <seg>靴(2石化樹、140銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36077,16 +36077,16 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Helmet (2 Petrified Wood, 150 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T235526Z" creationid="pugnus" creationdate="20190415T235526Z">
-        <seg>兜 (2 Petrified Wood, 150 silver)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074327Z" creationid="pugnus" creationdate="20190415T235526Z">
+        <seg>兜(2石化樹、150銀貨)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Helmet (3 Blue Sand, 250 silver)</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T064020Z" creationid="weedssoul" creationdate="20190406T064020Z">
-        <seg>Helmet (3 青い砂, 250銀貨)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T074553Z" creationid="weedssoul" creationdate="20190406T064020Z">
+        <seg>兜(3青い砂、250銀貨)</seg>
       </tuv>
     </tu>
     <tu>
