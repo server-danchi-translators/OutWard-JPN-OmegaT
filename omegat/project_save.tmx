@@ -79532,8 +79532,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Highlord Cyr, in the Giant’s village, in the north-east of the Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T020956Z" creationid="Light" creationdate="20190409T060936Z">
-        <seg>マーシュの北東にある巨人の村でシリ卿と話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093046Z" creationid="Light" creationdate="20190409T060936Z">
+        <seg>マーシュの北東にある巨人の村で上級王シリと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -79764,8 +79764,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to the Ash Giant highlord in their village, in the north-east of the Hallowed Marsh.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190409T060523Z" creationid="Light" creationdate="20190409T060523Z">
-        <seg>聖なる沼の北東にある巨人の村の灰の巨人卿と話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093036Z" creationid="Light" creationdate="20190409T060523Z">
+        <seg>聖なる沼の北東にある巨人の村の、灰の巨人の上級王と話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -94956,8 +94956,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’ll find the road to the Hallowed Marsh not much farther from there.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T062301Z" creationid="Light" creationdate="20190408T062301Z">
-        <seg>そしたら、それほど遠くないところにHallowed Marshへの道が見つかるわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093308Z" creationid="Light" creationdate="20190408T062301Z">
+        <seg>そしたら、それほど遠くないところに聖なる沼への道が見つかるわ。</seg>
       </tuv>
     </tu>
     <tu>
