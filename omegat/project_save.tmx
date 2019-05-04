@@ -10907,8 +10907,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ah, and use the open terrain to your advantage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T084047Z" creationid="pugnus" creationdate="20190504T084036Z">
-        <seg>あぁ、そして開けた場所を使うことを提案します。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084131Z" creationid="pugnus" creationdate="20190504T084036Z">
+        <seg>あぁ、そして開けた場所を歩くことを提案します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72924,6 +72924,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See for yourself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084407Z" creationid="pugnus" creationdate="20190504T084407Z">
+        <seg>君の眼で、どうぞ確かめて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>See this sword?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063222Z" creationid="urakata" creationdate="20190430T063222Z">
@@ -81803,8 +81811,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The heat’s merciless.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T083627Z" creationid="pugnus" creationdate="20190504T083627Z">
-        <seg>熱さは無慈悲です。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084234Z" creationid="pugnus" creationdate="20190504T083627Z">
+        <seg>砂漠の熱気は無慈悲です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82175,6 +82183,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T055337Z" creationid="Light" creationdate="20190409T055337Z">
         <seg>王子を殺した物はすでに捕らえられた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rarest ingredients have never been so easy to obtain!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084340Z" creationid="pugnus" creationdate="20190504T084340Z">
+        <seg>信じられないでしょうけど、最も希少な素材は、これまでになく簡単に手に入れれます。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -92145,8 +92162,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can spot trouble way in advance out here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T084126Z" creationid="pugnus" creationdate="20190504T084126Z">
-        <seg>そうすれば、</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084220Z" creationid="pugnus" creationdate="20190504T084126Z">
+        <seg>そうすれば、どんな問題であれ事前に気付け、心構えができるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
