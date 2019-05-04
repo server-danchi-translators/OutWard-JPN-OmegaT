@@ -12891,6 +12891,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Armor (5 Palladium scrap, 500 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084708Z" creationid="pugnus" creationdate="20190504T084708Z">
+        <seg>鎧(5パラジウム、500銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor (5 Petrified Wood, 250 silver)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T074355Z" creationid="pugnus" creationdate="20190415T235542Z">
@@ -16155,6 +16163,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T074144Z" creationid="pugnus" creationdate="20190504T074144Z">
         <seg>ブーツ(2ハックマナイト、100銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boots (2 Palladium scrap, 250 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084733Z" creationid="pugnus" creationdate="20190504T084733Z">
+        <seg>ブーツ(2パラジウム、250銀貨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36220,6 +36236,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helmet (2 Palladium scrap, 300 silver)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084630Z" creationid="pugnus" creationdate="20190504T084630Z">
+        <seg>兜(2パラジウム、300銀貨)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helmet (2 Petrified Wood, 150 silver)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T074327Z" creationid="pugnus" creationdate="20190415T235526Z">
@@ -38117,6 +38141,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T064053Z" creationid="weedssoul" creationdate="20190406T063949Z">
         <seg>青い砂を持ってきたら、特別な防具を作ってやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can craft you armor parts from the palladium you bring me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084543Z" creationid="pugnus" creationdate="20190504T084543Z">
+        <seg>パラジウムを持ってきたら、装甲部品を作ることができますよ。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -88433,6 +88466,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T083555Z" creationid="pugnus" creationdate="20190502T083555Z">
         <seg>武器は敵に毒を与える。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Weapons and armors are made by the strongest, for the strongest!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T084443Z" creationid="pugnus" creationdate="20190504T084443Z">
+        <seg>武器と防具は最強の人によって作られているよ！
+</seg>
       </tuv>
     </tu>
     <tu>
