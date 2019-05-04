@@ -48464,6 +48464,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Just remember to hurry, before he ends up as a dried corpse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075415Z" creationid="pugnus" creationdate="20190504T075415Z">
+        <seg>彼がカラッカラに渇いちゃう前に何とか見つけてあげてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Just some water, sadly.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T053221Z" creationid="Mad" creationdate="20190407T053221Z">
@@ -55374,6 +55382,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T101023Z" creationid="pugnus" creationdate="20190422T101023Z">
         <seg>アッシュボーンの町に足を踏み入れ、物事を要求できると思うのも当然である！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No word from them yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075504Z" creationid="pugnus" creationdate="20190504T075504Z">
+        <seg>まだ、彼らから何も伝わっていない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80125,8 +80141,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Thank you, I’ll reward you for your service.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T075247Z" creationid="pugnus" creationdate="20190504T075247Z">
-        <seg>恩に着るよ、君の仕事に対して、こちらも報いなきゃね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075312Z" creationid="pugnus" creationdate="20190504T075247Z">
+        <seg>恩に着るよ。君の仕事に対して、こちらも報いるから。</seg>
       </tuv>
     </tu>
     <tu>
