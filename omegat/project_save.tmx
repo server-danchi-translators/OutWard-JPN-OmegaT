@@ -39316,8 +39316,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I heard the food store stocks contraband, the scumbag!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T081329Z" creationid="pugnus" creationdate="20190504T081329Z">
-        <seg>食料品店が、密輸品を持ってるって聞いたよ。いやな奴！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081522Z" creationid="pugnus" creationdate="20190504T081329Z">
+        <seg>食料品店が、密輸品を在庫に加えてるって聞いたよ。いやな奴！</seg>
       </tuv>
     </tu>
     <tu>
@@ -40079,6 +40079,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T100135Z" creationid="pugnus" creationdate="20190429T100135Z">
         <seg>アッシュボーンがレバントと和平条項を交渉する必要があると考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need this ledger delivered to the Doran’s general store in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081618Z" creationid="pugnus" creationdate="20190504T081618Z">
+        <seg>この帳簿をシエルゾにある、ドーランの雑貨屋に届けてくれないかな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42712,6 +42720,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T091446Z" creationid="rkmad" creationdate="20190404T091446Z">
         <seg>もしあなたがシエルゾの誰かの為に素晴らしい行いを出来たなら、150シルバーを支払うことなく、その見返りとして&lt;color=#00CCFF&gt;&lt;b&gt;村人達の信頼&lt;/b&gt;&lt;/color&gt;を得られるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can make the journey, he’ll pay you well for it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081716Z" creationid="pugnus" creationdate="20190504T081716Z">
+        <seg>君が持ってってくれたら、ドーランが報酬を払ってくれるよ。気前よくね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78935,6 +78951,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T145621Z" creationid="taman" creationdate="20190414T145621Z">
         <seg>時間があるならこの土地を探索するのはいかがですか、[PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take your time to browse, only legit goods here!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081426Z" creationid="pugnus" creationdate="20190504T081426Z">
+        <seg>ここに並んでいる品は、ちゃんとした合法品だよ！</seg>
       </tuv>
     </tu>
     <tu>
