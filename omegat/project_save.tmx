@@ -77952,6 +77952,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stay away from the old temple on the mountain, it’s crawling with horrors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073229Z" creationid="pugnus" creationdate="20190504T073229Z">
+        <seg>山の上の古い寺院からやってきたらしいんだけど、恐怖と共にあたりをうろついてるんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stay far away from the north-east in particular.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060620Z">
@@ -81746,8 +81754,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The region has a tame climate and is home to Manticores and Beast Golems.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T073107Z" creationid="pugnus" creationdate="20190504T073107Z">
-        <seg>この地域は気候が穏やかで、マンティコアとビーストゴーレムが生息しているよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073250Z" creationid="pugnus" creationdate="20190504T073107Z">
+        <seg>この地域は気候が穏やかなんだけど...マンティコアとビーストゴーレムが生息しているよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91944,6 +91952,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T074623Z" creationid="weedssoul" creationdate="20190406T074623Z">
         <seg>病気にかかりたくなかったらな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t have what I need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T073341Z" creationid="pugnus" creationdate="20190504T073341Z">
+        <seg>私に必要なものは持っていないようね。</seg>
       </tuv>
     </tu>
     <tu>
