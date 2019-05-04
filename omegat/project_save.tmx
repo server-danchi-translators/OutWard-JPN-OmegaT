@@ -78482,6 +78482,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Stock up on water at a fountain before leaving the city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083833Z" creationid="pugnus" creationdate="20190504T083833Z">
+        <seg>また、町を出発する前に、必ず水を補給してください。噴水で補給できますから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stone Titan Caves</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T065629Z" creationid="Gaiden Shinji" creationdate="20190404T111616Z">
@@ -81781,6 +81789,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T090006Z" creationid="pugnus" creationdate="20190429T090006Z">
         <seg>生贄を供給しなくなれば死霊たちは私たちを襲ってくるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The heat’s merciless.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083627Z" creationid="pugnus" creationdate="20190504T083627Z">
+        <seg>熱さは無慈悲です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88408,6 +88424,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T071823Z" creationid="weedssoul" creationdate="20190406T064617Z">
         <seg>両手武器は、一般的に威力が高くリーチも長い。一方で片手武器は、左手に盾やランタンを装備することができるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wear Desert Armor or take a Ice-Flame Torch with you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083740Z" creationid="pugnus" creationdate="20190504T083740Z">
+        <seg>砂漠用鎧を着用するか、氷灯の松明を持っていくべきです。</seg>
       </tuv>
     </tu>
     <tu>
