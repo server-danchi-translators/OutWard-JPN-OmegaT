@@ -11769,6 +11769,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Am I right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080810Z" creationid="pugnus" creationdate="20190504T080810Z">
+        <seg>私の言ってること、正しいでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Amateur!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T050704Z" creationid="pugnus" creationdate="20190416T050704Z">
@@ -39018,6 +39026,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have a client who wants shark cartilage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080903Z" creationid="pugnus" creationdate="20190504T080854Z">
+        <seg>鮫の軟骨をどうしても欲しいっていう、お客さんがいてね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have a fellow whose life depends on one!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190403T101341Z" creationid="rkmad" creationdate="20190403T095745Z">
@@ -48757,6 +48773,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T085613Z" creationid="pugnus" creationdate="20190406T085613Z">
         <seg>[PlayerName]、目を凝らして見なさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keep your mouth shut in front of the guards about it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081000Z" creationid="pugnus" creationdate="20190504T080947Z">
+        <seg>おっと、このことは決して警備員の前では口にしないで！</seg>
       </tuv>
     </tu>
     <tu>
@@ -83162,6 +83186,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T090617Z" creationid="pugnus" creationdate="20190429T090617Z">
         <seg>彼らは、シエルゾとあなたの詳細を気にしていません！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They don’t like when we trade that stuff!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T081120Z" creationid="pugnus" creationdate="20190504T081120Z">
+        <seg>鮫の軟骨の取引は、彼らは嫌がるんだよ!</seg>
       </tuv>
     </tu>
     <tu>
