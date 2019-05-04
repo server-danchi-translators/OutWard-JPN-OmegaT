@@ -11737,6 +11737,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, be wary of the Ash Giant village in the north-east, and around the Lich’s Spire in the south-west.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093007Z" creationid="pugnus" creationdate="20190504T093007Z">
+        <seg>また、北東にある「灰の巨人の村」と、南西の「リッチの尖塔」周辺には用心してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, if you want clean water, go to the Water Purifier to the north-east of the beach.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T073833Z" creationid="Light" creationdate="20190405T161210Z">
@@ -17981,6 +17989,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T051704Z" creationid="taman" creationdate="20190502T051704Z">
         <seg>行きなさい、伝道師よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carrying Marsh Antidotes out here is a smart move.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T092635Z" creationid="pugnus" creationdate="20190504T092635Z">
+        <seg>沼地の解毒剤は専用のものですが、持ち運ぶのは賢い選択です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78532,6 +78548,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T060620Z">
         <seg>特に北東の地域には近寄らないほうが良い。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stay out of the marsh water, it’ll poison you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T092522Z" creationid="pugnus" creationdate="20190504T092522Z">
+        <seg>沼地の水の中に入らないでください。あれは毒です。</seg>
       </tuv>
     </tu>
     <tu>
