@@ -9806,6 +9806,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A true oasis inside a toxic marsh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085419Z" creationid="pugnus" creationdate="20190504T085419Z">
+        <seg>有毒な沼地の中の、本当のオアシス...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T123432Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -40725,6 +40733,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I suggest our local Marshmelons!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085531Z" creationid="pugnus" creationdate="20190504T085531Z">
+        <seg>産地直送！地元のマーシュメロンがオススメ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I suppose...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064302Z" creationid="urakata" creationdate="20190430T064154Z">
@@ -54477,6 +54493,15 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Need anything to handle the danger outside?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085441Z" creationid="pugnus" creationdate="20190504T085441Z">
+        <seg>外の危険に対処するために、何かが必要ですか？
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Need some gear?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T063703Z" creationid="weedssoul" creationdate="20190406T063703Z">
@@ -60709,6 +60734,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190404T114857Z" creationid="seto" creationdate="20190404T114857Z">
         <seg>PickAxeGuy_Vendavel_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Picked fresh every day!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T085827Z" creationid="pugnus" creationdate="20190504T085827Z">
+        <seg>毎日が新鮮！</seg>
       </tuv>
     </tu>
     <tu>
