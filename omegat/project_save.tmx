@@ -82184,6 +82184,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lotus temple is the place to go to find the Cardinal of the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T092112Z" creationid="pugnus" creationdate="20190504T092112Z">
+        <seg>蓮の寺院には神聖伝道団の枢機卿がいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The lowest of the low when it comes to weaponry, though it can easily be crafted with Wood.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T062656Z" creationid="setom" creationdate="20190402T062656Z">
@@ -82612,6 +82620,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T091456Z" creationid="pugnus" creationdate="20190504T083112Z">
         <seg>トレーナーは、宮殿の入り口にいます。訓練用人形と武器に囲まれてますので、分かるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The training district is on the large platform just south of the temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T092010Z" creationid="pugnus" creationdate="20190504T092010Z">
+        <seg>トレーニングをする地区は、寺院のすぐ南です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86582,6 +86598,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T164611Z" creationid="setom" creationdate="20190402T091450Z">
         <seg>扉を開けてチュートリアルを終了しメインメニューに戻りましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the doors to get to the second floor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091910Z" creationid="pugnus" creationdate="20190504T091910Z">
+        <seg>扉を使えば2階へもあがれます。</seg>
       </tuv>
     </tu>
     <tu>
