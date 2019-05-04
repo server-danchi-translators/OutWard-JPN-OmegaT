@@ -53642,6 +53642,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most merchants are in the middle of the city, the smith is south of the palace.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083039Z" creationid="pugnus" creationdate="20190504T083039Z">
+        <seg>ほとんどの商人は街の真ん中にいます、鍛冶屋は宮殿の南にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of the memories that the ghosts have placed in this altar have been consumed by the Corruption.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T004709Z" creationid="taman" creationdate="20190428T004204Z">
@@ -82343,6 +82351,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152637Z" creationid="weedssoul" creationdate="20190406T152637Z">
         <seg>街の衛兵が兵舎として一時的に利用している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The trainer is at the palace entrance, surrounded by training dummies and weapons.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T083148Z" creationid="pugnus" creationdate="20190504T083112Z">
+        <seg>トレーナーは、宮殿の入り口にいます。訓練用人形と武器に囲まれてますので、分かるでしょう。
+</seg>
       </tuv>
     </tu>
     <tu>
