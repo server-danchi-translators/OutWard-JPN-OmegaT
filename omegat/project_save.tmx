@@ -17857,6 +17857,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Carved idol, infused with Blue Sand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001342Z" creationid="pugnus" creationdate="20190504T001342Z">
+        <seg>青い砂が染み込んだ、彫刻された聖像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cast a Fire Sigil then use Spark while standing inside the sigil.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T080449Z" creationid="setom" creationdate="20190402T080449Z">
@@ -81877,6 +81885,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T140704Z" creationid="taman" creationdate="20190419T140704Z">
         <seg>この扉の向こうに先人を祭った祭壇があって、不死者たちは自身の記憶をそこに縛り付けているらしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The venerable ancestors would be satisfied with this opulent gift.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001407Z" creationid="pugnus" creationdate="20190504T001407Z">
+        <seg>由緒ある祖先はこの贅沢な贈り物に満足するだろう。</seg>
       </tuv>
     </tu>
     <tu>
