@@ -9254,8 +9254,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Lockwell has her locked up in a room in his home&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T171329Z" creationid="taman" creationdate="20190502T171329Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;今はロックウェルが自宅の部屋に彼女を閉じ込めています。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101933Z" creationid="taman" creationdate="20190502T171329Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;今はロックウェルが自宅の部屋に彼女を閉じ込めています&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9390,16 +9390,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#ff5043&gt;Equipping this backpack slows your dodge and removes your dodge invincibility.&lt;/color&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T092605Z" creationid="pugnus" creationdate="20190503T092605Z">
-        <seg> &lt;color=#ff5043&gt;このバックパックを装備していると、ドッジロールが遅くなる。さらに、ドッジロールの無敵時間が無くなる。&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102101Z" creationid="pugnus" creationdate="20190503T092605Z">
+        <seg> &lt;color=#ff5043&gt;このバックパックを装備していると、ドッジロールが遅くなる。さらに、ドッジロールの無敵時間が無くなる&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;color=#ff5043&gt;Equipping this backpack slows your dodge.&lt;/color&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064022Z" creationid="weedssoul" creationdate="20190406T134652Z">
-        <seg> &lt;color=#ff5043&gt;このバックパックを装備していると、ドッジロールが遅くなる。&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102045Z" creationid="weedssoul" creationdate="20190406T134652Z">
+        <seg> &lt;color=#ff5043&gt;このバックパックを装備していると、ドッジロールが遅くなる&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42692,8 +42692,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If she's not in Lockwell's house, and he refuses to say anything, you'll have to &lt;color=#00CCFF&gt;&lt;b&gt;ask around, see if anyone has seen anything&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190503T050105Z" creationid="taman" creationdate="20190503T050105Z">
-        <seg>オリエルがいなくなりロックウェルが何も話さないなら &lt;color=#00CCFF&gt;&lt;b&gt;彼女の行方を知っている人がいないか聞きこむしか手はないわ。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101954Z" creationid="taman" creationdate="20190503T050105Z">
+        <seg>オリエルがいなくなりロックウェルが何も話さないなら &lt;color=#00CCFF&gt;&lt;b&gt;彼女の行方を知っている人がいないか聞きこむしか手はないわ&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42972,8 +42972,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you could &lt;color=#00CCFF&gt;&lt;b&gt;bring me one, I'd be in your debt&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190502T074709Z" creationid="urakata" creationdate="20190502T074709Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;都合してくれたら、恩に着るよ。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102032Z" creationid="urakata" creationdate="20190502T074709Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;都合してくれたら、恩に着るよ&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43101,8 +43101,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you have the courage to face the Abrassar desert and come to the Heroic Kingdom of Levant... &lt;color=#00CCFF&gt;&lt;b&gt;I'll be waiting for you.&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T140845Z" creationid="Light" creationdate="20190407T125715Z">
-        <seg>もしあなたがアブラサールの砂漠に挑み、レバント勇王国にやって来る勇気があるなら...。 &lt;color=#00CCFF&gt;&lt;b&gt;俺は君を待っている。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102010Z" creationid="Light" creationdate="20190407T125715Z">
+        <seg>もしあなたがアブラサールの砂漠に挑み、レバント勇王国にやって来る勇気があるなら... &lt;color=#00CCFF&gt;&lt;b&gt;俺は君を待っている&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83344,8 +83344,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There, look for the largest building, the Blue Chamber itself&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190502T161758Z" creationid="taman" creationdate="20190502T161758Z">
-        <seg>そこで一番大きい建物を探してください、それが青の議会になります。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101923Z" creationid="taman" creationdate="20190502T161758Z">
+        <seg>そこで一番大きい建物を探してください、それが青の議会になります&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92447,8 +92447,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can use that to &lt;color=#00CCFF&gt;&lt;b&gt;make Lockwell listen to you&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190503T044738Z" creationid="taman" creationdate="20190503T044738Z">
-        <seg>それを上手く利用すれば &lt;color=#00CCFF&gt;&lt;b&gt;ロックウェルを説得することはできないでしょうか。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101943Z" creationid="taman" creationdate="20190503T044738Z">
+        <seg>それを上手く利用すれば &lt;color=#00CCFF&gt;&lt;b&gt;ロックウェルを説得することはできないでしょうか&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
