@@ -13276,8 +13276,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>As you glance around for your saviour, you see someone in gleaming white armor vanish into the crowd...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T094613Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
-        <seg>命の恩人を探し、あたりを見回す...。群衆の中に、白く輝く鎧をまとう誰かが消えて行った。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T102848Z">
+        <seg>命の恩人を探し、あたりを見回す... 群衆の中に、白く輝く鎧をまとう誰かが消えて行った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16878,8 +16878,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But &lt;color=#00CCFF&gt;&lt;b&gt;if we meet again in Levant&lt;/b&gt;&lt;/color&gt;... maybe we can start over.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T125844Z" creationid="Light" creationdate="20190407T125844Z">
-        <seg>だが、&lt;color=#00CCFF&gt;&lt;b&gt;レバントでもう一度会うことが出来たなら&lt;/b&gt;&lt;/color&gt;....。もう一度やり直すこともできるはずさ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="Light" creationdate="20190407T125844Z">
+        <seg>だが、&lt;color=#00CCFF&gt;&lt;b&gt;レバントでもう一度会うことが出来たなら&lt;/b&gt;&lt;/color&gt;.... もう一度やり直すこともできるはずさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26768,8 +26768,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Elatt’s breath, what a disaster...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T134826Z" creationid="weedssoul" creationdate="20190406T024519Z">
-        <seg> エラットの息吹にかけて、なんとひどい目にあったものだ...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="weedssoul" creationdate="20190406T024519Z">
+        <seg> エラットの息吹にかけて、なんとひどい目にあったものだ... </seg>
       </tuv>
     </tu>
     <tu>
@@ -28792,8 +28792,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Even now, as you feel yourself be pulled towards what lies beyond, to join your ancestors...You can't help but feel pride at what you accomplished.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T070438Z" creationid="pugnus" creationdate="20190404T093310Z">
-        <seg>暗闇の中で、私は引力を感じていた。その力は私を先祖達のところへと連れて行く。私も加わるために...。 私は、自分が達成したものに誇りを感じている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="pugnus" creationdate="20190404T093310Z">
+        <seg>暗闇の中で、私は引力を感じていた。その力は私を先祖達のところへと連れて行く。私も加わるために...  私は、自分が達成したものに誇りを感じている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39067,8 +39067,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I guess I truly am on my own, then...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T140621Z" creationid="Light" creationdate="20190407T051317Z">
-        <seg>ああ、自力でなんとかしなければな...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="Light" creationdate="20190407T051317Z">
+        <seg>ああ、自力でなんとかしなければな... </seg>
       </tuv>
     </tu>
     <tu>
@@ -42429,8 +42429,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If I could afford it, I'd have bought potions to help with the heat... but we'll have to try our luck without them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T123830Z" creationid="Light" creationdate="20190407T123830Z">
-        <seg>もし可能なら、暑さを避けるためのポーションを買っただろうが...。それなしで、俺らの運を試してみるしかないな。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="Light" creationdate="20190407T123830Z">
+        <seg>もし可能なら、暑さを避けるためのポーションを買っただろうが... それなしで、俺らの運を試してみるしかないな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60026,8 +60026,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pain wracks your body as your consciousness fades…</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T093156Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
-        <seg>痛みに飲み込まれ、意識が遠のいた...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T062413Z">
+        <seg>痛みに飲み込まれ、意識が遠のいた... </seg>
       </tuv>
     </tu>
     <tu>
@@ -73446,8 +73446,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She wants me to follow in her footsteps and I...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T131434Z" creationid="Mad" creationdate="20190406T111028Z">
-        <seg>とにかく、母は私に跡継ぎになるよう望んでいて...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="Mad" creationdate="20190406T111028Z">
+        <seg>とにかく、母は私に跡継ぎになるよう望んでいて... </seg>
       </tuv>
     </tu>
     <tu>
@@ -83746,8 +83746,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They then go off merrily to the inn, clearly going to brag to the serving girls about how they saved your life and didn’t even ask for payment...</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190407T125825Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
-        <seg>それから彼らは陽気に旅館へと行く...。人の命を救ったが、見返りすら求めなかったことを給仕の女の子たちに自慢するために。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T101908Z">
+        <seg>それから彼らは陽気に旅館へと行く... 人の命を救ったが、見返りすら求めなかったことを給仕の女の子たちに自慢するために。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86121,8 +86121,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Twelve people are dead because of his actions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T153416Z">
-        <seg>彼の行動により、12人も死んだのですから...。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="weedssoul" creationdate="20190405T153416Z">
+        <seg>彼の行動により、12人も死んだのですから...  </seg>
       </tuv>
     </tu>
     <tu>
@@ -91124,8 +91124,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With great effort, you swim in the murky water until you see a ray of light...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T101726Z" creationid="pugnus" creationdate="20190404T050809Z">
-        <seg>私は必死に泳いだ。光を見るまで、暗い水の中を泳いだ...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="pugnus" creationdate="20190404T050809Z">
+        <seg>私は必死に泳いだ。光を見るまで、暗い水の中を泳いだ... </seg>
       </tuv>
     </tu>
     <tu>
@@ -91876,8 +91876,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are alone, but you feel like someone was just here a moment ago...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T090728Z" creationid="はぐくみ会" creationdate="20190403T054545Z">
-        <seg>辺りには誰も居ないが、少し前に誰かがいてくれたような気がする...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T054545Z">
+        <seg>辺りには誰も居ないが、少し前に誰かがいてくれたような気がする... </seg>
       </tuv>
     </tu>
     <tu>
@@ -91983,8 +91983,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You are in the central chamber below the Conflux Mountain, in the care of the Watchers of the Ley Line...</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T095147Z" creationid="はぐくみ会" creationdate="20190403T090636Z">
-        <seg>私はレイラインの監視人の世話により、コンフラックス山の麓の中央会議場にいる...。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T090636Z">
+        <seg>私はレイラインの監視人の世話により、コンフラックス山の麓の中央会議場にいる... </seg>
       </tuv>
     </tu>
     <tu>
@@ -94127,8 +94127,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You will wear these scars for quite some time...You curse your recklessness and vow to be more prepared for danger in the future.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T090150Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
-        <seg>傷跡は長く残りそうだ...。私は自身の無謀さを呪い、これからはもっと慎重に行動すると誓った。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T053536Z">
+        <seg>傷跡は長く残りそうだ... 私は自身の無謀さを呪い、これからはもっと慎重に行動すると誓った。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94536,8 +94536,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Your body and mind are broken, all that's left is to await the release of death...Strange purple auras swirl around you and you give yourself to them, riding a strange dreamlike current, passing stars and ghostly figures...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T094505Z" creationid="はぐくみ会" creationdate="20190403T090339Z">
-        <seg>私の身体と心は壊れた。あとは死による解放を待つだけだ...。 奇妙な紫色の気配が私の周りを旋回し、夢のような流れに乗り、星と幽霊のような人物が視界を流れていく。私は彼らに自分自身を委ねた...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T102618Z" creationid="はぐくみ会" creationdate="20190403T090339Z">
+        <seg>私の身体と心は壊れた。あとは死による解放を待つだけだ...  奇妙な紫色の気配が私の周りを旋回し、夢のような流れに乗り、星と幽霊のような人物が視界を流れていく。私は彼らに自分自身を委ねた...</seg>
       </tuv>
     </tu>
     <tu>
