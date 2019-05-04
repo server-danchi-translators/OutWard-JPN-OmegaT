@@ -9508,6 +9508,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A few prototype lanterns were built to use a coil as a power source, but they proved too expensive for mass production.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001210Z" creationid="pugnus" creationdate="20190504T001210Z">
+        <seg>このコイルを電源として使用するために、いくつかの試作ランタンが作られたが、それらは大量生産には高すぎることが証明された。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A follower of the Scarlet Lady forced her spirit into the Ancestral Memories.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T023038Z" creationid="urakata" creationdate="20190428T023038Z">
@@ -15893,6 +15902,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue Skull Effigy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001254Z" creationid="pugnus" creationdate="20190504T001254Z">
+        <seg>青いどくろの彫像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blunt weapons are an excellent choice to use this strategy.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T072235Z" creationid="weedssoul" creationdate="20190406T061848Z">
@@ -19535,6 +19552,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complex array of metals, made by Levant artisants, to power machines such as the Water Purifier in Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001142Z" creationid="pugnus" creationdate="20190504T001142Z">
+        <seg>レバントの職人がシエルゾの浄水器などの電力機械に使用する複雑な金属配列。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Concoction that cures the common cold and restores burnt Mana.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T132542Z">
@@ -22345,6 +22371,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craftsmen in Levant can create wizardly robes from this material.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001043Z" creationid="pugnus" creationdate="20190504T001043Z">
+        <seg>レバントの職人は、この暗黒宝石から魔法使いの法服を作り出すことができます。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113316Z" creationid="setom" creationdate="20190401T113316Z">
@@ -24509,6 +24544,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T072639Z" creationid="Gaiden Shinji" creationdate="20190403T115154Z">
         <seg>闇のジグラットインテリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dark gem with intricate magical properties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001002Z" creationid="pugnus" creationdate="20190504T001002Z">
+        <seg>複雑な魔法の特性を持つ暗黒宝石。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -34689,6 +34733,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110558Z" creationid="seto" creationdate="20190409T110558Z">
         <seg>HM_Truth_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hackmanite</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000934Z" creationid="pugnus" creationdate="20190504T000934Z">
+        <seg>ハックマナイト</seg>
       </tuv>
     </tu>
     <tu>
@@ -64494,6 +64546,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132754Z" creationid="totochan" creationdate="20190402T194458Z">
         <seg>ポケットが一杯です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Power Coil</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T001054Z" creationid="pugnus" creationdate="20190504T001054Z">
+        <seg>電源用コイル</seg>
       </tuv>
     </tu>
     <tu>
