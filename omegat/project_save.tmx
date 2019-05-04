@@ -32103,8 +32103,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Getting past his Spire in the south may be very dangerous, unless you bypass it via the old flooded Ziggurat Tunnel.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T063152Z" creationid="Light" creationdate="20190408T063152Z">
-        <seg>古い洪水のジグラットのトンネルを通って迂回しない限り、南で彼のSpireを通り過ぎることは非常に危険だわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093527Z" creationid="Light" creationdate="20190408T063152Z">
+        <seg>古い洪水のジグラットのトンネルを通って迂回しない限り、南で彼の尖塔を通り過ぎることは非常に危険だわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51458,8 +51458,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Marsh Archer</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112214Z" creationid="Gaiden Shinji" creationdate="20190403T110423Z">
-        <seg>マーシュ射手</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093540Z" creationid="Gaiden Shinji" creationdate="20190403T110423Z">
+        <seg>沼の射手</seg>
       </tuv>
     </tu>
     <tu>
@@ -51474,8 +51474,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Marsh Bandit</seg>
       </tuv>
-      <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T112228Z" creationid="Gaiden Shinji" creationdate="20190403T110433Z">
-        <seg>マーシュ盗賊</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093606Z" creationid="Gaiden Shinji" creationdate="20190403T110433Z">
+        <seg>沼の盗賊</seg>
       </tuv>
     </tu>
     <tu>
@@ -86404,8 +86404,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Unfortunately, there is no Pilgrim Road you can follow in the Hallowed Marsh from Enmerkar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T062508Z" creationid="Light" creationdate="20190408T062508Z">
-        <seg>残念だけど、エンメルカルからHallowed Marshに行ける巡礼者の道はないわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093319Z" creationid="Light" creationdate="20190408T062508Z">
+        <seg>残念だけど、エンメルカルから聖なる村に行ける巡礼者の道はないわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91476,8 +91476,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Worse still, the Light Mender Lich has gotten very territorial.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T062921Z" creationid="Light" creationdate="20190408T062921Z">
-        <seg>さらに悪いことに、Light Mender Lichのテリトリーになってるの。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T093449Z" creationid="Light" creationdate="20190408T062921Z">
+        <seg>さらに悪いことに、光の修理人の霊のテリトリーになってるの。</seg>
       </tuv>
     </tu>
     <tu>
