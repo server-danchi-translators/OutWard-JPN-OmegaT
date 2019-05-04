@@ -74044,6 +74044,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So I’ll pay well if you bring me some Scraps.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T071743Z" creationid="pugnus" creationdate="20190504T071743Z">
+        <seg>あなたが私にスクラップを持ってきてくれたら、大丈夫なんだけど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So it's not just me...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T062724Z" creationid="taman" creationdate="20190411T062724Z">
@@ -82249,6 +82257,15 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Then, bring me 2 Beast Golem Scraps and I’ll reward you greatly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T071917Z" creationid="pugnus" creationdate="20190504T071917Z">
+        <seg>私に2つのビーストゴーレムのスクラップを持ってきて欲しいな、お礼は弾みますよ。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then, collect the powder that the flower provides.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T121730Z" creationid="urakata" creationdate="20190503T121730Z">
@@ -83264,6 +83281,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T075646Z" creationid="pugnus" creationdate="20190429T075646Z">
         <seg>彼らは怪物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’re very useful crafting components, but one of the golems injured my knee.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T071655Z" creationid="pugnus" creationdate="20190504T071655Z">
+        <seg>それらは非常に有用な素材なんですが、膝に傷を負ってしまってね...</seg>
       </tuv>
     </tu>
     <tu>
