@@ -11984,6 +11984,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ancient resin that can be shaped into armors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000508Z" creationid="pugnus" creationdate="20190504T000508Z">
+        <seg>鎧に形づくることができる古代の樹脂。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And &lt;color=#00CCFF&gt;&lt;b&gt;I could really use some Firefly powder&lt;/b&gt;&lt;/color&gt; for one of my experiments.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T121429Z" creationid="urakata" creationdate="20190503T121429Z">
@@ -21287,6 +21296,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copal</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000441Z" creationid="pugnus" creationdate="20190504T000441Z">
+        <seg>コーパル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copal Armor</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T121030Z" creationid="pugnus" creationdate="20190423T121030Z">
@@ -30194,8 +30211,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Fossilized shells of ancient sea creatures.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T000334Z" creationid="pugnus" creationdate="20190504T000334Z">
-        <seg>殻の化石。古代の海洋生物の殻が鉱石化したもの。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000432Z" creationid="pugnus" creationdate="20190504T000334Z">
+        <seg>虹色に光る殻の化石。古代の海洋生物の殻が鉱石化したもの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45498,8 +45515,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It is a memento from a hard-fought battle to save the city of Monsoon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T000225Z" creationid="pugnus" creationdate="20190504T000225Z">
-        <seg>これはモンスーンの町を救うためにおこなった、激戦の記念だ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000616Z" creationid="pugnus" creationdate="20190504T000225Z">
+        <seg>これはモンスーンを救うための、激戦の記念だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58323,6 +58340,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T042637Z" creationid="urakata" creationdate="20190503T042601Z">
         <seg>彼だけが、彼の中の私の姿を変容させるに足る力を持っていたのに。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only the smiths of the city of Berg possess such techniques, though.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000552Z" creationid="pugnus" creationdate="20190504T000552Z">
+        <seg>その高度な技術を持っているのはバーグの鍛冶屋だけです。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -82464,6 +82490,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130532Z" creationid="weedssoul" creationdate="20190406T130532Z">
         <seg>これらの異常は時間と共に回復していくが、大半は適切なアイテムを使用することで回復することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These iridescent stones are used to craft Ammolite Armor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T000426Z" creationid="pugnus" creationdate="20190504T000426Z">
+        <seg>これら虹色の石は、アンモライトの鎧を作成するのに使用される。</seg>
       </tuv>
     </tu>
     <tu>
