@@ -43479,6 +43479,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’re passing by, could you deliver it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T090153Z" creationid="pugnus" creationdate="20190504T090153Z">
+        <seg>もしさぁ、君が行く予定があるならこれを届けてくれないかなぁ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’ve got an alchemy set of your own, make some for me, would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T023206Z" creationid="Light" creationdate="20190406T120527Z">
@@ -78990,6 +78998,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Suul’s general store in Levant is in need of this ledger.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T090052Z" creationid="pugnus" creationdate="20190504T090052Z">
+        <seg>レバントのスールの雑貨店は、この帳簿を必要としているんだよなぁ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sweep Kick</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T014642Z" creationid="pugnus" creationdate="20190502T014642Z">
@@ -83295,6 +83311,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034557Z" creationid="rkmad" creationdate="20190405T034356Z">
         <seg>それを癒やすことが出来たのは、一人の女狩人だけでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s some silver for you if you do!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T090249Z" creationid="pugnus" creationdate="20190504T090249Z">
+        <seg>やってくれるなら、銀貨を用意するけど！</seg>
       </tuv>
     </tu>
     <tu>
