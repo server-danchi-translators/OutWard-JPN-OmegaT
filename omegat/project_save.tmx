@@ -9134,8 +9134,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Burn greasy fern at the altar on the hill next to the Vigil Crystal just outside Monsoon&lt;/b&gt;&lt;/color&gt;, and tell me what you see.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T022051Z" creationid="taman" creationdate="20190407T160230Z">
-        <seg>モンスーンを出るとすぐ近くにクリスタルが見えるはずです。&lt;color=#00CCFF&gt;&lt;b&gt;横の丘に祭壇が設置されているので、そこでアブラシダを燃やし、あなたが目にしたものを報告してください。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101610Z" creationid="taman" creationdate="20190407T160230Z">
+        <seg>モンスーンを出るとすぐ近くにクリスタルが見えるはずです。&lt;color=#00CCFF&gt;&lt;b&gt;横の丘に祭壇が設置されているので、そこでアブラシダを燃やし、あなたが目にしたものを報告してください&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17110,8 +17110,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>But they've &lt;color=#00CCFF&gt;&lt;b&gt;locked the door with some kind of spell&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190419T142557Z" creationid="taman" creationdate="20190419T141237Z">
-        <seg>でも彼らに &lt;color=#00CCFF&gt;&lt;b&gt;魔法のようなもので扉は封印されているようね。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101654Z" creationid="taman" creationdate="20190419T141237Z">
+        <seg>でも彼らに &lt;color=#00CCFF&gt;&lt;b&gt;魔法のようなもので扉は封印されているようね&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19189,8 +19189,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Cleanse it by any means necessary&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190414T115220Z" creationid="taman" creationdate="20190414T113950Z">
-        <seg>何としてでも瘴気を浄化してきてください。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101639Z" creationid="taman" creationdate="20190414T113950Z">
+        <seg>何としてでも瘴気を浄化してきてください&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42268,8 +42268,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I'm… going to &lt;color=#00CCFF&gt;&lt;b&gt;go back to Monsoon&lt;/b&gt;&lt;/color&gt;, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T051508Z" creationid="taman" creationdate="20190501T051508Z">
-        <seg>それじゃあ……&lt;color=#00CCFF&gt;&lt;b&gt;私はモンスーンに戻るね。&lt;/b&gt;&lt;/color&gt;, [PlayerName]。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101732Z" creationid="taman" creationdate="20190501T051508Z">
+        <seg>それじゃあ……&lt;color=#00CCFF&gt;&lt;b&gt;私はモンスーンに戻るね&lt;/b&gt;&lt;/color&gt;、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42457,8 +42457,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If I could jus’ get to the old altar, I’d get ’em back in line… &lt;color=#00CCFF&gt;&lt;b&gt;If you can put me back together, I’ll open the path there again&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T062432Z" creationid="taman" creationdate="20190420T060812Z">
-        <seg>古い祭壇までたどり着ければ、体も元に戻せるんだがな…… &lt;color=#00CCFF&gt;&lt;b&gt;もしあんたが俺の体を集めてくれたら、扉の封印をもう一度といてやるよ。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101800Z" creationid="taman" creationdate="20190420T060812Z">
+        <seg>古い祭壇までたどり着ければ、体も元に戻せるんだがな…… &lt;color=#00CCFF&gt;&lt;b&gt;もしあんたが俺の体を集めてくれたら、扉の封印をもう一度といてやるよ&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89052,8 +89052,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Well, either that or I finally shuffle off this mortal coil&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190420T072744Z" creationid="taman" creationdate="20190420T072514Z">
-        <seg>まぁ、もしくは不死者の俺をこの世から消すことだな。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101819Z" creationid="taman" creationdate="20190420T072514Z">
+        <seg>まぁ、もしくは不死者の俺をこの世から消すことだな&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94944,8 +94944,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’ll have to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your own life into it&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190501T062313Z" creationid="taman" creationdate="20190501T062313Z">
-        <seg>あなたの &lt;color=#00CCFF&gt;&lt;b&gt;命を祭壇に注いでほしいの。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101748Z" creationid="taman" creationdate="20190501T062313Z">
+        <seg>あなたの &lt;color=#00CCFF&gt;&lt;b&gt;命を祭壇に注いでほしいの&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96048,8 +96048,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName], I need you to &lt;color=#00CCFF&gt;&lt;b&gt;pour some of your life into this altar&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190430T171408Z" creationid="taman" creationdate="20190428T034252Z">
-        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力を彼らに与えます。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101708Z" creationid="taman" creationdate="20190428T034252Z">
+        <seg>[PlayerName]、あなたの&lt;color=#00CCFF&gt;&lt;b&gt;生命力を彼らに与えます&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
