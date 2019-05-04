@@ -222,6 +222,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>(Give a travel ration.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080252Z" creationid="pugnus" creationdate="20190504T080252Z">
+        <seg>(旅糧を与える)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>enduranceの全体訳が決まっていないため仮訳で保留。</note>
       <tuv lang="EN-US">
         <seg>(Give up Endurance)</seg>
@@ -12931,6 +12939,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrg...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080303Z" creationid="pugnus" creationdate="20190504T080303Z">
+        <seg>あぁぁ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Arrow</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T085634Z" creationid="pugnus" creationdate="20190503T085634Z">
@@ -14961,6 +14977,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T122156Z" creationid="setom" creationdate="20190403T122156Z">
         <seg>Bandit_VendavelWitch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bandits stole my rations...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080220Z" creationid="pugnus" creationdate="20190504T080220Z">
+        <seg>私の旅糧は...賊たちに盗まれたんだ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36196,6 +36220,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080233Z" creationid="pugnus" creationdate="20190504T080233Z">
+        <seg>助けてくれ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Help... please!</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133656Z" creationid="Light" creationdate="20190405T133656Z">
@@ -44089,6 +44121,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T070904Z" creationid="Light" creationdate="20190406T070904Z">
         <seg>宿屋の主人はアドバイスしてくれるだろう</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Innovative weapons and tools are my life!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080341Z" creationid="pugnus" creationdate="20190504T080341Z">
+        <seg>革新的な武器と道具こそ我が人生！</seg>
       </tuv>
     </tu>
     <tu>
@@ -89897,6 +89937,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T160055Z" creationid="taman" creationdate="20190421T160055Z">
         <seg>それで問題の祭壇はどこにあるのだろうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether for plowing or killing, my gear’s the best.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T080441Z" creationid="pugnus" creationdate="20190504T080441Z">
+        <seg>農耕用でも、殺害用でも！私の商品は革新的だよ！</seg>
       </tuv>
     </tu>
     <tu>
