@@ -9350,16 +9350,16 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We accept peace&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T095119Z" creationid="pugnus" creationdate="20190429T095119Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;我らは和平を受け入れよう。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101540Z" creationid="pugnus" creationdate="20190429T095119Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;我らは和平を受け入れよう&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We agree to declare peace with Levant&lt;/b&gt;&lt;/color&gt;, but you must get the Chamberlords to send us help.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T085855Z" creationid="pugnus" creationdate="20190429T085725Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私たちはレバントと和平を結ぶことに同意します。&lt;/b&gt;&lt;/color&gt; しかし、あなたは私たちのために、議会の議員の椅子を確保してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101515Z" creationid="pugnus" creationdate="20190429T085725Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;私たちはレバントと和平を結ぶことに同意します&lt;/b&gt;&lt;/color&gt;。しかし、あなたは私たちのために、議会の議員の椅子を確保してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11642,8 +11642,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alright, &lt;color=#00CCFF&gt;&lt;b&gt;I am ready to make alliance talk&lt;/b&gt;&lt;/color&gt; with you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T022744Z" creationid="pugnus" creationdate="20190425T022744Z">
-        <seg>よし、我はそなたと&lt;color=#00CCFF&gt;&lt;b&gt;同盟の話をする準備が整った。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101444Z" creationid="pugnus" creationdate="20190425T022744Z">
+        <seg>よし、我はそなたと&lt;color=#00CCFF&gt;&lt;b&gt;同盟の話をする準備が整った&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32001,8 +32001,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Get down to &lt;color=#00CCFF&gt;&lt;b&gt;the archives room below the Blue Chamber and follow the attackers&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T052000Z" creationid="pugnus" creationdate="20190415T051929Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の下の、文書記録保管所の調査と、刺客たちの後をつけましょう。&lt;/b&gt;&lt;/color&gt;さぁ、行きなさい。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101359Z" creationid="pugnus" creationdate="20190415T051929Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の下の、文書記録保管所の調査と、刺客たちの後をつけましょう&lt;/b&gt;&lt;/color&gt;。さぁ、行きなさい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47458,8 +47458,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’s the &lt;color=#00CCFF&gt;&lt;b&gt;largest building in Berg, up near the fountain&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190502T065438Z" creationid="magur0w" creationdate="20190404T164124Z">
-        <seg>青の議会は&lt;color=#00CCFF&gt;&lt;b&gt;バーグで一番大きい建物で噴水の近くにある。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101310Z" creationid="magur0w" creationdate="20190404T164124Z">
+        <seg>青の議会は&lt;color=#00CCFF&gt;&lt;b&gt;バーグで一番大きい建物で噴水の近くにある&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55830,8 +55830,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>No, &lt;color=#00CCFF&gt;&lt;b&gt;we won’t negotiate for the Blue Chamber&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T093329Z" creationid="pugnus" creationdate="20190429T093329Z">
-        <seg>いいえ、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会と交渉はしません。&lt;/b&gt;&lt;/color&gt;</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101529Z" creationid="pugnus" creationdate="20190429T093329Z">
+        <seg>いいえ、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会と交渉はしません&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91788,8 +91788,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You &lt;color=#00CCFF&gt;&lt;b&gt;go to the cave where the swamp lizards live, and you bring back some Obsidiroot for us&lt;/b&gt;&lt;/color&gt;, for medicine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190425T021520Z" creationid="pugnus" creationdate="20190425T021520Z">
-        <seg>そなたは&lt;color=#00CCFF&gt;&lt;b&gt;沼トカゲが住まう洞窟へ行き、我らのためにオブシディの根を持ち帰るのだ。&lt;/b&gt;&lt;/color&gt;薬用のものである。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101432Z" creationid="pugnus" creationdate="20190425T021520Z">
+        <seg>そなたは&lt;color=#00CCFF&gt;&lt;b&gt;沼トカゲが住まう洞窟へ行き、我らのためにオブシディの根を持ち帰るのだ&lt;/b&gt;&lt;/color&gt;。薬用のものである。</seg>
       </tuv>
     </tu>
     <tu>
@@ -98234,8 +98234,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>“All messages are to go through Commander Mantis at his &lt;color=#00CCFF&gt;&lt;b&gt;forest camp to the south of Enmerkar, near the stone steps&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T085011Z" creationid="pugnus" creationdate="20190415T085011Z">
-        <seg>“全ての伝達は彼のものであり、マンティス司令官を経由する必要がある。&lt;color=#00CCFF&gt;&lt;b&gt;「踏み石」く、「エンメルカルの森」の南方に野営地がある。&lt;/b&gt;&lt;/color&gt;.</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T101419Z" creationid="pugnus" creationdate="20190415T085011Z">
+        <seg>“全ての伝達は彼のものであり、マンティス司令官を経由する必要がある。&lt;color=#00CCFF&gt;&lt;b&gt;「踏み石」く、「エンメルカルの森」の南方に野営地がある&lt;/b&gt;&lt;/color&gt;。</seg>
       </tuv>
     </tu>
     <tu>
