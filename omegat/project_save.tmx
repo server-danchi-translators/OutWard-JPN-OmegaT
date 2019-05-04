@@ -37969,9 +37969,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I always enjoy my visits to Monsoon!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T085328Z" creationid="pugnus" creationdate="20190504T085328Z">
-        <seg>私はいつもモンスーンへの訪問を楽しんでいます！
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091538Z" creationid="pugnus" creationdate="20190504T085328Z">
+        <seg>私はいつもモンスーンへの訪問を楽しんでいます！</seg>
       </tuv>
     </tu>
     <tu>
@@ -38195,9 +38194,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I can craft you armor parts from the palladium you bring me.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T085041Z" creationid="pugnus" creationdate="20190504T084543Z">
-        <seg>パラジウムを持ってきたら、装甲部品を作ることができますわよ。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091525Z" creationid="pugnus" creationdate="20190504T084543Z">
+        <seg>パラジウムを持ってきたら、装甲部品を作ることができますわよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43495,9 +43493,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you’ve got the coin, you’ll find no greater comfort in this marsh than my inn.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T090410Z" creationid="pugnus" creationdate="20190504T090410Z">
-        <seg>もし、銀貨を持っているなら、この沼地で私の宿以上の快適さを見つけることはできないでしょう。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091630Z" creationid="pugnus" creationdate="20190504T090410Z">
+        <seg>この沼地で私の宿以上の快適さを見つけることはできないでしょう。もし、銀貨を持っているならね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49010,6 +49007,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep your eye on the signs, eh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091719Z" creationid="pugnus" creationdate="20190504T091719Z">
+        <seg>看板を見てください、ね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep your eyes peeled, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T085613Z" creationid="pugnus" creationdate="20190406T085613Z">
@@ -53803,6 +53808,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of our shops are up on the roof of the central road here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091826Z" creationid="pugnus" creationdate="20190504T091826Z">
+        <seg>店のほとんどは、ここの中央の道路にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of the memories that the ghosts have placed in this altar have been consumed by the Corruption.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T004709Z" creationid="taman" creationdate="20190428T004204Z">
@@ -54534,9 +54547,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Need anything to handle the danger outside?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T085441Z" creationid="pugnus" creationdate="20190504T085441Z">
-        <seg>外の危険に対処するために、何かが必要ですか？
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091542Z" creationid="pugnus" creationdate="20190504T085441Z">
+        <seg>外の危険に対処するために、何かが必要ですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -82102,9 +82114,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The king and queen are in their palace to the east of the city.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T083235Z" creationid="pugnus" creationdate="20190504T083235Z">
-        <seg>王と女王は町の東にある彼らの宮殿にいます。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091502Z" creationid="pugnus" creationdate="20190504T083235Z">
+        <seg>王と女王は町の東にある彼らの宮殿にいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82367,9 +82378,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The rarest ingredients have never been so easy to obtain!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T084340Z" creationid="pugnus" creationdate="20190504T084340Z">
-        <seg>信じられないでしょうけど、最も希少な素材は、これまでになく簡単に手に入れれます。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091513Z" creationid="pugnus" creationdate="20190504T084340Z">
+        <seg>信じられないでしょうけど、最も希少な素材は、これまでになく簡単に手に入れれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82600,9 +82610,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The trainer is at the palace entrance, surrounded by training dummies and weapons.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T083148Z" creationid="pugnus" creationdate="20190504T083112Z">
-        <seg>トレーナーは、宮殿の入り口にいます。訓練用人形と武器に囲まれてますので、分かるでしょう。
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091456Z" creationid="pugnus" creationdate="20190504T083112Z">
+        <seg>トレーナーは、宮殿の入り口にいます。訓練用人形と武器に囲まれてますので、分かるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88638,9 +88647,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Weapons and armors are made by the strongest, for the strongest!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T085025Z" creationid="pugnus" creationdate="20190504T084443Z">
-        <seg>武器と防具は最強の人によって作られているわよ！このあたいにね！
-</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T091519Z" creationid="pugnus" creationdate="20190504T084443Z">
+        <seg>武器と防具は最強の人によって作られているわよ！このあたいにね！</seg>
       </tuv>
     </tu>
     <tu>
