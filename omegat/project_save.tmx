@@ -17184,6 +17184,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By now I think it’s too late.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075702Z" creationid="pugnus" creationdate="20190504T075702Z">
+        <seg>もう手遅れだと思うよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By the time you get back up, you are alone.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T093746Z" creationid="はぐくみ会" creationdate="20190403T064534Z">
@@ -19284,6 +19292,15 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T171538Z" creationid="weedssoul" creationdate="20190405T162138Z">
         <seg>彼らに別れを告げたら、一度戻ってきて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Come back to me in a couple days, another shipment should come.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075635Z" creationid="pugnus" creationdate="20190504T075635Z">
+        <seg>数日後に戻ってきたら、別の出荷品が来るはずだよ。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -40178,6 +40195,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I owe you my life, friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075832Z" creationid="pugnus" creationdate="20190504T075832Z">
+        <seg>おぉ！人生の！心の友よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I put a spell to seal the door, to try to keep anythin’ nasty from coming out.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T062836Z" creationid="taman" creationdate="20190420T062836Z">
@@ -55388,8 +55413,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>No word from them yet.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T075504Z" creationid="pugnus" creationdate="20190504T075504Z">
-        <seg>まだ、彼らから何も伝わっていない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075531Z" creationid="pugnus" creationdate="20190504T075504Z">
+        <seg>まだ、彼らから何も知らせはないんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57145,6 +57170,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130438Z" creationid="urakata" creationdate="20190430T130438Z">
         <seg>凄いぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh well, another shipment should come in a couple days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075756Z" creationid="pugnus" creationdate="20190504T075744Z">
+        <seg>うーんまぁ、あと数日で別の荷物が届くはずだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83483,6 +83516,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T075646Z" creationid="pugnus" creationdate="20190429T075646Z">
         <seg>彼らは怪物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They’re probably somewhere in Abrassar Desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190504T075558Z" creationid="pugnus" creationdate="20190504T075558Z">
+        <seg>彼らはおそらく、アブラサール砂漠のどこかにいるよ。</seg>
       </tuv>
     </tu>
     <tu>
