@@ -511,6 +511,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050059Z" creationid="urakata" creationdate="20190505T050059Z">
+        <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(This merchant is dead.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T080011Z" creationid="pugnus" creationdate="20190504T080011Z">
@@ -17704,6 +17712,22 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T045627Z" creationid="urakata" creationdate="20190505T045627Z">
         <seg>Calixia_KL_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045933Z" creationid="urakata" creationdate="20190505T045933Z">
+        <seg>Calixia_KL_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050010Z" creationid="urakata" creationdate="20190505T050010Z">
+        <seg>Calixia_KL_prequest_07</seg>
       </tuv>
     </tu>
     <tu>
@@ -43586,6 +43610,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you change your mind, the kingdom will be waiting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050058Z" creationid="urakata" creationdate="20190505T050009Z">
+        <seg>心変わりしたら言ってください。その時を待っていますよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you change your mind, you know where to find me.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T034908Z" creationid="seto" creationdate="20190420T034908Z">
@@ -44151,6 +44183,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
         <seg>あなたが何か情報を探しているのなら、宿屋も良い場所ですよ。また、浜辺にいるイザンの事も忘れないように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re looking for work, I’m sure Cyrene has plenty that pays well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045931Z" creationid="urakata" creationdate="20190505T045931Z">
+        <seg>仕事を探しているのなら、キュレネが払いの良い仕事を充分に用意しているでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82055,6 +82095,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T061934Z" creationid="pugnus" creationdate="20190417T061934Z">
         <seg>それはあなたが誰であるかによります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s a shame.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045942Z" creationid="urakata" creationdate="20190505T045942Z">
+        <seg>残念です。</seg>
       </tuv>
     </tu>
     <tu>
