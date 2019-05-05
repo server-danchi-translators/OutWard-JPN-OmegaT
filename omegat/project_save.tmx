@@ -9990,6 +9990,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A visitor, huh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035339Z" creationid="urakata" creationdate="20190505T035339Z">
+        <seg>旅人かい?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A warm campfire roars nearby, a note and mysterious bottle propped up beside it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T094307Z" creationid="はぐくみ会" creationdate="20190403T054520Z">
@@ -15638,6 +15646,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T093828Z" creationid="pugnus" creationdate="20190429T093828Z">
         <seg>ここから出ていきなさい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Behave yourself in my city, or you’ll end up locked in the open-air cage in the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035428Z" creationid="urakata" creationdate="20190505T035428Z">
+        <seg>私の街じゃお行儀良くしな。スラムの野外牢に押し込められたくなきゃな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23755,6 +23771,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T035103Z" creationid="urakata" creationdate="20190505T035103Z">
         <seg>Cyrene_KL_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035317Z" creationid="urakata" creationdate="20190505T035317Z">
+        <seg>Cyrene_KL_prequest_07</seg>
       </tuv>
     </tu>
     <tu>
@@ -81419,6 +81443,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That large purple one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035142Z" creationid="urakata" creationdate="20190505T035142Z">
+        <seg>大きな紫の山だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That lesson costs 50 Silver.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T064431Z" creationid="Light" creationdate="20190406T064431Z">
@@ -87087,6 +87119,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Up along the side of the mountain is a passage with our flag beside it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035237Z" creationid="urakata" creationdate="20190505T035237Z">
+        <seg>山肌を上がっていくと王国の旗が脇につけられた道が有る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Up to date information on what’s happening in the surrounding region is essential to keeping Cierzo safe.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055847Z">
@@ -87163,6 +87203,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T070121Z" creationid="urakata" creationdate="20190502T070121Z">
         <seg>うまく使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use that to get inside and down to the Ley Line.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035316Z" creationid="urakata" creationdate="20190505T035316Z">
+        <seg>その道でレイラインへ行って、帰ってこい。</seg>
       </tuv>
     </tu>
     <tu>
