@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Give 50 Silver) I’m sorry about earlier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024415Z" creationid="urakata" creationdate="20190505T024415Z">
+        <seg>(銀貨50を渡して)前はすまなかったな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Give a Bandage.)</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T134904Z">
@@ -36661,6 +36669,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I’ll pay you back, plus interest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024427Z" creationid="urakata" creationdate="20190505T024427Z">
+        <seg>ほら、利息付けて返すよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, a gift from one mage to another.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T233009Z" creationid="urakata" creationdate="20190502T233009Z">
@@ -52019,6 +52035,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maybe there’s some hope for you after all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024606Z" creationid="urakata" creationdate="20190505T024606Z">
+        <seg>お前にも見どころがあるもんだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maybe we can find someone to make you a tool that makes it easier to focus that thing?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T072125Z" creationid="urakata" creationdate="20190430T072125Z">
@@ -64780,6 +64804,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T023800Z" creationid="urakata" creationdate="20190505T023800Z">
         <seg>Player_Yzan_KL_prequest_a_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_KL_prequest_b_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024338Z" creationid="urakata" creationdate="20190505T024338Z">
+        <seg>Player_Yzan_KL_prequest_b_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -86759,6 +86791,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless you’re looking for a nasty tan, behave yourself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024337Z" creationid="urakata" creationdate="20190505T024337Z">
+        <seg>真っ黒に日焼けしたいんでなけりゃ、慎めよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless, of course, you want to join me.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T112912Z" creationid="Mad" creationdate="20190406T112912Z">
@@ -95778,6 +95818,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T023839Z" creationid="urakata" creationdate="20190505T023839Z">
         <seg>Yzan_KL_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024428Z" creationid="urakata" creationdate="20190505T024428Z">
+        <seg>Yzan_KL_prequest_05</seg>
       </tuv>
     </tu>
     <tu>
