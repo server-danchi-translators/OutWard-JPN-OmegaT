@@ -363,6 +363,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Say nothing.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032020Z" creationid="urakata" creationdate="20190505T032020Z">
+        <seg>(沈黙)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Smash Myriade's skull and open the barrier to the altar)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T131420Z" creationid="taman" creationdate="20190421T131420Z">
@@ -36133,6 +36141,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He's usually &lt;color=#00CCFF&gt;&lt;b&gt;outside his manor&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032009Z" creationid="urakata" creationdate="20190505T032009Z">
+        <seg>大体&lt;color=#00CCFF&gt;&lt;b&gt;屋敷の外&lt;/b&gt;&lt;/color&gt;に居るぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He... didn't make it</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T055253Z" creationid="urakata" creationdate="20190427T055253Z">
@@ -60064,6 +60080,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or you can always make a deal with Sir Montgomery, the &lt;color=#00CCFF&gt;&lt;b&gt;Baron&lt;/b&gt;&lt;/color&gt; of the slums.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T031945Z" creationid="urakata" creationdate="20190505T031945Z">
+        <seg>それか、スラムの&lt;color=#00CCFF&gt;&lt;b&gt;男爵&lt;/b&gt;&lt;/color&gt;モンゴメリー卿と取引できる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or you could experiment in Manual Recipe mode, where you can use any ingredients together.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112149Z">
@@ -60844,6 +60868,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T074912Z" creationid="urakata" creationdate="20190502T074912Z">
         <seg>いいぞ、たすかるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perfect.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032048Z" creationid="urakata" creationdate="20190505T032048Z">
+        <seg>よし。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64852,6 +64884,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024621Z" creationid="urakata" creationdate="20190505T024621Z">
         <seg>Player_Yzan_KL_prequest_c_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_KL_prequest_d_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032011Z" creationid="urakata" creationdate="20190505T032011Z">
+        <seg>Player_Yzan_KL_prequest_d_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -95622,6 +95662,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’ve gotten approval from someone?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032042Z" creationid="urakata" creationdate="20190505T032042Z">
+        <seg>誰かから許可はもらえたか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’ve just made a terrible mistake.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064356Z" creationid="pugnus" creationdate="20190429T064356Z">
@@ -95930,6 +95978,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T025257Z" creationid="urakata" creationdate="20190505T025257Z">
         <seg>Yzan_KL_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T032021Z" creationid="urakata" creationdate="20190505T032021Z">
+        <seg>Yzan_KL_prequest_10</seg>
       </tuv>
     </tu>
     <tu>
