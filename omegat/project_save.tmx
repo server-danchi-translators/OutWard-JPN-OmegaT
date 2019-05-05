@@ -18124,6 +18124,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Careful around this place, it’s full of nasty Troglodytes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023230Z" creationid="urakata" creationdate="20190505T023150Z">
+        <seg>気を付けなよ、おっかないトログロダイトだらけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Carry on, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T070015Z" creationid="urakata" creationdate="20190502T070015Z">
@@ -43559,6 +43567,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035448Z" creationid="Light" creationdate="20190405T162341Z">
         <seg>詳しいことを聞きたいなら門兵長ブラックに聞くべきだね。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you want to get to the heart of the mountain, this is probably the quickest way, but also the most dangerous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023259Z" creationid="urakata" creationdate="20190505T023259Z">
+        <seg>山の中心部に行くには、これが一番の近道だが、一番危険な道でもある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89450,6 +89466,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, well, a visitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023050Z" creationid="urakata" creationdate="20190505T023050Z">
+        <seg>よーし、お客さん!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, well, look at that, you're not completely useless.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T120919Z" creationid="urakata" creationdate="20190501T120904Z">
@@ -92609,6 +92633,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T023417Z" creationid="setom" creationdate="20190331T112951Z">
         <seg>フレンドリストに入っている人と一緒にプレイしましょう！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can really feel the hum of Mana as it passes through the mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023016Z" creationid="urakata" creationdate="20190505T023016Z">
+        <seg>山の中をマナが巡る揺らぎを感じ取れるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -96082,6 +96114,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T022911Z" creationid="urakata" creationdate="20190505T022911Z">
         <seg>ZephyrienConflux_HM_Initial_1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZephyrienConflux_HM_Initial_2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023017Z" creationid="urakata" creationdate="20190505T023017Z">
+        <seg>ZephyrienConflux_HM_Initial_2</seg>
       </tuv>
     </tu>
     <tu>
