@@ -9460,6 +9460,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Show me that you’re a mage, and I’ll give you my approval&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034229Z" creationid="urakata" creationdate="20190505T034229Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;魔法が使えるところを見せな、そしたら許可をやるよ&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;So we put it in the old storage shed.&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T100527Z" creationid="pugnus" creationdate="20190422T032349Z">
@@ -23699,6 +23707,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T033212Z" creationid="urakata" creationdate="20190505T033212Z">
         <seg>Cyrene_KL_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034152Z" creationid="urakata" creationdate="20190505T034152Z">
+        <seg>Cyrene_KL_prequest_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -58089,8 +58105,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh, wonderful, another mouth to feed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T033416Z" creationid="urakata" creationdate="20190505T033416Z">
-        <seg>おっ、感激だね、また口が増えるのか。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034149Z" creationid="urakata" creationdate="20190505T033416Z">
+        <seg>おっ、感激だね、また養うべき口が増えるのか。</seg>
       </tuv>
     </tu>
     <tu>
