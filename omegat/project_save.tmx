@@ -17700,6 +17700,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045627Z" creationid="urakata" creationdate="20190505T045627Z">
+        <seg>Calixia_KL_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call off your armies or this’ll be your last fight, Sagard!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064714Z" creationid="pugnus" creationdate="20190429T064714Z">
@@ -39393,6 +39401,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t think I’m the right person for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045548Z" creationid="urakata" creationdate="20190505T045548Z">
+        <seg>私には向いていないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t understand why the Collective is even giving the claims of Old Levant any attention.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T093449Z" creationid="pugnus" creationdate="20190417T092704Z">
@@ -41006,6 +41022,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T075832Z" creationid="pugnus" creationdate="20190504T075832Z">
         <seg>おぉ！人生の！心の友よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I pledge myself to the Heroic Kingdom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045626Z" creationid="urakata" creationdate="20190505T045626Z">
+        <seg>勇王国への献身を誓います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62064,6 +62088,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Calixia_KL_prequest_B_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045600Z" creationid="urakata" creationdate="20190505T045600Z">
+        <seg>Player_Calixia_KL_prequest_B_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Calixia_KL_prequest_a_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045521Z" creationid="urakata" creationdate="20190505T045521Z">
+        <seg>Player_Calixia_KL_prequest_a_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Cardinal_HM_prequest_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012512Z" creationid="seto" creationdate="20190413T012512Z">
@@ -76118,6 +76158,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045648Z" creationid="urakata" creationdate="20190505T045559Z">
+        <seg>残念ながら。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sounds Volume</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021720Z" creationid="hiru4" creationdate="20190402T021720Z">
@@ -82311,6 +82359,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141000Z" creationid="Light" creationdate="20190407T130030Z">
         <seg>勇王国はただ生きることだけを考えているわけではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Heroic Kingdom of Levant is happy to have you, citizen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045846Z" creationid="urakata" creationdate="20190505T045846Z">
+        <seg>市民よ、レバント勇王国は貴君を歓迎する。</seg>
       </tuv>
     </tu>
     <tu>
