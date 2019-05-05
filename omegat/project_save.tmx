@@ -17308,6 +17308,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But it’s out of my control, I’m afraid.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095331Z" creationid="urakata" creationdate="20190505T095331Z">
+        <seg>これ以上は私にもどうにもならなくて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But life in Aurai is never that easy.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190412T094413Z" creationid="setom" creationdate="20190402T102507Z">
@@ -26584,6 +26592,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T042727Z" creationid="Light" creationdate="20190406T042617Z">
         <seg>レディをそんな風にがっかりさせちゃだめ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don’t get your hopes up too much, there’s, ah... pretty large taxes on my goods.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095242Z" creationid="urakata" creationdate="20190505T095242Z">
+        <seg>あんまり期待しない方がいいですよ、あの...税金が高いもんでね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43175,6 +43191,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If I could offer you a better deal, I would.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095309Z" creationid="urakata" creationdate="20190505T095309Z">
+        <seg>これよりましな取引ができればいいんですけどね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If I do work for her, I face almost certain death.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T111951Z" creationid="urakata" creationdate="20190428T111951Z">
@@ -49030,6 +49054,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035017Z" creationid="rkmad" creationdate="20190405T035017Z">
         <seg>私は私の道を歩まなければならない。さようなら、リッサ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sorry if the price of goods is a little higher than usual, it’s not something I have control over when selling goods in Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095508Z" creationid="urakata" creationdate="20190505T095508Z">
+        <seg>よそよりちょっと高かったら申し訳ないけど、レバントで商売するとなると、店主の一存でどうにかなることじゃないんでね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74745,6 +74777,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T051124Z" creationid="urakata" creationdate="20190505T051124Z">
         <seg>ShopPressured_NEUT_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShopPressured_NEUT_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095149Z" creationid="urakata" creationdate="20190505T095149Z">
+        <seg>ShopPressured_NEUT_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShopPressured_NEUT_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095242Z" creationid="urakata" creationdate="20190505T095242Z">
+        <seg>ShopPressured_NEUT_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ShopPressured_NEUT_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T095331Z" creationid="urakata" creationdate="20190505T095331Z">
+        <seg>ShopPressured_NEUT_04</seg>
       </tuv>
     </tu>
     <tu>
