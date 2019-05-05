@@ -43579,6 +43579,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to go ahead, I’ll give you a hand.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023333Z" creationid="urakata" creationdate="20190505T023333Z">
+        <seg>この道を行くなら、助けるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want to make the journey to another settled region of Aurai, you will need to prepare &lt;color=#00CCFF&gt;&lt;b&gt;Travel Rations&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T002604Z">
@@ -47998,6 +48006,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005703Z" creationid="seto" creationdate="20190413T005659Z">
         <seg>貯金して金は返す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll watch your back, Champion’s honor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023412Z" creationid="urakata" creationdate="20190505T023412Z">
+        <seg>背後は任せな、守護者の誉れだ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -89194,6 +89210,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome, my friend, to the Heroic Kingdom of Levant!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023528Z" creationid="urakata" creationdate="20190505T023528Z">
+        <seg>友よ、ようこそレバント勇王国へ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well done on bringing Rissa back.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T073058Z" creationid="pugnus" creationdate="20190415T073058Z">
@@ -93461,6 +93485,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You made it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023441Z" creationid="urakata" creationdate="20190505T023441Z">
+        <seg>生きていたか!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You make Gold Belly sad, small one!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021637Z" creationid="pugnus" creationdate="20190422T021637Z">
@@ -95662,6 +95694,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023421Z" creationid="urakata" creationdate="20190505T023421Z">
+        <seg>Yzan_KL_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023529Z" creationid="urakata" creationdate="20190505T023529Z">
+        <seg>Yzan_KL_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yzan_NE_Call_To_Advent_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T025421Z" creationid="seto" creationdate="20190406T025421Z">
@@ -96122,6 +96170,30 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T023017Z" creationid="urakata" creationdate="20190505T023017Z">
         <seg>ZephyrienConflux_HM_Initial_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZephyrienConflux_HM_Initial_3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023300Z" creationid="urakata" creationdate="20190505T023300Z">
+        <seg>ZephyrienConflux_HM_Initial_3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZephyrienConflux_HM_Initial_4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023414Z" creationid="urakata" creationdate="20190505T023414Z">
+        <seg>ZephyrienConflux_HM_Initial_4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZephyrienConflux_HM_Initial_5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023418Z" creationid="urakata" creationdate="20190505T023418Z">
+        <seg>ZephyrienConflux_HM_Initial_5</seg>
       </tuv>
     </tu>
     <tu>
