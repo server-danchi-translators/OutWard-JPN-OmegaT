@@ -27790,6 +27790,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enjoy your stay, then, my friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023838Z" creationid="urakata" creationdate="20190505T023838Z">
+        <seg>そうか、いい滞在になるといいな、友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enmerkar Forest</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T070248Z" creationid="Gaiden Shinji" creationdate="20190403T114410Z">
@@ -54435,6 +54443,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My favourite bandit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023733Z" creationid="urakata" creationdate="20190505T023725Z">
+        <seg>お得意様の盗賊だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My finances are reeling from this loss.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103609Z" creationid="Light" creationdate="20190407T050724Z">
@@ -64748,6 +64764,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T002553Z" creationid="seto" creationdate="20190413T002553Z">
         <seg>Player_Yzan_BC_Prequest_c_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Yzan_KL_prequest_a_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023800Z" creationid="urakata" creationdate="20190505T023800Z">
+        <seg>Player_Yzan_KL_prequest_a_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -89418,6 +89442,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, look what the sand swept in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023656Z" creationid="urakata" creationdate="20190505T023656Z">
+        <seg>でだ、砂と一緒に何が打ち上げられたと思う。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, looks like things will not change much.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T035337Z" creationid="pugnus" creationdate="20190422T035337Z">
@@ -89774,6 +89806,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113638Z" creationid="weedssoul" creationdate="20190406T113638Z">
         <seg>どうしてここに？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What brings you to my city, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023759Z" creationid="urakata" creationdate="20190505T023759Z">
+        <seg>この街へは何の用で来たんだ、[PlayerName]?</seg>
       </tuv>
     </tu>
     <tu>
@@ -93487,8 +93527,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You made it!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T023441Z" creationid="urakata" creationdate="20190505T023441Z">
-        <seg>生きていたか!</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023616Z" creationid="urakata" creationdate="20190505T023441Z">
+        <seg>よく来たな!</seg>
       </tuv>
     </tu>
     <tu>
@@ -95706,6 +95746,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T023529Z" creationid="urakata" creationdate="20190505T023529Z">
         <seg>Yzan_KL_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023803Z" creationid="urakata" creationdate="20190505T023803Z">
+        <seg>Yzan_KL_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T023839Z" creationid="urakata" creationdate="20190505T023839Z">
+        <seg>Yzan_KL_prequest_04</seg>
       </tuv>
     </tu>
     <tu>
