@@ -37045,6 +37045,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I have to reward you for this.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T102024Z" creationid="urakata" creationdate="20190505T102024Z">
+        <seg>さあ、君には礼をせねばならんな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, I'll teach you a &lt;color=#00CCFF&gt;&lt;b&gt;skill&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063046Z">
@@ -49242,6 +49250,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ve got 100 silver on me, and by my Queen you deserve every last one of them!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T102234Z" creationid="urakata" creationdate="20190505T102234Z">
+        <seg>今手持ちで銀貨100枚ある。女王陛下に懸けて、君の働きにはそれだけの価値が有る!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ve got no patience for those endless meetings.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T000842Z" creationid="pugnus" creationdate="20190416T233648Z">
@@ -50174,6 +50190,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T101714Z" creationid="urakata" creationdate="20190505T101714Z">
         <seg>Kirouac_NEUT_Initial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kirouac_NEUT_Initial_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T101941Z" creationid="urakata" creationdate="20190505T101941Z">
+        <seg>Kirouac_NEUT_Initial_05</seg>
       </tuv>
     </tu>
     <tu>
