@@ -15290,6 +15290,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Baron_KL_prequest_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042217Z" creationid="urakata" creationdate="20190505T042217Z">
+        <seg>Baron_KL_prequest_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrel Man</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113448Z" creationid="Gaiden Shinji" creationdate="20190404T113448Z">
@@ -29976,8 +29984,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Find a stretch of ground that's not occupied and roll that out.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T042016Z" creationid="urakata" creationdate="20190505T042016Z">
-        <seg>地面の占領されていない所を探して、荷を下ろすといい。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042318Z" creationid="urakata" creationdate="20190505T042016Z">
+        <seg>地面の占領されていない所を探して、荷を下ろせ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74389,6 +74397,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shoo, now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042602Z" creationid="urakata" creationdate="20190505T042602Z">
+        <seg>静かにな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shoo.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T094035Z" creationid="pugnus" creationdate="20190417T094035Z">
@@ -94697,6 +94713,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054811Z" creationid="urakata" creationdate="20190427T054725Z">
         <seg>詳しくは彼に聞いてみるべきかと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should show some gratitude!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042214Z" creationid="urakata" creationdate="20190505T042214Z">
+        <seg>恩というものを知らないのか!</seg>
       </tuv>
     </tu>
     <tu>
