@@ -513,8 +513,8 @@
       <tuv lang="EN-US">
         <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;?)</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T050059Z" creationid="urakata" creationdate="20190505T050059Z">
-        <seg>(This is a turning point in my life... &lt;color=#00CCFF&gt;&lt;b&gt;Am I certain I wish to pledge my life to the Heroic Kingdom of Levant&lt;/b&gt;&lt;/color&gt;?)</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050207Z" creationid="urakata" creationdate="20190505T050059Z">
+        <seg>(ここが人生の分岐点だ...&lt;color=#00CCFF&gt;&lt;b&gt;レバント勇王国に忠誠を誓っていいのか&lt;/b&gt;&lt;/color&gt;?)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11152,6 +11152,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, so you must be the new one we’ve been informed about.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050337Z" creationid="urakata" creationdate="20190505T050337Z">
+        <seg>おお、あなたが話に出ていた新顔ですね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, someone who speaks my language!</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T053125Z" creationid="Mad" creationdate="20190407T053125Z">
@@ -17728,6 +17736,30 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T050010Z" creationid="urakata" creationdate="20190505T050010Z">
         <seg>Calixia_KL_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050209Z" creationid="urakata" creationdate="20190505T050209Z">
+        <seg>Calixia_KL_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050303Z" creationid="urakata" creationdate="20190505T050303Z">
+        <seg>Calixia_KL_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050304Z" creationid="urakata" creationdate="20190505T050304Z">
+        <seg>Calixia_KL_prequest_10</seg>
       </tuv>
     </tu>
     <tu>
@@ -38691,6 +38723,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
         <seg>すまない、 [PlayerName], ここはもう君の家ではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am sorry, but unless you have official business here, I do not have the time to spare for a visitor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050302Z" creationid="urakata" creationdate="20190505T050302Z">
+        <seg>失礼ながら、公式に話し合うべきことがないのであれば、客人に割く時間はないのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89966,6 +90006,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T082735Z" creationid="pugnus" creationdate="20190504T082735Z">
         <seg>伝説になろうとしているすべての人々の本拠地、レバントの勇王国へようこそ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the Heroic Kingdom of Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050354Z" creationid="urakata" creationdate="20190505T050354Z">
+        <seg>レバント勇王国へようこそ。</seg>
       </tuv>
     </tu>
     <tu>
