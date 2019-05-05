@@ -17684,6 +17684,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045010Z" creationid="urakata" creationdate="20190505T045010Z">
+        <seg>Calixia_KL_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call off your armies or this’ll be your last fight, Sagard!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064714Z" creationid="pugnus" creationdate="20190429T064714Z">
@@ -43474,6 +43482,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can help us, we are overjoyed to have you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045225Z" creationid="urakata" creationdate="20190505T045225Z">
+        <seg>力になってもらえるなら、喜んでこの国に迎えたいのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can make the journey, he’ll pay you well for it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T081716Z" creationid="pugnus" creationdate="20190504T081716Z">
@@ -48934,6 +48950,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T123939Z" creationid="urakata" creationdate="20190406T123939Z">
         <seg>これが最後の出資だし、スラムで何かできるようになるはずだ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sure you’ll be a great asset as a mercenary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045009Z" creationid="urakata" creationdate="20190505T045009Z">
+        <seg>傭兵になれば活躍できるであろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88605,6 +88629,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051821Z" creationid="Light" creationdate="20190406T051821Z">
         <seg>私達はふたりともお利口さんってことね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are constantly under threat by the beasts and bandits of the desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045056Z" creationid="urakata" creationdate="20190505T045056Z">
+        <seg>この国は常に災厄の獣と砂漠の盗賊たちの危険にさらされています。</seg>
       </tuv>
     </tu>
     <tu>
