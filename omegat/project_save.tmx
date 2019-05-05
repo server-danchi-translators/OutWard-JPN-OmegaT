@@ -88866,6 +88866,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We're facing an overpopulation crisis and we need to be sure our new people are actually useful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T025353Z" creationid="urakata" creationdate="20190505T025256Z">
+        <seg>人口過多で危機寸前だから、有用な人材でないと置いてはおけないんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We're going back to Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065441Z" creationid="urakata" creationdate="20190430T063645Z">
@@ -95906,6 +95914,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T025022Z" creationid="urakata" creationdate="20190505T025022Z">
         <seg>Yzan_KL_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T025257Z" creationid="urakata" creationdate="20190505T025257Z">
+        <seg>Yzan_KL_prequest_09</seg>
       </tuv>
     </tu>
     <tu>
