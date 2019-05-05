@@ -17692,6 +17692,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045226Z" creationid="urakata" creationdate="20190505T045226Z">
+        <seg>Calixia_KL_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call off your armies or this’ll be your last fight, Sagard!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064714Z" creationid="pugnus" creationdate="20190429T064714Z">
@@ -86093,6 +86101,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To help us create a place where humankind can do more than just survive?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045519Z" creationid="urakata" creationdate="20190505T045519Z">
+        <seg>人びとが生きる以上のことを成し得る場所を作る力となることを誓うか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065427Z" creationid="urakata" creationdate="20190407T031758Z">
@@ -92022,6 +92038,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044048Z" creationid="weedssoul" creationdate="20190406T014653Z">
         <seg>私と一緒に働き、アバディーン家に加わりますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Will you, [PlayerName], pledge your service to the ideals of the Heroic Kingdom of Levant?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T045326Z" creationid="urakata" creationdate="20190505T045326Z">
+        <seg>貴君、[PlayerName]は、レバント勇王国の理想に仕えることを誓うか?</seg>
       </tuv>
     </tu>
     <tu>
