@@ -33328,6 +33328,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Good to hear!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024927Z" creationid="urakata" creationdate="20190505T024927Z">
+        <seg>いいぞ!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ホントに関門であってるか分からず</note>
       <tuv lang="EN-US">
         <seg>Good work on the barrier, [PlayerName].</seg>
@@ -88201,6 +88209,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We could always use someone who knows what they're doing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T025022Z" creationid="urakata" creationdate="20190505T025022Z">
+        <seg>話のわかるやつはいつでも歓迎だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We created crystal Vigils that keep them away from places where people live, and when we can, we destroy them.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T113143Z" creationid="pugnus" creationdate="20190422T113143Z">
@@ -94485,6 +94501,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will &lt;color=#00CCFF&gt;&lt;b&gt;need someone with high status to vouch for you&lt;/b&gt;&lt;/color&gt; if you want to stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T025149Z" creationid="urakata" creationdate="20190505T025149Z">
+        <seg>ここに居たいんなら、&lt;color=#00CCFF&gt;&lt;b&gt;身分のある人の保証が要るぞ。&lt;/b&gt;&lt;/color&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You will know it when you see it.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045749Z" creationid="urakata" creationdate="20190501T045749Z">
@@ -95866,6 +95890,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024643Z" creationid="urakata" creationdate="20190505T024643Z">
         <seg>Yzan_KL_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T024919Z" creationid="urakata" creationdate="20190505T024919Z">
+        <seg>Yzan_KL_prequest_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yzan_KL_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T025022Z" creationid="urakata" creationdate="20190505T025022Z">
+        <seg>Yzan_KL_prequest_08</seg>
       </tuv>
     </tu>
     <tu>
