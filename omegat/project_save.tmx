@@ -43668,8 +43668,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you change your mind, the kingdom will be waiting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T050058Z" creationid="urakata" creationdate="20190505T050009Z">
-        <seg>心変わりしたら言ってください。その時を待っていますよ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T051112Z" creationid="urakata" creationdate="20190505T050009Z">
+        <seg>心変わりするのを待っているぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74733,6 +74733,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ShopPressured_NEUT_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T051124Z" creationid="urakata" creationdate="20190505T051124Z">
+        <seg>ShopPressured_NEUT_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shop_Exit_Message</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190403T091641Z" creationid="setom" creationdate="20190403T091641Z">
@@ -82173,8 +82181,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>That’s a shame.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T045942Z" creationid="urakata" creationdate="20190505T045942Z">
-        <seg>残念です。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T051035Z" creationid="urakata" creationdate="20190505T045942Z">
+        <seg>残念だ。</seg>
       </tuv>
     </tu>
     <tu>
