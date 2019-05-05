@@ -15282,6 +15282,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Baron_KL_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042018Z" creationid="urakata" creationdate="20190505T042018Z">
+        <seg>Baron_KL_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrel Man</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113448Z" creationid="Gaiden Shinji" creationdate="20190404T113448Z">
@@ -37102,6 +37110,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey now, what's with that look?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042110Z" creationid="urakata" creationdate="20190505T042048Z">
+        <seg>おやおや、その目つきは何だね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey thanks.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014706Z" creationid="rkmad" creationdate="20190404T014706Z">
@@ -40205,6 +40221,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T065659Z" creationid="taman" creationdate="20190410T065432Z">
         <seg>私はただ……最初の使命に向かう前にもう一度この場所を訪れたかったの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I kept up my end of the deal, didn't I?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042158Z" creationid="urakata" creationdate="20190505T042158Z">
+        <seg>私は取り決め通りにしただけだ、そうだろう?</seg>
       </tuv>
     </tu>
     <tu>
