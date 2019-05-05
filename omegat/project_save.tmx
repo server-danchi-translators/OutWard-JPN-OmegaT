@@ -23783,6 +23783,30 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035429Z" creationid="urakata" creationdate="20190505T035429Z">
+        <seg>Cyrene_KL_prequest_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035612Z" creationid="urakata" creationdate="20190505T035612Z">
+        <seg>Cyrene_KL_prequest_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035720Z" creationid="urakata" creationdate="20190505T035720Z">
+        <seg>Cyrene_KL_prequest_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyril Turnbull</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114048Z" creationid="Gaiden Shinji" creationdate="20190404T114048Z">
@@ -37118,6 +37142,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He’s down by the fountain near the Inn.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035611Z" creationid="urakata" creationdate="20190505T035611Z">
+        <seg>宿の近くの噴水の脇にいるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He’s helped himself to a lot of your valuables.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100657Z" creationid="はぐくみ会" creationdate="20190404T001222Z">
@@ -39669,6 +39701,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T071445Z" creationid="pugnus" creationdate="20190504T071404Z">
         <seg>私は、狩人に役立つ品々を持っています...あなたが獣か人か、どちらを狩るかにかかわらずね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I have nothing to say to you, priest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035651Z" creationid="urakata" creationdate="20190505T035637Z">
+        <seg>坊さん、あんたと話すことはないよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43903,6 +43943,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
         <seg>あなたが何か情報を探しているのなら、宿屋も良い場所ですよ。また、浜辺にいるイザンの事も忘れないように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re not here to help us win the war, I have no use for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035719Z" creationid="urakata" creationdate="20190505T035719Z">
+        <seg>戦争に勝つための手伝いをしてくれるってんじゃなきゃ、用はないね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76145,6 +76193,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Square things with him first, and then maybe we can talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035553Z" creationid="urakata" creationdate="20190505T035553Z">
+        <seg>あいつとのハナシを付けな。私と話すのはそれからだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stability Potion</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T074807Z" creationid="pugnus" creationdate="20190503T074807Z">
@@ -94005,10 +94061,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must be that one that Yzan was talking about from Cierzo.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035512Z" creationid="urakata" creationdate="20190505T035512Z">
+        <seg>あんたがイザンの言ってたシエルゾ人だな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must be the one Rissa wants to adopt into her bloodline.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T121338Z" creationid="urakata" creationdate="20190501T121306Z">
         <seg>リッサが一族に迎え入れようとしているのは君か。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must be the one that Yzan told me about.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T035741Z" creationid="urakata" creationdate="20190505T035741Z">
+        <seg>あんたがイザンの言ってたやつだね。</seg>
       </tuv>
     </tu>
     <tu>
