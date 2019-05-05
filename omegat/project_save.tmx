@@ -9846,6 +9846,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new refugee, hmm?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041000Z" creationid="urakata" creationdate="20190505T041000Z">
+        <seg>新顔の難民かね?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A passing missionary must have brought you to the Inn in Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190407T125941Z" creationid="はぐくみ会" creationdate="20190403T102434Z">
@@ -15254,6 +15262,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T040820Z" creationid="urakata" creationdate="20190505T040820Z">
         <seg>Baron_KL_prequest_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Baron_KL_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041223Z" creationid="urakata" creationdate="20190505T041223Z">
+        <seg>Baron_KL_prequest_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -42198,6 +42214,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T034627Z" creationid="urakata" creationdate="20190505T034627Z">
         <seg>レバント軍名義の保証を出してやる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm Baron Montgomery.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041009Z" creationid="urakata" creationdate="20190505T041009Z">
+        <seg>私はモンゴメリー男爵</seg>
       </tuv>
     </tu>
     <tu>
@@ -75278,6 +75302,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So long as you pay your dues, you're welcome to stay, as far as I'm concerned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041222Z" creationid="urakata" creationdate="20190505T041222Z">
+        <seg>料金さえ払っていれば、どんなに長く滞在していても、私は一向にかまわん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So long as you’re working with the Blue Chamber’s goals in mind, we shouldn't have a problem.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T121528Z" creationid="urakata" creationdate="20190501T121520Z">
@@ -93921,6 +93953,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T170029Z" creationid="setom" creationdate="20190402T170029Z">
         <seg>飢え死にしそうだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You look like the adventurous type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041243Z" creationid="urakata" creationdate="20190505T041243Z">
+        <seg>腕に自信ありと見た。</seg>
       </tuv>
     </tu>
     <tu>
