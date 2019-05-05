@@ -31471,6 +31471,30 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Galira_HM_Initial_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022617Z" creationid="urakata" creationdate="20190505T022617Z">
+        <seg>Galira_HM_Initial_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Galira_HM_Initial_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022618Z" creationid="urakata" creationdate="20190505T022618Z">
+        <seg>Galira_HM_Initial_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Galira_HM_Initial_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022620Z" creationid="urakata" creationdate="20190505T022620Z">
+        <seg>Galira_HM_Initial_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game is closed and cannot be joined at the moment.</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T071059Z" creationid="hiru4" creationdate="20190403T071051Z">
@@ -40614,6 +40638,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T075832Z" creationid="pugnus" creationdate="20190504T075832Z">
         <seg>おぉ！人生の！心の友よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I prefer action.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022523Z" creationid="urakata" creationdate="20190505T022523Z">
+        <seg>行動こそが物をいう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86615,6 +86647,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless someone is in trouble, I don’t much care for small-talk.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022614Z" creationid="urakata" creationdate="20190505T022614Z">
+        <seg>助けが必要な人が居るのでなければ、世間話は好かん。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless we get the ghosts to lower their guard, I can’t purify the altar.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T062202Z" creationid="taman" creationdate="20190501T062202Z">
@@ -96026,6 +96066,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T150649Z" creationid="Mad" creationdate="20190407T150649Z">
         <seg>我々の中でもっとも強き者であるゼフィリアンは、ポーションを生成できる者を必要としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>ZephyrienConflux_HM_Initial_1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T022911Z" creationid="urakata" creationdate="20190505T022911Z">
+        <seg>ZephyrienConflux_HM_Initial_1</seg>
       </tuv>
     </tu>
     <tu>
