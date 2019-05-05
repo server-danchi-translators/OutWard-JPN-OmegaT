@@ -17676,6 +17676,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044817Z" creationid="urakata" creationdate="20190505T044817Z">
+        <seg>Calixia_KL_prequest_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Call off your armies or this’ll be your last fight, Sagard!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064714Z" creationid="pugnus" creationdate="20190429T064714Z">
@@ -38535,6 +38543,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I am King Simeon, and this is my Queen, Calixa.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044841Z" creationid="urakata" creationdate="20190505T044841Z">
+        <seg>王のシメオンである。こちらは女王のカリクサ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am Living Thought.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041308Z" creationid="urakata" creationdate="20190503T041308Z">
@@ -54863,6 +54879,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190402T103441Z">
         <seg>祖母が過去に部族を没落させ、一族に重い「血の代償」をもたらしたのだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My gut tells me that you’re skilled in survival.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044946Z" creationid="urakata" creationdate="20190505T044946Z">
+        <seg>生き抜く力を持っているな。直感で分かる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89794,6 +89818,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Welcome to the Heroic Kingdom, where our hope is to give every person the chance to do what they excel at, and the chance to live the life they wish to live.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044816Z" creationid="urakata" creationdate="20190505T044816Z">
+        <seg>勇王国へようこそ。ここでは皆が自分の得意なことをし、生きたいように生きる機会が与えられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the city of Monsoon!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075745Z" creationid="urakata" creationdate="20190502T075745Z">
@@ -94245,6 +94277,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must be new to Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044705Z" creationid="urakata" creationdate="20190505T044705Z">
+        <seg>レバントには初めて来たのでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must be part of the Blue Chamber to learn this skill.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190404T132022Z" creationid="hiru4" creationdate="20190403T052506Z">
@@ -95658,6 +95698,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T113156Z" creationid="はぐくみ会" creationdate="20190403T084150Z">
         <seg>目を開けると、カジートの女性が私の眉間に刀を向けている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your face isn't familiar to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T044650Z" creationid="urakata" creationdate="20190505T044650Z">
+        <seg>見慣れない顔ですね。</seg>
       </tuv>
     </tu>
     <tu>
