@@ -23727,6 +23727,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cyrene_KL_prequest_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034654Z" creationid="urakata" creationdate="20190505T034654Z">
+        <seg>Cyrene_KL_prequest_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cyril Turnbull</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114048Z" creationid="Gaiden Shinji" creationdate="20190404T114048Z">
@@ -36725,6 +36733,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, If you’re going to be doing mercenary work for me, I think you might need these.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034818Z" creationid="urakata" creationdate="20190505T034818Z">
+        <seg>おい、私の依頼で傭兵の仕事をやるなら、これをやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, I’ll pay you back, plus interest.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024427Z" creationid="urakata" creationdate="20190505T024427Z">
@@ -42070,6 +42086,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T003923Z" creationid="taman" creationdate="20190428T003923Z">
         <seg>それまでに祭壇を浄化する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll vouch for you on behalf of Levant's army.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034627Z" creationid="urakata" creationdate="20190505T034627Z">
+        <seg>レバント軍名義の保証を出してやる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66515,6 +66539,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Queen Calixa will be glad to let you stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034652Z" creationid="urakata" creationdate="20190505T034652Z">
+        <seg>カリクサ女王は喜んで滞在許可を出すさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Queen Calixia, in the Levant Palace, will have a task for you in 3 days.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190413T070753Z" creationid="Light" creationdate="20190409T100621Z">
@@ -82729,6 +82761,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101449Z" creationid="pugnus" creationdate="20190404T044748Z">
         <seg>衛生兵は支払いを受け取ることは無かった。”もう、支払いは済んでいます。”としか言わない。私は何日も外出し、危険な目にもあったが、助かった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The mercenary across from me can teach you how to use it, if you don’t know how already.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T034922Z" creationid="urakata" creationdate="20190505T034922Z">
+        <seg>使い方がわからなければ、向かいにいる傭兵に習え。</seg>
       </tuv>
     </tu>
     <tu>
