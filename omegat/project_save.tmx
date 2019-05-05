@@ -43298,6 +43298,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you &lt;color=#00CCFF&gt;&lt;b&gt;bring me 200 silver coins&lt;/b&gt;&lt;/color&gt;, I'll vouch for you and give you a place to stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041347Z" creationid="urakata" creationdate="20190505T041347Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;銀貨200枚持ってくれば&lt;/b&gt;&lt;/color&gt;、市民権取得の保証をやろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you are able, &lt;color=#00CCFF&gt;&lt;b&gt;I’d like you to meet me there&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065417Z" creationid="weedssoul" creationdate="20190405T164035Z">
@@ -81699,6 +81707,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That's a better deal than a lot of people can hope for these days.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041545Z" creationid="urakata" creationdate="20190505T041545Z">
+        <seg>このご時世にはいい条件の取引だと思うぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That's a mistake.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013630Z" creationid="urakata" creationdate="20190427T013630Z">
@@ -93959,8 +93975,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You look like the adventurous type.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T041243Z" creationid="urakata" creationdate="20190505T041243Z">
-        <seg>腕に自信ありと見た。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041253Z" creationid="urakata" creationdate="20190505T041243Z">
+        <seg>腕っぷしに自信ありと見た。</seg>
       </tuv>
     </tu>
     <tu>
