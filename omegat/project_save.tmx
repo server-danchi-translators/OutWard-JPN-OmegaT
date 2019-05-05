@@ -15274,6 +15274,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Baron_KL_prequest_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041629Z" creationid="urakata" creationdate="20190505T041629Z">
+        <seg>Baron_KL_prequest_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrel Man</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113448Z" creationid="Gaiden Shinji" creationdate="20190404T113448Z">
@@ -29334,6 +29342,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Excellent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041648Z" creationid="urakata" creationdate="20190505T041643Z">
+        <seg>すばらしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Exception in the receive-loop.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T074111Z" creationid="hiru4" creationdate="20190403T070648Z">
@@ -29946,6 +29962,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T092846Z" creationid="urakata" creationdate="20190406T132921Z">
         <seg>「古代人の顔」の名で知られるダンジョンで、「緋色の貴婦人」のものである小さな像を探す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find a stretch of ground that's not occupied and roll that out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042016Z" creationid="urakata" creationdate="20190505T042016Z">
+        <seg>地面の占領されていない所を探して、荷を下ろすといい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36817,6 +36841,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131238Z" creationid="urakata" creationdate="20190430T131238Z">
         <seg>何も起きやしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here's a letter of introduction for our Queen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041706Z" creationid="urakata" creationdate="20190505T041706Z">
+        <seg>さ、女王への紹介状だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58215,6 +58247,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oh, and here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041733Z" creationid="urakata" creationdate="20190505T041733Z">
+        <seg>ああ、それとこれもだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oh, and it would be nice for humans to start to appreciate our culture, too, of course.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T022237Z" creationid="pugnus" creationdate="20190422T022237Z">
@@ -74128,6 +74168,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T074455Z" creationid="pugnus" creationdate="20190415T074455Z">
         <seg>ガブリエラ・サリバンはこの襲撃を「祖先の記憶」により警告されるかもしれない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She'll arrange for your citizenship.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041721Z" creationid="urakata" creationdate="20190505T041721Z">
+        <seg>市民権の認可をくださるだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93975,8 +94023,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You look like the adventurous type.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T041253Z" creationid="urakata" creationdate="20190505T041243Z">
-        <seg>腕っぷしに自信ありと見た。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041628Z" creationid="urakata" creationdate="20190505T041243Z">
+        <seg>腕に自信ありと見た。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95674,6 +95722,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T074258Z" creationid="pugnus" creationdate="20190429T074258Z">
         <seg>あなたのリッサに対する個人的な感情は、他の部族に害を及ぼす理由にはならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your place to stay.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T041819Z" creationid="urakata" creationdate="20190505T041741Z">
+        <seg>ここに泊まるといい。</seg>
       </tuv>
     </tu>
     <tu>
