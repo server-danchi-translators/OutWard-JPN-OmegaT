@@ -11154,8 +11154,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ah, so you must be the new one we’ve been informed about.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T050337Z" creationid="urakata" creationdate="20190505T050337Z">
-        <seg>おお、あなたが話に出ていた新顔ですね。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050959Z" creationid="urakata" creationdate="20190505T050337Z">
+        <seg>おお、貴君が話に出ていた新顔だな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17768,6 +17768,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T050406Z" creationid="urakata" creationdate="20190505T050406Z">
         <seg>Calixia_KL_prequest_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calixia_KL_prequest_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050919Z" creationid="urakata" creationdate="20190505T050919Z">
+        <seg>Calixia_KL_prequest_12</seg>
       </tuv>
     </tu>
     <tu>
@@ -44237,8 +44245,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you’re looking for work, I’m sure Cyrene has plenty that pays well.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T045931Z" creationid="urakata" creationdate="20190505T045931Z">
-        <seg>仕事を探しているのなら、キュレネが払いの良い仕事を充分に用意しているでしょう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T051002Z" creationid="urakata" creationdate="20190505T045931Z">
+        <seg>仕事を探しているのなら、キュレネが払いの良い仕事を充分に用意している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61428,6 +61436,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T075939Z" creationid="pugnus" creationdate="20190415T075939Z">
         <seg>おそらく、人質をどうしたかについての手掛かりになるだろう。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perhaps later.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T050918Z" creationid="urakata" creationdate="20190505T050918Z">
+        <seg>後で良いか。</seg>
       </tuv>
     </tu>
     <tu>
