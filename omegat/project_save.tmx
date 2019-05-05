@@ -11104,6 +11104,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, a visitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042742Z" creationid="urakata" creationdate="20190505T042725Z">
+        <seg>ああ、客人よ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, and use the open terrain to your advantage.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T084131Z" creationid="pugnus" creationdate="20190504T084036Z">
@@ -15298,6 +15306,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Baron_KL_prequest_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042704Z" creationid="urakata" creationdate="20190505T042704Z">
+        <seg>Baron_KL_prequest_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Barrel Man</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T113448Z" creationid="Gaiden Shinji" creationdate="20190404T113448Z">
@@ -15414,6 +15430,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035118Z" creationid="rkmad" creationdate="20190405T035118Z">
         <seg>そして、賢明であるように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Be sure to buy lots of things from the local shops, their prices are excellent, if I do say so myself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T043133Z" creationid="urakata" creationdate="20190505T043133Z">
+        <seg>ここの商店で買い物をしていきたまえよ。自分で言わせてもらえば、良心的価格だ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59495,6 +59519,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you’ve introduced yourself to the Queen, it’s a done deal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042703Z" creationid="urakata" creationdate="20190505T042703Z">
+        <seg>女王にお目通りすればおわりだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One arm feels like it's someplace kinda high up...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T132141Z" creationid="taman" creationdate="20190421T132141Z">
@@ -93881,6 +93913,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T134249Z" creationid="setom" creationdate="20190331T111954Z">
         <seg>ポケットとバックパックもスペースには限りがあります。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have your approval to become a citizen of Levant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T042617Z" creationid="urakata" creationdate="20190505T042617Z">
+        <seg>レバントの市民権は認可されたわけだ。</seg>
       </tuv>
     </tu>
     <tu>
