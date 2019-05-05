@@ -94245,6 +94245,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You should try &lt;color=#00CCFF&gt;&lt;b&gt;Cyrene, by the entrance to the Palace&lt;/b&gt;&lt;/color&gt;, she'll approve you if you can help our army.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190505T031801Z" creationid="urakata" creationdate="20190505T031801Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;宮殿の入り口のそばにいるキュレネ&lt;/b&gt;&lt;/color&gt;が良いだろう。軍を助ければ許可をくれるはずだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You should’ve been on the front lines.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T070032Z" creationid="pugnus" creationdate="20190429T070032Z">
