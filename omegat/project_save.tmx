@@ -17980,6 +17980,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you help?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031757Z" creationid="seto" creationdate="20190506T031757Z">
+        <seg>助けてはくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you see them?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T125240Z" creationid="urakata" creationdate="20190430T125240Z">
@@ -30787,6 +30795,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T021346Z" creationid="pugnus" creationdate="20190503T021346Z">
         <seg>集中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus mana, you say...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031828Z" creationid="seto" creationdate="20190506T031828Z">
+        <seg>マナの集中、と言ったが…</seg>
       </tuv>
     </tu>
     <tu>
@@ -80701,6 +80717,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T031316Z" creationid="seto" creationdate="20190506T031316Z">
         <seg>Taleron_BC_Bones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031758Z" creationid="seto" creationdate="20190506T031758Z">
+        <seg>Taleron_BC_Bones_02</seg>
       </tuv>
     </tu>
     <tu>
