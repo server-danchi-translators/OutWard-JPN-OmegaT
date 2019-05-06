@@ -25939,6 +25939,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did he?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073738Z" creationid="urakata" creationdate="20190506T073738Z">
+        <seg>モファットが?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did something happen?</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T110621Z" creationid="Mad" creationdate="20190406T110621Z">
@@ -36492,6 +36500,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He must have been mistaken.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073747Z" creationid="urakata" creationdate="20190506T073747Z">
+        <seg>勘違いしたんでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He not create humans, but is lesser god that only matters to this world?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T111651Z" creationid="pugnus" creationdate="20190422T111502Z">
@@ -37081,6 +37097,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190506T070530Z" creationid="urakata" creationdate="20190506T070530Z">
         <seg>Helen_Turnbull_NE_Call_To_Advent_26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073732Z" creationid="urakata" creationdate="20190506T073732Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_27</seg>
       </tuv>
     </tu>
     <tu>
@@ -60609,8 +60633,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Only the Sorobor Academy would be able to refine something this dangerous.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190506T073711Z" creationid="urakata" creationdate="20190506T073711Z">
-        <seg>これほどの危険物を生成できるのはショロボル・アカデミーだけでしょう。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073731Z" creationid="urakata" creationdate="20190506T073711Z">
+        <seg>これほどの危険物を精製できるのはショロボル・アカデミーだけなんだそうで。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77154,6 +77178,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075012Z" creationid="urakata" creationdate="20190502T075012Z">
         <seg>Sorean_HM_prequest_16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorobor Academy doesn’t do business with those monsters, and we certainly had no motive to see Zephyrien assassinated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073928Z" creationid="urakata" creationdate="20190506T073928Z">
+        <seg>ショロボル・アカデミーは</seg>
       </tuv>
     </tu>
     <tu>
