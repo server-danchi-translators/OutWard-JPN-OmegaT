@@ -59239,6 +59239,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course, I could increase my price to 100 silver...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T080156Z" creationid="urakata" creationdate="20190506T080156Z">
+        <seg>もちろん、銀貨100枚まで値を上げてもいいし...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T030522Z" creationid="weedssoul" creationdate="20190406T030522Z">
@@ -92254,6 +92262,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T015419Z" creationid="pugnus" creationdate="20190425T015419Z">
         <seg>皆さんは何といいますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you say?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T080203Z" creationid="urakata" creationdate="20190506T080203Z">
+        <seg>どうする?</seg>
       </tuv>
     </tu>
     <tu>
