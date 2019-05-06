@@ -31671,6 +31671,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gabriella_BC_Bones_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031315Z" creationid="seto" creationdate="20190506T031315Z">
+        <seg>Gabriella_BC_Bones_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gabriella_BC_Mix_Legacy_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T051931Z" creationid="seto" creationdate="20190406T051931Z">
@@ -43409,8 +43417,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If anything, I’m just upset Rissa didn’t see Julius’s betrayal coming.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031116Z" creationid="seto" creationdate="20190506T031116Z">
-        <seg>どちらかといえば、私はリッサがユリウスの裏切りを見なかったことの方が気がかりだよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031312Z" creationid="seto" creationdate="20190506T031116Z">
+        <seg>どちらかといえば、私はリッサがユリウスの裏切りを見なかったことの方が気がかりだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46544,6 +46552,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T073435Z" creationid="weedssoul" creationdate="20190406T073435Z">
         <seg>50銀貨でどうだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it something a master smith can deal with?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031419Z" creationid="seto" creationdate="20190506T031419Z">
+        <seg>熟練の職人に何かできることがありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -65640,6 +65656,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031420Z" creationid="seto" creationdate="20190506T031420Z">
+        <seg>Player_Taleron_BC_Bones_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Vigil_HM_Questions_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093130Z" creationid="seto" creationdate="20190418T093130Z">
@@ -76254,6 +76278,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone I know needs a tool or something that lets him better focus his Mana.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031748Z" creationid="seto" creationdate="20190506T031748Z">
+        <seg>ある人が、マナを集中させる道具か何かが必要なんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone I think of as close to family.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T165147Z" creationid="weedssoul" creationdate="20190405T165147Z">
@@ -80661,6 +80693,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115533Z" creationid="Gaiden Shinji" creationdate="20190404T115533Z">
         <seg>タレロン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031316Z" creationid="seto" creationdate="20190506T031316Z">
+        <seg>Taleron_BC_Bones_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -94749,6 +94789,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You look like something is bothering you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031338Z" creationid="seto" creationdate="20190506T031338Z">
+        <seg>何かお困りのようですが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You look like the adventurous type.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T041628Z" creationid="urakata" creationdate="20190505T041243Z">
@@ -100379,6 +100427,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124451Z" creationid="urakata" creationdate="20190430T124451Z">
         <seg>俺…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Blue_Chamber_Questline.xml</prop>
+      <prop type="id">1380_0</prop>
+      <tuv lang="EN-US">
+        <seg>Maybe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031451Z" creationid="seto" creationdate="20190506T031451Z">
+        <seg>かもしれません。</seg>
       </tuv>
     </tu>
     <tu>
