@@ -26420,6 +26420,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know what this is?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T070212Z" creationid="urakata" creationdate="20190506T070212Z">
+        <seg>何かわかりますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what we do to spies here in Vendavel?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T130855Z" creationid="Mad" creationdate="20190407T044545Z">
@@ -40005,6 +40013,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190506T064820Z" creationid="urakata" creationdate="20190506T064820Z">
         <seg>灰の巨人の胸の中にあった珍しいガーネットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I found this very beautiful Halberd.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T070313Z" creationid="urakata" creationdate="20190506T070313Z">
+        <seg>この大変に見事な斧槍を手に入れまして。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63916,6 +63932,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190506T065539Z" creationid="urakata" creationdate="20190506T065539Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T070212Z" creationid="urakata" creationdate="20190506T070212Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_23</seg>
       </tuv>
     </tu>
     <tu>
