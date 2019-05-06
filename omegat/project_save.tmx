@@ -39841,6 +39841,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t think it’s possible to get that material back into usable form, though, not with that black poison goop all over it...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T072112Z" creationid="urakata" creationdate="20190506T072112Z">
+        <seg>でも、これだけ黒毒がこびりついているのでは、宝玉を何かの材料に再利用するのは無理でしょうね...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t understand why the Collective is even giving the claims of Old Levant any attention.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T093449Z" creationid="pugnus" creationdate="20190417T092704Z">
@@ -82082,6 +82090,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tell you what, I’ll buy this off you for 60 silver.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T072131Z" creationid="urakata" creationdate="20190506T072131Z">
+        <seg>こうしましょう、銀貨60枚で買います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Temperature</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114324Z" creationid="setom" creationdate="20190401T114324Z">
@@ -83821,8 +83837,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The casing itself is made from carefully forged Tsar Stone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190506T070903Z" creationid="urakata" creationdate="20190506T070903Z">
-        <seg>薬莢自体が精密に成形されたツァーリの宝玉で作られてる。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T071835Z" creationid="urakata" creationdate="20190506T070903Z">
+        <seg>弾頭表面部自体が精密に成形されたツァーリの宝玉で作られてる。</seg>
       </tuv>
     </tu>
     <tu>
