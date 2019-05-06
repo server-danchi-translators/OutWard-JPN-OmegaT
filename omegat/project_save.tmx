@@ -11194,8 +11194,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Ah, you look like you’ve found all the materials I need for Roland’s tool.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040748Z" creationid="seto" creationdate="20190506T040748Z">
-        <seg>お、ローランド用の道具の素材を見つけて来たみたいだな・</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041114Z" creationid="seto" creationdate="20190506T040748Z">
+        <seg>お、ローランド用の道具の素材を見つけて来たみたいだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11898,8 +11898,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alright, I'll get started right away.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040950Z" creationid="seto" creationdate="20190506T040950Z">
-        <seg>良し来た、直ぐに取り掛かろう。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041102Z" creationid="seto" creationdate="20190506T040950Z">
+        <seg>よしきた、直ぐに取り掛かろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26238,8 +26238,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Do I owe you anything for this?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T035115Z" creationid="seto" creationdate="20190506T035115Z">
-        <seg>借りが出来ましたね。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041245Z" creationid="seto" creationdate="20190506T035115Z">
+        <seg>借りが出来たね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37199,8 +37199,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Here you go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040832Z" creationid="seto" creationdate="20190506T040832Z">
-        <seg>これをどうぞ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041228Z" creationid="seto" creationdate="20190506T040832Z">
+        <seg>さあ、これを。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47850,8 +47850,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It's on the house.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T035139Z" creationid="seto" creationdate="20190506T035139Z">
-        <seg>店のおごりでいい。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041249Z" creationid="seto" creationdate="20190506T035139Z">
+        <seg>店のおごりでいいぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48932,8 +48932,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’ll take them and I’ll get right to work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040819Z" creationid="seto" creationdate="20190506T040819Z">
-        <seg>預かったら、ちょっくら仕事してくるぜ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041119Z" creationid="seto" creationdate="20190506T040819Z">
+        <seg>それじゃ、ちょっくら仕事してくるぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65912,6 +65912,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041028Z" creationid="seto" creationdate="20190506T041028Z">
+        <seg>Player_Taleron_BC_Bones_a_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041037Z" creationid="seto" creationdate="20190506T041037Z">
+        <seg>Player_Taleron_BC_Bones_a_13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Taleron_BC_Bones_b_11</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T040924Z" creationid="seto" creationdate="20190506T040924Z">
@@ -75393,6 +75409,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T000619Z" creationid="pugnus" creationdate="20190416T234422Z">
         <seg>あなたのことを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Should I work with an Emerald or a Ruby?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041026Z" creationid="seto" creationdate="20190506T041026Z">
+        <seg>エメラルドとルビーはどっちを使えばいい？</seg>
       </tuv>
     </tu>
     <tu>
@@ -88407,10 +88431,26 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use a Ruby.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041036Z" creationid="seto" creationdate="20190506T041036Z">
+        <seg>ルビーを使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use a shield to consume less of your stamina and stability when blocking enemy physical attacks.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T065145Z" creationid="weedssoul" creationdate="20190406T065145Z">
         <seg>盾を使うと、敵の物理攻撃を受けた時に消費するスタミナとスタビリティーが少なくなる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use an Emerald.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041048Z" creationid="seto" creationdate="20190506T041048Z">
+        <seg>エメラルドを使ってください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93364,8 +93404,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Work your magic, Taleron.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040924Z" creationid="seto" creationdate="20190506T040924Z">
-        <seg>魔法をかけてくれ、タレロン。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T041218Z" creationid="seto" creationdate="20190506T040924Z">
+        <seg>魔法みたいな腕を見せてくれ、タレロン。</seg>
       </tuv>
     </tu>
     <tu>
