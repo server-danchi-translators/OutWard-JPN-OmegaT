@@ -54979,6 +54979,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mofat told me that the poison is distilled blood from an Immaculate.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T072320Z" creationid="urakata" creationdate="20190506T072320Z">
+        <seg>モファットが教えてくれたことによると、この毒はImmaculateの血を薄めたものらしいんです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mofat, one of our oldest members, can be found in the residential area of Monsoon and is in need of a certain alchemy ingredient.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T150528Z" creationid="Mad" creationdate="20190407T150528Z">
@@ -60599,6 +60607,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only the Sorobor Academy would be able to refine something this dangerous.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T073711Z" creationid="urakata" creationdate="20190506T073711Z">
+        <seg>これほどの危険物を生成できるのはショロボル・アカデミーだけでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only the smiths of the city of Berg possess such techniques, though.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T000552Z" creationid="pugnus" creationdate="20190504T000552Z">
@@ -63932,6 +63948,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190506T065950Z" creationid="urakata" creationdate="20190506T065950Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_26</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T072132Z" creationid="urakata" creationdate="20190506T072132Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_26</seg>
       </tuv>
     </tu>
     <tu>
