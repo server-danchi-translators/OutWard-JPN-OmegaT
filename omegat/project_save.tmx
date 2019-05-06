@@ -26654,8 +26654,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Don’t worry about me, [PlayerName].</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T030844Z" creationid="seto" creationdate="20190506T030844Z">
-        <seg> [PlayerName]、心配するな</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T030939Z" creationid="seto" creationdate="20190506T030844Z">
+        <seg> [PlayerName]、心配するな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41682,6 +41682,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think it’s time for her to retire as leader of the Krypteia!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031302Z" creationid="seto" creationdate="20190506T031302Z">
+        <seg>もう彼女はクリュプテイアの指導者を引退するべきだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think she'll need it more than I will.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T050943Z" creationid="taman" creationdate="20190502T050943Z">
@@ -43395,6 +43403,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T155430Z">
         <seg>我々がみなそのように身勝手に振る舞っていたら、部族ではいられないでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If anything, I’m just upset Rissa didn’t see Julius’s betrayal coming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031116Z" creationid="seto" creationdate="20190506T031116Z">
+        <seg>どちらかといえば、私はリッサがユリウスの裏切りを見なかったことの方が気がかりだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48556,6 +48572,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T073643Z" creationid="pugnus" creationdate="20190415T073514Z">
         <seg>彼らは脱出した。彼らは私たちが追っている犯人であることに賭けてもいいわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll be out hunting again before you know it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T030957Z" creationid="seto" creationdate="20190506T030957Z">
+        <seg>あっという間にまた狩りに出るようになっているさ。</seg>
       </tuv>
     </tu>
     <tu>
