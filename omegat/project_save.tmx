@@ -26204,6 +26204,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do I owe you anything for this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T035115Z" creationid="seto" creationdate="20190506T035115Z">
+        <seg>借りが出来ましたね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do a small task for Cyrene or Baron Montgomery in Levant.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T134011Z" creationid="Light" creationdate="20190404T134652Z">
@@ -47744,6 +47752,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It's on the house.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T035139Z" creationid="seto" creationdate="20190506T035139Z">
+        <seg>店のおごりでいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It's only a matter of time before they're beyond saving.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T033850Z" creationid="taman" creationdate="20190428T033850Z">
@@ -65760,6 +65776,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T035043Z" creationid="seto" creationdate="20190506T035043Z">
+        <seg>Player_Taleron_BC_Bones_a_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Vigil_HM_Questions_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093130Z" creationid="seto" creationdate="20190418T093130Z">
@@ -80837,6 +80861,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T034515Z" creationid="seto" creationdate="20190506T034515Z">
         <seg>Taleron_BC_Bones_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T035116Z" creationid="seto" creationdate="20190506T035116Z">
+        <seg>Taleron_BC_Bones_07</seg>
       </tuv>
     </tu>
     <tu>
