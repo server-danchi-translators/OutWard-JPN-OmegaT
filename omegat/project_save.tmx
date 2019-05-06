@@ -17982,8 +17982,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Can you help?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031757Z" creationid="seto" creationdate="20190506T031757Z">
-        <seg>助けてはくれないか？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031939Z" creationid="seto" creationdate="20190506T031757Z">
+        <seg>助けてはくれませんか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -30801,7 +30801,7 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Focus mana, you say...</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031828Z" creationid="seto" creationdate="20190506T031828Z">
+      <tuv lang="JA" changeid="seto" changedate="20190506T031945Z" creationid="seto" creationdate="20190506T031828Z">
         <seg>マナの集中、と言ったが…</seg>
       </tuv>
     </tu>
@@ -36489,6 +36489,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T165957Z" creationid="taman" creationdate="20190502T165957Z">
         <seg>私がゼフィリアンを見つけたころには、彼は毒性のある銃弾で撃たれ瘴気に侵されていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He was here the other day, showing me that magic blade of his.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T032053Z" creationid="seto" creationdate="20190506T032053Z">
+        <seg>奴なら最近ここにいて、魔法剣を見せてくれたぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46574,8 +46582,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>Is it something a master smith can deal with?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031419Z" creationid="seto" creationdate="20190506T031419Z">
-        <seg>熟練の職人に何かできることがありますか？</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031930Z" creationid="seto" creationdate="20190506T031419Z">
+        <seg>この熟練の職人に何か用か？</seg>
       </tuv>
     </tu>
     <tu>
@@ -58907,6 +58915,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T034149Z" creationid="urakata" creationdate="20190505T033416Z">
         <seg>おっ、感激だね、また養うべき口が増えるのか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Oh, you must mean Roland!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031957Z" creationid="seto" creationdate="20190506T031957Z">
+        <seg>ああ！ローランドのことか！</seg>
       </tuv>
     </tu>
     <tu>
@@ -76296,8 +76312,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Someone I know needs a tool or something that lets him better focus his Mana.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031748Z" creationid="seto" creationdate="20190506T031748Z">
-        <seg>ある人が、マナを集中させる道具か何かが必要なんだ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031936Z" creationid="seto" creationdate="20190506T031748Z">
+        <seg>ある人が、マナを集中させる道具か何かが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93282,6 +93298,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, I think &lt;color=#00CCFF&gt;&lt;b&gt;I could make a trinket&lt;/b&gt;&lt;/color&gt; of some kind…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T032209Z" creationid="seto" creationdate="20190506T032209Z">
+        <seg>ま、&lt;color=#00CCFF&gt;&lt;b&gt;ちょっとしたものが作れる&lt;/b&gt;&lt;/color&gt;と思うぜ…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes, I think you'll be helpful to us.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T071724Z" creationid="urakata" creationdate="20190502T071724Z">
@@ -94815,8 +94839,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You look like something is bothering you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T031338Z" creationid="seto" creationdate="20190506T031338Z">
-        <seg>何かお困りのようですが。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T031920Z" creationid="seto" creationdate="20190506T031338Z">
+        <seg>何かお困りのようだが。</seg>
       </tuv>
     </tu>
     <tu>
