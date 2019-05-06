@@ -39865,6 +39865,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I got you the materials you need for Roland's trinket.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034436Z" creationid="seto" creationdate="20190506T034436Z">
+        <seg>ローランド用のアクセサリーの素材はオッケーだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I guess Ellinara sent you to check on me?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155515Z" creationid="taman" creationdate="20190414T155515Z">
@@ -47427,6 +47435,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T053155Z" creationid="pugnus" creationdate="20190416T053155Z">
         <seg>かつては肥沃で、緑豊かな土地でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was tricky work, but I think this should do nicely.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034543Z" creationid="seto" creationdate="20190506T034543Z">
+        <seg>面倒な作業だったが、いいもんが出来たと思うぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80801,6 +80817,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034437Z" creationid="seto" creationdate="20190506T034437Z">
+        <seg>Taleron_BC_Bones_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034515Z" creationid="seto" creationdate="20190506T034515Z">
+        <seg>Taleron_BC_Bones_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taleron_NEUT_Initial_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T070453Z" creationid="seto" creationdate="20190406T070453Z">
@@ -93358,6 +93390,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T032209Z" creationid="seto" creationdate="20190506T032209Z">
         <seg>ま、&lt;color=#00CCFF&gt;&lt;b&gt;ちょっとしたものが作れる&lt;/b&gt;&lt;/color&gt;と思うぜ…。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes, I think this is all I'll need, give me some time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034514Z" creationid="seto" creationdate="20190506T034514Z">
+        <seg>これで全部だな。それじゃあ少し時間をくれ。</seg>
       </tuv>
     </tu>
     <tu>
