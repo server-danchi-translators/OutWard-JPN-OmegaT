@@ -64000,6 +64000,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_27</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T074255Z" creationid="urakata" creationdate="20190506T074255Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103948Z" creationid="seto" creationdate="20190410T103948Z">
@@ -77200,8 +77208,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Sorobor Academy doesn’t do business with those monsters, and we certainly had no motive to see Zephyrien assassinated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190506T074136Z" creationid="urakata" creationdate="20190506T073928Z">
-        <seg>ショロボル学院はあんな輩とは取引しません。それに、私たちにはゼフィリアンが殺されてほしい動機がありませんよ。</seg>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T074318Z" creationid="urakata" creationdate="20190506T073928Z">
+        <seg>ショロボル学院はそんな輩とは取引しない。それに、私たちにはゼフィリアンが殺されてほしい動機がない。</seg>
       </tuv>
     </tu>
     <tu>
