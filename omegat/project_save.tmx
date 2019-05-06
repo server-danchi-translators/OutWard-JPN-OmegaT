@@ -11192,6 +11192,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, you look like you’ve found all the materials I need for Roland’s tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040748Z" creationid="seto" creationdate="20190506T040748Z">
+        <seg>お、ローランド用の道具の素材を見つけて来たみたいだな・</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, you must be the scout that Rissa mentioned.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T124654Z" creationid="urakata" creationdate="20190501T124559Z">
@@ -11884,6 +11892,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T101444Z" creationid="pugnus" creationdate="20190425T022744Z">
         <seg>よし、我はそなたと&lt;color=#00CCFF&gt;&lt;b&gt;同盟の話をする準備が整った&lt;/b&gt;&lt;/color&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alright, I'll get started right away.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040950Z" creationid="seto" creationdate="20190506T040950Z">
+        <seg>良し来た、直ぐに取り掛かろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37181,6 +37197,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here you go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040832Z" creationid="seto" creationdate="20190506T040832Z">
+        <seg>これをどうぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here's a letter of introduction for our Queen.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T041706Z" creationid="urakata" creationdate="20190505T041706Z">
@@ -48902,6 +48926,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T040404Z" creationid="seto" creationdate="20190506T040404Z">
         <seg>運び屋を送る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll take them and I’ll get right to work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040819Z" creationid="seto" creationdate="20190506T040819Z">
+        <seg>預かったら、ちょっくら仕事してくるぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65872,6 +65904,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040824Z" creationid="seto" creationdate="20190506T040824Z">
+        <seg>Player_Taleron_BC_Bones_a_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_b_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040924Z" creationid="seto" creationdate="20190506T040924Z">
+        <seg>Player_Taleron_BC_Bones_b_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Vigil_HM_Questions_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093130Z" creationid="seto" creationdate="20190418T093130Z">
@@ -80993,6 +81041,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040716Z" creationid="seto" creationdate="20190506T040716Z">
+        <seg>Taleron_BC_Bones_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040926Z" creationid="seto" creationdate="20190506T040926Z">
+        <seg>Taleron_BC_Bones_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taleron_NEUT_Initial_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T070453Z" creationid="seto" creationdate="20190406T070453Z">
@@ -93294,6 +93358,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T165644Z">
         <seg>私と一緒にくれば、私はあなたをアバディーンの血統に迎え入れ、あなたの「血の代償」を永遠に精算します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Work your magic, Taleron.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040924Z" creationid="seto" creationdate="20190506T040924Z">
+        <seg>魔法をかけてくれ、タレロン。</seg>
       </tuv>
     </tu>
     <tu>
