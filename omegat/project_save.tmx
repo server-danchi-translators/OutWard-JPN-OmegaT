@@ -25939,6 +25939,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Did you find me the materials I need?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040638Z" creationid="seto" creationdate="20190506T040638Z">
+        <seg>必要な素材は見つかったか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Did you kill that green horror yet?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045910Z" creationid="urakata" creationdate="20190501T045910Z">
@@ -34242,6 +34250,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Greetings, friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040501Z" creationid="seto" creationdate="20190506T040501Z">
+        <seg>よう、友よ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Greetings, traveler.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075256Z" creationid="urakata" creationdate="20190502T075256Z">
@@ -37522,6 +37538,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063454Z" creationid="urakata" creationdate="20190430T063454Z">
         <seg>おい...[PlayerName]?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’ll bring the trinket to Roland within the hour.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040455Z" creationid="seto" creationdate="20190506T040455Z">
+        <seg>運び屋なら一時間以内にローランドのとこに持っていくだろうさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42542,8 +42566,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I'll make sure this gets to Roland.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190506T040343Z" creationid="seto" creationdate="20190506T040343Z">
-        <seg>ローランドに届くようにしておくよ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040409Z" creationid="seto" creationdate="20190506T040343Z">
+        <seg>ローランドに届くようにしておくぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44519,6 +44543,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
         <seg>あなたが何か情報を探しているのなら、宿屋も良い場所ですよ。また、浜辺にいるイザンの事も忘れないように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you’re looking for quality equipment, I have you covered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040529Z" creationid="seto" creationdate="20190506T040529Z">
+        <seg>高品質の装備を探してるんなら、俺が保証するぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48866,6 +48898,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll send a courier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040404Z" creationid="seto" creationdate="20190506T040404Z">
+        <seg>運び屋を送る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll teach you how to be a predator.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T051715Z" creationid="Light" creationdate="20190408T051715Z">
@@ -49518,6 +49558,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T135214Z" creationid="Mad" creationdate="20190407T135146Z">
         <seg>それに加わることについて、ずっと考えてきた。自分なりに前向きにね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve forged just about everything this place has to offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040621Z" creationid="seto" creationdate="20190506T040621Z">
+        <seg>ここで請け負ったものは全部鍛えてきたぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68523,6 +68571,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember, I need &lt;color=#00CCFF&gt;&lt;b&gt;Blue Sand&lt;/b&gt;&lt;/color&gt;, a &lt;color=#00CCFF&gt;&lt;b&gt;Mana Stone&lt;/b&gt;&lt;/color&gt; and either an &lt;color=#00CCFF&gt;&lt;b&gt;Emerald or a Ruby&lt;/b&gt;&lt;/color&gt; to craft that trinket for Roland.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040715Z" creationid="seto" creationdate="20190506T040715Z">
+        <seg>覚えとけよ、&lt;color=#00CCFF&gt;&lt;b&gt;エメラルドかルビー&lt;/b&gt;&lt;/color&gt;が一個、あと&lt;color=#00CCFF&gt;&lt;b&gt;青い砂&lt;/b&gt;&lt;/color&gt;がいくつかと&lt;color=#00CCFF&gt;&lt;b&gt;マナストーン&lt;/b&gt;&lt;/color&gt;が一個必要だからな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember, [PlayerName], you only have &lt;color=#00CCFF&gt;&lt;b&gt;5 days&lt;/b&gt;&lt;/color&gt; to pay me the 150 silver, or show me proof you have earned a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; .</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T091846Z">
@@ -80917,6 +80973,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T040308Z" creationid="seto" creationdate="20190506T040308Z">
         <seg>Taleron_BC_Bones_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040456Z" creationid="seto" creationdate="20190506T040456Z">
+        <seg>Taleron_BC_Bones_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T040624Z" creationid="seto" creationdate="20190506T040624Z">
+        <seg>Taleron_BC_Bones_10</seg>
       </tuv>
     </tu>
     <tu>
