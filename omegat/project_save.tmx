@@ -16828,6 +16828,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring them here and I'll craft that trinket.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034111Z" creationid="seto" creationdate="20190506T034111Z">
+        <seg>これを全部持ってきてくれたらご要望の小物を作ってやれるぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Broad Dagger</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T083715Z" creationid="pugnus" creationdate="20190503T083715Z">
@@ -48624,6 +48632,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll be back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034139Z" creationid="seto" creationdate="20190506T034139Z">
+        <seg>また来ます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll be out hunting again before you know it.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T030957Z" creationid="seto" creationdate="20190506T030957Z">
@@ -49294,6 +49310,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T133446Z" creationid="urakata" creationdate="20190430T133446Z">
         <seg>許してくれよ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m still looking for the materials you need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034129Z" creationid="seto" creationdate="20190506T034129Z">
+        <seg>まだ素材は探しているところです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65704,6 +65728,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Taleron_BC_Bones_a_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034113Z" creationid="seto" creationdate="20190506T034113Z">
+        <seg>Player_Taleron_BC_Bones_a_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Vigil_HM_Questions_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190418T093130Z" creationid="seto" creationdate="20190418T093130Z">
@@ -80757,6 +80789,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T033659Z" creationid="seto" creationdate="20190506T033659Z">
         <seg>Taleron_BC_Bones_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taleron_BC_Bones_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190506T034139Z" creationid="seto" creationdate="20190506T034139Z">
+        <seg>Taleron_BC_Bones_04</seg>
       </tuv>
     </tu>
     <tu>
