@@ -39921,6 +39921,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found this strange garnet in the ribcage of an Ash Giant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T064820Z" creationid="urakata" creationdate="20190506T064820Z">
+        <seg>灰の巨人の胸の中にあった珍しいガーネットです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I gave those victims a home here, where they can live the lives that were stolen from them.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T075937Z" creationid="taman" creationdate="20190420T075631Z">
@@ -50038,6 +50046,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024243Z" creationid="urakata" creationdate="20190505T024031Z">
         <seg>ただ、気をつけろ、この街では盗人は外で拘束して、日干しにするんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just be careful in there, that cave is a Troglodyte breeding ground.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T064632Z" creationid="urakata" creationdate="20190506T064632Z">
+        <seg>気をつけなさい、あの洞窟はトログロダイトの繁殖拠点だから。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63700,6 +63716,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T072752Z" creationid="seto" creationdate="20190411T072752Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T064633Z" creationid="urakata" creationdate="20190506T064633Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_15</seg>
       </tuv>
     </tu>
     <tu>
