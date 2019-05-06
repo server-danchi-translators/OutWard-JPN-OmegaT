@@ -9766,6 +9766,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A good deal for both of us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065921Z" creationid="urakata" creationdate="20190506T065921Z">
+        <seg>お互いに良い取引ができましたね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A good meal before a fight will tilt the odds in your favor.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T075418Z" creationid="weedssoul" creationdate="20190406T075418Z">
@@ -9882,6 +9890,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T081249Z" creationid="taman" creationdate="20190501T081249Z">
         <seg>思い出をためておける場所なんて言うのはそう簡単に見つかるものじゃないからな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pleasure doing business as always!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T070005Z" creationid="urakata" creationdate="20190506T065936Z">
+        <seg>いつも通り良い取引ができましたね!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25403,6 +25419,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal, here you go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065814Z" creationid="urakata" creationdate="20190506T065814Z">
+        <seg>売った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deal, here’s your money.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T054036Z">
@@ -36997,6 +37021,22 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_19</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065815Z" creationid="urakata" creationdate="20190506T065815Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_20</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065922Z" creationid="urakata" creationdate="20190506T065922Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helen_Turnbull_NE_Call_To_Advent_21</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012658Z" creationid="seto" creationdate="20190413T012658Z">
@@ -39949,6 +39989,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115218Z" creationid="urakata" creationdate="20190501T115218Z">
         <seg>街からそれほど遠くないことろで、狩人の亡骸からこれを見つけたんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I found this strange bullet that someone killed Zephyrien with.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T070202Z" creationid="urakata" creationdate="20190506T070202Z">
+        <seg>ゼフィリアンの射殺に使用された珍しい弾丸です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63816,6 +63864,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_23</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065950Z" creationid="urakata" creationdate="20190506T065950Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_a_23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_b_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T103948Z" creationid="seto" creationdate="20190410T103948Z">
@@ -63876,6 +63932,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190411T073340Z" creationid="seto" creationdate="20190411T073340Z">
         <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_15</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065805Z" creationid="urakata" creationdate="20190506T065805Z">
+        <seg>Player_Helen_Turnbull_NE_Call_To_Advent_c_15</seg>
       </tuv>
     </tu>
     <tu>
@@ -66516,6 +66580,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T065024Z" creationid="hiru4" creationdate="20190403T065024Z">
         <seg>プレーヤーのコントローラーを再接続してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please reconsider the offer.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T065804Z" creationid="urakata" creationdate="20190506T065715Z">
+        <seg>もう御一考いただきたい。</seg>
       </tuv>
     </tu>
     <tu>
