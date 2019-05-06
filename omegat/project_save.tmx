@@ -37109,6 +37109,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_28</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T075022Z" creationid="urakata" creationdate="20190506T075022Z">
+        <seg>Helen_Turnbull_NE_Call_To_Advent_28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Helen_Turnbull_NE_Call_To_Advent_31</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T015254Z" creationid="seto" creationdate="20190407T015254Z">
@@ -39444,6 +39452,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T152608Z" creationid="taman" creationdate="20190414T151104Z">
         <seg>しばらく一人にしておいてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can’t let this get swept under the rug.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T075000Z" creationid="urakata" creationdate="20190506T075000Z">
+        <seg>この件をもみ消されるわけにはいかない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86875,6 +86891,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This needs to be investigated!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T075021Z" creationid="urakata" creationdate="20190506T075021Z">
+        <seg>捜査しなければなりません!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This off-hand weapon requires Dagger Skills to be used.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T135140Z" creationid="weedssoul" creationdate="20190406T135140Z">
@@ -88091,6 +88115,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T054812Z" creationid="pugnus" creationdate="20190503T054812Z">
         <seg>長距離のトレッキングに使用した、空前絶後の偉大な伝説の狩猟家ソールンのトロフィーが満載されているバックパック。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trust me, [PlayerName], I don’t think it’s possible for anyone to find the truth of the matter from outside of our organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="urakata" changedate="20190506T075211Z" creationid="urakata" creationdate="20190506T075029Z">
+        <seg>[PlayerName]、誓ってもいい、この件について外部の人間が真相を解き明かすのは無理だと思いますよ。</seg>
       </tuv>
     </tu>
     <tu>
