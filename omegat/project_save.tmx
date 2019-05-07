@@ -12729,6 +12729,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And that's how you do it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T091034Z" creationid="pugnus" creationdate="20190507T091034Z">
+        <seg>さぁ、お前も同じように。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T044911Z" creationid="magur0w" creationdate="20190404T175927Z">
@@ -90087,6 +90095,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T091812Z" creationid="setom" creationdate="20190402T091812Z">
         <seg>エレベーターを使ってマイナスのステータス効果の区画へ行ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use your shoulder to generate most of the momentum-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T090930Z" creationid="pugnus" creationdate="20190507T090920Z">
+        <seg>この技は肩の使い方が肝だ。こう...もっと...勢いよく...</seg>
       </tuv>
     </tu>
     <tu>
