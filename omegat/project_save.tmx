@@ -28320,8 +28320,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Enjoy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T033556Z" creationid="pugnus" creationdate="20190507T033435Z">
-        <seg>よかったね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033621Z" creationid="pugnus" creationdate="20190507T033435Z">
+        <seg>お楽しみを。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44892,6 +44892,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’re looking for a place to spend the night, the inn is still open for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033759Z" creationid="pugnus" creationdate="20190507T033759Z">
+        <seg>夜を過ごしている場所を探してるなら、旅館はまだ開いてるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’re looking for news the Inn is always a good place to try, and don't forget about Yzan down by the beach!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
@@ -49293,8 +49301,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’ll teach you how to be a predator.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T051715Z" creationid="Light" creationdate="20190408T051715Z">
-        <seg>ハンターになる方法を教るぜ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033845Z" creationid="Light" creationdate="20190408T051715Z">
+        <seg>狩人になる方法を教るぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91863,6 +91871,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T094549Z" creationid="はぐくみ会" creationdate="20190403T095440Z">
         <seg>さて、私は生きる、また戦うために！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, your call.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033706Z" creationid="pugnus" creationdate="20190507T033706Z">
+        <seg>えーと、君にだよ。</seg>
       </tuv>
     </tu>
     <tu>
