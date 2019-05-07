@@ -38215,6 +38215,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T154919Z" creationid="taman" creationdate="20190507T154919Z">
+        <seg>こんにちは、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, by way of thanks, do you want to know how to make a Warrior's Elixir?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T075059Z" creationid="urakata" creationdate="20190502T075059Z">
@@ -43294,8 +43302,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I wonder...</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T072131Z" creationid="urakata" creationdate="20190430T072022Z">
-        <seg>だったら...</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T155046Z" creationid="urakata" creationdate="20190430T072022Z">
+        <seg>もしかしたら...</seg>
       </tuv>
     </tu>
     <tu>
@@ -86513,6 +86521,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Their archives are very detailed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T155323Z" creationid="taman" creationdate="20190507T155323Z">
+        <seg>バーグにはTheir archives are very detailed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Their craftsmanship is beyond compare.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T062021Z" creationid="pugnus" creationdate="20190418T062021Z">
@@ -100295,6 +100311,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115808Z" creationid="Gaiden Shinji" creationdate="20190404T115808Z">
         <seg>ゼフィリアン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien and I are on our way to Berg for a major council meeting.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T155031Z" creationid="taman" creationdate="20190507T155031Z">
+        <seg>ゼフィリアンと私は評議会に参加するためバーグに向かうの。</seg>
       </tuv>
     </tu>
     <tu>
