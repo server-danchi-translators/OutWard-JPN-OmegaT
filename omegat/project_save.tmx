@@ -47960,8 +47960,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It also restores maximum health, which is lowered by taking damage, and maximum stamina, which is lowered by performing strenuous actions.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090520Z" creationid="setom" creationdate="20190402T090520Z">
-        <seg>ダメージを食らったり、激しい動きにより低下した体力やスタミナの上限も回復されます、</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T102621Z" creationid="setom" creationdate="20190402T090520Z">
+        <seg>ダメージを食らったり、激しい動きにより低下した体力やスタミナの上限も回復されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60081,6 +60081,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now that I think about it, I’ve heard of a band of people who set up camp somewhere in the &lt;color=#00CCFF&gt;&lt;b&gt;burnt forest far to the south in Enmerkar.&lt;/b&gt;&lt;/color&gt; They must be crazy, that place is crawling with Burning Men!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103123Z" creationid="pugnus" creationdate="20190507T103123Z">
+        <seg>そういえば、 &lt;color=#00CCFF&gt;&lt;b&gt;エンメルカルの南の焼け森&lt;/b&gt;&lt;/color&gt;で、野営の準備をしている人々の話を聞いたことがあるわ。あそこはバーニングマンが歩き回る危険な場所なのに！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now you know why Elatt doesn't celebrate his victory against the Scourge.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T083644Z" creationid="taman" creationdate="20190411T083644Z">
@@ -68480,8 +68488,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Proceed forward to learn about Resting.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T090231Z" creationid="setom" creationdate="20190402T090231Z">
-        <seg>目に進んで休息について学びましょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T102608Z" creationid="setom" creationdate="20190402T090231Z">
+        <seg>休息について学びましょう。</seg>
       </tuv>
     </tu>
     <tu>
