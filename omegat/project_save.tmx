@@ -31360,6 +31360,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For 50 silver, I can teach you a spell to summon a Boon of Blessing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095707Z" creationid="pugnus" creationdate="20190507T095707Z">
+        <seg>銀貨50枚で「祝福の恩恵」を教えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For All Aurai</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T095843Z" creationid="pugnus" creationdate="20190502T095843Z">
@@ -48193,8 +48201,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It may be helpful to ward off the winter cold, but it's no substitute for warm clothes and a campfire.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T095443Z" creationid="pugnus" creationdate="20190507T095443Z">
-        <seg>冬の寒さをしのぐのに役に立ちますが、暖かい服装や、キャンプファイヤーに代わるものではありません。そしてカブにも代えられません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095556Z" creationid="pugnus" creationdate="20190507T095443Z">
+        <seg>冬の寒さをしのぐのに役に立ちますが、暖かい服装や、キャンプファイヤーに代わるものではありません。もちろん、カブにも代えられません。</seg>
       </tuv>
     </tu>
     <tu>
