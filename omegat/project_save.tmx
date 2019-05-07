@@ -9716,6 +9716,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A courier just sent word.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035452Z" creationid="pugnus" creationdate="20190507T035452Z">
+        <seg>君に伝言があるんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crutch that makes you stronger, rather than slowing you down.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T040611Z" creationid="taman" creationdate="20190501T040436Z">
@@ -77247,6 +77255,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone’s asking for you all the way out in Levant, and hopes to see you next time you’re there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035601Z" creationid="pugnus" creationdate="20190507T035601Z">
+        <seg>「レバントで君を必要としている人がいる。立ち寄った際に探してくれ。」だって。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Something about it sends chills up my spine.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T124100Z" creationid="taman" creationdate="20190413T161806Z">
@@ -96354,6 +96370,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T090918Z" creationid="はぐくみ会" creationdate="20190403T054851Z">
         <seg>私は腕で吠える動物から喉を守り、死なないことだけを考える！ 牙が私の足に喰い込み、地面を引きずられていく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You really get around, don’t you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035740Z" creationid="pugnus" creationdate="20190507T035740Z">
+        <seg>君は本当に顔が広いんだね、違う？</seg>
       </tuv>
     </tu>
     <tu>
