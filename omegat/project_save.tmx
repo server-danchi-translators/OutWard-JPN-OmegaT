@@ -9902,6 +9902,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A missionary from Monsoon just came by.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040243Z" creationid="pugnus" creationdate="20190507T040243Z">
+        <seg>モンスーンの宣教師がやってきた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A missionary just dropped in.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T035314Z" creationid="pugnus" creationdate="20190507T035314Z">
@@ -13110,6 +13118,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T001644Z" creationid="pugnus" creationdate="20190502T001504Z">
         <seg>私たちは、青の議会の権限や法について議論したの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040216Z" creationid="pugnus" creationdate="20190507T040216Z">
+        <seg>あなたが[PlayerName]？</seg>
       </tuv>
     </tu>
     <tu>
@@ -70316,6 +70332,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rissa Aberdeen is looking for you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040100Z" creationid="pugnus" creationdate="20190507T040100Z">
+        <seg>リッサアバンディーンが君を探していたよ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rissa already promised that the second she isn't drowning in important matters, she and I will be having a long talk.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T164623Z">
@@ -75629,6 +75653,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She said someone’s asking for you back home next time you’re in the area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040404Z" creationid="pugnus" creationdate="20190507T040404Z">
+        <seg>彼女は「モンスーンに君が来たら、家に帰るように伝えて。」と言っていたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She said something about this mission sent chills up her spine.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T155801Z" creationid="taman" creationdate="20190414T155801Z">
@@ -75641,6 +75673,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T070224Z" creationid="pugnus" creationdate="20190406T003026Z">
         <seg>彼女は喜んではいない。しかし、彼女のバーグでの生活は続くだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She should be by the old tomb in the city square!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040200Z" creationid="pugnus" creationdate="20190507T040200Z">
+        <seg>彼女は町の広場の、古い墓の側にいたよ。早く行った方がいい！</seg>
       </tuv>
     </tu>
     <tu>
