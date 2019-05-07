@@ -10110,6 +10110,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A visitor!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042811Z" creationid="pugnus" creationdate="20190507T042811Z">
+        <seg>客人！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A visitor, huh?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T035339Z" creationid="urakata" creationdate="20190505T035339Z">
@@ -13518,6 +13526,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T062616Z" creationid="urakata" creationdate="20190406T123836Z">
         <seg>出資への見返りとしてスラムに希少品を扱う店が出るが、ピジョンアイはまだ出資を要求している...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a reward for your service, I’ll sell you exclusive goods made by my master.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042635Z" creationid="pugnus" creationdate="20190507T042635Z">
+        <seg>君に対する報酬として、私の主人によって作られた独占的な商品をあなたに販売します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56465,6 +56481,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T145538Z" creationid="taman" creationdate="20190419T145538Z">
         <seg>俺様の名前はミリアドだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Naturally, these transactions will remain strictly between us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042741Z" creationid="pugnus" creationdate="20190507T042723Z">
+        <seg>当然のことながら、この取引は私たちの間で厳格に行うべきです。</seg>
       </tuv>
     </tu>
     <tu>
