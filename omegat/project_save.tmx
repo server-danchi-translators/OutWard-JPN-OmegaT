@@ -26935,8 +26935,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Don't fall asleep on me!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T100311Z" creationid="pugnus" creationdate="20190507T100311Z">
-        <seg>寝たらだめですよ！罰金貰いますから！銀貨50枚！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100317Z" creationid="pugnus" creationdate="20190507T100311Z">
+        <seg>寝たらだめですよ！罰金貰いますから！さらに銀貨50枚！</seg>
       </tuv>
     </tu>
     <tu>
@@ -60001,6 +60001,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now, I finally have to money to buy that new alchemy set!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100527Z" creationid="pugnus" creationdate="20190507T100527Z">
+        <seg>そして今、私は錬金術キットを買うためにまた出費しなきゃならないようです。やれやれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Now, I have no choice but to pick myself up yet again and face the wild, untamed land outside the walls.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190402T104418Z">
@@ -92807,6 +92815,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well, at any rate, I think you've gotten the hang of the Bless Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100419Z" creationid="pugnus" creationdate="20190507T100419Z">
+        <seg>...まぁよいでしょう。あなたは「祝福の恩恵」のコツを習得したのじゃないでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well, don't say I didn't warn you...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T232948Z" creationid="urakata" creationdate="20190502T232840Z">
@@ -93371,6 +93387,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T084531Z" creationid="pugnus" creationdate="20190422T084531Z">
         <seg>何が変わったというのだ...シリは疑問である...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What could I teach a human...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100620Z" creationid="pugnus" creationdate="20190507T100620Z">
+        <seg>私が人間に教えることができること...</seg>
       </tuv>
     </tu>
     <tu>
