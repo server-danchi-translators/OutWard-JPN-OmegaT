@@ -13058,6 +13058,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apparently someone’s looking for you back home the next time you’re in Abrassar!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040616Z" creationid="pugnus" creationdate="20190507T040616Z">
+        <seg>「君がアブラサールに来たら、家に戻れと伝えてくれ。」だって。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apparently, the rabble there has found some solid leadership and is planning to attack Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031300Z" creationid="urakata" creationdate="20190428T031300Z">
@@ -77303,6 +77311,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone sent a courier from Levant for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040500Z" creationid="pugnus" creationdate="20190507T040500Z">
+        <seg>レバントからの伝言が届いているよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Someone’s asking for you all the way out in Levant, and hopes to see you next time you’re there.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T035601Z" creationid="pugnus" creationdate="20190507T035601Z">
@@ -97935,6 +97951,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’re [PlayerName], right?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040431Z" creationid="pugnus" creationdate="20190507T040431Z">
+        <seg>君が[PlayerName]？そうでしょ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’re a healer, right?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130043Z" creationid="weedssoul" creationdate="20190406T130043Z">
@@ -99131,6 +99155,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065430Z" creationid="Light" creationdate="20190409T093959Z">
         <seg>[任意]魔法の力を集中させることについて、バーグでローランドと話す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName] Aberdeen?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T040634Z" creationid="pugnus" creationdate="20190507T040634Z">
+        <seg>[PlayerName]・アバンディーン？</seg>
       </tuv>
     </tu>
     <tu>
