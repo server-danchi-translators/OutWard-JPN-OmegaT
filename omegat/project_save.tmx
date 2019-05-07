@@ -12795,8 +12795,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Animals and plants provide food, while bodies of water can quench your thirst, though you will need a waterskin to carry water with you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T151032Z" creationid="setom" creationdate="20190402T082144Z">
-        <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶにはwaterskinが必要になります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034615Z" creationid="setom" creationdate="20190402T082144Z">
+        <seg>動物や植物は食料をもたらし、水は喉を潤します。しかし水を持ち運ぶには「水袋」が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29568,8 +29568,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Even with a backpack, you cannot take all the items you will find.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T085110Z" creationid="setom" creationdate="20190402T085110Z">
-        <seg>バックパックがあっても見つけたアイテムをすべて回収することはできません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034745Z" creationid="setom" creationdate="20190402T085110Z">
+        <seg>「バックパック」があっても見つけたアイテムをすべて回収することはできません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31105,8 +31105,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For example, Bleeding deals damage over time, and is healed with Bandages.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T081621Z" creationid="setom" creationdate="20190402T081621Z">
-        <seg>例えばBleedingは長時間ダメージを与えますが、包帯で治すことができます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034553Z" creationid="setom" creationdate="20190402T081621Z">
+        <seg>例えば「流血」は長時間ダメージを与えますが、「包帯」で治すことができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32193,8 +32193,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Gather 3 Wood from the nearby tree, enter your menu with [InputAction_ToggleInventory], go to the Crafting tab and select a Campfire Kit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082717Z" creationid="setom" creationdate="20190402T082717Z">
-        <seg>近くの木から3つの木材を集めて[InputAction_ToggleInventory]を押し、メニューのクラフトタブからCampfire Kitを選択してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034648Z" creationid="setom" creationdate="20190402T082717Z">
+        <seg>近くの木から3つの木材を集めて[InputAction_ToggleInventory]を押し、メニューのクラフトタブから「キャンプファイヤーキット」を選択してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44478,8 +44478,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190406T135729Z" creationid="setom" creationdate="20190402T082925Z">
-        <seg>火打石と打ち金を持っているなら、キャンプファイヤーに火をつけることができます、</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034719Z" creationid="setom" creationdate="20190402T082925Z">
+        <seg>「火打石と打ち金」を持っているなら、キャンプファイヤーに火をつけることができます、</seg>
       </tuv>
     </tu>
     <tu>
@@ -60658,8 +60658,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Once you have a Campfire Kit, go to your Inventory and use it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T094959Z" creationid="setom" creationdate="20190402T082844Z">
-        <seg>Campfire Kitを持っていたら、所持品から使用してみてください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034657Z" creationid="setom" creationdate="20190402T082844Z">
+        <seg>「キャンプファイヤーキット」を持っていたら、所持品から使用してみてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87616,8 +87616,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>To cook in the wild, you must craft Campfire Kits.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082523Z" creationid="setom" creationdate="20190402T082523Z">
-        <seg>野外で料理をするにはCampfire Kitsを作らないといけません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034633Z" creationid="setom" creationdate="20190402T082523Z">
+        <seg>野外で料理をするには「キャンプファイヤーキット」を作らないといけません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89050,8 +89050,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Use Enrage to gain the Rage boon and only then you can use Predator Leap, since the leap requires having Rage active on you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T034518Z" creationid="setom" creationdate="20190402T081152Z">
-        <seg>「激怒」を使って「猛威の恩恵」を得てください。「猛威の恩恵」が有効になっている間だけ「猛獣の跳躍」が使えるようになります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034530Z" creationid="setom" creationdate="20190402T081152Z">
+        <seg>「激怒」を使って「猛威の恩恵」を得てください。猛威の恩恵が有効になっている間だけ「猛獣の跳躍」が使えるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95144,8 +95144,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You can then deploy the Campfire on the ground.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T082858Z" creationid="setom" creationdate="20190402T082858Z">
-        <seg>地面にCampfireを設置できます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034712Z" creationid="setom" creationdate="20190402T082858Z">
+        <seg>地面に「キャンプファイヤー」を設置できます。</seg>
       </tuv>
     </tu>
     <tu>
