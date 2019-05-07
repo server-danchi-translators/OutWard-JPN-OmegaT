@@ -12144,6 +12144,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, sit down.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095827Z" creationid="pugnus" creationdate="20190507T095827Z">
+        <seg>よろしい。座りなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, to start with, try gathering the heat around you by reaching out with your-</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T092926Z" creationid="pugnus" creationdate="20190507T092926Z">
@@ -31088,6 +31096,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, we must consider the relation that light and lightning have with one another and-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095949Z" creationid="pugnus" creationdate="20190507T095949Z">
+        <seg>第一に、光と稲妻が、相互に関係していることを理解する必要があります。第二に...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you need a trigger device like a tripwire, then you need to arm it with a compatible item like iron spikes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T072121Z" creationid="weedssoul" creationdate="20190406T062542Z">
@@ -48549,6 +48565,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T003926Z" creationid="pugnus" creationdate="20190502T003926Z">
         <seg>それは将来の紛争を防ぐでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will protect you from the light and lightning magic from your opponents, and increase the power of your own.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095806Z" creationid="pugnus" creationdate="20190507T095806Z">
+        <seg>それはあなたを光と稲妻の魔法から守り、あなた自身の力を高めます。悪い話じゃないとおもいますよ。銀貨50枚。</seg>
       </tuv>
     </tu>
     <tu>
