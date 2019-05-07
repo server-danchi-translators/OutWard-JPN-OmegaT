@@ -9716,6 +9716,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A courier from Levant came looking for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041416Z" creationid="pugnus" creationdate="20190507T041416Z">
+        <seg>レバントから君に伝言があるんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A courier just got here from Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T040714Z" creationid="pugnus" creationdate="20190507T040701Z">
@@ -38198,6 +38206,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold there a minute!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041331Z" creationid="pugnus" creationdate="20190507T041331Z">
+        <seg>ちょっと待って！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold up there, [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T100836Z" creationid="seto" creationdate="20190410T100836Z">
@@ -57441,6 +57457,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T021406Z" creationid="hiru4" creationdate="20190402T021406Z">
         <seg>次のTIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next time you’re in Abrassar desert, be sure to look into it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041505Z" creationid="pugnus" creationdate="20190507T041505Z">
+        <seg>「アブラサール砂漠に来たら、ぜひ見に来てね！」</seg>
       </tuv>
     </tu>
     <tu>
@@ -94231,6 +94255,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190403T114032Z" creationid="Gaiden Shinji" creationdate="20190403T114032Z">
         <seg>ウールルーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Word just came from Berg, someone’s looking for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041637Z" creationid="pugnus" creationdate="20190507T041637Z">
+        <seg>バーグから今さっき来た伝言があるんだ。「君を探している。」</seg>
       </tuv>
     </tu>
     <tu>
