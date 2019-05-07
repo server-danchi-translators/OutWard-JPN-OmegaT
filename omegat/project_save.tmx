@@ -15970,6 +15970,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being a mercenary means hardship, from fighting monsters to wearing damn full plate in the desert.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T044521Z" creationid="pugnus" creationdate="20190507T044521Z">
+        <seg>傭兵は、怪物との戦いから砂漠での板金鎧の着用まで、とても困難を要する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
@@ -28370,6 +28378,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T094846Z" creationid="setom" creationdate="20190401T115049Z">
         <seg>所持品なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Empty your mind, be formless, like shadow.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T044733Z" creationid="pugnus" creationdate="20190507T044733Z">
+        <seg>お主の心を空にするのだ。そして影のように形を無くせ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47473,6 +47489,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T064845Z" creationid="pugnus" creationdate="20190424T064845Z">
         <seg>感染症も即座に治る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It also means freedom and profit!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T044606Z" creationid="pugnus" creationdate="20190507T044606Z">
+        <seg>それはまた...自由と！利益も！意味するのだ！</seg>
       </tuv>
     </tu>
     <tu>
