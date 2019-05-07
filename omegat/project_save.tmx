@@ -39721,6 +39721,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can already taste the Luxe Lichette!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T094203Z" creationid="pugnus" creationdate="20190507T094203Z">
+        <seg>これでやっと贅沢なリシェットを食べられます！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can craft equipment from Hackmanite or Tsar Stones you bring me.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T035308Z" creationid="pugnus" creationdate="20190408T023836Z">
@@ -49976,6 +49984,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T041119Z" creationid="seto" creationdate="20190506T040819Z">
         <seg>それじゃ、ちょっくら仕事してくるぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll teach you for 50 silver, so we can bring in something to eat that’s not damn Turmmips!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T094050Z" creationid="pugnus" creationdate="20190507T094050Z">
+        <seg>銀貨50枚でどうでしょう？講義中でも、カブなら持ち込み可ですよ。おいしいカブなら！</seg>
       </tuv>
     </tu>
     <tu>
@@ -95403,6 +95419,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045038Z" creationid="seto" creationdate="20190406T045038Z">
         <seg>Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T094136Z" creationid="pugnus" creationdate="20190507T094136Z">
+        <seg>そうです！</seg>
       </tuv>
     </tu>
     <tu>
