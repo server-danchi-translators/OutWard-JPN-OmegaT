@@ -25367,6 +25367,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dammit, I can barely see your face... my vision's going all blurry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T051653Z" creationid="taman" creationdate="20190507T051653Z">
+        <seg>くそ、もうお前の顔も見えねぇ……何もかもがぼやけてやがる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dammit, I'm losing two friends in one day.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
@@ -47361,6 +47369,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T063954Z" creationid="pugnus" creationdate="20190429T063954Z">
         <seg>それは、脅しか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is that you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T051233Z" creationid="taman" creationdate="20190507T051233Z">
+        <seg>そこにいるのはお前なのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -99669,6 +99685,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T065716Z" creationid="taman" creationdate="20190410T065716Z">
         <seg>[PlayerName]……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T051216Z" creationid="taman" creationdate="20190507T051216Z">
+        <seg>[PlayerName]か？</seg>
       </tuv>
     </tu>
     <tu>
