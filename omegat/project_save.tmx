@@ -22349,6 +22349,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corruption?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060622Z" creationid="taman" creationdate="20190507T060622Z">
+        <seg>瘴気か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Corsairs' Headquarters</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T032728Z" creationid="Gaiden Shinji" creationdate="20190404T111724Z">
@@ -36095,6 +36103,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T113412Z" creationid="setom" creationdate="20190401T113412Z">
         <seg>髪型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Half my body is made of Elatt's light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060722Z" creationid="taman" creationdate="20190507T060722Z">
+        <seg>体の半分はエラットの光で構成されているからな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56273,6 +56289,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T172738Z" creationid="taman" creationdate="20190430T172738Z">
         <seg>私の目が……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My body should be able to resist it...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060653Z" creationid="taman" creationdate="20190507T060653Z">
+        <seg>俺の体は抵抗があるはずだ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -86274,8 +86298,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There's glowing green veins in them too.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T060406Z" creationid="taman" creationdate="20190507T060406Z">
-        <seg>緑There's glowing green veins in them too.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060615Z" creationid="taman" creationdate="20190507T060406Z">
+        <seg>こぶの血管は緑色に光っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99395,8 +99419,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Zephyrien, the entire area around the bullet hole is covered with throbbing red lumps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T060205Z" creationid="taman" creationdate="20190507T060205Z">
-        <seg>ゼフィリアン、撃たれた穴の周りは全体が赤いこぶで覆われ、まるで脈打っているようだ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060552Z" creationid="taman" creationdate="20190507T060205Z">
+        <seg>ゼフィリアン、撃たれた穴の周りは全体が赤いこぶで覆われドクドクと脈を打っている。</seg>
       </tuv>
     </tu>
     <tu>
