@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11224,6 +11224,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, [PlayerName], from the Holy Mission!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041759Z" creationid="pugnus" creationdate="20190507T041759Z">
+        <seg>あぁ、神聖伝道団の[PlayerName]！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, a visitor!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T042742Z" creationid="urakata" creationdate="20190505T042725Z">
@@ -19386,6 +19394,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check in on them next time you’re there, eh?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041726Z" creationid="pugnus" creationdate="20190507T041726Z">
+        <seg>バーグに行ったら寄るべきだよ。わかった？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the boxes on the side!&lt;/b&gt;&lt;/color&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T061323Z" creationid="taman" creationdate="20190419T144600Z">
@@ -24139,6 +24155,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T114039Z" creationid="Gaiden Shinji" creationdate="20190404T114039Z">
         <seg>シレネ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyrene said to pass word along that she’s got work for mercenaries like yourself!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042041Z" creationid="pugnus" creationdate="20190507T042041Z">
+        <seg>キュレネは「君のような傭兵のために、仕事をしている。」と言ってたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45052,6 +45076,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’re looking for coin, you should ask her what she has planned!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042130Z" creationid="pugnus" creationdate="20190507T042130Z">
+        <seg>君がコインを探しているなら、彼女に何を計画したのか尋ねた方がいいよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you’re looking for news the Inn is always a good place to try, and don't forget about Yzan down by the beach!</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T092708Z" creationid="rkmad" creationdate="20190404T092558Z">
@@ -55604,6 +55636,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monsoon sent word for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041819Z" creationid="pugnus" creationdate="20190507T041819Z">
+        <seg>モンスーンからの伝言ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monsoon’s smith can craft pieces of Palladium Armor, if Palladium Scraps are brought to him.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T000533Z" creationid="urakata" creationdate="20190331T092650Z">
@@ -57513,6 +57553,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T040851Z" creationid="pugnus" creationdate="20190507T040851Z">
         <seg>君がエンメルカルに行けば、彼らは君が無事だと知るだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next time you’re in the Hallowed Marsh, you should check in with them!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041929Z" creationid="pugnus" creationdate="20190507T041929Z">
+        <seg>「聖なる沼へきたら、顔を出せ。」</seg>
       </tuv>
     </tu>
     <tu>
@@ -84136,6 +84184,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112721Z">
         <seg>メニュータブのジャーナルは次の仕事の追跡に使用されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The King and Queen summon you for an audience!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042220Z" creationid="pugnus" creationdate="20190507T042220Z">
+        <seg>王と女王がお呼びであらせられる。</seg>
       </tuv>
     </tu>
     <tu>
