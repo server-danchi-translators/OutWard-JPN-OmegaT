@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50975,6 +50975,15 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T124944Z" creationid="weedssoul" creationdate="20190406T124944Z">
         <seg>ポケットには生きていく上で必要なものだけを入れておくんだ。キャンプ道具や戦利品なんかはバックパックに入れておけ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ここ意味がつかみづらい。keep this upのあとにandがあるせいでin dangerが伝わりづらい。</note>
+      <tuv lang="EN-US">
+        <seg>Keep this up and you’re in danger of earning my respect, missionary!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T051209Z" creationid="taman" creationdate="20190507T051209Z">
+        <seg>俺の信頼を失わないようこのまま頑張ってくれ、伝道師よ！</seg>
       </tuv>
     </tu>
     <tu>
