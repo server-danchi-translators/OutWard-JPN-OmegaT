@@ -41853,8 +41853,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I need to get you help.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T072132Z" creationid="taman" creationdate="20190507T072132Z">
-        <seg>あなたの助けが必要です。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072448Z" creationid="taman" creationdate="20190507T072132Z">
+        <seg>私にはあなたの助けが必要です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45180,6 +45180,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're lucky, it's a slow death as it overtakes your entire body.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072402Z" creationid="taman" creationdate="20190507T072402Z">
+        <seg>運がよけりゃあ瘴気が体全体を侵すまでゆっくりと死んでいく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you're near civilization, a night at the inn will take care of your needs.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T062528Z">
@@ -45208,6 +45216,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190408T085039Z" creationid="rkmad" creationdate="20190408T085039Z">
         <seg>もしあなたが我々に代替わりをさせたいのなら、もう一度考え直してほしい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you're unlucky...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072738Z" creationid="taman" creationdate="20190507T072738Z">
+        <seg>運が悪ければ……</seg>
       </tuv>
     </tu>
     <tu>
