@@ -25756,6 +25756,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Deal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101825Z" creationid="pugnus" creationdate="20190507T101825Z">
+        <seg>よし売った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deals Ethereal damage with high Impact and inflicts Pain.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T022756Z" creationid="pugnus" creationdate="20190423T022756Z">
@@ -39136,6 +39144,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How does 50 silvers sound?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101757Z" creationid="pugnus" creationdate="20190507T101757Z">
+        <seg>銀貨50枚。お得だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How does it feel?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063047Z" creationid="urakata" creationdate="20190430T063047Z">
@@ -40244,8 +40260,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I do know of an interesting spell that I could pass down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T101522Z" creationid="pugnus" creationdate="20190507T101443Z">
-        <seg>私は代々受け継いできた「興味深い呪文」を知っている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101623Z" creationid="pugnus" creationdate="20190507T101443Z">
+        <seg>私は代々受け継いできた「興味深い恵み」を知っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48641,6 +48657,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will protect you from ghostly or ethereal attacks, and make your own ethereal damage more powerful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101732Z" creationid="pugnus" creationdate="20190507T101732Z">
+        <seg>それは幽霊やエーテルの攻撃からあなたを守るし、あなたが使うエーテルの攻撃を協力にするよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It will protect you from the light and lightning magic from your opponents, and increase the power of your own.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T095806Z" creationid="pugnus" creationdate="20190507T095806Z">
@@ -52297,6 +52321,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124648Z" creationid="urakata" creationdate="20190430T124648Z">
         <seg>とにかく帰って&lt;color=#00CCFF&gt;&lt;b&gt;このことをガブリエラに報告&lt;/b&gt;&lt;/color&gt;して、他の任務に取り掛かろうか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s get started.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101846Z" creationid="pugnus" creationdate="20190507T101846Z">
+        <seg>早速始めよう。時は金なりだね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85075,6 +85107,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T012553Z" creationid="urakata" creationdate="20190427T012553Z">
         <seg>緋色の貴婦人が攻撃を企てていると父祖の記憶が警告を発したんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Mist Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T101615Z" creationid="pugnus" creationdate="20190507T101615Z">
+        <seg>「霞の恩恵」</seg>
       </tuv>
     </tu>
     <tu>
