@@ -18420,6 +18420,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cardinal Bourlamaque in the Temple was looking for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041147Z" creationid="pugnus" creationdate="20190507T041147Z">
+        <seg>寺院のブラマク枢機卿が君を探していたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cardinal Bourlamaque, in the city of Monsoon, will have a task for you in 3 days.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190413T070851Z" creationid="Light" creationdate="20190409T104309Z">
@@ -36712,6 +36720,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132720Z" creationid="weedssoul" creationdate="20190406T132638Z">
         <seg>彼は我々のように肉体を持っていたころのことを覚えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He said it was important!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041317Z" creationid="pugnus" creationdate="20190507T041317Z">
+        <seg>「重要なこと」だって。何をしでかしたんだい？</seg>
       </tuv>
     </tu>
     <tu>
@@ -75701,6 +75717,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>She says she has work for you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041047Z" creationid="pugnus" creationdate="20190507T041047Z">
+        <seg>彼女は「君のために働いている。」って言ってたけど。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>She seems none too pleased, but life in Berg will go on.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T070224Z" creationid="pugnus" creationdate="20190406T003026Z">
@@ -85779,6 +85803,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T072930Z" creationid="taman" creationdate="20190420T072930Z">
         <seg>昔、この城塞で多くの血が流れた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There you are!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T041108Z" creationid="pugnus" creationdate="20190507T041108Z">
+        <seg>ここにいたのか！</seg>
       </tuv>
     </tu>
     <tu>
