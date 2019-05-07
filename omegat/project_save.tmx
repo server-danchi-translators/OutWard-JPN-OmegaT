@@ -40795,6 +40795,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I fought back...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T163150Z" creationid="taman" creationdate="20190507T163150Z">
+        <seg>私は戦って……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found a clue in the slums.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190409T110804Z" creationid="seto" creationdate="20190409T110804Z">
@@ -87523,6 +87531,7 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>どこのシーンか全くわからん。</note>
       <tuv lang="EN-US">
         <seg>They drugged me with something.</seg>
       </tuv>
@@ -87661,6 +87670,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They tried to question me...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T163138Z" creationid="taman" creationdate="20190507T163138Z">
+        <seg>彼らは何かを聞きたがってた……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They trouble even for big tough giants!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T035235Z" creationid="pugnus" creationdate="20190422T035235Z">
@@ -87673,6 +87690,12 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T034617Z" creationid="rkmad" creationdate="20190405T034506Z">
         <seg>彼らはそれが自然なことのように意気投合し、血統の償いを行うために働いていました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>こんなシーンあった？探しても見つからない。</note>
+      <tuv lang="EN-US">
+        <seg>They used fire from through the bars...</seg>
       </tuv>
     </tu>
     <tu>
