@@ -39849,6 +39849,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can teach you to gain mastery over the cold.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T093615Z" creationid="pugnus" creationdate="20190507T093615Z">
+        <seg>寒さを乗り越える術を教えることができますよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can think of several people who will want to hear about this!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T061258Z" creationid="pugnus" creationdate="20190409T050417Z">
@@ -49236,8 +49244,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’ll cost 50 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T090659Z" creationid="pugnus" creationdate="20190507T090633Z">
-        <seg>銀貨50で教えてやる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T093424Z" creationid="pugnus" creationdate="20190507T090633Z">
+        <seg>銀貨50毎で教えてやる。</seg>
       </tuv>
     </tu>
     <tu>
