@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40869,6 +40869,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T062723Z" creationid="pugnus" creationdate="20190409T062723Z">
         <seg>私は青の議会から何か爆発する音を聞いたわ...そして、奇妙な傭兵たちがやってきて、町の公文書の保管所を破壊し、人質をとっていった！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I heard about how you handled yourself in that cave of undead.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T043329Z" creationid="taman" creationdate="20190507T043329Z">
+        <seg>不死者の洞窟ではうまく立ち回ったそうじゃないか。</seg>
       </tuv>
     </tu>
     <tu>
