@@ -17127,8 +17127,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bring me that mushroom and I’ll pay 70 silver for it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T045725Z">
-        <seg>そのキノコを持ってきてくれたら70シルバー払うわ。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103845Z" creationid="Light" creationdate="20190406T045725Z">
+        <seg>そのキノコを持ってきてくれたら、銀貨70枚を払うわ。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40644,8 +40644,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I doubt you'd be able to gather that much in such a short time just by staying in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T090955Z">
-        <seg> ですが、たった5日をシエルゾの中で過ごして、150シルバーを集められるとは思えませんから。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103728Z" creationid="rkmad" creationdate="20190404T090955Z">
+        <seg> ですが、たった5日をシエルゾの中で過ごして、銀貨150枚を集められるとは思えませんから。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -40916,8 +40916,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I have 150 silver right here.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T090233Z" creationid="rkmad" creationdate="20190405T090233Z">
-        <seg>150シルバーを用意してきました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103823Z" creationid="rkmad" creationdate="20190405T090233Z">
+        <seg>銀貨を150枚、用意してきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44878,8 +44878,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you can do a great deed for someone in Cierzo, we will owe you a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt;, which I will accept as a substitute for your payment.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T091446Z" creationid="rkmad" creationdate="20190404T091446Z">
-        <seg>もしあなたがシエルゾの誰かの為に素晴らしい行いを出来たなら、150シルバーを支払うことなく、その見返りとして&lt;color=#00CCFF&gt;&lt;b&gt;村人達の信頼&lt;/b&gt;&lt;/color&gt;を得られるでしょう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103744Z" creationid="rkmad" creationdate="20190404T091446Z">
+        <seg>もしあなたがシエルゾの誰かの為に素晴らしい行いを出来たなら、銀貨150枚を支払うことなく、その見返りとして&lt;color=#00CCFF&gt;&lt;b&gt;村人達の信頼&lt;/b&gt;&lt;/color&gt;を得られるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63213,8 +63213,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pay 150 silver to Rissa within 5 days or you’ll lose your lighthouse in Cierzo.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190405T093341Z" creationid="Light" creationdate="20190404T133352Z">
-        <seg>5日以内にリッサに150シルバーを支払わなければシエルゾの自宅である灯台を失う</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103924Z" creationid="Light" creationdate="20190404T133352Z">
+        <seg>5日以内にリッサに銀貨150枚を支払わなければ、シエルゾの自宅である灯台を失う</seg>
       </tuv>
     </tu>
     <tu>
@@ -70216,8 +70216,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Remember, [PlayerName], you only have &lt;color=#00CCFF&gt;&lt;b&gt;5 days&lt;/b&gt;&lt;/color&gt; to pay me the 150 silver, or show me proof you have earned a &lt;color=#00CCFF&gt;&lt;b&gt;Tribal Favor&lt;/b&gt;&lt;/color&gt; .</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T091846Z">
-        <seg>[PlayerName]、忘れないで。 &lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。  対価を支払うための150シルバーを集めるか、村人の信頼を得るかのどちらをするにしてもです。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103803Z" creationid="rkmad" creationdate="20190404T091846Z">
+        <seg>[PlayerName]、忘れないで。 &lt;color=#00CCFF&gt;&lt;b&gt;あなたに残された時間は5日間&lt;/b&gt;&lt;/color&gt;です。  対価を支払うための銀貨150枚を集めるか、村人の信頼を得るかのどちらをするにしてもです。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -84369,8 +84369,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>That gives you &lt;color=#00CCFF&gt;&lt;b&gt;5 days to pay back all 150 silver coins&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="rkmad" changedate="20190404T081655Z" creationid="rkmad" creationdate="20190404T081655Z">
-        <seg>つまり&lt;color=#00CCFF&gt;&lt;b&gt;150シルバーの負債を返済する為の5日間&lt;/b&gt;&lt;/color&gt;があなたに与えられたのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103717Z" creationid="rkmad" creationdate="20190404T081655Z">
+        <seg>つまり&lt;color=#00CCFF&gt;&lt;b&gt;銀貨150枚の負債を返済する為の5日間&lt;/b&gt;&lt;/color&gt;があなたに与えられたのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86267,8 +86267,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The teaching fee is {1} silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190406T025026Z" creationid="hiru4" creationdate="20190403T064651Z">
-        <seg>授業料は{1}シルバーです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103904Z" creationid="hiru4" creationdate="20190403T064651Z">
+        <seg>授業料は銀貨{1}枚です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -100453,16 +100453,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="Light" creationdate="20190404T133754Z">
-        <seg>[任意] ミシェル・アバンディーンに包帯かライフポーションを与える</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T104008Z" creationid="Light" creationdate="20190404T133754Z">
+        <seg>[任意] ミシェル・アバンディーンに包帯か生命の水薬を与える</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>[Optional] Give the Writ of Tribal Favor to Rissa instead of 150 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190411T125602Z" creationid="urakata" creationdate="20190407T031047Z">
-        <seg>[任意]リッサに150シルバーの代わりとして一族の支持の証を渡す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T103952Z" creationid="urakata" creationdate="20190407T031047Z">
+        <seg>[任意]リッサに銀貨150枚の代わりとして一族の支持の証を渡す</seg>
       </tuv>
     </tu>
     <tu>
