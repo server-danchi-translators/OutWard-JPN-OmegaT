@@ -11344,6 +11344,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, you can tell I’m a dabbler in the magic arts?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T092319Z" creationid="pugnus" creationdate="20190507T092319Z">
+        <seg>あぁ、君は私を魔術芸術の専門家だと聞ける？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, you look like you’ve found all the materials I need for Roland’s tool.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T041114Z" creationid="seto" creationdate="20190506T040748Z">
@@ -48474,8 +48482,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It will unleash a torrent of flames on any who dare cross you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T092115Z" creationid="pugnus" creationdate="20190507T092115Z">
-        <seg>あなたを横切ろうとする誰かに流れる炎を浴びせるだろうさ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T092143Z" creationid="pugnus" creationdate="20190507T092115Z">
+        <seg>そうすれば、あなたを横切ろうとする誰かに、流れる炎を浴びせるだろうさ。</seg>
       </tuv>
     </tu>
     <tu>
