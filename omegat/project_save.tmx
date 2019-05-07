@@ -11248,6 +11248,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ah, I know.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100645Z" creationid="pugnus" creationdate="20190507T100632Z">
+        <seg>あぁ、あったあった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ah, [PlayerName]!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T035246Z" creationid="pugnus" creationdate="20190507T035246Z">
@@ -39761,6 +39769,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I call it the Possession Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100851Z" creationid="pugnus" creationdate="20190507T100851Z">
+        <seg>それは、「憑依の恩恵」だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I came here to harvest Beast Golem Scraps.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T071525Z" creationid="pugnus" creationdate="20190504T071525Z">
@@ -39885,6 +39901,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T121102Z" creationid="urakata" creationdate="20190503T121102Z">
         <seg>災厄が起きる前に、何の危険もなくエラットとオーライを旅していたことをいまだに思い出せるよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I can teach you a way to become resistant to Decay magic and poisons, and make your own far more powerful.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100809Z" creationid="pugnus" creationdate="20190507T100809Z">
+        <seg>それは腐敗の魔法と毒に抵抗するようになり、そして君が使うそれらを遥かに協力にするよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83305,6 +83329,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T053242Z" creationid="Mad" creationdate="20190407T053242Z">
         <seg>お茶ですが。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teach it to me, please.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100928Z" creationid="pugnus" creationdate="20190507T100928Z">
+        <seg>是非、教えてください。</seg>
       </tuv>
     </tu>
     <tu>
