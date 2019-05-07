@@ -86272,6 +86272,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There's glowing green veins in them too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060406Z" creationid="taman" creationdate="20190507T060406Z">
+        <seg>緑There's glowing green veins in them too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There's no way I'm ready to take down a shell horror!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T071151Z" creationid="urakata" creationdate="20190430T071151Z">
@@ -93295,8 +93303,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Whatever I was hit with is paralyzing me, I can barely move a muscle…If Elatt's blessing didn't shield me from pain, I don't know if I'd be conscious.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T055803Z" creationid="taman" creationdate="20190507T055803Z">
-        <seg>撃たれた俺は全身が麻痺し、筋肉すら動かすことができなかった……エラットの加護が痛みを和らげてくれなかったら俺は意識を失っていたかもしれない。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T060348Z" creationid="taman" creationdate="20190507T055803Z">
+        <seg>撃たれた俺は全身が麻痺し、筋肉すら動かすことができなかった……エラットの加護が痛みを和らげてくれなかったら俺は意識を失っていた。</seg>
       </tuv>
     </tu>
     <tu>
