@@ -40234,6 +40234,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I couldn't have made it out of that mess alone.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160640Z" creationid="taman" creationdate="20190507T160640Z">
+        <seg>私一人じゃ、あの窮地から脱出することはできなかった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I couldn't make it happen, I'm sorry.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T012859Z" creationid="pugnus" creationdate="20190422T012859Z">
@@ -43136,6 +43144,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T225243Z" creationid="urakata" creationdate="20190502T225243Z">
         <seg>あなたが何かお困りだということで、私が対応するよう指示が有ったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I was worried things would get a lot worse.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160516Z" creationid="taman" creationdate="20190507T160516Z">
+        <seg>もっとひどい目にあうんじゃないかと心配していたわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97166,6 +97182,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T005500Z" creationid="seto" creationdate="20190413T005500Z">
         <seg>私がどれだけ殺してやりたいと思っているのか、君には想像もつかないだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have no idea how welcome your face is, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160559Z" creationid="taman" creationdate="20190507T160559Z">
+        <seg>あなたに会えてどれだけうれしいか分からないでしょうね、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
