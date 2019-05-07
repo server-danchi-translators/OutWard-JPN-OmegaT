@@ -44149,6 +44149,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I'm not... imagining this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T162237Z" creationid="taman" creationdate="20190507T162237Z">
+        <seg>私の……想像じゃないよね？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm off.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T072628Z" creationid="taman" creationdate="20190411T072628Z">
@@ -61027,6 +61035,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oliele, it's me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161437Z" creationid="taman" creationdate="20190507T161437Z">
+        <seg>オリエル、私です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oliele, see these people off, would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044230Z" creationid="seto" creationdate="20190404T222433Z">
@@ -69937,8 +69953,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Really?</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190430T064349Z" creationid="urakata" creationdate="20190430T064349Z">
-        <seg>本当か?</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161509Z" creationid="urakata" creationdate="20190430T064349Z">
+        <seg>本当に?</seg>
       </tuv>
     </tu>
     <tu>
@@ -91219,6 +91235,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T055738Z">
         <seg>偵察の帰りを待ってるんだ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wake up!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161446Z" creationid="taman" creationdate="20190507T161446Z">
+        <seg>目を覚ましてください！</seg>
       </tuv>
     </tu>
     <tu>
