@@ -48152,6 +48152,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was a trap, like I thought.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T052858Z" creationid="taman" creationdate="20190507T052858Z">
+        <seg>はめられたんだ、俺の予想したとおりだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was forged to slay horrors, who are weak to lightning.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T064155Z" creationid="setom" creationdate="20190402T064155Z">
@@ -86120,6 +86128,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There weren't any hostages, just a bunch of guys with swords.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T053314Z" creationid="taman" creationdate="20190507T053314Z">
+        <seg>人質なんていなかった、俺を待っていたのは剣を構えた野郎だけさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There you are!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T041108Z" creationid="pugnus" creationdate="20190507T041108Z">
@@ -92991,8 +93007,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What happened?</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190405T170813Z" creationid="weedssoul" creationdate="20190405T163346Z">
-        <seg>何が起きた？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T052754Z" creationid="weedssoul" creationdate="20190405T163346Z">
+        <seg>何があったんですか？</seg>
       </tuv>
     </tu>
     <tu>
