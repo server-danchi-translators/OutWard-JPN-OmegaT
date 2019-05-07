@@ -35835,6 +35835,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hah, I told the guys you ain’t a deadbeat!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033355Z" creationid="pugnus" creationdate="20190507T033355Z">
+        <seg>ハッ！私は君が怠け者じゃないと言ってたんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hah, thank you.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T074011Z" creationid="taman" creationdate="20190501T074011Z">
@@ -49271,6 +49279,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T051715Z" creationid="Light" creationdate="20190408T051715Z">
         <seg>ハンターになる方法を教るぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll tell you what, you donate 300 silver, and we’ll let you have your home back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033141Z" creationid="pugnus" creationdate="20190507T033141Z">
+        <seg>300銀貨で、売ってあげても良い。そうしたら君は自分の家に戻ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83270,8 +83286,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>That said, we really don’t need to.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T032843Z" creationid="pugnus" creationdate="20190507T032843Z">
-        <seg>とはいえ、実は私たちには必要はないのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033206Z" creationid="pugnus" creationdate="20190507T032843Z">
+        <seg>とはいえ、実は私たちには必要はないんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90476,8 +90492,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We have more than enough room in the original barracks.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T033004Z" creationid="pugnus" creationdate="20190507T033004Z">
-        <seg>もともと使用していた兵舎にだって空き部屋がありましたから。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033152Z" creationid="pugnus" creationdate="20190507T033004Z">
+        <seg>もともと使用していた兵舎にだって空き部屋があったからね。</seg>
       </tuv>
     </tu>
     <tu>
