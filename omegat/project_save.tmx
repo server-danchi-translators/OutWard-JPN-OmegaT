@@ -38022,6 +38022,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T090107Z" creationid="pugnus" creationdate="20190507T090107Z">
+        <seg>おい、そこ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T010641Z" creationid="pugnus" creationdate="20190502T010641Z">
@@ -49927,6 +49935,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T010845Z" creationid="seto" creationdate="20190413T010029Z">
         <seg>俺はなにやってもダメなんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m calling in a Tribal Favor.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T090024Z" creationid="pugnus" creationdate="20190507T090024Z">
+        <seg>「部族の好意」の名の下に。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83020,6 +83036,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Teach me, please.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T090037Z" creationid="pugnus" creationdate="20190507T090037Z">
+        <seg>教えてください。お願いします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Teaches how to craft a consumable item, requiring an Alchemy Kit.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T023237Z" creationid="weedssoul" creationdate="20190405T140225Z">
@@ -90905,6 +90929,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141354Z" creationid="weedssoul" creationdate="20190406T114443Z">
         <seg>確かだぜ、俺じゃあねえぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watch yourself in the swamp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T090149Z" creationid="pugnus" creationdate="20190507T090149Z">
+        <seg>沼地に行き、己を見つめなおすんだな。</seg>
       </tuv>
     </tu>
     <tu>
