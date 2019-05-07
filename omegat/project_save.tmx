@@ -83268,6 +83268,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>That said, we really don’t need to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T032843Z" creationid="pugnus" creationdate="20190507T032843Z">
+        <seg>とはいえ、実は私たちには必要はないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>That seems suspicious.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190503T043943Z" creationid="taman" creationdate="20190503T043738Z">
@@ -90462,6 +90470,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T060739Z" creationid="pugnus" creationdate="20190418T060739Z">
         <seg>これ以上失うものは無いですし、試してみる価値はあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have more than enough room in the original barracks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033004Z" creationid="pugnus" creationdate="20190507T033004Z">
+        <seg>もともと使用していた兵舎にだって空き部屋がありましたから。</seg>
       </tuv>
     </tu>
     <tu>
