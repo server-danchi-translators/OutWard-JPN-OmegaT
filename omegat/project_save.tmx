@@ -30769,8 +30769,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>First, put the Spark and Fire Sigil skills in your quickslots, and be certain to have Fire Stones in your inventory.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T094958Z" creationid="setom" creationdate="20190402T080247Z">
-        <seg>まず初めに、クイックスロットにSparkとFire Sigilのスキルを置いてください。Fire Stonesは所持品にありますね？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034314Z" creationid="setom" creationdate="20190402T080247Z">
+        <seg>まず初めに、クイックスロットに「火花」と「火の印」のスキルを置いてください。「ファイヤーストーン」は所持品にありますね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -44878,8 +44878,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you’d like a defensive technique with a 2-handed sword, I’d teach you the Pommel Counter.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T064328Z">
-        <seg>両手剣のテクニックが知りたかったらPommel Counterを教えてやろう。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034007Z" creationid="Light" creationdate="20190406T064328Z">
+        <seg>両手剣のテクニックが知りたかったら柄頭での反撃の方法を教えてやろう。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -81500,8 +81500,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take some Fire Stones on the table, so you can cast Fire Sigils.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T080053Z" creationid="setom" creationdate="20190402T080053Z">
-        <seg>テーブルのFire Stonesを取ってください、Fire Sigilsが唱えられるようになります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034141Z" creationid="setom" creationdate="20190402T080053Z">
+        <seg>テーブルの「ファイヤーストーン」を取ってください、「火の印」が唱えられるようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94309,8 +94309,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yes, I can teach you a little Kazite trick.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073308Z" creationid="weedssoul" creationdate="20190406T073308Z">
-        <seg>いいぜ。Kazite の小さな技を教えてやろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033928Z" creationid="weedssoul" creationdate="20190406T073308Z">
+        <seg>いいぜ。カジートの簡単な技を教えてやろう。</seg>
       </tuv>
     </tu>
     <tu>
