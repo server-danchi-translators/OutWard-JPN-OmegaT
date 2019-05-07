@@ -37990,6 +37990,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, can you check my left arm?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T061552Z" creationid="taman" creationdate="20190507T061552Z">
+        <seg>なあ、俺の左腕を見てくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, do me a solid and bring me another pickaxe would you?</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T014520Z" creationid="rkmad" creationdate="20190404T014520Z">
@@ -47591,8 +47599,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It blasted right through my armor...</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T053837Z" creationid="taman" creationdate="20190507T053837Z">
-        <seg>鎧も貫通しやがった……</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T061505Z" creationid="taman" creationdate="20190507T053837Z">
+        <seg>鎧を貫通するほどの威力だ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -48525,6 +48533,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T041254Z" creationid="seto" creationdate="20190506T035139Z">
         <seg>店のおごりでいい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's one made of light.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T061624Z" creationid="taman" creationdate="20190507T061624Z">
+        <seg>エラットの光でできているんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94009,6 +94025,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T151047Z" creationid="weedssoul" creationdate="20190405T151047Z">
         <seg>なぜ彼が？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why isn't that enough to stop it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T061533Z" creationid="taman" creationdate="20190507T061533Z">
+        <seg>それなのになぜ瘴気を抑えられない？</seg>
       </tuv>
     </tu>
     <tu>
