@@ -44669,8 +44669,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you can't save me, don't waste your energy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T073856Z" creationid="taman" creationdate="20190507T073856Z">
-        <seg>もう俺を救えないのなら、力を無駄にすることもないさ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T073926Z" creationid="taman" creationdate="20190507T073856Z">
+        <seg>俺が助からない身なら、力を無駄にすることもないさ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51023,6 +51023,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T065142Z" creationid="urakata" creationdate="20190430T065142Z">
         <seg>愚痴をこぼすだけか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Just... make it quick...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T074143Z" creationid="taman" creationdate="20190507T074143Z">
+        <seg>ただ……早くいかせてくれ……</seg>
       </tuv>
     </tu>
     <tu>
