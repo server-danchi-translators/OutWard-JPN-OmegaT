@@ -12016,6 +12016,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, here’s the key to your home.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033429Z" creationid="pugnus" creationdate="20190507T033429Z">
+        <seg>よし、君の家の鍵を返すよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, how do you do it?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041721Z" creationid="urakata" creationdate="20190503T041721Z">
@@ -28306,6 +28314,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T023838Z" creationid="urakata" creationdate="20190505T023838Z">
         <seg>そうか、いい滞在になるといいな、友よ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enjoy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033556Z" creationid="pugnus" creationdate="20190507T033435Z">
+        <seg>よかったね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90887,6 +90903,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105752Z" creationid="pugnus" creationdate="20190425T105752Z">
         <seg>彼らが初めてオーライに上陸したときに、私たちは使者を送ろうとしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We tried to leave as much of it untouched as we could.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T033537Z" creationid="pugnus" creationdate="20190507T033537Z">
+        <seg>心配しないで。私たちはできるだけ家の物には触れずに過ごしたから。</seg>
       </tuv>
     </tu>
     <tu>
