@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15684,8 +15684,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Be thankful for the Wind of Kindness, for it bore me to you in your time of need.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T094357Z" creationid="はぐくみ会" creationdate="20190403T062035Z">
-        <seg>私をあなたの元まで運んできた優しさの風に感謝するんだな。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T043108Z" creationid="はぐくみ会" creationdate="20190403T062035Z">
+        <seg>私をあなたの元まで運んできた「優しさの風」に感謝するんだな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69148,6 +69148,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reason, Passion, Fury, Kindness and the Inside Wind.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T043036Z" creationid="pugnus" creationdate="20190507T043036Z">
+        <seg>「理由」「情熱」「激怒」「優しさ」そして、「内なる風」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rebel Priest</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115406Z" creationid="Gaiden Shinji" creationdate="20190404T115406Z">
@@ -84088,6 +84096,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T073317Z" creationid="pugnus" creationdate="20190422T120644Z">
         <seg>このお肉屋さんは男だ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Cabal shares its wisdom with those who respect the Five Winds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T042922Z" creationid="pugnus" creationdate="20190507T042922Z">
+        <seg>この秘術は、「ファイブウィンド」を尊重する人々と共有する知恵だ。</seg>
       </tuv>
     </tu>
     <tu>
