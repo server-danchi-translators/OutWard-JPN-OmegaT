@@ -9708,6 +9708,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A courier came by looking for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035045Z" creationid="pugnus" creationdate="20190507T035045Z">
+        <seg>君を探してたんだ。宅急便だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A crutch that makes you stronger, rather than slowing you down.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T040611Z" creationid="taman" creationdate="20190501T040436Z">
@@ -62635,8 +62643,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Physical skills often require you to wield a specific weapon type or to have a Status Effect active on you, such as the Rage Boon.</seg>
       </tuv>
-      <tuv lang="JA" changeid="setom" changedate="20190402T091701Z" creationid="setom" creationdate="20190402T091701Z">
-        <seg>物理スキルは度々特定の種類の武器の使用、もしくはRage Boonのようなステータス効果が有効になっている必要があります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T034854Z" creationid="setom" creationdate="20190402T091701Z">
+        <seg>物理スキルは度々特定の種類の武器の使用、もしくは「猛威の恩恵」のようなステータス効果が有効になっている必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70304,6 +70312,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T071818Z" creationid="pugnus" creationdate="20190415T071444Z">
         <seg>リッサは、あなたが困難に立ち向かう力を持っていると私に言ったわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rissa wants to speak to you in Berg next time you pass by!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035229Z" creationid="pugnus" creationdate="20190507T035229Z">
+        <seg>リッサからの伝言だ。「君がバーグに来たらぜひ話をしたい」だって！</seg>
       </tuv>
     </tu>
     <tu>
