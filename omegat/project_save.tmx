@@ -9894,6 +9894,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A missionary just dropped in.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035314Z" creationid="pugnus" creationdate="20190507T035314Z">
+        <seg>宣教師が立ち寄ったばかりだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A new pilgrim, huh?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T120558Z" creationid="urakata" creationdate="20190503T120558Z">
@@ -11164,6 +11172,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T120051Z" creationid="weedssoul" creationdate="20190406T120051Z">
         <seg>おお！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ah, [PlayerName]!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035246Z" creationid="pugnus" creationdate="20190507T035246Z">
+        <seg>あぁ、[PlayerName]！</seg>
       </tuv>
     </tu>
     <tu>
@@ -36640,6 +36656,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132720Z" creationid="weedssoul" creationdate="20190406T132638Z">
         <seg>彼は我々のように肉体を持っていたころのことを覚えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He said someone’s looking for you out in Monsoon next time you’re in the area.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T035419Z" creationid="pugnus" creationdate="20190507T035419Z">
+        <seg>彼は、「モンスーンで君を探している人がいる。」って言ってたよ！</seg>
       </tuv>
     </tu>
     <tu>
