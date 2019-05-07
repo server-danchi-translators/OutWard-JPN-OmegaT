@@ -33031,6 +33031,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Get back to Monsoon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T064729Z" creationid="taman" creationdate="20190507T064729Z">
+        <seg>お前はモンスーンに戻るんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Get down to &lt;color=#00CCFF&gt;&lt;b&gt;the archives room below the Blue Chamber and follow the attackers&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T101359Z" creationid="pugnus" creationdate="20190415T051929Z">
@@ -77768,6 +77776,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Someone’s making a move on the Holy Mission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T064822Z" creationid="taman" creationdate="20190507T064822Z">
+        <seg>何者かが聖なる使命を妨げようと暗躍している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Something about it sends chills up my spine.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T124100Z" creationid="taman" creationdate="20190413T161806Z">
@@ -82952,6 +82968,23 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T125403Z" creationid="Light" creationdate="20190409T104204Z">
         <seg>モンスーンでエリナラにオリエルが神聖伝道団を去ったことを伝える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell Ellinara.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T064744Z" creationid="taman" creationdate="20190507T064744Z">
+        <seg>エリナラに報告しろ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>セーランの裏どりができていないが暫定的にセーランで訳しておく。</note>
+      <tuv lang="EN-US">
+        <seg>Tell Soeran...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072024Z" creationid="taman" creationdate="20190507T072024Z">
+        <seg>セーランに伝えてくれ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -96404,6 +96437,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190420T031811Z" creationid="seto" creationdate="20190420T031811Z">
         <seg>これが最後の会話だ、化け物め！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have to report this!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T064716Z" creationid="taman" creationdate="20190507T064716Z">
+        <seg>みんなに伝えてくれ！</seg>
       </tuv>
     </tu>
     <tu>
