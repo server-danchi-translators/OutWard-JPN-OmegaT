@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9468,6 +9468,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Mofat would be able to tell you more&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T040732Z" creationid="taman" creationdate="20190507T040732Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;詳細はモファットが教えてくれるはずよ。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;Once you’re done, we should discuss your future here in Cierzo&lt;/b&gt;&lt;/color&gt;, now that you can handle the world outside.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190405T162833Z">
@@ -12989,6 +12997,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T002516Z" creationid="pugnus" creationdate="20190502T002516Z">
         <seg>たとえどんなに小さな集団であろうとも、平和に反対し容易に紛争を再燃させる可能性があるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any news about Oliele?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T041835Z" creationid="taman" creationdate="20190507T041835Z">
+        <seg>オリエルについて新しい情報はありましたか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -36893,6 +36909,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He's friends with one of the missing people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T041443Z" creationid="taman" creationdate="20190507T041443Z">
+        <seg>失踪した人の一人は彼の友人らしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He's trying to help.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T002814Z" creationid="taman" creationdate="20190428T002814Z">
@@ -37954,6 +37978,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100657Z" creationid="はぐくみ会" creationdate="20190404T001222Z">
         <seg>彼は私の貴重品の多くを奪っていった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He’s the old man in the pointed straw hat in the residential district.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T041405Z" creationid="taman" creationdate="20190507T041405Z">
+        <seg>居住エリアにいるトンガリ帽子をかぶった老人を探してみて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49359,6 +49391,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190503T051729Z" creationid="taman" creationdate="20190503T051729Z">
         <seg>また進展があれば知らせます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll look into it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T041554Z" creationid="taman" creationdate="20190507T041554Z">
+        <seg>分かりました。探してみます。</seg>
       </tuv>
     </tu>
     <tu>
