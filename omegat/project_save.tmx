@@ -12762,6 +12762,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And that's how you generate the Boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T095233Z" creationid="pugnus" creationdate="20190507T095233Z">
+        <seg>これが、あなたが恩恵を得る方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And the delegation from Sirocco should be here by now.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T044911Z" creationid="magur0w" creationdate="20190404T175927Z">
@@ -77841,6 +77849,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So, to cast the Boon of Cool, you pull in any source of cold around you-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T094408Z" creationid="pugnus" creationdate="20190507T094408Z">
+        <seg>そうでした、「冷気の恩恵」ですね。えぇーと、あなたの周りの冷気の要素を...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So, what now?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T112440Z" creationid="pugnus" creationdate="20190406T112440Z">
@@ -95425,8 +95441,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yes!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T094136Z" creationid="pugnus" creationdate="20190507T094136Z">
-        <seg>そうです！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T094223Z" creationid="pugnus" creationdate="20190507T094136Z">
+        <seg>やりました！</seg>
       </tuv>
     </tu>
     <tu>
