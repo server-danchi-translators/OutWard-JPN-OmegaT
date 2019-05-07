@@ -479,6 +479,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(There is a book here.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030423Z" creationid="pugnus" creationdate="20190507T030423Z">
+        <seg>(ここに本がある。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(There is a note lying here.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030634Z" creationid="pugnus" creationdate="20190507T030634Z">
+        <seg>(ここにノートがある。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(There is nothing I can do with that right now.)</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T090231Z" creationid="pugnus" creationdate="20190408T090231Z">
@@ -49487,6 +49503,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T042823Z">
         <seg>仕事について聞きに来ました。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m here to collect my armor piece.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030358Z" creationid="pugnus" creationdate="20190507T030358Z">
+        <seg>私は鎧を収集するためにここにいます。</seg>
       </tuv>
     </tu>
     <tu>
