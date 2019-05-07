@@ -26652,6 +26652,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you know what happens if the Corruption really gets you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072312Z" creationid="taman" creationdate="20190507T072312Z">
+        <seg>瘴気が進めばどうなるか聞いたことはあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you know what happens to people who serve him?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T225806Z" creationid="urakata" creationdate="20190502T225751Z">
@@ -41843,6 +41851,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need to get you help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072132Z" creationid="taman" creationdate="20190507T072132Z">
+        <seg>あなたの助けが必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I need to learn about the Ash Giants and their religious views.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105339Z" creationid="pugnus" creationdate="20190425T105339Z">
@@ -44172,6 +44188,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133418Z" creationid="taman" creationdate="20190421T131734Z">
         <seg>周辺には……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If I'm actually being consumed by Corruption, and even Elatt can't stop it, there's no hope for me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072243Z" creationid="taman" creationdate="20190507T072243Z">
+        <seg>実際に瘴気に侵され、エラットの力をもってしても止められないのなら俺はもう助からねぇ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58184,8 +58208,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>No.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T073941Z" creationid="weedssoul" creationdate="20190406T073941Z">
-        <seg>いいえ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072139Z" creationid="weedssoul" creationdate="20190406T073941Z">
+        <seg>いや。</seg>
       </tuv>
     </tu>
     <tu>
@@ -82985,6 +83009,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190507T072024Z" creationid="taman" creationdate="20190507T072024Z">
         <seg>セーランに伝えてくれ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell him I'm sorry.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072105Z" creationid="taman" creationdate="20190507T072032Z">
+        <seg>すまない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tell him to watch his back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T072120Z" creationid="taman" creationdate="20190507T072100Z">
+        <seg>背後には気をつけろと。</seg>
       </tuv>
     </tu>
     <tu>
