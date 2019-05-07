@@ -297,6 +297,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Leave it.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030719Z" creationid="pugnus" creationdate="20190507T030719Z">
+        <seg>(手に取らない。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Leave)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190410T061051Z" creationid="taman" creationdate="20190410T061051Z">
@@ -351,6 +359,14 @@
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T103027Z" creationid="pugnus" creationdate="20190425T103019Z">
         <seg>(巨人の法律と罰について読む。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Read it.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030645Z" creationid="pugnus" creationdate="20190507T030645Z">
+        <seg>(読む。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39177,8 +39193,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I am sorry, [PlayerName], but this isn’t your home anymore.</seg>
       </tuv>
-      <tuv lang="JA" changeid="weedssoul" changedate="20190406T152559Z" creationid="weedssoul" creationdate="20190406T152559Z">
-        <seg>すまない、 [PlayerName], ここはもう君の家ではない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T030806Z" creationid="weedssoul" creationdate="20190406T152559Z">
+        <seg>すまない、 [PlayerName]、ここはもう君の家ではない。</seg>
       </tuv>
     </tu>
     <tu>
