@@ -48472,6 +48472,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will unleash a torrent of flames on any who dare cross you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T092115Z" creationid="pugnus" creationdate="20190507T092115Z">
+        <seg>あなたを横切ろうとする誰かに流れる炎を浴びせるだろうさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It won't be a problem again, I promise!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T082103Z" creationid="taman" creationdate="20190501T081417Z">
@@ -69165,6 +69173,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rather than using Spark to detonate the air, try “pushing” the air inside your lantern.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T091910Z" creationid="pugnus" creationdate="20190507T091910Z">
+        <seg>「火花」の呪文とは勝手が違う。松明かランタンの中に空気を“押し込む”んだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ration Ingredient</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T045230Z" creationid="seto" creationdate="20190406T045230Z">
@@ -77452,6 +77468,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T064143Z" creationid="pugnus" creationdate="20190429T064143Z">
         <seg>子犬ちゃん、賢い選択であるぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart choice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T091734Z" creationid="pugnus" creationdate="20190507T091734Z">
+        <seg>賢いね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97285,6 +97309,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113425Z">
         <seg>しかし、セーブスロットは1つしかありません、つまり古いセーブデータをロードして状況から逃がれることは出来ません。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You only need to hold a lantern or a torch, and you’ll be ready to use it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T091719Z" creationid="pugnus" creationdate="20190507T091719Z">
+        <seg>この呪文は「松明」か「ランタン」を持つだけで使える、便利な呪文さ。</seg>
       </tuv>
     </tu>
     <tu>
