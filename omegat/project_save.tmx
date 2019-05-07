@@ -13690,6 +13690,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the fight began...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T053444Z" creationid="taman" creationdate="20190507T053444Z">
+        <seg>戦闘が始まると……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As will we all.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190405T151427Z" creationid="Mad" creationdate="20190405T151427Z">
@@ -47565,6 +47573,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It blasted right through my armor...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T053837Z" creationid="taman" creationdate="20190507T053837Z">
+        <seg>鎧も貫通しやがった……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It burns at the touch, so you place it inside a fallen lantern for safekeeping)</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131810Z" creationid="urakata" creationdate="20190430T131810Z">
@@ -77676,6 +77692,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101956Z" creationid="pugnus" creationdate="20190404T111509Z">
         <seg>目を覚ますと、口から苦いものが滴り落ちる。私は有毒な昆虫によって繭に包まれていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something hit me in the back...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T053623Z" creationid="taman" creationdate="20190507T053531Z">
+        <seg>俺は後ろから何かで撃たれたんだ……</seg>
       </tuv>
     </tu>
     <tu>
