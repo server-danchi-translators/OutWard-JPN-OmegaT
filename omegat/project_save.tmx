@@ -38370,8 +38370,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>He’s the old man in the pointed straw hat in the residential district.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T041405Z" creationid="taman" creationdate="20190507T041405Z">
-        <seg>居住エリアにいるトンガリ帽子をかぶった老人を探してみて。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161427Z" creationid="taman" creationdate="20190507T041405Z">
+        <seg>居住エリアにいる三角の麦わら帽子をかぶった老人を探してみて。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58700,6 +58700,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T084646Z" creationid="taman" creationdate="20190421T084646Z">
         <seg>はい、一つの可能性として話しているだけです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, I'm just hallucinating...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161247Z" creationid="taman" creationdate="20190507T161247Z">
+        <seg>違うわ、幻覚を見ているのね……</seg>
       </tuv>
     </tu>
     <tu>
