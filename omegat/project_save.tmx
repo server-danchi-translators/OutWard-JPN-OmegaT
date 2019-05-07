@@ -13315,6 +13315,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you hurt?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160702Z" creationid="taman" creationdate="20190507T160702Z">
+        <seg>ケガはしていない？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you interested, or not?</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190406T051404Z" creationid="Light" creationdate="20190406T051404Z">
@@ -17593,6 +17601,15 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T101605Z" creationid="seto" creationdate="20190410T101605Z">
         <seg>でも外に行かないといけないんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>どこの場面か分からないので怪しい。</note>
+      <tuv lang="EN-US">
+        <seg>But I'm sure they were planning to.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160926Z" creationid="taman" creationdate="20190507T160926Z">
+        <seg>私には分かるの、彼からは本気だった。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58715,6 +58732,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T182514Z" creationid="magur0w" creationdate="20190404T182514Z">
         <seg>いや、まだだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, thank Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T160735Z" creationid="taman" creationdate="20190507T160735Z">
+        <seg>大丈夫よ、感謝しますエラット。</seg>
       </tuv>
     </tu>
     <tu>
@@ -100765,8 +100790,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName]?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T051216Z" creationid="taman" creationdate="20190507T051216Z">
-        <seg>[PlayerName]か？</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190507T161005Z" creationid="taman" creationdate="20190507T051216Z">
+        <seg>[PlayerName]ですか？</seg>
       </tuv>
     </tu>
     <tu>
