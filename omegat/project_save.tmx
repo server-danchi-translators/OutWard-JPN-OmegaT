@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40825,6 +40825,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I haven’t heard anything from Oliele yet.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T042638Z" creationid="taman" creationdate="20190507T042638Z">
+        <seg>彼女からはまだ何も聞いていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hear human worship other human named Elatt.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T104018Z" creationid="pugnus" creationdate="20190422T103719Z">
@@ -49463,6 +49471,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T121927Z" creationid="urakata" creationdate="20190503T121927Z">
         <seg>君には秘密のレシピを教えてあげよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ll let you know the moment she sends word, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T043021Z" creationid="taman" creationdate="20190507T043021Z">
+        <seg>連絡があり次第、あなたに知らせてあげます、 [PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
