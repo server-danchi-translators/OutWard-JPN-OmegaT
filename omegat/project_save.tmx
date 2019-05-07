@@ -97457,6 +97457,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You survive and end up some quivering monstrous mass of tumors and ooze.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190507T073641Z" creationid="taman" creationdate="20190507T073641Z">
+        <seg>死ぬこともできず、体はいたるところが赤いコブで膨れ上がり、得体のしれない液体をまき散らす化け物になるのさ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You take this as your cue to flee for your life to a safe part of the Necropolis to tend to your wounds.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T102459Z" creationid="pugnus" creationdate="20190406T001526Z">
