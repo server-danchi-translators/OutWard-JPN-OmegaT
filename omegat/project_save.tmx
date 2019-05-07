@@ -12146,8 +12146,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Alright, sit down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T095827Z" creationid="pugnus" creationdate="20190507T095827Z">
-        <seg>よろしい。座りなさい。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100131Z" creationid="pugnus" creationdate="20190507T095827Z">
+        <seg>よろしい。座りなさい。いま、銀貨50枚あるか確かめるから...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26933,6 +26933,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don't fall asleep on me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100311Z" creationid="pugnus" creationdate="20190507T100311Z">
+        <seg>寝たらだめですよ！罰金貰いますから！銀貨50枚！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Don't forget that Trogs have poor eyesight, but fantastic hearing.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T052218Z">
@@ -31098,8 +31106,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>First, we must consider the relation that light and lightning have with one another and-</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T095949Z" creationid="pugnus" creationdate="20190507T095949Z">
-        <seg>第一に、光と稲妻が、相互に関係していることを理解する必要があります。第二に...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100049Z" creationid="pugnus" creationdate="20190507T095949Z">
+        <seg>第一に、光と稲妻が、相互に関係していることを理解する必要があります。そして第二に...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38187,6 +38195,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190405T160712Z">
         <seg>やぁ、[PlayerName]。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hey, now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T100238Z" creationid="pugnus" creationdate="20190507T100210Z">
+        <seg>ほらぁ！今！</seg>
       </tuv>
     </tu>
     <tu>
