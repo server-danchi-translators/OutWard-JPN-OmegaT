@@ -85462,6 +85462,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The totems are topped by a bird statue, you’ll recognize them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T044409Z" creationid="pugnus" creationdate="20190507T044409Z">
+        <seg>風の祭壇は「鳥の像が目印」だ。見ればわかるやつだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The town guards are using it as a barracks at the moment.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T152637Z" creationid="weedssoul" creationdate="20190406T152637Z">
@@ -85907,6 +85915,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190420T100933Z" creationid="taman" creationdate="20190420T081525Z">
         <seg>そのうち、人間が捧げものとしてか死にかけの人間を外にはりつけるようになった。やつらは瘴気を消化することを止め、死にかけの新鮮な命を好むようになる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then, you may use these spells in that region.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T044125Z" creationid="pugnus" creationdate="20190507T044125Z">
+        <seg>祭壇を活性化すれば、お前はその地域でこれらの呪文を使用できるのだ。</seg>
       </tuv>
     </tu>
     <tu>
