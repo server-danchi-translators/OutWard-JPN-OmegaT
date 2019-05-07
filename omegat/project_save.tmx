@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39571,6 +39571,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T064618Z" creationid="pugnus" creationdate="20190418T064618Z">
         <seg>私はあなたの楽天的な思考は好きですが、[PlayerName]、今回ばかりは真剣にお願いいたします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I assume you wish to learn magic from me...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190507T085535Z" creationid="pugnus" creationdate="20190507T085535Z">
+        <seg>私から魔法を学びたいというのですか...</seg>
       </tuv>
     </tu>
     <tu>
