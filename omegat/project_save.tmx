@@ -12168,6 +12168,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, come with me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T051439Z" creationid="pugnus" creationdate="20190508T051338Z">
+        <seg>よろしい。一緒に来なさい。丸太は持ったか！？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, fine.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063654Z" creationid="urakata" creationdate="20190430T063654Z">
@@ -38087,6 +38095,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I’ll even let you use my axe!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T051628Z" creationid="pugnus" creationdate="20190508T051628Z">
+        <seg>ここだ。さぁ、私の両手斧を使うのだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, I’ll pay you back, plus interest.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024427Z" creationid="urakata" creationdate="20190505T024427Z">
@@ -63879,8 +63895,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Pay my tab for tonight, it’s 50 silver, and I’ll teach you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T051308Z" creationid="pugnus" creationdate="20190508T051308Z">
-        <seg>もし、お前が興味あるのならば、銀貨50枚でどうかね、</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T051314Z" creationid="pugnus" creationdate="20190508T051308Z">
+        <seg>もし、お前が興味あるのならば、銀貨50枚でどうかね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94168,6 +94184,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T005911Z" creationid="pugnus" creationdate="20190502T005911Z">
         <seg>レバント地方を保持するのが精一杯なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re going to go practice this on a couple of old logs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T051528Z" creationid="pugnus" creationdate="20190508T051528Z">
+        <seg>これから丸太を使用し、練習するのだ。</seg>
       </tuv>
     </tu>
     <tu>
