@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30028,6 +30028,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T170057Z" creationid="taman" creationdate="20190502T170057Z">
         <seg>エラットの力をもってしても彼を救うことは不可能でした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even gods are capable of mistakes, and when we do, the consequences are never pleasant.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T161122Z" creationid="taman" creationdate="20190508T161122Z">
+        <seg>神でさえも過ちとは無縁ではなく、神が選択を間違えるということは悲惨な結果が待っているということです。</seg>
       </tuv>
     </tu>
     <tu>
