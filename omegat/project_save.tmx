@@ -37537,8 +37537,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>He was talking with a girl in red, and it turned into an argument.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190508T105930Z" creationid="seto" creationdate="20190508T105930Z">
-        <seg>奴は赤い服の少女と話してて、気づいたら口論になってたぜ。</seg>
+      <tuv lang="JA" changeid="seto" changedate="20190508T110054Z" creationid="seto" creationdate="20190508T105930Z">
+        <seg>奴は赤い服の女の子と話してて、気づいたら口論になってたぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75757,6 +75757,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T110429Z" creationid="seto" creationdate="20190508T110429Z">
+        <seg>Sagard_BC_Bones_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sagard_BC_Bones_07</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190501T053303Z" creationid="seto" creationdate="20190501T053303Z">
@@ -77873,6 +77881,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Mad" creationdate="20190405T151211Z">
         <seg>オリエルはそんな事をする必要のない一族に生を受けたのです。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>She was telling him that there was something she needed to do, and he was refusing, telling her that he wouldn't let her "throw her life away".</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T110427Z" creationid="seto" creationdate="20190508T110427Z">
+        <seg>女の子はやらなきゃいけないことがあるだとか言っていたが、奴はその子に、「身を捨てるようなことはさせない」とか言って拒否してたな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -85993,6 +86009,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T004919Z" creationid="seto" creationdate="20190413T004919Z">
         <seg>それが俺に期待されてることでもある、違うか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That's when your friend over there decided to try to take me with a dagger, and the girl grabbed something off his belt and bolted for the door!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T110757Z" creationid="seto" creationdate="20190508T110757Z">
+        <seg>そしたら、そこにいるアンタのお友達が俺に短剣を突き付けながら連れて行こうとしたが、女の子がそいつのベルトから何かをとって外に飛び出したんだ！</seg>
       </tuv>
     </tu>
     <tu>
