@@ -31433,6 +31433,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you need to reach the Hallowed Marsh.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102443Z" creationid="pugnus" creationdate="20190508T102443Z">
+        <seg>まず、聖なる沼に到着する必要があるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you’ll have better chance of avoiding attention if you’re in the dark.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T062116Z" creationid="weedssoul" creationdate="20190406T062116Z">
@@ -37603,6 +37611,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073251Z" creationid="setom" creationdate="20190401T073251Z">
         <seg>まずは戦闘の基本について学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head east, past the Conflux Mountain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102527Z" creationid="pugnus" creationdate="20190508T102527Z">
+        <seg>コンフラックス山を過ぎて、東に進むのよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87295,6 +87311,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The road to the Marsh is along that way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102705Z" creationid="pugnus" creationdate="20190508T102705Z">
+        <seg>北側の道が沼地へと繋がっているのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The sea can only take you so close.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T123309Z" creationid="Light" creationdate="20190407T123309Z">
@@ -95787,6 +95811,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T063747Z" creationid="Light" creationdate="20190408T063747Z">
         <seg>聖なる沼に到着したら、巡礼者の道に従って歩くの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you see the Chersonese’s Vigil crystal, make sure you pass north of it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102628Z" creationid="pugnus" creationdate="20190508T102628Z">
+        <seg>ケルソネソスのヴィジャルクリスタルが見えたら、必ず、その北を通り過ぎるようにしてね。</seg>
       </tuv>
     </tu>
     <tu>
