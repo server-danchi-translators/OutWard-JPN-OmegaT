@@ -19924,6 +19924,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose between two blessings.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164929Z" creationid="taman" creationdate="20190508T164912Z">
+        <seg>次の二つのうちから選びなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose three rewards from the Gold-Mask Lich.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T094316Z" creationid="urakata" creationdate="20190406T134103Z">
@@ -57930,6 +57938,15 @@ make it up=償う</note>
       </tuv>
     </tu>
     <tu>
+      <note>light とlightningという属性がある。光のスキルとかあった？一体、どのスキルが強くなるのか怪しい。エーテルもどのアクションが強化されるか分かりづらい。実際に覚えるスキルを見て裏どりしたほうがよいかもしれない。</note>
+      <tuv lang="EN-US">
+        <seg>My Spiritual Communion increases the power of your Ethereal, Decay and Light abilities.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T165805Z" creationid="taman" creationdate="20190508T165805Z">
+        <seg>私の霊と交換する力によってあなたのエーテル、腐敗、光アクションが強化されます</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>My arms...</seg>
       </tuv>
@@ -84100,8 +84117,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take which you believe will make you most effective.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T164841Z" creationid="taman" creationdate="20190508T164841Z">
-        <seg>あなたが一番必要だと感じる力を選択しなさい。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164921Z" creationid="taman" creationdate="20190508T164841Z">
+        <seg>あなたが一番必要だと感じる力を選択するのです。</seg>
       </tuv>
     </tu>
     <tu>
