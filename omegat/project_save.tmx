@@ -63840,12 +63840,12 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Divine Assistanceは機械翻訳で翻訳済み？援助のイメージが違和感ありすぎる。</note>
+      <note>Divine Assistanceは機械翻訳で翻訳済み？援助のイメージが違和感ありすぎる。スタミナ、マナの消費が10％軽減されるようになる。</note>
       <tuv lang="EN-US">
         <seg>Or, gain my Divine Assistance, which shall let you fight and cast spells with more ease.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T171927Z" creationid="taman" creationdate="20190508T170544Z">
-        <seg>神の援助を選択するとあなたのアクション、魔法詠唱がOr, gain my Divine Assistance, which shall let you fight and cast spells with more ease.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T172503Z" creationid="taman" creationdate="20190508T170544Z">
+        <seg>神の援助を選択するとあなたのアクション、魔法詠唱の効率が上がります。</seg>
       </tuv>
     </tu>
     <tu>
