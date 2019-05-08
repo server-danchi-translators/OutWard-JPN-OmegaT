@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39297,6 +39297,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How can you say "Well Done"?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T065220Z" creationid="taman" creationdate="20190508T065138Z">
+        <seg>なにをもって「使命を達成した」と言っているのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can you so easily justify this?!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T045721Z" creationid="taman" creationdate="20190411T040051Z">
@@ -44821,6 +44829,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T174726Z" creationid="taman" creationdate="20190430T174200Z">
         <seg>私は、体の一部を失ったのよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I've seen him make other trips like this, usually to the old ruined city in the south-west of the swamp.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T064915Z" creationid="taman" creationdate="20190508T064915Z">
+        <seg>彼を目撃するのはこれが初めてではなく、沼の南西にある荒廃した町まで頻繁に訪れているようです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64282,8 +64298,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Perhaps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T064049Z" creationid="taman" creationdate="20190411T164813Z">
-        <seg>確かではありませんが。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T064547Z" creationid="taman" creationdate="20190411T164813Z">
+        <seg>そうですね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93999,6 +94015,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Well done, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T065155Z" creationid="taman" creationdate="20190508T065119Z">
+        <seg>よく使命を達成しましたね、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Well done.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T040145Z" creationid="rkmad" creationdate="20190405T035843Z">
@@ -101439,6 +101463,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190507T155721Z" creationid="taman" creationdate="20190507T155031Z">
         <seg>ゼフィリアンと私は近々開かれる大規模な評議会のためバーグに向かうの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zephyrien is dead and Oliele ran away to Abrassar!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T065635Z" creationid="taman" creationdate="20190508T065635Z">
+        <seg>ゼフィリアンは亡くなり、オリエルはアブラサールに逃げていったというのに！</seg>
       </tuv>
     </tu>
     <tu>
