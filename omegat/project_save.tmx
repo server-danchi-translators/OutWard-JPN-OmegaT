@@ -12730,6 +12730,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And if they don’t fall for it, jab really quick at their shoulder height.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T094301Z" creationid="pugnus" creationdate="20190508T094301Z">
+        <seg>もし相手がこちらの誘いに乗らない場合は、相手の肩の高さに攻撃を仕掛けよ。素早く突き刺すのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And if you can track down whoever led this attack, make them pay.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T054735Z" creationid="pugnus" creationdate="20190415T054735Z">
@@ -31405,6 +31413,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T101922Z" creationid="pugnus" creationdate="20190507T101922Z">
         <seg>まず知ってほしいのは、幽霊の性質についてだね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First, you begin by baiting your foe with a low stance and prepare to counter it with a-</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T093955Z" creationid="pugnus" creationdate="20190508T093955Z">
+        <seg>まず、武器を低い姿勢で構えるのだ。そして相手の攻撃に反撃するために...</seg>
       </tuv>
     </tu>
     <tu>
