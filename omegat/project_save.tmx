@@ -41187,6 +41187,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I fear one more crisis will topple this entire house of cards!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T104123Z" creationid="pugnus" creationdate="20190508T104123Z">
+        <seg>私はこの、砂の上に建てたような不安定な生活がいつ崩れるか、心配なんです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I fear that without proper care, the Corruption will only grow again under the Chersonese.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T070624Z" creationid="taman" creationdate="20190502T044752Z">
@@ -94971,6 +94979,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T113638Z" creationid="weedssoul" creationdate="20190406T113638Z">
         <seg>どうしてここに？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What brings you to Monsoon, traveller?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T104228Z" creationid="pugnus" creationdate="20190508T104228Z">
+        <seg>モンスーンへは何に誘われたのですか？旅行者さん？</seg>
       </tuv>
     </tu>
     <tu>
