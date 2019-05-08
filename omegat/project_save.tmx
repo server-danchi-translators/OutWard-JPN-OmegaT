@@ -37633,8 +37633,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Head east past the Conflux Mountain, and keep watch for the Chersonese’s Vigil crystal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T103324Z" creationid="pugnus" creationdate="20190508T103324Z">
-        <seg>コンフラックス山を過ぎて東に進み、ケルソネソスのヴィジャルクリスタルを確認してください。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103408Z" creationid="pugnus" creationdate="20190508T103324Z">
+        <seg>コンフラックス山を過ぎて東に進むのよ、ケルソネソスのヴィジャルクリスタルが見えるまで。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37643,6 +37643,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190508T102527Z" creationid="pugnus" creationdate="20190508T102527Z">
         <seg>コンフラックス山を過ぎて、東に進むのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head south of it and you’ll find the road to the forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103440Z" creationid="pugnus" creationdate="20190508T103440Z">
+        <seg>そこから南に進めば、森への道が見えるはずよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51413,6 +51421,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T125323Z" creationid="Light" creationdate="20190408T061902Z">
         <seg>神聖伝道団に参加しようと思ってる、どう行けばいい？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m looking to join the Blue Chamber Collective, how do I get there from here?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103556Z" creationid="pugnus" creationdate="20190508T103556Z">
+        <seg>青の議会に参加したいのだけど、どうやって行ったらいいのでしょう？</seg>
       </tuv>
     </tu>
     <tu>
