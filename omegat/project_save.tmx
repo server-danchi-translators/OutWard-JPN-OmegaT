@@ -13483,6 +13483,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you thinking of joining the Holy Mission of Elatt?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T104321Z" creationid="pugnus" creationdate="20190508T104321Z">
+        <seg>もしかして、エラット神聖伝道団に参加したいとか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you trying to kill us?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T045205Z" creationid="urakata" creationdate="20190501T045205Z">
@@ -51761,6 +51769,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ve been hearing more and more customers doubt in Elatt’s goals...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T104516Z" creationid="pugnus" creationdate="20190508T104516Z">
+        <seg>ただ、エラットの掲げていることに対して、疑問を抱いている人も少なくないようだけど...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ve been thinking about it.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T135214Z" creationid="Mad" creationdate="20190407T135146Z">
@@ -88677,6 +88693,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T082647Z" creationid="pugnus" creationdate="20190406T082647Z">
         <seg>彼らは無罪を主張しますが、証拠は彼らにまっすぐにつながります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They could always use more dedicated people.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T104425Z" creationid="pugnus" creationdate="20190508T104326Z">
+        <seg>彼らはとても熱心だし、数も多いわよ。</seg>
       </tuv>
     </tu>
     <tu>
