@@ -88296,6 +88296,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There’s an oasis not far from the road out of here where you can resupply your water, and maybe some berries, if you’re lucky.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102030Z" creationid="pugnus" creationdate="20190508T102030Z">
+        <seg>「運が良ければ」道路からそう遠くないところにオアシスがあり、そこで水の補給もできるかもしれないわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There’s been an attack.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190508T042152Z" creationid="taman" creationdate="20190508T042152Z">
@@ -90293,6 +90301,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142137Z" creationid="weedssoul" creationdate="20190406T073133Z">
         <seg>もし風の一党の呪文を学びたいのであれば、彼は最高の教師だろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To leave Abrassar desert, head as west as you can go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101913Z" creationid="pugnus" creationdate="20190508T101913Z">
+        <seg>アブラサール砂漠を出たいなら簡単よ。ずぅっと西にむかえばいいの。</seg>
       </tuv>
     </tu>
     <tu>
