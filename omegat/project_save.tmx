@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18322,6 +18322,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190419T141737Z" creationid="taman" creationdate="20190419T141614Z">
         <seg>もしよかったら &lt;color=#00CCFF&gt;&lt;b&gt;探してきてくれないかしら&lt;/b&gt;&lt;/color&gt;？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can I ask you to go look for him, [PlayerName]?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051234Z" creationid="taman" creationdate="20190508T051234Z">
+        <seg>ゼフィリアンを探してくれないかしら、[PlayerName]？</seg>
       </tuv>
     </tu>
     <tu>
@@ -43365,6 +43373,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I was going to go back myself, but someone needs to &lt;color=#00CCFF&gt;&lt;b&gt;look for Zephyrien&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T050749Z" creationid="taman" creationdate="20190508T050749Z">
+        <seg>私がモンスーンに行くわ。 &lt;color=#00CCFF&gt;&lt;b&gt;でもゼフィリアンを放ってはおけない。&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I was going to leave this morning to go join the Holy Mission of Elatt before Mother could stop me.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T132030Z" creationid="Light" creationdate="20190405T164235Z">
@@ -51234,6 +51250,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190508T041857Z" creationid="taman" creationdate="20190508T041857Z">
         <seg>まだあなたが目の間にいるなんて、 [PlayerName]。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m sure something has happened to him...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051131Z" creationid="taman" creationdate="20190508T051000Z">
+        <seg>彼の身に何かがあったに違いない……</seg>
       </tuv>
     </tu>
     <tu>
