@@ -31441,6 +31441,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you need to head to Enmerkar forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103230Z" creationid="pugnus" creationdate="20190508T103230Z">
+        <seg>まず、エンメルカルの森に到着する必要があるわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you need to reach the Hallowed Marsh.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190508T102443Z" creationid="pugnus" creationdate="20190508T102443Z">
@@ -37619,6 +37627,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T073251Z" creationid="setom" creationdate="20190401T073251Z">
         <seg>まずは戦闘の基本について学んでいきましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Head east past the Conflux Mountain, and keep watch for the Chersonese’s Vigil crystal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103324Z" creationid="pugnus" creationdate="20190508T103324Z">
+        <seg>コンフラックス山を過ぎて東に進み、ケルソネソスのヴィジャルクリスタルを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54503,6 +54519,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T045516Z" creationid="pugnus" creationdate="20190503T045516Z">
         <seg>マンティコアの尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Manticores often hunt in that forest.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103111Z" creationid="pugnus" creationdate="20190508T103111Z">
+        <seg>マンティコアがその森で狩りをしていますから！</seg>
       </tuv>
     </tu>
     <tu>
