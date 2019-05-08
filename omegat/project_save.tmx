@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -77132,8 +77132,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>She had a feeling something might happen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T045258Z" creationid="taman" creationdate="20190508T045258Z">
-        <seg>彼女は何か不吉な予感を感じていたらしい。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T050549Z" creationid="taman" creationdate="20190508T045258Z">
+        <seg>彼女は何か嫌な予感がしていたらしい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78864,6 +78864,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T101504Z" creationid="pugnus" creationdate="20190404T045106Z">
         <seg>レバントのスラム街の誰かが、私を見つけて救出してくれたのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Someone has to bring this information back to Monsoon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T045651Z" creationid="taman" creationdate="20190508T045651Z">
+        <seg>誰かがこの事態をモンスーンまで伝えに行かなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94440,6 +94448,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T051315Z" creationid="pugnus" creationdate="20190415T051315Z">
         <seg>私たちは何をするべきでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do we do?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T045625Z" creationid="taman" creationdate="20190508T045625Z">
+        <seg>これからどうする？</seg>
       </tuv>
     </tu>
     <tu>
