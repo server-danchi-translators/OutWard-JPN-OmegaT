@@ -22729,8 +22729,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Couldn't you have saved Zephyrien, like you saved Oliele?</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T162338Z" creationid="taman" creationdate="20190508T162338Z">
-        <seg>ゼフィリアンを救うことはできなかったのですかCouldn't you have saved Zephyrien, like you saved Oliele?</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T162400Z" creationid="taman" creationdate="20190508T162338Z">
+        <seg>ゼフィリアンを救うことはできなかったのですか、オリエルを救ったように？</seg>
       </tuv>
     </tu>
     <tu>
@@ -79553,8 +79553,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Some of them have become complacent in their faith.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T072003Z" creationid="taman" creationdate="20190508T072003Z">
-        <seg>私を崇めるものの中には信仰によって自己を満たす人間がいます。Some of them have become complacent in their faith.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T162756Z" creationid="taman" creationdate="20190508T072003Z">
+        <seg>私を崇めるものの中には信仰によって自己陶酔に陥ってしまう人間がいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87515,6 +87515,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063431Z" creationid="urakata" creationdate="20190430T063431Z">
         <seg>尖ってる方を悪い奴に向けるんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The poison that he was struck with contained more than just venom.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T162557Z" creationid="taman" creationdate="20190508T162557Z">
+        <seg>彼が受けた毒はただの毒と呼ぶにはThe poison that he was struck with contained more than just venom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96929,8 +96937,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>With Zephyrien gone, things will only get harder.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T162318Z" creationid="taman" creationdate="20190508T162318Z">
-        <seg>ゼフィリアンが逝ってしまい、これから使命を達成するのも、より困難になるでしょう。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T162629Z" creationid="taman" creationdate="20190508T162318Z">
+        <seg>ゼフィリアンが逝ってしまい、これから使命を達成するのもより困難になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
