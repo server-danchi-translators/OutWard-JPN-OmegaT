@@ -38530,8 +38530,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>His ascension and the arrival of the Scourge...</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T030507Z" creationid="taman" creationdate="20190508T030507Z">
-        <seg>そしてエラットの降臨とスカージの発生……</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T030606Z" creationid="taman" creationdate="20190508T030507Z">
+        <seg>そしてエラットの降臨とスカージの出現……</seg>
       </tuv>
     </tu>
     <tu>
@@ -41339,6 +41339,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have to wonder if Elatt himself was the source of the Scourge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T031025Z" creationid="taman" creationdate="20190508T031025Z">
+        <seg>エラット自身がスカージの発生源であった可能性を考えられずにはいられない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have to wonder if Oliele's imprisonment is another move against the Holy Mission.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190503T044427Z" creationid="taman" creationdate="20190503T044427Z">
@@ -42921,6 +42929,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T050943Z" creationid="taman" creationdate="20190502T050943Z">
         <seg>私より彼女のほうが神の加護を必要としているでしょうから。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think there may be a connection between Elatt and the Scourge and the Cabal of Winds.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T030758Z" creationid="taman" creationdate="20190508T030758Z">
+        <seg>エラットとスカージ、そして風の一党の間には何かしらの関係性があるとみている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -87857,8 +87873,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They were nearly at the same time.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T030600Z" creationid="taman" creationdate="20190508T030600Z">
-        <seg>その二つの事象はほぼ同時に起こっていた。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T030619Z" creationid="taman" creationdate="20190508T030600Z">
+        <seg>その二つの事象はほぼ同時に発生していた。</seg>
       </tuv>
     </tu>
     <tu>
