@@ -12908,8 +12908,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>And though I worry what she might discover, I have faith that the best interests of Aurai are in her heart.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T070124Z" creationid="taman" creationdate="20190508T070124Z">
-        <seg>どんな答えにいきつくか心配ではあるが、彼女の心にはオーライの安寧を願う気持ちがあると信じている。t.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T070750Z" creationid="taman" creationdate="20190508T070124Z">
+        <seg>どんな答えにいきつくか心配ではあるが、彼女の心にはオーライの安寧を願う気持ちがあると信じている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13807,6 +13807,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T093500Z" creationid="pugnus" creationdate="20190422T093500Z">
         <seg>他の部族に大きな問題を引き起こすことがなければ、問題と取られないのであるな？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As long as she acts with Aurai's good in mind, that's all that matters to me.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T070843Z" creationid="taman" creationdate="20190508T070843Z">
+        <seg>彼女がオーライの救済を心に掲げて行動する限り、私は何も心配する必要はないのだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44851,8 +44859,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I've seen him make other trips like this, usually to the old ruined city in the south-west of the swamp.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T064915Z" creationid="taman" creationdate="20190508T064915Z">
-        <seg>彼を目撃するのはこれが初めてではなく、沼の南西にある荒廃した町まで頻繁に訪れているようです。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T070739Z" creationid="taman" creationdate="20190508T064915Z">
+        <seg>彼を目撃するのはこれが初めてではなく、沼の南西にある荒廃した町を頻繁に訪れているようです。</seg>
       </tuv>
     </tu>
     <tu>
