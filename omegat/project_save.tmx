@@ -11151,6 +11151,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After I chose Richard to become a Disciple, he became... dogmatic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T072341Z" creationid="taman" creationdate="20190508T072341Z">
+        <seg>私はリチャードを伝道師の一人として選出しましたが、彼は……教義に囚われてしまいました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a third transgression, the giant may never return to their colony and is considered dead to them.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T105108Z" creationid="pugnus" creationdate="20190425T104443Z">
@@ -79131,6 +79139,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190503T052031Z" creationid="taman" creationdate="20190503T052031Z">
         <seg>我々の仲間が他にも数名、沼で行方不明になっているそうです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of them have become complacent in their faith.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T072003Z" creationid="taman" creationdate="20190508T072003Z">
+        <seg>私を崇めるものの中には信仰によって自己を満たす人間がいます。Some of them have become complacent in their faith.</seg>
       </tuv>
     </tu>
     <tu>
