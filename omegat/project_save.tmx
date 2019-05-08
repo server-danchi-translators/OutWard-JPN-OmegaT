@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15909,8 +15909,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Be sure your blow will connect before you use it!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T065242Z" creationid="pugnus" creationdate="20190508T065242Z">
-        <seg>攻撃がしっかりと当たる確信をもって使用してください！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T092324Z" creationid="pugnus" creationdate="20190508T065242Z">
+        <seg>攻撃がしっかりと当たると確信がもてる時に使用してください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -18034,6 +18034,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190403T063234Z" creationid="hiru4" creationdate="20190403T063234Z">
         <seg>購入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buy me a couple rounds at the inn, say about 50 silvers worth, and I’ll teach you my ultimate technique: Simeon's Gambit.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T093631Z" creationid="pugnus" creationdate="20190508T093631Z">
+        <seg>宿の主にその旨を伝え、銀貨50枚の支払いをいたせ。さすれば「王の究極の技術」を伝授いたそう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71173,8 +71181,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Remember, it takes time to pull off.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T065210Z" creationid="pugnus" creationdate="20190508T065108Z">
-        <seg>覚えておいてください。この技は隙が大きい。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T092350Z" creationid="pugnus" creationdate="20190508T065108Z">
+        <seg>覚えておいてください。これは隙の大きい技です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99566,6 +99574,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T003515Z" creationid="pugnus" creationdate="20190502T003515Z">
         <seg>あなたは私たちを不自由にしたいのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You want to learn from the king?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T092455Z" creationid="pugnus" creationdate="20190508T092455Z">
+        <seg>フムゥ？お主はこの「王」から技を学びたいと申すか？</seg>
       </tuv>
     </tu>
     <tu>
