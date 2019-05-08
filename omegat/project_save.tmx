@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42996,6 +42996,17 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
     </tu>
     <tu>
+      <note>虫男、虫野郎、虫人間、といろいろ候補があるが人型の虫が徘徊するダンジョンをあとから行くのでどの表現でも間違ってはないと思う。
+
+念のためメモ。</note>
+      <tuv lang="EN-US">
+        <seg>I think I heard Zephyrien say something about “&lt;color=#00CCFF&gt;&lt;b&gt;Bug-men&lt;/b&gt;&lt;/color&gt; in the South” before he charged off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051723Z" creationid="taman" creationdate="20190508T051723Z">
+        <seg>確かゼフィリアンだったと思うんだけど、「 &lt;color=#00CCFF&gt;&lt;b&gt;虫男&lt;/b&gt;&lt;/color&gt;南の方角」みたいなことをいなくなる前に言っていたと記憶しているわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>I think I lost the ingredients...</seg>
       </tuv>
@@ -50754,6 +50765,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T101055Z" creationid="urakata" creationdate="20190505T101055Z">
         <seg>ケルアックと申す。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m a fast runner, I probably can make it back to Monsoon with this news faster than you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051356Z" creationid="taman" creationdate="20190508T051356Z">
+        <seg>速さには自信があるの、多分あなたより早くモンスーンにこの知らせを届けることができると思うわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95384,6 +95403,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T170858Z" creationid="weedssoul" creationdate="20190405T165023Z">
         <seg>それだけの大金をどうやって集める？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where should I start looking?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051415Z" creationid="taman" creationdate="20190508T051415Z">
+        <seg>一体どこから探せばいいんだ？</seg>
       </tuv>
     </tu>
     <tu>
