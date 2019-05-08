@@ -78666,6 +78666,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some mercenaries from Levant used a bomb to blow their way into the Blue Chamber from the archives room below!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T042314Z" creationid="taman" creationdate="20190508T042314Z">
+        <seg>レバントの傭兵が爆弾を使って下の記録保管所から青の議会に侵入してきたみたい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some metal golem dog things nearly got me!</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115715Z" creationid="urakata" creationdate="20190501T115715Z">
@@ -87615,6 +87623,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T083545Z" creationid="pugnus" creationdate="20190504T083545Z">
         <seg>彼らと私たちの間にゲートが設置されているのには、理由があるんです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s been an attack.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T042152Z" creationid="taman" creationdate="20190508T042152Z">
+        <seg>ここが攻撃されたの。</seg>
       </tuv>
     </tu>
     <tu>
