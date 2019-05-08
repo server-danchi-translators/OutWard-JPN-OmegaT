@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43509,6 +43509,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I wish Elinara had sent me sooner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T045148Z" creationid="taman" creationdate="20190508T045148Z">
+        <seg>もう少し早くエリナラからバーグへ来るよう言われていたら。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I wish you haste and luck.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T074152Z" creationid="pugnus" creationdate="20190406T074152Z">
@@ -75015,6 +75023,15 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <note>sagardはドイツの北部にある地域。ホテルの予約サイトではサガルドと表記されていたがどのスタイルが正しいのか？</note>
+      <tuv lang="EN-US">
+        <seg>Sagard Battleborn just convinced the rest of the Chamberlords to declare war on Levant in retaliation!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T044848Z" creationid="taman" creationdate="20190508T044848Z">
+        <seg>サガードバトルボーンが報復のためレバントに宣戦布告するようたった今、代表者たちを説得したところよ！</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Sagard and I will make sure any new attackers don't get farther than the door.</seg>
       </tuv>
@@ -88090,6 +88107,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T031542Z" creationid="pugnus" creationdate="20190422T031542Z">
         <seg>シリは厳しすぎると思うよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They took hostages and killed an ambassador in front of everyone!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T042429Z" creationid="taman" creationdate="20190508T042429Z">
+        <seg>彼らは全員の前で大使の一人を殺害し人質をとったらしいわ。</seg>
       </tuv>
     </tu>
     <tu>
