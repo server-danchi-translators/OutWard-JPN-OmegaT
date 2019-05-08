@@ -87423,6 +87423,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The slums are packed to bursting with new people, and we’re dealing with increasing bandit raids.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103906Z" creationid="pugnus" creationdate="20190508T103906Z">
+        <seg>スラム街は新人で溢れてるし、私たちは強盗の襲撃回数が増えて、てんてこ舞いなんですもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The smell of ash and cinder wakes you.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100534Z" creationid="はぐくみ会" creationdate="20190403T234100Z">
@@ -100979,6 +100987,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You’re planning to become a Citizen of Levant, aren’t you, traveller?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103658Z" creationid="pugnus" creationdate="20190508T103658Z">
+        <seg>あなたはレバントの民になろうとしているようね、そうでしょ？旅人さん？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You’re planning to talk to the Ash Giants?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T103211Z" creationid="pugnus" creationdate="20190507T103211Z">
@@ -101055,6 +101071,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T100928Z" creationid="はぐくみ会" creationdate="20190404T004528Z">
         <seg>私は洞窟に引きずり込まれた私の周りで、沼地のトカゲ達が金切り声を上げ、争っている。私を「満喫」する権利を得るために！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ve come at a difficult time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T103725Z" creationid="pugnus" creationdate="20190508T103725Z">
+        <seg>ちょっと時期があまり良くないのよ。</seg>
       </tuv>
     </tu>
     <tu>
