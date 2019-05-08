@@ -84098,6 +84098,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take which you believe will make you most effective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164841Z" creationid="taman" creationdate="20190508T164841Z">
+        <seg>あなたが一番必要だと感じる力を選択しなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take your time getting familiar with the Marsh, [PlayerName].</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T145621Z" creationid="taman" creationdate="20190414T145621Z">
