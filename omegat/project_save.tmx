@@ -17742,6 +17742,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But be wary!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102950Z" creationid="pugnus" creationdate="20190508T102950Z">
+        <seg>でも、気を付けて！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But even without them, I see our chances improving considerably.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T020028Z" creationid="pugnus" creationdate="20190422T020028Z">
@@ -46597,6 +46605,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T063330Z" creationid="Light" creationdate="20190408T063330Z">
         <seg>エンメルカルを南東に進んで湖を過ぎるの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Enmerkar, stay on the north side of the lake and head east as you look for the stone walls of Berg, built into the northern mountain walls.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T102901Z" creationid="pugnus" creationdate="20190508T102901Z">
+        <seg>エンメルカルの湖の北側を探すのよ。山の壁に組み込まれたバーグの石壁を探しながら、東に進んでね。</seg>
       </tuv>
     </tu>
     <tu>
