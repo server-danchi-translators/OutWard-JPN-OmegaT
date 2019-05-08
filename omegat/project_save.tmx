@@ -40867,6 +40867,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I found something in the Berg Archives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025906Z" creationid="taman" creationdate="20190508T025906Z">
+        <seg>バーグの記録保管所で興味深いものを見つけたの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I found that rare mushroom you wanted!</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T104035Z" creationid="seto" creationdate="20190410T104020Z">
@@ -42837,6 +42845,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I think I'll be ok, eventually...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025726Z" creationid="taman" creationdate="20190508T025726Z">
+        <seg>私は大丈夫よ、時間がかかるけど……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I think I’ve tried every alchemical combination of ingredients in Aurai by this point.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T123237Z" creationid="urakata" creationdate="20190503T123224Z">
@@ -44390,6 +44406,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I've always been taught that Elatt came from the Hallowed Marsh...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025954Z" creationid="taman" creationdate="20190508T025954Z">
+        <seg>私はこれまで、エラットは聖なる沼で誕生したと教えられてきた……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I've got no good leads.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T080000Z" creationid="pugnus" creationdate="20190406T075950Z">
@@ -44456,8 +44480,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T100041Z" creationid="taman" creationdate="20190411T065748Z">
-        <seg>私...</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025818Z" creationid="taman" creationdate="20190411T065748Z">
+        <seg>私……</seg>
       </tuv>
     </tu>
     <tu>
@@ -88622,6 +88646,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T011920Z" creationid="seto" creationdate="20190413T011920Z">
         <seg>最後に釣りをしたときは酷かったんだぜ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This light heals quickly.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025708Z" creationid="taman" creationdate="20190508T025708Z">
+        <seg>この光のおかげですぐ回復するはず。</seg>
       </tuv>
     </tu>
     <tu>
