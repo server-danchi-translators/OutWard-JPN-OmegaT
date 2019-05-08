@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36429,6 +36429,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hah, there you go, you’ve gotten the hang of it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T051710Z" creationid="pugnus" creationdate="20190508T051710Z">
+        <seg>ハッハッハ！よくやった。コツをつかんだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hah, you think that now, but when they bleed the ground and kill the world, you realize you wrong!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T233404Z" creationid="pugnus" creationdate="20190424T233404Z">
@@ -40525,8 +40533,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I do know of an interesting spell that I could pass down.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T101623Z" creationid="pugnus" creationdate="20190507T101443Z">
-        <seg>私は代々受け継いできた「興味深い恵み」を知っている。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052426Z" creationid="pugnus" creationdate="20190507T101443Z">
+        <seg>私は代々受け継いできたとても興味深い恵みを知っている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43458,8 +43466,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I was supposed to meet a trader today.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T091351Z" creationid="pugnus" creationdate="20190504T075022Z">
-        <seg>私は今日貿易業者に会うことになっていたんだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052326Z" creationid="pugnus" creationdate="20190504T075022Z">
+        <seg>私は今日、貿易業者に会うことになっていたんだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50209,8 +50217,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’s quite helpful in this ghost-filled region.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T101559Z" creationid="pugnus" creationdate="20190507T101559Z">
-        <seg>この、悪霊ばかりの地域ではとても役に立つよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052442Z" creationid="pugnus" creationdate="20190507T101559Z">
+        <seg>悪霊ばかりのこの地域ではとても役に立つよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70951,6 +70959,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T020348Z" creationid="weedssoul" creationdate="20190406T020348Z">
         <seg>思い出して。青の議会は、家族です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, while you turn for extra momentum, you should step forward and put your full weight into it!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052204Z" creationid="pugnus" creationdate="20190508T052204Z">
+        <seg>忘れるんじゃないぞ。お前が前進するとき、お前の全体重を乗せるのだ！</seg>
       </tuv>
     </tu>
     <tu>
