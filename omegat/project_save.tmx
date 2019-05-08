@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12180,6 +12180,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T063654Z" creationid="urakata" creationdate="20190430T063654Z">
         <seg>わかったよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alright, first take a firm stance, plant your feet and pull your mace back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T064642Z" creationid="pugnus" creationdate="20190508T064642Z">
+        <seg>さて、最初にしっかりとした姿勢を取り、あなたの脚を草木のように地面に固定するのだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40266,6 +40274,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I can teach you, provided you donate 50 silvers to our temple.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T064532Z" creationid="pugnus" creationdate="20190508T064532Z">
+        <seg>あなたが私たちの寺院に銀貨50枚を寄付してくれたら、教えよう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I can think of several people who will want to hear about this!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T061258Z" creationid="pugnus" creationdate="20190409T050417Z">
@@ -45589,6 +45605,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235946Z" creationid="Light" creationdate="20190408T060448Z">
         <seg>モンスーンを通ったことはない？この台帳をリダの雑貨店に持っていってくれないかしら？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you favor two-handed maces, you may learn the slow but powerful Juggernaut Strike.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T064442Z" creationid="pugnus" creationdate="20190508T064442Z">
+        <seg>両手持ちのメイスや棍棒を好むのなら、ゆっくりとした動作だが強力な「絶対的な力」を学ぶことができる。</seg>
       </tuv>
     </tu>
     <tu>
