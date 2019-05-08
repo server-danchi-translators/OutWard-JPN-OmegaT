@@ -45771,8 +45771,16 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If you get to Enmerkar from the Marsh, go south, and then west as soon as you can.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T101013Z" creationid="pugnus" creationdate="20190508T101013Z">
-        <seg>もしあなたが沼地からエンメルカルに行きたいのならば、南西の方角に行くといいわ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101427Z" creationid="pugnus" creationdate="20190508T101013Z">
+        <seg>もしあなたが沼地からエンメルカルに行きたいのならば、南へ行き、それから西ね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you get to Enmerkar from the Marsh, walk south then east.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101403Z" creationid="pugnus" creationdate="20190508T101403Z">
+        <seg>あなたが沼地からエンメルカルに行くなら、南に行き、それから東ね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83724,8 +83732,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take the first bridge you see, and you should find one of Berg’s gates right in front of you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T101131Z" creationid="pugnus" creationdate="20190508T101131Z">
-        <seg>最初の橋を渡ると、バーグの町の門が目の前に見えるはずよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101159Z" creationid="pugnus" creationdate="20190508T101131Z">
+        <seg>最初の橋を渡ると、バーグの町の門が目の前に見えるはずよ。そうでなければ...迷ってるってことね。</seg>
       </tuv>
     </tu>
     <tu>
