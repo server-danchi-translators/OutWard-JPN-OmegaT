@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49891,6 +49891,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s a short strike with a lethal twist that inflicts a lasting pain on the victim.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T044959Z" creationid="pugnus" creationdate="20190508T044949Z">
+        <seg>相手に持続的な苦痛を与える、致命的な、捻りを加えた近接攻撃だよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s a sweeping technique for Polearms that deals with enemies attacking from all sides.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T090611Z" creationid="pugnus" creationdate="20190507T090611Z">
@@ -61123,6 +61131,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ok, then, put ‘em up, and I’ll show you how it’s done!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T045210Z" creationid="pugnus" creationdate="20190508T045210Z">
+        <seg>ハイ、それじゃ武器を置いて、どういう動きか説明するね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Old Coin’s Inn</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T134758Z" creationid="Gaiden Shinji" creationdate="20190404T112647Z">
@@ -70323,6 +70339,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T142155Z" creationid="weedssoul" creationdate="20190406T055417Z">
         <seg>やあ、友よ！訓練士に来たのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Real useful to shank someone who owes you money.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T045059Z" creationid="pugnus" creationdate="20190508T045059Z">
+        <seg>お金の取り立てなんかに使えば、そりゃもう効果てき面！</seg>
       </tuv>
     </tu>
     <tu>
@@ -86315,6 +86339,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The key is to jam your sword up and under their armor if you can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T045337Z" creationid="pugnus" creationdate="20190508T045337Z">
+        <seg>この技のコツは、標的の鎧の繋ぎ目を狙うことだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The kidnappers shot him and left him for the animals.</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T183552Z" creationid="magur0w" creationdate="20190404T183552Z">
@@ -91092,6 +91124,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190502T070121Z" creationid="urakata" creationdate="20190502T070121Z">
         <seg>うまく使ってください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use one sharp jab and then twist hard!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T045429Z" creationid="pugnus" creationdate="20190508T045429Z">
+        <seg>あとは、素早く刺して、強く捻るだけ！</seg>
       </tuv>
     </tu>
     <tu>
