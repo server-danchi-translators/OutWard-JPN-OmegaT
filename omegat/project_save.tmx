@@ -84663,6 +84663,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T040649Z" creationid="taman" creationdate="20190508T040649Z">
+        <seg>ありがとう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thanks again for your help.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T081313Z" creationid="taman" creationdate="20190501T081313Z">
