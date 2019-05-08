@@ -62599,6 +62599,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you reach Enmerkar, head north and then west, and take a bridge across the lake.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T100607Z" creationid="pugnus" creationdate="20190508T100607Z">
+        <seg>エンメルカルについたら、北と西に向かって、湖を橋で渡ってね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once you reach the marsh, follow the Pilgrim Road, &lt;color=#00CCFF&gt;&lt;b&gt;the trail of Sun-Pillars&lt;/b&gt;&lt;/color&gt; towards the ray of light that flies over Monsoon.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T114729Z" creationid="Mad" creationdate="20190406T114341Z">
