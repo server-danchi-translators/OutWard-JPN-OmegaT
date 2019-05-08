@@ -33971,6 +33971,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go fetch Rissa!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105616Z" creationid="seto" creationdate="20190508T105616Z">
+        <seg>リッサを連れてこい！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go home, Roland, you’re not cut out for this stuff.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T134028Z" creationid="urakata" creationdate="20190430T133832Z">
@@ -37523,6 +37531,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T042719Z" creationid="weedssoul" creationdate="20190406T042612Z">
         <seg>若い頃、彼は軽率で利己的だった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He was talking with a girl in red, and it turned into an argument.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105930Z" creationid="seto" creationdate="20190508T105930Z">
+        <seg>奴は赤い服の少女と話してて、気づいたら口論になってたぜ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48558,6 +48574,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T113308Z" creationid="Mad" creationdate="20190406T113308Z">
         <seg>じゃあ聞くけれど、リッサの下で――シエルゾの中で過ごす人生のほうが素晴らしいの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is that Julius's corpse behind you?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105834Z" creationid="seto" creationdate="20190508T105834Z">
+        <seg>あなたの後ろにあるのはユリウスの死体か？</seg>
       </tuv>
     </tu>
     <tu>
@@ -62855,6 +62879,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of her idiots just tried to stab me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105804Z" creationid="seto" creationdate="20190508T105804Z">
+        <seg>アイツんとこのバカがオレを刺そうとしやがったんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One of my men went to look for survivors out near that arch.</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T171317Z" creationid="setom" creationdate="20190402T171317Z">
@@ -68468,6 +68500,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T123828Z" creationid="seto" creationdate="20190415T123828Z">
         <seg>Player_Rufus_NE_Call_To_Advent_d_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Player_Sagard_BC_Bones_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105805Z" creationid="seto" creationdate="20190508T105805Z">
+        <seg>Player_Sagard_BC_Bones_a_01</seg>
       </tuv>
     </tu>
     <tu>
@@ -75697,6 +75737,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190405T102533Z" creationid="seto" creationdate="20190405T102533Z">
         <seg>Sagard_BC_ANC_PEACE_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105432Z" creationid="seto" creationdate="20190508T105432Z">
+        <seg>Sagard_BC_Bones_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sagard_BC_Bones_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105835Z" creationid="seto" creationdate="20190508T105835Z">
+        <seg>Sagard_BC_Bones_02</seg>
       </tuv>
     </tu>
     <tu>
@@ -97463,6 +97519,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Yes, you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105628Z" creationid="seto" creationdate="20190508T105517Z">
+        <seg>オマエだよ、オイ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yes.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190414T160338Z" creationid="magur0w" creationdate="20190404T175042Z">
@@ -104730,6 +104794,16 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T031451Z" creationid="seto" creationdate="20190506T031451Z">
         <seg>かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">OutwardEn/dialogues_Blue_Chamber_Questline.xml</prop>
+      <prop type="id">1425_0</prop>
+      <tuv lang="EN-US">
+        <seg>Oy, you!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190508T105624Z" creationid="seto" creationdate="20190508T105455Z">
+        <seg>おい、オマエ！</seg>
       </tuv>
     </tu>
     <tu>
