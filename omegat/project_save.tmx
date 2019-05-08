@@ -209,8 +209,8 @@
       <tuv lang="EN-US">
         <seg>(Give 50 Silver) I’m sorry about earlier.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190505T024415Z" creationid="urakata" creationdate="20190505T024415Z">
-        <seg>(銀貨50を渡して)前はすまなかったな。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095756Z" creationid="urakata" creationdate="20190505T024415Z">
+        <seg>(銀貨50枚を渡して)前はすまなかったな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25715,8 +25715,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Damn, that’s right, you haven't been able to make payments on your Blood Price while we were gone.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T030956Z">
-        <seg> 畜生、ああそうさ、我々が旅している間、君に課せられた「血の代償」を君は支払うことができなかった。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095846Z" creationid="weedssoul" creationdate="20190406T030956Z">
+        <seg>畜生、ああそうさ、我々が旅している間、君に課せられた「血の代償」を君は支払うことができなかった。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -50137,8 +50137,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’ll cost 50 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T093424Z" creationid="pugnus" creationdate="20190507T090633Z">
-        <seg>銀貨50毎で教えてやる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095723Z" creationid="pugnus" creationdate="20190507T090633Z">
+        <seg>銀貨50枚で教えてやる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50753,16 +50753,16 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>I’ll give you 30 silver for that.</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190506T065014Z" creationid="urakata" creationdate="20190506T065014Z">
-        <seg>銀貨30でどう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095948Z" creationid="urakata" creationdate="20190506T065014Z">
+        <seg>銀貨30枚でどう。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I’ll give you 50 silver, and not a single one more!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190506T065538Z" creationid="urakata" creationdate="20190506T065538Z">
-        <seg>銀貨50、それ以上は1枚も出せません!</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T100005Z" creationid="urakata" creationdate="20190506T065538Z">
+        <seg>銀貨50枚、それ以上は1枚も出せません!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60928,8 +60928,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Now give me what you owe me!</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T052241Z" creationid="weedssoul" creationdate="20190406T035526Z">
-        <seg> 私への貸しを返すときだ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095935Z" creationid="weedssoul" creationdate="20190406T035526Z">
+        <seg>私への貸しを返すときだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -83668,8 +83668,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Take my 25 silver and buy yourself some decency.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T035828Z">
-        <seg> 25銀貨持っていけ。 それで、体裁を整えるんだな。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095924Z" creationid="weedssoul" creationdate="20190406T035828Z">
+        <seg>銀貨を25枚持っていけ。 それで、体裁を整えるんだな。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -97265,8 +97265,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You always get the short end of the stick, don't you?</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="weedssoul" creationdate="20190406T031021Z">
-        <seg> 君はいつも貧乏くじを引いてるな。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095851Z" creationid="weedssoul" creationdate="20190406T031021Z">
+        <seg>君はいつも貧乏くじを引いてるな。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -100949,8 +100949,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Yzan, I have 5 days to gather 150 silver.</seg>
       </tuv>
-      <tuv lang="JA" changeid="Light" changedate="20190408T135646Z" creationid="weedssoul" creationdate="20190406T030754Z">
-        <seg>イザン、私は5日間で、150銀貨集めなければならない。 </seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T095834Z" creationid="weedssoul" creationdate="20190406T030754Z">
+        <seg>イザン、私は5日間で銀貨を150枚も集めなければならない。 </seg>
       </tuv>
     </tu>
     <tu>
