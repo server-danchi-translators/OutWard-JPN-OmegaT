@@ -49020,8 +49020,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It held Corruption so strong that even I could only slow its progress through Zephyrien's body.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T163848Z" creationid="taman" creationdate="20190508T163848Z">
-        <seg>瘴気が増長し、私の力でもゼフィリアンの毒の進行を遅らせることしかできませんでした。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164220Z" creationid="taman" creationdate="20190508T163848Z">
+        <seg>瘴気が増長し、私の力でもゼフィリアンの毒の進行を遅らせるだけで精一杯でした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49480,8 +49480,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It was all I could to do keep him alive until you arrived.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T163948Z" creationid="taman" creationdate="20190508T163948Z">
-        <seg>あなたがIt was all I could to do keep him alive until you arrived.</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164028Z" creationid="taman" creationdate="20190508T163948Z">
+        <seg>あなたが到着するまで彼を生かすことしかできなかったのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88372,6 +88372,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T175805Z" creationid="magur0w" creationdate="20190404T175805Z">
         <seg>この部屋にはどこからやってくるか分からない程のフラストレーションが溜まっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is great danger in our future.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T164428Z" creationid="taman" creationdate="20190508T164428Z">
+        <seg>これから私たちはさらなる危機に直面することでしょう。</seg>
       </tuv>
     </tu>
     <tu>
