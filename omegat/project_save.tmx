@@ -34483,6 +34483,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Good luck with your search, and watch yourself out there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T052125Z" creationid="taman" creationdate="20190508T052125Z">
+        <seg>捜索、頑張って。あと注意は怠らないようにね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Good luck.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021126Z" creationid="pugnus" creationdate="20190422T021126Z">
@@ -54943,6 +54951,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T050838Z">
         <seg>後で教えてあげるわ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maybe he &lt;color=#00CCFF&gt;&lt;b&gt;asked around at the Inn too&lt;/b&gt;&lt;/color&gt;, they may know more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051932Z" creationid="taman" creationdate="20190508T051932Z">
+        <seg>もしかしたら彼は &lt;color=#00CCFF&gt;&lt;b&gt;宿で聞き込みをしているかもしれないから&lt;/b&gt;&lt;/color&gt;、 尋ねてみるのがいいわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93851,6 +93867,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T050413Z" creationid="urakata" creationdate="20190501T050413Z">
         <seg>さて、あれが死んでいることは確認できました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Well, I’m off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T051944Z" creationid="taman" creationdate="20190508T051944Z">
+        <seg>それじゃあ行くわね。</seg>
       </tuv>
     </tu>
     <tu>
