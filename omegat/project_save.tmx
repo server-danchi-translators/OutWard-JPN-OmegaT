@@ -13307,6 +13307,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you better now?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025516Z" creationid="taman" creationdate="20190508T025516Z">
+        <seg>少しは楽になった？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you certain?</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T050951Z" creationid="taman" creationdate="20190502T050951Z">
@@ -18430,6 +18438,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you think straight?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025553Z" creationid="taman" creationdate="20190508T025553Z">
+        <seg>頭ははっきりしている？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can't you do something?</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T024606Z" creationid="rkmad" creationdate="20190404T080625Z">
@@ -20017,6 +20033,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T095240Z" creationid="hiru4" creationdate="20190402T071624Z">
         <seg>清潔な水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clean water...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025436Z" creationid="taman" creationdate="20190508T025436Z">
+        <seg>きれいな水を……</seg>
       </tuv>
     </tu>
     <tu>
@@ -25547,8 +25571,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Dammit, I'm sorry I didn't get here sooner.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T025351Z" creationid="taman" creationdate="20190508T025351Z">
-        <seg>なんということだ、すまないもっと早く助けられたはずなのに。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025416Z" creationid="taman" creationdate="20190508T025351Z">
+        <seg>くそっ、すまないもっと早く助けられたはずなのに。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42341,6 +42365,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I need... water...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025427Z" creationid="taman" creationdate="20190508T025427Z">
+        <seg>水を……ちょうだい……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I never have paid much mind to politics.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T031859Z" creationid="rkmad" creationdate="20190405T031859Z">
@@ -50075,6 +50107,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I’ll be alright...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025603Z" creationid="taman" creationdate="20190508T025603Z">
+        <seg>大丈夫だと思う……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I’ll be back.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190506T034139Z" creationid="seto" creationdate="20190506T034139Z">
@@ -56615,6 +56655,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most of my torture was done to my arms...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025643Z" creationid="taman" creationdate="20190508T025643Z">
+        <seg>彼らは執拗に私の両腕をいためつけていたから……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of our shops are up on the roof of the central road here.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T091826Z" creationid="pugnus" creationdate="20190504T091826Z">
@@ -57035,6 +57083,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190407T134034Z" creationid="taman" creationdate="20190407T134034Z">
         <seg>伝道者よ、私は重大な使命で手がふさがっている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My head is still pounding...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025504Z" creationid="taman" creationdate="20190508T025504Z">
+        <seg>頭がまだガンガンする……</seg>
       </tuv>
     </tu>
     <tu>
