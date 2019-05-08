@@ -57942,8 +57942,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>My Spiritual Communion increases the power of your Ethereal, Decay and Light abilities.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T165805Z" creationid="taman" creationdate="20190508T165805Z">
-        <seg>私の霊と交換する力によってあなたのエーテル、腐敗、光アクションが強化されます</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T170141Z" creationid="taman" creationdate="20190508T165805Z">
+        <seg>私の霊と交換する力を選択するとあなたのエーテル、腐敗、光アクションが強化されます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63837,6 +63837,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T112149Z">
         <seg>もしくはマニュアルレシピでなにか材料を使って実験をしてもいいでしょう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or, gain my Divine Assistance, which shall let you fight and cast spells with more ease.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T170544Z" creationid="taman" creationdate="20190508T170544Z">
+        <seg>神のOr, gain my Divine Assistance, which shall let you fight and cast spells with more ease.</seg>
       </tuv>
     </tu>
     <tu>
