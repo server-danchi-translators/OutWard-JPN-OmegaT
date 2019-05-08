@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48436,8 +48436,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It appears to be some kind of armor piercing poison bullet.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190507T154616Z" creationid="taman" creationdate="20190507T154616Z">
-        <seg>どうやらこれがゼフィリアンの鎧を貫いた瘴気の銃弾のようだ。)</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T052249Z" creationid="taman" creationdate="20190507T154616Z">
+        <seg>どうやらこれがゼフィリアンの鎧を貫いた瘴気の銃弾のようだ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52876,8 +52876,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Let me know if you find the truth you’re looking for.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T034740Z" creationid="taman" creationdate="20190508T034740Z">
-        <seg>もし真実にたどり着いたらなら、私にも教えてくれ。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T052306Z" creationid="taman" creationdate="20190508T034740Z">
+        <seg>もし真実にたどり着いたらなら、私にも教えてほしい。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86763,6 +86763,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190409T063907Z" creationid="taman" creationdate="20190409T062030Z">
         <seg>私たちをスカージから守ってくれていると聞きましたが？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ones who committed this attack may still be out there and looking for trouble.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T062753Z" creationid="taman" creationdate="20190508T062753Z">
+        <seg>レバントの傭兵たちはまだ外に潜んでいて襲う機会を狙っているかもしれないから。</seg>
       </tuv>
     </tu>
     <tu>
