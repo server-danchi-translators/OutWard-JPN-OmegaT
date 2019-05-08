@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25541,6 +25541,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190405T160150Z" creationid="weedssoul" creationdate="20190405T160150Z">
         <seg>畜生！私は1日で2人の友人を失った。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dammit, I'm sorry I didn't get here sooner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T025351Z" creationid="taman" creationdate="20190508T025351Z">
+        <seg>なんということだ、すまないもっと早く助けられたはずなのに。</seg>
       </tuv>
     </tu>
     <tu>
