@@ -11153,8 +11153,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>After I chose Richard to become a Disciple, he became... dogmatic.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T072341Z" creationid="taman" creationdate="20190508T072341Z">
-        <seg>私はリチャードを伝道師の一人として選出しましたが、彼は……教義に囚われてしまいました。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T072434Z" creationid="taman" creationdate="20190508T072341Z">
+        <seg>私はリチャードを伝道師の一人として選出しましたが、彼は……私の教えに囚われてしまいました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26373,6 +26373,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Despite my repeated warnings, his pride grew too large, and it cost him his life.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T072819Z" creationid="taman" creationdate="20190508T072819Z">
+        <seg>私の度重なる忠告を受けても彼の自尊心は増すばかりで、その結果、命を失ったのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy any other nearby golems.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190406T124701Z" creationid="urakata" creationdate="20190406T124701Z">
@@ -37290,6 +37298,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190413T113349Z" creationid="はぐくみ会" creationdate="20190403T235418Z">
         <seg>「銀の鼻」は彼の巨大な背負い袋を軽く叩く。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He preferred to follow the letter of the faith but not the heart...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T072552Z" creationid="taman" creationdate="20190508T072427Z">
+        <seg>教義に記された言葉のみを信奉し自身の感情は二の次となっていました……</seg>
       </tuv>
     </tu>
     <tu>
