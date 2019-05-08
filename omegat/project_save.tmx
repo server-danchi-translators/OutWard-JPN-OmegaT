@@ -41341,8 +41341,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I have to wonder if Elatt himself was the source of the Scourge.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190508T031025Z" creationid="taman" creationdate="20190508T031025Z">
-        <seg>エラット自身がスカージの発生源であった可能性を考えられずにはいられない。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T031634Z" creationid="taman" creationdate="20190508T031025Z">
+        <seg>だからエラット自身がスカージの発生源であった可能性を考えられずにはいられない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62848,6 +62848,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T155448Z" creationid="taman" creationdate="20190411T161612Z">
         <seg>さもなくば私たちはスカージのような怪物となんら変わらなくなってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or is he something else who took the man’s name?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T031810Z" creationid="taman" creationdate="20190508T031627Z">
+        <seg>何者かがエラットの名を語っているかもしれない。</seg>
       </tuv>
     </tu>
     <tu>
