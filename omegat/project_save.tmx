@@ -18040,8 +18040,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Buy me a couple rounds at the inn, say about 50 silvers worth, and I’ll teach you my ultimate technique: Simeon's Gambit.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T093631Z" creationid="pugnus" creationdate="20190508T093631Z">
-        <seg>宿の主にその旨を伝え、銀貨50枚の支払いをいたせ。さすれば「王の究極の技術」を伝授いたそう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T093743Z" creationid="pugnus" creationdate="20190508T093631Z">
+        <seg>宿の主にその旨を伝え、銀貨50枚の支払いをいたせ。さすれば、王の究極の技術を伝授いたそう。最強の王が使う、究極の技術「シメオンの策」をな。</seg>
       </tuv>
     </tu>
     <tu>
@@ -83050,6 +83050,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step outside and I’ll show you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T093831Z" creationid="pugnus" creationdate="20190508T093831Z">
+        <seg>さぁ、外にいでよ。目に焼き付けよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Still, I can't say I'm surprised.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T014017Z" creationid="pugnus" creationdate="20190422T014017Z">
@@ -99580,8 +99588,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You want to learn from the king?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T092455Z" creationid="pugnus" creationdate="20190508T092455Z">
-        <seg>フムゥ？お主はこの「王」から技を学びたいと申すか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T093636Z" creationid="pugnus" creationdate="20190508T092455Z">
+        <seg>フムゥ？おぬしはこの「王」から技を学びたいと申すか？</seg>
       </tuv>
     </tu>
     <tu>
