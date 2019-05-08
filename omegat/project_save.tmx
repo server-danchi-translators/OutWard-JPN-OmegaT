@@ -45769,6 +45769,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you get to Enmerkar from the Marsh, go south, and then west as soon as you can.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101013Z" creationid="pugnus" creationdate="20190508T101013Z">
+        <seg>もしあなたが沼地からエンメルカルに行きたいのならば、南西の方角に行くといいわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you have a Flint and Steel in your Inventory, interact with the Campfire to light it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T034719Z" creationid="setom" creationdate="20190402T082925Z">
@@ -83714,6 +83722,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take the first bridge you see, and you should find one of Berg’s gates right in front of you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101131Z" creationid="pugnus" creationdate="20190508T101131Z">
+        <seg>最初の橋を渡ると、バーグの町の門が目の前に見えるはずよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Take the time to get used to the Enmerkar region and buy the equipment you need here in Berg.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190406T085503Z">
@@ -85793,6 +85809,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190417T061934Z" creationid="pugnus" creationdate="20190417T061934Z">
         <seg>それはあなたが誰であるかによります！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s Berg, home of the Blue Chamber Collective.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T100907Z" creationid="pugnus" creationdate="20190508T100907Z">
+        <seg>そこが青の議会の本拠地と名高い、バーグよ。</seg>
       </tuv>
     </tu>
     <tu>
