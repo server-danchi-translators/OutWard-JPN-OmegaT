@@ -32617,6 +32617,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gah!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T064937Z" creationid="pugnus" creationdate="20190508T064930Z">
+        <seg>ぐぁあ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gahh...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064637Z" creationid="urakata" creationdate="20190430T064637Z">
@@ -34519,6 +34527,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190416T055331Z" creationid="pugnus" creationdate="20190416T055331Z">
         <seg>良い決断は時間と議論が必要でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good hit!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T065131Z" creationid="pugnus" creationdate="20190508T064952Z">
+        <seg>いいぞ！とてもいい！</seg>
       </tuv>
     </tu>
     <tu>
@@ -71043,6 +71059,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember, it takes time to pull off.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T065210Z" creationid="pugnus" creationdate="20190508T065108Z">
+        <seg>覚えておいてください。この技は隙が大きい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember, moderation is the key.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T122004Z" creationid="urakata" creationdate="20190503T122004Z">
@@ -99879,6 +99903,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T080127Z" creationid="pugnus" creationdate="20190429T080127Z">
         <seg>あなたは自身を奴隷に貶めています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You've got a good handle on that skill now!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T065030Z" creationid="pugnus" creationdate="20190508T065030Z">
+        <seg>あなたは今、完全にこの技術を理解しました！</seg>
       </tuv>
     </tu>
     <tu>
