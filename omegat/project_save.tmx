@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16934,8 +16934,8 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       <tuv lang="EN-US">
         <seg>Bow made from Shell Horror chitin which inflicts Extreme Poison on enemies.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190424T075101Z" creationid="setom" creationdate="20190402T064849Z">
-        <seg>敵に猛毒をかける、恐るべき甲羅の殻から出来た弓。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T042252Z" creationid="setom" creationdate="20190402T064849Z">
+        <seg>敵に猛毒をかける、忌まわしき甲殻の素材から出来た弓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52048,8 +52048,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Kill a Shell Horror.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T093420Z" creationid="pugnus" creationdate="20190502T093420Z">
-        <seg>「恐るべき甲羅」を倒す。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T042324Z" creationid="pugnus" creationdate="20190502T093420Z">
+        <seg>「忌まわしき甲殻」を倒す。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52072,8 +52072,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Kill the green shell horror in the Cabal of Winds’ temple, in Enmerkar Forest’s south-west.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T021406Z" creationid="Light" creationdate="20190409T094312Z">
-        <seg>エンメルカルの森の南西にある風の一党の寺院で、グリーンシェルホラーを倒す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T042402Z" creationid="Light" creationdate="20190409T094312Z">
+        <seg>エンメルカルの森の南西にある風の一党の寺院で、深緑の忌まわしき甲殻を倒す</seg>
       </tuv>
     </tu>
     <tu>
@@ -60716,8 +60716,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Odd remnants of a unique Shell Horror, proving the beast was slain.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T045157Z" creationid="pugnus" creationdate="20190503T045025Z">
-        <seg>獣が殺害されたことを証明する、独特の恐るべき甲羅の奇妙な名残。
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T042302Z" creationid="pugnus" creationdate="20190503T045025Z">
+        <seg>獣が殺害されたことを証明する、独特の忌まわしき甲殻の奇妙な名残。
 </seg>
       </tuv>
     </tu>
@@ -77194,8 +77194,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Shell Horror</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T065757Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
-        <seg>恐るべき甲羅</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T041501Z" creationid="Gaiden Shinji" creationdate="20190403T110833Z">
+        <seg>忌まわしき甲殻</seg>
       </tuv>
     </tu>
     <tu>
