@@ -42645,6 +42645,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I noticed Lockwell's guard coming back from the Marsh the other day, with an empty bag over his shoulder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190508T064513Z" creationid="taman" creationdate="20190508T064513Z">
+        <seg>ロックウェルの監守が先日、空の袋を肩にかかげ沼から帰ってくるところを見ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I often wonder if we're alive because of our tribal laws, or in spite of them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140430Z" creationid="weedssoul" creationdate="20190407T053206Z">
@@ -64218,8 +64226,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Perhaps.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T164813Z" creationid="taman" creationdate="20190411T164813Z">
-        <seg>神も完全ではありません。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190508T064049Z" creationid="taman" creationdate="20190411T164813Z">
+        <seg>確かではありませんが。</seg>
       </tuv>
     </tu>
     <tu>
