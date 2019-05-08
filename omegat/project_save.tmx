@@ -38792,6 +38792,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hold the blade horizontally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052615Z" creationid="pugnus" creationdate="20190508T052615Z">
+        <seg>刃を水平に保つんだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hold them for ransom, and do not kill them unless it’s absolutely necessary.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T083032Z" creationid="pugnus" creationdate="20190415T083032Z">
@@ -82970,6 +82978,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strike back with the flat of the blade.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052700Z" creationid="pugnus" creationdate="20190508T052700Z">
+        <seg>刃の平らなところでの反撃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stringy Salad</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T061339Z" creationid="pugnus" creationdate="20190503T061339Z">
@@ -87356,6 +87372,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T114659Z" creationid="pugnus" creationdate="20190422T114659Z">
         <seg>そなたらは、獣たちが脅威であることを理解しており、そして阻止するために働いているのだな。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then bash them with the pommel before they can react!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T052755Z" creationid="pugnus" creationdate="20190508T052755Z">
+        <seg>さらに、相手が反応する前に、柄頭で一撃！だ！</seg>
       </tuv>
     </tu>
     <tu>
