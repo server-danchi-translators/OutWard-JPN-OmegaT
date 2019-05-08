@@ -33593,6 +33593,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Getting to Enmerkar Forest is very tricky from here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101602Z" creationid="pugnus" creationdate="20190508T101602Z">
+        <seg>ここからエンメルカルの森に行くのは、とても困難ですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ghost</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190410T235330Z" creationid="pugnus" creationdate="20190410T235330Z">
@@ -86525,6 +86533,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The city will be just north of the river.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101511Z" creationid="pugnus" creationdate="20190508T101511Z">
+        <seg>町は川の北側に見えるはずよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The coil can be swapped for a new one when the light does run out.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T052946Z" creationid="pugnus" creationdate="20190503T052946Z">
@@ -97938,6 +97954,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can try to use the Light Mender’s spire as a landmark, although it’s not perfectly reliable.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101817Z" creationid="pugnus" creationdate="20190508T101817Z">
+        <seg>「光の塔」を目印にもできるけれど...あの塔を完全に信頼できるわけではないわ。気を付けて。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can use a Cooking Pot in your inventory and place it on a Campfire.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190402T083713Z">
@@ -100703,6 +100727,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T123054Z" creationid="urakata" creationdate="20190501T123054Z">
         <seg>ただし、作るには錬金術キットが必要だぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll need to head east past the Vigil crystal, and then go south as far as you can go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T101648Z" creationid="pugnus" creationdate="20190508T101648Z">
+        <seg>ヴィジャルクリスタルを越え、東に行き、それから南ね。</seg>
       </tuv>
     </tu>
     <tu>
