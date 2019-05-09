@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -31877,6 +31877,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T130607Z" creationid="weedssoul" creationdate="20190406T130607Z">
         <seg>例えば、出血して体力を失ってしまったら、包帯を使うことで出血をとめ、少しの間体力を回復してくれるだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, once you have cast a Runic Trap spell and it lies ready on the floor, perform “Shim”, then “Shim” again to create a Runic Blast that will detonate around you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030043Z" creationid="pugnus" creationdate="20190509T030043Z">
+        <seg>たとえば、「ルーンの罠」の呪文を唱え床に設置したのち、ルーン「Shim」を詠唱し、さらに続けてルーン「Shim」を詠唱します。Runic Blastを作成し、周囲を爆発させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -79701,6 +79709,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190508T162756Z" creationid="taman" creationdate="20190508T072003Z">
         <seg>私を崇めるものの中には信仰によって自己陶酔に陥ってしまう人間がいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some rune combinations are effective only after another rune combination has been activated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025738Z" creationid="pugnus" creationdate="20190509T025738Z">
+        <seg>ルーンの組み合わせが有効になった後にのみ使用できる、特別なルーンの組み合わせがあります。</seg>
       </tuv>
     </tu>
     <tu>
