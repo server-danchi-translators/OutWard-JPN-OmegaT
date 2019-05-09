@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9660,6 +9660,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;They’ve had that gang of bandits running loose in the burnt forest of Enmerkar&lt;/b&gt;&lt;/color&gt; for months!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T074127Z" creationid="pugnus" creationdate="20190509T074127Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;彼らは、エンメルカルの「焼け森」で大暴れしていたそうじゃない&lt;/b&gt;&lt;/color&gt;。数か月にわたってね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;We accept peace&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T101540Z" creationid="pugnus" creationdate="20190429T095119Z">
@@ -12894,6 +12902,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T054625Z" creationid="urakata" creationdate="20190427T054625Z">
         <seg>でも敵意が有るわけじゃない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And now it looks like the Blue Chamber will blame us for the attack on Berg!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T073110Z" creationid="pugnus" creationdate="20190509T073104Z">
+        <seg>それからバーグが攻撃されたことで、青の議会が私たちを疑い責めてくるでしょう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -90066,8 +90082,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They should be thanking us on bended knee!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T072726Z" creationid="pugnus" creationdate="20190509T072726Z">
-        <seg>本来ならば旧レバント人は膝を曲げて、私たちに感謝しなきゃいけないのに！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T072931Z" creationid="pugnus" creationdate="20190509T072726Z">
+        <seg>本来ならば旧レバント人は膝を曲げてでも、私たちに感謝しなきゃいけないのに！</seg>
       </tuv>
     </tu>
     <tu>
@@ -97704,6 +97720,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T072507Z" creationid="pugnus" creationdate="20190429T072507Z">
         <seg>何故、シエルゾの者がここに来たのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why don’t they bother to enforce the law in their own lands?!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T073844Z" creationid="pugnus" creationdate="20190509T073747Z">
+        <seg>大体、なんで彼らは私たちの土地で、彼らの法律を執行しようと？！</seg>
       </tuv>
     </tu>
     <tu>
