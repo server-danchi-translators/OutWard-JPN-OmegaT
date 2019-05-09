@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13278,6 +13278,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190507T041835Z" creationid="taman" creationdate="20190507T041835Z">
         <seg>オリエルについて新しい情報はありましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any of them or all of them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T051435Z" creationid="taman" creationdate="20190509T051435Z">
+        <seg>きゃつらかもしくは全員で共謀しているのかもしれんの。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27957,6 +27965,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T044450Z" creationid="seto" creationdate="20190404T221215Z">
         <seg> さあ、金を払うか、潔く出ていくかだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either someone has begun to make a move against the Holy Mission, or we’re being used as pawns in someone’s game.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T061104Z" creationid="taman" creationdate="20190509T061104Z">
+        <seg>何者かが聖なる使命を妨げようと画策しているか、もしくは我々は何者かが仕掛けたゲームの駒にすぎないのか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52328,6 +52344,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T134535Z" creationid="Mad" creationdate="20190407T134535Z">
         <seg>私は彼に仕える宣教師になれたの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve been alive for a very long time, and I never seen a Council meeting that could harm the Holy Mission’s interests so much…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T061944Z" creationid="taman" creationdate="20190509T061944Z">
+        <seg>これまで長い間生きていたが評議会で我々の権益を搾取しようとする議論がされたのは初めてじゃ……</seg>
       </tuv>
     </tu>
     <tu>
@@ -79932,6 +79956,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>So any one of them could have been behind the assassination?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T050954Z" creationid="taman" creationdate="20190509T050954Z">
+        <seg>ではその中の誰かがゼフィリアンの殺害を指示したということですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So it's not just me...</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T062724Z" creationid="taman" creationdate="20190411T062724Z">
@@ -93911,6 +93943,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T141354Z" creationid="weedssoul" creationdate="20190406T114443Z">
         <seg>確かだぜ、俺じゃあねえぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Watch your back, my friend.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T051450Z" creationid="taman" creationdate="20190509T051450Z">
+        <seg>背後に気をつけよ、友よ。</seg>
       </tuv>
     </tu>
     <tu>
