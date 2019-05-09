@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42134,6 +42134,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I heard you killed the Green shell horror hiding in Enmerkar’s old temple!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T050542Z" creationid="pugnus" creationdate="20190509T050542Z">
+        <seg>エンメルカルの古い寺院に巣くう、緑の忌まわしき甲殻を倒したって聞いたわ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hid it near the &lt;color=#00CCFF&gt;&lt;b&gt;old shipwreck&lt;/b&gt;&lt;/color&gt; to the South.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T140727Z" creationid="Light" creationdate="20190407T051938Z">
@@ -51034,6 +51042,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s scary!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T050424Z" creationid="pugnus" creationdate="20190509T050424Z">
+        <seg>考えただけで恐ろしいわ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s still got his blood on it, but...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115239Z" creationid="urakata" creationdate="20190501T115239Z">
@@ -52192,6 +52208,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T014702Z" creationid="weedssoul" creationdate="20190406T014702Z">
         <seg>それについて考えていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m very impressed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T050605Z" creationid="pugnus" creationdate="20190509T050605Z">
+        <seg>とても感動しているわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60444,6 +60468,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="hiru4" changedate="20190402T071420Z" creationid="hiru4" creationdate="20190402T071420Z">
         <seg>ベッドがありません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not just anyone can take down a Scourge Beast that big.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T050717Z" creationid="pugnus" creationdate="20190509T050717Z">
+        <seg>あんなに大きな厄災の獣を倒すのは不可能だと考えていたのよ。</seg>
       </tuv>
     </tu>
     <tu>
