@@ -53906,6 +53906,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Listen well, then.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032721Z" creationid="pugnus" creationdate="20190509T032721Z">
+        <seg>それでは、よく聞いてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Listen, I have to head off before Mother tries to convince me again.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190406T114819Z" creationid="Mad" creationdate="20190406T114819Z">
@@ -54471,6 +54479,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T122517Z">
         <seg>魔術師は、そのエネルギーを捉え、それを魔法の呪文の形で解き放つ方法を学んだ人たちなのよ。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mages came to the conclusion that each of the four runes are spells that are only useful when building runic combinations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T033023Z" creationid="pugnus" creationdate="20190509T033023Z">
+        <seg>いいですか、魔術師は、「4つのルーン文字の組み合わせ」を構築するときにのみ有用な呪文であるという結論に達しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64043,8 +64059,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Or, I suppose if the Collective owes you a Tribal Favor, I can make an exception to my rules and teach you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T032646Z" creationid="pugnus" creationdate="20190509T032646Z">
-        <seg>あぁ、もしあなたが「部族の行為」を所持しているのであれば、私の大好物「王冠のジビエ」はあきらめてもよいですよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032703Z" creationid="pugnus" creationdate="20190509T032646Z">
+        <seg>あぁ、もしあなたが「部族の好意」を所持しているのであれば、私の大好物「王冠のジビエ」はあきらめてもよいですよ。</seg>
       </tuv>
     </tu>
     <tu>
