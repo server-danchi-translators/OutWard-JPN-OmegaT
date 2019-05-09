@@ -31389,8 +31389,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Fine.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T061833Z" creationid="pugnus" creationdate="20190429T061833Z">
-        <seg>いいだろう。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T072056Z" creationid="pugnus" creationdate="20190429T061833Z">
+        <seg>いいでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -102474,8 +102474,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’re wasting my precious investigation time!</seg>
       </tuv>
-      <tuv lang="JA" changeid="urakata" changedate="20190501T050133Z" creationid="urakata" creationdate="20190501T050133Z">
-        <seg>報告することがないのなら、私の捜査の邪魔はしないで頂きたいものですね!</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T072034Z" creationid="urakata" creationdate="20190501T050133Z">
+        <seg>報告することがないのなら、私の捜査の邪魔はしないで頂きたいものですね！</seg>
       </tuv>
     </tu>
     <tu>
