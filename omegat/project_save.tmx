@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42238,6 +42238,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hear that bandit activity is on the rise in Abrassar.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T074736Z" creationid="pugnus" creationdate="20190509T074736Z">
+        <seg>私はアブラサールで盗賊団の活動が活発になっていると耳にしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hear that your Collective is at each others throats over these talks!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T001846Z" creationid="pugnus" creationdate="20190502T001846Z">
@@ -44461,8 +44469,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I wonder how &lt;color=#00CCFF&gt;&lt;b&gt;many of them have their hands in criminal enterprises&lt;/b&gt;&lt;/color&gt;, to be so well informed.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T074637Z" creationid="pugnus" creationdate="20190509T074637Z">
-        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;それらの多くは、犯罪的企業に手を貸しているそうね&lt;/b&gt;&lt;/color&gt;、情報を得るために。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T074652Z" creationid="pugnus" creationdate="20190509T074637Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;彼らの多くは、犯罪的企業に手を貸しているそうね&lt;/b&gt;&lt;/color&gt;、情報を得るために。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54257,6 +54265,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T055735Z" creationid="pugnus" creationdate="20190418T055716Z">
         <seg>レバントの軍隊はエンメルカルの中にいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Levant’s armies loot and pillage every village they besiege!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075026Z" creationid="pugnus" creationdate="20190509T075026Z">
+        <seg>レバントの軍は、彼らが包囲する村々から略奪し、略奪し、そして略奪してるわ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -97536,6 +97552,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T113953Z">
         <seg>直前に通常攻撃をした回数で特殊攻撃が変化します。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While I’m not one to cheer on criminals, it feels like justice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T074854Z" creationid="pugnus" creationdate="20190509T074854Z">
+        <seg>犯罪を応援するつもりはないけど...義賊かもしれないわよ。</seg>
       </tuv>
     </tu>
     <tu>
