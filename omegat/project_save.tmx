@@ -34139,6 +34139,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go forth with respect and good intentions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044058Z" creationid="pugnus" creationdate="20190509T044058Z">
+        <seg>進む者は、敬意と善意を持つのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Go home, Roland, you’re not cut out for this stuff.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T134028Z" creationid="urakata" creationdate="20190430T133832Z">
@@ -38443,6 +38451,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T131238Z" creationid="urakata" creationdate="20190430T131238Z">
         <seg>何も起きやしない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here rest the spirit of the ancients.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044015Z" creationid="pugnus" creationdate="20190509T044015Z">
+        <seg>ここに残るは古代人の精神。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60157,6 +60173,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>North-East: Monsoon City South-East: Jade Quarry</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044141Z" creationid="pugnus" creationdate="20190509T044141Z">
+        <seg>北東：モンスーンの町、南東：翡翠の採石場</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>North-West: Berg City South-West: Vigil Tower</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190509T043452Z" creationid="pugnus" creationdate="20190509T043343Z">
@@ -60165,10 +60189,26 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>North-West: Monsoon City South-East: Enmerkar Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044246Z" creationid="pugnus" creationdate="20190509T044246Z">
+        <seg>北西：モンスーンの町、南東：エンメルカルの森</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>North: Berg City North-East: Hallowed Marsh</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190509T043303Z" creationid="pugnus" creationdate="20190509T043303Z">
         <seg>北：バーグの町、北東：聖なる沼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>North: Monsoon City East: Enmerkar Forest</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044216Z" creationid="pugnus" creationdate="20190509T044216Z">
+        <seg>北：モンスーンの町、東：エンメルカルの森</seg>
       </tuv>
     </tu>
     <tu>
