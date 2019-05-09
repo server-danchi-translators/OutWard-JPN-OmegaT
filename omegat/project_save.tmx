@@ -42478,6 +42478,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I hope the King and Queen are alright!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T083121Z" creationid="pugnus" creationdate="20190509T083031Z">
+        <seg>どうか王と王女が無事でいて下さるように！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I hope there is no barbed meaning behind those words.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190426T225927Z" creationid="urakata" creationdate="20190426T225927Z">
@@ -89078,8 +89086,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The very palace besieged by our own army!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T082920Z" creationid="pugnus" creationdate="20190509T082920Z">
-        <seg>宮殿が軍によって包囲されてるわ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T082933Z" creationid="pugnus" creationdate="20190509T082920Z">
+        <seg>宮殿が軍によって包囲されている！</seg>
       </tuv>
     </tu>
     <tu>
@@ -91224,6 +91232,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190409T063113Z" creationid="pugnus" creationdate="20190409T063113Z">
         <seg>これは、ひどく恐ろしい情報です！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is terrifying!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T083002Z" creationid="pugnus" creationdate="20190509T083002Z">
+        <seg>これは、恐ろしいことです！</seg>
       </tuv>
     </tu>
     <tu>
@@ -96440,6 +96456,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190508T051528Z" creationid="pugnus" creationdate="20190508T051528Z">
         <seg>これから丸太を使用し、練習するのだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re going to need a lot more deliveries of wine if all these toasts to our new goddess keep up.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T083233Z" creationid="pugnus" creationdate="20190509T083233Z">
+        <seg>私たちの新しい女神への乾杯の為にも、もっとたくさんのワインの配達が必要になるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
