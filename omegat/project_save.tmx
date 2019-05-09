@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9656,6 +9656,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T030954Z" creationid="urakata" creationdate="20190428T030954Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;シエルゾから速報&lt;/b&gt;&lt;/color&gt;だ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;There’s two entrances&lt;/b&gt;&lt;/color&gt;, one near those abandoned ships, and another one somewhere further south.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075453Z" creationid="pugnus" creationdate="20190509T075453Z">
+        <seg>&lt;color=#00CCFF&gt;&lt;b&gt;すべり穴の入り口は２か所あるよ&lt;/b&gt;&lt;/color&gt;、 捨てられた船の近くにある入り口と、さらに南のどこかにある入り口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42282,6 +42290,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T001846Z" creationid="pugnus" creationdate="20190502T001846Z">
         <seg>私は、青の議会は喉が渇いちゃうほど話し合うと聞きましたけれどもね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I hear the tunnel gets a little narrow...you may need to crawl to get through.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075609Z" creationid="pugnus" creationdate="20190509T075609Z">
+        <seg>通路が狭くなっていると聞いたから...君は這って進む必要があるかもね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -102644,6 +102660,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T012126Z" creationid="seto" creationdate="20190413T012053Z">
         <seg>アンタはシエルゾから出るんだろ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’re looking for “The Slide”?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075307Z" creationid="pugnus" creationdate="20190509T075307Z">
+        <seg>君は「すべり穴」を探しているの？</seg>
       </tuv>
     </tu>
     <tu>
