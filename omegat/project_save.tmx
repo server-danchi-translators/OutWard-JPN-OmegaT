@@ -37297,6 +37297,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have you lost your mind?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T070937Z" creationid="taman" creationdate="20190509T070937Z">
+        <seg>まさか本気でいっているのか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have you lost your mind?!</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T034542Z" creationid="taman" creationdate="20190428T034524Z">
@@ -97664,6 +97672,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061014Z" creationid="Mad" creationdate="20190407T061014Z">
         <seg>なぜその時を待つ必要がある？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why would I agree to this?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T070958Z" creationid="taman" creationdate="20190509T070958Z">
+        <seg>私がそんな金に手を付けるとでも思うのか？</seg>
       </tuv>
     </tu>
     <tu>
