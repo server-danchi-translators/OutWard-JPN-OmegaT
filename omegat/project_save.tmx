@@ -18550,6 +18550,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can you teach me how to do advanced rune combinations?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025441Z" creationid="pugnus" creationdate="20190509T025441Z">
+        <seg>ルーンの、高度な組み合わせ方法を教えてもらえるでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can you teach me how to fight?</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T055609Z" creationid="weedssoul" creationdate="20190406T055609Z">
@@ -92634,6 +92642,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T021930Z" creationid="weedssoul" creationdate="20190406T021930Z">
         <seg>いいですか。よく聞きなさい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very well, now that you understand the fundamentals of Advanced Runes, I can teach you how to put them into practice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025603Z" creationid="pugnus" creationdate="20190509T025603Z">
+        <seg>よいでしょう。ルーンの基本を理解できているようですので、次の段階を教えましょう。</seg>
       </tuv>
     </tu>
     <tu>
