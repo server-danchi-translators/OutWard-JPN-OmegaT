@@ -81028,6 +81028,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, but if you want to order a meal, you can only get half a portion.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075757Z" creationid="pugnus" creationdate="20190509T075757Z">
+        <seg>ごめんね、もし食事の注文をしたいのなら、今は普段の半分の量になってるのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, you don't have enough silver to stay here.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T060814Z" creationid="Light" creationdate="20190408T060814Z">
@@ -96328,6 +96336,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T005911Z" creationid="pugnus" creationdate="20190502T005911Z">
         <seg>レバント地方を保持するのが精一杯なのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’re facing a famine with no idea when things will get better.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075848Z" creationid="pugnus" creationdate="20190509T075848Z">
+        <seg>私たちは飢饉に直面しているの。状況の改善はいつになるのか...</seg>
       </tuv>
     </tu>
     <tu>
