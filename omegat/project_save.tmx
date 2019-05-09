@@ -31907,8 +31907,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For those who are part of a prominent family that has earned my trust, like the Aberdeens and the Sutherlands, I can offer to teach you how to Internalize the Lexicon so that you no longer need one to cast rune spells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T025009Z" creationid="pugnus" creationdate="20190509T025009Z">
-        <seg>アバディーン</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025352Z" creationid="pugnus" creationdate="20190509T025009Z">
+        <seg>アバディーンやサザーランドの一族のように、私が信頼している「著名な家族の一員」であれば、ルーン呪文を唱える時に辞典を持つ必要がなくなる知識を教えます。「歩く大辞典」。これは本当に便利な知識です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35182,8 +35182,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Greetings, [PlayerName] Aberdeen!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T040024Z" creationid="pugnus" creationdate="20190507T035945Z">
-        <seg>お日柄もよろしいですね。[PlayerName]・アバンディーンさん！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025047Z" creationid="pugnus" creationdate="20190507T035945Z">
+        <seg>お日柄もよろしいですね。[PlayerName]・アバディーンさん！</seg>
       </tuv>
     </tu>
     <tu>
@@ -50569,8 +50569,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>It’s hard to believe you’re negotiating in good faith, Lady Aberdeen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T004215Z" creationid="pugnus" creationdate="20190502T004215Z">
-        <seg>アバンディーンさん、あなたが誠意を持っているとは信じることができません。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025047Z" creationid="pugnus" creationdate="20190502T004215Z">
+        <seg>アバディーンさん、あなたが誠意を持っているとは信じることができません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72639,8 +72639,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Rissa Aberdeen is looking for you!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T040100Z" creationid="pugnus" creationdate="20190507T040100Z">
-        <seg>リッサアバンディーンが君を探していたよ!</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025047Z" creationid="pugnus" creationdate="20190507T040100Z">
+        <seg>リッサアバディーンが君を探していたよ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -95619,8 +95619,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What do you need for us to turn this around, Lady Aberdeen?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T055949Z" creationid="pugnus" creationdate="20190418T055741Z">
-        <seg>アバンディーンさん、現状を好転させるためには何をしたらよいでしょうか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025017Z" creationid="pugnus" creationdate="20190418T055741Z">
+        <seg>アバディーンさん、現状を好転させるためには何をしたらよいでしょうか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -100438,8 +100438,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You wouldn't bring such shame to the Aberdeen name!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T064834Z" creationid="pugnus" creationdate="20190429T064834Z">
-        <seg>アバンディーンの名に、そのような恥をもたらすことはないだろう！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025044Z" creationid="pugnus" creationdate="20190429T064834Z">
+        <seg>アバディーンの名に、そのような恥をもたらすことはないだろう！</seg>
       </tuv>
     </tu>
     <tu>
@@ -102535,8 +102535,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T104008Z" creationid="Light" creationdate="20190404T133754Z">
-        <seg>[任意] ミシェル・アバンディーンに包帯か生命の水薬を与える</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025047Z" creationid="Light" creationdate="20190404T133754Z">
+        <seg>[任意] ミシェル・アバディーンに包帯か生命の水薬を与える</seg>
       </tuv>
     </tu>
     <tu>
@@ -102599,8 +102599,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>[PlayerName] Aberdeen?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T040634Z" creationid="pugnus" creationdate="20190507T040634Z">
-        <seg>[PlayerName]・アバンディーン？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025047Z" creationid="pugnus" creationdate="20190507T040634Z">
+        <seg>[PlayerName]・アバディーン？</seg>
       </tuv>
     </tu>
     <tu>
