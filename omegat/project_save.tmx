@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34042,6 +34042,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give me a moment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035845Z" creationid="taman" creationdate="20190509T035845Z">
+        <seg>少し時間をもらえるかの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Give of yourself, seek to ease the pains of others.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T143156Z" creationid="Mad" creationdate="20190407T141533Z">
@@ -44342,6 +44350,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133123Z" creationid="Light" creationdate="20190405T133123Z">
         <seg>僕はしばらく休める場所を探すよ、そして君の賛歌を歌いながら家に帰るさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll get my alchemy set and I'll let you know what I find out.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T040040Z" creationid="taman" creationdate="20190509T040040Z">
+        <seg>錬金術キットで調べてみるとしよう。何かわかったらおぬしにも知らせてあげよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90237,6 +90253,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190418T065507Z" creationid="pugnus" creationdate="20190418T065507Z">
         <seg>これは遠く離れたコインを射抜くほど難しいことです。正直言って、成功できる希望を持っていません。しかし、これは危険を冒してでも試す意義があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a puzzle, [PlayerName].</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T040210Z" creationid="taman" creationdate="20190509T040210Z">
+        <seg>非常に困った事態じゃ、[PlayerName]。</seg>
       </tuv>
     </tu>
     <tu>
