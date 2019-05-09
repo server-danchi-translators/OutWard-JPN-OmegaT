@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27257,6 +27257,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you really want to anger the god that was able to destroy the Scourge?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T075409Z" creationid="taman" creationdate="20190509T075409Z">
+        <seg>スカージを殺せるような神をあなたは本当に怒らせたいのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you see the problem with that logic?</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T085441Z" creationid="pugnus" creationdate="20190429T085441Z">
@@ -30615,6 +30623,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T101353Z" creationid="pugnus" creationdate="20190502T101353Z">
         <seg>優れた技術</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Excuse me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T074846Z" creationid="taman" creationdate="20190509T074846Z">
+        <seg>なんだと？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37970,6 +37986,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He's just squatting here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T075146Z" creationid="taman" creationdate="20190509T075146Z">
+        <seg>あいつはここに居ついているだけだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He's trying to help.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190428T002814Z" creationid="taman" creationdate="20190428T002814Z">
@@ -40600,6 +40624,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T050302Z" creationid="urakata" creationdate="20190505T050302Z">
         <seg>失礼ながら、公式に話し合うべきことがないのであれば、客人に割く時間はないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am the one who rules Monsoon!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T075219Z" creationid="taman" creationdate="20190509T075219Z">
+        <seg>モンスーンは私のものだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46720,6 +46752,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190508T034707Z" creationid="taman" creationdate="20190508T034707Z">
         <seg>君がそうしたいと思うなら、行くべきだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you threaten a member of the Holy Mission, you threaten all of us.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T074836Z" creationid="taman" creationdate="20190509T074836Z">
+        <seg>協会の人間を脅すということは、我々全員を脅迫するのと同じことですよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60676,6 +60716,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T114740Z" creationid="setom" creationdate="20190401T114740Z">
         <seg>非武装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Not Elatt's.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T075132Z" creationid="taman" creationdate="20190509T075132Z">
+        <seg>エラットのものではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90992,6 +91040,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T102551Z" creationid="pugnus" creationdate="20190422T102551Z">
         <seg>これも、我らの考えに近い。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is my city.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T074916Z" creationid="taman" creationdate="20190509T074916Z">
+        <seg>ここは私の町だ。</seg>
       </tuv>
     </tu>
     <tu>
