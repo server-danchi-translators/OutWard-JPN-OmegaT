@@ -36759,8 +36759,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Hah, I told the guys you ain’t a deadbeat!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T033355Z" creationid="pugnus" creationdate="20190507T033355Z">
-        <seg>ハッ！私は君が怠け者じゃないと言ってたんだ！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043115Z" creationid="pugnus" creationdate="20190507T033355Z">
+        <seg>ハッ！私は君が怠け者じゃないと信じてたんだ！</seg>
       </tuv>
     </tu>
     <tu>
@@ -51411,8 +51411,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>I’ll tell you what, you donate 300 silver, and we’ll let you have your home back.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190507T033141Z" creationid="pugnus" creationdate="20190507T033141Z">
-        <seg>300銀貨で、売ってあげても良い。そうしたら君は自分の家に戻ることができる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043052Z" creationid="pugnus" creationdate="20190507T033141Z">
+        <seg>銀貨300枚で、売ってあげても良い。そうしたら君は自分の家に戻ることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60153,6 +60153,22 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190509T035612Z" creationid="pugnus" creationdate="20190509T035612Z">
         <seg>北東：聖なる沼、東：ヴィジャルタワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>North-West: Berg City South-West: Vigil Tower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043343Z" creationid="pugnus" creationdate="20190509T043343Z">
+        <seg>北西：バーグの町、南西：ヴィジャルタワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>North: Berg City North-East: Hallowed Marsh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043303Z" creationid="pugnus" creationdate="20190509T043303Z">
+        <seg>北：バーグの町、北東：聖なる沼</seg>
       </tuv>
     </tu>
     <tu>
@@ -95533,6 +95549,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190423T090604Z" creationid="pugnus" creationdate="20190423T090604Z">
         <seg>ヴェルリグの槍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>West: Berg City North: Hallowed Marsh</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043224Z" creationid="pugnus" creationdate="20190509T043224Z">
+        <seg>西：バーグの町、北：聖なる沼</seg>
       </tuv>
     </tu>
     <tu>
