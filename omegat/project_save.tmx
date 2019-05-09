@@ -31907,8 +31907,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For example, once you have cast a Runic Trap spell and it lies ready on the floor, perform “Shim”, then “Shim” again to create a Runic Blast that will detonate around you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T030043Z" creationid="pugnus" creationdate="20190509T030043Z">
-        <seg>たとえば、「ルーンの罠」の呪文を唱え床に設置したのち、ルーン「Shim」を詠唱し、さらに続けてルーン「Shim」を詠唱します。Runic Blastを作成し、周囲を爆発させます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030658Z" creationid="pugnus" creationdate="20190509T030043Z">
+        <seg>たとえば、「ルーンの罠」の呪文を唱え床に設置したのち、ルーン「Shim」を詠唱し、さらに続けてルーン「Shim」を詠唱します。「ルーンの旋風」を作成し、周囲を爆発させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58417,6 +58417,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T100548Z" creationid="pugnus" creationdate="20190415T100548Z">
         <seg>当然だわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nearby foes will be harmed, but you won't!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030838Z" creationid="pugnus" creationdate="20190509T030838Z">
+        <seg>詠唱者は無事ですが、旋風は近くの敵に攻撃します！</seg>
       </tuv>
     </tu>
     <tu>
