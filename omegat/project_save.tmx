@@ -17285,6 +17285,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bring me some Diadème de Gibier and I’ll teach you that little trick.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032416Z" creationid="pugnus" creationdate="20190509T032416Z">
+        <seg>私にいくつかの「王冠のジビエ」を持ってきてください。そしたらあなたにピッタリの「卑怯で矮小な術」を教えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bring me that mushroom and I’ll pay 70 silver for it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T103845Z" creationid="Light" creationdate="20190406T045725Z">
@@ -40859,6 +40867,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I crave Diadème de Gibier.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032140Z" creationid="pugnus" creationdate="20190509T032140Z">
+        <seg>私の大好物、「王冠のジビエ」をいただければ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I decide what is allowed in Ashborn society and what is not.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190425T014239Z" creationid="pugnus" creationdate="20190425T014239Z">
@@ -50603,6 +50619,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190415T141355Z" creationid="Light" creationdate="20190406T054940Z">
         <seg>もしかしたら難破船から流されてケルソネソスに打ち上げられてる生存者がいるかも知れない。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s been years since I’ve had a bite of that exquisite desert dish...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032228Z" creationid="pugnus" creationdate="20190509T032228Z">
+        <seg>その絶妙な砂漠地方の料理を食べたのは、もう何年も前でしたね...</seg>
       </tuv>
     </tu>
     <tu>
