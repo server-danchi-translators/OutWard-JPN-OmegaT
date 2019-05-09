@@ -90609,6 +90609,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This was the bullet that killed Zephyrien.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035727Z" creationid="taman" creationdate="20190509T035727Z">
+        <seg>ゼフィリアンを死に追いやった銃弾を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This way law breakers still help the tribe!</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T101725Z" creationid="pugnus" creationdate="20190422T101725Z">
@@ -95717,6 +95725,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T042408Z" creationid="weedssoul" creationdate="20190406T042408Z">
         <seg>彼について教えてくれないか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What can you tell me about it?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035736Z" creationid="taman" creationdate="20190509T035736Z">
+        <seg>何かわかりますか？</seg>
       </tuv>
     </tu>
     <tu>
