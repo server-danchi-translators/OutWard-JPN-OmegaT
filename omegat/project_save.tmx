@@ -38634,6 +38634,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, I think 500 silvers should hire you a few more investigators.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T065431Z" creationid="taman" creationdate="20190509T065431Z">
+        <seg>銀貨500枚もあれば追加で調査員を何人か雇えるんじゃないか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Here, I'll teach you a &lt;color=#00CCFF&gt;&lt;b&gt;skill&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T063046Z">
@@ -43632,6 +43640,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I suggest you think very hard about that decision.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T065327Z" creationid="taman" creationdate="20190509T065327Z">
+        <seg>よくよく考えて次の発言をするんだね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I suppose even I can't turn my nose up at an extra pair of hands, even when they're known to steal from me.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190505T024916Z" creationid="urakata" creationdate="20190505T024916Z">
@@ -45821,8 +45837,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If it turns out it really was self-defense, we’ll let her go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190509T064620Z" creationid="taman" creationdate="20190509T064620Z">
-        <seg>自己防衛だと判明したならば、釈放してやろうじゃないか。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190509T065216Z" creationid="taman" creationdate="20190509T064620Z">
+        <seg>万が一、自己防衛だと判明したならば釈放してやろうじゃないか。</seg>
       </tuv>
     </tu>
     <tu>
