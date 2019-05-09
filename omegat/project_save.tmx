@@ -46233,6 +46233,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have to go, don't pick any needless fights.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045720Z" creationid="pugnus" creationdate="20190509T045720Z">
+        <seg>どうしても行かなきゃならないなら、不必要な戦いは避けるのよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you haven't already unlocked the power of Mana within you, now is a good time.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T053911Z" creationid="urakata" creationdate="20190427T053911Z">
@@ -52285,6 +52293,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T235734Z" creationid="pugnus" creationdate="20190409T063817Z">
         <seg>ロイヤルマンティコアが、その領地に隠れ家を作ったって聞いたよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve heard tell that the old Cabal of Winds Temple in Enmerkar is still a Scourge lair.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T050016Z" creationid="pugnus" creationdate="20190509T050016Z">
+        <seg>エンメルカルにある、古い風の一党の寺院は「厄災の寝床」とも言われているわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86483,6 +86499,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190506T064512Z" creationid="urakata" creationdate="20190506T064512Z">
         <seg>私が払うお代と、道中で手に入れた物を売却すれば、血の代償を払うのに充分なはず。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That place is crawling with the Scourge!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045623Z" creationid="pugnus" creationdate="20190509T045623Z">
+        <seg>あの場所は、「厄災」が徘徊してるのよ！</seg>
       </tuv>
     </tu>
     <tu>
