@@ -44136,6 +44136,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I would if I could, but to actually perform an advanced rune spell, you will need to learn the fundamental theory of advanced runes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031340Z" creationid="pugnus" creationdate="20190509T031340Z">
+        <seg>さて、実際に上級ルーンの呪文を詠唱するには、上級ルーンの基本理論を学ぶ必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I would like to join your crew.</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T044632Z" creationid="Mad" creationdate="20190407T044632Z">
@@ -54875,6 +54883,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many more combinations like this exist with other Runic spells, and only through thoughtful experimentation can one reveal them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031243Z" creationid="pugnus" creationdate="20190509T031243Z">
+        <seg>このような組み合わせは、沢山あります。しかし、それらは慎重に実験を重ね、やっと明らかになるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many of them have lost family and aren't thinking straight.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="rkmad" creationdate="20190404T080428Z">
@@ -62908,6 +62924,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190508T072928Z" creationid="taman" creationdate="20190508T072928Z">
         <seg>私の力は一度授けてしまうと、取り上げることはできないのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once I have taught them to you, ask me again and I can teach you one of those combinations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031518Z" creationid="pugnus" creationdate="20190509T031518Z">
+        <seg>まずは基本を教えましょう。そして、もう一度私を訪ねてきたら、有効な組み合わせの一つを教えます。</seg>
       </tuv>
     </tu>
     <tu>
