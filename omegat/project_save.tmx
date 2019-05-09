@@ -27566,6 +27566,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dropping the weapon will cause it to return to nothingness.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024904Z" creationid="pugnus" creationdate="20190509T024904Z">
+        <seg>「ルーンの刃」は、手から離すと自然に消えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drunk</seg>
       </tuv>
       <tuv lang="JA" changeid="totochan" changedate="20190403T135801Z" creationid="totochan" creationdate="20190403T135801Z">
@@ -31481,6 +31489,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, you must cast the Shim Rune, followed by the Egoth rune.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024751Z" creationid="pugnus" creationdate="20190509T024751Z">
+        <seg>まず最初に、ルーン「Shim」を唱え、次にルーン「Egoth」を唱えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>First, you need a trigger device like a tripwire, then you need to arm it with a compatible item like iron spikes.</seg>
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T072121Z" creationid="weedssoul" creationdate="20190406T062542Z">
@@ -31885,6 +31901,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T124130Z" creationid="urakata" creationdate="20190430T124130Z">
         <seg>何かへの貢献を実感するなんて人生で初めてだ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For those who are part of a prominent family that has earned my trust, like the Aberdeens and the Sutherlands, I can offer to teach you how to Internalize the Lexicon so that you no longer need one to cast rune spells.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T025009Z" creationid="pugnus" creationdate="20190509T025009Z">
+        <seg>アバディーン</seg>
       </tuv>
     </tu>
     <tu>
