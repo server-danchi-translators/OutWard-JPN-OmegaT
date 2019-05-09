@@ -59565,6 +59565,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never forget that the order in which you cast these runes is important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T034700Z" creationid="pugnus" creationdate="20190509T034643Z">
+        <seg>問題は、「ルーンを詠唱する順序」です。それがいちばんだいじ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never forget, no one is an orphan in Cierzo.</seg>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190404T091019Z" creationid="rkmad" creationdate="20190404T091019Z">
@@ -89020,8 +89028,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>These broad categories by rune are: Dez meaning “Defense”, Shim meaning “Offense”, Egoth standing for “Self” and Fal meaning “Hidden”.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T034448Z" creationid="pugnus" creationdate="20190509T034448Z">
-        <seg>ルーン文字の基本のおさらいですが、ルーン「Dez」は「防御」を、ルーン「Shim」は「攻撃」を、ルーン「Egoth」は「自己」を、ルーン「Fal」は「隠匿」を意味しますね？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T034507Z" creationid="pugnus" creationdate="20190509T034448Z">
+        <seg>ルーン文字の基本のおさらいですが、ルーン「Dez」は「防御」を、「Shim」は「攻撃」を、「Egoth」は「自己」を、「Fal」は「隠匿」を意味しますね？</seg>
       </tuv>
     </tu>
     <tu>
@@ -96683,8 +96691,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>While crude and incorrect in some edge cases, it is a valid approach.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T033308Z" creationid="pugnus" creationdate="20190509T033118Z">
-        <seg>しかし実は、いくつかの特別な場合では粗雑で不正確ですが...できないことは無いのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T034541Z" creationid="pugnus" creationdate="20190509T033118Z">
+        <seg>しかし実は、いくつかの特別な場合では...できないことは無いのです。粗雑で不正確となりますが。</seg>
       </tuv>
     </tu>
     <tu>
@@ -99584,6 +99592,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T021637Z" creationid="pugnus" creationdate="20190422T021637Z">
         <seg>あなたはこのゴールドベリーを悲しく、そして小さいものにします！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may find the proper combination of runes, but fail to cast a spell because you cast the runes in the wrong order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T034802Z" creationid="pugnus" creationdate="20190509T034802Z">
+        <seg>正しい組み合わせを見つけたとしても、順序を間違えれば詠唱は失敗するでしょう。</seg>
       </tuv>
     </tu>
     <tu>
