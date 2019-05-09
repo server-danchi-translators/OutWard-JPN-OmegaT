@@ -16374,6 +16374,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Belly_BC_ANC_PEACE_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083557Z" creationid="seto" creationdate="20190509T083557Z">
+        <seg>Belly_BC_ANC_PEACE_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
@@ -59588,6 +59596,110 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190409T071818Z" creationid="Light" creationdate="20190409T071818Z">
         <seg>聖なる沼で、巨人の村との同盟を交渉する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083557Z" creationid="seto" creationdate="20190509T083557Z">
+        <seg>Negotiate_BC_ANC_PEACE_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083602Z" creationid="seto" creationdate="20190509T083602Z">
+        <seg>Negotiate_BC_ANC_PEACE_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083603Z" creationid="seto" creationdate="20190509T083603Z">
+        <seg>Negotiate_BC_ANC_PEACE_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083604Z" creationid="seto" creationdate="20190509T083604Z">
+        <seg>Negotiate_BC_ANC_PEACE_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083605Z" creationid="seto" creationdate="20190509T083605Z">
+        <seg>Negotiate_BC_ANC_PEACE_05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_06</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083606Z" creationid="seto" creationdate="20190509T083606Z">
+        <seg>Negotiate_BC_ANC_PEACE_06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_07</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083606Z" creationid="seto" creationdate="20190509T083606Z">
+        <seg>Negotiate_BC_ANC_PEACE_07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_08</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083607Z" creationid="seto" creationdate="20190509T083607Z">
+        <seg>Negotiate_BC_ANC_PEACE_08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_09</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083608Z" creationid="seto" creationdate="20190509T083608Z">
+        <seg>Negotiate_BC_ANC_PEACE_09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_10</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083608Z" creationid="seto" creationdate="20190509T083608Z">
+        <seg>Negotiate_BC_ANC_PEACE_10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_11</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083609Z" creationid="seto" creationdate="20190509T083609Z">
+        <seg>Negotiate_BC_ANC_PEACE_11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_12</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083609Z" creationid="seto" creationdate="20190509T083609Z">
+        <seg>Negotiate_BC_ANC_PEACE_12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negotiate_BC_ANC_PEACE_13</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083610Z" creationid="seto" creationdate="20190509T083610Z">
+        <seg>Negotiate_BC_ANC_PEACE_13</seg>
       </tuv>
     </tu>
     <tu>
