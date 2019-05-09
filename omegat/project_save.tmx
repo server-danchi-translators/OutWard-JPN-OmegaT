@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -95733,6 +95733,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190411T050923Z" creationid="taman" creationdate="20190411T044737Z">
         <seg>ねえ、クリスタルに閉じ込められたのがあなたの両親だったらどうするの？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is it you wish to talk about?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190508T232026Z" creationid="pugnus" creationdate="20190508T232026Z">
+        <seg>話したいことって何だい？</seg>
       </tuv>
     </tu>
     <tu>
