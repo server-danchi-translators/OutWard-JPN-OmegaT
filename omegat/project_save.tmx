@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27742,6 +27742,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>East: Montcalm Bandit Camp</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035855Z" creationid="pugnus" creationdate="20190509T035855Z">
+        <seg>東：モンカルムの盗賊の野営地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eat food, drink water and sleep in a tent or inn to satisfy them.</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="setom" creationdate="20190331T110812Z">
@@ -31939,8 +31947,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For example, once you have cast a Runic Trap spell and it lies ready on the floor, perform “Shim”, then “Shim” again to create a Runic Blast that will detonate around you.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T030658Z" creationid="pugnus" creationdate="20190509T030043Z">
-        <seg>たとえば、「ルーンの罠」の呪文を唱え床に設置したのち、ルーン「Shim」を詠唱し、さらに続けてルーン「Shim」を詠唱します。「ルーンの旋風」を作成し、周囲を爆発させます。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035455Z" creationid="pugnus" creationdate="20190509T030043Z">
+        <seg>「ルーンの罠」の呪文を唱え床に設置したのち、ルーン「Shim」を詠唱し、さらに続けてルーン「Shim」を詠唱します。「ルーンの旋風」を作成し、周囲を爆発させます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31979,8 +31987,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>For those who are part of a prominent family that has earned my trust, like the Aberdeens and the Sutherlands, I can offer to teach you how to Internalize the Lexicon so that you no longer need one to cast rune spells.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T025352Z" creationid="pugnus" creationdate="20190509T025009Z">
-        <seg>アバディーンやサザーランドの一族のように、私が信頼している「著名な家族の一員」であれば、ルーン呪文を唱える時に辞典を持つ必要がなくなる知識を教えます。「歩く大辞典」。これは本当に便利な知識です。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035431Z" creationid="pugnus" creationdate="20190509T025009Z">
+        <seg>アバディーンやサザーランドの一族のように、私が信頼している「著名な家族の一員」であれば、ルーン呪文を唱える時に「辞典を持つ必要がなくなる知識」を教えます。「歩く大辞典」。これは本当に便利な知識です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60109,6 +60117,14 @@ make it up=償う</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>North-East: Hallowed Marsh East: Vigil Tower</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035612Z" creationid="pugnus" creationdate="20190509T035612Z">
+        <seg>北東：聖なる沼、東：ヴィジャルタワー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nosy Customer</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T121209Z" creationid="pugnus" creationdate="20190422T121209Z">
@@ -80394,6 +80410,22 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>South-East: Conflux Mountain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035757Z" creationid="pugnus" creationdate="20190509T035757Z">
+        <seg>南東：コンフラックス山</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>South-West: Vendavel Fortress North-West: Cierzo Village</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035716Z" creationid="pugnus" creationdate="20190509T035716Z">
+        <seg>南西：ベンダバールの森、北西：シエルゾの村</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spark</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190502T112709Z" creationid="pugnus" creationdate="20190502T112709Z">
@@ -85225,6 +85257,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T100928Z" creationid="pugnus" creationdate="20190507T100928Z">
         <seg>是非、教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teach me that trick!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035402Z" creationid="pugnus" creationdate="20190509T035402Z">
+        <seg>さぁ、教えてください！</seg>
       </tuv>
     </tu>
     <tu>
@@ -97365,6 +97405,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125417Z" creationid="Light" creationdate="20190407T125245Z">
         <seg>幸運を祈る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind of Reason, grant us the wisdom to know our foe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035948Z" creationid="pugnus" creationdate="20190509T035948Z">
+        <seg>理性の風よ、敵を知る知恵を与えたまえ。</seg>
       </tuv>
     </tu>
     <tu>
