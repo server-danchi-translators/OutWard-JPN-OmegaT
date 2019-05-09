@@ -96673,6 +96673,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>While crude and incorrect in some edge cases, it is a valid approach.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T033308Z" creationid="pugnus" creationdate="20190509T033118Z">
+        <seg>しかし実は、いくつかの特別な場合では粗雑で不正確ですが...できないことは無いのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While individuals are on their own, the tribe and Chamberlord act as guidance for anyone who needs it.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T100054Z" creationid="pugnus" creationdate="20190422T100054Z">
