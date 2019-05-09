@@ -37433,6 +37433,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He always seems to have precisely what I need, no matter how rare or unusual!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T082817Z" creationid="pugnus" creationdate="20190509T082817Z">
+        <seg>彼らは私が必要としているものを、いつも正確に持っているのです！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He appears to have been shot and left for the beasts to feed on.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190415T122236Z" creationid="pugnus" creationdate="20190415T090003Z">
@@ -97166,8 +97174,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What would I do without that Soroborean Caravan coming from Harmattan every few weeks?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T081944Z" creationid="pugnus" creationdate="20190509T081944Z">
-        <seg>数週間ごとにハルマッタンから来る、ソロボリアンの商隊</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T082415Z" creationid="pugnus" creationdate="20190509T081944Z">
+        <seg>数週間ごとにハルマッタンから来る、ソロボリアンの商隊無しに私は何をしたらいいの？</seg>
       </tuv>
     </tu>
     <tu>
