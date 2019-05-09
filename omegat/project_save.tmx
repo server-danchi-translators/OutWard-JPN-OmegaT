@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -37639,6 +37639,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He was an impressive fighter, and a friend to all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035345Z" creationid="taman" creationdate="20190509T035345Z">
+        <seg>彼は優れた戦士であり、またみなの良き友人であった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He was being consumed by Corruption from a poisoned bullet by the time I found him.</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190502T165957Z" creationid="taman" creationdate="20190502T165957Z">
@@ -43201,6 +43209,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T032134Z" creationid="rkmad" creationdate="20190405T032134Z">
         <seg>私はシエルゾの代表として、青の議会に参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I request your Divine Assistance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T025720Z" creationid="taman" creationdate="20190509T025720Z">
+        <seg>神の援助を選択します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51893,6 +51909,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="rkmad" changedate="20190405T035017Z" creationid="rkmad" creationdate="20190405T035017Z">
         <seg>私は私の道を歩まなければならない。さようなら、リッサ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m shocked to hear about what happened to Zephyrien.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035205Z" creationid="taman" creationdate="20190509T035205Z">
+        <seg>ゼフィリアンが逝ってしまったなど未だに受け入れることができぬ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90975,6 +90999,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T052402Z">
         <seg>&lt;color=#00CCFF&gt;&lt;b&gt;ブリスターブロウ&lt;/b&gt;&lt;/color&gt;に行くには、シエルゾのメインゲートから出る必要があるわ。 それから&lt;color=#00CCFF&gt;&lt;b&gt;道に沿って歩いて左に行く&lt;/b&gt;&lt;/color&gt;の。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To hear that he was slain...This is a grave blow to all who follow Elatt.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T035650Z" creationid="taman" creationdate="20190509T035650Z">
+        <seg>あやつの殺されたと聞けば……エラットに仕えるものは誰もが動揺するじゃろう。</seg>
       </tuv>
     </tu>
     <tu>
