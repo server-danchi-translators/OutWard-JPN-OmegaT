@@ -31801,6 +31801,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For beginners, a Lexicon is required to be held in the caster’s off-hand, as each rune has a multitude of meanings depending on their context.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024012Z" creationid="pugnus" creationdate="20190509T023921Z">
+        <seg>各ルーンはそれぞれの文脈に応じて多数の意味を持つので、初心者のうちは辞典を左手に持つ必要があるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For each point, your Max Health is reduced by {1} and your Max Stamina is reduced by {2}.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190406T115244Z" creationid="pugnus" creationdate="20190406T115244Z">
@@ -75664,8 +75672,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Runes are a highly flexible form of magic, and experimentation will be necessary.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T023808Z" creationid="pugnus" creationdate="20190509T023808Z">
-        <seg>ルーンは非常に柔軟な魔法の形であり、実験が必要になります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T023944Z" creationid="pugnus" creationdate="20190509T023808Z">
+        <seg>ルーンは非常に柔軟な魔法の形であり、試行錯誤が必要になります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -95755,8 +95763,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>What is it you wish to talk about?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T232026Z" creationid="pugnus" creationdate="20190508T232026Z">
-        <seg>話したいことって何だい？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T023933Z" creationid="pugnus" creationdate="20190508T232026Z">
+        <seg>話したいことって何でしょうか？</seg>
       </tuv>
     </tu>
     <tu>
