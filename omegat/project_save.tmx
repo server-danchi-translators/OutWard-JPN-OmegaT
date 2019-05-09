@@ -11456,6 +11456,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ahh...It goes against my every teaching, but I suppose I can teach you one dirty little trick, on one of two conditions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031948Z" creationid="pugnus" creationdate="20190509T031948Z">
+        <seg>あぁぁ...近道！？それは私の、あらゆる教えに反しています！私を否定することに、あなたは気が付いていません！しかし、その気持ちも分らんでもないので、卑怯で矮小な術を教えましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ahhh, thank you.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190408T014125Z" creationid="pugnus" creationdate="20190408T014125Z">
@@ -48786,6 +48794,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there a shortcut you can teach me?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031657Z" creationid="pugnus" creationdate="20190509T031657Z">
+        <seg>すぐにモノに出来る、近道ってあります？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Is there a sorcerer hiding inside the altar?</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190503T041740Z" creationid="urakata" creationdate="20190503T041740Z">
@@ -51533,6 +51549,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T061653Z" creationid="taman" creationdate="20190501T061653Z">
         <seg>両手を祭壇に重ねて意識を集中させてほしいの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’m having trouble understanding how to make combinations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T031558Z" creationid="pugnus" creationdate="20190509T031558Z">
+        <seg>すみません。ルーンの組み合わせがどうも解らなくて...</seg>
       </tuv>
     </tu>
     <tu>
