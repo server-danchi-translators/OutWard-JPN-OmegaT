@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -105,8 +105,8 @@
       <tuv lang="EN-US">
         <seg>(As the memories fade and you return to your senses, you look up at the Vigil crystal and briefly see a swarm of ghosts trapped within the crystal with the Scourge Beast, endlessly stabbing it with their ghostly weapons.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032522Z" creationid="taman" creationdate="20190410T044425Z">
-        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。 ヴィジャルクリスタルを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190410T044425Z">
+        <seg>(先人の記憶がしだいに薄れてゆき現実の世界へと戻ってくる。 ヴィジルクリスタルを見上げるとスカージと共にクリスタルに閉じ込められた亡霊たちが手にした武器でスカージを何度も何度も突き刺す光景がかすかに見えた)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37259,8 +37259,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Have you ever seen one of the Vigils before?</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095038Z" creationid="taman" creationdate="20190409T061329Z">
-        <seg>あなたはこれまでにヴィジャルを見たことがありますか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190409T061329Z">
+        <seg>あなたはこれまでにヴィジルを見たことがありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37980,8 +37980,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>Head east past the Conflux Mountain, and keep watch for the Chersonese’s Vigil crystal.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T103408Z" creationid="pugnus" creationdate="20190508T103324Z">
-        <seg>コンフラックス山を過ぎて東に進むのよ、ケルソネソスのヴィジャルクリスタルが見えるまで。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190508T103324Z">
+        <seg>コンフラックス山を過ぎて東に進むのよ、ケルソネソスのヴィジルクリスタルが見えるまで。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40639,8 +40639,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I burnt Greasy Fern at the Vigil's altar.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T022300Z" creationid="taman" creationdate="20190409T072212Z">
-        <seg>ヴィジャルの祭壇でアブラシダを燃やしてきました。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190409T072212Z">
+        <seg>ヴィジルの祭壇でアブラシダを燃やしてきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43490,8 +43490,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I saw why the Vigils work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190416T022315Z" creationid="taman" creationdate="20190411T081950Z">
-        <seg>ヴィジャルがどうやって動いているか分かりましたよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190411T081950Z">
+        <seg>ヴィジルがどうやって動いているか分かりましたよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43554,8 +43554,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I sent Oliele on a mission before you left for the Vigil, and I would feel better if you joined her.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032413Z" creationid="taman" creationdate="20190413T161626Z">
-        <seg>あなたがヴィジャルに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190413T161626Z">
+        <seg>あなたがヴィジルに向かう前に私はオリエルに使命を与えました。そこであなたにもオリエルと合流してほしいのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45778,8 +45778,8 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       <tuv lang="EN-US">
         <seg>If he did this, it's because it had to be done.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032448Z" creationid="taman" creationdate="20190411T055529Z">
-        <seg>ヴィジャルの件についても、そうせざるを得ない理由があったに違いない。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190411T055529Z">
+        <seg>ヴィジルの件についても、そうせざるを得ない理由があったに違いない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60306,8 +60306,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>No wonder the Scourge don't go anywhere near the Vigils.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032423Z" creationid="taman" creationdate="20190410T125051Z">
-        <seg>どうりでスカージがヴィジャルに近寄らないわけだ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190410T125051Z">
+        <seg>どうりでスカージがヴィジルに近寄らないわけだ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60482,8 +60482,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>North-East: Hallowed Marsh East: Vigil Tower</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T043424Z" creationid="pugnus" creationdate="20190509T035612Z">
-        <seg>北東：聖なる沼、東：ヴィジャルの塔</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190509T035612Z">
+        <seg>北東：聖なる沼、東：ヴィジルの塔</seg>
       </tuv>
     </tu>
     <tu>
@@ -60498,8 +60498,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>North-West: Berg City South-West: Vigil Tower</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T043452Z" creationid="pugnus" creationdate="20190509T043343Z">
-        <seg>北西：バーグの町、南西：ヴィジャルの塔</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190509T043343Z">
+        <seg>北西：バーグの町、南西：ヴィジルの塔</seg>
       </tuv>
     </tu>
     <tu>
@@ -62445,8 +62445,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oh, you’re looking for Jager Sullivan too?</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190415T134633Z" creationid="pugnus" creationdate="20190409T045429Z">
-        <seg>あぁ、君もイェーガー・サリバンを探しているのか？</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071335Z" creationid="pugnus" creationdate="20190409T045429Z">
+        <seg>あぁ、君もイェーガー・サリバンを探しているの？</seg>
       </tuv>
     </tu>
     <tu>
@@ -62829,8 +62829,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Oliele, without the Vigils, the Scourge Beasts could attack our homes, our families.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032437Z" creationid="taman" creationdate="20190411T045018Z">
-        <seg>オリエル、仮にヴィジャルがいなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190411T045018Z">
+        <seg>オリエル、仮にヴィジルがいなければスカージは私たちの家や家族を襲うかもしれないんだよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -84377,8 +84377,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T043608Z" creationid="Light" creationdate="20190409T100417Z">
-        <seg>旧レバントの西部、ヴィジャルの塔の内側にあるコルセアの指導者を止める</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="Light" creationdate="20190409T100417Z">
+        <seg>旧レバントの西部、ヴィジルの塔の内側にあるコルセアの指導者を止める</seg>
       </tuv>
     </tu>
     <tu>
@@ -85338,8 +85338,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T043728Z" creationid="Light" creationdate="20190409T103731Z">
-        <seg>アブラサールの北西にあるヴィジャルの近く、旧レバントでオリエルと話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="Light" creationdate="20190409T103731Z">
+        <seg>アブラサールの北西にあるヴィジルの近く、旧レバントでオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
@@ -87524,8 +87524,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Scourge Beast within is still alive, endlessly tortured by the spirits of those it killed, the monster's pain a warning to keep other Scourge Beasts far, far away from Monsoon...)</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190411T171405Z" creationid="taman" creationdate="20190410T053832Z">
-        <seg>クリスタルの中のスカージはまだ生きており、戦士たちの亡霊にって終わることのない苦しみが永遠に与えられる。叫び声はモンスーンから他のスカージを遠ざける、遠くより遠くへ……)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071705Z" creationid="taman" creationdate="20190410T053832Z">
+        <seg>クリスタルの中のスカージの獣はまだ生きており、戦士たちの亡霊にとって終わることのない苦しみが永遠に与えられる。叫び声はモンスーンから他のスカージを遠ざける、遠くより遠くへ……)</seg>
       </tuv>
     </tu>
     <tu>
@@ -87580,8 +87580,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The Vigils are a necessary evil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032317Z" creationid="taman" creationdate="20190413T062413Z">
-        <seg>私たちはヴィジャルを必要悪として認めています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190413T062413Z">
+        <seg>私たちはヴィジルを必要悪として認めています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88286,8 +88286,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>The nearest Ash Giant settlement is in the &lt;color=#00CCFF&gt;&lt;b&gt;Hallowed Marsh region, near Monsoon’s Vigil crystal&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190418T065940Z" creationid="pugnus" creationdate="20190418T065940Z">
-        <seg>ここから最も近い灰の巨人の住処は、&lt;color=#00CCFF&gt;&lt;b&gt;モンスーンのヴィジャルクリスタルの付近にある、聖なる沼&lt;/b&gt;&lt;/color&gt;です。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190418T065940Z">
+        <seg>ここから最も近い灰の巨人の住処は、&lt;color=#00CCFF&gt;&lt;b&gt;モンスーンのヴィジルクリスタルの付近にある、聖なる沼&lt;/b&gt;&lt;/color&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89295,8 +89295,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>There is one protecting your village already.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T113241Z" creationid="pugnus" creationdate="20190422T113241Z">
-        <seg>すでにあなたの村を守っているヴィジャルクリスタルもあります。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190422T113241Z">
+        <seg>すでにあなたの村を守っているヴィジルクリスタルもあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -89954,8 +89954,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>They noticed the ray of light above Monsoon, but I doubt they understand what it, or the Vigils are.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190429T054453Z" creationid="pugnus" creationdate="20190429T054326Z">
-        <seg>私は、巨人たちはモンスーンの上空の「光線」、そして「ヴィジャル」が何であるかを理解しているのではないかと考えています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190429T054326Z">
+        <seg>私は、巨人たちはモンスーンの上空の「光線」、そして「ヴィジル」が何であるかを理解しているのではないかと考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -90598,8 +90598,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>This does protect us, though.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032453Z" creationid="taman" creationdate="20190411T064659Z">
-        <seg>ヴィジャルは私たちを守ってくれる。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="taman" creationdate="20190411T064659Z">
+        <seg>ヴィジルは私たちを守ってくれる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -93507,32 +93507,32 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Vigil</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032350Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
-        <seg>ヴィジャル</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="Gaiden Shinji" creationdate="20190404T112401Z">
+        <seg>ヴィジル</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vigil Lock Key</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190503T093237Z" creationid="pugnus" creationdate="20190503T093237Z">
-        <seg>ヴィジャルロックキー</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190503T093237Z">
+        <seg>ヴィジルロックキー</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vigil Pylon</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190502T024408Z" creationid="pugnus" creationdate="20190502T024408Z">
-        <seg>ヴィジャルパイロン</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190502T024408Z">
+        <seg>ヴィジルパイロン</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Vigil Tomb</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032337Z" creationid="seto" creationdate="20190418T092645Z">
-        <seg>ヴィジャルの墓</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="seto" creationdate="20190418T092645Z">
+        <seg>ヴィジルの墓</seg>
       </tuv>
     </tu>
     <tu>
@@ -94397,8 +94397,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>We created crystal Vigils that keep them away from places where people live, and when we can, we destroy them.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190422T113143Z" creationid="pugnus" creationdate="20190422T113143Z">
-        <seg>私たちは人々が生活する場所から獣たちを遠ざけるために、ヴィジャルクリスタルを作りました。そしてそれは成功し、私たちは獣たちを滅ぼすことができると考えています。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190422T113143Z">
+        <seg>私たちは人々が生活する場所から獣たちを遠ざけるために、ヴィジルクリスタルを作りました。そしてそれは成功し、私たちは獣たちを滅ぼすことができると考えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -97190,8 +97190,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>When you see the Chersonese’s Vigil crystal, make sure you pass north of it.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T102628Z" creationid="pugnus" creationdate="20190508T102628Z">
-        <seg>ケルソネソスのヴィジャルクリスタルが見えたら、必ず、その北を通り過ぎるようにしてね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190508T102628Z">
+        <seg>ケルソネソスのヴィジルクリスタルが見えたら、必ず、その北を通り過ぎるようにしてね。</seg>
       </tuv>
     </tu>
     <tu>
@@ -100801,8 +100801,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You see one of the Vigil crystals up above...</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190504T094630Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
-        <seg>私の上にヴィジャルクリスタルの1つを見つける...</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="はぐくみ会" creationdate="20190403T105850Z">
+        <seg>私の上にヴィジルクリスタルの1つを見つける...</seg>
       </tuv>
     </tu>
     <tu>
@@ -102274,8 +102274,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>You’ll need to head east past the Vigil crystal, and then go south as far as you can go.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190508T101648Z" creationid="pugnus" creationdate="20190508T101648Z">
-        <seg>ヴィジャルクリスタルを越え、東に行き、それから南ね。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T071448Z" creationid="pugnus" creationdate="20190508T101648Z">
+        <seg>ヴィジルクリスタルを越え、東に行き、それから南ね。</seg>
       </tuv>
     </tu>
     <tu>
