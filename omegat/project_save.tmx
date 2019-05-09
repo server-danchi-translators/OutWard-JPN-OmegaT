@@ -26501,6 +26501,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dez Runes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030241Z" creationid="pugnus" creationdate="20190509T030241Z">
+        <seg>ルーン「Dez」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diadème de Gibier</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190503T060905Z" creationid="pugnus" creationdate="20190503T060905Z">
@@ -27810,6 +27818,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190424T083238Z" creationid="pugnus" creationdate="20190424T055246Z">
         <seg>食べると時間とともに、体力とスタミナの回復を緩やかにする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Egoth Runes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030203Z" creationid="pugnus" creationdate="20190509T030203Z">
+        <seg>ルーン「Egoth」</seg>
       </tuv>
     </tu>
     <tu>
@@ -30596,6 +30612,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T064023Z" creationid="Light" creationdate="20190406T043921Z">
         <seg>あらそう。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fal Runes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030230Z" creationid="pugnus" creationdate="20190509T030230Z">
+        <seg>ルーン「Fal」</seg>
       </tuv>
     </tu>
     <tu>
@@ -78291,6 +78315,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190401T074854Z" creationid="setom" creationdate="20190401T074854Z">
         <seg>盾はスタミナの減少も少なくし、矢も防ぐことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shim Runes</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T030216Z" creationid="pugnus" creationdate="20190509T030216Z">
+        <seg>ルーン「Shim」</seg>
       </tuv>
     </tu>
     <tu>
