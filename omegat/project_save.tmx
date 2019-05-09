@@ -97451,8 +97451,16 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Wind of Fury, strike our foe and be a Scourge upon him.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T042059Z" creationid="pugnus" creationdate="20190509T042059Z">
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T042159Z" creationid="pugnus" creationdate="20190509T042059Z">
         <seg>憤怒の風よ、敵を攻撃し、敵に厄災を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind of Kindness, forgive us and grant our foe swift release.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T042616Z" creationid="pugnus" creationdate="20190509T042616Z">
+        <seg>優しさの風よ、私たちに許しと、敵に退く勇気を与えたまえ。</seg>
       </tuv>
     </tu>
     <tu>
