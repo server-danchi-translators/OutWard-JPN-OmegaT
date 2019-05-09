@@ -60151,16 +60151,16 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>North-East: Hallowed Marsh East: Vigil Tower</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T035612Z" creationid="pugnus" creationdate="20190509T035612Z">
-        <seg>北東：聖なる沼、東：ヴィジャルタワー</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043424Z" creationid="pugnus" creationdate="20190509T035612Z">
+        <seg>北東：聖なる沼、東：ヴィジャルの塔</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>North-West: Berg City South-West: Vigil Tower</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T043343Z" creationid="pugnus" creationdate="20190509T043343Z">
-        <seg>北西：バーグの町、南西：ヴィジャルタワー</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043452Z" creationid="pugnus" creationdate="20190509T043343Z">
+        <seg>北西：バーグの町、南西：ヴィジャルの塔</seg>
       </tuv>
     </tu>
     <tu>
@@ -83966,8 +83966,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</seg>
       </tuv>
-      <tuv lang="JA" changeid="seto" changedate="20190420T032610Z" creationid="Light" creationdate="20190409T100417Z">
-        <seg>オールドレバントの西部、ヴィジャルタワーの内側にあるコルセアの指導者を止める</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043608Z" creationid="Light" creationdate="20190409T100417Z">
+        <seg>旧レバントの西部、ヴィジャルの塔の内側にあるコルセアの指導者を止める</seg>
       </tuv>
     </tu>
     <tu>
@@ -84927,8 +84927,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190415T095134Z" creationid="Light" creationdate="20190409T103731Z">
-        <seg>アブラサールの北西にある、の近くで、オールドレバントでオリエルと話す</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T043711Z" creationid="Light" creationdate="20190409T103731Z">
+        <seg>アブラサールの北西にある、ヴィジャルの近くで、旧レバントでオリエルと話す</seg>
       </tuv>
     </tu>
     <tu>
