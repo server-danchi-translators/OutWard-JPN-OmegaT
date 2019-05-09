@@ -289,6 +289,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(I could jump down.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044342Z" creationid="pugnus" creationdate="20190509T044342Z">
+        <seg>(私は飛び降りた。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(I should stand back.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044544Z" creationid="pugnus" creationdate="20190509T044544Z">
+        <seg>(私は後方へ下がった。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Leave it be)</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T075723Z" creationid="taman" creationdate="20190501T075723Z">
@@ -539,6 +555,14 @@
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065439Z" creationid="pugnus" creationdate="20190415T075815Z">
         <seg>(この落とされたメモは、バーグへの攻撃の命令が書かれている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(This hole seems quite deep.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044317Z" creationid="pugnus" creationdate="20190509T044317Z">
+        <seg>(この穴はとても深いようだ。)</seg>
       </tuv>
     </tu>
     <tu>
