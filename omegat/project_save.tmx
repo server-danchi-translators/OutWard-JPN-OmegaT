@@ -90530,6 +90530,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They’re no better than bandits, if you ask me!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075203Z" creationid="pugnus" creationdate="20190509T075143Z">
+        <seg>正規軍の方が盗賊団よりも、たちが悪いと言えるわね！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They’re probably somewhere in Abrassar Desert.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190504T075558Z" creationid="pugnus" creationdate="20190504T075558Z">
@@ -97558,8 +97566,8 @@ Notification_Need_Fatigue_Tired</seg>
       <tuv lang="EN-US">
         <seg>While I’m not one to cheer on criminals, it feels like justice.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T074854Z" creationid="pugnus" creationdate="20190509T074854Z">
-        <seg>犯罪を応援するつもりはないけど...義賊かもしれないわよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T075236Z" creationid="pugnus" creationdate="20190509T074854Z">
+        <seg>犯罪を応援するつもりはないけど...仕方なくやってるのかも。</seg>
       </tuv>
     </tu>
     <tu>
