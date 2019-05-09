@@ -43901,8 +43901,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I understand.</seg>
       </tuv>
-      <tuv lang="JA" changeid="taman" changedate="20190413T074633Z" creationid="rkmad" creationdate="20190404T085340Z">
-        <seg>分かりました。</seg>
+      <tuv lang="JA" changeid="taman" changedate="20190509T064337Z" creationid="rkmad" creationdate="20190404T085340Z">
+        <seg>そういうことか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45799,6 +45799,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190501T065309Z" creationid="taman" creationdate="20190501T065309Z">
         <seg>昔の俺様が経験したような悲劇を防げるなら進んでこの身を差し出すぜ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it turns out it really was self-defense, we’ll let her go.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T064620Z" creationid="taman" creationdate="20190509T064620Z">
+        <seg>自己防衛だと判明したならば、釈放してやろうじゃないか。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92737,6 +92745,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unfortunately, that doesn’t change the fact that she’s here under suspicion of murder.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T064309Z" creationid="taman" creationdate="20190509T064309Z">
+        <seg>とても残念だが、だからといって彼女が殺人の容疑で投獄されているという事実は変わらないのだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unfortunately, there is no Pilgrim Road you can follow in the Hallowed Marsh from Enmerkar.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190507T000254Z" creationid="Light" creationdate="20190408T062508Z">
@@ -102156,6 +102172,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190408T062814Z" creationid="Light" creationdate="20190408T062814Z">
         <seg>北にあるモンスーンの光線に向かって、自分でたどり着くしかないわね。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll just have to &lt;color=#00CCFF&gt;&lt;b&gt;wait until we’re done our investigation&lt;/b&gt;&lt;/color&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T064358Z" creationid="taman" creationdate="20190509T064321Z">
+        <seg>お前にできることは &lt;color=#00CCFF&gt;&lt;b&gt;調査が終わるまで待つことだけだ。&lt;/b&gt;&lt;/color&gt;.</seg>
       </tuv>
     </tu>
     <tu>
