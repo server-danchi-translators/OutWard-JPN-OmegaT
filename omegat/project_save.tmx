@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27173,6 +27173,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190407T025159Z" creationid="seto" creationdate="20190407T025134Z">
         <seg>魔法についての質問でもあるのかね、お客さん？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you honestly think you can threaten a Chamberlord?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T074752Z" creationid="taman" creationdate="20190509T074752Z">
+        <seg>市民の代表である私を脅せるとでも本当に思っていたのか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -62146,6 +62154,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Now.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T073554Z" creationid="taman" creationdate="20190509T073554Z">
+        <seg>いますぐです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T061957Z" creationid="setom" creationdate="20190402T061957Z">
@@ -64616,6 +64632,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190413T155448Z" creationid="taman" creationdate="20190411T161612Z">
         <seg>さもなくば私たちはスカージのような怪物となんら変わらなくなってしまいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or else what?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T074435Z" creationid="taman" creationdate="20190509T073609Z">
+        <seg>さもないとなんだ？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or else.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T073600Z" creationid="taman" creationdate="20190509T073600Z">
+        <seg>さもないと。</seg>
       </tuv>
     </tu>
     <tu>
