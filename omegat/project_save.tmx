@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -97445,6 +97445,22 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190407T125417Z" creationid="Light" creationdate="20190407T125245Z">
         <seg>幸運を祈る。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind of Fury, strike our foe and be a Scourge upon him.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T042059Z" creationid="pugnus" creationdate="20190509T042059Z">
+        <seg>憤怒の風よ、敵を攻撃し、敵に厄災を。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wind of Passion, grow our strength to defeat our foe.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T041955Z" creationid="pugnus" creationdate="20190509T041955Z">
+        <seg>情熱の風よ、敵を倒す為の力を与えたまえ。</seg>
       </tuv>
     </tu>
     <tu>
