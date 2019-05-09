@@ -37608,8 +37608,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>He said he was going to the &lt;color=#00CCFF&gt;&lt;b&gt;Conflux Mountain via the Blue Chamber’s path&lt;/b&gt;&lt;/color&gt;, to become a mage.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T044849Z" creationid="pugnus" creationdate="20190509T044849Z">
-        <seg>彼は魔術師になるため、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の道を通り、コンフラックス山に行く&lt;/b&gt;&lt;/color&gt;って言ってたわよ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044906Z" creationid="pugnus" creationdate="20190509T044849Z">
+        <seg>彼は「魔術師になるため、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の道を通り、コンフラックス山に行く&lt;/b&gt;&lt;/color&gt;。」って言ってたわよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37650,6 +37650,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T172954Z" creationid="taman" creationdate="20190430T172954Z">
         <seg>彼が助けてくれた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He seemed really nervous too.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044941Z" creationid="pugnus" creationdate="20190509T044941Z">
+        <seg>彼は緊張しているようにみえた。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41315,6 +41323,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I don’t know if he could handle the rock mantises in there.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045113Z" creationid="pugnus" creationdate="20190509T045113Z">
+        <seg>彼があそこの岩々を上手に越せるとは思えないもの。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I don’t know.</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190413T010008Z" creationid="seto" creationdate="20190413T010008Z">
@@ -43612,6 +43628,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190430T173603Z" creationid="taman" creationdate="20190430T173603Z">
         <seg>瘴気に奪われた部分をエラットが光の体で補ってくれたみたい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I think he would appreciate your help.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045017Z" creationid="pugnus" creationdate="20190509T045017Z">
+        <seg>彼はあなたの助けを必要としているんじゃないかしら。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52277,6 +52301,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T064744Z" creationid="urakata" creationdate="20190430T064653Z">
         <seg>こりゃしくじったな...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I’ve never heard of him, certainly never seen him either.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045219Z" creationid="pugnus" creationdate="20190509T045219Z">
+        <seg>そんな人、見たことも聞いたこともないわ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74938,6 +74970,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Gaiden Shinji" changedate="20190404T115422Z" creationid="Gaiden Shinji" creationdate="20190404T115422Z">
         <seg>ローランド・アルジャンソン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Roland Argenson?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T045147Z" creationid="pugnus" creationdate="20190509T045147Z">
+        <seg>ローランド・アルジャンソン？</seg>
       </tuv>
     </tu>
     <tu>
