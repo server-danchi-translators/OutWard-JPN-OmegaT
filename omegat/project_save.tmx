@@ -41835,6 +41835,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I have some Diadème de Gibier for you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035338Z" creationid="pugnus" creationdate="20190509T035338Z">
+        <seg>私はあなたのために、「王冠のジビエ」をいくつか持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I have some bandages on me, I can handle it myself.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T102954Z" creationid="urakata" creationdate="20190428T102954Z">
@@ -59591,8 +59599,8 @@ make it up=償う</note>
       <tuv lang="EN-US">
         <seg>Never forget that the order in which you cast these runes is important.</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T034700Z" creationid="pugnus" creationdate="20190509T034643Z">
-        <seg>問題は、「ルーンを詠唱する順序」です。それがいちばんだいじ。</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035147Z" creationid="pugnus" creationdate="20190509T034643Z">
+        <seg>問題は、「ルーンを詠唱する順序」です。それが、いちばん、だいじ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -92850,6 +92858,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="magur0w" changedate="20190404T174748Z" creationid="magur0w" creationdate="20190404T174748Z">
         <seg>よろしい、何か聞いたら戻ってきてくれ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very well, for the sake of our Tribes, I will teach you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T035239Z" creationid="pugnus" creationdate="20190509T035239Z">
+        <seg>よろしいです。教えましょう。部族の為にも。</seg>
       </tuv>
     </tu>
     <tu>
