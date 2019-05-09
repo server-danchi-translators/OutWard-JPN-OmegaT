@@ -16366,6 +16366,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Belly_BC_ANC_PEACE_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083548Z" creationid="seto" creationdate="20190509T083548Z">
+        <seg>Belly_BC_ANC_PEACE_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Berg</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190502T065421Z" creationid="Gaiden Shinji" creationdate="20190403T114435Z">
@@ -24208,6 +24216,46 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190429T095645Z" creationid="pugnus" creationdate="20190429T095438Z">
         <seg>シリはモンスーンへ行くであろう、が、モンスーンはエラットの町でもある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_ANC_PEACE_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083545Z" creationid="seto" creationdate="20190509T083545Z">
+        <seg>Cyr_BC_ANC_PEACE_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_ANC_PEACE_02</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083546Z" creationid="seto" creationdate="20190509T083546Z">
+        <seg>Cyr_BC_ANC_PEACE_02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_ANC_PEACE_03</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083547Z" creationid="seto" creationdate="20190509T083547Z">
+        <seg>Cyr_BC_ANC_PEACE_03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_ANC_PEACE_04</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083547Z" creationid="seto" creationdate="20190509T083547Z">
+        <seg>Cyr_BC_ANC_PEACE_04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cyr_BC_ANC_PEACE_05</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083548Z" creationid="seto" creationdate="20190509T083548Z">
+        <seg>Cyr_BC_ANC_PEACE_05</seg>
       </tuv>
     </tu>
     <tu>
@@ -66597,6 +66645,14 @@ Notification_Need_Fatigue_Tired</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Player_Cyr_BC_ANC_PEACE_a_01</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083546Z" creationid="seto" creationdate="20190509T083546Z">
+        <seg>Player_Cyr_BC_ANC_PEACE_a_01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Player_Cyr_BC_Giants_a_01</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190406T053143Z" creationid="seto" creationdate="20190406T053143Z">
@@ -72028,6 +72084,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190509T083534Z" creationid="seto" creationdate="20190509T083534Z">
         <seg>Ramza_BC_ANC_PEACE_14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ramza_BC_ANC_PEACE_18</seg>
+      </tuv>
+      <tuv lang="JA" changeid="seto" changedate="20190509T083543Z" creationid="seto" creationdate="20190509T083543Z">
+        <seg>Ramza_BC_ANC_PEACE_18</seg>
       </tuv>
     </tu>
     <tu>
