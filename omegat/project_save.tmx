@@ -299,8 +299,8 @@
       <tuv lang="EN-US">
         <seg>(I should stand back.)</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190509T044544Z" creationid="pugnus" creationdate="20190509T044544Z">
-        <seg>(私は後方へ下がった。)</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044613Z" creationid="pugnus" creationdate="20190509T044544Z">
+        <seg>(私は後ずさり、距離を置いた。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37382,6 +37382,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He had a drink here not too long ago.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044725Z" creationid="pugnus" creationdate="20190509T044720Z">
+        <seg>彼なら少し前までここでお酒を飲んでいたわ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He has agreed.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190427T013105Z" creationid="urakata" creationdate="20190427T013105Z">
@@ -37594,6 +37602,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="weedssoul" changedate="20190406T132720Z" creationid="weedssoul" creationdate="20190406T132638Z">
         <seg>彼は我々のように肉体を持っていたころのことを覚えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He said he was going to the &lt;color=#00CCFF&gt;&lt;b&gt;Conflux Mountain via the Blue Chamber’s path&lt;/b&gt;&lt;/color&gt;, to become a mage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044849Z" creationid="pugnus" creationdate="20190509T044849Z">
+        <seg>彼は魔術師になるため、&lt;color=#00CCFF&gt;&lt;b&gt;青の議会の道を通り、コンフラックス山に行く&lt;/b&gt;&lt;/color&gt;って言ってたわよ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42173,8 +42189,8 @@ Bergはベルクなのか？音ではバーグだと感じる。
       <tuv lang="EN-US">
         <seg>I hope those fiends are brought to justice!</seg>
       </tuv>
-      <tuv lang="JA" changeid="pugnus" changedate="20190409T062850Z" creationid="pugnus" creationdate="20190409T062850Z">
-        <seg>私は、彼奴ら鬼畜が、正義により処罰されることを望む！</seg>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T044641Z" creationid="pugnus" creationdate="20190409T062850Z">
+        <seg>私は、彼奴ら鬼畜が、正義により処罰されることを望むわ！</seg>
       </tuv>
     </tu>
     <tu>
