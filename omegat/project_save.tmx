@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -79920,6 +79920,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="Mad" changedate="20190407T061942Z" creationid="Mad" creationdate="20190407T061942Z">
         <seg>こんなに早く？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So that's the Kingdom of Levant, the Immaculates, Sirroco, and Sorobor all possibly tied to the killing bullet…</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T050913Z" creationid="taman" creationdate="20190509T050913Z">
+        <seg>つまりレバント王国、イマキュラトゥ、シロッコそしてショロボールがこの銃弾に関係している可能性があるということじゃ……</seg>
       </tuv>
     </tu>
     <tu>
