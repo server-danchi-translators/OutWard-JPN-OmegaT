@@ -45285,6 +45285,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a combination isn't valid, nothing will happen.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024355Z" creationid="pugnus" creationdate="20190509T024355Z">
+        <seg>「組み合わせ」と「順序」が有効でなければ、何も意味を成しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a passing hunter hadn’t saved me...</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190501T115733Z" creationid="urakata" creationdate="20190501T115733Z">
@@ -46813,6 +46821,14 @@ thanks for giving me a hand, とgiving me a leg and ribcageをかけた冗談だ
       </tuv>
       <tuv lang="JA" changeid="setom" changedate="20190402T084554Z" creationid="setom" creationdate="20190402T084051Z">
         <seg>猛暑の中では水を飲んで、日光対策のされた衣服を着ましょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to create a tangible effect, one must cast a combination of runes in a set order.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024300Z" creationid="pugnus" creationdate="20190509T024226Z">
+        <seg>目に見える効果を生み出すためには、「ルーンの組み合わせ」を「決まった順序」で詠唱しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75674,6 +75690,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190509T023944Z" creationid="pugnus" creationdate="20190509T023808Z">
         <seg>ルーンは非常に柔軟な魔法の形であり、試行錯誤が必要になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Runes typically linger upon the caster after they're invoked.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T024232Z" creationid="pugnus" creationdate="20190509T024144Z">
+        <seg>ルーンは通常、呼び出された後に詠唱者に力を付与します。</seg>
       </tuv>
     </tu>
     <tu>
