@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12208,6 +12208,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alright, I'll take it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T071725Z" creationid="taman" creationdate="20190509T071725Z">
+        <seg>では受け取ろうじゃないか。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alright, I’ll go check on Cierzo and talk to Burac.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190428T031429Z" creationid="urakata" creationdate="20190428T031429Z">
@@ -17836,6 +17844,14 @@ Vigil crystalも同様に翻訳の統一が決まってないので保留とい�
       </tuv>
       <tuv lang="JA" changeid="seto" changedate="20190410T101605Z" creationid="seto" creationdate="20190410T101605Z">
         <seg>でも外に行かないといけないんだ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But I won't forget you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T072518Z" creationid="taman" creationdate="20190509T072518Z">
+        <seg>だがお前のその態度は忘れんぞ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39315,6 +39331,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hmm... alright, I'll take it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T072421Z" creationid="taman" creationdate="20190509T072421Z">
+        <seg>うーむ……ではいただくぞ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hmm... this is not bad.</seg>
       </tuv>
       <tuv lang="JA" changeid="pugnus" changedate="20190422T093523Z" creationid="pugnus" creationdate="20190422T093523Z">
@@ -42631,6 +42655,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I know a good deal when I see one.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T072332Z" creationid="taman" creationdate="20190509T072332Z">
+        <seg>良い取引というものは見れば分かるのだよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I know exactly what I have to do.</seg>
       </tuv>
       <tuv lang="JA" changeid="urakata" changedate="20190430T130602Z" creationid="urakata" creationdate="20190430T130602Z">
@@ -44593,6 +44625,14 @@ Bergはベルクなのか？音ではバーグだと感じる。
       </tuv>
       <tuv lang="JA" changeid="Light" changedate="20190405T133123Z" creationid="Light" creationdate="20190405T133123Z">
         <seg>僕はしばらく休める場所を探すよ、そして君の賛歌を歌いながら家に帰るさ！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'll forget that you bribed me, this time.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T072453Z" creationid="taman" creationdate="20190509T072453Z">
+        <seg>今回、私を買収しようとしたことは見なかったことにしよう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58699,6 +58739,14 @@ make it up=償う</note>
       </tuv>
       <tuv lang="JA" changeid="taman" changedate="20190421T133734Z" creationid="taman" creationdate="20190421T133734Z">
         <seg>足はどうやら低地で開けた場所にありそうだ……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My my, she must really mean a lot to you...</seg>
+      </tuv>
+      <tuv lang="JA" changeid="taman" changedate="20190509T071807Z" creationid="taman" creationdate="20190509T071716Z">
+        <seg>これはこれは、お前にとって彼女はそれほど大切な存在なのか……</seg>
       </tuv>
     </tu>
     <tu>
