@@ -64040,6 +64040,14 @@ Notification_Need_Fatigue_Tired</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Or, I suppose if the Collective owes you a Tribal Favor, I can make an exception to my rules and teach you.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="pugnus" changedate="20190509T032646Z" creationid="pugnus" creationdate="20190509T032646Z">
+        <seg>あぁ、もしあなたが「部族の行為」を所持しているのであれば、私の大好物「王冠のジビエ」はあきらめてもよいですよ。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Divine Assistanceは機械翻訳で翻訳済み？援助のイメージが違和感ありすぎる。スタミナ、マナの消費が10％軽減されるようになる。</note>
       <tuv lang="EN-US">
         <seg>Or, gain my Divine Assistance, which shall let you fight and cast spells with more ease.</seg>
