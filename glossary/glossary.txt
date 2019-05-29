@@ -634,11 +634,6 @@ Mist Potion	霞の水薬
 Blessed Potion	祝福の水薬
 Possessed Potion	憑依の水薬
 Stealth Potion	隠密の水薬
-Weather Def.	お天気タエール	錬金術：お天気タエール
-Elemental Res.	エレ・メンタール	錬金術：エレ・メンタール
-Stability Potion	体幹タモッツ	錬金術：体幹タモッツ
-Assassin’s Elixir	暗殺者の錬金薬
-Hex Cleaner	まじないプイプイ	錬金術：まじないプイプイ
 Stoneflesh Elixir	ストーンフレッシュ
 Warrior Elixir	戦士の万能薬
 Survivor Elixir	生存者の薬
@@ -651,7 +646,6 @@ Bouillon du Predateur	捕食者のブイヨンスープ	料理：捕食者のブ
 Obsidian Pistol	黒曜石のピストル	作成：黒曜石のピストル
 Manticore Dagger	マンティコアの短剣	作成：マンティコアの短剣
 Shiv Dagger	折りたたみダガー	Shiv とは折りたたみ式の「ナイフ」や「カミソリ」を意味するスラング
-Bone Pistol	骨ピストル
 Charge – Incendiary	罠用装填品「焼夷」	錬金術：罠用焼夷装填薬
 Charge – Toxic	罠用装填品「有毒」	錬金術：罠用装填品「有毒」
 Charge – Nerve Gas	罠用装填品「神経ガス」	錬金術：罠用装填品「神経ガス」
@@ -756,10 +750,7 @@ Frost Bullet	氷の弾丸
 Blood Bullet	血の弾丸
 Shatter Bullet	散弾
 Marathoner	長距離走者
-Weather Tolerance	天候への寛容さ
 Spellblade's Awakening	呪文の刃の覚醒
-Steady Arm	安定した腕
-Fitness	身体の健康
 Master of Motion	動作の達人
 Steadfast Ascetic	確固たる行者
 Slow Metabolism	緩やかな代謝
@@ -796,7 +787,6 @@ Divine Protection	神の保護
 Sanctified Protection	聖なる保護
 Divine Assistance	神の援助
 Sanctified Assistance	聖なる援助
-Peacemaker Elixir	紛争調停者の錬金薬
 Blood of Giants	巨人の血脈
 Ancestors' Memories	先祖の記憶
 Alchemical Experiment	錬金術の実験
@@ -880,3 +870,13 @@ Vanasse	ヴァナッス	カリーヌ・ヴァナッス（Karine Vanasse）は、
 Lawbringer	法をもたらす者	Azor, the Lawbringer / 法をもたらす者、アゾール
 Ziggurat	ジグラット	古代メソポタミアの都市に、山をかたどって階層状に造られた建造物。その上に神殿が建てられた。バビロニアにあったものは、聖書にいうバベルの塔として伝えられている。
 the gates of catharsis	カタルシスの門
+Weather Def.	保温の水薬	錬金術：保温の水薬
+Elemental Res.	元素耐性の水薬	錬金術：元素耐性の水薬
+Stability Potion	不動の水薬	錬金術：不動の水薬
+Assassin’s Elixir	暗殺者の霊薬
+Hex Cleaner	呪い落とし	錬金術：呪い落とし
+Bone Pistol	骨のピストル
+Weather Tolerance	気候に柔軟
+Steady Arm	揺るぎない腕
+Fitness	壮健
+Peacemaker Elixir	調停者の霊薬
